@@ -1,0 +1,65 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Management’s Discussion and Analysis
+This Management’s Discussion and Analysis highlights the material changes in the results of operations and changes in financial condition for each of the three years in the period ended December 31, 2021. It should be read in conjunction with the accompanying Consolidated Financial Statements, Notes to Consolidated Financial Statements, and other financial statistics appearing elsewhere in this Annual Report on Form 10-K. Results of operations for the periods included in this review are not necessarily indicative of results to be attained during any future period.
+CAUTIONARY NOTICE ABOUT FORWARD-LOOKING STATEMENTS
+From time to time the Company has made, and in the future will make, forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. Forward-looking statements often use words such as “believe,” “expect,” “anticipate,” “intend,” “estimate,” “project,” “outlook,” “forecast,” “target,” “trend,” “plan,” “goal,” or other words of comparable meaning or future-tense or conditional verbs such as “may,” “will,” “should,” “would,” or “could.” Forward-looking statements convey the Company’s expectations, intentions, or forecasts about future events, circumstances, results, or aspirations.
+This report, including any information incorporated by reference in this report, contains forward-looking statements. The Company also may make forward-looking statements in other documents that are filed or furnished with the SEC. In addition, the Company may make forward-looking statements orally or in writing to investors, analysts, members of the media, or others.
+All forward-looking statements, by their nature, are subject to assumptions, risks, and uncertainties, which may change over time and many of which are beyond the Company’s control. You should not rely on any forward-looking statement as a prediction or guarantee about the future. Actual future objectives, strategies, plans, prospects, performance, conditions, or results may differ materially from those set forth in any forward-looking statement. While no list of assumptions, risks, or uncertainties could be complete, some of the factors that may cause actual results or other future events, circumstances, or aspirations to differ from those in forward-looking statements include:
+•
+local, regional, national, or international business, economic, or political conditions or events;
+•
+changes in laws or the regulatory environment, including as a result of financial-services legislation or regulation;
+•
+changes in monetary, fiscal, or trade laws or policies, including as a result of actions by central banks or supranational authorities;
+•
+changes in accounting standards or policies;
+•
+shifts in investor sentiment or behavior in the securities, capital, or other financial markets, including changes in market liquidity or volatility or changes in interest or currency rates;
+•
+changes in spending, borrowing, or saving by businesses or households;
+•
+the Company’s ability to effectively manage capital or liquidity or to effectively attract or deploy deposits;
+•
+changes in any credit rating assigned to the Company or its affiliates;
+•
+adverse publicity or other reputational harm to the Company;
+•
+changes in the Company’s corporate strategies, the composition of its assets, or the way in which it funds those assets;
+•
+the Company’s ability to develop, maintain, or market products or services or to absorb unanticipated costs or liabilities associated with those products or services;
+•
+the Company’s ability to innovate to anticipate the needs of current or future customers, to successfully compete in its chosen business lines, to increase or hold market share in changing competitive environments, or to deal with pricing or other competitive pressures;
+•
+changes in the credit, liquidity, or other condition of the Company’s customers, counterparties, or competitors;
+•
+the Company’s ability to effectively deal with economic, business, or market slowdowns or disruptions;
+•
+judicial, regulatory, or administrative investigations, proceedings, disputes, or rulings that create uncertainty for, or are adverse to, the Company or the financial-services industry;
+•
+the Company’s ability to address changing or stricter regulatory or other governmental supervision or requirements;
+•
+the Company’s ability to maintain secure and functional financial, accounting, technology, data processing, or other operating systems or facilities, including its capacity to withstand cyber-attacks;
+•
+the adequacy of the Company’s corporate governance, risk-management framework, compliance programs, or internal controls, including its ability to control lapses or deficiencies in financial reporting or to effectively mitigate or manage operational risk;
+•
+the efficacy of the Company’s methods or models in assessing business strategies or opportunities or in valuing, measuring, monitoring, or managing positions or risk;
+•
+the Company’s ability to keep pace with changes in technology that affect the Company or its customers, counterparties, or competitors;
+•
+mergers, acquisitions, or dispositions, including the Company’s ability to integrate acquisitions and divest assets;
+•
+the adequacy of the Company’s succession planning for key executives or other personnel;
+•
+the Company’s ability to grow revenue, control expenses, or attract and retain qualified employees;
+•
+natural disasters, war, terrorist activities, pandemics, or the outbreak of COVID-19 or similar outbreaks, and their effects on economic and business environment in which the Company operates;
+•
+adverse effects due to COVID-19 on the Company and its customers, counterparties, employees, and third-party service providers, and the adverse impacts to its business, financial position, results of operations, and prospects; or
+•
+other assumptions, risks, or uncertainties described in the Risk Factors (Item 1A), Management’s Discussion and Analysis of Financial Condition and Results of Operations (Item 7), or the Notes to the Consolidated Financial Statements (Item 8) in this Annual Report on Form 10-K or described in any of the Company’s annual, quarterly or current reports.
+Any forward-looking statement made by the Company or on its behalf speaks only as of the date that it was made. The Company does not undertake to update any forward-looking statement to reflect the impact of events, circumstances, or results that arise after the date that the statement was made, except as required by applicable securities laws. You, however, should consult further disclosures (including disclosures of a forward-looking nature) that the Company may make in any subsequent Annual Report on Form 10-K, Quarterly Report on Form 10-Q, or Current Report on Form 8-K.
+Results of Operations
+Overview
+During the first quarter of 2020, the global economy began experiencing a downturn related to the impacts of the COVID-19 global pandemic (the COVID-19 pandemic, or the pandemic). Such impacts have included significant volatility in the global stock and fixed income markets, a 150-basis-point reduction in the target federal funds rate, the enactment of the Coronavirus Aid, Relief, and Economic Security (CARES) Act and the American Rescue Plan Act of 2021, both authorizing the Paycheck Protection Program (PPP) administered by the Small Business Administration, and a variety of rulings from the Company’s banking regulators.
+The Company continues to actively monitor developments related to COVID-19 and its impact to its business, customers, employees, counterparties, vendors, and service providers. During the year ended December 31, 2021, the Company’s results of operations included continued maintenance of the allowance for credit losses (ACL) at a level appropriate given the state of key macroeconomic variables utilized in the econometric models at December 31, 2021. Additionally, the Company continued to see impacts of the volatile equity and debt markets and low interest rate environment in its fee-based businesses.
+In response to the COVID-19 pandemic, the Company formed a Pandemic Taskforce and a steering group comprised of associates across multiple lines of business and support functions and has taken several actions to offer various forms of support to its customers, employees, and communities that have experienced impacts resulting from the COVID-19 pandemic. The Company has also increased purchases of computer hardware to support a remote workforce, as well as incurred additional cleaning and janitorial expense to disinfect branch and office locations. The Company has actively worked with customers impacted by the economic downturn by offering payment deferrals and other loan modifications. See further details under “Credit Risk Management” within “

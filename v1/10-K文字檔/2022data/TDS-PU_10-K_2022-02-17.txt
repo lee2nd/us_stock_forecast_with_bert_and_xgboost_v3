@@ -1,0 +1,405 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Index to Management's Discussions and Analysis of Financial Condition and Results of Operations (MD&A) Page No.
+Executive Overview
+Terms used by TDS
+Results of Operations - TDS Consolidated
+UScellular Operations
+TDS Telecom Operations
+Liquidity and Capital Resources
+Consolidated Cash Flow Analysis
+Consolidated Balance Sheet Analysis
+Applications of Critical Accounting Policies and Estimates
+Regulatory Matters
+Private Securities Litigation Reform Act of 1995 Safe Harbor Cautionary Statement
+Market Risk
+Supplemental Information Relating to Non-GAAP Financial Measures
+Index to MD&A
+Telephone and Data Systems, Inc.
+Management’s Discussion and Analysis of Financial Condition
+and Results of Operations
+Executive Overview
+The following Management’s Discussion and Analysis (MD&A) should be read in conjunction with the audited consolidated financial statements and notes of Telephone and Data Systems, Inc. (TDS) for the year ended December 31, 2021, and with the description of TDS’ business included herein. Certain numbers included herein are rounded to millions for ease of presentation; however, certain calculated amounts and percentages are determined using the unrounded numbers.
+This report contains statements that are not based on historical facts, including the words “believes,” “anticipates,” “estimates,” “expects,” “plans,” “intends,” “projects” and similar expressions. These statements constitute and represent “forward looking statements” as this term is defined in the Private Securities Litigation Reform Act of 1995. Such forward looking statements involve known and unknown risks, uncertainties and other factors that may cause actual results, events or developments to be significantly different from any future results, events or developments expressed or implied by such forward looking statements. See Private Securities Litigation Reform Act of 1995 Safe Harbor Cautionary Statement for additional information.
+TDS uses certain “non-GAAP financial measures” and each such measure is identified in the MD&A. A discussion of the reason TDS determines these metrics to be useful and reconciliations of these measures to their most directly comparable measures determined in accordance with accounting principles generally accepted in the United States of America (GAAP) are included in the Supplemental Information Relating to Non-GAAP Financial Measures section within the MD&A of this Form 10-K Report.
+The following MD&A omits discussion of 2020 compared to 2019. Refer to Management's Discussion and Analysis of Financial Condition and Results of Operations in TDS' Annual Report on Form 10-K for the year ended December 31, 2020, filed with the SEC on February 18, 2021, for that discussion.
+General
+TDS is a diversified telecommunications company that provides high-quality communications services to approximately 6 million connections nationwide. TDS provides wireless services through its 82%-owned subsidiary, United States Cellular Corporation (UScellular). TDS also provides broadband, video and voice services through its wholly-owned subsidiaries, TDS Telecommunications LLC and TDS Broadband LLC (collectively, TDS Telecom). TDS operates entirely in the United States.
+During the first quarter of 2021, TDS modified its reporting segment structure to combine its Wireline and Cable segments into a single reportable segment for TDS Telecom. TDS Telecom believes this presentation better articulates its progress and performance against its strategy, which includes a focus on overall broadband growth and future fiber deployment across its markets. This change also reflects TDS Telecom's progress in aligning its organizational, operational and support structures to leverage one cost base to better support its customers across all of its markets. Prior periods have been updated to conform to this revised presentation. See Note 19 - Business Segment Information in the Notes to Consolidated Financial Statements for additional information about TDS' segments.
+The coronavirus (COVID-19) pandemic did not have a material impact on TDS' financial results in 2021. The impact of COVID-19 on TDS' future financial results is uncertain, but is not projected to have a material impact. However, there are many factors, including the severity and duration of the pandemic, as well as other direct and indirect impacts, that could negatively impact TDS.
+2021 Operating Revenues by Segment
+Index to MD&A
+TDS Mission and Strategy
+TDS’ mission is to provide outstanding communications services to its customers and meet the needs of its shareholders, its people, and its communities. In pursuing this mission, TDS seeks to grow its businesses, create opportunities for its associates, support the communities it serves, and build value over the long term for its shareholders. Across all of its businesses, TDS is focused on providing exceptional customer experiences through best-in-class services and products and superior customer service. Since its founding, TDS has been committed to bringing high-quality communications services to rural and underserved communities. TDS continues to make progress on developing and enhancing its ESG program, including the publication of the first TDS ESG Report in 2021.
+TDS’ long-term strategy calls for the majority of its operating capital to be reinvested in its businesses to strengthen their competitive positions and financial performance, while also returning value to TDS shareholders primarily through the payment of a regular quarterly cash dividend.
+In 2021, TDS continued to focus on investing in the networks that are the backbone of its commitment to provide outstanding communications services to its customers. TDS believes these investments strengthen its competitive position and improve operating performance. TDS expects to continue to execute on its strategies to build strong, competitive businesses providing high-quality, data-focused services and products.
+During 2021, TDS paid regular quarterly cash dividends to common and preferred shareholders of $80 million and $39 million, respectively. TDS increased the dividend per Common Share paid to its investors by 3% in 2021 which marks the 47th consecutive year of dividend increases and in February 2022, TDS increased its quarterly dividend per Common Share from $0.175 to $0.180. During 2021, TDS repurchased 402,989 Common Shares for $8 million at an average cost per share of $19.04. As of December 31, 2021, the maximum dollar value of TDS Common Shares that may yet be purchased under TDS' program was $177 million. There is no assurance that TDS will continue to increase the dividend rate or pay dividends and no assurance that TDS will make any significant amount of share repurchases in the future.
+Index to MD&A
+Terms Used by TDS
+The following is a list of definitions of certain industry terms that are used throughout this document:
+▪4G LTE - fourth generation Long-Term Evolution, which is a wireless technology that enables more network capacity for more data per user as well as faster access to data compared to third generation (3G) technology.
+▪5G - fifth generation wireless technology that helps address customers’ growing demand for data services and creates opportunities for new services requiring high speed and reliability as well as low latency.
+▪Account - represents an individual or business financially responsible for one or multiple associated connections. An account may include a variety of types of connections such as handsets and connected devices.
+▪Alternative Connect America Cost Model (A-CAM) - a USF support mechanism for certain carriers, which provides revenue support through 2028. This support comes with an obligation to build defined broadband speeds to a certain number of locations.
+▪Auctions 105, 107 and 110 - Auction 105 was an FCC auction of 3.5 GHz wireless spectrum licenses that started in July 2020 and concluded in September 2020. Auction 107 was an FCC auction of 3.7-3.98 GHz wireless spectrum licenses that started in December 2020 and concluded in February 2021. Auction 110 was an FCC auction of 3.45-3.55 GHz wireless spectrum licenses that started in October 2021 and concluded in January 2022.
+▪Broadband Connections - refers to the individual customers provided high-speed internet access through various transmission technologies, including fiber, DSL, dedicated internet circuit technologies or cable modem service.
+▪Broadband Penetration - metric which is calculated by dividing total broadband connections by total service addresses.
+▪Churn Rate - represents the percentage of the connections that disconnect service each month. These rates represent the average monthly churn rate for each respective period.
+▪Connected Devices - non-handset devices that connect directly to the UScellular network. Connected devices include products such as tablets, wearables, modems, and hotspots.
+▪Coronavirus Aid, Relief, and Economic Security (CARES) Act - economic relief package signed into law on March 27, 2020 to address the public health and economic impacts of COVID-19, including a variety of tax provisions.
+▪DOCSIS - Data Over Cable Service Interface Specification is an international telecommunications standard that permits the addition of high-bandwidth data transfer to an existing cable TV (CATV) system. DOCSIS 3.1 is a system specification that increases data transmission rates.
+▪EBITDA - refers to earnings before interest, taxes, depreciation, amortization and accretion and is used in the non-GAAP metric Adjusted EBITDA throughout this document. See Supplemental Information Relating to Non-GAAP Financial Measures within this MD&A for additional information.
+▪Eligible Telecommunications Carrier (ETC) - designation by states for providing specified services in “high cost” areas which enables participation in universal service support mechanisms.
+▪Expansion Markets - markets utilizing fiber networks in areas where TDS does not serve as the incumbent service provider.
+▪Free Cash Flow - non-GAAP metric defined as Cash flows from operating activities less Cash paid for additions to property, plant and equipment. See Supplemental Information Relating to Non-GAAP Financial Measures within this MD&A for additional information.
+▪Gross Additions - represents the total number of new connections added during the period, without regard to connections that were terminated during that period.
+▪Incumbent Markets - markets where TDS is positioned as the traditional local telephone or cable company.
+▪IPTV - internet protocol television.
+▪Net Additions (Losses) - represents the total number of new connections added during the period, net of connections that were terminated during that period.
+▪OIBDA - refers to operating income before depreciation, amortization and accretion and is used in the non-GAAP metric Adjusted OIBDA throughout this document. See Supplemental Information Relating to Non-GAAP Financial Measures within this MD&A for additional information.
+▪Postpaid Average Revenue per Account (Postpaid ARPA) - metric which is calculated by dividing total postpaid service revenues by the average number of postpaid accounts and by the number of months in the period.
+▪Postpaid Average Revenue per User (Postpaid ARPU) - metric which is calculated by dividing total postpaid service revenues by the average number of postpaid connections and by the number of months in the period.
+▪Residential Revenue per Connection - metric which is calculated by dividing total residential revenue by the average number of residential connections and by the number of months in the period.
+▪Retail Connections - the sum of UScellular postpaid connections and UScellular prepaid connections.
+▪Service Addresses - number of single residence homes, multi-dwelling units, and business locations that are capable of being connected to the TDS network, based on best available information.
+▪Universal Service Fund (USF) - a system of telecommunications collected fees and support payments managed by the FCC intended to promote universal access to telecommunications services in the United States.
+▪UScellular Connections - individual lines of service associated with each device activated by a customer. Connections include all types of devices that connect directly to the UScellular network.
+▪Video Connections - represents the individual customers provided video services.
+▪Voice Connections - refers to the individual circuits connecting a customer to TDS’ central office facilities that provide voice services or the billable number of lines into a building for voice services.
+▪VoLTE - Voice over Long-Term Evolution is a technology specification that defines the standards and procedures for delivering voice communications and related services over 4G LTE networks.
+Index to MD&A
+Results of Operations - TDS Consolidated
+N/M - Percentage change not meaningful
+1 Consists of corporate and other operations and intercompany eliminations.
+2 Refer to Supplemental Information Relating to Non-GAAP Financial Measures within this MD&A for a reconciliation of this measure.
+3 Refer to Liquidity and Capital Resources within this MD&A for additional information on Capital expenditures.
+Refer to individual segment discussions in this MD&A for additional details on operating revenues and expenses at the segment level.
+Index to MD&A
+Equity in earnings of unconsolidated entities
+Equity in earnings of unconsolidated entities represents TDS’ share of net income from entities in which it has a noncontrolling interest and that are accounted for using the equity method. TDS’ investment in the Los Angeles SMSA Limited Partnership (LA Partnership) contributed pre-tax income of $82 million for both 2021 and 2020. See Note 8 - Investments in Unconsolidated Entities in the Notes to Consolidated Financial Statements for additional information.
+Interest expense
+Interest expense increased in 2021, primarily as a result of (i) the issuance of $500 million of 6.25% UScellular Senior Notes in August 2020 and $500 million of 5.50% UScellular Senior Notes in both December 2020 and May 2021 and (ii) the write off of $57 million of unamortized debt issuance costs related to Senior Notes that were redeemed in 2021. These increases were partially offset by a reduction in interest expense due to the redemptions of Senior Notes with higher interest rates. See Note 12 - Debt in the Notes to Consolidated Financial Statements for additional information.
+Income tax expense
+The effective tax rate on Income before income taxes was 15.1% for 2021, compared to 6.4% in 2020. The higher effective tax rate in 2021 as compared to 2020 is due primarily to the income tax benefits of the CARES Act included in the 2020 tax rate, which do not recur as benefits in the 2021 tax rate. The 2021 tax rate includes a state tax benefit due primarily to the reductions of tax accruals from expirations of state statute of limitations for prior tax years.
+In early 2022, TDS received an income tax refund of $125 million related to the 2020 net operating loss carryback enabled by the CARES Act.
+See Note 5 - Income Taxes in the Notes to Consolidated Financial Statements for additional information.
+Net income attributable to noncontrolling interests, net of tax
+Net income attributable to noncontrolling interests, net of tax includes the noncontrolling public shareholders’ share of UScellular’s net income, the noncontrolling shareholders’ or partners’ share of certain UScellular subsidiaries’ net income and other TDS noncontrolling interests.
+Index to MD&A
+Earnings
+(Dollars in millions)
+Net income decreased in 2021 due primarily to higher operating, interest, and income tax expenses, partially offset by higher operating revenues. Adjusted EBITDA decreased in 2021 due primarily to higher operating expenses, partially offset by higher operating revenues.
+*Represents a non-GAAP financial measure. Refer to Supplemental Information Relating to Non-GAAP Financial Measures within this MD&A for a reconciliation of this measure.
+Index to MD&A
+UScellular OPERATIONS
+Business Overview
+UScellular owns, operates, and invests in wireless markets throughout the United States. UScellular is an 82%-owned subsidiary of TDS. UScellular’s strategy is to attract and retain wireless customers through a value proposition comprised of a high-quality network, outstanding customer service and competitive devices, plans, and pricing - all provided with a community focus.
+OPERATIONS
+▪Serves customers with 5.0 million connections including 4.4 million postpaid, 0.5 million prepaid and 0.1 million reseller and other connections
+▪Operates in 21 states
+▪Employs approximately 4,800 associates
+▪4,301 owned towers
+▪6,898 cell sites in service
+Index to MD&A
+UScellular Mission and Strategy
+UScellular’s mission is to provide exceptional wireless communication services which enhance consumers’ lives, increase the competitiveness of local businesses, and improve the efficiency of government operations in the markets UScellular serves.
+UScellular’s strategy is to attract and retain customers through a value proposition comprising a high-quality network, outstanding customer service and competitive devices, plans and pricing - all provided with a community focus. Strategic efforts include:
+▪UScellular offers economical and competitively priced service plans and devices to its customers and is focused on increasing revenues from sales of related products such as device protection plans and from new services such as fixed wireless home internet. In addition, UScellular is focused on increasing revenues from prepaid plans and expanding its solutions available to business and government customers.
+▪UScellular continues to devote efforts to enhance its network capabilities, including by deploying 5G technology. 5G technology helps address customers’ growing demand for data services and creates opportunities for new services requiring high speed and reliability as well as low latency. UScellular's 5G deployment is initially focused on mobility services using its low band spectrum. UScellular has acquired high-band and mid-band spectrum, deployed high-band spectrum on a limited basis, and will further deploy high-band and mid-band in the future to further enable the delivery of 5G services. UScellular has launched commercial 5G services in portions of substantially all of UScellular’s markets and will continue to launch in additional areas in the coming years.
+▪UScellular assesses its existing wireless interests on an ongoing basis with a goal of improving the competitiveness of its operations and maximizing its long-term return on capital. As part of this strategy, UScellular actively seeks attractive opportunities to acquire wireless spectrum, including pursuant to FCC auctions.
+Index to MD&A
+Operational Overview - UScellular
+N/M - Percentage change not meaningful
+Total postpaid handset net losses decreased in 2021 due primarily to an increase in gross additions as a result of higher consumer switching activity, partially offset by an increase in postpaid handset churn.
+Total postpaid connected device net additions decreased in 2021 due primarily to lower demand for internet related products as a result of a reduction in COVID-related funding vehicles, many of which are connected to government subsidies.
+Macroeconomic factors, including the continuing impacts of the ongoing COVID-19 pandemic, have caused some supply chain disruption and delays, including constraints on certain devices. These supply constraints are due primarily to component availability, resulting in extended lead times and additional uncertainty, which may negatively impact UScellular in future periods.
+Postpaid Revenue
+Postpaid ARPU and Postpaid ARPA increased in 2021, due primarily to (i) favorable plan and product offering mix, (ii) an increase in regulatory recovery revenues and (iii) an increase in device protection plan revenues. These increases were partially offset by an increase in promotional discounts.
+2021 Postpaid ARPU and ARPA amounts exclude $9 million of postpaid revenue related to an out-of-period error recorded in the third quarter. See Note 2 - Revenue Recognition in the Notes to Consolidated Financial Statements for additional information.
+Index to MD&A
+Financial Overview - UScellular
+N/M - Percentage change not meaningful
+1 Refer to Supplemental Information Relating to Non-GAAP Financial Measures within this MD&A for a reconciliation of this measure.
+2 Refer to Liquidity and Capital Resources within this MD&A for additional information on Capital expenditures.
+Index to MD&A
+Operating Revenues
+(Dollars in millions)
+Service revenues consist of:
+▪Retail Service - Charges for voice, data and value added services and recovery of regulatory costs
+▪Inbound Roaming - Charges to other wireless carriers whose customers use UScellular’s wireless systems when roaming
+▪Other Service - Amounts received from the Federal USF, tower rental revenues, and miscellaneous other service revenues
+Equipment revenues consist of:
+▪Sales of wireless devices and related accessories to new and existing customers, agents, and third-party distributors
+Key components of changes in the statement of operations line items were as follows:
+Total operating revenues
+Retail service revenues increased in 2021, primarily as a result of an increase in Postpaid ARPU as previously discussed in the Operational Overview section as well as an increase in the average number of postpaid subscribers.
+Inbound roaming revenues decreased in 2021, primarily driven by lower data revenues resulting from lower usage and lower rates. UScellular expects inbound roaming revenues to continue to decline during 2022 relative to prior year levels.
+Other service revenues increased in 2021, resulting from increases in tower rental revenues and miscellaneous other service revenues.
+Equipment sales revenues increased in 2021, due primarily to an increase in the volume of new smartphone and accessory sales, partially offset by higher promotional activity.
+In recent periods, wireless service providers have increased promotional aggressiveness to attract new customers and retain existing customers. Operating revenues and Operating income may be negatively impacted in future periods by the competitive need to continue to offer significant promotional discounts to new and existing customers.
+System operations expenses
+System operations expenses increased in 2021, due primarily to higher circuit costs and an increase in cell site rent expense, partially offset by a decrease in roaming expense driven by lower rates.
+Cost of equipment sold
+Cost of equipment sold increased in 2021, due primarily to an increase in the volume of new smartphone and accessory sales.
+Selling, general and administrative expenses
+Selling, general and administrative expenses decreased in 2021, due primarily to decreases in (i) bad debts expense driven by fewer non-pay customers as a result of better credit mix and improved customer payment behavior and (ii) advertising expense due to reduced media spend.
+Index to MD&A
+TDS TELECOM OPERATIONS
+Business Overview
+TDS Telecom owns, operates and invests in communications services in a mix of rural and suburban communities throughout the United States. TDS Telecom is a wholly-owned subsidiary of TDS and provides a wide range of broadband, video and voice communications services to residential, commercial and wholesale customers. TDS Telecom's strategy is to be the preferred broadband provider in the markets it serves. TDS Telecom invests in high-quality networks, services and products, with the constant focus on delivering a best-in-class customer experience.
+OPERATIONS
+▪Serves 1.2 million connections in 32 states.
+▪Employs approximately 3,000 associates.
+Index to MD&A
+TDS Telecom Mission and Strategy
+TDS Telecom's mission is to provide outstanding communications services to delight its customers, to champion economic development by investing in infrastructure, and to grow rapidly.
+TDS Telecom's strategic efforts include:
+▪TDS Telecom strives to be the preferred broadband provider in its markets with the ability to provide value-added bundling with video and voice service options. TDS Telecom focuses on driving growth by investing in fiber deployment in its expansion markets and its incumbent markets that have historically utilized copper and coaxial cable technologies.
+▪TDS Telecom may also seek to grow its operations through the acquisition of businesses that support and complement its existing markets or by creating entirely new clusters of markets in attractive locations. Fiber builds in strategically selected locations allow TDS Telecom to target attractive, growing markets to increase its total footprint.
+Index to MD&A
+Operational Overview - TDS Telecom
+Total Service Address Mix
+As of December 31,
+TDS Telecom grew its service addresses 7% from 1.3 million to 1.4 million through network expansion and now offers 1Gig service to 58% of its total footprint.
+TDS Telecom serves 43% of its wireline service addresses with fiber-to-the-home as of December 31, 2021, compared to 36% a year ago.
+Numbers may not foot due to rounding.
+Total connections are flat despite strong broadband connection growth due to offsetting decreases in legacy voice, video, and competitive local exchange carrier (CLEC) connections.
+A majority of TDS Telecom's residential customers take advantage of bundling options as 62% of customers subscribe to more than one service.
+Index to MD&A
+Residential Broadband Connections by Speed
+As of December 31,
+Residential broadband customers continue to choose higher speeds with 66% taking speeds of 100 Mbps or greater and 8% choosing 1Gig.
+Residential Revenue per Connection
+For the year ended December 31,
+Total residential revenue per connection increased 5% for 2021, due to a higher concentration of broadband connections as well as an increase in broadband speeds and price increases.
+Index to MD&A
+Financial Overview - TDS Telecom
+Numbers may not foot due to rounding.
+N/M - Percentage change not meaningful.
+1 Refer to Supplemental Information Relating to Non-GAAP Financial Measures within this MD&A for a reconciliation of this measure.
+2 Refer to Liquidity and Capital Resources within this MD&A for additional information on Capital expenditures.
+Index to MD&A
+Operating Revenues
+(Dollars in millions)
+Residential revenues consist of:
+•Broadband services, including security and support services
+•Video services, including IPTV, traditional cable programming and satellite offerings
+•Voice services
+Commercial revenues consist of:
+•High-speed and dedicated business internet services
+•Video services
+•Voice services
+Wholesale revenues consist of:
+•Network access services primarily to interexchange and wireless carriers for carrying data and voice traffic on TDS Telecom's networks
+•Federal and state USF support, including A-CAM
+Key components of changes in the statement of operations items were as follows:
+Total operating revenues
+Residential revenues increased for 2021 due primarily to growth in broadband connections, price increases and federal universal service charges, partially offset by a decline in voice and video connections.
+Commercial revenues decreased for 2021 due primarily to declining connections in CLEC markets, partially offset by an increase in broadband connections.
+Wholesale revenues decreased for 2021 due primarily to decreased access revenues and regulatory support.
+Cost of services
+Cost of services increased for 2021 due primarily to higher employee expenses to support current and future growth, increased video programming costs, plant and maintenance costs, partially offset by a decrease in building expenses and the cost of providing legacy services.
+Selling, general and administrative
+Selling, general and administrative expenses increased for 2021 due primarily to higher employee expenses to support current and future growth, project costs associated with a new customer management system, charges for federal universal service support, call center and advertising expenses in TDS Telecom's expansion markets.
+Depreciation, amortization and accretion
+Depreciation, amortization and accretion decreased for 2021 due primarily to certain assets becoming fully depreciated, partially offset by higher depreciation due to increased capital expenditures on new fiber assets throughout 2020 and 2021 and increased software amortization.
+Index to MD&A
+Liquidity and Capital Resources
+Sources of Liquidity
+TDS and its subsidiaries operate capital-intensive businesses. In the past, TDS’ existing cash and investment balances, funds available under its revolving credit and receivables securitization agreements, funds from other financing sources, including term loans, other long-term debt, preferred share offerings, and cash flows from operating and certain investing and financing activities, including sales of assets or businesses, provided sufficient liquidity and financial flexibility for TDS to meet its normal day-to-day operating needs and debt service requirements, to finance the build-out and enhancement of markets and to fund acquisitions. There is no assurance that this will be the case in the future. See Market Risk for additional information regarding maturities of long-term debt.
+TDS has incurred negative free cash flow at times in the past and this could occur in the future. However, TDS believes that existing cash and investment balances, funds available under its revolving credit, term loan and receivables securitization agreements, expected future tax refunds and expected cash flows from operating and investing activities will provide sufficient liquidity for TDS to meet its normal day-to-day operating needs and debt service requirements for the foreseeable future. TDS will continue to monitor the rapidly changing business and market conditions and plans to take appropriate actions, as necessary, to meet its liquidity needs.
+TDS may require substantial additional capital for, among other uses, funding day-to-day operating needs including working capital, acquisitions of providers of telecommunications services, wireless spectrum license acquisitions, capital expenditures, agreements to purchase goods or services, leases, debt service requirements, the repurchase of shares, the payment of dividends, or making additional investments, including new technologies and fiber builds. It may be necessary from time to time to increase the size of the existing revolving credit agreements, to put in place new credit agreements, or to obtain other forms of financing in order to fund potential expenditures.
+Cash and Cash Equivalents
+Cash and cash equivalents include cash and money market investments. The primary objective of TDS’ Cash and cash equivalents investment activities is to preserve principal. TDS does not have direct access to UScellular cash.
+Cash and Cash Equivalents
+(Dollars in millions)
+The majority of TDS’ Cash and cash equivalents are held in bank deposit accounts and in money market funds that purchase only debt issued by the U.S. Treasury or U.S. government agencies. Refer to the Consolidated Cash Flow Analysis for additional information related to changes in Cash and cash equivalents.
+In addition to Cash and cash equivalents, TDS and UScellular had undrawn borrowing capacity from existing debt facilities of $699 million and $950 million, respectively, at December 31, 2021. Additional financing activity subsequent to December 31, 2021 reduced the undrawn borrowing capacity for TDS and UScellular to $549 million and $615 million, respectively, at February 17, 2022. See the Financing section below for further details.
+Index to MD&A
+Financing
+Revolving Credit Agreements
+In July 2021, TDS entered into an amended and restated $400 million unsecured revolving credit agreement with certain lenders and other parties and UScellular entered into an amended and restated $300 million unsecured revolving credit agreement with certain lenders and other parties. Amounts under the amended and restated revolving credit agreements may be borrowed, repaid and reborrowed from time to time until maturity in July 2026. As of December 31, 2021, there were no outstanding borrowings under the revolving credit agreements, except for letters of credit, and TDS' and UScellular’s unused borrowing capacity was $399 million and $300 million, respectively. In January 2022, UScellular borrowed $75 million under its revolving credit agreement and in February 2022, repaid the entire borrowing.
+Term Loan Agreements
+In July 2021, TDS and UScellular amended and restated their term loan agreements to allow for additional borrowing capacity of $300 million and $200 million, respectively, to allow for total borrowing capacity of $500 million for each of TDS and UScellular. The additional borrowing capacity may be drawn in one or more advances by the one-year anniversary of the date of the agreement; amounts not drawn by that time will cease to be available. The maturity date for the existing borrowings is in July 2028 and for any additional borrowings is in July 2031. As of December 31, 2021, TDS' and UScellular's outstanding borrowings under the term loan agreements were $200 million and $299 million, respectively, and TDS' and UScellular's unused borrowing capacity was $300 million and $200 million, respectively. In January 2022, TDS borrowed $150 million and UScellular borrowed $100 million under the term loan agreements.
+In December 2021, UScellular entered into an additional $300 million term loan agreement. The agreement may be drawn in one or more advances by the three-month anniversary of the date of the agreement; amounts not drawn by that time will cease to be available. The maturity date for the agreement is in July 2026. As of December 31, 2021, there were no outstanding borrowings under the term loan agreement and the unused borrowing capacity was $300 million. In February 2022, UScellular borrowed $225 million under the term loan agreement.
+Export Credit Financing Agreement
+In December 2021, UScellular entered into a $150 million term loan credit facility with Export Development Canada to finance (or refinance) equipment imported from Canada, including equipment purchased prior to entering the term loan credit facility agreement. The agreement may be drawn in one or more advances by the three-month anniversary of the date of the agreement; amounts not drawn by that time will cease to be available. The maturity date of the agreement is the five-year anniversary of the first borrowing, which is in January 2027. As of December 31, 2021, there were no outstanding borrowings under the credit facility and the unused borrowing capacity was $150 million. In January 2022, UScellular borrowed $150 million under the agreement.
+Receivables Securitization Agreement
+UScellular, through its subsidiaries, has a receivables securitization agreement to permit securitized borrowings using its equipment installment plan receivables. In June 2021, UScellular increased the borrowing capacity under the receivables securitization agreement to $450 million. Amounts under the receivables securitization agreement may be borrowed, repaid and reborrowed from time to time until December 2022. Unless the agreement is amended to extend the maturity date, repayments based on receivable collections commence in January 2023. As of December 31, 2021, UScellular has borrowed the full amount available under the agreement of $450 million.
+Repurchase Agreement
+In January 2022, UScellular, through a subsidiary (the repo subsidiary), entered into a repurchase agreement to borrow up to $200 million, subject to the availability of eligible equipment installment plan receivables and the agreement of the lender. The transaction is accounted for as a one-month secured borrowing. The expiration date of the repurchase agreement is in January 2023. In February 2022, the repo subsidiary borrowed $60 million under the repurchase agreement.
+Financial Covenants
+The TDS and UScellular revolving credit agreements, senior term loan agreements and the UScellular receivables securitization and export credit financing agreements require TDS or UScellular, as applicable, to comply with certain affirmative and negative covenants, which include certain financial covenants. In particular, under these agreements, TDS and UScellular are required to maintain the Consolidated Interest Coverage Ratio at a level not lower than 3.00 to 1.00 as of the end of any fiscal quarter. TDS and UScellular also were required to maintain the Consolidated Leverage Ratio at a level not to exceed 3.75 to 1.00 as of the end of any fiscal quarter. TDS and UScellular believe they were in compliance as of December 31, 2021 with all such financial covenants.
+Other Long-Term Financing
+In August 2020, UScellular issued $500 million of 6.25% Senior Notes due in 2069 and in December 2020, UScellular issued $500 million of 5.5% Senior Notes due in March 2070. The proceeds from both issuances were for general corporate purposes, including but not limited to, the purchase of additional wireless spectrum licenses acquired in Auction 107, funding of capital expenditures, including in connection with 5G buildout projects and retirement of existing debt.
+Index to MD&A
+In March 2021, TDS issued 16,800 shares of 6.625% Series UU Cumulative Redeemable Perpetual Preferred Stock (Preferred Shares) for $25,000 per Preferred Share, for total gross proceeds of $420 million. The Preferred Shares were issued to a depositary to facilitate the issuance of 16,800,000 depositary shares, each representing 1/1,000th of a Preferred Share. TDS received net cash proceeds of $406 million after payment of issuance costs of $14 million. The proceeds were for general corporate purposes, including but not limited to, the funding of capital expenditures associated with TDS Telecom's fiber program and retirement of existing debt. See Note 17 - Shareholders’ Equity in the Notes to Consolidated Financial Statements for additional information related to TDS' Preferred Shares.
+In May 2021, TDS redeemed its outstanding $225 million of 6.875% Senior Notes due 2059 and $300 million of 7.0% Senior Notes due 2060, and UScellular redeemed its outstanding $275 million of 7.25% Senior Notes due 2063. At time of redemption, $26 million of interest expense was recorded related to unamortized debt issuance costs for these notes. The notes were redeemed at a price of 100% of the principal amount, including accrued and unpaid interest to the redemption date.
+In May 2021, UScellular issued $500 million of 5.5% Senior Notes due in June 2070. The proceeds from the issuance were used for general corporate purposes, including but not limited to, the repayment of other debt, the purchase of additional spectrum and the funding of capital expenditures, including in connection with 5G buildout projects.
+In June 2021, UScellular redeemed its outstanding $300 million of 7.25% Senior Notes due 2064. At time of redemption, $10 million of interest expense was recorded related to unamortized debt issuance costs for these notes. The notes were redeemed at a price of 100% of the principal amount, including accrued and unpaid interest to the redemption date.
+In August 2021, TDS issued 27,600 shares of 6.000% Series VV Preferred Shares for $25,000 per Preferred Share, for total gross proceeds of $690 million. The Preferred Shares were issued to a depositary to facilitate the issuance of 27,600,000 depositary shares, each representing 1/1,000th of a Preferred Share. TDS received net cash proceeds of $668 million after payment of issuance costs of $22 million. The proceeds were for general corporate purposes, including but not limited to, the funding of capital expenditures associated with TDS Telecom's fiber program and retirement of existing debt. See Note 17 - Shareholders' Equity in the Notes to Consolidated Financial Statements for additional information related to TDS' Preferred Shares.
+In September 2021, TDS redeemed its outstanding $116 million of 6.625% Senior Notes due 2045 and UScellular redeemed its outstanding $342 million of 6.95% Senior Notes due 2060. At time of redemption, $14 million of interest expense was recorded related to unamortized debt issuance costs related to the notes. The notes were redeemed at a price of 100% of the principal amount, including accrued and unpaid interest to the redemption date.
+In October 2021, TDS redeemed its outstanding $195 million of 5.875% Senior Notes due 2061. At time of redemption, $7 million of interest expense was recorded related to unamortized debt issuance costs related to the notes. The notes were redeemed at a price of 100% of the principal amount, including accrued and unpaid interest to the redemption date.
+TDS and UScellular each have an effective shelf registration statement on Form S-3 to issue senior or subordinated debt securities, preferred shares and depositary shares. The proceeds from any such issuances may be used for general corporate purposes, including the possible reduction of other short-term or long-term debt; spectrum purchases; capital expenditures; acquisition, construction and development programs; working capital; additional investments in subsidiaries; or the repurchase of shares. The TDS shelf registration permits TDS to issue at any time and from time to time senior or subordinated debt securities, preferred shares and depositary shares in one or more offerings in an indeterminate amount. The UScellular shelf registration statement permits UScellular to issue at any time and from time to time senior or subordinated debt securities, preferred shares and depositary shares in one or more offerings, up to the amount registered, which is currently $1 billion. The ability of TDS or UScellular to complete an offering pursuant to such shelf registration statements is subject to market conditions and other factors at the time.
+TDS believes that it and/or its subsidiaries were in compliance as of December 31, 2021, with all covenants and other requirements set forth in the TDS and UScellular long-term debt indentures. TDS and UScellular have not failed to make nor do they expect to fail to make any scheduled payment of principal or interest under such indentures.
+Refer to Market Risk - Long-Term Debt for additional information regarding required principal payments and the weighted average interest rates related to TDS’ Long-term debt.
+TDS and UScellular, at their discretion, may from time to time seek to retire or purchase their outstanding debt through cash purchases and/or exchanges for other securities, in open market purchases, privately negotiated transactions, tender offers, exchange offers or otherwise. Such repurchases or exchanges, if any, will depend on prevailing market conditions, liquidity requirements, contractual restrictions and other factors. The amounts involved may be material.
+See Note 12 - Debt in the Notes to Consolidated Financial Statements for additional information regarding the revolving credit agreements, senior term loan agreements, UScellular's receivables securitization and export credit financing agreements, UScellular's Senior Notes and other long-term financing.
+Credit Ratings
+In certain circumstances, TDS’ and UScellular’s interest cost on their various agreements may be subject to increase if their current credit ratings from nationally recognized credit rating agencies are lowered, and may be subject to decrease if the ratings are raised. The agreements do not cease to be available nor do the maturity dates accelerate solely as a result of a downgrade in TDS’ or UScellular’s credit rating. However, downgrades in TDS’ or UScellular’s credit rating could adversely affect their ability to renew the agreements or obtain access to other credit agreements in the future.
+Index to MD&A
+TDS and UScellular are rated as sub-investment grade issuers. The TDS and UScellular issuer credit ratings as of December 31, 2021, and the dates such ratings were re-affirmed were as follows:
+Rating Agency Rating Outlook
+Moody's (re-affirmed August 2021) Ba1 stable outlook
+Standard & Poor's (re-affirmed October 2021) BB stable outlook
+Fitch Ratings (re-affirmed February 2021) BB+ stable outlook
+Capital Requirements
+The discussion below is intended to highlight some of the significant cash outlays expected during 2022 and beyond and to highlight the spending incurred in current and prior years for these items. This discussion does not include cash required to fund normal operations, and is not a comprehensive list of capital requirements. Significant cash requirements that are not routine or in the normal course of business could arise from time to time.
+Capital Expenditures
+TDS makes substantial investments to acquire, construct and upgrade telecommunications networks and facilities to remain competitive and as a basis for creating long-term value for shareholders. In recent years, rapid changes in technology and new opportunities (such as 5G and VoLTE technology for UScellular and fiber for TDS Telecom) have required substantial investments in potentially revenue-enhancing and cost-saving upgrades to TDS’ networks to remain competitive; this is expected to continue in 2022 and future years with the continued deployment of 5G technology for UScellular, and the continued deployment of fiber for TDS Telecom.
+Capital expenditures (i.e., additions to property, plant and equipment and system development expenditures; excludes wireless spectrum license additions), which include the effects of accruals and capitalized interest, in 2021 and 2020 were as follows:
+Capital Expenditures
+(Dollars in millions)
+UScellular’s capital expenditures in 2021 were $780 million compared to $940 million in 2020. In 2021, UScellular's capital expenditures were used for the following purposes:
+•Continue network modernization and 5G deployment;
+•Enhance and maintain UScellular's network coverage, including providing additional speed and capacity to accommodate increased data usage by current customers; and
+•Invest in information technology to support existing and new services and products.
+Capital expenditures for 2022 are expected to be between $700 million and $800 million. These expenditures are expected to be used for similar purposes as those listed above.
+TDS Telecom’s capital expenditures in 2021 were $411 million compared to $368 million in 2020. In 2021, these capital expenditures were used for the following purposes:
+•Continue to expand fiber deployment in incumbent and expansion markets;
+•Maintain and enhance existing infrastructure including build-out requirements to meet state broadband and A-CAM programs;
+•Upgrade broadband capacity and speeds; and
+•Support success-based spending for broadband and video growth.
+Capital expenditures for 2022 are expected to be between $500 million and $550 million. These expenditures are expected to be used for similar purposes as those listed above.
+Index to MD&A
+Macroeconomic factors, including the continuing impacts of the ongoing COVID-19 pandemic, have caused some supply chain disruption and delays for both UScellular and TDS Telecom. These factors may impact the acquisition of certain products and materials and contribute to internal and external labor shortages.
+TDS intends to finance its capital expenditures for 2022 using primarily Cash flows from operating activities, existing cash balances and, as required, additional debt financing from its revolving credit, term loan and receivables securitization agreements and/or other forms of financing.
+Acquisitions, Divestitures and Exchanges
+TDS may be engaged from time to time in negotiations (subject to all applicable regulations) relating to the acquisition, divestiture or exchange of companies, properties, wireless spectrum licenses (including pursuant to FCC auctions) and other possible businesses. In general, TDS may not disclose such transactions until there is a definitive agreement.
+In January and February 2022, UScellular paid $560 million for wireless spectrum licenses won in Auction 110. This amount was paid using the funds available under UScellular's various financing agreements as described above.
+Other Obligations
+TDS will require capital for future spending on existing contractual obligations, including long-term debt obligations; dividend obligations; lease commitments; commitments for device purchases, network facilities and transport services; agreements for software licensing; long-term marketing programs; commitments for wireless spectrum licenses acquired through FCC auctions; and other agreements to purchase goods or services.
+Variable Interest Entities
+TDS consolidates certain “variable interest entities” as defined under GAAP. See Note 15 - Variable Interest Entities in the Notes to Consolidated Financial Statements for additional information related to these variable interest entities. TDS may elect to make additional capital contributions and/or advances to these variable interest entities in future periods in order to fund their operations.
+Common Share Repurchase Programs
+During 2021, TDS repurchased 402,989 Common Shares for $8 million at an average cost per share of $19.04. As of December 31, 2021, the maximum dollar value of TDS Common Shares that may yet be purchased under TDS' program was $177 million.
+During 2021, UScellular repurchased 989,988 Common Shares for $31 million at an average cost per share of $31.37. At December 31, 2021, the total cumulative amount of UScellular Common Shares authorized to be repurchased is 3,517,000.
+Depending on its future financial performance, construction, development and acquisition programs, and available sources of financing, TDS and UScellular may not have sufficient liquidity or capital resources to make share repurchases. Therefore, there is no assurance that TDS and UScellular will make any share repurchases in the future.
+For additional information related to the current TDS and UScellular repurchase authorizations, see Note 17 - Shareholders’ Equity in the Notes to Consolidated Financial Statements.
+Dividends
+TDS paid quarterly dividends per outstanding Common Share of $0.175 in 2021 and $0.170 in 2020. TDS increased the dividend per share to $0.180 in the first quarter of 2022. TDS has no current plans to change its policy of paying dividends.
+TDS paid quarterly dividends per outstanding Series UU depositary share (each representing 1/1,000th of a Preferred Share) of $0.552 in June 2021, $0.414 in September 2021 and $0.414 in December 2021.
+TDS paid quarterly dividends per outstanding Series VV depositary share (each representing 1/1,000th of a Preferred Share) of $0.183 in September 2021 and $0.375 in December 2021.
+Index to MD&A
+Consolidated Cash Flow Analysis
+TDS operates a capital-intensive business. TDS makes substantial investments to acquire wireless spectrum licenses and properties and to construct and upgrade communications networks and facilities as a basis for creating long-term value for shareholders. In recent years, rapid changes in technology and new opportunities have required substantial investments in potentially revenue-enhancing and cost-saving upgrades to TDS’ networks. Cash flows may fluctuate from quarter to quarter and year to year due to seasonality, timing and other factors. The following discussion summarizes TDS’ cash flow activities in 2021 and 2020.
+2021 Commentary
+TDS’ Cash, cash equivalents and restricted cash decreased $1,038 million. Net cash provided by operating activities was $1,103 million due to net income of $188 million adjusted for non-cash items of $959 million and distributions received from unconsolidated entities of $180 million, including $76 million in distributions from the LA Partnership. This was partially offset by changes in working capital items which decreased net cash by $224 million. The working capital changes were primarily influenced by an increase in customer and agent receivables, a decrease to accrued taxes and the timing of vendor payments.
+Cash flows used for investing activities were $2,462 million. Cash paid for additions to property, plant and equipment totaled $1,131 million. Cash payments for wireless spectrum licenses, including advance payments, were $1,322 million.
+Cash flows provided by financing activities were $321 million, reflecting the issuance of $1,110 million of TDS Preferred Shares, the issuance of $500 million of 5.5% UScellular Senior Notes, $625 million borrowed under the UScellular receivables securitization agreement, $217 million borrowed under the UScellular term loan, $125 million borrowed under the TDS revolving credit agreement, and $76 million borrowed under the TDS term loan. These were partially offset by the redemption of $836 million of TDS Senior Notes, $917 million of UScellular Senior Notes, a $200 million repayment on the receivables securitization agreement, a $125 million repayment on the TDS revolving credit agreement, the payment of dividends totaling $119 million, the payment of debt and equity issuance costs of $62 million, and the repurchase of TDS and UScellular Common Shares.
+2020 Commentary
+TDS’ Cash, cash equivalents and restricted cash increased $978 million. Net cash provided by operating activities was $1,532 million due primarily to net income of $269 million adjusted for non-cash items of $1,071 million and distributions received from unconsolidated entities of $189 million, including $89 million in distributions from the LA Partnership.
+Cash flows used for investing activities were $1,511 million. Cash paid for additions to property, plant and equipment totaled $1,338 million. Cash payments for wireless spectrum licenses, including advance payments, were $201 million.
+Cash flows provided by financing activities were $957 million, reflecting the issuance of $500 million of 5.50% UScellular Senior Notes, $500 million of 6.25% UScellular Senior Notes, $125 million borrowed under the UScellular receivables securitization agreement, and $125 million borrowed under the TDS term loan. These were partially offset by a $100 million repayment on the UScellular receivables securitization agreement, the payment of dividends totaling $78 million, the payment of debt issuance costs of $41 million, and the repurchase of TDS and UScellular Common Shares.
+Index to MD&A
+Consolidated Balance Sheet Analysis
+The following discussion addresses certain captions in the consolidated balance sheet and changes therein. This discussion is intended to highlight the significant changes and is not intended to fully reconcile the changes. Changes in financial condition during 2021 were as follows:
+Licenses
+Licenses increased $1,459 million due primarily to wireless spectrum licenses acquired through Auction 107. See Note 7 - Intangible Assets in the Notes to Consolidated Financial Statements for additional information.
+Customer deposits and deferred revenues
+Customer deposits and deferred revenues increased $43 million due primarily to an increase in contract liabilities resulting from higher promotional activity in the current year.
+Other deferred liabilities and credits
+Other deferred liabilities and credits increased $218 million due primarily to relocation and acceleration fees related to wireless spectrum licenses acquired through Auction 107 and an increase in asset retirement obligations.
+Long-term debt, net
+The following table presents the components of the $496 million decrease in Long-term debt, net:
+Preferred Shares
+Preferred Shares increased $1,074 million due to the issuance of $1,110 million of TDS Preferred Shares, net of issuance costs.
+Index to MD&A
+Application of Critical Accounting Policies and Estimates
+TDS prepares its consolidated financial statements in accordance with GAAP. TDS’ significant accounting policies are discussed in detail in Note 1 - Summary of Significant Accounting Policies, Note 2 - Revenue Recognition and Note 10 - Leases in the Notes to Consolidated Financial Statements.
+Management believes the application of the following critical accounting policies and the estimates required by such application reflect its most significant judgments and estimates used in the preparation of TDS’ consolidated financial statements.
+Intangible Asset Impairment
+Licenses and Goodwill represent a significant component of TDS’ consolidated assets. These assets are considered to be indefinite-lived assets and, therefore, are not amortized but rather are tested at least annually for impairment. TDS performs annual impairment testing of Licenses and Goodwill as of November 1 of each year, or more frequently if triggering events occur. Significant negative events, such as changes in any of the assumptions described below or decreases in forecasted cash flows, could result in an impairment in future periods. Licenses are tested for impairment at the level of reporting referred to as a unit of accounting. Goodwill is tested for impairment at the level of reporting referred to as a reporting unit.
+See Note 7 - Intangible Assets in the Notes to Consolidated Financial Statements for information related to Licenses and Goodwill activity in 2021 and 2020.
+Wireless Spectrum Licenses - UScellular
+For purposes of its impairment testing, UScellular separates its FCC wireless spectrum licenses into eight units of accounting, which consist of one unit of accounting for developed operating market wireless spectrum licenses (built wireless spectrum licenses) and seven geographic non-operating market wireless spectrum licenses (unbuilt wireless spectrum licenses).
+A qualitative assessment of the license values was completed as of November 1, 2021 and November 1, 2020. The qualitative assessment considered several factors, including analyst estimates of wireless spectrum license values which contemplated recent spectrum auction results, recent UScellular and other market participant transactions and other industry and market factors. Based on these assessments, UScellular concluded that it was more likely than not that the fair value of the wireless spectrum licenses in each unit of accounting exceeded their respective carrying values. Therefore, no quantitative impairment evaluation was completed.
+Goodwill - TDS Telecom
+TDS Telecom has recorded Goodwill as a result of past business acquisitions. For purposes of the 2021 Goodwill impairment test, TDS Telecom had one reporting unit as a result of the reporting segment structure combination that occurred in the first quarter of 2021, and for the 2020 test, TDS Telecom had two reporting units: Wireline and Cable.
+A qualitative assessment of the reporting unit was completed as of November 1, 2021. The qualitative assessment, which analyzed company, industry and economic trends, concluded that it was more likely than not that the fair value of this reporting unit exceeded its carrying value, and accordingly, no quantitative impairment evaluation was completed and no Goodwill impairment was recorded.
+Income Taxes
+The amounts of income tax assets and liabilities, the related income tax provision and the amount of unrecognized tax benefits are critical accounting estimates because such amounts are significant to TDS’ financial condition and results of operations.
+The preparation of the consolidated financial statements requires TDS to calculate a provision for income taxes. This process involves estimating the actual current income tax liability together with assessing temporary differences resulting from the different treatment of items for tax purposes. These temporary differences result in deferred income tax assets and liabilities which are included on a net basis in TDS’ Consolidated Balance Sheet. TDS must then assess the likelihood that deferred income tax assets will be realized based on future taxable income and, to the extent management believes that realization is not likely, establish a valuation allowance. Management’s judgment is required in determining the provision for income taxes, deferred income tax assets and liabilities and any valuation allowance that is established for deferred income tax assets.
+TDS recognizes the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position are measured based on management’s judgment as to the possible outcome that has a greater than 50% cumulative likelihood of being realized upon ultimate resolution.
+See Note 5 - Income Taxes in the Notes to Consolidated Financial Statements for additional information.
+Index to MD&A
+Regulatory Matters
+5G Fund
+On October 27, 2020, the FCC adopted rules creating the 5G Fund for Rural America, which will distribute up to $9 billion over ten years to bring 5G wireless broadband connectivity to rural America. The 5G Fund will be implemented through a two-phase competitive process, using multi-round auctions to award support. The winning bidders will be required to meet certain minimum speed requirements and interim and final deployment milestones. The order provides that the 5G Fund be in lieu of the previously proposed fund (the Phase II Connect America Mobility Fund) for the development of 4G LTE. The order also provides that over time a growing percentage of the legacy support a carrier receives must be used for 5G deployment.
+UScellular cannot predict at this time when the 5G fund auction will occur, when the phase down period for its existing legacy support from the Federal USF will commence, or whether the 5G fund auction will provide opportunities to UScellular to offset any loss in existing support.
+Spectrum Auctions
+On March 2, 2020, the FCC released a Public Notice establishing procedures for an auction offering wireless spectrum licenses in the 3.5 GHz band (Auction 105). On September 2, 2020, the FCC announced by way of public notice that UScellular was the provisional winning bidder for 243 wireless spectrum licenses for a purchase price of $14 million, of which up to $5 million relates to licenses which are subject to the FCC's spectrum aggregation and ownership attribution rules for Auction 105. None of the wireless spectrum licenses have been granted yet by the FCC.
+On August 7, 2020, the FCC released a Public Notice establishing procedures for an auction offering wireless spectrum licenses in the 3.7-3.98 GHz bands (Auction 107). On February 24, 2021, the FCC announced by way of public notice that UScellular was the provisional winning bidder for 254 wireless spectrum licenses for $1,283 million. UScellular paid $30 million of this amount in 2020 and the remainder in March 2021. The wireless spectrum licenses from Auction 107 were granted by the FCC in July 2021. Additionally, UScellular expects to be obligated to pay approximately $181 million in total from 2021 through 2024 related to relocation costs and accelerated relocation incentive payments. Such additional costs were accrued and capitalized at the time the licenses were granted. In October 2021, UScellular paid $36 million related to the additional costs. The spectrum must be cleared by incumbent providers before UScellular can access it. UScellular does not expect to have access to this spectrum until late 2023. Combined with prior mid-band purchases in Auction 105, UScellular will have mid-band spectrum in nearly all of its operating footprint, covering approximately 95% of subscribers.
+On June 9, 2021, the FCC released a Public Notice establishing procedures for an auction offering wireless spectrum licenses in the 3.45-3.55 GHz band (Auction 110). On January 14, 2022, the FCC announced by way of public notice that UScellular was the provisional winning bidder for 380 wireless spectrum licenses for $580 million. UScellular paid $20 million of this amount in 2021 and the remainder in January and February 2022. The wireless spectrum licenses from Auction 110 are expected to be granted by the FCC in 2022.
+Index to MD&A
+Private Securities Litigation Reform Act of 1995
+Safe Harbor Cautionary Statement
+This Management's Discussion and Analysis of Financial Condition and Results of Operations and other sections of this Annual Report contain statements that are not based on historical facts and represent forward-looking statements, as this term is defined in the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical facts, that address activities, events or developments that TDS intends, expects, projects, believes, estimates, plans or anticipates will or may occur in the future are forward-looking statements. The words "believes," "anticipates," "estimates," "expects," "plans," "intends," "projects" and similar expressions are intended to identify these forward-looking statements, but are not the exclusive means of identifying them. Such forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause actual results, events or developments to be significantly different from any future results, events or developments expressed or implied by such forward-looking statements. Such risks, uncertainties and other factors include, but are not limited to, those set forth below. See "Risk Factors" in TDS' Annual Report on Form 10-K for the year ended December 31, 2021, for a further discussion of these risks. Each of the following risks could have a material adverse effect on TDS' business, financial condition or results of operations. However, such factors are not necessarily all of the important factors that could cause actual results, performance or achievements to differ materially from those expressed in, or implied by, the forward-looking statements contained in this document. Other unknown or unpredictable factors also could have material adverse effects on future results, performance or achievements. TDS undertakes no obligation to update publicly any forward-looking statements whether as a result of new information, future events or otherwise. Readers should evaluate any statements in light of these important factors.
+Operational Risk Factors
+▪Intense competition involving products, services, pricing, promotions and network speed and technologies could adversely affect TDS’ revenues or increase its costs to compete.
+▪Changes in roaming practices or other factors could cause TDS’ roaming revenues to decline from current levels, roaming expenses to increase from current levels and/or impact TDS’ ability to service its customers in geographic areas where TDS does not have its own network, which could have an adverse effect on TDS’ business, financial condition or results of operations.
+▪A failure by TDS to obtain access to adequate radio spectrum to meet current or anticipated future needs and/or to accurately predict future needs for radio spectrum could have an adverse effect on TDS’ business, financial condition or results of operations.
+▪An inability to attract people of outstanding talent throughout all levels of the organization, to develop their potential through education and assignments, and to retain them by keeping them engaged, challenged and properly rewarded could have an adverse effect on TDS' business, financial condition or results of operations.
+▪TDS’ smaller scale relative to larger competitors that may have greater financial and other resources than TDS could cause TDS to be unable to compete successfully, which could adversely affect its business, financial condition or results of operations.
+▪Changes in various business factors, including changes in demand, consumer preferences and perceptions, price competition, churn from customer switching activity and other factors, could have an adverse effect on TDS’ business, financial condition or results of operations.
+▪Advances or changes in technology could render certain technologies used by TDS obsolete, could put TDS at a competitive disadvantage, could reduce TDS’ revenues or could increase its costs of doing business.
+▪Complexities associated with deploying new technologies present substantial risk and TDS’ investments in unproven technologies may not produce the benefits that TDS expects.
+▪Costs, integration problems or other factors associated with acquisitions, divestitures or exchanges of properties or wireless spectrum licenses and/or expansion of TDS’ businesses could have an adverse effect on TDS’ business, financial condition or results of operations.
+▪A failure by TDS to complete significant network construction and systems implementation activities as part of its plans to improve the quality, coverage, capabilities and capacity of its network, support and other systems and infrastructure could have an adverse effect on its operations.
+▪Difficulties involving third parties with which TDS does business, including changes in TDS’ relationships with or financial or operational difficulties, including supply chain disruptions, of key suppliers or independent agents and third party national retailers who market TDS’ services, could adversely affect TDS’ business, financial condition or results of operations.
+▪A failure by TDS to maintain flexible and capable telecommunication networks or information technologies, or a material disruption thereof, could have an adverse effect on TDS’ business, financial condition or results of operations.
+Index to MD&A
+Financial Risk Factors
+▪Uncertainty in TDS’ future cash flow and liquidity or the inability to access capital, deterioration in the capital markets, changes in interest rates, other changes in TDS’ performance or market conditions, changes in TDS’ credit ratings or other factors could limit or restrict the availability of financing on terms and prices acceptable to TDS, which could require TDS to reduce its construction, development or acquisition programs, reduce the amount of wireless spectrum licenses acquired, and/or reduce or cease share repurchases and/or the payment of dividends.
+▪TDS has a significant amount of indebtedness which could adversely affect its financial performance and in turn adversely affect its ability to make payments on its indebtedness, comply with terms of debt covenants and incur additional debt.
+▪TDS’ assets and revenue are concentrated primarily in the U.S. telecommunications industry. Consequently, its operating results may fluctuate based on factors related primarily to conditions in this industry.
+▪TDS has significant investments in entities that it does not control. Losses in the value of such investments could have an adverse effect on TDS’ financial condition or results of operations.
+Regulatory, Legal and Governance Risk Factors
+▪Failure by TDS to timely or fully comply with any existing applicable legislative and/or regulatory requirements or changes thereto could adversely affect TDS’ business, financial condition or results of operations.
+▪TDS receives significant regulatory support, and is also subject to numerous surcharges and fees from federal, state and local governments - the applicability and the amount of the support and fees are subject to great uncertainty, including the ability to pass through certain fees to customers, and this uncertainty could have an adverse effect on TDS’ business, financial condition or results of operations.
+▪Settlements, judgments, restraints on its current or future manner of doing business and/or legal costs resulting from pending and future litigation could have an adverse effect on TDS’ business, financial condition or results of operations.
+▪The possible development of adverse precedent in litigation or conclusions in professional studies to the effect that radio frequency emissions from wireless devices and/or cell sites cause harmful health consequences, including cancer or tumors, or may interfere with various electronic medical devices or frequencies used by other industries, could have an adverse effect on TDS’ wireless business, financial condition or results of operations.
+▪Claims of infringement of intellectual property and proprietary rights of others, primarily involving patent infringement claims, could prevent TDS from using necessary technology to provide products or services or subject TDS to expensive intellectual property litigation or monetary penalties, which could have an adverse effect on TDS’ business, financial condition or results of operations.
+▪Certain matters, such as control by the TDS Voting Trust and provisions in the TDS Restated Certificate of Incorporation, may serve to discourage or make more difficult a change in control of TDS or have other consequences.
+General Risk Factors
+▪TDS has experienced, and in the future expects to experience, cyber-attacks or other breaches of network or information technology security of varying degrees on a regular basis, which could have an adverse effect on TDS' business, financial condition or results of operations.
+▪Disruption in credit or other financial markets, a deterioration of U.S. or global economic conditions or other events could, among other things, impede TDS’ access to or increase the cost of financing its operating and investment activities and/or result in reduced revenues and lower operating income and cash flows, which would have an adverse effect on TDS’ business, financial condition or results of operations.
+▪The impact of public health emergencies, such as the COVID-19 pandemic, on TDS' business is uncertain, but depending on duration and severity could have a material adverse effect on TDS' business, financial condition or results of operations.
+Index to MD&A
+Market Risk
+Long-Term Debt
+As of December 31, 2021, the majority of TDS’ long-term debt was in the form of fixed-rate notes with remaining maturities ranging up to 49 years. TDS also holds variable-rate debt. Fluctuations in market interest rates can lead to fluctuations in the fair value of fixed-rate notes and interest paid on variable-rate debt.
+The following table presents the scheduled principal payments on long-term debt, lease obligations and the related weighted average interest rates by maturity dates at December 31, 2021:
+1The total long-term debt obligation differs from Long-term debt in the Consolidated Balance Sheet due to unamortized debt issuance costs on all non-revolving debt instruments and unamortized discounts related to the UScellular's 6.7% Senior Notes. See Note 12 - Debt in the Notes to Consolidated Financial Statements for additional information.
+2Represents the weighted average stated interest rates at December 31, 2021, for debt maturing in the respective periods.
+3Excludes $450 million of outstanding borrowings under the receivables securitization agreement. If the maturity date of the facility is not extended, principal repayments begin in January 2023. Principal repayments are not scheduled but are instead based on actual receivable collections. UScellular intends to extend the maturity date of the facility.
+Fair Value of Long-Term Debt
+At December 31, 2021 and 2020, the estimated fair value of long-term debt obligations, excluding lease obligations, the current portion of such long-term debt and debt financing costs, was $3,197 million and $3,746 million, respectively, and the book value was $2,979 million and $3,518 million, respectively. See Note 3 - Fair Value Measurements in the Notes to Consolidated Financial Statements for additional information.
+Other Market Risk Sensitive Instruments
+The substantial majority of TDS’ other market risk sensitive instruments (as defined in Item 305 of SEC Regulation S-K) are short-term, including Cash and cash equivalents. Accordingly, TDS believes that a significant change in interest rates would not have a material effect on such other market risk sensitive instruments.
+Index to MD&A
+Supplemental Information Relating to Non-GAAP Financial Measures
+TDS sometimes uses information derived from consolidated financial information but not presented in its financial statements prepared in accordance with GAAP to evaluate the performance of its business. Certain of these measures are considered “non-GAAP financial measures” under U.S. Securities and Exchange Commission Rules. Specifically, TDS has referred to the following measures in this Form 10-K Report:
+▪EBITDA
+▪Adjusted EBITDA
+▪Adjusted OIBDA
+▪Free cash flow
+Following are explanations of each of these measures:
+EBITDA, Adjusted EBITDA and Adjusted OIBDA
+EBITDA, Adjusted EBITDA and Adjusted OIBDA are defined as net income adjusted for the items set forth in the reconciliation below. EBITDA, Adjusted EBITDA and Adjusted OIBDA are not measures of financial performance under GAAP and should not be considered as alternatives to Net income or Cash flows from operating activities, as indicators of cash flows or as measures of liquidity. TDS does not intend to imply that any such items set forth in the reconciliation below are non-recurring, infrequent or unusual; such items may occur in the future.
+Adjusted EBITDA is a segment measure reported to the chief operating decision maker for purposes of assessing the segments' performance. See Note 19 - Business Segment Information in the Notes to Consolidated Financial Statements for additional information.
+Management uses Adjusted EBITDA and Adjusted OIBDA as measurements of profitability, and therefore, reconciliations to applicable GAAP income measures are deemed appropriate. Management believes Adjusted EBITDA and Adjusted OIBDA are useful measures of TDS’ operating results before significant recurring non-cash charges, gains and losses, and other items as presented below as they provide additional relevant and useful information to investors and other users of TDS’ financial data in evaluating the effectiveness of its operations and underlying business trends in a manner that is consistent with management’s evaluation of business performance. Adjusted EBITDA shows adjusted earnings before interest, taxes, depreciation, amortization and accretion, and gains and losses, while Adjusted OIBDA reduces this measure further to exclude Equity in earnings of unconsolidated entities and Interest and dividend income in order to more effectively show the performance of operating activities excluding investment activities. The following tables reconcile EBITDA, Adjusted EBITDA and Adjusted OIBDA to the corresponding GAAP measures, Net income and Operating income.
+Index to MD&A
+Numbers may not foot due to rounding.
+Index to MD&A
+Free Cash Flow
+The following table presents Free cash flow, which is defined as Cash flows from operating activities less Cash paid for additions to property, plant and equipment. Free cash flow is a non-GAAP financial measure which TDS believes may be useful to investors and other users of its financial information in evaluating liquidity, specifically, the amount of net cash generated by business operations after deducting Cash paid for additions to property, plant and equipment.

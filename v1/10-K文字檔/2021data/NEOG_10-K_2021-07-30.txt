@@ -1,0 +1,223 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K.
+In addition, any forward-looking statements represent management’s views only as of the day this Form 10-K
+was first filed with the Securities and Exchange Commission and should not be relied upon as representing management’s views as of any subsequent date. While we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so, even if our views change.
+COVID-19
+As we closely monitor the COVID-19
+pandemic, our top priority remains protecting the health and safety of our employees, their families, and those in our communities. While essential operations continue in our locations around the world, many of our non-manufacturing
+employees continue to work remotely and travel remains limited. Safety guidelines and procedures, including social distancing and enhanced cleaning, have been developed for on-site
+employees and these policies are regularly monitored and updated by our internal Emergency Response Team.
+In fiscal 2021, the COVID-19
+pandemic continued to impact our business operations and financial results. There has been a positive impact in sales of our biosecurity product lines, as the pandemic has created increased demand for these products, and sales into companion animal markets have benefitted, as remote work and stay at home orders have driven increased pet ownership. A number of our food safety diagnostic product lines have been negatively impacted due to decreased demand in many of our customers’ businesses, particularly those serving restaurants, bars and other institutional food service markets; supply chain difficulties including vendor disruptions, border closures and shipping issues; and restricted travel, which hinders our ability to connect with customers. During the current fiscal year, we have incurred less expense for travel, meals, trade shows and some other customer-facing marketing activities; higher spend on shipping, cleaning activities and personal protective equipment has somewhat offset these savings. We expect the COVID-19
+pandemic will continue to impact our business operations and financial results through the majority of our 2022 fiscal year.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The discussion and analysis of our financial condition and results of operations are based on the consolidated financial statements that have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires that management make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an ongoing basis, management evaluates the estimates, including but not limited to, those related to receivable allowances, inventories and intangible assets. These estimates are based on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Though the impact of the COVID-19
+pandemic to our business and operating results presents additional uncertainty, we continue to use the best information available to inform our critical accounting estimates. Actual results may differ from these estimates under different assumptions or conditions.
+The following critical accounting policy reflects management’s more significant judgments and estimates used in the preparation of the consolidated financial statements.
+Income Taxes
+We account for income taxes using the asset and liability method. Under this method, deferred income tax assets and liabilities are determined based on differences between the financial reporting and tax bases of assets and liabilities and for tax credit carryforwards and are measured using the enacted tax rates in effect for the years in which the differences are expected to reverse. Deferred income tax expense represents the change in net deferred income tax assets and liabilities during the year. The determination of income subject to income tax in each tax paying jurisdiction requires us to apply transfer pricing guidelines for certain intercompany transactions.
+Our tax rate is subject to adjustment over the balance of the year due to, among other things, income tax rate changes by governments; the jurisdictions in which our profits are determined to be earned and taxed; changes in the valuation of our deferred tax assets and liabilities; adjustments to our interpretation of transfer pricing standards; changes in available tax credits or other incentives; changes in stock-based compensation expense; changes in tax laws or the interpretation of such tax laws; and changes in U.S. generally accepted accounting principles.
+Although we believe our tax estimates are reasonable and we prepare our tax filings in accordance with all applicable tax laws, the final determination with respect to any audit, and any related litigation, could be materially different from our estimates or from our historical income tax provisions and accruals. The results of an audit or litigation could have a material effect on operating results and/or cash flows in the periods for which that determination is made. In addition, future period earnings may be adversely impacted by litigation costs, settlements, penalties, and/or interest assessments.
+Our wholly owned foreign subsidiaries are comprised of Neogen Europe, Quat-Chem Ltd, Megazyme Ltd, Megazyme IP, Neogen Italia S.r.l., Neogen do Brasil, Rogama Industria e Comercio Ltda, Neogen Latinoamérica, Neogen Argentina, Neogen Uruguay, Neogen Chile SpA, Neogen Bio-Scientific
+Technology Co (Shanghai), Neogen Food and Animal Security (India), Neogen Canada and Neogen Australasia Pty Limited. Based on historical experience, as well as management’s future plans, earnings from these subsidiaries are expected to be re-invested
+indefinitely for future expansion and working capital needs. Furthermore, our domestic operations have historically produced sufficient operating cash flow to mitigate the need to remit foreign earnings. On an annual basis, we evaluate the current business environment and whether any new events or other external changes might require a re-evaluation
+of the decision to indefinitely re-invest
+foreign earnings. It is not practicable to determine the income tax liability that would be payable if such earnings were not reinvested indefinitely.
+RESULTS OF OPERATIONS
+Executive Overview
+•
+Consolidated revenues were $468.5 million in fiscal 2021, an increase of 12% compared to $418.2 million in fiscal 2020. Organic sales overall increased 9% compared to the prior year.
+•
+Food Safety segment sales were $234.2 million in fiscal 2021 compared to $212.7 million in fiscal 2020, an increase of 10%. Organic sales increased 6%, while the purchase of four former distributors and a small manufacturer (Abtek) in fiscal 2020 and the December 2020 acquisition of Megazyme contributed $8.0 million in revenues.
+•
+Animal Safety segment sales were $234.2 million in fiscal 2021, an increase of 14% compared to $205.5 million in fiscal 2020. Organic sales rose 13%, with the acquisitions of Cell BioSciences, in fiscal 2020, and StandGuard, in July 2020, contributing the remainder of the growth.
+•
+International sales were 39.1% of total sales in fiscal 2021 compared to 39.4% of total sales in fiscal 2020.
+•
+Our effective tax rate was 19.1% in fiscal 2021 compared to an effective tax rate of 17.7% in fiscal 2020.
+•
+Net income was $60.9 million, or $0.57 per diluted share, an increase of 2% compared to $59.5 million, or $0.56 per share, in the prior year.
+•
+Cash generated from operating activities in fiscal 2021 was $81.2 million, compared to $85.9 million in fiscal 2020.
+Neogen’s international revenues were $183.2 million in fiscal 2021, compared to $164.7 million in fiscal 2020. Currency translation had a negligible impact on revenues for the full year, with gains in the U.K., Italy, China, Australia and Canada almost entirely offset by negative impact in Brazil, Mexico and Argentina. In a neutral currency environment, sales would have been $3.4 million higher than reported in the first nine months of fiscal 2021. However, the Brazilian real and Mexican peso strengthened significantly in the fourth quarter, resulting in an overall positive effect of approximately $3.3 million from currency translations; the full year impact from currency translations was minimal.
+Sales results for fiscal 2021 compared to the prior year are as follows for each of our international locations:
+The revenue increase in U.S. dollars at Neogen Europe was led by a 22% increase in sales of disinfectant and veterinary products, primarily due to COVID-19
+related sales of hand sanitizer and disinfectant in the U.K. in the first quarter and strong cleaner and disinfectant sales throughout the entire year to Asia to mitigate the impact of African Swine Fever. Partially offsetting this growth were lower sales of diagnostic test kits due to COVID-19
+shutdowns; additionally, a large portion of sales into European Union countries from January through May were sold through our Neogen Italia subsidiary as Brexit created export issues from the U.K.
+Revenues in Brazil decreased 8% in USD in fiscal 2021 but increased 15% in local currency, as the Brazilian real devalued significantly against the U.S. dollar during the year. In local currency, sales of our diagnostic test kits increased 10%, genomics revenues increased 19%, due to new business in the beef market, and insecticides revenues grew 22%, partially the result of a large tender sale. Neogen Latinoamerica grew revenues by 9% in USD, with growth in biosecurity products, veterinary instruments and diagnostic test kits. China’s sales approximately doubled, from growth in biosecurity products and genomics services. Neogen Australasia benefitted from the February 2020 acquisition of a food safety distributor; organic sales increased 59% at this location in fiscal 2021, from strength in genomics services for the companion animal and bovine markets and increased market share of food safety diagnostic test kits.
+Service revenue, which consists primarily of genomics services sales to animal protein and companion animal markets, was $92.2 million in fiscal 2021, an increase of 12% over prior fiscal year sales of $82.6 million. The growth was led by increases in sample volumes from the global companion animal and commercial beef markets and the Chinese porcine market, as that country has begun recovery from its African swine fever outbreak.
+REVENUES
+Year Ended May 31, 2021 Compared to Year Ended May 31, 2020
+Food Safety:
+The COVID-19
+pandemic, which began in the second half of fiscal 2020, continued to cause difficult operating conditions in many of our key market segments in fiscal 2021. Shelter in place orders across the U.S. and in most of our international markets, the closure or reduced output of businesses due to quarantine and/or local legislation, disruption in the supply chain resulting from reduction in end-market
+demand and shipping issues, and the inability of some markets to react quickly to these changes, each disrupted our revenues.
+Natural Toxins, Allergens
+& Drug Residues -
+Sales in this category increased 1% in fiscal 2021, with a 6% increase in sales of natural toxin test kits and a 5% increase in our allergens product line partially offset by a 30% decrease in sales of drug residue test kits. Sales of drug residue test kits have continued to decline as we ended an exclusive distributor agreement in Europe and faced competitive pressure and lower demand due to poor economic conditions.
+Bacterial
+& General Sanitation -
+Sales in this category increased 5% in fiscal 2021 compared to the prior year. Sales of products to detect spoilage organisms in processed foods increased 19% in fiscal 2021, resulting from sales of our new instrument (Soleris NG), which launched in the first quarter, and increased consumables sales from new instrument placements. Sales of our AccuPoint sanitation monitoring product line were flat as many customers were shut down or operating at reduced capacity for a portion of the year, resulting in use of less consumables. A next generation reader for this product line was launched late in the fourth quarter; there will be significant sales and marketing focus on this product line in fiscal 2022. Sales of test kits to detect pathogens decreased 2%, as lower sales of ANSR equipment were only partially offset by increases from our Listeria
+Right Now test kit, which grew 21% in fiscal 2021.
+Culture Media
+& Other -
+Sales in this category increased 19% in fiscal 2021 compared to fiscal 2020. Excluding sales from the December 2020 acquisition of Megazyme, sales increased 8%. This category includes sales of acquired inventory of non-Neogen
+manufactured products from our new businesses in Italy and the South American southern cone countries; these sales are not expected to continue long-term. Sales of Neogen Culture Media increased 1% as new business gained in the U.S. from a COVID-19
+vaccine manufacturer offset the loss of some business due to competitor pricing.
+Rodenticides, Insecticides
+& Disinfectants -
+Revenues of products in this category sold through our Food Safety operations increased 26% in fiscal 2021 compared to fiscal 2020, due primarily to continued strength in cleaners and disinfectant sales in China resulting from increased demand due to the African swine fever outbreak in that country and the COVID-19
+pandemic. We also benefitted from strong sales of hand and skin sanitizing products at our U.K.-based Quat-Chem location in the first quarter of this fiscal year.
+Genomics Services -
+Sales of genomics services sold through our Food Safety operations increased 12% in fiscal 2021 compared to the prior year, primarily due to higher sales in the Chinese porcine and bovine markets.
+Animal Safety:
+Life Sciences -
+Sales in this category decreased 10% in fiscal 2021 compared to the same period in the prior year, primarily the result of lower forensic drug test kit sales to large commercial labs in the U.S. as the COVID-19
+pandemic created less demand for testing; a reduction in sales of products to the U.S. horse racing industry in the U.S. also contributed to the decline, as racing activity was down.
+Veterinary Instruments
+& Disposables -
+Revenues in this category increased 12% in fiscal 2021 compared to fiscal 2020. Veterinary instruments sales increased 16% for the year, led by increases in detectable needles and syringes as we gained new customers and benefitted from increased demand resulting from higher numbers of production animals in existing markets. Partially offsetting this increase was a 9% decline in protective wear sales, as gloves were on backorder for much of the current year due to COVID related demand.
+Animal Care
+& Other -
+Sales of these products increased 26% in fiscal 2021 compared to fiscal 2020; this category includes sales of food safety products sold through our Australian operation, the result of a February 2020 acquisition of a distributor. Excluding these sales, revenues in this category increased 21%. Sales of our small animal supplements, vitamin injectables, and joint pain products benefitted from growth in veterinary markets, as the COVID-19
+pandemic has led to an increase in pet ownership, particularly dogs and cats. Additionally, sales rose for our equine supplements and antibiotics, due to strong demand in these markets. This category also includes sales of our thyroid treatment for dogs, which became available for sale late in the fourth quarter. Partially offsetting these gains was a 49% decline in sales of dairy supplies due to the June 2020 termination of an agreement in which we distributed these products for a large manufacturer of dairy equipment.
+Rodenticides, Insecticides
+& Disinfectants -
+Sales in this category increased 13% in fiscal 2021, compared to the prior year. Rodenticide sales increased 42% as rodent pressure in certain areas of the U.S. increased significantly. Insecticide sales rose 15%, due in part to our acquisition of the StandGuard product line for fly control on July 31, 2020; organic sales in this category increased 7%. Cleaners and disinfectants sales decreased 15% resulting from lower sales of water treatment products and the transfer of a product line to our U.K. operation; additionally, opportunistic sales of sanitizing products in the fourth quarter of the prior year, due to extremely high demand early in the COVID-19
+pandemic, did not continue at those levels in fiscal 2021.
+Genomics Services -
+Sales in this category increased 14% in fiscal 2021 compared to fiscal 2020. The growth was led by strong increases to the U.S. and Australian companion animal markets, driven by increased pet adoption and higher consumer spending on pets during the COVID-19
+pandemic. Gains in the commercial beef and beef association markets in the U.S., Canada and Australia also contributed to the growth, as well as the recent launch of a new high-density chip for white leg shrimp.
+Year Ended May 31, 2020 Compared to Year Ended May 31, 2019
+Food Safety:
+The COVID-19
+pandemic in the second half of fiscal 2020 resulted in difficult operating conditions in many of our key market segments. Shelter in place orders across the U.S. and in a number of our international markets, the closure or reduced output of businesses due to quarantine, disruption in the supply chain resulting from reduction in end-market
+demand, and the inability of some markets to react quickly to these changes, each adversely impacted our revenues.
+Natural Toxins, Allergens
+& Drug Residues -
+Sales in this category were 3% lower in fiscal 2020 compared to the prior year, driven by a 30% decline in sales of drug residues test kits, due to lower demand from a large distributor in Europe. In January 2020, we ended our exclusive relationship with this distributor and have begun marketing these products directly into the European market. Partially offsetting the decrease in drug residue testing, the natural toxins and allergens product lines each increased 4% for the year. The natural toxin increase was due to continued new business earned in Brazil for aflatoxin and DON test kits, partially offset by lower sales of DON test kits in the U.S. and France, the result of mild outbreaks in the prior year which did not recur in fiscal 2020. The allergen test kit increase was primarily the result of strong gliadin, milk and coconut allergen test kit sales in the U.S. market, although fourth quarter sales declined 7% due to lower business with customers supplying restaurants and other food service organizations, which were adversely impacted by COVID-19.
+Bacterial
+& General Sanitation -
+Sales in this category were essentially flat in fiscal 2020 compared to the prior year. Sales of test kits to detect pathogens decreased 2%, as lower sales of ANSR equipment were only partially offset by increases from our Listeria
+Right Now test kit, which grew 24% in fiscal 2020. Sales of our AccuPoint sanitation monitoring product line increased 6%, on increases in both readers and samplers. Sales of products to detect spoilage organisms in foods decreased 7% in fiscal 2020 on reduced sales of readers and consumable vials during the year, resulting from lower market demand and customer losses.
+Culture Media
+& Other -
+Sales in this category decreased 4% in fiscal 2020 compared to fiscal 2019. This category includes forensic drug test kits sold within Brazil, which declined significantly as a large commercial lab customer in that country moved to an alternative new technology which provided higher throughput. Culture media revenues declined 5%, due to lower end market demand from several large customers in the U.S. Higher shipping revenues, which rose 12% for the year, and lower rebates offered to certain customers, both of which are reported in this category, partially offset the lower forensic and culture media revenues.
+Rodenticides, Insecticides
+& Disinfectants -
+Revenues of products in this category sold through our Food Safety operations increased 13% in fiscal 2020 compared to fiscal 2019. This category was led by increases in sales of cleaners and disinfectants to customers in Europe, the Middle East and China, partially offset by a decrease in sales of rodenticides in Central America due to lower demand from a large distributor, and reduced demand of cleaners and disinfectants in India, due to a large order in 2019 which did not recur in fiscal 2020.
+Genomics Services -
+Sales of genomics services sold through our Food Safety operations increased 2% in fiscal 2020 compared to the prior year, primarily due to higher sales in the European bovine and equine markets. Partially offsetting this increase were lower revenues from our genomics operation in Brazil due to a research project with the Brazilian government from 2019 which did not recur in fiscal 2020.
+Animal Safety:
+A significant proportion of the Animal Safety products are marketed and sold through our veterinary distributor network; this channel was impacted in both fiscal years 2019 and 2020, as difficult market conditions resulting from increased tariffs and political uncertainties in our agricultural and animal protein markets continued. The COVID-19
+pandemic in the second half of fiscal 2020 has exacerbated these market conditions; further, the market uncertainty resulting from COVID-19
+has caused our larger distributor partners to implement working capital improvement programs by lowering inventory levels which resulted in lower sales of many products in our animal health portfolio. Partially offsetting this weakness in the fourth quarter were higher sales of several of our cleaning and disinfecting products due to demand caused by the COVID-19
+pandemic.
+Life Sciences -
+Sales in this category decreased 20% in fiscal 2020 compared to the same period in the prior year, the result of lower forensic drug test kit sales to a large commercial lab in the U.S. serving the Brazilian market, a reduction in sales of products to the U.S. horse racing industry in the U.S. due to a decline in domestic racing activity, and the consolidation of several state laboratories.
+Veterinary Instruments
+& Disposables -
+Revenues in this category decreased 4% in fiscal 2020 compared to fiscal 2019. Veterinary instruments sales were down 7% for the year, primarily the result of a 20% decline in needles and 3% decline in syringes, due to lower demand from our largest distributors. Partially offsetting these decreases, protective wear and consumables increased 24% for the year, on the strength of a $956,000 increase in gloves in the fourth quarter of fiscal 2020, the result of demand caused by the COVID-19
+pandemic.
+Animal Care
+& Other -
+Sales of these products decreased 5% in fiscal 2020 compared to fiscal 2019. Antibiotics and injectable vitamin products were down 20% and 15%, respectively, due primarily to inventory destocking at distributors. Sales of our biologics product line, marketed primarily into the equine market, declined 17%, and our equine supplements were also down 20%, due to lower demand from end customers in this market. Sales of wound care products rose 9% to partially offset these losses.
+Rodenticides, Insecticides
+& Disinfectants -
+Sales in this category increased 4% in fiscal 2020, compared to the prior year. The increase was due primarily to a $2.6 million increase in sales of cleaners and disinfectants for the year, driven in large part by growth in hand sanitizers, disinfectants, and disinfecting wipes in the fourth quarter resulting from the COVID-19
+pandemic. Revenues for water disinfection in animal protein production environments rose 8% over fiscal 2019. Rodenticide sales increased 1% over the prior year, as strong growth in the retail market was almost entirely offset by lower sales to agricultural markets in the northwest U.S., due to lower rodent pressure. Insecticide revenues declined 2% for the year.
+Genomics Services -
+Sales in this category increased 14% in fiscal 2020, aided by the acquisition of Livestock Genetics (September 2018) and Delta Genomics (January 2019); organic growth in this category was 12%. Strong growth in the companion animal and commercial beef cattle markets was partially offset by revenue decreases in the U.S. commercial dairy market due to weak economic conditions in that market, resulting from a movement away from dairy milk towards alternative products.
+COST OF REVENUES
+Cost of revenues increased 14% in fiscal 2021 compared to fiscal 2020 and was essentially flat in fiscal 2020 compared to fiscal 2019. This compares with revenue increases of 12% in fiscal 2021 and 1% in fiscal 2020. Expressed as a percentage of sales, cost of revenues was 54.1%, 53.1% and 53.7% in fiscal years 2021, 2020 and 2019, respectively. Gross margins were 45.9%, 46.9%, and 46.3% for fiscal years 2021, 2020, and 2019, respectively.
+Fiscal 2021
+- Our overall gross margin declined 100 basis points in fiscal 2021 as pressure on the worldwide supply chain caused by the COVID-19
+pandemic resulted in increased overhead costs; in particular, freight costs on inventory purchases increased 53% in fiscal 2021 compared to the prior year. Additional cost increases resulted from personnel costs, in part from the increased volumes, but also due to labor shortages, contracted services primarily related to our recently launched instruments, and higher health insurance costs domestically, as employees and their families utilized elective medical services postponed from the fourth quarter of fiscal 2020 due to COVID-19.
+To a lesser extent, the shift in mix within the Food Safety segment towards products with lower gross margins negatively impacted the consolidated gross margin percentage.
+Fiscal 2020
+- Our overall gross margin improved 60 basis points in fiscal 2020, primarily from improved gross margin in the Animal Safety segment and improved efficiencies, resulting from a focus on cost reductions in certain areas. These efforts resulted in a slight decrease in cost of revenues compared to the prior fiscal year.
+Food Safety Gross Margins:
+Food Safety gross margins were 49.2%, 51.4% and 51.8% in fiscal years 2021, 2020 and 2019, respectively.
+Fiscal 2021 -
+Food Safety margins decreased 220 basis points in fiscal 2021, primarily due to higher sales of equipment such as the Soleris NG, which was launched in the current year and has lower gross margins than our diagnostic test kits, and cleaners and disinfectants sold through our China location, which reports through the Food Safety segment. We were also negatively impacted by increased freight, labor and other overhead costs throughout the segment.
+Fiscal 2020 -
+Food Safety margins decreased 40 basis points in fiscal 2020, primarily due to lower sales of higher margin forensic test kits in Brazil, and the continued strength of the U.S. dollar against currencies in the countries in which we operate; our international operations pay for their inventory primarily in U.S. dollars. In a neutral currency environment, Food Safety segment sales would have been $5.4 million higher in fiscal 2020.
+Animal Safety Gross Margins:
+Animal Safety gross margins were 42.6%, 42.3% and 40.6% in fiscal years 2021, 2020 and 2019, respectively.
+Fiscal 2021 -
+Animal Safety gross margins increased by 30 basis points, primarily from strong sales of higher margin rodenticide and companion animal products and cost efficiencies; somewhat offsetting these gains, gross margin in this segment was negatively impacted by higher freight costs as rates to bring product into inventory rose significantly during the year, from both domestic and international sources.
+Fiscal 2020 -
+Animal Safety gross margins increased by 170 basis points, driven by increased sales of higher margin disinfectant products, particularly in the fourth quarter of the year as a result of the COVID-19
+pandemic, which caused heavy demand for our sanitizing products. In addition, a mix shift towards genomics services for the companion animal markets, which have higher gross margins within the genomics business, contributed to the improvement.
+OPERATING EXPENSES
+Overall operating expenses increased by 9% in fiscal 2021 and 4% in fiscal 2020, each compared to the prior year. These increases compare to revenue increases of 12% and 1%, respectively, for each comparative period.
+Sales and Marketing:
+Sales and marketing expenses increased by 5% in fiscal 2021 compared to fiscal 2020 and decreased 1% in fiscal 2020 compared to the prior year. As a percentage of sales, sales and marketing expense was 15.7%, 16.7% and 17.0% in fiscal years 2021, 2020 and 2019, respectively.
+Fiscal 2021
+- The $3.8 million, or 5%, increase in sales and marketing expenses in fiscal 2021 resulted primarily from increases in employee compensation expenses such as salaries, bonuses, and commissions, reflecting the increase in sales for the year, as well as increased headcount as we returned to normal staffing levels. In addition, shipping costs rose in line with revenues, health insurance costs rose as employees and their families resumed receiving medical treatment and procedures which had been deferred in the fourth quarter of the prior fiscal year. Advertising and outside services also increased to support the launch of a number of new products during the year, most notably the Soleris NG and Accupoint NG readers. Partially offsetting these increases was $3 million in decreased spending for travel and meals and entertainment for the year, the result of travel restrictions and reductions in face-to-face
+sales activities in most of our markets for the majority of the year. Travel and in person customer meetings did begin to pick up in some geographic areas in the second half of fiscal 2021 as COVID-19
+restrictions were eased.
+Fiscal 2020
+- The $550,000 decline in sales and marketing expenses in fiscal 2020 was driven by a $1.3 million, or 7.4%, decline in spending in this category in the fourth quarter of the year, caused by a reduction in business travel, meals and entertainment, trade shows, and related marketing expenses, as the COVID-19
+global pandemic resulted in strict travel restrictions and reductions in face to face sales activities in many of our markets during the quarter. Partially offsetting these declines were higher compensation and related fringe benefits, the result of increased headcount, increased shipping expenses, and higher regulatory expense due to product registration efforts in our international markets.
+General and Administrative:
+General and administrative expenses rose 15% in fiscal 2021 compared to fiscal 2020 and by 9% in fiscal 2020 compared to fiscal 2019. As a percentage of sales, general and administrative expense was 10.9%, 10.6% and 9.8% in fiscal years 2021, 2020 and 2019, respectively.
+Fiscal 2021 -
+In fiscal 2021, we spent $3.1 million on strategic consulting, legal and other professional fees related to acquisition activity for businesses which we were ultimately not successful in acquiring. Excluding these costs, the increase in general and administrative expense in fiscal 2021 was 8%. Other increases in the current year included compensation increases due to increased headcount, including the addition of a number of senior management positions, incremental amortization expenses (non-cash)
+resulting from recent acquisitions, and higher levels of depreciation (non-cash)
+and related software and licensing costs from continued investments in information technology infrastructure and applications. Increases in this cost category resulting from the Megazyme acquisition totaled $957,000.
+Fiscal 2020 -
+Higher stock-based compensation costs and a significant uptick in legal fees, driven in part from the number of acquisitions completed during the year, resulted in the overall 9% expense increase. In addition, the Company continued to invest in information technology infrastructure, network capabilities and e-commerce
+initiatives. This resulted in higher depreciation on IT-related
+hardware and increased license fees on software investments. These increases were somewhat offset by a reduction in outside consulting. General and administrative expenses at five new company locations, the result of acquisitions in the second half of fiscal 2020, totaled $520,000.
+Research and Development:
+Research and development expenses increased 10% in fiscal 2021 and 15% in fiscal 2020, each compared to the prior year. As a percentage of revenue, these expenses were 3.5% in fiscal year 2021, 3.5% in fiscal year 2020 and 3.1% in fiscal year 2019; we expect to spend between 3% and 4% of total revenue on research and development annually as we continue to make investments in our future growth.
+Fiscal 2021 -
+The 10% increase in research and development expenses in fiscal 2021 was primarily the result of increased compensation expense, resulting from scheduled annual increases and additional headcount from the Megazyme acquisition, project expense relating to new product innovation, spending with outside partners on the new readers launched in this fiscal year, and testing and approval costs for new product development.
+Fiscal 2020 -
+The 15% increase in research and development expenses in fiscal 2020 was primarily the result of continued spending with development partners for two new readers, launched in fiscal 2021. Increased compensation expense, resulting from investments in people as we heighten the development capabilities of the group, higher depreciation expense from continued investment in analytical equipment, and an increase in contracted services also contributed to the expense growth.
+OPERATING INCOME
+Our operating income rose 10% in fiscal 2021 compared to fiscal 2020 and decreased by 1% in fiscal 2020 compared to fiscal 2019. Expressed as a percentage of revenues, operating income was 15.8%, 16.1% and 16.4% in fiscal years 2021, 2020 and 2019, respectively.
+Gross margins rose by $18.8 million, or 10% in fiscal 2021; this increase was partially offset by an increase of $12.1 million, or 9%, in operating expenses, resulting in a $6.6 million, or 10%, increase in operating income compared to fiscal 2020.
+Gross margins rose by $4.4 million in fiscal 2020; the increase was more than offset by an overall increase of $4.9 million, or 4.0%, in operating expenses, resulting in a 1% decrease in operating income compared to fiscal 2019.
+OTHER INCOME (EXPENSE)
+Other Income (Expense) for the previous three fiscal years consisted of the following:
+Interest income declined by $4.4 million in fiscal 2021 compared to fiscal 2020, despite higher cash and marketable securities balances, as yields on fixed income securities declined significantly during the year; the U.S. Federal Reserve intervened in markets to lower rates to stimulate the economy during the COVID-19
+pandemic. Interest income rose in fiscal year 2020 compared to fiscal 2019, due to higher cash balances and rising interest rates during most of fiscal 2020. The loss from foreign currency translations in fiscal years 2021, 2020 and 2019 is primarily the result of the changes in the value of foreign currencies relative to the U.S. dollar in countries in which we operate; the dollar strengthened against most of these currencies in all three years.
+In fiscal 2021, we received proceeds of $309,000 for a property loss settlement and recorded $300,000 of expense resulting from a legal settlement with a vendor. Additionally, adjustments to contingent consideration accruals resulted in $148,000 of income. In fiscal 2020, we took a charge to expense and recorded a reserve of $600,000 to provide for potential fines or penalties resulting from an administrative subpoena issued by the U.S. Treasury Department’s Office of Foreign Asset Control. This was partially offset by a $483,000 gain resulting from a settlement with the Brazilian government related to sales taxes charged over several years, and proceeds received for a property loss settlement. In fiscal 2019, gains were recognized on insurance proceeds received for property loss settlements; additionally, adjustments were made to Quat-Chem and Deoxi contingent consideration amounts based on the level of achievement of revenue targets for the acquired businesses in that fiscal year.
+PROVISION FOR INCOME TAXES
+Income tax expense for fiscal 2021 was $14,386 million, an effective tax rate of 19.1%, compared to income tax expense of $12.8 million in 2020, an effective tax rate of 17.7%. For fiscal 2019, income tax expense of $12.8 million represented an effective tax rate of 17.5%.
+Differences from the U. S. statutory rate of 21% to our effective rate are primarily due to provisions in the U.S. Tax Act and the exercise of stock options. Please refer to Note 6 to the consolidated financial statements for more information.
+NET INCOME AND INCOME PER SHARE
+Net income increased 2% in fiscal 2021 compared to fiscal 2020, primarily due to the $6.7 million increase in operating income. The increase in operating income was partially offset by lower other income and higher tax expense for the year.
+Net income decreased $701,000 in fiscal 2020 compared to fiscal 2019, primarily due to the $654,000 decrease in pre-tax
+income.
+FUTURE OPERATING RESULTS
+Neogen Corporation’s future operating results involve a number of risks and uncertainties. Actual events or results may differ materially from those discussed in this report. Factors that could cause or contribute to such differences include, but are not limited to, the factors discussed below as well as those discussed elsewhere in this report. Management’s ability to grow the business in the future depends upon our ability to successfully implement various strategies, including:
+•
+developing, manufacturing and marketing new products with new features and capabilities, and having those new products successfully accepted in the marketplace;
+•
+expanding our markets by fostering increased use of our products by customers;
+•
+maintaining or increasing gross and net operating margins in changing cost environments;
+•
+strengthening operations and sales and marketing activities in geographies outside of the U.S.;
+•
+developing and implementing new technology development strategies; and
+•
+identifying and completing acquisitions that enhance existing product categories or create new products or services.
+FINANCIAL CONDITION AND LIQUIDITY
+On May 31, 2021, we had $75.6 million in cash and cash equivalents, $305.5 million in marketable securities, and net working capital of $537.9 million. For the year ended May 31, 2021, cash generated from operating activities was $81.2 million, compared to $85.9 million generated in fiscal 2020; proceeds from stock option exercises provided an additional $34.6 million of cash. For the same period, additions to property, equipment and other non-current
+assets were $26.7 million and business acquisitions used cash of $52.0 million. We have a financing agreement with a bank providing for an unsecured revolving line of credit of $15.0 million, which expires on November 30, 2023. There were no advances against this line of credit during fiscal years 2021, 2020 and 2019, and no balance outstanding at May 31, 2021 and 2020.
+Net accounts receivable at May 31, 2021 were $91.8 million, compared to $84.7 million at May 31, 2020; the increase is primarily due to the increased sales in the fourth quarter of fiscal 2021 compared to the corresponding period a year ago. Our days sales outstanding, a measurement of the time it takes to collect receivables, improved to 66 days at May 31, 2021 compared to 68 days at May 31, 2020. We have been carefully monitoring our customer receivables as the COVID-19
+pandemic has spread across our global markets; to date, although there has been some slowdown in collections, we have not experienced an appreciable increase in bad debt write offs.
+Inventory balances were $100.7 million at May 31, 2021, an increase of $5.6 million, or 6%, compared to $95.1 million at May 31, 2020; excluding inventory from the Megazyme acquisition in December 2020, our inventory is flat compared to a year ago. While we took proactive measures over the last 18 months to ensure adequate supply of inventory during the COVID-19
+pandemic, we have also continued to focus on improving inventory turns across the business.
+Neogen has been consistently profitable and has generated strong cash flow from operations during each of the past three fiscal years. However, our cash on hand and current borrowing capacity may not be sufficient to meet our cash requirements to commercialize products currently under development or our future plans to acquire additional businesses, technology and products that fit within our strategic plan. Accordingly, we may be required, or may choose, to issue equity securities or enter into other financing arrangements for a portion of our future capital needs.
+We are subject to certain legal and other proceedings in the normal course of business that have not had, and, in the opinion of management, are not expected to have, a material effect on our results of operations or financial position.
+CONTRACTUAL OBLIGATIONS
+As of May 31, 2021, we have the following contractual obligations due by period:
+(1) Unconditional purchase obligations are primarily purchase orders for future inventory and capital equipment purchases.
+NEW ACCOUNTING PRONOUNCEMENTS
+See discussion of any New Accounting Pronouncements in Note 1 to consolidated financial statements.

@@ -1,0 +1,345 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following Discussion and Analysis should be read in conjunction with STRATTEC SECURITY CORPORATION’s accompanying Financial Statements and Notes thereto included in this Form 10-K. Unless otherwise indicated, all references to years or quarters refer to fiscal years or fiscal quarters of STRATTEC.
+Executive Overview
+Historically, a significant portion of our total net sales have been to domestic automotive OEMs (General Motors, Ford and Stellantis (formerly Fiat Chrysler)). During the past two decades these customers lost North American market share to the New Domestic automotive manufacturers (primarily the Japanese and Korean automotive manufacturers). In addition to our dependence on our customers’ maintaining their market share, our financial performance depends in large part on conditions in the overall automotive industry, which in turn, are dependent upon the U.S. and global economies. During fiscal years 2022 and 2021, the above domestic automotive OEMs together represented each year 65 percent and 62 percent, respectively, of our total net sales.
+During fiscal years 2022 and 2021, we experienced stronger sales demand for our components from our major North American customers noted above as it relates to light trucks and both sport utility and car based utility vehicles in comparison to passenger cars, which was likely influenced by customer preferences and gas prices. If gas prices continue to rise over the next several years, this consumer buying trend may not continue, which is approximately 80 percent light trucks and sport utility vehicles in comparison to 20 percent passenger car vehicle purchases today. During the last 3-5 years our major customers General Motors, Ford and Stellantis eliminated passenger car production on several models in North America as a strategy to improve their overall profitability going forward. Additionally, several of our significant customers have announced plans to increase production volumes for their models of Electric Vehicles. As these customers start migrating over to Electric Vehicles we believe a significant amount of our current and future product content will continue to be purchased by our key customers and will be adopted in this changeover (refer to vehicle list included at page 7 in this Form 10-K).
+Fiscal 2022 net sales were $452 million compared to $485 million in 2021. Both the fiscal 2022 and 2021 net sales were negatively impacted by the global semiconductor chip shortage which caused our OEM customers to temporarily shut down their assembly plants and which ultimately reduced our net sales and profitability during each of these years. In addition, we see these supply chain shortages continuing into fiscal year 2023. Net income attributable to STRATTEC for fiscal 2022 was $7.0 million and the Net income attributable to STRATTEC in fiscal 2021 was $22.5 million. In addition, during fiscal years 2022 and 2021 the Company produced additional finished goods inventory in anticipation of our OEM customers coming out of the temporary shutdowns from the impact of the COVID-19 pandemic and other supply chain shortages to fill their dealer pipelines which are at historic low levels. Also impacting profitability in fiscal year 2022 were increased costs for purchased raw materials relating to zinc, steel, nickel silver, brass, aluminum and plastic resins. In most cases we were not able to pass along all these increased costs to our customers through pricing increases. Another factor impacting our profitability is our U.S. Dollar and Mexican Peso exchange rate that affects our operations in Mexico. In the case of the Mexican Peso, the Company does have certain hedging strategies to offset the impact of the exchange rate effects on profitability. Finally, on each of January 1, 2022 and 2021, the Mexican Government mandated minimum wage increases of 22% and 15%, respectively which also negatively impacted our overall profitability.
+As we look out into the future, the July 2022 projections from our third-party forecasting service indicate that North American light vehicle production will show a significant increase in demand in vehicle production build for the next four years from our original 2022 forecast which was originally set lower due to the expected lingering effects of the COVID-19 pandemic and the ongoing global semiconductor chip shortage. By model year, based on these projections we are expecting a 2022 vehicle build of 13.4 million vehicles, 15.8 million vehicles for 2023, 16.8 million vehicles for 2024, 16.8 million vehicles for 2025 and 16.5 million vehicles for 2026. These vehicle production estimates going forward were significantly increased due to the impact of COVID-19 that lowered vehicle production in late fiscal 2020 and the global semiconductor chip shortage in late fiscal 2021 and 2022 which also continues to negatively impact vehicle production levels. As part of this third party projection, the Ford Motor Company, General Motors and Stellantis are expected to experience increased vehicle production volumes in their production levels during this time period. Of course, all of these forecasts are subject to variability based on what happens in the overall North American and global economies, especially as it relates to the world wide status of the global semiconductor chip and other supply chain shortages and the lingering impacts of the COVID-19 pandemic that may shut down our customers' assembly facilities and further disrupt supply chains in the foreseeable future, potential tariff enactment by the United States Government or other foreign countries, the current levels of employment, availability of consumer credit, home equity values, fluctuating fuel prices, changes in customer vehicle and option preferences, product quality issues, including related to recall and product warranty coverage issues, and other key factors that we believe could determine whether consumers can or will purchase new vehicles or particular brands.
+Focus and Strategy Going Forward
+STRATTEC’s long-term strategy is focused on maximizing long-term shareholder value by driving profitable growth. Our management believes productivity improvements and cost reductions are critical to our competitiveness, while enhancing the value we deliver to our customers. In order to accomplish this, we have been pursuing, and we intend to continue to pursue over the foreseeable future, the following objectives as summarized below:
+-
+Streamline and standardize processes to increase productivity and improve the quality of our products
+-
+Maintain a disciplined and flexible cost structure to leverage scale and optimize asset utilization and procurement
+-
+Maintain our strong financial position by deploying capital spending targeted for growth and productivity improvement
+-
+Leverage the “VAST Automotive Group Brand” with customer relationships to generate organic growth for STRATTEC from global programs
+-
+Offer our customers innovative products and technologies, in particular electronics capabilities, along with cost savings solutions to meet their changing demands
+-
+Explore and execute targeted mergers and acquisitions or other joint venture opportunities with a disciplined due diligence approach and critical financial analysis to drive shareholder value
+We use several key performance indicators to gauge progress toward achieving these objectives. These indicators include net sales growth, operating margin improvement, return on capital employed and cash flow from operations.
+Results of Operations
+2022 Compared to 2021
+Years Ended
+July 3, 2022
+June 27, 2021
+Net Sales (millions of dollars)
+$
+452.3
+$
+485.3
+Net Sales to each of our customers or customer groups in the current year and prior year were as follows (millions of dollars):
+Years Ended
+July 3, 2022
+June 27, 2021
+General Motors Company
+$
+130.2
+$
+146.5
+Stellantis (Formerly Fiat Chrysler Automobiles)
+83.3
+85.6
+Ford Motor Company
+79.7
+67.7
+Tier 1 Customers
+59.3
+66.8
+Commercial and Other OEM Customers
+65.0
+77.0
+Hyundai / Kia
+34.8
+41.7
+Total
+$
+452.3
+$
+485.3
+Current year sales were adversely impacted by the global semiconductor chip shortage that temporarily closed several of our customers’ assembly plants, caused production schedule reductions for all of our customers and, as a result, reduced orders for our products and our net sales to all customer groups (other than Ford Motor Company as noted below) in the current year period as compared to the prior year period. Our 2022 fiscal year was 53 weeks while our 2021 fiscal year was 52 weeks. The impact of the additional week of sales during the current year partially offset the reduction in net sales resulting from the semiconductor chip shortage and increased current year sales by approximately $7.4 million. The following items further impacted sales to the noted customer groups between periods:
+-
+Sales to Ford Motor Company were positively impacted in the current year due to higher product content, and in particular for the new power tailgate program on the pickup trucks. The favorable impact of this higher product content more than offset the volume reduction in the current year resulting from the global semiconductor chip shortage.
+-
+Sales to Stellantis were positively impacted in the current year due to increased sales of the Chrysler Pacifica.
+-
+Commercial and Other OEM Customers, along with Tier 1 Customers, primarily represent purchasers of vehicle access control products, such as latches, key fobs, driver controls, steering column locks and door handles, that we have developed in recent years to complement our historic core business of locks and keys. Sales to Commercial and Other OEM Customers were negatively impacted in the current year by a reduction in sales related to door handle and power access products sold to Volkswagen and Honda of America Manufacturing. Sales to Tier 1 Customers in the current year period were negatively impacted by lower sales volumes on our driver control steering column lock products.
+-
+Hyundai / Kia sales were negatively impacted in the current year due to lower levels of production on their Kia Carnival, formerly the Kia Sedona and Hyundai Starex minivans, for which we supply primarily power sliding door components.
+Years Ended
+July 3, 2022
+June 27, 2021
+Millions of Dollars
+Percent of Cost of Goods Sold
+Millions of Dollars
+Percent of Cost of Goods Sold
+Direct Material Costs
+$
+260.8
+65.8
+%
+$
+268.6
+66.1
+%
+Labor and Overhead Costs
+135.4
+34.2
+%
+138.0
+33.9
+%
+Total Cost of Goods Sold
+$
+396.2
+$
+406.6
+The direct material cost decrease was due to reduced sales volumes between years, as discussed above, which more than offset an increase in direct material costs in the current year as compared to the prior resulting from higher raw material and purchased component costs. In the current year period as compared to the prior year period, our direct material costs decreased as a percent of cost of goods sold while our labor and overhead costs increased as a percent of cost of goods sold. This shift was due to our material costs varying with the sales volume reduction between years while our labor and overhead cost reduction, as discussed below, did not keep pace with the sales reduction between years.
+Labor and overhead costs decreased between years. The variable portion of our labor and overhead costs decreased due to lower levels of production at our facilities in the current year as compared to the prior year and production efficiencies at our Milwaukee and Mexico facilities, which reduced labor and overhead costs in the current year as compared to the prior year. This impact was partially offset by less favorable absorption of our fixed overhead costs in the current year as compared to the prior year resulting from the production volume reduction between years and an additional week of expense in the current year as compared to the prior year as our fiscal 2022 was a 53 week year and our fiscal 2021 was a 52 week year. Labor and overhead costs were further impacted by the following:
+-Cost Increases:
+-
+Mexico wages and benefits increased $5.2 million in the current year as compared to the prior year period as a result of January 1, 2021 and January 1, 2022 government mandated minimum wage increases.
+-
+The U.S. dollar value of our Mexican operations was negatively impacted by approximately $1.8 million in the current year as compared to the prior year due to an unfavorable Mexican peso to U.S. dollar exchange rate between years. The average U.S. dollar / Mexican peso exchange rate decreased to approximately 20.33 pesos to the dollar in the current year period from approximately 20.90 pesos to the dollar in the prior year period.
+-
+Current year period costs included lump sum bonuses totaling $100,000 paid to our Milwaukee represented hourly workers upon the ratification of a new four-year labor contract, which contract is effective through November 1, 2025.
+Cost Decreases:
+-
+Expense provisions under our incentive bonus plans impacting cost of goods sold decreased $3.8 million between periods.
+-
+The prior year period included a loss on disposal of fixed assets of $1.4 million compared to a current year quarter loss of $192,000.
+Years Ended
+July 3, 2022
+June 27, 2021
+Gross Profit (millions of dollars)
+$
+56.0
+$
+78.7
+Gross Profit as a percentage of net sales
+12.4
+%
+16.2
+%
+The decrease in gross profit dollars in the current year as compared to the prior year was attributed to the decrease in net sales between years, partially offset by the decrease in cost of goods sold as discussed above. Gross profit as a percentage of net sales decreased between years due to reduced sales, which resulted in less favorable absorption of our fixed costs, and due to increased direct material costs between periods, which negatively impacted the gross profit margin percentage by 210 basis points between years, as discussed above.
+Engineering, Selling and Administrative Expenses in the current year and prior year were as follows:
+Years Ended
+July 3, 2022
+June 27, 2021
+Expenses (millions of dollars)
+$
+47.1
+$
+44.7
+Expenses as a percentage of net sales
+10.4
+%
+9.2
+%
+Engineering, selling and administrative expenses were impacted by the following:
+Cost Increases:
+-
+Prior year customer reimbursement of engineering development costs, which costs were incurred in periods prior to 2021, decreased costs $1.5 million between years, which reimbursement was agreed to in the prior year.
+-
+Customer reimbursement of engineering development costs, in addition to the $1.5 million noted above, decreased $900,000 between years and resulted from the timing of customer reimbursement for development spending on new product programs.
+-
+The prior year included temporary wage reductions for our salaried work force, which we implemented to address the impacts of the COVID-19 pandemic on our operations.
+-
+The current year includes an additional week of expense as our fiscal 2022 was a 53 week year and our fiscal 2021 was a 52 week year.
+Cost Decrease:
+-
+Expense provisions under our incentive bonus plans impacting engineering, selling and administrative expenses decreased $2.8 million between years.
+Income from operations in the current year was $8.9 million compared to income from operations of $33.9 million in the prior year. This change between years was the result of decreased sales and increased engineering, selling and administrative expenses, which were partially offset by a decrease in cost of goods sold in the current year as compared to the prior year, all as discussed above.
+Equity earnings of joint ventures during the fiscal years ending July 3, 2022 and June 27, 2021 were $181,000 and $2.6 million respectively. Lower profitability during fiscal 2022 from our VAST LLC joint venture resulted from reduced net sales and reduced profitability in our VAST China operation between years. The reduced profitability in our VAST China operation stemmed from the current global semiconductor chip shortage described above and Chinese Government mandated temporary facility shutdowns due to COVID-19. VAST China’s profitability in the current year was also partially offset with continued startup losses related to their new plant in Jingzhou, China. Additionally, during the current year, VAST China experienced a fire at their Taicang plant. As a result, certain door handle and painting operations were subsequently transferred to their new Jingzhou facility and another supplier. The transfer of production negatively impacted VAST China’s profitability during the second half of our fiscal 2022. We currently believe a presence in the Asian market is a key component of our global strategy. We anticipate that it will contribute to our overall long-term market and financial strength as the Asian market continues to expand and as it seeks to rebound from the ongoing impacts of the COVID-19 pandemic and resulting supply chain shortages of critical electronic component parts. Due to our limited amount of business in both India and Brazil as well as the impact of COVID-19 and the global semiconductor chip shortage described above, our VAST LLC joint venture in India continues to have break-even operating results and our VAST LLC joint venture in Brazil continues to report losses.
+Included in other income (expense), net in the current year and prior year were the following items (thousands of dollars):
+Years Ended
+July 3, 2022
+June 27, 2021
+Foreign currency transaction gain (loss)
+$
+$
+(2,445
+)
+Rabbi Trust Assets (loss) gain
+(304
+)
+Unrealized gain on Mexican peso forward contracts
+Realized gain on Mexican peso forward contracts, net
+Pension and postretirement plans cost
+(488
+)
+(483
+)
+Other
+$
+$
+(1,165
+)
+-
+Foreign currency transaction gains and losses resulted from activity associated with foreign denominated assets held by our Mexican subsidiaries.
+-
+The Rabbi Trust assets fund our amended and restated supplemental executive retirement plan. The investments held in the Trust are considered trading securities.
+-
+We entered into the Mexican peso currency forward contracts during fiscal 2022 and 2021 to minimize earnings volatility resulting from changes in exchange rates affecting the U.S. dollar cost of our Mexican operations. Unrealized gains and losses on the peso forward contracts recognized as a result of mark-to-market adjustments as of July 3, 2022 may or may not be realized in future periods, depending on actual Mexican peso to U.S. dollar exchange rates experienced during the balance of the contract period.
+-
+Pension and postretirement plan costs include net periodic benefit cost other than the service cost component.
+Our effective income tax rate for 2022 was 4.5 percent compared to 14.6 percent in 2021. The reduction in our effective tax rate in 2022 as compared to 2021 was due to adjustments made to the amount of our 2021 estimated foreign tax credits and estimated tax impacts associated with our investment in VAST LLC. These true-up adjustments resulted from the filing of our 2021 U.S. income tax returns during 2022 and were attributable to actual results included in non-U.S. income tax returns, which are filed on a calendar year basis, and which differ from estimates included in our 2021 tax provision. The adjustment amounts recorded during 2022 totaled $1.0 million. Our effective tax rate for 2022 excluding these adjustments was 15.6 percent. These adjustments were not material to our previously issued financial statements. Additionally, effective July 20, 2020, the U.S. Treasury Department finalized and enacted previously proposed regulations regarding Global Intangible Low Taxed Income (GILTI) tax provisions of the Tax Cuts and Jobs Act of 2017 (TCJA). Prior to this enactment, GILTI represented a significant U.S. income tax on our foreign earnings during 2020. With the enactment of these final regulations, we became eligible for an exclusion from GILTI since we met provisions for the GILTI High-Tax exception included in the final regulations. The enactment of these new regulations and our eligibility for the GILTI High-Tax exception was retroactive to the original enactment of the GILTI tax provision, which included our fiscal 2020. As a result, we
+recorded an income tax benefit of $675,000 during 2021. Our income tax provision for each year 2022 and 2021 was affected by the non-controlling interest portion of our pre-tax income, GILTI provisions and R&D tax credit. The non-controlling interest impacts the effective tax rate as our ADAC-STRATTEC LLC and STRATTEC POWER ACCESS LLC entities are taxed as partnerships for U.S. tax purposes.
+Liquidity and Capital Resources
+Working Capital (millions of dollars)
+July 3, 2022
+June 27, 2021
+Current Assets
+$
+188.2
+$
+174.9
+Current Liabilities
+81.5
+77.6
+Working Capital
+$
+106.7
+$
+97.3
+Outstanding Receivable Balances from Major Customers
+Our primary source of cash flow is from our major customers, which include Stellantis (formerly Fiat Chrysler Automobiles), General Motors Company and Ford Motor Company. As of the date of filing this Annual Report with the Securities and Exchange Commission, all of our customers are making payments on their outstanding accounts receivable in accordance with the payment terms included on their purchase orders. A summary of our outstanding receivable balances from our major customers as of July 3, 2022 and June 27, 2021 was as follows (millions of dollars):
+July 3, 2022
+June 27, 2021
+General Motors Company
+$
+24.6
+$
+22.9
+Stellantis
+$
+12.8
+$
+11.9
+Ford Motor Company
+$
+10.6
+$
+8.2
+$
+48.0
+$
+43.0
+Cash Balances in Mexico
+We earn a portion of our operating income in Mexico. As of July 3, 2022, $2.2 million of our $8.8 million cash and cash equivalents balance was held in Mexico. These funds are available for repatriation as deemed necessary.
+Cash Flow Analysis
+Years Ended
+July 3, 2022
+June 27, 2021
+Cash Flows from (millions of dollars):
+Operating Activities
+$
+10.4
+$
+35.2
+Investing Activities
+$
+(14.3
+)
+$
+(9.0
+)
+Financing Activities
+$
+(1.9
+)
+$
+(22.9
+)
+$
+(5.8
+)
+$
+3.3
+The decrease in cash provided by operating activities between 2021 and 2022 was due to a reduction in operating income as previously discussed. The decrease in operating income was slightly offset by a net decrease in working capital requirements between these years of $1.3 million, with the net decrease in our working capital requirements being made up of the following working capital changes (millions of dollars):
+Increase (Decrease) in Working Capital Requirements
+Change
+Accounts Receivable
+$
+5.9
+$
+27.7
+$
+(21.8
+)
+Inventories
+$
+9.6
+$
+16.5
+$
+(6.9
+)
+Customer Tooling
+$
+3.3
+$
+1.2
+$
+2.1
+Other Assets
+$
+(0.2
+)
+$
+1.2
+$
+(1.4
+)
+Accounts Payable and Other Liabilities
+$
+(1.8
+)
+$
+(28.5
+)
+$
+26.7
+$
+16.8
+$
+18.1
+$
+(1.3
+)
+-
+The increase in accounts receivable balances during the current year was mostly due to payments from a specific customer being made in advance of the payment term due dates in the prior year while current year payments from that customer were made according to payment term due. The increase in the accounts receivable balances in the prior year reflected reduced sales levels from the end of March 2020 through June 2020, which reduction was primarily due to our OEM customers reducing production schedules and closing their assembly plants due to the COVID-19 outbreak. As sales ramped up during our fiscal 2021, the accounts receivable balance increased accordingly.
+-
+The change in inventory reflected an increase in inventory balances during both the current year period and the prior year period. The current year increase was due to increased raw material and purchased part costs and an intentional build-up of inventory in order to meet future customer demand associated with potential order volume increases. The prior year period increase was due to an inventory build-up as of June 2021 while our OEM customers experienced assembly plant shut-downs and reduced production schedule during late March 2021 through June 2021 due to certain part shortages.
+-
+The change in customer tooling balances, which consisted of costs incurred for the development of tooling that will be directly reimbursed by the customer whose parts are produced from the tool, was the result of the timing of tooling development spending required to meet customer production requirements and related billings for customer reimbursements.
+-
+The prior year change in other assets was the result of an increase in the income tax recoverable, which changes were based on the required income tax provision, the timing and amounts of Federal, state and foreign tax payments made, and the timing of the utilization of foreign tax credits and research and development tax credits.
+-
+The prior year change in accounts payable and accrued liability balances was primarily the result of an increase in accounts payable balances and accruals under our bonus plans. Bonus accruals at June 2021 totaled $6.6 million. Bonus accruals were zero at June 2020. Accounts payable balances were significantly reduced as of June 2020 due to the impact of COVID-19 and the lower production levels stemming from that impact. Accounts payable balances increased as of June 2021 as our business had ramped-up throughout our fiscal 2021 along with business in the automotive industry in general. The current year change in accounts payable and accrued liability balances includes an increase in accounts payable balances partially offset by a reduction in accruals under our bonus plans. Accounts payable balances continued to increase during our fiscal 2022 due to increase raw material and purchased part costs and increased inventory balances. The reduction in accruals under our bonus plans resulted from a payout of the $6.6 million accrued bonus as of June 2021 during 2022. Bonus accruals were zero at June 2022. Accounts payable balances reflect the timing of purchases and payments with our vendors based on normal, established payment terms.
+Net cash used by investing activities of $14.3 million during 2022 and $9.0 million during 2021 included capital expenditures of $14.2 million and $8.9 million, respectively. Capital expenditures during each year were made in support of requirements for new product programs and the upgrade and replacement of existing equipment. Net cash used by investing activities during 2022 and 2021 also included an investment in our VAST LLC joint venture of $150,000 and $100,000, respectively. The investments were made for the purpose of funding general operating expenses for Sistema de Acesso Veicular Ltda, our Brazilian joint venture.
+Net cash used in financing activities of $1.9 million during 2022 included repayments of borrowings under credit facilities of $14.0 million and $1.8 million of dividend payments to non-controlling interests in our subsidiaries, partially offset by borrowings under credit facilities of $13 million and $908,000 received for the exercise of stock options under our stock incentive plan and purchases under our employee stock purchase plan. Net cash used in financing activities of $22.9 million during 2021 included repayments of borrowings under credit facilities of $23.0 million and $490,000 of dividend payments to non-controlling interests in our subsidiaries, partially offset by $604,000 received for the exercise of stock options under our stock incentive plan and purchases under our employee stock purchase plan.
+Cash Requirements
+Dividends
+On May 13, 2020, our Board of Directors took action to temporarily suspend payment of our quarterly dividend for the foreseeable future in order to conserve cash as a result of the economic downturn caused by COVID-19. No dividends were paid to shareholders during fiscal 2022 and fiscal 2021.
+VAST LLC Cash Requirements
+We currently anticipate that VAST China has adequate debt facilities in place over the next fiscal year to cover the future operating and capital requirements of its business. During 2022, capital contributions totaling $450,000 were made to VAST LLC for purposes of funding operations in Brazil. STRATTEC’s portion of the capital contribution totaled $150,000. During 2021, capital contributions totaling $300,000 were made to VAST LLC for purposes of funding operations in Brazil. STRATTEC’s portion of the capital contribution totaled $100,000. Due to economic conditions in Brazil, we anticipate Sistema de Acesso Veicular Ltda may require an additional capital contribution of approximately $300,000 collectively by all VAST LLC partners to fund operations during our fiscal year 2023. STRATTEC’s portion of these capital contributions is anticipated to be $100,000. During 2022 and 2021, VAST LLC made no capital contributions to Minda-VAST Access Systems. We currently anticipate no required future capital contributions to Minda-VAST Access Systems for fiscal year 2023.
+Future Capital Expenditures
+We anticipate capital expenditures will be approximately $13.0 million in fiscal 2023 in support of requirements for new product programs and the upgrade and replacement of existing equipment.
+Stock Repurchase Program
+Our Board of Directors has authorized a stock repurchase program to buy back outstanding shares of our common stock. Shares authorized for buy back under the program totaled 3,839,395 at July 3, 2022. A total of 3,655,322 shares have been repurchased over the life of the program through July 3, 2022, at a cost of approximately $136.4 million. No shares were repurchased during fiscal 2022 or 2021. Additional repurchases may occur from time to time and are expected to continue to be funded by cash flow from operations and current cash balances. At this time, we anticipate minimal or no stock repurchase activity in fiscal year 2023.
+Other Cash Requirements
+We have an operating lease for our El Paso, Texas finished goods and service parts distribution warehouse, which has a term in excess of one year. We also have purchase commitments related to zinc and other purchased parts. Refer to required future payments under the lease and purchase commitments in the discussion of Leases under Organization and Summary of Significant Accounting Policies and in the discussion of Commitments and Contingencies included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.
+Credit Facilities
+STRATTEC has a $40 million secured revolving credit facility (the “STRATTEC Credit Facility”) with BMO Harris Bank N.A. ADAC-STRATTEC LLC has a $25 million secured revolving credit facility (the “ADAC-STRATTEC Credit Facility”) with BMO Harris Bank N.A., which is guaranteed by STRATTEC. The credit facilities expire August 1, 2024. Borrowings under either credit facility are secured by our U.S. cash balances, accounts receivable, inventory, and fixed assets located in the U.S. Interest on borrowings under the STRATTEC Credit Facility through May 31, 2021 was at varying rates based, at our option, on the London Interbank Offering Rate (“LIBOR”) plus 1.0 percent or the bank’s prime rate. Interest on borrowings under the ADAC-STRATTEC Credit Facility through May 31, 2021 was at varying rates based, at our option, on LIBOR plus 1.25 percent or the bank’s prime rate. Effective June 1, 2021 interest on borrowings under both credit facilities were at varying rates based, at our option, on the London Interbank Offering Rate (“LIBOR”) plus 1.25 percent or the bank’s prime rate. Both credit facilities contain a restrictive financial covenant that requires the applicable borrower to maintain a minimum net worth level. The ADAC-STRATTEC Credit Facility includes an additional restrictive financial covenant that requires the maintenance of a minimum fixed charge coverage ratio. As of July 3, 2022, we were in compliance with all financial covenants required by these credit facilities. There were no outstanding borrowings under the STRATTEC Credit Facility as of July 3, 2022 or June 27, 2021. The average outstanding borrowings and weighted average interest rate on the STRATTEC Credit Facility loans were approximately $332,000 and 2.0 percent, respectively, during 2022. The average outstanding borrowings and weighted average interest rate on the STRATTEC Credit Facility loans were approximately $8.8 million and 1.2 percent, respectively, during 2021. Outstanding borrowings under the ADAC-STRATTEC Credit Facility totaled $11 million at July 3, 2022 and $12 million at June 27, 2021. The average outstanding borrowings and weighted average interest rate on the ADAC-STRATTEC Credit Facility loans were approximately $14.2 million and 1.5 percent, respectively, during 2022. The average outstanding borrowings and weighted average interest rate on the ADAC-STRATTEC Credit Facility loans were approximately $14.3 million and 1.4 percent, respectively, during 2021. We believe that the credit facilities are adequate, along with existing cash flows from operations, to meet our anticipated capital expenditure, working capital, dividend, and operating expenditure requirements.
+Joint Ventures and Majority Owned Subsidiaries
+Refer to the discussion of Investment in Joint Ventures and Majority Owned Subsidiaries and discussion of Equity Earnings of Joint Ventures included in the Notes to Financial Statements included within this Form 10-K.
+Critical Accounting Policies
+We believe the following represents our critical accounting policies:
+Liability for Uncertain Tax Positions - We are subject to income taxation in many jurisdictions around the world. Significant management judgment is required in the accounting for income tax contingencies because the outcomes are often difficult to determine. We are required to measure and recognize uncertain tax positions that we have taken or expect to take in our income tax returns. The benefit of an uncertain tax position can only be recognized in the financial statements if management concludes that it is more likely than not that the position will be sustained with the tax authorities. For a position that is likely to be sustained, the benefit recognized in the financial statements is measured at the largest amount that is greater than 50 percent likely of being realized. A reserve is established for the difference between a position taken in an income tax return and the amount recognized in the financial statements. The amount of unrecognized benefits, that if recognized, would affect the effective tax rate was $1.0 million at July 3, 2022 and $1.1 million at June 27, 2021. An increase or decrease in our assessment of the recorded amount of unrecognized benefits by 10 percent would result in an increase or decrease in the reported tax provision, before the impact of interest and penalties, of $100,000 at July 3, 2022 and $110,000 at June 27, 2021. Refer to the discussion of Income Taxes included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.
+Warranty Reserve - We have a warranty liability recorded related to our exposure to warranty claims in the event our products fail to perform as expected, and we may be required to participate in the repair costs incurred by our customers for such products. The recorded warranty liability balance involves judgment and estimates. Our liability estimate is based on an analysis of historical warranty data as well as current trends and information, including our customers’ recent extension or expansion of their warranty programs. Actual warranty costs might differ from estimates due to the level of actual claims varying from our claims experience and estimates and final negotiations and settlements reached with our customers. Therefore, future actual claims experience could result in changes in our estimates of the required liability. Sensitivity of potential warranty or product recall claims is dependent on the respective customer platform, volumes, production years and product content. We have product recall insurance once a recall claim exceeds $5 million with a limit of $35 million. Refer to the discussion of Warranty Reserve under Organization and Summary of Significant Accounting Policies included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.
+We believe the reserve discussed above is estimated using consistent and appropriate methods. However, changes to the assumptions could materially affect the recorded reserve amount.
+New Accounting Standards
+Refer to the discussion of New Accounting Standards under Organization and Summary of Significant Accounting Policies included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.

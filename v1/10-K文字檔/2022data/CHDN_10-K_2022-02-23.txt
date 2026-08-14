@@ -1,0 +1,297 @@
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our consolidated financial condition and results of operations should be read in conjunction with our audited consolidated financial statements and related notes included in Part II, Item 8. Financial Statements and Supplementary Data. The following discussion provides an analysis of our results of operations and reasons for material changes therein for 2021 as compared to 2020. Discussion regarding our financial condition and results of operations for 2020 as compared to 2019 is included in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2020, filed with the SEC on February 24, 2021.
+Our Business
+The Company is an industry-leading racing, online wagering and gaming entertainment company anchored by our iconic flagship event, the Kentucky Derby. We own and operate three pari-mutuel gaming entertainment venues with approximately 3,050 historical racing machines ("HRMs") in Kentucky. We also own and operate TwinSpires, one of the largest and most profitable online wagering platforms for horse racing, sports and iGaming in the U.S. and we have nine retail sportsbooks. We are also a leader in brick-and-mortar casino gaming in eight states with approximately 11,000 slot machines and video lottery terminals ("VLTs") and 200 table games. We were organized as a Kentucky corporation in 1928, and our principal executive offices are in Louisville, Kentucky.
+During the first quarter of 2021, we updated our operating segments to reflect the internal management reporting used by our chief operating decision maker to evaluate results of operations and to assess performance and allocate resources. Our internal management reporting changed primarily due to the continued growth from Oak Grove Racing, Gaming & Hotel ("Oak Grove") and Turfway Park Racing & Gaming (“Turfway Park”), which opened its annex HRM facility, Newport Racing & Gaming ("Newport"), in October 2020, which resulted in our chief operating decision maker's decision to include Oak Grove, Turfway Park and Newport in the new Live and Historical Racing segment. The Live and Historical Racing segment now includes Churchill Downs Racetrack, Derby City Gaming, Oak Grove, Turfway Park, and Newport. We also realigned our retail sports betting results at our wholly owned casinos from our Gaming segment to our TwinSpires segment. As a result of this realignment, our operating segments that meet the requirements to be disclosed separately as reportable segments are: Live and Historical Racing, TwinSpires, and Gaming. For additional information, refer to Note 22 to the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+Impact of the COVID-19 Global Pandemic
+In March 2020, the World Health Organization declared the COVID-19 outbreak a global pandemic. The COVID-19 global pandemic resulted in travel limitations and business and government shutdowns which had a significant negative economic impact in the United States and to our business. Although vaccines are available, we cannot predict the duration of the COVID-19 global pandemic. The extent to which the COVID-19 pandemic, including the emergence of variant strains, will continue to impact the Company remains uncertain and will depend on many factors that are not within our control.
+In March 2020, as a result of the COVID-19 outbreak, we temporarily suspended operations at our wholly owned and managed gaming properties, announced the temporary furlough of our employees at these properties and certain racing operations and implemented a temporary salary reduction for all remaining non-furloughed salaried employees based on a percentage that varied dependent upon the amount of each employee’s salary. The most senior level of executive management received the largest salary decrease, based on both percentage and dollar amount.
+In May 2020, we began to reopen our properties with patron restrictions and gaming limitations. One property suspended operations again in July 2020 and reopened in August 2020, and three properties suspended operations in December 2020 and reopened in January 2021. All of our gaming properties have remained open since January 2021.
+The 146th Kentucky Oaks and Derby were held in the third quarter of 2020 without spectators. During the second quarter of 2021, we held the 147th Kentucky Oaks and Derby with capacity restrictions in compliance with Kentucky venue limitations at that time. The capacity restrictions limited reserved seating in each area to approximately 40% to 60% capacity and limited general admission tickets. Due to such restrictions, our revenues from the Kentucky Oaks and Derby in each year were significantly less than we would otherwise expect.
+Assets Held for Sale
+On September 29, 2021, the Company announced an agreement to sell the 326-acre property in Arlington Heights, Illinois (the "Arlington Property"), which is the current home of Arlington International Racecourse ("Arlington"), to the Chicago Bears for $197.2 million. The closing of the sale of the Arlington Property is subject to the satisfaction of various closing conditions. The Company anticipates closing the sale of the Arlington Property in early 2023.
+The Company has classified certain assets of Arlington totaling $81.5 million as held for sale as of December 31, 2021, on the accompanying consolidated balance sheets. Arlington’s operations and assets are included in All Other in our consolidated
+results. During the year ended December 31, 2021, the Company recorded $1.4 million of severance costs and $3.9 million related to our multi-employer pension liability in conjunction with the announced sale of the Arlington Property.
+On November 22, 2021, the Company announced an agreement to sell 115.7 acres of land near Calder Casino for $291.0 million or approximately $2.5 million per acre to Link Logistics Real Estate, a Blackstone portfolio company. The closing of the sale of the property is subject to the satisfaction of various closing conditions. The Company anticipates closing the sale of the property in the first half of 2022.
+The Company has classified certain assets of Calder totaling $6.3 million as held for sale as of December 31, 2021, on the accompanying consolidated balance sheets. Calder's operations and assets are included in Gaming in our consolidated results.
+Natural Disaster
+In August 2021, Hurricane Ida caused damage to portions of Louisiana, including Fair Grounds Race Course & Slots, and 15 off-track betting facilities ("OTBs") owned by Video Services, LLC ("VSI") (collectively, "Fair Grounds and VSI"). All of the Fair Grounds and VSI operations were reopened as of December 31, 2021, with the exception of two OTBs.
+The Company carries property and casualty insurance, as well as business interruption insurance subject to certain deductibles. As of December 31, 2021, the Company has recorded a reduction of property and equipment, net of $2.8 million and incurred $2.5 million in operating expenses. Through December 31, 2021, the Company has received $2.7 million in insurance recoveries from our carriers, and has an insurance recovery receivable of $2.6 million at December 31, 2021. The Company is currently working with its insurance carriers to finalize its claim. We continue to assess damages and insurance coverage, and we currently do not expect our losses to exceed the applicable insurance recoveries.
+Key Indicators to Evaluate Business Results and Financial Condition
+Our management monitors a variety of key indicators to evaluate our business results and financial condition. These indicators include changes in net revenue, operating expense, operating income, earnings per share, outstanding debt balance, operating cash flow and capital spend.
+Our consolidated financial statements have been prepared in conformity with U.S. generally accepted accounting principles ("GAAP"). We also use non-GAAP measures, including EBITDA (earnings before interest, taxes, depreciation and amortization) and Adjusted EBITDA. We believe that the use of Adjusted EBITDA as a key performance measure of results of operations enables management and investors to evaluate and compare from period to period our operating performance in a meaningful and consistent manner. Our chief operating decision maker utilizes Adjusted EBITDA to evaluate segment performance, develop strategy and allocate resources. Adjusted EBITDA is a supplemental measure of our performance that is not required by, or presented in accordance with, GAAP. Adjusted EBITDA should not be considered as an alternative to, or more meaningful than, net income (as determined in accordance with GAAP) as a measure of our operating results.
+Adjusted EBITDA is defined as earnings before interest, taxes, depreciation and amortization, adjusted for the following:
+Adjusted EBITDA includes our portion of EBITDA from our equity investments.
+Adjusted EBITDA excludes:
+•Transaction expense, net which includes:
+-Acquisition, disposition, and land sale related charges; and
+-Other transaction expense, including legal, accounting and other deal-related expense.
+•Stock-based compensation expense;
+•Rivers Des Plaines' impact on our investments in unconsolidated affiliates from:
+-The impact of changes in fair value of interest rate swaps, and
+-Legal reserves and transaction costs.
+•Asset impairments,
+•Legal reserves,
+•Pre-opening expense, and
+•Other charges, recoveries and expenses
+For segment reporting, Adjusted EBITDA includes intercompany revenue and expense totals that are eliminated in the consolidated statements of comprehensive income (loss). See the Reconciliation of Comprehensive Income (Loss) to Adjusted EBITDA included in this section for additional information.
+Business Highlights
+In 2021, we delivered strong performance while continuing the execution of a number of organic investments that we believe will provide long-term sustainable value creation. We delivered strong growth in net revenue, operating income, net income, and Adjusted EBITDA:
+•Net revenue was $1.6 billion, up $543.2 million, or 51.5% from fiscal year 2020;
+•Operating income was $284.4 million, up $224.2 million from fiscal year 2020;
+•Net income attributable to Churchill Downs Incorporated was $249.1 million, up $331.0 million from fiscal year 2020; and
+•Adjusted EBITDA was $627.0 million, up $340.5 million, or 118.8% from fiscal year 2020.
+Live and Historical Racing Segment:
+•Adjusted EBITDA was $175.0 million, up $135.9 million compared to 2020.
+•Derby Week returned to its traditional spring dates at Churchill Downs Racetrack with the 147th running of the Kentucky Derby and Oaks with over 51,000 fans gathered in person to watch the most exciting two minutes in sports on the first Saturday in May.
+•In July 2021, we announced three major multi-year capital investments at Churchill Downs Racetrack: The Homestretch Club, the Turn 1 Experience, and the Paddock and Under the Spires projects.
+•Derby City Gaming delivered record net revenue and Adjusted EBITDA. We also announced plans to invest $76.0 million at Derby City Gaming to expand the facility for up to 450 additional gaming positions and to build a new five-story hotel with 123 rooms including amenities to better serve and attract guests.
+•Oak Grove delivered strong growth in net revenue and Adjusted EBITDA in its first full year of operation. We successfully completed and opened the final components of the facility including the equestrian center, outdoor concert venue, and RV Park in the first quarter of 2021.
+•We continued building the new HRM and grandstand facility at Turfway Park and are on schedule to open the new entertainment venue in September 2022.
+•Announced plans to open Derby City Gaming Downtown in downtown Louisville, Kentucky as a new entertainment venue with 500 HRMs.
+•Legislation was developed and approved by the Kentucky legislative bodies and signed by the Governor on February 22, 2021 that resolved the legality of historical horse racing.
+TwinSpires Segment:
+•Adjusted EBITDA was $78.0 million, down $34.9 million compared to 2020.
+-Horse Racing Adjusted EBITDA was down $7.8 million compared to 2020; and
+-Sports and Casino Adjusted EBITDA was a $27.1 million increased loss compared to 2020.
+•We launched mobile sports betting and iGaming in Michigan in January 2021, and mobile sports betting in Tennessee in March 2021, Pennsylvania, Indiana, and Colorado in April 2021 and Arizona in September 2021, and we launched a retail sportsbook at Ocean Downs in December 2021.
+Gaming
+•The Gaming Segment delivered a record $411.9 million of Adjusted EBITDA, an increase of $238.8 million, or 138.0%, compared to 2020, despite restrictions at our properties during the year and disruption from Hurricane Ida at Fair Grounds and VSI.
+•The team delivered record wholly-owned casino margins of 36.6% in 2021, up 1110 basis points from 2020.
+•Our equity investments, Rivers Des Plaines and MVG, contributed 43.0% of the Adjusted EBITDA growth compared to 2020.
+•We were selected by the Indiana Gaming Commission to develop the Queen of Terre Haute Casino Resort in Vigo County, Indiana. We will be investing up to $260.0 million in a new entertainment venue with 1,000 slot machines, 50 tables games, a 125-room luxury hotel, a state-of-the-art TwinSpires Sportsbook and other food and beverage offerings.
+•During the second quarter of 2021, the Louisiana State Legislature passed a bill that was signed by the Governor that allows Fair Grounds to have up to 50 HRMs in its OTBs. Fair Grounds currently operates 15 OTBs and is developing plans to incorporate a total of approximately 600 HRMs into 14 of its existing OTBs.
+•We announced an announced an agreement to sell 115.7 acres of land near Calder Casino for $291.0 million or approximately $2.5 million per acre to Link Logistics Real Estate in the second quarter of 2022.
+All Other
+•We announced an agreement to sell Arlington Park, our 326-acre property in Arlington Heights, Illinois, for $197.2 million to the Chicago Bears in early 2023.
+•We repurchased one million shares of our common stock from The Duchossois Group for $193.94 per share ($193.9 million total) in a privately negotiated transaction.
+We signed a definitive agreement to acquire substantially all of the assets of Peninsula Pacific Entertainment LLC for total consideration of $2.485 billion.
+The Company’s total shareholder return was 24% for 2021 compared to 26% for the Russell 1000 and 29% for the S&P 500. The Company’s five-year total shareholder return for 2021 was 392% compared to 133% for both the Russell 1000 and the S&P 500. The preceding shareholder return calculations assume dividends are reinvested.
+We are committed to delivering strong financial results and long-term sustainable growth. We have strong cash flow and a solid balance sheet that supports organic growth as well as potential strategic acquisitions that we believe will create long-term value for our shareholders.
+Our Operations
+We manage our operations through three reportable segments: Live and Historical Racing, TwinSpires, and Gaming.
+Refer to Part I, Item 1. Business, of this Annual Report on Form 10-K for more information on our segments and a description of our competition and government regulations and potential legislative changes that affect our business.
+Consolidated Financial Results
+The following table reflects our net revenue, operating income, net income (loss), Adjusted EBITDA, and certain other financial information:
+Years Ended December 31, Change
+(in millions) 2021 2020
+Net revenue $ 1,597.2 $ 1,054.0 $ 543.2
+Operating income 284.4 60.2 224.2
+Operating income margin 17.8 % 5.7 %
+Net income from continuing operations $ 249.1 $ 13.3 $ 235.8
+Net income (loss) attributable to Churchill Downs Incorporated 249.1 (81.9) 331.0
+Adjusted EBITDA 627.0 286.5 340.5
+Year Ended December 31, 2021, Compared to the Year Ended December 31, 2020
+•Net revenue increased $543.2 million driven by a $260.1 million increase from Gaming due to the temporary suspension of operations of all of our Gaming properties in the prior year; a $239.5 million increase from Live and Historical Racing primarily due to the running the 147th Kentucky Oaks and Derby with capacity restrictions in 2021 compared to the running of the 146th Kentucky Oaks and Derby in 2020 without spectators, the temporary suspension of operations at Derby City Gaming in the prior year, and the opening of Oak Grove HRM facility in September 2020 and Newport in October 2020; a $26.4 million increase from All Other primarily due to the temporary suspension of operations in the prior year at Arlington and United Tote; and a $17.2 million increase in TwinSpires primarily due to our expansion in additional states related to our Sports and Casino business.
+•Operating income increased $224.2 million due to a $141.7 million increase from Gaming due to the increase in net revenue and increased operating efficiencies; a $129.6 million increase in Live and Historical primarily due to the increase in net revenue and increased operating efficiencies at Derby City Gaming; a $13.7 million increase in All Other due to the increase in net revenue at Arlington and United Tote; and a $2.2 million decrease in asset impairments. Partially offsetting these increases were a $32.4 million decrease in TwinSpires primarily due to additional marketing spend related to the Sports and Casino business; a $23.7 million increase in selling, general and administrative expense primarily due to an increase in accrued bonuses in the current year; and a $6.9 million increase in transaction expense, net due an increase in land sale related costs.
+•Net income from continuing operations increased $235.8 million. The following items impacted comparability of the Company's net income from continuing operations for the year ended December 31, 2021 compared to the prior year: a $18.9 million after-tax expense decrease related to our equity portion of the non-cash change in the fair value of Rivers Des Plaines' interest rate swaps; a $1.9 million non-cash tax decrease related to the re-measurement of our net deferred tax liabilities based on the impact of revenue related to states with higher tax rates in 2020 that did not recur in the current year; and a $1.0 million non-cash after-tax decrease in asset impairments. Partially offsetting these decreases were a $13.3 million tax benefit related to our net operating loss in 2020 that did not recur in the current year; a $7.1 million after-tax increase related to our equity portion of the Rivers Des Plaines' transaction costs and legal reserves; and a $0.4 million after-tax increase in transaction, pre-opening and other expenses. Excluding these items, net income from continuing operations increased $234.8 million primarily due to a $236.5 million after-tax increase driven by the results of our operations and equity income from our unconsolidated affiliates, partially offset by a $1.7 million after-tax increase in interest expense associated with higher outstanding debt balances.
+•Our net income attributable to Churchill Downs Incorporated increased $331.0 million due to a $235.8 million increase in net income from continuing operations discussed above and a $95.4 million net loss from discontinued operations in 2020 that did not recur in the current year, partially offset by $0.2 million decrease from other sources.
+•Our Adjusted EBITDA increased $340.5 million driven by a $238.8 million increase from Gaming primarily due to the increased operating efficiencies at our wholly-owned properties and equity investments and temporary suspension of operations in the prior year; a $135.9 million increase from Live and Historical Racing primarily due to the running the 147th Kentucky Oaks and Derby with capacity restrictions in 2021 compared to the running of the 146th Kentucky
+Oaks and Derby in 2020 without spectators, the increased operating efficiencies and the temporary suspension of operations at Derby City Gaming in the prior year, and the opening of Oak Grove HRM facility in September 2020; and a $0.7 million increase from All Other primarily due to the temporary suspension of operations at Arlington and United Tote in the prior year, partially offset by a decrease in Corporate primarily due to an increase in accrued bonus in the current year. Partially offsetting these increases was a $34.9 million decrease from TwinSpires primarily due to increased marketing and promotional activities from Sports and Casino and a decrease in net revenue from Horse Racing.
+Financial Results by Segment
+Net Revenue by Segment
+The following table presents net revenue for our segments, including intercompany revenue:
+Years Ended December 31, Change
+(in millions) 2021 2020
+Live and Historical Racing:
+Churchill Downs Racetrack $ 148.0 $ 81.1 $ 66.9
+Derby City Gaming 154.3 79.5 74.8
+Oak Grove 100.7 16.6 84.1
+Newport 17.9 3.1 14.8
+Turfway Park 9.7 8.5 1.2
+Total Live and Historical Racing 430.6 188.8 241.8
+TwinSpires:
+Horse Racing 398.3 404.7 (6.4)
+Sports and Casino 34.8 11.3 23.5
+Total TwinSpires 433.1 416.0 17.1
+Gaming:
+Fair Grounds Slots and VSI 136.2 99.9 36.3
+Presque Isle 119.9 73.3 46.6
+Ocean Downs 100.6 60.2 40.4
+Calder 100.1 51.8 48.3
+Oxford 99.8 44.9 54.9
+Riverwalk 61.2 46.3 14.9
+Harlow's 56.1 40.7 15.4
+Lady Luck Nemacolin 24.5 20.7 3.8
+Total Gaming 698.4 437.8 260.6
+All Other 73.9 46.4 27.5
+Eliminations (38.8) (35.0) (3.8)
+Net Revenue $ 1,597.2 $ 1,054.0 $ 543.2
+Year Ended December 31, 2021, Compared to the Year Ended December 31, 2020
+•Live and Historical revenue increased $241.8 million primarily due to a $84.1 million increase at Oak Grove as a result of the opening of the HRM facility in September 2020 and the hotel in October 2020; a $74.8 million increase at Derby City Gaming primarily due to the temporary suspension of operations during the prior year and the completion of their second outdoor patio which added an additional 225 HRMs in September 2020; a $66.9 million increase at Churchill Downs Racetrack due to the running of the 147th Kentucky Oaks and Derby with capacity restrictions in 2021 compared to the running of the 146th Kentucky Oaks and Derby in 2020 without spectators, a $14.8 million increase at Newport due to the opening of the facility in October 2020; and a $1.2 million increase at Turfway Park primarily due to the temporary suspension of operations during the prior year.
+•TwinSpires revenue increased $17.1 million from the prior year primarily due to a $23.5 million increase from Sports and Casino driven by the expansion in additional states and marketing and promotional activities. Horse Racing
+revenue decreased $6.4 million, or 1.6%, as a portion of our patrons returned to wagering at brick-and-mortar facilities in 2021 instead of wagering online..
+•Gaming revenue increased $260.6 million primarily due to the temporary suspension of operations of all of our Gaming properties and the loss of revenue at each property during 2020.
+•All Other revenue increased $27.5 million primarily due to an increase of $21.7 million at Arlington and a $5.4 million increase at United Tote, both of which were due to the temporary suspension of operations in the prior year, and a $0.4 million increase from other sources.
+Consolidated Operating Expense
+The following table is a summary of our consolidated operating expense:
+Years Ended December 31, Change
+(in millions) 2021 2020
+Taxes and purses $ 434.5 $ 268.3 $ 166.2
+Content expense 182.6 178.4 4.2
+Salaries and benefits 170.3 140.5 29.8
+Selling, general and administrative expense 138.5 114.8 23.7
+Depreciation and amortization 103.2 92.9 10.3
+Marketing and advertising expense 74.5 31.4 43.1
+Asset impairments 15.3 17.5 (2.2)
+Transaction expense, net 7.9 1.0 6.9
+Other operating expense 186.0 149.0 37.0
+Total expense $ 1,312.8 $ 993.8 $ 319.0
+Percent of revenue 82 % 94 %
+Year Ended December 31, 2021, Compared to the Year Ended December 31, 2020
+Significant items affecting comparability of consolidated operating expense include:
+•Taxes and purses increased $166.2 million driven by the temporary suspension of operations in 2020, and the opening of the Oak Grove HRM facility in September 2020 and Newport in October 2020.
+•Content expense increased $4.2 million primarily due to an increase in certain host fees and source market fees for our TwinSpires Horse Racing business.
+•Salaries and benefits expense increased $29.8 million driven by the temporary suspension of operations in 2020, and the opening of the Oak Grove HRM facility in September 2020 and Newport in October 2020.
+•Selling, general and administrative expense increased $23.7 million primarily driven from an increase in our accrued bonuses in 2021 compared to the prior year due to the temporary suspension of operations in the prior year.
+•Depreciation and amortization expense increased $10.3 million primarily driven by the opening of the Oak Grove HRM facility in September 2020 and Newport in October 2020.
+•Marketing and advertising expense increased $43.1 million primarily due to increased marketing by our TwinSpires segment, and the temporary suspension of operations in the prior year.
+•Asset impairments decreased $2.2 million driven by an $11.2 million non-cash asset impairment at Churchill Downs Racetrack related to revised capital plans associated with the first turn project during 2021 and a $4.1 million non-cash impairment charge related to certain assets in the TwinSpires segment where the carrying value exceeded the estimated fair value, offset by the $17.5 million non-cash intangible asset impairment in 2020 that did not recur in the current year.
+•Transaction expense, net increased $6.9 million due to increased legal and professional expenses and land sale related costs associated with Arlington and Calder.
+•Other operating expense includes maintenance, utilities, food and beverage costs, property taxes and insurance and other operating expenses. Other operating expense increased $37.0 million primarily driven by the temporary
+suspension of operations at our properties during 2020, and the opening of the Oak Grove HRM facility in September 2020 and Newport in October 2020.
+Adjusted EBITDA
+We believe that the use of Adjusted EBITDA as a key performance measure of the results of operations enables management and investors to evaluate and compare from period to period our operating performance in a meaningful and consistent manner. Adjusted EBITDA is a supplemental measure of our performance that is not required by or presented in accordance with GAAP. Adjusted EBITDA should not be considered as an alternative to, or more meaningful than, net income (as determined in accordance with GAAP) as a measure of our operating results.
+Year Ended December 31, Change
+(in millions) 2021 2020
+Live and Historical Racing $ 175.0 $ 39.1 $ 135.9
+TwinSpires 78.0 112.9 (34.9)
+Gaming 411.9 173.1 238.8
+Total segment Adjusted EBITDA 664.9 325.1 339.8
+All Other (37.9) (38.6) 0.7
+Total Adjusted EBITDA $ 627.0 $ 286.5 $ 340.5
+Year Ended December 31, 2021, Compared to the Year Ended December 31, 2020
+•Live and Historical Racing Adjusted EBITDA increased $135.9 million due to a $52.1 million increase at Churchill Downs Racetrack primarily due to the running of the 147th Kentucky Oaks and Derby with capacity restrictions in 2021 compared to the running of the 146th Kentucky Oaks and Derby in 2020 without spectators; a $47.1 million increase at Derby City Gaming due to the increase in net revenue, increased operating efficiencies, and the temporary suspension of operations during 2021; a $33.2 million increase at Oak Grove as a result of the opening of the HRM facility in September 2020; a $2.8 million increase at Newport due to the opening of the facility in October 2020; and a $0.7 million increase at Turfway due to the temporary suspension of operations during 2020.
+•TwinSpires Adjusted EBITDA decreased $34.9 million primarily due to a $27.1 million increase in the loss from our Sports and Casino business due to increased marketing and promotional activities and a $7.8 million decrease from Horse Racing primarily due to the decrease in net revenue.
+•Gaming Adjusted EBITDA increased $238.8 million driven by an $136.0 million increase at our wholly-owned Gaming properties and a $102.8 million increase from our equity investments, both of which are due to the temporary suspension of operations of all of our Gaming properties in 2020.
+•All Other Adjusted EBITDA increased $0.7 million primarily due to an $11.1 million increase at Arlington and $1.7 million increase at United Tote, both of which were due to the temporary suspension of operations in 2020, partially offset by a $11.9 million decrease at Corporate primarily due to an increase in accrued bonus in the current year, and a $0.2 million decrease from other sources.
+Reconciliation of Comprehensive Income (Loss) to Adjusted EBITDA
+Years Ended December 31, Change
+(in millions) 2021 2020
+Net income (loss) and comprehensive income (loss) attributable to Churchill Downs Incorporated $ 249.1 $ (81.9) $ 331.0
+Net loss attributable to noncontrolling interest - 0.2 (0.2)
+Net income (loss) 249.1 (82.1) 331.2
+Loss from discontinued operations, net of tax - 95.4 (95.4)
+Income from continuing operations, net of tax 249.1 13.3 235.8
+Additions:
+Depreciation and amortization 103.2 92.9 10.3
+Interest expense 84.7 80.0 4.7
+Income tax provision (benefit) 94.5 (5.3) 99.8
+EBITDA $ 531.5 $ 180.9 $ 350.6
+Adjustments to EBITDA:
+Selling, general and administrative:
+Stock-based compensation expense $ 27.8 $ 23.7 $ 4.1
+Other charges 0.2 0.8 (0.6)
+Pre-opening expense and other expense 5.8 11.2 (5.4)
+Other income, expense:
+Interest, depreciation and amortization expense related to equity investments 41.5 38.5 3.0
+Changes in fair value of Rivers Des Plaines' interest rate swaps (12.9) 12.9 (25.8)
+Rivers Des Plaines' legal reserves and transactions costs 9.9 - 9.9
+Transaction expense, net 7.9 1.0 6.9
+Asset impairments 15.3 17.5 (2.2)
+Total adjustments to EBITDA 95.5 105.6 (10.1)
+Adjusted EBITDA $ 627.0 $ 286.5 $ 340.5
+Consolidated Balance Sheet
+The following table is a summary of our overall financial position:
+As of December 31, Change
+(in millions) 2021 2020
+Total assets $ 2,981.6 $ 2,686.4 $ 295.2
+Total liabilities 2,674.8 2,319.3 355.5
+Total shareholders’ equity 306.8 367.1 (60.3)
+•Total assets increased $295.2 million driven by a $223.9 million increase in cash and cash equivalents primarily due to the net proceeds from the new Term Loan B-1 and Additional 2028 Notes and the increase in operating income for the year; a $33.0 million increase in investment in and advances to unconsolidated affiliates due to the Company's interest in Rivers Des Plaines and MVG; a $16.6 million increase in income taxes receivable due to the payment of the Kater and Thimmegowda litigation settlements in 2021 partially offset by our current year taxable income; and a $21.7 million increase in all other assets.
+•Total liabilities increased $355.5 million driven by a $204.6 million increase in notes payable due to the proceeds from our Additional 2028 Notes; a $138.1 million increase in long-term debt due to the proceeds from the new Term Loan B-1 under our Credit Agreement; a $64.8 million increase in accrued expenses and other current liabilities driven by an increase in accrued bonuses, purses payable due to timing, and increased account wagering deposits with TwinSpires;
+a $39.0 million increase in deferred income taxes primarily driven by the payment of the Kater and Thimmegowda litigation settlements in 2021; a $14.9 million increase in current deferred revenue due to an increase in cash receipts related to the 2022 Kentucky Oaks and Derby; and an $18.1 million increase in all other liabilities. Partially offsetting these increases was a $124.0 million decrease in current liabilities of discontinued operations due to the payment of the Kater and Thimmegowda litigation settlements.
+•Total shareholders’ equity decreased $60.3 million driven by $297.5 million in repurchases of common stock, $26.1 million from our annual dividend declared in December 2021, and $16.1 million in taxes paid related to net share settlement of stock awards. Partially offsetting these decreases were $249.1 million current year net income attributable to Churchill Downs Incorporated, $27.8 million from stock-based compensation, and $2.5 million from other sources.
+Liquidity and Capital Resources
+Our primary sources of liquidity and capital resources have been and will continue to be cash flow from operations, borrowings under our Credit Facility, and proceeds from the issuance of debt securities. Our ongoing liquidity will depend on a number of factors, including available cash resources, cash flow from operations, acquisitions or equity investments, funding of construction for development projects, and our compliance with our covenants under our Credit Facility.
+The following table is a summary of our liquidity and cash flows:
+Year Ended December 31, Change
+(in millions) 2021 2020
+Cash Flows from:
+Operating activities $ 459.5 $ 143.2 $ 316.3
+Investing activities (100.4) (239.4) 139.0
+Financing activities (0.5) 76.0 (76.5)
+Operating Cash Flow
+Cash provided by operating activities increased $316.3 million driven by a $224.2 million increase in operating income related to continuing operations, a $78.7 million increase in distributions from unconsolidated affiliates, and a $13.4 million increase from all other operating activities. We anticipate that cash flows from operations over the next twelve months will be adequate to fund our business operations and capital expenditures.
+Investing Cash Flow
+Cash used in investing activities decreased $139.0 million driven by $158.9 million decrease in capital project expenditures due to reduced capital project spending in 2021 compared to prior year. Partially offsetting this decrease was a $16.5 million increase in capital maintenance expenditures and a $3.4 million increase from all other investing activities.
+Financing Cash Flow
+Cash provided by financing activities decreased $76.5 million driven by a $269.1 million increase in common stock repurchases and a $11.6 million decrease from all other financing activities. Partially offsetting this decrease was a $204.2 million increase in net borrowings from long-term debt.
+Capital Expenditures
+Included in cash flows from investing activities are capital maintenance expenditures and capital project expenditures. Capital maintenance expenditures relate to the replacement of existing fixed assets with a useful life greater than one year that are obsolete, exhausted, or no longer cost effective to repair. Capital project expenditures represent fixed asset additions related to land or building improvements to new or existing assets or purchases of new (non-replacement) equipment or software related to specific projects deemed necessary expenditures.
+We have announced several project capital investments during the past year, including the following: Churchill Downs Racetrack Homestretch Club, Churchill Downs Racetrack Turn I Experience, Derby City Gaming Expansion and Hotel, Derby City Gaming Downtown, Turfway Park HRM Facility and Grandstand, the Queen of Terre Haute Casino Resort, and Louisiana HRMs in our OTBs. We are currently estimating that we will spend between $300 million and $350 million for project capital in 2022, although this amount may vary significantly based on the timing of work completed, unanticipated delays, and timing of payments to third parties.
+Common Stock Repurchase Program
+On September 29, 2021, the Board of Directors of the Company approved a common stock repurchase program of up to $500.0 million (“2021 Stock Repurchase Program”). The 2021 Stock Repurchase Program includes and is not in addition to the unspent amount remaining under the prior 2018 Stock Purchase Program authorization. Repurchases may be made at management’s discretion from time to time on the open market (either with or without a 10b5-1 plan) or through privately negotiated transactions. The repurchase program has no time limit and may be suspended or discontinued at any time. We had $445.6 million of repurchase authority remaining under this program at December 31, 2021.
+Dividends
+On October 26, 2021, the Company's Board of Directors approved an annual cash dividend on our common stock of $0.667 per outstanding share, which represented a 7% increase over the prior year. The dividend was payable on January 7, 2022 to shareholders of record as of the close of business on December 3, 2021. The 7% increase marked the 11th consecutive year that the Company has increased the dividend. The payment and amount of future dividends will be determined by the Board of Directors and will depend upon, among other things, our operating results, financial condition, cash requirements and general business conditions at the time such payment is considered.
+Credit Facilities and Indebtedness
+The following table presents our debt outstanding, bond premium and debt issuance costs:
+As of December 31, Change
+(in millions) 2021 2020
+Term Loan B due 2024 $ 384.0 $ 388.0 $ (4.0)
+Term Loan B-1 due 2028 297.8 - 297.8
+Revolver - 149.7 (149.7)
+2027 Senior Notes 600.0 600.0 -
+2028 Senior Notes 700.0 500.0 200.0
+Total Debt 1,981.8 1,637.7 344.1
+Current maturities of long-term debt 7.0 4.0 3.0
+Total debt, net of current maturities 1,974.8 1,633.7 341.1
+Issuance cost and fees (13.8) (15.4) 1.6
+Total debt $ 1,961.0 $ 1,618.3 $ 342.7
+Credit Agreement
+On December 27, 2017, we entered into a senior secured credit agreement (as amended, the "Credit Agreement") with a syndicate of lenders. The Credit Agreement provides for a $700.0 million senior secured revolving credit facility due 2024 (the "Revolver") and a $400.0 million Senior Secured Term Loan B due 2024 (the "Term Loan B"). Included in the maximum borrowing of $700.0 million under the Revolver is a letter of credit sub facility not to exceed $50.0 million and a swing line commitment up to a maximum principal amount of $50.0 million. The Credit Agreement is collateralized by substantially all of the wholly-owned assets of the Company. The Company capitalized debt issuance costs of $1.6 million associated with the Revolver and $5.1 million associated with the Term Loan B, both of which are being amortized over the respective debt period.
+The Term Loan B requires quarterly payments of 0.25% of the original $400.0 million balance, or $1.0 million per quarter. The Term Loan B may be subject to additional mandatory prepayment from excess cash flow on an annual basis per the provisions of the 2017 Credit Agreement. The Company is required to pay a commitment fee on the unused portion of the Revolver determined by a pricing grid based on the consolidated total net leverage ratio of the Company. For the period ended December 31, 2021, the Company's commitment fee rate was 0.20%.
+On April 28, 2020, the Company entered into a Second Amendment to the Credit Agreement, which (i) provided for a financial covenant relief period through the date on which the Company delivered the Company's quarterly financial statements and compliance certificate for the fiscal quarter ended June 30, 2021, subject to certain exceptions (the "Financial Covenant Relief Period"), (ii) amended the definition of "Consolidated EBITDA" in the Credit Agreement with respect to the calculation of Consolidated EBITDA for the first two fiscal quarters after the termination of the Financial Covenant Relief Period, (iii) extended certain deadlines and makes certain other amendments to the Company’s financial reporting obligations, (iv) placed certain restrictions on restricted payments during the Financial Covenant Relief Period, and (v) amended the definitions of "Material Adverse Effect" and "License Revocation" in the Credit Agreement to take into consideration COVID-19.
+On February 1, 2021, the Company entered into the Third Amendment to the Credit Agreement to increase the restricted payments capacity during the Financial Covenant Relief Period from $26.0 million to $226.0 million to accommodate a share repurchase from an affiliate of The Duchossois Group, Inc. Refer to Note 11, Shareholders' Equity, of the Notes to the Consolidated Financial Statements for information regarding this transaction.
+On March 17, 2021, the Company entered into the Incremental Joinder Agreement No. 1 (the "Joinder") to its Credit Agreement which provided $300.0 million in New Term Loan Commitments ("Term Loan B-1") as a new tranche of term loans under the existing Credit Agreement (as conformed to recognize the new loan), and carries a maturity date of March 17, 2028. The Term Loan B-1 bears interest at LIBOR plus 200 basis points and requires quarterly payments of 0.25% of the original $300.0 million balance. The Term Loan B-1 may be subject to additional mandatory prepayment from excess cash flow on an annual basis per the provisions of the Credit Agreement. The Company capitalized $3.5 million of debt issuance costs associated with the Joinder which are being amortized as interest expense over the 7-year term of the Term Loan B-1.
+The interest rate on the Revolver on December 31, 2021 was LIBOR plus 137.5 basis points based on the Revolver pricing grid in the Second Amendment and the Company's net leverage ratio as of September 30, 2021. The Term Loan B and Term Loan B-1 bear interest at LIBOR plus 200 basis points.
+The Credit Agreement contains certain customary affirmative and negative covenants, which include limitations on liens, investments, indebtedness, dispositions, mergers and acquisitions, the making of restricted payments, changes in the nature of business, changes in fiscal year, and transactions with affiliates. The Credit Agreement also contains financial covenants providing for the maintenance of a maximum consolidated secured net leverage ratio and maintenance of a minimum consolidated interest coverage ratio.
+Actual Requirement
+Interest coverage ratio 6.6 to 1.0 > 2.5 to 1.0
+Consolidated total secured net leverage ratio 0.9 to 1.0 < 4.0 to 1.0
+The Company was compliant with all applicable covenants on December 31, 2021.
+2027 Senior Notes
+On March 25, 2019, we completed an offering of $600.0 million in aggregate principal amount of 5.50% Senior Unsecured Notes that mature on April 1, 2027 (the "2027 Senior Notes") in a private offering to qualified institutional buyers pursuant to Rule 144A that is exempt from registration under the Securities Act of 1933, as amended (the "Securities Act"), and to certain non-U.S. persons in accordance with Regulation S under the Securities Act. The 2027 Senior Notes were issued at par, with interest payable on April 1st and October 1st of each year, commencing on October 1, 2019. The Company used the net proceeds from the offering to repay our outstanding balance on the Revolver portion of our Credit Agreement. In connection with the offering, we capitalized $8.9 million of debt issuance costs which are being amortized as interest expense over the term of the 2027 Senior Notes.
+The 2027 Senior Notes were issued pursuant to an indenture, dated March 25, 2019 (the "2027 Indenture"), among the Company, certain subsidiaries of the Company as guarantors (the "2027 Guarantors"), and U.S. Bank National Association, as trustee. The Company may redeem some or all of the 2027 Senior Notes at any time at redemption prices set forth in the 2027 Indenture. The terms of the 2027 Indenture, among other things, limit the ability of the Company to: (i) incur additional debt and issue preferred stock; (ii) pay dividends or make other restricted payments; (iii) make certain investments; (iv) create liens; (v) allow restrictions on the ability of certain of our subsidiaries to pay dividends or make other payments; (vi) sell assets; (vii) merge or consolidate with other entities; and (viii) enter into transactions with affiliates.
+2028 Senior Notes
+On December 27, 2017, we completed an offering of $500.0 million in aggregate principal amount of 4.75% Senior Unsecured Notes that mature on January 15, 2028 (the "Existing 2028 Senior Notes") in a private offering to qualified institutional buyers pursuant to Rule 144A that is exempt from registration under the Securities Act, and to certain non-U.S. persons in accordance with Regulation S under the Securities Act. The Existing 2028 Senior Notes were issued at par, with interest payable on January 15th and July 15th of each year, commencing on July 15, 2018. The Company used the net proceeds from the offering to repay a portion of our $600.0 million 5.375% Senior Unsecured Notes. In connection with the offering, we capitalized $7.7 million of debt issuance costs which are being amortized as interest expense over the term of the Existing 2028 Senior Notes.
+The Existing 2028 Senior Notes were issued pursuant to an indenture, dated December 27, 2017 (the "2028 Indenture"), among the Company, certain subsidiaries of the Company as guarantors (the "2028 Guarantors"), and U.S. Bank National Association, as trustee. The Company may redeem some or all of the Existing 2028 Senior Notes at any time at redemption prices set forth in the 2028 Indenture. The terms of the 2028 Indenture, among other things, limit the ability of the Company to: (i) incur additional debt and issue preferred stock; (ii) pay dividends or make other restricted payments; (iii) make certain investments;
+(iv) create liens; (v) allow restrictions on the ability of certain of our subsidiaries to pay dividends or make other payments; (vi) sell assets; (vii) merge or consolidate with other entities; and (viii) enter into transactions with affiliates.
+On March 17, 2021, the Company completed an offering of $200.0 million in aggregate principal amount of 4.75% Senior Unsecured Notes that mature on January 15, 2028 (the "Additional 2028 Notes") in a private offering to qualified institutional buyers pursuant to Rule 144A that is exempt from registration under the Securities Act, and to certain non-U.S. persons in accordance with Regulation S under the Securities Act. The Additional 2028 Notes were offered under the indenture dated as of December 27, 2017, governing the Existing 2028 Senior Notes and form a part of the same series for purposes of the indenture. In connection with the offering, we capitalized $3.4 million of debt issuance costs which are being amortized as interest expense over the term of the Additional 2028 Notes. Upon completion of this offering, the aggregate principal amount outstanding of the Existing 2028 Notes, together with the Additional 2028 Notes (collectively the "2028 Senior Notes") is $700 million.
+The Additional 2028 Notes were issued at 103.25% of the principal amount, plus interest deemed to have accrued from January 15, 2021, with interest payable on January 15th and July 15th of each year, commencing on July 15, 2021. The 2028 Senior Notes will vote as one class under the indenture governing the 2028 Senior Notes. The 3.25% premium will be amortized through interest expense, net over the term of the Additional 2028 Notes.
+The Company used the net proceeds from the Additional 2028 Notes and the Term Loan B-1 (i) to repay indebtedness outstanding under our Revolving Credit Facility, (ii) to fund related transaction fees and expenses and (iii) for working capital and other general corporate purposes.
+The Company may redeem some or all of the Additional 2028 Notes at any time as set forth in the 2028 Offering Memorandum.
+In connection with the issuance of the Additional 2028 Notes, the Company and the 2028 Guarantors entered into a Registration Rights Agreement to register any 2028 Senior Notes under the Securities Act for resale that are not freely tradable 366 days from March 17, 2021.
+Contractual Obligations
+Our commitments to make future payments as of December 31, 2021, are estimated as follows:
+(in millions) 2022 2023-2024 2025-2026 Thereafter Total
+Dividends $ 26.0 $ - $ - $ - $ 26.0
+Term Loan B 4.0 380.0 - - 384.0
+Interest on Term Loan B (1)
+8.1 15.9 - - 24.0
+Term Loan B-1 3.0 6.0 6.0 282.8 297.8
+Interest on Term Loan B-1 (1)
+6.4 12.6 12.3 7.3 38.6
+2027 Senior Notes - - - 600.0 600.0
+2028 Senior Notes - - - 700.0 700.0
+Interest on 2027 Senior Notes 33.0 66.0 66.0 16.5 181.5
+Interest on 2028 Senior Notes 33.3 66.5 66.5 49.9 216.2
+Operating and Finance Leases 6.7 12.2 11.0 14.5 44.4
+Minimum Guarantees (2)
+12.6 25.6 19.9 26.3 84.4
+Total $ 133.1 $ 584.8 $ 181.7 $ 1,697.3 $ 2,596.9
+(1) Interest includes the estimated contractual payments under our Credit Facility assuming no change in the weighted average borrowing rate of 2.11%, which was the rate in place as of December 31, 2021.
+(2) Includes the maximum estimated exposure where we are contingently obligated to make future minimum payments.
+As of December 31, 2021, we had approximately $3.9 million of unrecognized tax benefits.
+Critical Accounting Policies and Estimates
+Our significant accounting policies and recently adopted accounting policies are more fully described in Note 2 to the notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data of this Annual Report on Form 10-K.
+Our consolidated financial statements have been prepared in conformity with GAAP, which requires management to make estimates, judgments and assumptions that we believe are reasonable based on our historical experience, contract terms,
+observance of known trends in our Company and the industry as a whole and information available from other outside sources. Our estimates affect the reported amounts of assets and liabilities and related disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expense during the reporting period. Actual results may differ from those initial estimates.
+Our critical accounting estimates relate to goodwill and certain indefinite-lived intangible assets.
+Goodwill and certain indefinite-lived intangible assets
+Acquisition of certain identifiable indefinite-lived intangible assets
+In conjunction with the acquisition of a business, the Company records identifiable indefinite-lived intangible assets acquired at their respective fair values as of the date of acquisition. Our indefinite-lived intangible assets primarily consist of gaming rights and trademarks. Gaming rights and trademarks are considered indefinite-lived intangible assets that do not require amortization based on our future expectations to operate our gaming facilities and use the trademarks indefinitely, and our historical experience in renewing these intangible assets at minimal cost with various state gaming commissions.
+We use various valuation methods to determine initial fair value of our indefinite-lived intangible assets, including the Greenfield Method and relief-from-royalty method of the income approach, all of which use significant unobservable inputs, or Level 3 inputs, as defined by the fair value hierarchy. The use of these valuation methods requires us to make significant estimates and assumptions about future revenue and operating expenses, expected start-up costs, capital expenditures, royalty rate, and the discount rate. The fair values of gaming rights are generally determined using the Greenfield Method, which is an income approach methodology that calculates the present value based on a projected cash flow stream. This method assumes that the gaming rights provides the opportunity to develop a casino in a specified region, and that the present value of the projected cash flows are a result of the realization of advantages contained in these rights. Under this methodology, the acquirer is expected to absorb all start-up costs, as well as incur all expenses pertaining to the acquisition and/or the creation of all tangible and intangible assets. The estimated future revenue and operating expenses, start-up costs of the acquired business, and the discount rate are the primary assumptions and estimates used in these valuations. The fair values of trademarks are generally determined using the relief-from-royalty method of the income approach, which estimates the fair value of the intangible asset by discounting the fair value of the hypothetical royalty payments a market participant would be willing to pay to enjoy the benefits of the trademarks. The estimated future revenue, royalty rate, and the discount rate are the primary assumptions and estimates used in these valuations. The discount rates used to discount expected future cash flows to present value are generally derived from the weighted average cost of capital analysis and adjusted for the size and/or risk of the asset.
+Assessments of goodwill and indefinite-lived intangible assets
+We perform our annual review for impairment of goodwill and indefinite-lived intangible assets on April 1 of each fiscal year, or more frequently if events or changes in circumstances indicate that it is more likely than not the asset is impaired. Adverse industry or economic trends, lower projections of profitability, or a sustained decline in our market capitalization, among other items, may be indications of potential impairment issues which are triggering events requiring the testing of an asset’s carrying value for recoverability.
+Goodwill and indefinite-lived intangible assets are required to be tested annually or more frequently if events or changes in circumstances indicate that it is more likely than not that an asset is impaired. An entity may first assess qualitative factors to determine whether it is necessary to complete the impairment test using a more likely than not criteria. If an entity believes it is more likely than not that the fair value of a reporting unit is greater than the reporting unit's carrying value, including goodwill, the quantitative impairment test can be bypassed. Alternatively, an entity has an unconditional option to bypass the qualitative assessment and proceed directly to performing the quantitative impairment test. If a quantitative impairment test of goodwill is required, we generally determine the fair value under the market and income valuation approaches using inputs primarily related to discounted projected cash flows and price multiples of publicly traded comparable companies. If a quantitative impairment test of our indefinite-lived intangible assets is required, we generally determine the fair value using the Greenfield Method for gaming rights and relief-from-royalty method of the income approach for trademarks. Qualitative factors include macroeconomic conditions, industry and market conditions, cost factors and overall financial performance, among others. These factors require significant judgments and estimates, and application of alternative assumptions could produce materially different results. Evaluations of possible impairment require us to estimate, among other factors, forecasts of future operating results, revenue growth, operating expense, tax rates, start-up costs, capital expenditures, depreciation, working capital, discount rates, long-term growth rates, risk premiums, royalty rates, terminal values, and fair values of our reporting units and assets. The impairment tests for goodwill and indefinite-lived intangible assets are subject to uncertainties arising from such events as changes in competitive conditions, the current economic environment, material changes in growth rate assumptions that could positively or negatively impact anticipated future operating conditions and cash flows, changes in the discount rate, and the impact of strategic decisions. If any of these factors were to materially change, such change may require a reevaluation of our goodwill and indefinite-lived intangible assets. Changes in estimates or the application of alternative assumptions could produce significantly different results.

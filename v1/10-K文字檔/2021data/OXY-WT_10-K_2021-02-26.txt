@@ -1,0 +1,771 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)
+The following discussion should be read together with the Consolidated Financial Statements and the Notes to Consolidated Financial Statements, which are included in this Form 10-K in Item 8 and the information set forth in Risk Factors under Part 1, Item 1A.
+INDEX PAGE
+Current Business Outlook and Strategy
+Oil and Gas Segment
+Chemical Segment
+Midstream and Marketing Segment
+Segment Results of Operations and Items Affecting Comparability
+Income Taxes 38
+Consolidated Results of Operations
+Liquidity and Capital Resources
+Off-Balance Sheet Arrangements
+Commitments and Obligations 43
+Lawsuits, Claims, Commitments and Contingencies
+Environmental Liabilities and Expenditures
+Global Investments
+Critical Accounting Policies and Estimates
+Significant Accounting and Disclosure Changes
+Safe Harbor Discussion Regarding Outlook and Other Forward-Looking Data
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+CURRENT BUSINESS OUTLOOK AND STRATEGY
+GENERAL
+Occidental’s operations, financial condition, cash flows and levels of expenditures are highly dependent on oil prices and, to a lesser extent, NGL and natural gas prices, the Midland-to-Gulf-Coast oil spreads and the prices it receives for its chemical products. The worldwide economy has been severely impacted by the ongoing effects of the COVID-19 pandemic, which began during the first quarter of 2020. In the first quarter, travel restrictions and stay-at-home orders were implemented for much of the world to limit the spread of COVID-19. Though certain restrictions have been lifted, some areas have recently reinstated stay at home orders and oil and gas demand remains below pre-pandemic levels. On April 12, 2020, certain members of the OPEC and 10 non-OPEC partner countries (OPEC+) agreed to production cuts intended to mitigate the oil supply and demand imbalance to stabilize prices. On January 5, 2021, OPEC+ agreed to extend the cuts through March 2021. These production cuts coupled with declining U.S. production helped mitigate the supply and demand imbalance. While the spot WTI oil price has recovered to above $60.00/Bbl as of the date of this filing, the average daily WTI oil price fell from $57.03/Bbl in 2019 to $39.40/Bbl in 2020 or 31 percent. We expect that the oil supply and demand balance and consequently oil prices in the near-term will continue to be influenced by the duration and severity of the COVID-19 pandemic; the effectiveness and pace of the distribution of the recently approved vaccines; and OPEC+ and U.S. production levels.
+LIQUIDITY
+In response to the dramatic drop in oil prices and the current macroeconomic environment, Occidental has taken significant measures to increase its near and mid-term liquidity and address near-term debt maturities. Specifically, during 2020 Occidental:
+■Reduced its 2020 capital budget to $2.6 billion from a range of $5.2 billion to $5.4 billion, a midpoint reduction of approximately 50%;
+■Made significant cuts to its 2020 operating and corporate costs. On an annualized basis, Occidental has realized $1.5 billion of overhead savings and over $900 million in operating cost savings, of which a majority is expected to remain permanent in future years;
+■Reduced the quarterly common stock dividend to $0.01 per share from $0.79 per share, effective July 2020, which on an annualized basis, will reduce its common stock dividend outlay by approximately $2.9 billion;
+■Elected to pay the preferred stock dividend paid in the second and third quarters of 2020 in the form of shares of common stock, in lieu of cash, preserving $400 million of liquidity. Occidental elected to pay the dividend paid in the fourth quarter in cash. The Board of Directors will continue to assess market conditions and Occidental's financial condition on a quarterly basis to determine whether the preferred stock dividend will be paid in shares of stock, in cash or a combination of shares of common stock and cash;
+■Entered into a new receivable securitization facility that provides additional liquidity of up to $400 million;
+■Issued $7.0 billion in senior unsecured notes (the Senior Notes Offerings) during 2020 to extend certain debt maturities in 2021-2023 to 2025-2031;
+■Since the Acquisition, completed significant asset divestitures for net proceeds of approximately $8.2 billion;
+■Used the net proceeds from asset sales, cash on hand and Senior Notes Offerings to retire or tender $6.0 billion of 2021, $2.7 billion of 2022 and $264 million of 2023 maturities; and
+■Exchanged approximately 27.9 million WES common units to retire a $260 million note payable to WES due 2038.
+In 2019, Occidental entered into three-way oil collar and call derivative instruments to reduce its exposure to commodity price risk and increase the predictability of near-term cash flows. The majority of the collars settled in 2020 with the receipt of cash of $960 million. The remaining $52 million settled in 2021. See Note 9 - Derivatives in the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K.
+Occidental believes the actions outlined above enhance its liquidity position to fund its operations. Occidental will continue to evaluate the economic environment, as well as the commodity price environment, and may make further adjustments to its future levels of expenditures and operating and corporate costs. However, the ultimate impact of the COVID-19 pandemic on Occidental's results of operations, cash flows and financial position are unknown, and those impacts could be material. Additionally, actions taken in response to the current macro-environment may result in the long-term reduction of its capital expenditure and production profile.
+DEBT AND INTEREST RATE SWAPS
+With the completion of the liquidity measures above, as of the date of this filing, Occidental has debt maturities of approximately $371 million in 2021, $2.1 billion in 2022 and $0.9 billion in 2023.
+Occidental’s $2.3 billion Zero Coupon senior notes due 2036 (Zero Coupons) can be put to Occidental in October of each year, in whole or in part, for the then accreted value of the outstanding Zero Coupons. An immaterial amount was put
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+to Occidental in 2020. The Zero Coupons can next be put to Occidental in October 2021, which, if put in whole, would require a payment of approximately $1.0 billion at such date. Occidental currently has the intent and ability to meet this obligation, including, if necessary, using amounts available under the revolving credit facility (RCF) should the put right be exercised.
+Interest rate swaps with a notional value of $750 million and fair value of $894 million, as of December 31, 2020, have mandatory termination dates in September 2021. Interest rate swaps with a notional value of $725 million and fair value of $876 million, as of December 31, 2020, have mandatory termination dates in September 2022 and 2023. The interest rate swaps fair value, and cash required to settle them on their termination dates, will continue to fluctuate with changes in interest rates through the mandatory termination dates.
+As of December 31, 2020, Occidental had approximately $2.0 billion of cash and cash equivalents on hand. As of the date of this filing, $5.0 billion of borrowing capacity under its existing RCF, which matures in 2023. Occidental continues to pursue divestitures of certain assets and intends to use the net proceeds from asset sales and excess free cash flow to repay its nearer-term debt maturities, but the expected timing and final proceeds from such asset sales are uncertain. Occidental currently expects its cash on hand and funds available under its RCF to be sufficient to meet its debt maturities, operating expenditures and other obligations for the next 12 months from the date of this filing. However, given the inherent uncertainty associated with the duration and severity of the COVID-19 pandemic and its resulting impact on oil demand, Occidental may need to raise capital to fund its operations and refinance debt maturities.
+DEBT RATINGS
+In connection with the Senior Notes Offerings, Occidental's long-term debt credit ratings were reviewed by the three major rating agencies. As of December 31, 2020, Occidental’s long-term debt was rated BB by Fitch Ratings, Ba2 by Moody’s Investors Service and BB- by Standard and Poor’s. Any additional downgrade in credit ratings could impact Occidental's ability to access capital markets and increase its cost of capital. In addition, given that Occidental’s current debt ratings are non-investment grade, Occidental may be requested, and in some cases required, to provide collateral in the form of cash, letters of credit, surety bonds or other acceptable support as financial assurance of its performance and payment obligations under certain contractual arrangements such as pipeline transportation contracts, environmental remediation obligations, oil and gas purchase contracts and certain derivative instruments.
+As of the date of this filing, Occidental has provided required financial assurances through a combination of cash, letters of credit and surety bonds and has not issued any letters of credit under the RCF or other committed facilities. For additional information, see Risk Factors in Part I, Item 1A of this Form 10-K.
+IMPACT OF COVID-19 PANDEMIC TO GLOBAL OPERATIONS
+Occidental is focused on protecting the health and safety of its employees and contractors during the COVID-19 pandemic. Occidental has implemented workplace restrictions in our offices and work sites for health and safety reasons. Occidental has not incurred material costs as a result of new protocols and procedures. Occidental continues to monitor national, state and local government directives where Occidental has operations and/or offices. While Occidental has not incurred any significant disruptions to its day-to-day operations as a result of any workplace restrictions related to the COVID-19 pandemic to date, the extent to which the COVID-19 pandemic adversely affects our business, results of operations and financial condition will depend on future developments, which are highly uncertain.
+RECENT GOVERNMENTAL RULE MAKING AND EXECUTIVE ORDERS
+In January 2021, the COGCC adopted new regulations that impose siting requirements or “setbacks” on certain oil and gas drilling locations based on the distance of a proposed well pad to occupied structures. Pursuant to the regulations, well pads cannot be located within 500 feet of an occupied structure without the consent of the property owner. As part of the permitting process, the COGCC will consider a series of siting requirements for all drilling locations located between 500 feet and 2,000 feet of an occupied structure. Alternatively, the operator may seek a waiver from each owner and tenant within the designated distance. While Occidental is currently evaluating the impact of these regulations on its business, at this time, Occidental does not anticipate significant near-term changes to our development program in the DJ Basin based on these regulations. However, as a result certain of Occidental’s PUD reserves have been derecognized as they no longer meet the regulatory certainty criteria to be considered proved reserves. Occidental’s ability to reestablish previously derecognized PUD reserves, as well as establishing new PUD locations will depend upon Occidental establishing a history of obtaining drilling permits under the new regulations and thus meeting the SEC’s “reasonably certain” threshold for adding PUD reserves. Occidental currently believes it will be able to successfully navigate the new setback guidelines.
+An executive order was issued in January 2021, Tackling the Climate Crisis at Home and Abroad, that mandated an indefinite pause on new oil and gas leasing on federal lands, onshore and offshore, while a comprehensive review of oil and gas permitting and leasing is conducted by the U.S. Department of the Interior. In conducting this review, the Secretary of the Interior shall consider whether to adjust royalties associated with oil and gas resources extracted from public lands and offshore waters to account for corresponding climate costs.
+In addition, effective January 20, 2021, the Department of the Interior issued an order temporarily elevating the decision-making approval previously delegated to the Department of the Interior’s agencies and bureaus, including the BOEM and the BLM, to issue any onshore and offshore fossil fuel authorization for, including but not limited to a lease,
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+amendment to a lease, affirmative extension of a lease, contract or other agreement or permit to drill to the leadership of the Department of the Interior.
+Neither of these orders impact existing operations or permits for ongoing operations under valid leases and does not preclude the issuances of leases, permits and other authorizations. Both of these orders align with the new governmental administration’s commitment to addressing climate change, specifically both orders allow for the Department of the Interior to consider potential climate and other impacts associated with oil and gas activities on public lands or in offshore waters.
+Approximately 9% of Occidental’s onshore net acres are on federal lands while all of its Gulf of Mexico leases are in federal waters.
+Occidental is continuing to evaluate the overall impact of these new regulatory issuances on its oil and gas operations on federal leases and will reallocate capital to non-federal leases to the extent there are delays in obtaining permits and other authorizations that would alter the timing of development and exploration programs on federal leases.
+STRATEGY
+Occidental is focused on delivering a unique shareholder value proposition with its combined integrated asset portfolio, continual enhancements to its organizational capability and commitment to implement innovative carbon management and storage solutions for the reduction of greenhouse gas emissions. Occidental conducts its operations with a focus on sustainability, health, safety and environmental and social responsibility. Capital is employed to operate all assets in a safe and environmentally sound manner. Occidental aims to maximize shareholder returns through a combination of:
+■Maximizing capital efficiency to sustain fourth quarter 2020 production levels in order to maximize free cash flow;
+■Prioritizing projects to decrease its carbon footprint and create a business model to help other companies lower theirs;
+■Reducing financial leverage; and
+■Maintaining a robust liquidity position.
+KEY PERFORMANCE INDICATORS
+Occidental seeks to meet its strategic goals by continually measuring its success against key performance indicators that drive total stockholder return. In addition to efficient capital allocation and deployment discussed below in “Oil and Gas Segment - Business Strategy”, Occidental believes the following are its most significant performance indicators:
+SAFETY
+■Injury Incidence Rate (IIR) and Days Away Restricted Transfer rate (DART) - Occidental’s combined employee and contractor IIR is determined by multiplying the total number of Occupational Safety and Health Administration (OSHA) recordable injuries and illnesses by 200,000 and dividing that result by the total number of hours worked by all employees and contractors. The DART rate is calculated in the same manner as IIR, but uses the number of incidents that resulted in days away from work, job transfer, or restricted job duties instead of the number of recordable injuries or illnesses.
+OPERATIONAL
+■Annual cost synergies - Post Acquisition, Occidental has focused on an annualized reduction in overhead and operating expense strategies from the historical amounts of Occidental and Anadarko, and exceeded its initial goal of at least $1.1 billion by realizing $2.3 billion in total synergies and additional cost savings on an annualized basis in 2020.
+■Total spend per barrel - In 2021, Occidental will focus on controlling total costs from a per-barrel perspective. Total spend per barrel is the sum of capital spending, general and administrative expenses, other operating and non-operating expenses and oil and gas lease operating costs divided by global oil, NGL and natural gas sales volumes.
+FINANCIAL
+■Cash returns on capital employed (CROCE) - CROCE is calculated as (i) the cash flows from operating activities, before changes in working capital, plus distributions from WES, divided by (ii) the average of the opening and closing balances of total equity plus total debt.
+■Reduce financial leverage.
+SUSTAINABILITY AND ENVIRONMENTAL
+■Advancing specific Carbon Capture, Use and Sequestration projects;
+■Net-zero operational and energy use emissions before 2040, with an ambition to achieve before 2035;
+■Net-zero total emissions inventory including product use with an ambition to achieve before 2050; and
+■Total carbon impact through carbon removal and storage technology and development past 2050.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+OIL AND GAS SEGMENT
+BUSINESS STRATEGY
+Occidental’s oil and gas segment focuses on long-term value creation and leadership in sustainability, health, safety and the environment. In each core operating area, Occidental’s operations benefit from scale, technical expertise, decades of high-margin inventory, environmental and safety leadership and commercial and governmental collaboration. These attributes allow Occidental to bring additional production quickly to market, extend the life of older fields at lower costs and provide low-cost returns-driven growth opportunities with advanced technology.
+With the completion of the Acquisition, Occidental became one of the largest U.S. producers of liquids, which includes oil, condensate and NGL, allowing Occidental to maximize cash margins on a Boe basis. Since the Acquisition, Occidental has focused on its divestiture program to divest of non-core assets to pay down near-term debt maturities, however, the advantages that Occidental’s portfolio provides, coupled with unmatched subsurface characterization ability and the proven ability to execute, ensures that Occidental is positioned for full-cycle success in the years ahead. The oil and gas segment has realized synergies to deliver lower breakeven costs and generate excess free cash flow. Since the Acquisition, Occidental completed the sale of significant non-core assets for net proceeds of approximately $8.2 billion.
+Despite the pandemic impacts on commodity prices and the overall economy as discussed above, Occidental’s assets are strategically positioned to provide a future portfolio of projects that are flexible and have short-cycle investment paybacks. Together with Occidental’s technical capabilities, the oil and gas segment strives to achieve low development and operating costs to maximize full-cycle value of the assets.
+The oil and gas business implements Occidental’s strategy primarily by:
+■Operating and developing areas where reserves are known to exist and optimizing capital intensity in core areas, primarily in the Permian Basin, DJ Basin, Gulf of Mexico, UAE, Oman and Algeria;
+■Maintaining a disciplined and prudent approach to capital expenditures with a focus on high-return, short-cycle, cash-flow-generating opportunities and an emphasis on creating value and further enhancing Occidental’s existing positions;
+■Focusing Occidental’s subsurface characterization and technical activities on unconventional opportunities, primarily in the Permian Basin;
+■Using EOR techniques, such as CO2, water and steam floods in mature fields; and
+■Focusing on cost-reduction efficiencies and innovative technologies to reduce carbon emissions.
+In 2020, oil and gas capital expenditures were approximately $2.2 billion and primarily focused on Occidental’s assets in the Permian Basin, DJ Basin, Gulf of Mexico and Oman.
+OIL AND GAS PRICE ENVIRONMENT
+Oil and gas prices are the major variables that drive the industry’s financial performance. The following table presents the average daily West Texas Intermediate (WTI) and Brent prices for oil in dollars per barrel ($/Bbl) and New York Mercantile Exchange (NYMEX) natural gas prices for 2020 and 2019:
+2020 2019 % Change
+WTI Oil ($/Bbl) $ 39.40 $ 57.03 (31) %
+Brent Oil ($/Bbl) $ 43.21 $ 64.18 (33) %
+NYMEX Natural Gas ($/Mcf) $ 2.11 $ 2.67 (21) %
+The following table presents Occidental’s average realized prices for continuing operations as a percentage of WTI, Brent and NYMEX for 2020 and 2019:
+2020 2019
+Worldwide oil as a percentage of average WTI 95 % 99 %
+Worldwide oil as a percentage of average Brent (a)
+87 % 88 %
+Worldwide NGL as a percentage of average WTI 32 % 30 %
+Worldwide NGL as a percentage of average Brent (a)
+29 % 27 %
+Domestic natural gas as a percentage of NYMEX 56 % 49 %
+(a)Prior period percentages have been adjusted to reflect the Algeria operations as continuing operations.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+Prices and differentials can vary significantly, even on a short-term basis, making it difficult to predict realized prices with a reliable degree of certainty.
+As a result of the expected prolonged period of lower commodity prices brought on by the COVID-19 pandemic’s impact on oil demand, Occidental tested substantially all of its oil and gas assets for impairment during the second quarter of 2020. Occidental recognized pre-tax impairment charges of $6.4 billion related to continuing operations and $2.2 billion related to discontinued operations for the three months ended June 30, 2020. While oil prices have modestly improved since the second quarter of 2020, if there was a worsening of the macroeconomic conditions caused by the impacts of COVID-19 and if such worsened condition was expected to be prolonged, Occidental’s oil and gas properties may be subject to further testing for impairment, which could result in additional non-cash asset impairments, and such impairments could be material to our financial statements.
+DOMESTIC INTERESTS
+BUSINESS REVIEW
+Occidental conducts its domestic operations through land leases, subsurface mineral rights it owns, or a combination of both. Occidental’s domestic oil and gas leases have a primary term ranging from one to 10 years, which is extended through the end of production once it commences. Occidental has leasehold and mineral interests in 9.5 million net acres, of which approximately 52% is leased, 24% is owned subsurface mineral rights and 24% is owned land with mineral rights.
+The following chart shows Occidental’s domestic production volumes for the previous three years in thousand barrels of oil equivalent (Mboe) per day:
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+DOMESTIC ASSETS (a)
+1. Powder River Basin
+2. DJ Basin
+3. Permian Basin
+4. Gulf of Mexico
+(a)Map represents geographic outlines of the respective basins.
+The Permian Basin
+The Permian Basin extends throughout West Texas and southeast New Mexico and is one of the largest and most active oil basins in the United States, accounting for more than 36% of total United States oil production in 2020.
+Occidental manages its Permian Basin operations through two business units: Permian Resources, which includes unconventional opportunities, and Permian EOR, which utilizes EOR techniques such as CO2 floods and waterfloods. Occidental has a leading position in the Permian Basin, producing approximately 13% of total oil in the basin. By exploiting the natural synergies between Permian Resources and Permian EOR, Occidental is able to deliver unique short- and long-term advantages, efficiencies and expertise across its Permian Basin operations.
+Permian Resources unconventional oil development projects provide very short-cycle investment payback, averaging less than two years, and generate some of the highest margin and returns of any oil and gas projects in the world. These investments contribute cash flow, while increasing long-term value and sustainability through higher return on capital employed. Occidental’s oil and gas operations in Permian Resources include approximately 1.6 million net acres. In 2020, new well design and flowback methods were implemented, which helped lower the overall well cost while improving recovery. Overall in 2020, Permian Resources produced approximately 435 Mboe/d from approximately 6,000 gross wells. Additionally in 2020, Permian Resources added 122 million barrels of oil equivalent (MMboe) to Occidental’s proved reserves for improved recovery additions.
+The Permian Basin’s concentration of large conventional reservoirs, favorable CO2 flooding performance and the expansive CO2 transportation and processing infrastructure has resulted in decades of high-value enhanced oil production. With 34 active CO2 floods and over 40 years of experience, Occidental is the industry leader in Permian Basin CO2 flooding, which can increase ultimate oil recovery by 10% to 25%. Technology improvements, such as the recent trend toward vertical expansion of the CO2 flooded interval into residual oil zone targets, continue to yield more recovery from existing projects. Occidental’s share of production from Permian EOR was approximately 140 Mboe/d in 2020.
+Significant opportunities also remain to gain additional recovery by expanding Occidental’s existing CO2 projects into new portions of reservoirs that have only been water-flooded. Permian EOR has a large inventory of future CO2 projects, which could be developed over the next 20 years or accelerated, depending on market conditions. In addition, OLCV continues making progress towards supplying anthropogenic, or man-made, CO2 for the purpose of carbon capture, utilization and storage in Occidental’s Permian EOR operations.
+In 2020, Occidental spent approximately $1.1 billion of capital in the Permian Basin, of which over 87% was spent on Permian Resources assets. Also in 2020, Occidental divested of certain non-core, largely non-operated acreage in the Permian Basin. In 2021, Occidental expects to allocate approximately 38% of its worldwide capital budget to the Permian Basin.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+DJ Basin
+Occidental remains Colorado’s top oil and gas producer with interest in approximately 0.7 million net acres in Colorado. Production is derived from 2,500 operated vertical wells and 2,100 operated horizontal wells primarily focused in 460,000 net acres in the Niobrara and Codell formations. The DJ Basin provides competitive economics, low breakeven costs and free cash flow generation.
+Occidental produced approximately 293 Mboe/d in the DJ Basin in 2020. Horizontal drilling results in the field continue to be strong, with improved operational efficiencies in drilling and completions. In 2020, Occidental drilled 65 operated horizontal wells and completed 117 operated horizontal wells.
+Occidental is currently fully permitted for all planned 2021 completions activity and has received drilling permits for all planned drilling activity through the first half of 2021. New statewide regulations were adopted in the fourth quarter of 2020 and became effective in mid-January 2021. Occidental’s focus for 2021 is continuing to build operational inventory while implementing the new regulations and maintaining social licenses to operate. Occidental additionally continues to have development optionality by flexing resources between the DJ Basin and another emerging high rate-of-return program in the Powder River Basin.
+As discussed above, in January 2021, the COGCC adopted new regulations that impose siting requirements or “setbacks” on certain oil and gas drilling locations based on the distance of a proposed well pad to occupied structures. While Occidental is currently evaluating the impact of these regulations on its business; at this time, Occidental does not anticipate significant near-term changes to our development program in the DJ Basin based on these regulations. However, if Occidental is unable to obtain new drilling permits to develop a significant portion of the company’s undeveloped acreage in the DJ Basin, the company’s DJ Basin assets may be subject to testing for impairment, and if deemed to be impaired, such impairment could be material to our financial statements.
+Other Domestic
+Occidental holds approximately 5.0 million net acres in other domestic locations, which is primarily comprised of the Powder River Basin, North DJ Basin and Wyoming. Occidental's share of production in other domestic locations was approximately 39 Mboe/d in 2020.
+OFFSHORE DOMESTIC ASSETS
+Gulf of Mexico
+Occidental owns a working interest in 182 blocks in the Gulf of Mexico, operates 10 active floating platforms and holds interests in 17 active fields. The Gulf of Mexico produced approximately 130 Mboe/d during 2020. In 2021, Occidental will continue to take advantage of its extensive infrastructure across the Gulf of Mexico to execute its long-term plan for development and exploration. Occidental will operate one floating drillship and one platform rig together with two multi-service vessels to cost effectively develop known resources.
+Occidental continues to work with the BSEE and the BOEM to address the additional regulatory requirements to ensure a minimal disruption of activities in the Gulf of Mexico.
+The following table shows areas of continuing development in the Gulf of Mexico along with the corresponding working interest in those areas.
+Working Interest
+Horn Mountain 100 %
+Holstein 100 %
+Marlin 100 %
+Lucius 64 %
+K2 Complex 42 %
+Caesar Tonga 34 %
+Constellation 33 %
+INTERNATIONAL INTERESTS
+BUSINESS REVIEW
+Occidental conducts its ongoing international operations in two sub-regions: the Middle East and Africa. Its activities include oil, NGL and natural gas production through direct working-interests and production sharing contracts (PSC).
+Production Sharing Contracts
+Occidental’s interest in Oman and Qatar are subject to PSCs. Under such contracts, Occidental records a share of production and reserves to recover certain development and production costs and an additional share for profit. These contracts do not transfer any right of ownership to Occidental and reserves reported from these arrangements are based on
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+Occidental’s economic interest as defined in the contracts. Occidental’s share of production and reserves from these contracts decreases when product prices rise and increases when prices decline. Overall, Occidental’s net economic benefit from these contracts is greater when product prices are higher.
+The following chart shows Occidental’s international production volumes for the previous three years:
+Note: Operations sold, exited or held for sale include the Ghana assets (held for sale at December 31, 2020 and 2019), the Colombia onshore assets (sold in December 2020) and the Qatar Idd El Shargi Fields (exited in 2019).
+MIDDLE EAST / NORTH AFRICA ASSETS
+1.Algeria
+2.Oman
+3.Qatar
+4.United Arab Emirates
+Algeria
+In April 2020, subsequent to communications with Algerian government officials, Occidental determined that the sale of the Algeria operations to Total would not be consummated and the decision was made to continue to operate within Algeria. As a result, Occidental reclassified 2019 results to reflect the Algeria operations as continuing operations. Operations in Algeria involve production and development activities in 18 fields within Blocks 404A and 208, which are located in the Berkine Basin in Algeria’s Sahara Desert and are governed by a Production Sharing Agreement (PSA) between Occidental, Sonatrach and other partners. Under this PSA, Occidental is responsible for 24.5% of the development and production costs. The El Merk Central Processing Facility (CPF) in Block 208 processed produced oil and NGL, while the Hassi Berkine
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+South and Ourhoud CPFs in Block 404A processed produced oil. In 2020, Occidental drilled two development wells and plans to continue drilling operations throughout 2021. Net production in Algeria was 44 Mboe/d in 2020.
+Oman
+In Oman, Occidental is the operator of Block 9 with a 50% working interest, Block 27 with a 65% working interest, Block 53 with a 47% working interest and Block 62 with a 100% working interest. Occidental additionally has exploration and production sharing agreements for Blocks 30, 51, 65 and 72. Occidental holds 6.0 million gross acres and has 10,000 potential well inventory locations. In 2020, Occidental’s share of production was 85 Mboe/d.
+The Block 9 contract expires in 2030 and the Block 27 contract expires in 2035. Occidental’s share of production for Blocks 9 and 27 was 30 Mboe/d and six Mboe/d in 2020, respectively. The Block 53 (Mukhaizna Field) contract expires in 2035 and is a major world-class pattern steam flood project for EOR that utilizes some of the largest mechanical vapor compressors ever built. Since assuming operations in Mukhaizna in 2005, Occidental has drilled over 3,550 new wells and has increased gross production by over 15 fold. Occidental’s share of production for Block 53 was 30 Mboe/d in 2020. Subject to a declaration of commerciality, Occidental’s permit for Block 62 will expire in 2028. Occidental’s share of production for Block 62 was 19 Mboe/d in 2020.
+Qatar
+In Qatar, Occidental partners in the Dolphin Energy Project, an investment that is comprised of two separate economic interests. Occidental has a 24.5% interest in the upstream operations (Dolphin) to develop and produce NGL, natural gas and condensate from Qatar’s North Field through mid-2032. Occidental also has a 24.5% interest in Dolphin Energy Limited, which operates a pipeline and is discussed further in the Midstream and Marketing Segment section in this Form 10-K under Pipeline. Occidental’s net share of production from the Dolphin upstream operations was 44 Mboe/d in 2020.
+United Arab Emirates
+In 2011, Occidental acquired a 40% participating interest in the Shah gas field (Al Hosn Gas), joining with the Abu Dhabi National Oil Company (ADNOC) in a 30-year joint venture agreement. In 2020, Occidental’s share of production from Al Hosn Gas was 238 MMcf/d of natural gas and 38 Mboe/d of NGL and condensate. Al Hosn Gas includes gas processing facilities which are discussed further in the Midstream and Marketing Segment section in this Form 10-K under Gas Processing, Gathering and CO2.
+In 2019 and 2020, Occidental acquired 9-year exploration concessions and, subject to a declaration of commerciality, 35-year production concessions adjacent to Al Hosn Gas for onshore Block 3 and Block 5, which cover an area of approximately 1.5 million acres and 1.0 million acres, respectively. Occidental conducts a majority of its Middle East business development activities through its office in Abu Dhabi, which also provides various support functions for Occidental’s Middle East oil and gas operations.
+Ghana - Discontinued Operations
+In May 2020, Occidental and Total mutually agreed to execute a waiver of the obligation to purchase and sell the Ghana assets, so that Occidental could begin marketing the sale of the Ghana assets to other third parties. Occidental is currently marketing the Ghana assets. The assets and liabilities for Ghana remain presented as held for sale in discontinued operations at December 31, 2020. Ghana operations include production and development activities located offshore in the West Cape Three Point Block and the Deepwater Tano Block. Occidental’s share of production in 2020 was 30 Mboe/d.
+LATIN AMERICA ASSETS
+Colombia
+In December 2020, Occidental completed the sale of its Colombia onshore assets, specifically the operations and working interests in the Llanos Norte, Middle Magdalena and Putumayo Basins. Occidental has retained a presence with exploration blocks offshore Colombia.
+PROVED RESERVES
+Proved oil, NGL and natural gas reserves were estimated using the unweighted arithmetic average of the first-day-of-the-month price for each month within the year, unless prices were defined by contractual arrangements. Oil, NGL and natural gas prices used for this purpose were based on posted benchmark prices and adjusted for price differentials including gravity, quality and transportation costs.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+The following table shows the 2020, 2019 and 2018 calculated first-day-of-the-month average prices for both WTI and Brent oil prices, as well as the Henry Hub gas prices measured in million British thermal units (MMbtu):
+2020 2019 2018
+WTI Oil ($/Bbl) $ 39.57 $ 55.69 $ 65.56
+Brent Oil ($/Bbl) $ 43.41 $ 63.03 $ 72.20
+Henry Hub Natural Gas ($/MMbtu) $ 1.98 $ 2.58 $ 3.10
+Mt. Belvieu NGL ($/Bbl) (a)
+$ 18.74 N/A N/A
+(a)Mt. Belvieu pricing was added as an NGL benchmark beginning in 2020. Prior to 2020, WTI oil was used as a benchmark for NGL.
+Occidental had proved reserves from continuing operations at year-end 2020 of 2,911 MMboe, compared to the year-end 2019 amount of 3,904 MMboe. Proved developed (PD) reserves represented approximately 78% and 77% of Occidental’s total proved reserves at year-end 2020 and 2019, respectively. The following table shows the breakout of Occidental’s proved reserves from continuing operations by commodity as a percentage of total proved reserves:
+2020 2019
+Oil 51 % 52 %
+Natural gas 29 % 29 %
+NGL 20 % 19 %
+Occidental does not have any reserves from non-traditional sources. For further information regarding Occidental’s proved reserves, see the Supplemental Oil and Gas Information section in Item 8 of this Form 10-K.
+CHANGES IN PROVED RESERVES
+Occidental’s total proved reserves from continuing operations decreased 993 MMboe in 2020, which was primarily driven by price and other revisions of 484 MMboe and asset divestitures of 241 MMboe. These decreases were partially offset by increases from Occidental’s development program of 212 MMboe. Changes in reserves were as follows:
+MMboe 2020
+Revisions of previous estimates (484)
+Improved recovery 190
+Extensions and discoveries 22
+Purchases 4
+Sales (241)
+Production (484)
+Total (993)
+Occidental’s ability to add reserves, other than through purchases, depends on the success of improved recovery, extension and discovery projects, each of which depends on reservoir characteristics, technology improvements and oil and natural gas prices, as well as capital and operating costs. Many of these factors are outside management’s control and may negatively or positively affect Occidental’s reserves.
+Revisions of Previous Estimates
+Revisions can include upward or downward changes to previous proved reserve estimates for existing fields due to the evaluation or interpretation of geologic, production decline or operating performance data. In addition, product price changes affect proved reserves recorded by Occidental. For example, lower prices may decrease the economically recoverable reserves, particularly for domestic properties, because the reduced margin limits the expected life of the operations. Offsetting this effect, lower prices increase Occidental’s share of proved reserves under PSCs because more oil is required to recover costs. Conversely, when prices rise, Occidental’s share of proved reserves decreases for PSCs and economically recoverable reserves may increase for other operations. Reserve estimation rules require that estimated ultimate recoveries be much more likely to increase or remain constant than to decrease, as changes are made due to increased availability of technical data.
+In 2020, Occidental’s revisions of previous estimates of proved reserves were negative 484 MMboe, of which approximately 342 MMboe were negative price revisions. The negative price revisions were primarily associated with the
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+Permian Basin (283 MMboe) and the DJ Basin (74 MMboe), which were partially offset by positive price revisions of 36 MMboe on international production sharing contracts.
+An additional 197 MMboe of negative revisions were related to management changes in development plans due to lower average commodity prices compared to the prior year and the reallocation of capital to higher return projects. These changes were primarily associated with the Permian Basin (143 MMboe).
+Further positive revisions of 57 MMboe, net, were associated with updates based on reservoir performance. The remaining revisions were associated with various other cost related revisions.
+Improved Recovery
+In 2020, Occidental added proved reserves of 190 MMboe related to improved recovery primarily due to additional development drilling, mainly in the Permian Basin which accounted for approximately two-thirds of the reserve additions. These properties comprise both unconventional projects and conventional projects, which are characterized by the deployment of EOR development methods, largely employing application of CO2 flood, waterflood or steam flood and unconventional projects. These types of conventional EOR development methods can be applied through existing wells, though additional drilling is frequently required to fully optimize the development configuration. Waterflooding is the technique of injecting water into the formation to displace the oil to the offsetting oil production wells. The use of either CO2 or steam flooding depends on the geology of the formation, the evaluation of engineering data, availability and cost of either CO2 or steam and other economic factors. Both techniques work similarly to lower viscosity causing the oil to move more easily to the producing wells. Many of Occidental’s projects, including unconventional projects, rely on improving permeability to increase flow in the wells. In addition, some improved recovery comes from drilling infill wells that allow recovery of reserves that would not be recoverable from existing wells. Further positive additions of 32 MMboe in the UAE, 13 MMboe in Oman, 9 MMboe in the DJ Basin and 9 MMboe in the Gulf of Mexico were similarly the result of development drilling.
+Extensions and Discoveries
+Occidental also added proved reserves from extensions and discoveries, which are dependent on successful exploration and exploitation programs. In 2020, extensions and discoveries added 22 MMboe primarily related to the recognition of proved reserves in the DJ Basin, Wyoming and Oman.
+Purchases of Proved Reserves
+In 2020, Occidental purchased proved reserves of 4 MMboe primarily consisting of proved reserves in the Permian Basin.
+Sales of Proved Reserves
+In 2020, Occidental sold 241 MMboe in proved reserves, primarily related to the divestitures of the Colombia onshore assets, the mineral acres and fee surface acres located in Wyoming, Colorado and Utah and the non-core, largely non-operated acreage in the Permian Basin.
+Proved Undeveloped Reserves
+Occidental had proved undeveloped reserves at year-end 2020 of 645 MMboe, compared to the year-end 2019 amount of 905 MMboe.
+Changes in proved undeveloped reserves were as follows:
+MMboe 2020
+Revisions of previous estimates (253)
+Improved recovery 132
+Extensions and discoveries 6
+Purchases 3
+Sales (44)
+Transfer to proved developed reserves (104)
+Total (260)
+Total improved recovery additions of 132 MMboe were primarily the result of additional development drilling in the Permian Basin (80 MMboe), international assets (41 MMboe) and the DJ Basin (7 MMboe). The 2020 additions to proved undeveloped reserves were offset by transfers to proved developed reserves and negative revisions of previous estimates. Transfers to proved developed reserves were a total of 104 MMboe. The transfers were primarily associated with the DJ Basin (53 MMboe) and the Permian Basin (48 MMboe). Revisions of previous estimates were a negative 253 MMboe. Approximately 123 MMboe of the negative revisions were related to management changes in development plans, primarily associated with the Permian Basin (111 MMboe). Additionally, the revisions include preliminary impacts related to the
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+January 2021 COGCC regulation in the DJ Basin. Further, 77 MMboe of negative revisions were associated with updates based on reservoir performance and 55 MMboe of negative revisions were associated with price revisions.
+Proved undeveloped reserves are supported by a five-year detailed field-level development plan, which includes the timing, location and capital commitment of the wells to be drilled. Only proved undeveloped reserves which are reasonably certain to be drilled within five years of booking and are supported by a final investment decision to drill them are included in the development plan. A portion of the proved undeveloped reserves associated with international operations are expected to be developed beyond the five years and are tied to approved long-term development projects.
+In 2020, Occidental incurred approximately $0.5 billion to convert proved undeveloped reserves to proved developed reserves. Given the impact of the COVID-19 pandemic on demand and cash flows, Occidental reduced its 2020 capital expenditures from $5.2 billion to $2.6 billion and; accordingly, converted a lower than expected amount of reserves from proved undeveloped reserves to proved developed reserves. In 2020 Occidental converted approximately 17% of its PUDs to proved developed, when adjusted for revisions and sales. As of December 31, 2020, Occidental had 645 MMboe of PUDs of which 49% were associated with domestic onshore, 8% with Gulf of Mexico and 43% with international assets.
+Occidental’s most active development areas are located in the Permian Basin, which represented 36% of the proved undeveloped reserves as of December 31, 2020. Approximately 40% of Occidental’s 2021 capital program of $2.9 billion is allocated to the development program in the Permian Basin. Overall, Occidental plans to spend approximately $1.5 billion over the next five years to develop its proved undeveloped reserves in the Permian Basin.
+At December 31, 2020, Occidental had 207 MMboe of pre-2016 proved undeveloped reserves that remained undeveloped. These proved undeveloped reserves relate to approved long-term development plans, 187 MMboe of which are associated with international development projects with physical limitations in existing gas processing capacity and 20 MMboe associated with certain Permian EOR projects. Occidental remains committed to these projects and continues to actively progress the development of these volumes. In addition to the above, Occidental has 89 MMboe of proved undeveloped reserves that are scheduled to be developed more than five years from their initial date of booking. These proved undeveloped reserves are primarily related to approved long-term development plans with physical limitations in existing gas processing capacity, 51 MMboe of which are associated with other Permian EOR projects and 31 MMboe associated with international development projects.
+RESERVES EVALUATION AND REVIEW PROCESS
+Occidental’s estimates of proved reserves and associated future net cash flows as of December 31, 2020, were made by Occidental’s technical personnel and are the responsibility of management. The estimation of proved reserves is based on the requirement of reasonable certainty of economic producibility and funding commitments by Occidental to develop the reserves. This process involves reservoir engineers, geoscientists, planning engineers and financial analysts. As part of the proved reserves estimation process, all reserve volumes are estimated by a forecast of production rates, operating costs and capital expenditures. Price differentials between benchmark prices (the unweighted arithmetic average of the first-day-of-the-month price for each month within the year) and realized prices and specifics of each operating agreement are then used to estimate the net reserves. Production rate forecasts are derived by a number of methods, including estimates from decline curve analysis, type curve analysis, material balance calculations that take into account the volumes of substances replacing the volumes produced and associated reservoir pressure changes, seismic analysis and computer simulation of the reservoir performance. These reliable field-tested technologies have demonstrated reasonably certain results with consistency and repeatability in the formation being evaluated or in an analogous formation. Operating and capital costs are forecast using the current cost environment applied to expectations of future operating and development activities.
+Net proved developed reserves are those volumes that are expected to be recovered through existing wells with existing equipment and operating methods for which the incremental cost of any additional required investment is relatively minor.
+Net proved undeveloped reserves are those volumes that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion. Proved undeveloped reserves are supported by a five-year, detailed, field-level development plan, which includes the timing, location and capital commitment of the wells to be drilled. The development plan is reviewed and approved annually by senior management and technical personnel. Annually, a detailed review is performed by Occidental’s Worldwide Reserves Group and its technical personnel on a lease-by-lease basis to assess whether proved undeveloped reserves are being converted on a timely basis within five years from the initial disclosure date. Any leases not showing timely transfers from proved undeveloped reserves to proved developed reserves are reviewed by senior management to determine if the remaining reserves will be developed in a timely manner and have sufficient capital committed in the development plan. Only proved undeveloped reserves that are reasonably certain to be drilled within five years of booking and are supported by a final investment decision to drill them are included in the development plan. A portion of the proved undeveloped reserves associated with international operations are expected to be developed beyond the five years and are tied to approved long-term development plans.
+The current Senior Vice President, Reserves for Oxy Oil and Gas is responsible for overseeing the preparation of reserve estimates, in compliance with U.S. SEC rules and regulations, including the internal audit and review of Occidental’s oil and gas reserves data. He has over 40 years of experience in the upstream sector of the exploration and production business and has held various assignments in North America, Asia and Europe. He is a three-time past Chair of the Society of Petroleum Engineers Oil and Gas Reserves Committee. He is an American Association of Petroleum Geologists (AAPG) Certified Petroleum Geologist and currently serves on the AAPG Committee on Resource Evaluation. He is a member of the
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+Society of Petroleum Evaluation Engineers, the Colorado School of Mines Potential Gas Committee and the United Nations Economic Commission for Europe Expert Group on Resource Management. He has Bachelor of Science and Master of Science degrees in geology from Emory University in Atlanta.
+Occidental has a Corporate Reserves Review Committee (Reserves Committee), consisting of senior corporate officers, to review and approve Occidental’s oil and gas reserves. The Reserves Committee reports to the Audit Committee of Occidental’s Board of Directors during the year. Since 2003, Occidental has retained Ryder Scott Company, L.P. (Ryder Scott), independent petroleum engineering consultants, to review its annual oil and gas reserve estimation processes. For additional reserves information, see Supplemental Oil and Gas Information under Item 8 of this Form 10-K.
+In 2020, Ryder Scott conducted a process review of the methods and analytical procedures utilized by Occidental’s engineering and geological staff for estimating the proved reserves volumes, preparing the economic evaluations and determining the reserves classifications as of December 31, 2020, in accordance with SEC regulatory standards. Ryder Scott reviewed the specific application of such methods and procedures for selected oil and gas properties considered to be a valid representation of Occidental’s 2020 year-end total proved reserves portfolio. In 2020, Ryder Scott reviewed approximately 30% of Occidental’s proved oil and gas reserves. Since being engaged in 2003, Ryder Scott has reviewed the specific application of Occidental’s reserve estimation methods and procedures for approximately 87% of Occidental’s existing proved oil and gas reserves.
+Management retained Ryder Scott to provide objective third-party input on its methods and procedures and to gather industry information applicable to Occidental’s reserve estimation and reporting process. Ryder Scott has not been engaged to render an opinion as to the reasonableness of reserves quantities reported by Occidental. Occidental has filed Ryder Scott’s independent report as an exhibit to this Form 10-K.
+Based on its reviews, including the data, technical processes and interpretations presented by Occidental, Ryder Scott has concluded that the overall procedures and methodologies Occidental utilized in estimating the proved reserves volumes, documenting the changes in reserves from prior estimates, preparing the economic evaluations and determining the reserves classifications for the reviewed properties are appropriate for the purpose thereof and comply with current SEC regulations.
+CHEMICAL SEGMENT
+BUSINESS STRATEGY
+OxyChem seeks to be a low-cost producer in order to generate cash flow in excess of its normal capital expenditure requirements and achieve above-cost-of-capital returns. OxyChem concentrates on the chlorovinyls chain, beginning with the co-production of caustic soda and chlorine. Caustic soda and chlorine are marketed to external customers. In addition, chlorine, together with ethylene, is converted through a series of intermediate products into PVC. OxyChem’s focus on chlorovinyls allows it to maximize the benefits of integration and take advantage of economies of scale. Capital is employed to sustain production capacity and to focus on projects and developments designed to improve the competitiveness of segment assets. Acquisitions and plant development opportunities may be pursued when they are expected to enhance the existing core chlor-alkali and PVC businesses or take advantage of other specific opportunities. In 2020, capital expenditures for OxyChem totaled $255 million.
+BUSINESS ENVIRONMENT
+In 2020, the United States economic contraction, estimated to be 3.5%, was significantly lower than the 2.2% growth experienced in 2019, which resulted in lower demand for caustic soda and PVC. Pricing for PVC rebounded in the second half of 2020 and finished higher than the 2019 average due to increased domestic demand and lower supply. Caustic soda prices were lower in 2020, partially offset by lower ethylene and energy costs.
+BUSINESS REVIEW
+BASIC CHEMICALS
+The U.S. economic contraction due to the COVID-19 pandemic resulted in lower domestic demand as the industry chlor-alkali operating rates decreased by 8% compared to 2019. Liquid caustic soda prices were lower both domestically and globally in 2020 due to weaker demand in the pulp and paper and industrial market segments, which was partially offset by lower energy prices than in 2019. Stronger chlorine derivative demand in relation to caustic soda resulted in persistent downward pressure on caustic soda pricing.
+VINYLS
+Due to the impact of the COVID-19 pandemic and supply interruptions during a very active hurricane season, industry demand for PVC in 2020 decreased year-over-year by 4%, resulting in 6% lower operating rates. Domestic demand was up 5.4% while export demand was down 22% from 2019. Second half 2020 housing starts, construction and home improvement markets were the main contributors for the strong rebound in domestic demand. US domestic producers grappled with extended production outages resulting in lower PVC availability for export markets. Export volume
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+represented 28% of total North American production. Industry PVC margins increased in 2020 due to a strong price environment driven by higher than expected demand and limited supply.
+INDUSTRY OUTLOOK
+Industry performance will depend on the health of the global economy and the effectiveness of the vaccine rollouts. Continued recovery from 2020 should result in improvement in the housing, construction, automotive and durable goods markets. The housing and construction as well as automotive markets are expected to strengthen over the next year. Margins also depend on market supply and demand balances and feedstock and energy prices. Recovery in the petroleum industry should strengthen the demand and pricing of a number of Occidental’s products that are consumed by industry participants. U.S. commodity export markets will continue to be impacted by the relative strength of the U.S. dollar.
+BASIC CHEMICALS
+Demand for basic chemicals is expected to improve in 2021 over 2020 levels. Improvement in most market segments is expected with improvement in the overall economy. Demand for chlorine and derivatives will improve with continued growth in the housing, general construction and automotive markets. Demand for alkali products, particularly caustic soda, will improve with growth in the pulp and paper, industrial and alumina markets. Chlor-alkali operating rates should improve moderately with higher demand and continued competitive energy and raw material pricing as compared to global feedstock costs.
+VINYLS
+Domestic PVC demand is expected to improve in 2021 over 2020 levels. Growth in residential construction spending and expected new infrastructure projects is forecast to drive domestic growth in 2021. Although overall PVC demand is expected to remain strong in North America, operating rates are anticipated to remain relatively flat in 2021 as new PVC capacity is expected to enter the market in the second half of the year.
+MIDSTREAM AND MARKETING SEGMENT
+BUSINESS STRATEGY
+The midstream and marketing segment strives to maximize realized value by optimizing the use of its gathering, processing, transportation, storage and terminal commitments and by providing access to domestic and international markets. To generate returns, the segment evaluates opportunities across the value chain and uses its assets to provide services to Occidental’s subsidiaries, as well as third parties. The midstream and marketing segment operates or contracts for services on gathering systems, gas plants, co-generation facilities and storage facilities and invests in entities that conduct similar activities. As of December 31, 2019, Occidental began accounting for its ownership investment in WES under the equity method of accounting. See Note 16 - Investments and Related-Party Transactions in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K for more information.
+The midstream and marketing segment has equity investments in WES and Dolphin Energy Limited. WES owns gathering systems, plants and pipelines and earns revenue from fee-based and service-based contracts with Occidental and third parties. Dolphin Energy Limited owns and operates a pipeline which connects its gas processing and compression plant in Qatar and its receiving facilities in UAE, and uses its network of Dolphin Energy Limited-owned and other existing leased pipelines to supply natural gas across the UAE and to Oman. Also included in the midstream and marketing segment is OLCV. OLCV seeks to leverage Occidental’s carbon management expertise that is derived from its EOR operations to develop carbon capture, utilization and storage facilities that are expected to source anthropogenic CO2 and promote innovative technologies that drive cost efficiencies and economically grow Occidental’s business while reducing emissions.
+This segment also seeks to minimize the costs of gas and power used in Occidental’s various businesses. Capital is employed to sustain or expand assets to improve the competitiveness of Occidental’s businesses. In 2020, capital expenditures related to the midstream and marketing segment totaled $50 million.
+BUSINESS ENVIRONMENT
+Midstream and marketing segment earnings are affected by the performance of its various businesses, including its marketing, gathering and transportation, gas processing and power-generation assets. The marketing business aggregates, markets and stores Occidental and third-party volumes. Marketing performance is affected primarily by commodity price changes and margins in oil and gas transportation and storage programs. The marketing business results can experience significant volatility depending on commodity price changes and the Midland-to-Gulf-Coast oil spreads. The Midland-to-Gulf-Coast oil spreads have decreased from an average of $6.58 per barrel in 2019 to $1.43 per barrel for the year ended December 31, 2020 and averaging $0.59 per barrel in the fourth quarter of 2020. A $0.25 change in the Midland-to-Gulf- Coast oil spreads impacts total year operating cash flows by $65 million. In 2020, Permian to Gulf Coast transportation capacity increased as new third-party pipelines were completed. This along with reduction in Permian Basin production, reduced the Midland-to-Gulf-Coast oil spreads. Gas gathering, processing and transportation results are affected by fluctuations in commodity prices and the volumes that are processed and transported through the segment’s plants, as well
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+as the margins obtained on related services from investments in which Occidental has an equity interest. The 2020 declines in NGL prices and sulfur prices negatively impacted the gas processing business.
+BUSINESS REVIEW
+MARKETING
+The marketing group markets substantially all of Occidental’s oil, NGL and natural gas production, as well as trades around its assets, including contracted transportation and storage capacity. Occidental’s third-party marketing activities focus on purchasing oil, NGL and gas for resale from parties whose oil and gas supply is located near its transportation and storage assets. These purchases allow Occidental to aggregate volumes to better utilize and optimize its assets. In 2020, compared to the prior year, marketing results were negatively impacted by the decline in the Midland-to-Gulf-Coast oil spreads.
+PIPELINE
+Occidental’s pipeline business mainly consists of its 24.5% ownership interest in Dolphin Energy Limited. Dolphin Energy Limited owns and operates a 230-mile-long, 48-inch-diameter natural gas pipeline (Dolphin Pipeline), which transports dry natural gas from Qatar to the UAE and Oman. The Dolphin Pipeline has capacity to transport up to 3.2 Bcf/d and currently transports approximately 2.2 Bcf/d and up to 2.5 Bcf/d in the summer months.
+GAS PROCESSING, GATHERING AND CO2
+Occidental processes its and third-party domestic wet gas to extract NGL and other gas byproducts, including CO2 and delivers dry gas to pipelines. Margins primarily result from the difference between inlet costs of wet gas and market prices for NGL.
+As of December 31, 2020, Occidental has a 2% non-voting general partner interest and a 51.8% limited partner interest in WES and a 2% non-voting limited partner interest in WES Operating, a subsidiary of WES. As of December 31, 2020, on a combined basis, Occidental's total effective economic interest in WES and its subsidiaries is 53.5%. Occidental intends to reduce its limited partner ownership interest in WES to below 50%. See Note 1 - Summary of Significant Accounting Policies in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K for more information regarding Occidental’s equity method investment in WES. WES owns gathering systems, plants and pipelines and earns revenue from fee-based and service-based contracts with Occidental and third parties.
+Occidental’s 40% participating interest in Al Hosn Gas also includes sour gas processing facilities that are designed to process 1.3 Bcf/d of natural gas and separate it into salable gas, condensate, NGL and sulfur. In 2020, the facilities produced 11,300 tons per day of sulfur, of which approximately 4,500 tons per day was Occidental’s net share.
+In 2020, compared to the prior year, gas processing, gathering and CO2 results decreased primarily due to lower NGL prices and sulfur prices, which negatively impacted the gas processing business.
+POWER GENERATION FACILITIES
+Earnings from power and steam generation facilities are derived from sales to affiliates and third parties.
+LOW CARBON VENTURES
+OLCV was formed to execute on Occidental’s vision to reduce global emissions and provide a more sustainable future through low carbon energy and products. OLCV capitalizes on Occidental’s extensive experience in utilizing CO2 for EOR by investing in technologies, developing projects and providing services to facilitate and accelerate the implementation of carbon capture, utilization and storage projects and opportunities for zero-carbon power. Moreover, OLCV is fostering new technologies and business models with the potential to position Occidental as a leader in the production of low-carbon oil and products.
+Occidental has developed standards and protocols recognized by the EPA for monitoring, reporting and verifying the amount, safety and permanence of CO2 stored through secure geologic sequestration. The company holds the nation’s first two EPA-approved monitoring, reporting and verification plans for geologic sequestration through EOR production.
+INDUSTRY OUTLOOK
+Midstream and marketing segment results can experience volatility depending on the Midland-to-Gulf-Coast oil spreads and commodity price changes. To a lesser extent, declines in commodity prices, including NGL and sulfur prices, reduce the results for the gas processing business.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+SEGMENT RESULTS OF OPERATIONS AND ITEMS AFFECTING COMPARABILITY
+SEGMENT RESULTS OF OPERATIONS
+Segment earnings exclude income taxes, interest income, interest expense, environmental remediation expenses, unallocated corporate expenses and discontinued operations, but include gains and losses from divestitures of segment assets and income from the segments’ equity investments. Seasonality is not a primary driver of changes in Occidental’s consolidated quarterly earnings during the year.
+The following table sets forth the sales and earnings of each operating segment and corporate items for the years ended December 31:
+millions, except per share amounts 2020 2019 2018
+NET SALES (a)
+Oil and gas $ 13,066 $ 13,941 $ 10,441
+Chemical
+3,733 4,102 4,657
+Midstream and marketing 1,768 4,132 3,656
+Eliminations (758) (1,264) (930)
+Total $ 17,809 $ 20,911 $ 17,824
+SEGMENT RESULTS AND EARNINGS
+Domestic
+$ (8,758) $ 838 $ 621
+International
+(742) 1,851 1,896
+Exploration
+(132) (169) (75)
+Oil and gas (9,632) 2,520 2,442
+Chemical
+664 799 1,159
+Midstream and marketing (4,175) 241 2,802
+Total $ (13,143) $ 3,560 $ 6,403
+Unallocated corporate items
+Interest expense, net
+(1,424) (1,002) (356)
+Income tax benefit (expense) 2,172 (861) (1,477)
+Other (1,138) (2,204) (439)
+Income (loss) from continuing operations
+$ (13,533) $ (507) $ 4,131
+Discontinued operations, net
+(1,298) (15) -
+Net income (loss)
+(14,831) (522) 4,131
+Less: Net loss attributable to noncontrolling interests - (145) -
+Less: Preferred stock dividends
+(844) (318) -
+Net income (loss) attributable to common stockholders
+$ (15,675) $ (985) $ 4,131
+Net income (loss) attributable to common stockholders-basic $ (17.06) $ (1.22) $ 5.40
+Net income (loss) attributable to common stockholders-diluted $ (17.06) $ (1.22) $ 5.39
+(a)Intersegment sales eliminate upon consolidation and are generally made at prices approximating those that the selling entity would be able to obtain in third-party transactions.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+ITEMS AFFECTING COMPARABILITY
+OIL AND GAS SEGMENT
+Results of Operations
+millions 2020 2019 2018
+Segment Sales $ 13,066 $ 13,941 $ 10,441
+Segment Results (a)
+Domestic
+$ (8,758) $ 838 $ 621
+International
+(742) 1,851 1,896
+Exploration
+(132) (169) (75)
+Total
+$ (9,632) $ 2,520 $ 2,442
+Items affecting comparability
+Asset impairments and related items - domestic (b)
+$ (5,904) $ (288) $ -
+Asset impairments and related items - international (c)
+$ (1,195) $ (39) $ (416)
+Asset sale gains (losses), net - domestic (d)
+$ (1,275) $ 475 $ -
+Asset sale losses, net - international (e)
+$ (353) $ - $ -
+Oil and natural gas collars mark-to-market gains (losses) $ 1,064 $ (107) $ -
+Rig terminations and other - domestic $ (59) $ - $ -
+Rig terminations and other - international $ (13) $ - $ -
+(a)Results included significant items affecting comparability discussed in the footnotes below.
+(b)The 2020 amount included pre-tax impairments of $4.5 billion primarily related to domestic onshore unproved acreage as well as $1.3 billion primarily related to other domestic onshore assets and the Gulf of Mexico. The 2019 amount included $285 million of impairment and related charges associated with domestic undeveloped leases that were set to expire in the near-term, where Occidental had no plans to pursue exploration activities.
+(c)The 2020 amount included $1.2 billion of impairment and related charges associated with Occidental’s proved properties in Algeria and Oman. The 2019 amount related to Occidental’s mutually agreed early termination of certain Qatar concessions. The 2018 amount consisted of impairment and related charges associated with certain Qatar concessions.
+(d)The 2020 amount included a $440 million loss on the sale of Occidental’s mineral and fee surface acres in Wyoming, Colorado and Utah and losses of $820 million related to the sale of non-core, largely non-operated acreage in the Permian Basin. The 2019 amount included gain on the sale of a portion of Occidental’s joint venture with ECOPETROL S.A. (Ecopetrol) and a loss on sale of real estate assets.
+(e)The 2020 amount included a loss on the sale of Occidental’s Colombia assets of $353 million.
+The following table sets forth the average realized prices for oil, NGL and natural gas from ongoing operations for each of the three years in the period ended December 31, 2020, and includes a year-over-year change calculation:
+2020 Year over Year Change 2019 Year over Year Change 2018
+Average Realized Prices
+Oil ($/Bbl)
+United States $ 36.39 (33) % $ 54.31 (4) % $ 56.30
+Latin America
+$ 38.80 (32) % $ 57.26 (11) % $ 64.32
+Middle East/Africa $ 41.52 (33) % $ 62.03 (8) % $ 67.69
+Total worldwide
+$ 37.41 (34) % $ 56.32 (7) % $ 60.64
+NGL ($/Bbl)
+United States $ 11.98 (25) % $ 16.03 (42) % $ 27.64
+Middle East/Africa $ 16.22 (26) % $ 21.85 (6) % $ 23.20
+Total worldwide $ 12.58 (27) % $ 17.20 (34) % $ 26.25
+Natural Gas ($/Mcf)
+United States $ 1.18 (10) % $ 1.31 (18) % $ 1.59
+Latin America
+$ 5.41 (23) % $ 7.01 9 % $ 6.43
+Total worldwide
+$ 1.31 (10) % $ 1.45 (10) % $ 1.62
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+Domestic oil and gas results, excluding significant items affecting comparability, decreased in 2020 compared to 2019 primarily due to lower realized oil, NGL and natural gas prices, partially offset by higher crude oil, NGL and natural gas sales volumes mostly due to additional production from the Acquisition.
+International oil and gas results, excluding significant items affecting comparability, decreased in 2020 compared to 2019 primarily due to a decrease in realized commodity prices as well as lower volumes as a result of exiting Qatar in 2019.
+Production
+The following table sets forth the production volumes of oil, NGL and natural gas per day from ongoing operations for each of the three years in the period ended December 31, 2020 and includes a year-over-year change calculation:
+Production per Day, Ongoing Operations (Mboe/d) 2020 Year over Year Change 2019 Year over Year Change 2018
+United States
+Permian Resources 435 23 % 355 66 % 214
+Permian EOR 140 (9) % 154 - % 154
+DJ Basin 293 144 % 120 N/A -
+Gulf of Mexico 130 124 % 58 N/A -
+Other Domestic 39 44 % 27 575 % 4
+Total 1,037 45 % 714 92 % 372
+Latin America 32 (6) % 34 6 % 32
+Middle East / Africa
+Algeria 44 83 % 24 N/A -
+Al Hosn Gas 78 (5) % 82 12 % 73
+Dolphin 44 5 % 42 5 % 40
+Oman 85 (4) % 89 3 % 86
+Total 251 6 % 237 19 % 199
+Total Production from Ongoing Operations
+1,320 34 % 985 63 % 603
+Operations exited or exiting 30 (32) % 44 (20) % 55
+Total Production (Mboe/d) (a)
+1,350 31 % 1,029 56 % 658
+(a)Natural gas volumes have been converted to Boe based on energy content of six Mcf of gas to one barrel of oil. Boe equivalent does not necessarily result in price equivalency. Please refer to the Supplemental Oil and Gas Information (unaudited) section of this Form 10-K for additional information on oil and gas production and sales.
+Average daily production volumes from ongoing operations increased in 2020 compared to 2019 primarily due to a full year of production associated with the assets acquired from the Acquisition.
+Lease Operating Expense
+The following table sets forth the average lease operating expense per Boe from ongoing operations for each of the three years in the period ended December 31, 2020:
+2020 2019 2018
+Average lease operating expense per Boe $6.38 $9.07 $11.52
+Average lease operating expense per Boe decreased in 2020 compared to 2019 primarily due to operational efficiencies related to downhole maintenance and supports.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+CHEMICAL SEGMENT
+millions 2020 2019 2018
+Segment Sales $ 3,733 $ 4,102 $ 4,657
+Segment Results $ 664 $ 799 $ 1,159
+Chemical segment results decreased in 2020 compared to 2019 due to lower realized caustic soda prices and overall lower sales volumes as a result of the COVID-19 pandemic, partially offset by lower natural gas costs and lower plant spending.
+MIDSTREAM AND MARKETING SEGMENT
+millions 2020 2019 2018
+Segment Sales $ 1,768 $ 4,132 $ 3,656
+Segment Results (a)
+$ (4,175) $ 241 $ 2,802
+Items affecting comparability
+Asset and equity investment sale gains (losses) (b)
+$ (46) $ 114 $ 907
+Asset impairments and other charges (c)
+$ (4,194) $ (1,002) $ -
+Interest rate swaps mark-to-market, net (d)
+$ - $ 30 $ -
+(a)Results included items affecting comparability listed below.
+(b)The 2020 amount represented a loss on the exchange of WES common units to retire a $260 million note. The 2019 amount represented a $114 million gain on the sale of an equity investment in Plains All American Pipeline, L.P. and Plains GP Holdings, L.P. (together, Plains). The 2018 amount represented a gain on sale of non-core domestic midstream assets.
+(c)The 2020 amount included a $2.7 billion other-than-temporary impairment of the equity investment in WES and $1.4 billion of impairments related to the write-off of goodwill and a loss from an equity investment related to WES’ write-off of its goodwill. The 2019 amount included a $1 billion charge as a result of recording Occidental’s investment in WES at fair value as of December 31, 2019 upon the loss of control.
+(d)The 2019 amount represented a $30 million mark-to-market gain on an interest rate swap for WES.
+Midstream and marketing segment results, excluding items affecting comparability, decreased in 2020 compared to 2019, primarily due to lower marketing margins from the tightening of the average Midland-to-Gulf-Coast oil spreads by $5.15 per barrel, and to a lesser extent lower pipeline income following the sale of the Plains equity investment in the third quarter of 2019 and lower sulfur prices impacting Al Hosn Gas.
+CORPORATE
+Significant corporate items include the following:
+millions 2020 2019 2018
+Items Affecting Comparability
+Anadarko Acquisition-related costs $ (339) $ (1,647) $ -
+Bridge loan financing fees $ - $ (122) $ -
+Acquisition-related pension and termination benefits $ 114 $ 37 $ -
+Interest rate swaps mark-to-market, net $ (428) $ 122 $ -
+Other charges and asset impairments $ - $ (22) $ -
+Warrant gains mark-to-market $ 5 $ 81 $ -
+INCOME TAXES
+Total deferred tax assets, after valuation allowance, were $4.3 billion and $3.7 billion at December 31, 2020, and 2019, respectively. Occidental expects to realize the recorded deferred tax assets, net of any allowances, through future operating income and reversal of temporary differences. The total deferred tax liabilities were $11.4 billion and $13.4 billion as of December 31, 2020, and 2019, respectively. The decrease in net deferred tax liability in 2020 over 2019 is primarily driven by domestic asset impairments for which Occidental does not receive an immediate tax benefit as well as an increase in net operating loss carryforwards.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+WORLDWIDE EFFECTIVE TAX RATE
+The following table sets forth the calculation of the worldwide effective tax rate for income from continuing operations:
+millions 2020 2019 2018
+SEGMENT RESULTS
+Oil and gas $ (9,632) $ 2,520 $ 2,442
+Chemical 664 799 1,159
+Midstream and marketing (4,175) 241 2,802
+Unallocated corporate items (2,562) (3,206) (795)
+Income (loss) from continuing operations before taxes (15,705) 354 5,608
+Income tax benefit (expense)
+Federal and state 2,607 34 (463)
+Foreign (435) (895) (1,014)
+Total income tax benefit (expense) 2,172 (861) (1,477)
+Income (loss) from continuing operations
+(13,533) (507) 4,131
+Worldwide effective tax rate 14% 243% 26%
+In 2020, Occidental’s worldwide effective tax rate was 14%, which was largely a result of the impairment of the WES goodwill and certain international assets, for which Occidental receives no tax benefit and higher-taxed foreign operations which generally caused Occidental’s tax rate to vary significantly from the U.S. corporate tax rate. Occidental’s effective tax rate is impacted each year by the relative pre-tax income (loss) earned by its domestic and international operations.
+CONSOLIDATED RESULTS OF OPERATIONS
+REVENUE AND OTHER INCOME ITEMS
+millions 2020 2019 2018
+Net sales $ 17,809 $ 20,911 $ 17,824
+Interest, dividends and other income
+$ 118 $ 217 $ 136
+Gains (losses) on sale of assets, net $ (1,666) $ 622 $ 974
+Price and volume changes generally represent the majority of the change in the oil and gas and chemical segments sales. Midstream and marketing sales are mainly impacted by the lower marketing margins from the decrease in the Midland-to-Gulf-Coast oil spreads and, to a lesser extent, the change in NGL and sulfur prices for the gas processing business.
+The decrease in net sales in 2020 compared to 2019 was primarily due to lower realized oil prices in the oil and gas segment despite higher volumes as a result of a full year of production from properties added in the Acquisition and net gains on the three-way oil collars. Midstream and marketing sales declined due to tightening of the Midland-to-Gulf-Coast oil spreads. Chemical sales declined primarily due to lower sales volumes across all products and lower realized caustic soda prices.
+The 2020 losses on sales of assets, net, is primarily comprised of $820 million related to the sale of certain non-core, largely non-operated acreage in the Permian Basin, $440 million related to the sale of 4.5 million mineral acres and 1 million fee surface acres located in Wyoming, Colorado and Utah, $353 million related to the sale of the Colombia onshore assets and a loss of $46 million related to the WES note exchange.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+EXPENSE ITEMS
+millions 2020 2019 2018
+Oil and gas operating expense $ 3,065 $ 3,282 $ 2,761
+Transportation and gathering expense $ 1,600 $ 635 $ 152
+Chemical and midstream cost of sales $ 2,408 $ 2,791 $ 2,833
+Purchased commodities $ 1,395 $ 1,679 $ 822
+Selling, general and administrative $ 864 $ 893 $ 585
+Other operating and non-operating expense $ 884 $ 1,421 $ 1,028
+Depreciation, depletion and amortization $ 8,097 $ 6,140 $ 3,977
+Asset impairments and other charges $ 11,083 $ 1,361 $ 561
+Taxes other than on income $ 622 $ 840 $ 439
+Anadarko Acquisition-related costs $ 339 $ 1,647 $ -
+Exploration expense $ 132 $ 247 $ 110
+Interest and debt expense, net $ 1,424 $ 1,066 $ 389
+OIL AND GAS OPERATING EXPENSE
+Oil and gas operating expense decreased in 2020 from the prior year, primarily due to operational efficiencies that decreased downhole maintenance and workover and support costs and lower energy and purchased injectant costs.
+TRANSPORTATION AND GATHERING EXPENSE
+Transportation and gathering expense increased in 2020 from the prior year, primarily due to a full year of increased sales volumes related to the Acquisition as well as transportation costs to WES which was previously a consolidated entity in 2019.
+CHEMICAL AND MIDSTREAM COST OF SALES
+Chemical and midstream cost of sales decreased in 2020 from the prior year, primarily due to favorable raw material costs in the chemical segment and lower midstream operation costs due to the loss of control of WES in 2019.
+PURCHASED COMMODITIES
+Purchased commodities decreased in 2020 largely as a result of lower crude oil prices on third-party crude purchases related to the midstream and marketing segment.
+OTHER OPERATING AND NON-OPERATING EXPENSE
+Other operating and non-operating expense decreased in 2020 from the prior year, primarily due to the realization of overhead savings and a net gain related to the settlement, curtailment and special termination benefits on pension plans acquired in the Acquisition.
+DEPRECIATION, DEPLETION AND AMORTIZATION (DD&A)
+DD&A expense increased in 2020 from the prior year, primarily due to having a full year of production in 2020 associated with assets acquired through the Acquisition.
+ASSET IMPAIRMENTS AND OTHER CHARGES
+In 2020, asset impairments and other charges included pre-tax impairments of $4.5 billion primarily related to domestic onshore unproved acreage as well as $1.3 billion primarily related to other domestic onshore assets and the Gulf of Mexico. In addition there were $931 million of impairment and related charges associated with Occidental’s proved properties in Algeria to remeasure the Algeria oil and gas properties to their fair value. In addition, for the midstream and marketing segment, there were pre-tax impairment charges of $2.7 billion other-than-temporary impairment of the equity investment in WES and $1.2 billion of impairments related to the write-off of goodwill.
+TAXES OTHER THAN ON INCOME
+Taxes other than on income in 2020 decreased from the prior year, due to lower production taxes which are directly tied to prices on oil, NGL and natural gas volumes.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+ACQUISITION RELATED EXPENSES
+Acquisition related expenses in 2020 are associated with employee severance and related employee costs primarily related to one-time severance costs and the accelerated vesting of certain Anadarko share-based awards for former Anadarko employees based on the terms of the Acquisition and existing change of control provisions within the former Anadarko employment agreements.
+INTEREST AND DEBT EXPENSE, NET
+Interest and debt expense, net, increased in 2020 from the prior year due to an increase in debt issued to partially fund the Acquisition, as well as the debt assumed through the Acquisition.
+OTHER ITEMS
+Income/(expense) millions
+2020 2019 2018
+Gains (losses) on interest rate swaps and warrants $ (423) $ 233 $ -
+Income from equity investments
+$ 370 $ 373 $ 331
+Income tax benefit (expense) $ 2,172 $ (861) $ (1,477)
+GAINS (LOSSES) ON INTEREST RATE SWAPS AND WARRANTS
+Gains (losses) on interest rate swaps and warrants are primarily due to a decline in the reference rate on the interest rate swaps throughout 2020, as fixed interest rates exceed the floating interest rates during the reference period.
+INCOME TAX BENEFIT (EXPENSE)
+Occidental realized an income tax benefit for the year ended December 31, 2020 as compared to an income tax expense for the year ended December 31, 2019, primarily due to lower pre-tax income, partially offset by the impairment of certain international assets as well as the equity method goodwill associated with the WES investment, for which Occidental received no tax benefit.
+DISCONTINUED OPERATIONS, NET
+Discontinued operations, net in 2020 is associated with the operations of Ghana for which Occidental continues to present as held for sale. The decrease in income in 2020 is primarily associated with an after-tax impairment of $1.4 billion in the second quarter of 2020 to reflect the held for sale assets at their fair value less costs to sell based on the income approach.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+LIQUIDITY AND CAPITAL RESOURCES
+CASH ON HAND
+At December 31, 2020, Occidental had approximately $2.0 billion in cash and cash equivalents. A substantial majority of this cash is held and available for use in the United States.
+Occidental’s $5 billion RCF, available cash, continued access to capital markets and positive operating cash flows will allow Occidental to meet its short- and long-term purchase obligations, near-term debt maturities and other liabilities.
+At December 31, 2020, Occidental had $0.4 billion in current maturities of long-term debt through December 31, 2021 and an additional $2.1 billion in long-term obligations due in 2022. Other near-term obligations include interest rate swaps with mandatory termination dates in September 2021 with a notional value of $750 million and accounts payable incurred in the course of Occidental’s business activities.
+Occidental continues to pursue divestitures of certain assets and intends to use the net proceeds from asset sales and free cash flow to repay its nearer-term debt maturities, but the expected timing and final proceeds from such asset sales are uncertain. Occidental currently expects its cash on hand to be sufficient to meet its debt maturities, operating expenditures and other obligations for the next 12 months from the date of this filing. However, given the inherent uncertainty associated with the duration and severity of the COVID-19 pandemic and its resulting impact on oil demand, Occidental may need to raise capital to fund its operations and refinance debt maturities.
+At December 31, 2020, Occidental had $170 million in restricted cash and restricted cash equivalents, which was primarily associated with an international joint venture, a benefits trust for former Anadarko employees that was funded as part of the Acquisition and a judicially controlled account related to a Brazilian tax dispute. Restricted cash within the benefits trust will be made available to Occidental as benefits are paid to former Anadarko employees.
+DEBT ACTIVITY
+On March 23, 2020, Occidental amended the sole financial covenant in its RCF by revising the definition of "Total Capitalization" to exclude any non-cash write-downs, impairments and related charges occurring after September 30, 2019. The amendments provide Occidental with additional flexibility in the event of any such write-downs, impairments or other changes under the ratio of Total Debt to Total Capitalization covenant.
+In July, August, and December, 2020, Occidental issued several series of notes with maturities from five to ten years. The proceeds from these issuances were used to tender and repay nearer-term notes and the Term Loan. Occidental used proceeds from the sale of mineral and surface acres located in Wyoming, Colorado and Utah, the Colombian asset sale and proceeds from other divestitures to repay debt. Occidental used the net proceeds from asset sales, cash on hand and Senior Notes Offerings to retire or tender $6.0 billion of 2021, $2.7 billion of 2022 and $264 million of 2023 maturities.
+In August 2020, Occidental exchanged approximately 27.9 million WES common units to retire a $260 million note payable to WES.
+See Note 7 - Long-Term Debt in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K for more information related to Occidental’s debt issuance and repayments.
+As of December 31, 2020, under the most restrictive covenants of its financing agreements, Occidental had substantial capacity for additional unsecured borrowings, the payment of cash dividends and other distributions on, or acquisitions of, Occidental stock.
+CASH FLOW ANALYSIS
+CASH PROVIDED BY OPERATING ACTIVITIES
+millions 2020 2019 2018
+Operating cash flow from continuing operations $ 3,842 $ 7,336 $ 7,669
+Operating cash flow from discontinued operations, net of taxes 113 39 -
+Net cash provided by operating activities $ 3,955 $ 7,375 $ 7,669
+Cash provided by operating activities decreased $3.4 billion in 2020 compared to 2019, primarily due to lower oil prices as average WTI and Brent prices decreased by 31% and 33%, respectively. Operating cash flows also decreased due to the decrease in the average Midland-to-Gulf-Coast oil spreads, which decreased by $5.15 per barrel in 2020 compared to 2019. To a lesser extent, the reduction in realized NGL and natural gas prices also impacted the lower operating cash flows in 2020. These decreases were partially offset by higher oil and gas sale volumes as 2020 had a full year of production from assets associated with the Acquisition along with settlement of the three-way oil collars of $0.9 billion.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+CASH USED BY INVESTING ACTIVITIES
+millions 2020 2019 2018
+Capital expenditures
+Oil and gas $ (2,208) $ (5,512) $ (4,413)
+Chemical (255) (267) (271)
+Midstream and marketing (50) (461) (216)
+Corporate (22) (127) (75)
+Total $ (2,535) $ (6,367) $ (4,975)
+Changes in capital accrual (519) (249) 55
+Purchase of businesses and assets, net (114) (28,088) (928)
+Proceeds from sale of assets and equity investments, net 2,281 6,143 2,824
+Other investing activities, net 109 (291) (182)
+Investing cash flows from continuing operations
+$ (778) $ (28,852) $ (3,206)
+Investing cash flows from discontinued operations
+(41) (175) -
+Net cash used by investing activities
+$ (819) $ (29,027) $ (3,206)
+Cash flows used by investing activities decreased by $28.2 billion in 2020 compared to 2019 primarily due to the 2019 Acquisition. Additionally, Occidental reduced capital spending in 2020 in response to the COVID-19 pandemic. See Note 4 - Divestitures and Other Transactions in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K for a listing of assets and equity investments sold in 2020, 2019 and 2018.
+CASH PROVIDED (USED) BY FINANCING ACTIVITIES
+millions 2020 2019 2018
+Financing cash flows from continuing operations $ (4,508) $ 22,196 $ (3,102)
+Financing cash flows from discontinued operations $ (8) $ (3) $ -
+Net cash provided (used) by financing activities
+$ (4,516) $ 22,193 $ (3,102)
+Cash provided by financing activities decreased by $26.7 billion compared to 2019 primarily due to the 2019 increase in debt used to fund the Acquisition. Additionally, common dividends paid in 2020 were lower than 2019 due to the Board of Directors’ decision to reduce the quarterly dividend rate effective as of July 2020 from $0.79 to $0.01 per share. See Note 7 - Long-Term Debt in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K for more information related to Occidental’s debt issuance and repayments.
+OFF-BALANCE SHEET ARRANGEMENTS
+GUARANTEES
+Occidental has guaranteed its portion of the debt of Dolphin Energy Limited, an equity method investment, and has entered into various other guarantees, including performance bonds, letters of credit, indemnities and commitments provided by Occidental to third parties, mainly to provide assurance that Occidental or its subsidiaries and affiliates will meet their various obligations. See “Midstream and Marketing Segment - Business Review - Pipeline” and “Segment Results of Operations” for further information regarding the Dolphin Energy Project. As of December 31, 2020, and 2019, Occidental had provided limited recourse guarantees of approximately $242 million, primarily related to Dolphin Energy Limited’s debt, which are limited to certain political and other events.
+COMMITMENTS AND OBLIGATIONS
+DELIVERY COMMITMENTS
+Occidental has made long-term commitments to certain refineries and other buyers to deliver oil, NGL and natural gas. The total amount contracted to be delivered is approximately 111 MMbbl of oil through 2025, 862 MMbbl of NGL through 2029 and 1,025 Bcf of gas through 2029. The price for these deliveries is set at the time of delivery of the product. Occidental has significantly more production capacity than the amounts committed and has the ability to secure additional volumes in case of a shortfall.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+CONTRACTUAL OBLIGATIONS
+The following table summarizes and cross-references Occidental’s contractual obligations and indicates on- and off-balance sheet obligations as of December 31, 2020. Commitments related to held for sale assets are excluded.
+millions
+Payments Due by Year
+Total 2021 2022 and 2023 2024 and 2025 2026 and
+thereafter
+On-Balance Sheet
+Current portion of long-term debt (Note 7) (a)
+$ 398 $ 398 $ - $ - $ -
+Long-term debt (Note 7) (a)
+34,837 - 3,007 6,798 25,032
+Leases (Note 8) (b)
+1,724 500 374 234 616
+Asset retirement obligations (Note 1) 4,130 153 845 631 2,501
+Other long-term liabilities (c)
+2,386 321 336 187 1,542
+Off-Balance Sheet
+Purchase obligations (d)
+13,184 2,826 4,344 2,986 3,028
+Total $ 56,659 $ 4,198 $ 8,906 $ 10,836 $ 32,719
+(a)Excluded unamortized debt discount and interest on the debt. As of December 31, 2020, interest on long-term debt totaling $19.9 billion is payable in the following years: 2021 - $1.6 billion, 2022 and 2023 - $3.2 billion, 2024 and 2025 - $2.9 billion, 2026 and thereafter - $12.2 billion.
+(b)Occidental is the lessee under various agreements for real estate, equipment, plants and facilities. See Note 2 - Accounting and Disclosure Changes in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K regarding the impact of rules effective January 1, 2019 which required Occidental to recognize most leases, including operating leases, on the balance sheet.
+(c)Includes long term obligations and current portions of long term obligations under postretirement benefit, accrued transportation commitments, ad valorem taxes and other accrued liabilities.
+(d)Amounts include payments which will become due under long-term agreements to purchase goods and services used in the normal course of business to secure terminal, pipeline and processing capacity, CO2, electrical power, steam and certain chemical raw materials. Amounts exclude certain product purchase obligations related to marketing activities for which there are no minimum purchase requirements or the amounts are not fixed or determinable. Long-term purchase contracts are discounted at a 4.41% discount rate.
+LAWSUITS, CLAIMS, COMMITMENTS AND CONTINGENCIES
+LEGAL MATTERS
+Occidental or certain of its subsidiaries are involved, in the normal course of business, in lawsuits, claims and other legal proceedings that seek, among other things, compensation for alleged personal injury, breach of contract, property damage or other losses, punitive damages, civil penalties, or injunctive or declaratory relief. Occidental or certain of its subsidiaries also are involved in proceedings under Comprehensive Environmental Response, Compensation and Liability Act (CERCLA) and similar federal, state, local and foreign environmental laws. These environmental proceedings seek funding or performance of remediation and, in some cases, compensation for alleged property damage, punitive damages, civil penalties and injunctive relief. Usually Occidental or such subsidiaries are among many companies in these environmental proceedings and have to date been successful in sharing response costs with other financially sound companies. Further, some lawsuits, claims and legal proceedings involve acquired or disposed assets with respect to which a third party or Occidental retains liability or indemnifies the other party for conditions that existed prior to the transaction.
+In accordance with applicable accounting guidance, Occidental accrues reserves for outstanding lawsuits, claims and proceedings when it is probable that a liability has been incurred and the liability can be reasonably estimated. Reserves for matters, other than for environmental remediation, that satisfy this criteria as of December 31, 2020 and 2019, were not material to Occidental’s Consolidated Balance Sheets.
+In 2016, Occidental received payments from the Republic of Ecuador of approximately $1.0 billion pursuant to a November 2015 arbitration award for Ecuador’s 2006 expropriation of Occidental's Participation Contract for Block 15. The awarded amount represented a recovery of 60% of the value of Block 15. In 2017, Andes Petroleum Ecuador Ltd. (Andes) filed a demand for arbitration, claiming it is entitled to a 40% share of the judgment amount obtained by Occidental. Occidental contends that Andes is not entitled to any of the amounts paid under the 2015 arbitration award because Occidental’s recovery was limited to Occidental’s own 60% economic interest in the block. The merits hearing occurred in September 2020 and an arbitration decision is expected within the next six months.
+In August 2019, Sanchez Energy Corporation and certain of its affiliates (Sanchez) filed voluntary petitions for reorganization under Chapter 11 of the United States Bankruptcy Code. Sanchez is a party to agreements with Anadarko as
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+a result of its 2017 purchase of Anadarko's Eagle Ford Shale assets. Sanchez is attempting to reject some of the agreements related to the purchase of Anadarko’s Eagle Ford Shale assets. If Sanchez is permitted to reject certain of those agreements, then Anadarko may owe deficiency payments to various third parties. Occidental intends to defend vigorously any attempt by Sanchez to reject the agreements. Occidental expects a ruling on Sanchez's purported contract rejection in the first half of 2021.
+On May 26, 2020, a putative securities class action captioned City of Sterling Heights General Employees’ Retirement System, et al. v. Occidental Petroleum Corporation, et al., No. 651994/2020 (City of Sterling), was filed in the Supreme Court of the State of New York. The complaint asserts claims under Sections 11, 12 and 15 of the Securities Act of 1933, as amended (the Securities Act), based on alleged misstatements in the Securities Act filings, including the registration statement filed in connection with the Anadarko Acquisition and Occidental’s related issuance of common stock and debt securities offerings that took place in August 2019. The lawsuit was filed against Occidental, certain current and former officers and directors and certain underwriters of the debt securities offerings, and seeks damages in an unspecified amount, plus attorneys’ fees and expenses. Two additional putative class actions were filed in the same court (together with City of Sterling, the State Cases) and the State Cases were consolidated into In re Occidental Petroleum Corporation Securities Litigation, No. 651830/2020. Occidental intends to vigorously defend itself in all respects in regard to the State Cases.
+The ultimate outcome and impact of outstanding lawsuits, claims and proceedings on Occidental cannot be predicted. Management believes that the resolution of these matters will not, individually or in the aggregate, have a material adverse effect on Occidental's Consolidated Balance Sheets. If unfavorable outcomes of these matters were to occur, future results of operations or cash flows for any particular quarterly or annual period could be materially adversely affected. Occidental’s estimates are based on information known about the legal matters and its experience in contesting, litigating and settling similar matters. Occidental reassesses the probability and estimability of contingent losses as new information becomes available.
+TAX MATTERS
+During the course of its operations, Occidental is subject to audit by tax authorities for varying periods in various federal, state, local and foreign tax jurisdictions. Taxable years through 2017 for U.S. federal income tax purposes have been audited by the U.S. Internal Revenue Service (IRS) pursuant to its Compliance Assurance Program and subsequent taxable years are currently under review. Taxable years through 2009 have been audited for state income tax purposes. All other significant audit matters in foreign jurisdictions have been resolved through 2010. During the course of tax audits, disputes have arisen and other disputes may arise as to facts and matters of law. Occidental believes that the resolution of outstanding tax matters would not have a material adverse effect on its consolidated financial position or results of operations.
+For Anadarko, its taxable years through 2014 and tax year 2016 for U.S. federal and state income tax purposes have been audited by the IRS and respective state taxing authorities. There are outstanding significant audit matters in one foreign jurisdiction. As stated above, during the course of tax audits, disputes have arisen and other disputes may arise as to facts and matters of law. Other than the matter discussed below, Occidental believes that the resolution of these outstanding tax matters would not have a material adverse effect on its consolidated financial position or results of operations.
+Anadarko received an $881 million tentative refund in 2016 related to its $5.2 billion Tronox Adversary Proceeding settlement payment in 2015. In September 2018, Anadarko received a statutory notice of deficiency from the IRS disallowing the net operating loss carryback and rejecting Anadarko’s refund claim. As a result, Anadarko filed a petition with the U.S. Tax Court to dispute the disallowances in November 2018. The case was in the IRS appeals process until the second quarter of 2020, however it has since been returned to the U.S. Tax Court where Occidental expects to continue pursuing resolution.
+In accordance with ASC 740’s guidance on the accounting for uncertain tax positions, Occidental has recorded no tax benefit on the tentative cash tax refund of $881 million. As a result, should Occidental not ultimately prevail on the issue, there would be no additional tax expense recorded relative to this position for financial statement purposes other than future interest. However, in that event Occidental would be required to repay approximately $925 million ($898 million federal and $27 million in state taxes) plus accrued interest of approximately $255 million. A liability for this amount plus interest is included in deferred credits and other liabilities-other.
+INDEMNITIES TO THIRD PARTIES
+Occidental, its subsidiaries, or both, have indemnified various parties against specified liabilities those parties might incur in the future in connection with purchases and other transactions that they have entered into with Occidental. These indemnities usually are contingent upon the other party incurring liabilities that reach specified thresholds. As of December 31, 2020, Occidental is not aware of circumstances that it believes would reasonably be expected to lead to indemnity claims that would result in payments materially in excess of reserves.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+ENVIRONMENTAL LIABILITIES AND EXPENDITURES
+Occidental’s operations are subject to stringent federal, state, local and international laws and regulations related to improving or maintaining environmental quality. The laws that require or address environmental remediation, including CERCLA and similar federal, state, local and international laws, may apply retroactively and regardless of fault, the legality of the original activities or the current ownership or control of sites. Occidental or certain of its subsidiaries participate in or actively monitor a range of remedial activities and government or private proceedings under these laws with respect to alleged past practices at operating, closed and third-party sites. Remedial activities may include one or more of the following: investigation involving sampling, modeling, risk assessment or monitoring; cleanup measures including removal, treatment or disposal; or operation and maintenance of remedial systems. The environmental proceedings seek funding or performance of remediation and, in some cases, compensation for alleged property damage, punitive damages, civil penalties, injunctive relief and government oversight costs.
+ENVIRONMENTAL REMEDIATION
+As of December 31, 2020, Occidental participated in or monitored remedial activities or proceedings at 170 sites. The following table presents Occidental’s current and non-current environmental remediation liabilities as of December 31, 2020 and 2019, the current portion of which is included in accrued liabilities ($123 million in 2020 and $162 million in 2019) and the remainder in deferred credits and other liabilities - environmental remediation liabilities ($1.03 billion in 2020 and $1.04 billion in 2019).
+Occidental’s environmental remediation sites are grouped into four categories: National Priorities List (NPL) sites listed or proposed for listing by the EPA on the CERCLA NPL and three categories of non-NPL sites - third-party sites, Occidental-operated sites and closed or non-operated Occidental sites.
+2020 2019
+millions, except number of sites Number of Sites Remediation Balance Number of Sites Remediation Balance
+NPL sites 35 $ 447 36 $ 463
+Third-party sites 69 293 74 311
+Occidental-operated sites 17 144 17 154
+Closed or non-operated Occidental sites 49 267 50 269
+Total 170 $ 1,151 177 $ 1,197
+As of December 31, 2020, Occidental’s environmental liabilities exceeded $10 million each at 19 of the 170 sites described above, and 96 of the sites had liabilities from $0 to $1 million each. As of December 31, 2020, two sites - the Diamond Alkali Superfund Site and a former chemical plant in Ohio (both of which are indemnified by Maxus Energy Corporation, as discussed further below) - accounted for 92% of its liabilities associated with NPL sites. 17 of the 35 NPL sites are indemnified by Maxus.
+Five of the 69 third-party sites - a Maxus-indemnified chrome site in New Jersey, a former copper mining and smelting operation in Tennessee, a former oil field and a landfill in California, and an active refinery in Louisiana where Occidental reimburses the current owner for certain remediation activities - accounted for 76% of Occidental’s liabilities associated with these sites. 9 of the 69 third-party sites are indemnified by Maxus.
+Five sites - oil and gas operations in Colorado and chemical plants in Kansas, Louisiana, New York and Texas - accounted for 70% of the liabilities associated with the Occidental-operated sites. Seven other sites - a landfill in Western New York, a former refinery in Oklahoma, former chemical plants in California, Michigan, Tennessee and Washington, and a closed coal mine in Pennsylvania - accounted for 70% of the liabilities associated with closed or non-operated Occidental sites.
+Environmental remediation liabilities vary over time depending on factors such as acquisitions or divestitures, identification of additional sites and remedy selection and implementation. Occidental recorded environmental remediation expenses of $36 million, $112 million and $47 million for the years ended December 31, 2020, 2019, and 2018, respectively. Environmental remediation expenses primarily relate to changes to existing conditions from past operations. Based on current estimates, Occidental expects to expend funds corresponding to approximately 45% of the year-end remediation balance over the next three to four years with the remainder over the subsequent 10 or more years. Occidental believes its range of reasonably possible additional losses beyond those amounts currently recorded for environmental remediation for all of its environmental sites could be up to $1.1 billion.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+MAXUS ENVIRONMENTAL SITES
+When Occidental acquired Diamond Shamrock Chemicals Company (DSCC) in 1986, Maxus agreed to indemnify Occidental for a number of environmental sites, including the Diamond Alkali Superfund Site (Site) along a portion of the Passaic River. On June 17, 2016, Maxus and several affiliated companies filed for Chapter 11 bankruptcy in Federal District Court in the State of Delaware. Prior to filing for bankruptcy, Maxus defended and indemnified Occidental in connection with clean-up and other costs associated with the sites subject to the indemnity, including the Site.
+In March 2016, the EPA issued a Record of Decision (ROD) specifying remedial actions required for the lower 8.3 miles of the Lower Passaic River. The ROD does not address any potential remedial action for the upper nine miles of the Lower Passaic River or Newark Bay. During the third quarter of 2016, and following Maxus’s bankruptcy filing, Occidental and the EPA entered into an Administrative Order on Consent (AOC) to complete the design of the proposed clean-up plan outlined in the ROD at an estimated cost of $165 million. The EPA announced that it will pursue similar agreements with other potentially responsible parties.
+Occidental has accrued a reserve relating to its estimated allocable share of the costs to perform the design and remediation called for in the AOC and the ROD, as well as for certain other Maxus-indemnified sites. Occidental's accrued estimated environmental reserve does not consider any recoveries for indemnified costs. Occidental’s ultimate share of this liability may be higher or lower than the reserved amount, and is subject to final design plans and the resolution of Occidental's allocable share with other potentially responsible parties. Occidental continues to evaluate the costs to be incurred to comply with the AOC, the ROD and to perform remediation at other Maxus-indemnified sites in light of the Maxus bankruptcy and the share of ultimate liability of other potentially responsible parties. In June 2018, Occidental filed a complaint under CERCLA in Federal District Court in the State of New Jersey against numerous potentially responsible parties for reimbursement of amounts incurred or to be incurred to comply with the AOC, the ROD, or to perform other remediation activities at the Site.
+In June 2017, the court overseeing the Maxus bankruptcy approved a Plan of Liquidation (Plan) to liquidate Maxus and create a trust to pursue claims against current and former parents YPF and each of its respective subsidiaries and affiliates (YPF) and Repsol, S.A. and each of its respective subsidiaries and affiliates (Repsol), as well as others to satisfy claims by Occidental and other creditors for past and future cleanup and other costs. In July 2017, the court-approved Plan became final and the trust became effective. The trust is pursuing claims against YPF, Repsol and others and is expected to distribute assets to Maxus' creditors in accordance with the trust agreement and Plan. In June 2018, the trust filed its complaint against YPF and Repsol in Delaware bankruptcy court asserting claims based upon, among other things, fraudulent transfer and alter ego. During 2019, the bankruptcy court denied Repsol's and YPF's motions to dismiss the complaint as well as their motions to move the case away from the bankruptcy court. Discovery remains ongoing at the time of this report.
+ENVIRONMENTAL COSTS
+Occidental’s environmental costs, some of which include estimates, are presented below for each segment for each of the years ended December 31:
+millions 2020 2019 2018
+Operating Expenses
+Oil and gas $ 176 $ 174 $ 91
+Chemical 73 80 80
+Midstream and marketing 4 12 10
+Total $ 253 $ 266 $ 181
+Capital Expenditures
+Oil and gas $ 74 $ 109 $ 71
+Chemical 40 34 23
+Midstream and marketing 1 4 2
+Total $ 115 $ 147 $ 96
+Remediation Expenses
+Corporate $ 36 $ 112 $ 47
+Operating expenses are incurred on a continual basis. Capital expenditures relate to longer-lived improvements in properties currently operated by Occidental. Remediation expenses relate to existing conditions from past operations.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+GLOBAL INVESTMENTS
+A portion of Occidental’s assets are located outside North America. The following table shows the geographic distribution of Occidental’s assets at December 31, 2020 at both the segment and consolidated level related to Occidental’s ongoing operations:
+millions Oil and gas Chemical Midstream and marketing Corporate and other Total Consolidated
+North America
+United States $ 57,026 $ 4,140 $ 6,260 $ 2,951 $ 70,377
+Canada - 123 22 - 145
+Middle East 3,500 - 3,547 - 7,047
+Latin America 33 57 - - 90
+Africa and Other 2,372 6 27 - 2,405
+Consolidated $ 62,931 $ 4,326 $ 9,856 $ 2,951 $ 80,064
+For the year ended December 31, 2020, net sales outside North America totaled $3.4 billion, or approximately 19% of total net sales.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The process of preparing financial statements in accordance with generally accepted accounting principles requires Occidental’s management to make informed estimates and judgments regarding certain items and transactions. Changes in facts and circumstances or discovery of new information may result in revised estimates and judgments and actual results may differ from these estimates upon settlement but generally not by material amounts. The selection and development of these policies and estimates have been discussed with the Audit Committee of the Board of Directors. Occidental considers the following to be its most critical accounting policies and estimates that involve management’s judgment.
+OIL AND GAS PROPERTIES
+The carrying value of Occidental’s property, plant and equipment (PP&E) represents the cost incurred to acquire or develop the asset, including any asset retirement obligations (AROs) and capitalized interest, net of DD&A and any impairment charges. For assets acquired in a business combination, PP&E cost is based on fair values at the acquisition date. Asset retirement obligations and interest costs incurred in connection with qualifying capital expenditures are capitalized and amortized over the useful lives of the related assets.
+Occidental uses the successful efforts method to account for its oil and gas properties. Under this method, Occidental capitalizes costs of acquiring properties, costs of drilling successful exploration wells and development costs. The costs of exploratory wells are initially capitalized pending a determination of whether proved reserves have been found. If proved reserves have been found, the costs of exploratory wells remain capitalized. For exploratory wells that find reserves that cannot be classified as proved when drilling is completed, costs continue to be capitalized as suspended exploratory drilling costs if there have been sufficient reserves found to justify completion as a producing well and sufficient progress is being made in assessing the economic and operating viability of the project. At the end of each quarter, management reviews the status of all suspended exploratory drilling costs in light of ongoing exploration activities, in particular, whether Occidental is making sufficient progress in its ongoing exploration and appraisal efforts or, in the case of discoveries requiring government sanctioning, analyzing whether development negotiations are underway and proceeding as planned. If management determines that future appraisal drilling or development activities are unlikely to occur, associated suspended exploratory well costs are expensed.
+Occidental expenses annual lease rentals, the costs of injectants used in production and geological and geophysical costs as incurred for exploration activities.
+Occidental determines depreciation and depletion of oil and gas producing properties by the unit-of-production method. It amortizes leasehold acquisition costs over total proved reserves and capitalized development and successful exploration costs over proved developed reserves.
+Proved oil and gas reserves are those quantities of oil and gas which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible-from a given date forward, from known reservoirs, and under existing economic conditions, operating methods, and government regulations-prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain,
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+regardless of whether deterministic or probabilistic methods are used for the estimation. Occidental has no proved oil and gas reserves for which the determination of economic producibility is subject to the completion of major additional capital expenditures.
+Several factors could change Occidental’s proved oil and gas reserves. For example, Occidental receives a share of production from PSCs to recover its costs and generally an additional share for profit. Occidental’s share of production and reserves from these contracts decreases when product prices rise and increases when prices decline. Generally, Occidental’s net economic benefit from these contracts is greater at higher product prices. In other cases, particularly with long-lived properties, lower product prices may lead to a situation where production of a portion of proved reserves becomes uneconomical. For such properties, higher product prices typically result in additional reserves becoming economical. Estimation of future production and development costs is also subject to change partially due to factors beyond Occidental’s control, such as energy costs and inflation or deflation of oil field service costs. These factors, in turn, could lead to changes in the quantity of proved reserves. Additional factors that could result in a change of proved reserves include production decline rates and operating performance differing from those estimated when the proved reserves were initially recorded. Changes in the political and regulatory climate could lead to decreases in proved reserves as development horizons may be extended into the future.
+Occidental performs impairment tests with respect to its proved properties whenever events or circumstances indicate that the carrying value of property may not be recoverable. If there is an indication the carrying amount of the asset may not be recovered due to significant and prolonged declines in current and forward prices, significant changes in reserve estimates, changes in management’s plans, or other significant events, management will evaluate the property for impairment. Under the successful efforts method, if the sum of the undiscounted cash flows is less than the carrying value of the proved property, the carrying value is reduced to estimated fair value and reported as an impairment charge in the period. Individual proved properties are grouped for impairment purposes at the lowest level for which there are identifiable cash flows. The fair value of impaired assets is typically determined based on the present value of expected future cash flows using discount rates believed to be consistent with those used by market participants. The impairment test incorporates a number of assumptions involving expectations of future cash flows which can change significantly over time. These assumptions include estimates of future production, product prices, contractual prices, estimates of risk-adjusted oil and gas proved and unproved reserves and estimates of future operating and development costs. It is reasonably possible that prolonged declines in commodity prices, reduced capital spending in response to lower prices or increases in operating costs could result in additional impairments.
+For impairment testing, unless prices are contractually fixed, Occidental uses observable forward strip prices for oil and natural gas prices when projecting future cash flows. Future operating and development costs are estimated using the current cost environment applied to expectations of future operating and development activities to develop and produce oil and gas reserves. Market prices for oil, NGL and natural gas have been volatile and may continue to be volatile in the future. Changes in global supply and demand, transportation capacity, currency exchange rates, applicable laws and regulations and the effect of changes in these variables on market perceptions could impact current forecasts. Future fluctuations in commodity prices could result in estimates of future cash flows to vary significantly.
+Net capitalized costs attributable to unproved properties were $18.6 billion at December 31, 2020, and $29.5 billion at December 31, 2019. The unproved amounts are not subject to DD&A until they are classified as proved properties. Individually insignificant unproved properties are combined and amortized on a group basis based on factors such as lease terms, success rates and other factors to provide for full amortization upon lease expiration or abandonment.
+Significant unproved properties, primarily as a result of the Acquisition, are assessed individually for impairment and when events or circumstances indicate that the carrying value of property may not be recovered a valuation allowance is provided if an impairment is indicated. Occidental periodically reviews significant unproved properties for impairments; numerous factors are considered, including but not limited to, availability of funds for future exploration and development activities, current exploration and development plans, favorable or unfavorable exploration activity on the property or the adjacent property, geologists’ evaluation of the property, the current and projected political and regulatory climate, contractual conditions and the remaining lease term for the properties. If an impairment is indicated, Occidental will first determine whether a comparable transaction for similar properties or implied acreage valuation derived from domestic onshore market participants is available and will adjust the carrying amount of the unproved property to its fair value using the market approach. In situations where the market approach is not observable and unproved reserves are available, undiscounted future net cash flows used in the impairment analysis are determined based on managements’ risk adjusted estimates of unproved reserves, future commodity prices and future costs to produce the reserves. If undiscounted future net cash flows are less than the carrying value of the property, the future net cash flows are discounted and compared to the carrying value for determining the amount of the impairment loss to record. Occidental utilizes the same assumptions and methodology discussed above for cash flows associated with proved properties.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+PROVED RESERVES
+Occidental estimates its proved oil and gas reserves according to the definition of proved reserves provided by the SEC and Financial Accounting Standards Board. This definition includes oil, NGL and natural gas that geological and engineering data demonstrate with reasonable certainty to be economically producible in future periods from known reservoirs under existing economic conditions, operating methods, government regulations, etc. (at prices and costs as of the date the estimates are made). Prices include consideration of price changes provided only by contractual arrangements and do not include adjustments based on expected future conditions. For reserves information, see the Supplemental Information on Oil and Gas Exploration and Production Activities under Item 8 of this Form 10-K.
+Engineering estimates of the quantities of proved reserves are inherently imprecise and represent only approximate amounts because of the judgments involved in developing such information. Occidental’s estimates of proved reserves are made using available geological and reservoir data as well as production performance data. The reliability of these estimates at any point in time depends on both the quality and quantity of the technical and economic data and the efficiency of extracting and processing the hydrocarbons. These estimates are reviewed annually by internal reservoir engineers and revised, either upward or downward, as warranted by additional data. Revisions are necessary due to changes in, among other things, development plans, reservoir performance, prices, economic conditions and governmental restrictions as well as changes in the expected recovery associated with infill drilling. Decreases in prices, for example, may cause a reduction in some proved reserves due to reaching economic limits at an earlier projected date. A material adverse change in the estimated volume of proved reserves could have a negative impact on DD&A and could result in property impairments.
+The most significant ongoing financial statement effect from a change in Occidental’s oil and gas reserves or impairment of its proved properties would be to the DD&A rate. For example, a 5% increase or decrease in the amount of oil and gas reserves would change the DD&A rate by approximately $0.80/Bbl, which would increase or decrease pre-tax income by approximately $330 million annually at current production rates.
+FAIR VALUES
+Occidental estimates fair-value of long-lived assets for impairment testing, assets and liabilities acquired in a business combination or exchanged in non-monetary transactions, pension plan assets and initial measurements of AROs.
+Accounting for the acquisition of a business requires the allocation of the purchase price to the various assets and liabilities of the acquired business and recording deferred taxes for any differences between the allocated values and tax basis of assets and liabilities. Any excess of the purchase price over the amounts assigned to assets and liabilities is recorded as goodwill. The purchase price allocation is accomplished by recording each asset and liability at its estimated fair value.
+Occidental primarily applies the market approach for recurring fair value measurements, maximizes its use of observable inputs and minimizes its use of unobservable inputs. When estimating the fair values of assets acquired and liabilities assumed, Occidental must apply various assumptions.
+FINANCIAL ASSETS AND LIABILITIES
+Occidental utilizes the mid-point between bid and ask prices for valuing the majority of its financial assets and liabilities measured and reported at fair value. In addition to using market data, Occidental makes assumptions in valuing its assets and liabilities, including assumptions about the risks inherent in the inputs to the valuation technique. For financial assets and liabilities carried at fair value, Occidental measures fair value using the following methods:
+■Occidental values exchange-cleared commodity derivatives using closing prices provided by the exchange as of the balance sheet date. These derivatives are classified as using quoted prices in active markets for the assets or liabilities (Level 1).
+■Over-the-Counter (OTC) bilateral financial commodity contracts, international exchange contracts, options and physical commodity forward purchase and sale contracts are generally classified as using observable inputs other than quoted prices for the assets or liabilities (Level 2) and are generally valued using quotations provided by brokers or industry-standard models that consider various inputs, including quoted forward prices for commodities, time value, volatility factors, credit risk and current market and contractual prices for the underlying instruments, as well as other relevant economic measures. Substantially all of these inputs are observable in the marketplace throughout the full term of the instrument and can be derived from observable data or are supported by observable prices at which transactions are executed in the marketplace.
+■Occidental values commodity derivatives based on a market approach that considers various assumptions, including quoted forward commodity prices and market yield curves. The assumptions used include inputs that are generally unobservable in the marketplace or are observable but have been adjusted based upon various assumptions and the fair value is designated as using unobservable inputs (Level 3) within the valuation hierarchy.
+■Occidental values debt using market-observable information for debt instruments that are traded on secondary markets. For debt instruments that are not traded, the fair value is determined by interpolating the value based on debt with similar terms and credit risk.
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+NON-FINANCIAL ASSETS
+Occidental uses market-observable prices for assets when comparable transactions can be identified that are similar to the asset being valued. When Occidental is required to measure fair value and there is not a market-observable price for the asset or for a similar asset then the cost or income approach is used depending on the quality of information available to support management’s assumptions. The cost approach is based on management’s best estimate of the current asset replacement cost. The income approach is based on management’s best assumptions regarding expectations of future net cash flows and the expected cash flows are discounted using a commensurate risk-adjusted discount rate. Such evaluations involve significant judgment. The results are based on expected future events or conditions such as sales prices, estimates of future oil and gas production or throughput, development and operating costs and the timing thereof, economic and regulatory climates and other factors, most of which are often outside of management’s control. However, assumptions used reflect a market participant’s view of long-term prices, costs and other factors and are consistent with assumptions used in Occidental’s business plans and investment decisions.
+ENVIRONMENTAL LIABILITIES AND EXPENDITURES
+Environmental expenditures that relate to current operations are expensed or capitalized as appropriate. Occidental records environmental liabilities and related charges and expenses for estimated remediation costs that relate to existing conditions from past operations when environmental remediation efforts are probable and the costs can be reasonably estimated. In determining the environmental remediation liability and the range of reasonably possible additional losses, Occidental refers to currently available information, including relevant past experience, remedial objectives, available technologies, applicable laws and regulations and cost-sharing arrangements. Occidental bases its environmental remediation liabilities on management’s estimate of the most likely cost to be incurred, using the most cost-effective technology reasonably expected to achieve the remedial objective. Occidental periodically reviews its environmental remediation liabilities and adjusts them as new information becomes available. Occidental records environmental remediation liabilities on a discounted basis when it deems the aggregate amount and timing of cash payments to be reliably determinable at the time the reserves are established. The reserve methodology with respect to discounting for a specific site is not modified once it is established. Presently none of its environmental remediation liabilities are recorded on a discounted basis. Occidental generally records reimbursements or recoveries of environmental remediation costs in income when received, or when receipt of recovery is highly probable.
+Many factors could affect Occidental’s future remediation costs and result in adjustments to its environmental remediation liabilities and the range of reasonably possible additional losses. The most significant are: (1) cost estimates for remedial activities may vary from the initial estimate; (2) the length of time, type or amount of remediation necessary to achieve the remedial objective may change due to factors such as site conditions, the ability to identify and control contaminant sources or the discovery of additional contamination; (3) a regulatory agency may ultimately reject or modify Occidental’s proposed remedial plan; (4) improved or alternative remediation technologies may change remediation costs; (5) laws and regulations may change remediation requirements or affect cost sharing or allocation of liability; and (6) changes in allocation or cost-sharing arrangements may occur.
+Certain sites involve multiple parties with various cost-sharing arrangements, which fall into the following three categories: (1) environmental proceedings that result in a negotiated or prescribed allocation of remediation costs among Occidental and other alleged potentially responsible parties; (2) oil and gas ventures in which each participant pays its proportionate share of remediation costs reflecting its working interest; or (3) contractual arrangements, typically relating to purchases and sales of properties, in which the parties to the transaction agree to methods of allocating remediation costs. In these circumstances, Occidental evaluates the financial viability of other parties with whom it is alleged to be jointly liable, the degree of their commitment to participate and the consequences to Occidental of their failure to participate when estimating Occidental’s ultimate share of liability. Occidental records its environmental remediation liabilities at its expected net cost of remedial activities and, based on these factors, believes that it will not be required to assume a share of liability of such other potentially responsible parties in an amount materially above amounts reserved.
+In addition to the costs of investigations and cleanup measures, which often take in excess of 10 years at CERCLA NPL sites, Occidental’s environmental remediation liabilities include management’s estimates of the costs to operate and maintain remedial systems. If remedial systems are modified over time in response to significant changes in site-specific data, laws, regulations, technologies or engineering estimates, Occidental reviews and adjusts its environmental remediation liabilities accordingly.
+If Occidental were to adjust the balance of its environmental remediation liabilities based on the factors described above, the amount of the increase or decrease would be recognized in earnings. For example, if the balance were reduced by 10%, Occidental would record a pre-tax gain of $115 million. If the balance were increased by 10%, Occidental would record an additional remediation expense of $115 million.
+INCOME TAXES
+Occidental files various U.S. federal, state and foreign income tax returns. The impact of changes in tax regulations are reflected when enacted. In general, deferred federal, state and foreign income taxes are provided on temporary differences between the financial statement carrying amounts of assets and liabilities and their respective tax basis. Occidental routinely assesses the realizability of its deferred tax assets. If Occidental concludes that it is more likely than not that some of the
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+deferred tax assets will not be realized, the tax asset is reduced by a valuation allowance. Occidental recognizes a tax benefit from an uncertain tax position when it is more likely than not that the position will be sustained upon examination, based on the technical merits of the position. The tax benefit recorded is equal to the largest amount that is greater than 50% likely to be realized through final settlement with a taxing authority. Interest and penalties related to unrecognized tax benefits are recognized in income tax expense (benefit). Occidental uses the flow-through method to account for its investment tax credits. See Note 12 - Income Taxes in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K.
+LOSS CONTINGENCIES
+Occidental is involved, in the normal course of business, in lawsuits, claims and other legal proceedings and audits. Occidental accrues reserves for these matters when it is probable that a liability has been incurred and the liability can be reasonably estimated. In addition, Occidental discloses, in aggregate, its exposure to loss in excess of the amount recorded on the balance sheet for these matters if it is reasonably possible that an additional material loss may be incurred. Occidental reviews its loss contingencies on an ongoing basis.
+Loss contingencies are based on judgments made by management with respect to the likely outcome of these matters and are adjusted as appropriate. Management’s judgments could change based on new information, changes in, or interpretations of, laws or regulations, changes in management’s plans or intentions, opinions regarding the outcome of legal proceedings, or other factors. See Note 11 - Lawsuits, Claims, Commitments and Contingencies in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K for additional information.
+SIGNIFICANT ACCOUNTING AND DISCLOSURE CHANGES
+See Note 2 - Accounting and Disclosure Changes in the Notes to Consolidated Financial Statements in Part II Item 8 of this Form 10-K for further information on significant accounting and disclosure changes.
+SAFE HARBOR DISCUSSION REGARDING OUTLOOK AND OTHER FORWARD-LOOKING DATA
+Portions of this report contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical fact are “forward-looking statements” for purposes of federal and state securities laws, and they include, but are not limited to: any projections of earnings, revenue or other financial items or future financial position or sources of financing; any statements of the plans, strategies and objectives of management for future operations or business strategy; any statements regarding future economic conditions or performance; any statements of belief; and any statements of assumptions underlying any of the foregoing. Words such as “estimate,” “project,” “predict,” “will,” “would,” “should,” “could,” “may,” “might,” “anticipate,” “plan,” “intend,” “believe,” “expect,” “aim,” “goal,” “target,” “objective,” “likely” or similar expressions that convey the prospective nature of events or outcomes are generally indicative of forward-looking statements. You should not place undue reliance on these forward-looking statements, which speak only as of the date of this report. Unless legally required, Occidental does not undertake any obligation to update, modify or withdraw any forward-looking statements as a result of new information, future events or otherwise.
+Although Occidental believes that the expectations reflected in any of its forward-looking statements are reasonable, actual results may differ from anticipated results, sometimes materially. Factors that could cause results to differ from those projected or assumed in any forward-looking statement include, but are not limited to: the scope and duration of the COVID-19 pandemic and actions taken by governmental authorities and other third parties in response to the pandemic; Occidental’s indebtedness and other payment obligations, including the need to generate sufficient cash flows to fund operations; Occidental’s ability to successfully monetize select assets, repay or refinance debt and the impact of changes in Occidental’s credit ratings; assumptions about energy markets; global and local commodity and commodity-futures pricing fluctuations, such as the sharp decline in crude oil prices that occurred in the first half of 2020; supply and demand considerations for, and the prices of, Occidental’s products and services; actions by OPEC and non-OPEC oil producing countries; results from operations and competitive conditions; future impairments of our proved and unproved oil and gas properties or equity investments, or write-downs of productive assets, causing charges to earnings; unexpected changes in costs; availability of capital resources, levels of capital expenditures and contractual obligations; the regulatory approval environment, including Occidental's ability to timely obtain or maintain permits or other governmental approvals, including those necessary for drilling and/or development projects; Occidental's ability to successfully complete, or any material delay of, field developments, expansion projects, capital expenditures, efficiency projects, acquisitions or dispositions; risks associated with acquisitions, mergers and joint ventures, such as difficulties integrating businesses, uncertainty associated with financial projections, projected synergies, restructuring, increased costs and adverse tax consequences; uncertainties and liabilities associated with acquired and divested properties and businesses; uncertainties about the estimated quantities of oil, NGL and natural gas reserves; lower-than-expected production from development projects or acquisitions;
+OXY 2020 FORM 10-K
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+Occidental’s ability to realize the anticipated benefits from prior or future streamlining actions to reduce fixed costs, simplify or improve processes and improve Occidental’s competitiveness; exploration, drilling and other operational risks; disruptions to, capacity constraints in, or other limitations on the pipeline systems that deliver Occidental’s oil and natural gas and other processing and transportation considerations; general economic conditions, including slowdowns, domestically or internationally, and volatility in the securities, capital or credit markets; uncertainty from the expected discontinuance of LIBOR and transition to any other interest rate benchmark; governmental actions and political conditions and events; legislative or regulatory changes, including changes relating to hydraulic fracturing or other oil and natural gas operations, retroactive royalty or production tax regimes, deepwater and onshore drilling and permitting regulations and environmental regulation (including regulations related to climate change); environmental risks and liability under international, provincial, federal, regional, state, tribal, local and foreign environmental laws and regulations (including remedial actions); potential liability resulting from pending or future litigation; disruption or interruption of production or manufacturing or facility damage due to accidents, chemical releases, labor unrest, weather, natural disasters, cyber attacks or insurgent activity; the creditworthiness and performance of Occidental's counterparties, including financial institutions, operating partners and other parties; failure of risk management; Occidental’s ability to retain and hire key personnel; reorganization or restructuring of Occidental’s operations; changes in state, federal or foreign tax rates; and actions by third parties that are beyond Occidental's control. The unprecedented nature of the COVID-19 pandemic and recent market decline may make it more difficult to identify potential risks, give rise to risks that are currently unknown or amplify the impact of known risks.
+Additional information concerning these and other factors that may cause Occidental’s results of operations and financial position to differ from expectations can be found in Item 1A, “Risk Factors” and elsewhere in this Form 10-K, as well as in Occidental’s other filings with the U.S. Securities and Exchange Commission, including Occidental’s Quarterly Reports on Form 10-Q and Current Reports on Form 8-K.

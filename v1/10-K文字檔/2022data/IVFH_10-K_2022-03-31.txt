@@ -1,0 +1,1311 @@
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with the consolidated financial statements and the related notes thereto, as well as all other related notes, and financial and operational references, appearing elsewhere in this document.
+Certain information contained in this discussion and elsewhere in this report may include “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 and is subject to the safe harbor created by that act. The safe harbor created by the Private Securities Litigation Reform Act will not apply to certain “forward looking statements” because we issued “penny stock” (as defined in Section 3(a)(51) of the Securities Exchange Act of 1934 and Rule 3(a)(51-1) under the Exchange Act) during the three year period preceding the date(s) on which those forward looking statements were first made, except to the extent otherwise specifically provided by rule, regulation or order of the Securities and Exchange Commission. We caution readers that certain important factors may affect our actual results and could cause such results to differ materially from any forward-looking statements which may be deemed to have been made in this Report or which are otherwise made by or on our behalf. For this purpose, any statements contained in this report that are not statements of historical fact may be deemed to be forward-looking statements. Without limiting the generality of the foregoing, words such as “may”, “will”, “expect”, “believe”, “explore”, “consider”, “anticipate”, “intend”, “could”, “estimate”, “plan”, “propose” or “continue” or the negative variations of those words or comparable terminology are intended to identify forward-looking statements. Factors that may affect our results include, but are not limited to, the risks and uncertainties associated with:
+●
+Our ability to raise capital necessary to sustain our anticipated operations and implement our business plan,
+●
+Our ability to implement our business plan,
+●
+Our ability to generate sufficient cash to pay our lenders and other creditors,
+●
+Our dependence on one major customer,
+●
+Our ability to employ and retain qualified management and employees,
+●
+Our dependence on the efforts and abilities of our current employees and executive officers,
+●
+Changes in government regulations that are applicable to our current or anticipated business,
+●
+Changes in the demand for our services and different food trends,
+●
+The degree and nature of our competition,
+●
+The lack of diversification of our business plan,
+●
+The general volatility of the capital markets and the establishment of a market for our shares, and
+●
+Disruption in the economic and financial conditions primarily from the impact of past terrorist attacks in the United States, threats of future attacks, police and military activities overseas and other disruptive worldwide political and economic events, health pandemics, rising inflation and environmental weather conditions.
+We are also subject to other risks detailed from time to time in our other filings with the SEC and elsewhere in this report. Any one or more of these uncertainties, risks and other influences could materially affect our results of operations and whether forward-looking statements made by us ultimately prove to be accurate. Our actual results, performance and achievements could differ materially from those expressed or implied in these forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statements, whether from new information, future events or otherwise.
+Index
+Critical Accounting Policy and Estimates
+Use of Estimates in the Preparation of Financial Statements
+The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. These estimates include certain assumptions related to doubtful accounts receivable, stock-based services, valuation of financial instruments, operating right to use assets and liabilities, and income taxes. On an on-going basis, we evaluate these estimates, including those related to revenue recognition and concentration of credit risk. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Accounts subject to estimate and judgements are accounts receivable reserves, income taxes, intangible assets, contingent liabilities, and equity-based instruments. Actual results may differ from these estimates under different assumptions or conditions. We believe our estimates have not been materially inaccurate in past years, and our assumptions are not likely to change in the foreseeable future.
+(a) Warrants:
+There were no warrants outstanding at December 31, 2021 and 2020.
+(b) Embedded conversion features of notes payable:
+There were no outstanding convertible notes outstanding at December 31, 2021 and 2020:
+(c) Stock options:
+The Company accounts for options in accordance with FASB ASC 718-40. Options are valued upon issuance utilizing the Black-Scholes valuation model. Option expense is recognized over the requisite service period of the related option award. The following table illustrates certain key information regarding our options and option assumptions at December 31, 2021 and 2020:
+Doubtful Accounts Receivable
+The Company maintained an allowance in the amount of $375,931 and $343,832 for doubtful accounts receivable at December 31, 2021 and 2020. The Company has an operational relationship of several years with our major customers, and we believe this experience provides us with a solid foundation from which to estimate our expected losses on accounts receivable. Should our sales mix change or if we develop new lines of business or new customers, these estimates and our estimation process will change accordingly. These estimates have been accurate in the past.
+Index
+Income Taxes
+The Company has a history of losses, and as such has recorded no liability for income taxes. Until such time as the Company begins to provide evidence that a continued profit is a reasonable expectation, management will not determine that there is a basis for accruing an income tax liability. These estimates have been accurate in the past. At December 31, 2021, the Company has a net operating loss carryforward of approximately $15,800,000.
+Background
+We were initially formed in June 1979 as Alpha Solarco Inc., a Colorado corporation. From June 1979 through February 2003, we were either inactive or involved in discontinued business ventures. We changed our name to Fiber Application Systems Technology, Ltd in February 2003. In January 2004, we changed our state of incorporation by merging into Innovative Food Holdings, Inc. (“IVFH”), a Florida corporation formed for that purpose. As a result of the merger, we changed our name to that of Innovative Food Holdings, Inc. In January 2004, we also acquired Food Innovations, Inc. (“FII” or “Food Innovations”), a Delaware corporation, for 500,000 shares of our common stock.
+On November 2, 2012, the Company entered into an asset purchase agreement (the “Haley Acquisition”) with The Haley Group, LLC whereby we acquired all existing assets of The Haley Group, LLC and its customers. The Haley Acquisition was valued at a total cost of $119,645. On June 30, 2014, pursuant to a purchase agreement, the Company purchased 100% of the membership interest of Organic Food Brokers, LLC, a Colorado limited liability company (“OFB”), for $300,000, 100,000 four year options at a price of $1.46 per share, and up to an additional $225,000 in earn-outs if certain milestones are met. Pursuant to an Asset Purchase Agreement dated as of January 1, 2017 the Company’s wholly-owned subsidiary, Oasis Sales Corp. (“Oasis”), purchased substantially all of the assets of Oasis Sales and Marketing, L.L.C. for $300,000 cash; a $200,000 structured equity instrument which can be paid in cash or shares of the Company stock at the Company’s option, anytime under certain conditions, or is automatically payable via the issuance of 200,000 shares if the Company’s shares close above $1.00 for ten consecutive days; a $100,000 note; and up to an additional $400,000 in earn-outs over two years if certain milestones are met. The Agreement also contains claw-back provisions if certain revenue conditions are not met.
+On August 15, 2014, pursuant to a merger agreement, the Company acquired The Fresh Diet, Inc. (“FD”). Effective February 23, 2016, the Company closed a transaction to sell 90% of our ownership in FD for consideration consisting primarily of a restructuring of our loans, which includes the ability to convert to additional amounts of FD under certain circumstances. There is no continuing cash inflows or outflows from or to the discontinued operations.
+Effective January 24, 2018, pursuant to an asset acquisition agreement (the “igourmet Asset Acquisition Agreement”), our wholly-owned subsidiary, Innovative Gourmet, LLC acquired substantially all of the assets and certain liabilities of igourmet LLC and igourmet NY LLC, privately-held New York limited liability companies located in West Pittston, Pennsylvania and engaged in the sale, marketing, and distribution of specialty food and specialty food items through www.igourmet.com, online marketplaces, additional direct-to-consumer platforms, distribution to foodservice, retail stores and other wholesale accounts, pursuant to the terms of an Asset Purchase Agreement. The consideration for and in connection with the acquisition consisted of: (i) $1,500,000, which satisfied or reduced secured, priority and administrative debt of Sellers; (ii) in connection with and prior to the acquisition, our wholly-owned subsidiary, Food Funding, LLC (“Food Funding”), funded advances of $325,000 to Sellers on a secured basis, pursuant to certain loan documents and as bridge loans, which loans were reduced by the proceeds of the Asset Purchase Agreement; (iii) the purchase for $200,000 of certain debt owed by Sellers, to be paid out of, if available, Innovative Gourmet’s cash flow; (iv) potential contingent liability allocation for a percentage of Sellers’ approximately $2,300,000 of certain debt, not purchased or assumed by Innovative Gourmet, which under certain circumstances, Innovative Gourmet may determine to pay; and (v) additional purchase price consideration of (a) up to a maximum of $1,500,000, if EBITDA of Innovative Gourmet reaches $800,00 in 2018, (b) up to a maximum of $1,750,000, if EBITDA of Innovative Gourmet in 2019 exceeds its EBITDA in 2018 by at least 20% and if its EBITDA reaches $5,000,000; and (c) up to a maximum of $2,125,000, if EBITDA of Innovative Gourmet in 2020 exceeds its EBITDA in 2019 by at least 20% and if its EBITDA reaches $8,000,000. The EBITDA based earnout shall be paid 37.5% in cash, 25% in IVFH shares valued at the time of the closing of this transaction and 37.5%, at Innovative Gourmet’s option, in IVFH shares valued at the time of the payment of the earnout or in cash. The 2018, 2019 and 2020 earnout milestones were not met. In connection with the acquisition, our wholly-owned subsidiary, Food Funding, purchased Seller’s senior secured note at a price of approximately $1,187,000, pursuant to the terms of a Loan Sale Agreement with UPS Capital Business Credit. That note was reduced by the proceeds of the Asset Purchase Agreement. See Item (i) above.
+Index
+Effective July 6, 2018, pursuant to an asset purchase agreement between Mouth Foods, Inc. (“Mouth”) and our wholly-owned subsidiary M Innovations LLC (“M Innovations”) (the “MFI APA”), the Company acquired certain assets of Mouth from MFI (assignment for the benefit of creditors), LLC, in connection with a Delaware assignment proceeding. The MFI APA was accounted for as an acquisition of an ongoing business where the Company was treated as the acquirer and the acquired assets and assumed liabilities were recorded by the Company at their preliminary estimated fair values. Mouth, a privately held New York company operating out of Brooklyn, was an expert curator and online retailer of high quality specialty foods from small-batch makers in the US.
+The consideration for and in connection with the acquisition consisted of (i) closing related cash payments of $208,355; (ii) additional revenue-based contingent liabilities valued by management at $100,000 related to certain future sales of purchased assets payable under the following terms: payment of 5% of certain revenues, with no payments on the first $500,000 of revenues and no payments on revenues after June 30, 2020; (iii) additional revenue based contingent liabilities of up to $185,000 associated with the purchase of certain debt of the seller; and (iv) additional contingent liability consideration valued by management at approximately $20,000.
+Effective July 23, 2019, P Innovations acquired certain assets of GBC Sub, Inc. (d/b/a The GiftBox) (“GiftBox”) (the “GiftBox Asset Purchase Agreement”). GiftBox, a privately held Nevada corporation controlled by David Polinsky, a director of the Company, was in the business of subscription-based ecommerce. The consideration for the assets purchased was a nominal amount of cash. The GiftBox Asset Purchase Agreement also provides the sellers the option to acquire 30% of P Innovations subject to dilution for a period of thirty-six months following the date of the Giftbox Asset Purchase Agreement; the option will only be exercisable if there is a spinoff of P Innovations to Innovative Food Holdings shareholders.
+Transactions With a Major Customer
+Transactions with a major customer and related economic dependence information is set forth (1) following our discussion of Liquidity and Capital Resources, (2) under the heading Major Customer in Note 18 to the Consolidated Financial Statements, and (3) in Business - Relationship with U.S. Foods, and (4) as the second item under Risk Factors.
+RESULTS OF OPERATIONS
+This discussion may contain forward looking-statements that involve risks and uncertainties. Our future results could differ materially from the forward looking-statements discussed in this report. This discussion should be read in conjunction with our consolidated financial statements, the notes thereto and other financial information included elsewhere in the report.
+Year Ended December 31, 2021 Compared to Year Ended December 31, 2020
+Revenue
+Revenue increased by $10,536,120 or approximately 20% to $62,212,148 for the year ended December 31, 2021 from $51,676,028 prior year. The increase in revenues is primarily attributable to an increase in specialty foodservice revenues which was driven by the nationwide opening of restaurants and other foodservice establishments previously affected by COVID-19. As more foodservice establishments and restaurants have re-opened we have experienced improving foodservice revenues, although revenues still remain slightly below historical levels. The increase in specialty foodservice revenue was partially offset with decreases mainly associated with e-commerce revenues. Though e-commerce revenue remains significantly above historical levels, the decreases during the current period were the result of decreases in COVID-19 driven demand in 2021 compared to 2020.
+We continue to assess the potential of new revenue sources from the manufacture and sale of proprietary food products, private label products and additional sales channel opportunities in both the foodservice and consumer space and will implement a strategy which based on our analysis provides the most beneficial opportunity for growth.
+Any changes in the food distribution and specialty foods operating landscape that materially hinders our current ability and/or cost to deliver our products to our customers could potentially cause a material impact on our net revenue and gross margin and, therefore, our profitability and cash flows could be adversely affected.
+Currently, a small portion of our revenues comes from imported products or international sales. Our current sales from such markets may be hampered and negatively impacted by any economic tariffs that may be imposed in the United States or in foreign countries.
+See “Transactions with Major Customers” and the Securities and Exchange Commission’s (“SEC”) mandated FR-60 disclosures following the “Liquidity and Capital Resources” section for a further discussion of the significant customer concentrations, loss of significant customer, critical accounting policies and estimates, and other factors that could affect future results.
+Index
+Cost of goods sold
+Our cost of goods sold for the year ended December 31, 2021 was $45,261,401, an increase of $7,401,901 or approximately 20% compared to cost of goods sold of $37,859,500 for the year ended December 31, 2020. The increase in cost of goods sold is attributed mainly to increases in revenues. Cost of goods sold was made up of the following expenses for the year ended December 31, 2021: cost of goods of specialty, meat, game, cheese, seafood, poultry and other sales categories in the amount of $30,492,406; shipping, delivery, handling, and purchase allowance expenses in the amount of $14,208,233; and cost of goods associated with logistics of $560,762. Total gross margin was approximately 27.2% of sales in 2021 compared to approximately 26.7% of sales in 2020. Gross margins as a percentage of sales improved slightly during the current period to 27.2% compared to 26.7% during the comparable period, primarily due to variation in product and revenue mix across our various selling channels.
+In 2022, we continue to price our products in order to increase sales, gain market share and increase the number of our end users and customers. We currently expect, if market conditions, overall economic conditions, and our product revenue mix remain constant, that our cost of goods sold may increase and may result in a decrease in profit margin.
+Selling, general, and administrative expenses
+Selling, general, and administrative expenses increased by $1,008,411 or approximately 5% to $20,540,229 during the year ended December 31, 2021 compared to $19,531,818 for the year ended December 31, 2020. The increase in selling, general, and administrative expenses was primarily due to an increase in payroll and related costs of approximately $915,262 (net of an increase in non-cash compensation in the amount of $142,815), an increase in advertising and marketing costs of $550,770, an increase in insurance costs of $118,119, an increase in office, facilities, and vehicles costs $47,374, and an increase in taxes of $26,868. These increases were partially offset by a decrease in bad debt expense of $223,143, a decrease in amortization and depreciation of $177,087, a decrease in banking and credit card fees of $125,877, a decrease in professional fees of $48,434, a decrease in IT and computer costs of $44,021. The increases were driven mainly by additional costs including increases in costs including warehouse fulfillment costs associated with COVID-19, increased costs associated with additional personnel mainly related to warehouse operations, overall employee costs and insurance costs, increased legal, accounting, facility and IT costs including costs associated with the planned launch of new websites, and increased advertising associated with increased spending in digital marketing related to certain of the Company’s e-commerce websites.
+Gain on forgiveness of debt
+During the year ended December 31, 2021, the Company recorded a gain on forgiveness of debt in connection with the PPP Loans in the amount of $3,425,015, consisting of $3,398,635 of principal and $26,380 of accrued interest.
+Impairment of goodwill and intangible assets
+During the year-ended December 31, 2020, the Company performed impairment tests of our goodwill and intangible assets that incorporated the use of a discounted cash flow model that involves many management assumptions that are based upon future growth projections which include estimates of COVID-19’s impact on our business. Assumptions include estimates of future revenues, growth rates which take into account estimated inflation rates, estimates of future levels of gross profit and operating profit, projected capital expenditures and discount rates based upon industry and competitor analyses. As a result of impairment tests, the Company was required by applicable accounting rules to record an impairment of goodwill and intangible assets in the aggregate amount of $1,698,952. There was no such comparable charge during the current period. At December 31, 2021, the net carrying value of other amortizable and unamortizable assets on the Company’s balance sheet is $1,605,040.
+Impairment of Investment
+During the year ended December 31, 2021, the founder of one of the food related companies passed away in an untimely tragic accident, and as a result the food related company ceased operations and the Company recognized an impairment in the amount of $209,850 in connection with that investment.
+Other leasing income
+On November 8, 2019 the Company purchased a logistics and warehouse facility located in Mountain Top, Pennsylvania and leased portions of this facility to a third party for a cell tower installation. During the year ended December 31, 2021, the Company recognized revenue in the amount of $10,840 in connection with the lease of space in this facility compared to $43,810 during the year ended December 31, 2020 The decrease was due to (i) the Company recognized income in the amount of $22,380 in the current period as revenues in connection with customers for whom the Company provides other logistical services; this category of income was classified as other leasing income during the prior year; (ii) On January 18, 2021, the Company entered into a 50 year easement agreement for total proceeds of $380,000. The 2021 revenue represents the recognition of the proceeds of the easement over the term of the agreement; the Company recognized additional revenues in the amount of $10,879 from the previous short-term cell tower leasing agreement in the prior year.
+Index
+Gain on disposal of fixed assets
+During the year ended December 31, 2020, the Company recorded a gain on the sale of warehouse equipment in the amount of $7,984, compared to a gain on sale of equipment of $0 during the current period. This type of transaction occurs infrequently.
+Interest expense, net
+Interest expense, net of interest income, increased by $51,160 or approximately 17% to $353,854 during the year ended December 31, 2021, compared to $302,576 during the year ended December 31, 2020. The increase was due primarily to an increase in interest accrued or paid on the Company’s commercial loans and notes payable in the amount of $296,897 during the year ended December 31, 2020 to $348,864 during the year ended December 31, 2021. The Company also recorded interest expense in connection with the amortization of prepaid loan fees in the amount of $12,525 during the year ended December 31, 2021 compared to $12,560 during the prior period.
+Net loss
+For the reasons above, the Company had a net loss for the year ended December 31, 2021 of $716,331 compared to a net loss of $7,665,024 during the year ended December 31, 2020. The loss for the year ended December 31, 2021 includes a total of $1,449,236 in non-cash charges, including amortization of intangible assets in the amount of $8,912; depreciation expense of $517,942; charges for non-cash compensation in the amount of $668,251; impairment of investment of $209,850; amortization of prepaid loan fees of $12,525; and provision for doubtful accounts of $31,756. These non-cash losses were offset by a gain on forgiveness of debt in the amount of $3,425,015. The loss for the year ended December 31, 2020 includes a total of $3,159,751 in non-cash charges, including impairment of intangible assets in amount of $1,698,952; amortization of intangible assets in the amount of $212,902; depreciation expense of $491,039; charges for non-cash compensation in the amount of $525,436; and amortization of prepaid loan fees of $12,560, and allowance for doubtful accounts of $218,862.
+Liquidity and Capital Resources at December 31, 2021
+As of December 31, 2021, the Company had current assets of $12,803,526, consisting of cash and cash equivalents of $6,122,671; trade accounts receivable of $3,256,764 inventory of $3,109,984; and other current assets of $314,107. Also at December 31, 2021, the Company had current liabilities of $10,197,532, consisting of trade payables and accrued liabilities of $5,702,905, accrued interest of $29,349, deferred revenue of $1,631,406, line of credit of $2,000,000, current portion of notes payable (net of discount) of $412,961, current portion of operating leases of $74,088, current portion of financing leases of $159,823, and current portion of contingent liabilities of $187,000.
+During the year ended December 31, 2021, the Company had cash used in operating activities of $3,661,569. Cash flow used in operations consisted of the Company’s consolidated net loss of $716,331 subtracted by the depreciation and amortization of $526,854, non-cash compensation in the amount of $668,251, amortization of right-of-use assets of $102,715, provision for doubtful accounts of $31,756, and amortization of prepaid loan fees in the amount of $12,525. These amounts were partially offset by a gain on the forgiveness of debt of $3,425,015, and proceeds from the sale of common stock. The Company’s cash position increased by $1,072,174 as a result of changes in the components of current assets and current liabilities.
+The Company had cash used in investing activities of $24,511 for the year ended December 31, 2021, which consisted of cash paid for the acquisition of property and equipment in the amount of $24,511.
+The Company had cash provided by financing activities of $4,748,736 for the year ended December 31, 2021, which consisted of proceeds from a PPP loan in the amount of $1,748,414 and proceeds from the sale of common stock, net of issuances costs of $3,580,372; these amounts were partially offset by principal payments on loans and notes payable in the amount of $433,087 and principal payments on financing leases in the amount of $146,963.
+The Company had net working capital of $2,605,994 as of December 31, 2021. The Company had cash used in operations during the year ended December 31, 2021 in the amount of $3,661,569, compared to cash used in operating activities of $1,759,883 during the year ended December 31, 2020. The Company intends to continue to focus on increasing market share and cash flow from operations by focusing its sales activities on specific market segments and new product lines and improving operating efficiencies. Currently, we do not have any material long-term obligations other than those described in Notes 11, 12 and 13 to the financial statements included in this report. As we seek to increase our sales of new items and enter new markets, acquire new businesses as well as identify new food oriented products and services, we may use existing cash reserves, long-term financing, or other means to finance such diversification, although no assurance can be given that such growth will occur.
+Index
+If the Company’s cash flow from operations is insufficient to fully implement its business plan, the Company may require additional financing in order to execute its operating plan. The Company cannot predict whether this additional financing will be in the form of equity or debt, or be in another form. The Company may not be able to obtain the necessary additional capital on a timely basis, on acceptable terms, or at all.
+In any of these events, the Company may be unable to implement its current plans for expansion, repay its debt obligations as they become due or respond to competitive pressures, any of which circumstances would have a material adverse effect on its business, prospects, financial condition and results of operations.
+2022 Plans
+Since 2020 the world has been in the grip of a pandemic which has wreaked havoc on economies world-wide, including in the U.S., which is our primary market. As a result of the pandemic, restaurants, hotels, country clubs, casinos, catering houses and other of our primary customers have either been closed completely or are only partially open with significantly reduced operations. Accordingly, foodservice revenues, which historically have been a significant overall portion of our revenues have been significantly reduced as most foodservice establishments cross the United States closed or had limited operations. As a result, foodservice revenue commencing in the second half of March 2020 and continuing throughout the year and into 2021, experienced unprecedented declines. As the pandemic has begun to decline in the United States and foodservice establishments have begun to reopen, we have experienced improving foodservice revenues although our revenues have not yet reached its previous historical levels for the full year. While the decline in the pandemic and the re-opening of bricks and mortar stores resulted in a decline of e-commerce revenues compared to the comparable quarter in 2020, ecommerce revenues remained significantly above pre-pandemic historical levels.
+In April 2020 we applied for and received a loan of approximately $1,650,221 under a program established under a congressionally approved program which is administered by the U.S. Small Business Administration. In 2021 we applied for and received $1,748,414 in new loans under a similar government program administered by the U.S. Small Business Administration. During the year ended December 31, 2021, the Company received notifications from Fifth Third Bank, N.A. that principal and accrued interest in the aggregate amounts of $3,398,635 and $26,380, respectively, due under the PPP Loans had been forgiven; at December 31, 2021, the balance due under the PPP loans was $0. Between cash on hand, access to outside capital, and our current expectations of incoming revenues, we believe we have sufficient resources to continue operating for at least the next 12 months. However, inasmuch as we cannot predict the timing and the effect of the pandemic on general economic activities, we cannot predict the trajectory of the pandemic and the amount of economic stress we could experience if the pandemic were to worsen in the United States and worldwide. While we intend to continue to focus on executing on our strategic growth plans, given the current economic conditions, we are not able to determine the exact timeframe in 2022, if at all, that we can then again consider fully implementing portions of the plans described below.
+During 2022, we plan to expand our business by expanding our focus to additional specialty foods markets and by leveraging our e-commerce platform to launch and grow, either organically and/or through acquisition, new D2C brands and e-commerce sites within targeted consumer areas, on the Company’s e-commerce platform. In addition, we will continue exploring potential acquisition and partnership opportunities with influencers and other celebrities to continue to extend our focus in the specialty food market through the growth of the Company’s existing sales channels and through a variety of additional potential sales channel relationships. In addition, we are currently exploring the introduction of, or have introduced into the market, a variety of new product categories and new product lines, including private label products and proprietary branded products to leverage our existing foodservice and consumer customer base.
+Furthermore, the Company intends to continue to expand its activities in the direct to consumer space and the overall consumer packaged goods (CPG) space through leveraging its overall capabilities in the consumer space, including leveraging its direct to consumer e-commerce platform to reach both additional customers in multiple channels, and to expand availability of its e-commerce capabilities to additional products and markets.
+No assurances can be given that any of these plans will come to fruition or that if implemented that they will necessarily yield positive results.
+Index
+Off-Balance Sheet Arrangements
+We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues, or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.
+Inflation
+In the opinion of management, inflation has not had a material effect on the Company’s financial condition or results of its operations.
+Transactions with Major Customers
+The Company's largest customer, U.S. Foods, Inc. and its affiliates, accounted for approximately 46% and 40% of total sales in each of the years ended December 31, 2021 and 2020, respectively; and approximately 40% of total sales in the fourth quarter of 2021 compared to 32% of total sales in the fourth quarter of 2020. A contract between our subsidiary, Food Innovations, and USF entered an optional renewal period in December 2012 but was automatically extended for an additional 12 months in each of January 1, 2013 and 2014. On January 26, 2015 we executed a contract directly between Food Innovations, Inc., our wholly-owned subsidiary, and U.S. Foods, Inc. The term of the Agreement was from January 1, 2015 through December 31, 2016 and provided for a limited number of automatic annual renewals thereafter if no party gives the other 30 days' notice of its intent not to renew. Based on the terms, the Agreement was extended through 2018. Effective January 1, 2018 the Agreement was further amended to remove the cap on renewals, and provide for an unlimited number of additional 12-month terms unless either party notifies the other in writing, 30 days prior to the end date, of its intent not to renew.
+Index
+ITEM 8. Financial Statements
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Shareholders and Board of Directors of:
+Innovative Food Holdings, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Innovative Food Holdings, Inc. and Subsidiaries (the “Company”) as of December 31, 2021 and 2020, the related consolidated statements of operations, changes in stockholders’ equity and cash flows for each of the two years in the period ended December 31, 2021, and the related notes (collectively referred to as “the consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and 2020, and the results of its operations and its cash flows for each of the two years in the period ended December 31, 2021, in conformity with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal controls over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall consolidated financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Contingencies
+As described in Note 17 to the consolidated financial statements, the Company is involved in a number of legal proceedings and has made accruals with respect to certain of these matters. Where a liability is reasonably possible and may be material, such matters have been disclosed. Management exercised judgment and assessed the probability of occurrence based on the ability to predict the number of claims that may be filed and whether it can reasonably estimate any loss or range of loss that may arise from that proceeding.
+Auditing management’s accounting for, and disclosure of, loss contingencies was highly judgmental as it involved our assessment of the significant judgments made by management when assessing the probability of occurrence or when determining whether an estimate of the loss or range of loss could be made.
+To test the Company’s assessment of the probability of occurrence or determination of an estimate of loss, or range of loss, among other procedures, we read the legal documentations, reviewed opinions provided to the Company by certain outside legal counsel, read letters received directly by us from external counsel, and evaluated the current status of contingencies based on discussions with legal counsel. We also evaluated the appropriateness of the related disclosures.
+/s/ Liggett & Webb, P.A.
+We have served as the Company’s auditor since 2012
+Boynton Beach, Florida
+March 31, 2022
+Index
+Innovative Food Holdings, Inc.
+Consolidated Balance Sheets
+See notes to consolidated financial statements.
+Index
+Innovative Food Holdings, Inc.
+Consolidated Statements of Operations
+See notes to consolidated financial statements.
+Index
+Innovative Food Holdings, Inc.
+Consolidated Statements of Cash Flows
+See notes to consolidated financial statements.
+Index
+Innovative Food Holdings, Inc.
+Consolidated Stockholders' Equity
+For the Years Ended December 31, 2021 and 2020
+See notes to consolidated financial statements.
+Index
+INNOVATIVE FOOD HOLDINGS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2021 and 2020
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Business Activity
+Our business is currently conducted by our wholly owned subsidiaries, some of which are non-operating, Artisan Specialty Foods, Inc. (“Artisan”), Food Innovations, Inc. (“FII”), Food New Media Group, Inc. (“FNM”), Organic Food Brokers, LLC (“OFB”), Gourmet Foodservice Group, Inc. (“GFG”), Gourmet Foodservice Group Warehouse, Inc. (“GFW”), Gourmeting, Inc. (“Gourmeting”), Haley Food Group, Inc. (“Haley”), Oasis Sales Corp. (“Oasis”), 4 The Gourmet, Inc. (d/b/a For The Gourmet, Inc.), (“Gourmet”), Innovative Food Properties, LLC (“IFP”), Plant Innovations, Inc. (“Plant Innovations”), Innovative Gourmet, LLC (“Innovative Gourmet” or “igourmet”), Food Funding, LLC (“Food Funding”), Logistics Innovations, LLC (L Innovations”), M Innovations, LLC (“M Innovations”), MI Foods, LLC (“MIF”), M Foods Innovations, LLC (“M Foods”), P Innovations, LLC (“P Innovations”), PlantBelly, LLC (“PlantBelly”), Innovative Foods, Inc. (“IFI”) and Innovative Gourmet Partnerships, LLC (“IGP”), and collectively with IVFH and its other subsidiaries, the “Company” or “IVFH”) have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission. All material intercompany transactions have been eliminated upon consolidation of these entities.
+Overall, our business activities are focused around the creation and growth of a platform which provides distribution or the enabling of distribution of high quality, unique specialty food and food related products ranging from specialty foodservice products to Consumer-Packaged Goods (“CPG”) products through a variety of sales channels ranging from national partnership based and regionally based foodservice related sales channels to e-commerce sales channels offering products both direct to consumers (“D2C”) and direct to business (“B2B”). In our business model, we receive orders from our customers and then work closely with our suppliers and our warehouse facilities to have the orders fulfilled. In order to maintain freshness and quality, we carefully select our suppliers based upon, among other factors, their quality, uniqueness, reliability and access to overnight courier services.
+FII, though its relationship with the producers, growers, and makers of thousands of unique specialty foodservice products and through its relationship with US Foods, Inc. (“U.S. Foods” or “USF”), has been in the business of providing premium restaurants, within 24 - 72 hours, with the freshest origin-specific perishable, and healthcare products shipped directly from our network of vendors and from our warehouses. Our customers include restaurants, hotels, country clubs, national chain accounts, casinos, hospitals and catering houses.
+Gourmet has been in the business of providing specialty food via e-commerce through its own website at www.forthegourmet.com and through other ecommerce channels, with unique specialty gourmet food products shipped directly from our network of vendors and from our warehouses within 24 - 72 hours.
+Artisan is a supplier of over 1,500 unique specialty foodservice products to over 500 customers such as chefs, restaurants, etc. in the Greater Chicago area and serves as a national fulfillment center for certain of the Company’s other subsidiaries.
+GFG is focused on expanding the Company’s program offerings to additional specialty foodservice customers.
+Haley is a dedicated foodservice consulting and advisory firm that works closely with companies to access private label and manufacturers’ private label food service opportunities with the intent of helping them launch and commercialize new products in the broadline foodservice industry and assists in the enabling of the distribution of products via national broadline food distributors.
+IFP was formed to hold the Company’s real estate holdings including the recently acquired facility in Mountaintop, Pennsylvania.
+OFB and Oasis function as outsourced national sales and brand management teams for emerging organic and specialty food CPG companies of a variety of sizes and business stages, and provides emerging and unique CPG specialty food brands with distribution and shelf placement access in all of the major metro markets in the food retail industry.
+igourmet has been in the business of providing D2C specialty food via e-commerce through its own website at www.igourmet.com and through other channels such as www.amazon.com, www.ebay.com, and www.walmart.com. In addition, igourmet.com offers a line of B2B specialty foodservice items. Products are primarily shipped directly from igourmet.com’s approximately 100,000 square feet warehouse in Pennsylvania via igourmet.com owned trucks and via third party carrier directly to thousands of customers nationwide.
+Index
+Mouth.com (www.mouth.com) is an online retailer of specialty foods, monthly subscription boxes and curated gift boxes to thousands of consumers and corporate customers across the United States. Mouth sources high quality specialty foods crafted in the US by independent and small batch makers, and expertly curates them into standout food gifts for both consumers and corporate customers. Mouth also has launched a private label brand, including several award-winning products.
+P Innovations focus is to leverage acquired assets to expand the Company’s subscription-based e-commerce business activities and to launch new businesses leveraging the Company’s e-commerce platform.
+Plant Innovations is focused on plant-based D2C brands and online retail within the e-commerce space.
+L Innovations provides 3rd party warehouse and fulfillment services out of its location at the Company’s PA facility.
+Use of Estimates
+The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate these estimates, including those related to revenue recognition and concentration of credit risk. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Accounts subject to estimate and judgements are accounts receivable reserves, income taxes, intangible assets, contingent liabilities, operating and finance right to use assets and liabilities, and equity-based instruments. Actual results may differ from these estimates under different assumptions or conditions. We believe our estimates have not been materially inaccurate in past years, and our assumptions are not likely to change in the foreseeable future.
+Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of Innovative Food Holdings, Inc., and its wholly owned operating subsidiaries, Artisan, FII, FNM, OFB, GFG, GFW, Gourmeting, Haley, Oasis, Innovative Gourmet, Food Funding, IFP, L Innovations, M Innovations, P Innovations, MIF, M Foods, PlantBelly, Plant Innovations, IFI, IGP, and Gourmet. All material intercompany transactions have been eliminated upon consolidation of these entities.
+Revenue Recognition
+The Company recognizes revenue upon product delivery. All of our products are shipped either same day or overnight or through longer shipping terms to the customer and the customer takes title to product and assumes risk and ownership of the product when it is delivered. Shipping charges to customers and sales taxes collectible from customers, if any, are included in revenues.
+For revenue from product sales, the Company recognizes revenue in accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 606 “Revenue from Contracts with Customers”. A five-step analysis must be met as outlined in Topic 606: (i) identify the contract with the customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations, and (v) recognize revenue when (or as) performance obligations are satisfied. Provisions for discounts and rebates to customers, estimated returns and allowances, and other adjustments are provided for in the same period the related sales are recorded. The Company defers any revenue for which the product has not been delivered or is subject to refund until such time that the Company and the customer jointly determine that the product has been delivered or no refund will be required.
+Warehouse and logistic services revenue is primarily comprised of inventory management, order fulfilment and warehousing services. Warehouse & logistics services revenues are recognized at the point in time when the services are rendered to the customer.
+Index
+Disaggregation of Revenue
+The following table represents a disaggregation of revenue by from sales for the years ended December 31, 2021 and 2020:
+Cost of goods sold
+We have included in cost of goods sold all costs which are directly related to the generation of revenue. These costs include primarily the cost of food and raw materials, packing and handling, shipping, and delivery costs.
+We have also included all payroll costs as cost of goods sold in our leasing and logistics services business.
+Selling, general, and administrative expenses
+We have included in selling, general, and administrative expenses all other costs which support the Company’s operations, but which are not includable as a cost of sales. These include primarily payroll, facility costs such as rent and utilities, selling expenses such as commissions and advertising, amortization of intangible assets, depreciation, and other administrative costs including professional fees and costs associated with non-cash stock compensation. Advertising costs are expensed as incurred.
+Cash and Cash Equivalents
+Cash equivalents include all highly liquid debt instruments with original maturities of three months or less which are not securing any corporate obligations.
+Concentrations of Credit Risk
+Financial instruments and related items, which potentially subject the Company to concentrations of credit risk, consist primarily of cash, cash equivalents and trade receivables. The Company places its cash and temporary cash in investments with credit quality institutions. At times, such investments may be in excess of applicable government mandated insurance limit. At December 31, 2021 and 2020, trade receivables from the Company’s largest customer amounted to 28% and 22%, respectively, of total trade receivables. During the year ended December 31, 2021 and 2020, sales from the Company’s largest customer amounted to 46% and 40% of total sales, respectively.
+The Company maintains cash balances in excess of Federal Deposit Insurance Corporation limits. At December 31, 2021 and 2020, the total cash in excess of these limits was $4,555,032 and $3,385,113, respectively.
+Accounts Receivable
+The Company provides an allowance for doubtful accounts equal to the estimated uncollectible amounts. The Company’s estimate is based on historical collection experience and a review of the current status of trade accounts receivable. It is reasonably possible that the Company’s estimate of the allowance for doubtful accounts will change. Accounts receivable are presented net of an allowance for doubtful accounts of $375,931 and $343,832 at December 31, 2021, and 2020, respectively.
+Property and Equipment
+Property and equipment are valued at cost. Depreciation is provided over the estimated useful lives up to five years using the straight-line method. Leasehold improvements are depreciated on a straight-line basis over the term of the lease.
+Index
+The estimated service lives of property and equipment are as follows:
+Computer Equipment
+3 years
+Warehouse Equipment
+5 years
+Warehouse Equipment - Heavy
+10 years
+Office Furniture and Fixtures
+5 years
+Vehicles
+5 years
+Buildings
+30 years
+Inventories
+Inventory is valued at the lower of cost or market and is determined by the first-in, first-out method.
+Deferred Revenue
+Certain customer arrangements in the Company's business such as gift cards and e-commerce subscription purchases result in deferred revenues when cash payments are received in advance of performance. Gift cards issued by the Company generally have an expiration of five years from date of purchase. The Company records a liability for unredeemed gift cards and advance payments for monthly club memberships, as cash is received, and the liability is reduced when the card is redeemed or product delivered.
+The following table represents the changes in deferred revenue as reported on the Company’s consolidated balance sheets:
+Income Taxes
+Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets, including tax loss and credit carryforwards, and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized as income in the period that includes the enactment date.
+Fair Value of Financial Instruments
+The carrying amount of the Company’s cash and cash equivalents, accounts receivable, notes payable, line of credit, accounts payable and accrued expenses, none of which is held for trading, approximates their estimated fair values due to the short-term maturities of those financial instruments.
+The Company adopted ASC 820-10, “Fair Value Measurements”, which provides a framework for measuring fair value under GAAP. ASC 820-10 defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820-10 requires that valuation techniques maximize the use of observable inputs and minimize the use of unobservable inputs.
+Index
+Long-Lived Assets
+The Company reviews its property and equipment and any identifiable intangibles for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. The test for impairment is required to be performed by management at least annually. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to the future undiscounted operating cash flow expected to be generated by the asset. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the asset exceeds the fair value of the asset. Long-lived assets to be disposed of are reported at the lower of carrying amount or fair value less costs to sell.
+Cost Method Investments
+The Company has made several investments in early stage private food related companies and are accounting for these investments under the cost method.
+Basic and Diluted Income Per Share
+Basic net earnings per share is based on the weighted average number of shares outstanding during the period, while fully-diluted net earnings per share is based on the weighted average number of shares of common stock and potentially dilutive securities assumed to be outstanding during the period using the treasury stock method. Potentially dilutive securities consist of options and warrants to purchase common stock, and convertible debt. Basic and diluted net loss per share is computed based on the weighted average number of shares of common stock outstanding during the period.
+The Company uses the treasury stock method to calculate the impact of outstanding stock options and warrants. Stock options and warrants for which the exercise price exceeds the average market price over the period have an anti-dilutive effect on earnings per common share and, accordingly, are excluded from the calculation.
+Dilutive shares at December 31, 2021:
+Convertible notes and interest
+At December 31, 2021 there were no convertible notes outstanding.
+Warrants
+At December 31, 2021 there were no warrants outstanding.
+Stock Options
+The following table summarizes the options outstanding and the related prices for the options to purchase shares of the Company’s common stock issued by the Company at December 31, 2021:
+Index
+Restricted Stock Awards
+At December 31, 2021, there are 300,000 unvested restricted stock awards remaining from grants in a prior year. Those 300,000 restricted stock awards will vest as follows: 125,000 restricted stock awards will vest contingent upon the attainment of a stock price of $2.00 per share for 20 straight trading days, and an additional 175,000 restricted stock awards will vest contingent upon the attainment of a stock price of $3.00 per share for 20 straight trading days.
+Stock-based compensation
+During the year ended December 31, 2021, the Company incurred obligations to issue the following shares of common stock pursuant to employment agreements: an aggregate total of 961,897 shares of common stock to its Chief Executive Officer; 59,016 to its Director of Strategic Acquisitions, an aggregate total of 200,282 shares to board members; and 74,076 shares to an employee. These restricted stock grants are being amortized over their vesting periods of one to three years. During the year ended December 31, 2021, the amount of $523,977 was charged to operations in connection with these grants.
+Dilutive shares at December 31, 2020:
+Convertible notes and interest
+At December 31, 2020 there were no convertible notes outstanding.
+Warrants
+At December 31, 2020 there were no warrants outstanding.
+Stock Options
+The following table summarizes the options outstanding and the related prices for the options to purchase shares of the Company’s common stock issued by the Company at December 31, 2020
+Restricted Stock Awards
+At December 31, 2020, there are 300,000 unvested restricted stock awards remaining from grants in a prior year. Those 300,000 restricted stock awards will vest as follows: 125,000 restricted stock awards will vest contingent upon the attainment of a stock price of $2.00 per share for 20 straight trading days, and an additional 175,000 restricted stock awards will vest contingent upon the attainment of a stock price of $3.00 per share for 20 straight trading days.
+Index
+Stock-based compensation
+During the year ended December 31, 2020, the Company incurred obligations to issue the following shares of common stock pursuant to employment agreements: an aggregate total of 775,748 shares of common stock to its Chief Executive Officer; 38,892 to its Director of Strategic Acquisitions, an aggregate total of 139,854 shares to board members; 38,943 shares to an employee. These restricted stock grants are being amortized over their vesting periods of one to three years. During the year ended December 31, 2020, the amount of $380,638 was charged to operations in connection with these grants. Also, during the year ended December 31, 2020, the Company issued 4,762 shares of restricted common stock with a fair value of $2,286 to a service provider and charged this amount to operations.
+Reclassifications
+Certain reclassifications have been made to conform prior period data to the current presentation.
+Leases
+The Company accounts for leases in accordance with Financial Accounting Standards Board (“FASB”) ASC 842, “Leases”. The Company determines if an arrangement is a lease at inception. Operating lease right-of-use assets (“ROU assets”) and short-term and long-term lease liabilities are included on the face of the consolidated balance sheet. Finance lease ROU assets are presented within other assets, and finance lease liabilities are presented within current and long-term liabilities.
+ROU assets represent the right to use an underlying asset for the lease term and lease liabilities represent the Company’s obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As most of the Company’s leases do not provide an implicit rate, the Company uses an incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments. The operating lease ROU asset also excludes lease incentives. The Company’s lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term. The Company has lease agreements with lease and non-lease components, which are accounted for as a single lease component. For lease agreements with terms less than 12 months, the Company has elected the short-term lease measurement and recognition exemption, and it recognizes such lease payments on a straight-line basis over the lease term.
+New Accounting Pronouncements
+In December 2019, the FASB issued ASU No. 2019-12, “Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes (“ASU 2019-12”), which is intended to simplify various aspects related to accounting for income taxes. ASU 2019-12 removes certain exceptions to the general principles in Topic 740 and also clarifies and amends existing guidance to improve consistent application. This guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2020, with early adoption permitted. The Company adopted this standard effective January 1, 2021; we do not expect the adoption to have a material impact on our consolidated financial statements and related disclosures.
+In August 2020, the FASB issued ASU 2020-06, “Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40)”. This ASU reduces the number of accounting models for convertible debt instruments and convertible Preferred Stock. As well as amend the guidance for the derivatives scope exception for contracts in an entity’s own equity to reduce form-over-substance-based accounting conclusions. In addition, this ASU improves and amends the related EPS guidance. This standard is effective for us on January 1, 2022, including interim periods within such fiscal year. Adoption is either a modified retrospective method or a fully retrospective method of transition. We are currently assessing the impact the new guidance will have on our consolidated financial statements.
+Management does not believe that any other recently issued but not yet effective accounting standards, if currently adopted, would have a material effect on the accompanying consolidated financial statements.
+2. ACCOUNTS RECEIVABLE
+At December 31, 2021 and 2020, accounts receivable consists of:
+Index
+During the years ended December 31, 2021 and 2020, the Company charged the amount of $31,756 and $254,899, respectively, to bad debt expense.
+During the year ended December 31, 2021, the Company entered into a note receivable agreement with a customer in exchange for accounts receivable in the amount of $22,380. This note bears an interest rate of 5% per annum and is due in full on July 31, 2023. During the year ended December 31, 2020, the Company converted accounts receivable in the amount of $61,350 into an equity investment in a food related company (see note 7).
+3. INVENTORY
+Inventory consists of specialty food products. At December 31, 2021 and 2020, inventory consisted of the following:
+4. PROPERTY AND EQUIPMENT
+Acquisition of Building
+The Company owns a building and property located at 28411 Race Track Road, Bonita Springs, Florida 34135. The property consists of approximately 1.1 acres of land and approximately 10,000 square feet of combined office and warehouse space, and was purchased as part of a bank short sale. The Company moved its operations to these premises on July 15, 2013. The purchase price of the property was $792,758.
+On May 14, 2015, the Company purchased a building and property located at 2528 S. 27th Avenue, Broadview, Illinois 60155. The property consists of approximately 1.33 acres of land and approximately 28,711 square feet of combined office and warehouse space. The purchase price of $914,350 was initially financed primarily by a draw-down of $900,000 on the Company’s credit facility with Fifth Third Bank, National Association (“Fifth Third Bank”). On May 29, 2015, a permanent financing facility was provided by Fifth Third Bank in the form of a loan in the amount of $980,000. $900,000 of this amount was used to pay the balance of the credit facility; the additional $80,000 was used for refrigeration and other improvements at the property. The interest on the loan is at the LIBOR rate plus 3.0%. The building is used for office and warehouse space primarily for the Company’s Artisan subsidiary. We have also recently completed an additional property improvement and upgrade buildout at the Artisan building which include a fully functional commercial test kitchen and training center and conference room. The test kitchen and training room is used by Artisan and other subsidiaries of the Company for the purposes of new product testing and development and approval, Quality Assurance and Quality Control as well as sales presentations and customer demonstrations. In addition, we added a packaging room to the Artisan building, which is built to FDA, FSMA and SQF food safety standards and purchased new, technologically advanced semi-automated fillers for the packaging room. The packaging room addition will allow for expansion of private label product lines as well as packing of organic, non-GMO, diet specific and other specialty foods. The test kitchen, packaging room and additional improvements were financed by a loan from Fifth Third Bank.
+Depreciation on the building and the related improvements, furniture, fixtures, and equipment began when the Company occupied the facility in October, 2015.
+On November 8, 2019 the Company, through a newly formed wholly-owned subsidiary, purchased a logistics and warehouse facility (the “Facility”) for $4.5 million. The Facility is approximately 200,000 square feet and is situated on approximately 15 acres in Mountain Top, Pennsylvania. The Facility’s appraised value by a third party appraisal firm in 2022 was $16,400,000. Related to the Facility purchase, the Company entered into a commercial loan agreement for both the purchase price and planned improvements to the Facility. The amount of the loan was $5,500,000, of which $3,600,000 had been utilized at December 31, 2021 in connection with the purchase of the Facility; the lender is Fifth Third Bank and the loan is secured by a mortgage on the property and other Company assets. The interest on the loan is LIBOR plus 2.75%, with interest only payments due through September 30, 2020, thereafter with principal amortized over 20 years with the balance due at maturity on September 2, 2025. Related to Facility purchase, the Company also acquired certain leases from certain tenants of the Facility, all of which were in good standing at the time of purchase. Depreciation on the building began when the Company commenced recognizing revenue from leasing and logistics services associated with the Facility. On October 5, 2020, the Company completed work to upgrade the Facility at a cost of $2,231,458 in order to better support the Company’s focus on e-commerce and logistics. Of the build out costs, $1,900,000 was funded by the loan described below (See Note 12).
+Index
+A summary of property and equipment at December 31, 2021 and 2020 is as follows:
+Depreciation and amortization expense for property and equipment amounted to $388,657 and $417,781 for the years ended December 31, 2021 and 2020, respectively.
+5. RIGHT TO USE ASSETS AND LEASE LIABILITIES - OPERATING LEASES
+The Company has operating leases for offices, warehouses, vehicles, and office equipment. The Company’s leases have remaining lease terms of 1 year to 4 years, some of which include options to extend.
+The Company’s lease expense for the years ended December 31, 2021 and December 31, 2020 was entirely comprised of operating leases and amounted to $120,304 and $171,624, respectively. The Company’s ROU asset amortization for the years ended December 31, 2021 and December 31, 2020 was $102,715 and $161,926, respectively. The difference between the lease expense and the associated ROU asset amortization consists of interest.
+Right to use assets - operating leases are summarized below:
+Operating lease liabilities are summarized below:
+Index
+Maturity analysis under these lease agreements are as follows:
+During the years ended December 31, 2021 and 2020, the Company recorded right to use assets and lease liabilities in the amount of $88,359 and $214,930, respectively, due to the execution of new operating lease agreements.
+6. RIGHT TO USE ASSETS - FINANCING LEASES
+The Company has financing leases for vehicles and warehouse equipment. See note 13. Right to use asset - financing leases are summarized below:
+Depreciation expense for the year ended December 31, 2021 and 2020 was $129,285 and $73,258, respectively.
+During the years ended December 31, 2021 and 2020, the Company recorded right to use assets and lease liabilities in the amount of $21,885 and $677,021, respectively, due to the execution of new financing lease agreements.
+7. INVESTMENTS
+The Company has made investments in certain early stage food related companies which it expects can benefit from synergies with the Company’s various operating businesses. At December 31, 2021 and 2020 the Company has investments in seven food related companies in the aggregate amount of $286,725 and $496,575, respectively. The Company does not have significant influence over the operations of these companies.
+The Company’s investments may take the form of debt, equity, or equity in the future including convertible notes and other instruments which provide for future equity under various scenarios including subsequent financings or initial public offerings. The Company has evaluated the guidance in ASC No. 325-20, “Investments - Other”, in determining to account for the investment using the cost method since the equity securities are not marketable and do not give the Company significant influence.
+During the years ended December 31, 2021 and 2020, the Company converted accounts receivable in the amount of $0 and $61,350, respectively, into an equity investment in a food related company. During the year ended December 31, 2021, the founder of one of the food related companies passed away in an untimely tragic accident, and as a result the food related company ceased operations and the Company recognized an impairment in the amount of $209,850 in connection with that investment.
+8. INTANGIBLE ASSETS
+The Company acquired certain intangible assets pursuant to the acquisitions through Artisan, Oasis, Innovative Gourmet, OFB, Haley, and M Innovations. These assets include non-compete agreements, customer relationships, trade names, internally developed technology, and goodwill. The Company has also capitalized the development of its website.
+Index
+As detailed in ASC 350 “Intangibles - Goodwill and Other”, the Company tests for goodwill impairment in the fourth quarter of each year and whenever events or changes in circumstances indicate that the carrying amount of the asset exceeds its fair value and may not be recoverable. As detailed in ASC 350-20-35-3A, in performing its testing for goodwill impairment, management has completed a qualitative analysis to determine whether it was more likely than not that the fair value of the Company’s reporting unit is less than its carrying amount, including goodwill. To complete this review, management followed the steps in ASC 350-20-35-3C to evaluate the fair value of goodwill and considered all known events and circumstances that might trigger an impairment of goodwill.
+COVID-19 has had a material negative impact on some of the Company’s foodservice customers. In an effort to limit the spread of the virus, federal, state and local governments have implemented measures that have resulted in the closure of non-essential businesses in many of the markets the Company serves, which has forced its customers in those markets to either transition their establishments to take-out service, delivery service or temporarily cease operations. These actions have led to a significant decrease in demand for certain of the Company’s foodservice products. The adverse impact to the Company’s foodservice customer base was a triggering event and accordingly, as required by ASC 350, the Company performed interim goodwill and long-lived asset quantitative impairment tests during the first quarter of 2020. While the triggering event was a result of the negative impact related to foodservice customers, the applicable accounting rules then required an impairment test targeted specifically to any available carrying value of goodwill or intangible assets. During the first quarter of 2020, the Company performed the impairment tests on certain intangible assets and goodwill pursuant to the acquisitions through Artisan, Oasis, Innovative Gourmet and M Innovations.
+Goodwill Impairment Test
+The Company estimated the fair value of the Company’s reporting unit using an income approach that incorporates the use of a discounted cash flow model that involves many management assumptions that are based upon future growth projections which include estimates of COVID-19’s impact on our business. Assumptions include estimates of future revenues, growth rates which take into account estimated inflation rates, estimates of future levels of gross profit and operating profit, projected capital expenditures and discount rates based upon industry and competitor analyses. As a result of impairment test, it was calculated that the net carrying value of goodwill exceeded the fair value by $650,243, and the Company was required by ASC 350 to record an impairment charge to operations during the year ended December 31, 2020. At December 31, 2021 and 2020, the net carrying value of goodwill on the Company’s balance sheet was $0.
+Long-lived Impairment Test
+Long-lived assets, including other intangible assets, were tested for recoverability at the asset group level. The Company estimated the net undiscounted cash flows expected to be generated from the asset group over the expected useful life of the asset group’s primary asset. Key assumptions include future revenues, growth rates, estimates of future levels of gross profit and operating profit and projected capital expenditures necessary to maintain the operating capacity of each asset group. As a result of the impairment test, it was calculated that the net carrying values of other intangible assets exceeded the undiscounted cash flows for each of the Company’s asset groups by a total of $1,048,692, and the Company was required by the applicable accounting rules to record an impairment charge to operations during the year ended December 31, 2020. At December 31, 2021 and 2020, the net carrying value of other intangible assets on the Company’s balance sheet was $1,605,040 and $1,633,202, respectively.
+The Company acquired certain intangible assets pursuant to the acquisitions through Artisan, Oasis, Innovative Gourmet, OFB, Haley, and M Innovations. The following is the net book value of these assets:
+Index
+During the year ended December 31, 2021, the Company charged to operations amortization expense in the amount of $8,912. During the year ended December 31, 2020, the Company charged to operations amortization expense in the amount of $212,902 in addition to the impairment charge of $1,698,952.
+Amortization of finite life intangible assets as of December 31, 2021 is as follows:
+The trade names are not considered finite-lived assets, and are not being amortized. The non-compete agreement is being amortized over a period of 48 months. The customer relationships acquired in these transactions are being amortized over periods of 24 to 36 months. The internally developed technology is being amortized over 60 months. The website is being amortized over a period of 36 months.
+9. ACCOUNTS PAYABLE AND ACCRUED LIABILITIES
+Accounts payable and accrued liabilities at December 31, 2021 and December 31, 2020 are as follows:
+10. ACCRUED INTEREST
+At December 31, 2021, accrued interest - on notes outstanding was $29,349 During the year ended December 31, 2021, the Company paid cash for interest in the aggregate amount of $298,481.
+At December 31, 2020, accrued interest on a note outstanding was $28,873. During the year ended December 31, 2020, the Company paid cash for interest in the aggregate amount of $201,679.
+Index
+11. REVOLVING CREDIT FACILITIES
+12. NOTES PAYABLE
+Index
+Aggregate maturities of long-term notes payable as of December 31, 2021 are as follows:
+For the year ended December 31,
+Index
+13. LEASE LIABILITIES - FINANCING LEASES
+Aggregate maturities of lease liabilities - financing leases as of December 31, 2021 are as follows:
+For the year ended December 31,
+Index
+14. RELATED PARTY TRANSACTIONS
+For the year ended December 31, 2021:
+Vesting of shares to officers
+During the year ended December 31, 2021 in connection with stock based compensation based upon the terms of employment agreements with its employees and compensation agreements with the Company’s independent board members, the Company charged to operations the amount of $90,000 for the vesting of a total of 200,278 shares of common stock issuable to two of its independent board members, and $402,116 for the vesting of a total of 1,020,913 shares of common stock issuable to its Chief Executive Officer and its Director of Strategic Acquisitions pursuant to their employment agreements. The Company also recognized non-cash compensation in the amount of $144,274 during the year ended December 31, 2021 in connection with stock options issuable to management and board members.
+During the year ended December 31, 2021, the Company issued 50,000 two-year stock options with a fair value of $8,616 and an exercise price of $1.20 to a director.
+On August 26, 2021, the Company sold a total of 3,125,000 shares of common stock at a price of $0.40 per share to an entity controlled by Hank Cohn, a director of the Company; the Company sold 3,125,000 shares of common stock at a price of $0.40 per share to an entity controlled by Jefferson Gramm, a director of the Company; and the Company sold 3,125,000 shares of common stock at a price of $0.40 per share to an entity controlled by James C. Pappas, a director of the Company, for total proceeds, net of costs, of $3,580,372.
+For the year ended December 31, 2020:
+Vesting of shares to officers
+During the year ended December 31, 2020 in connection with stock based compensation based upon the terms of employment agreements with its employees and compensation agreements with the Company’s independent board members, the Company charged to operations the amount of $70,000 for the vesting of a total of 139,854 shares of common stock issuable to two of its independent board members, and $293,503 for the vesting of a total of 814,640 shares of common stock issuable to its Chief Executive Officer and its Director of Strategic Acquisitions pursuant to their employment agreements, which includes 330,758 shares with a market value of $113,887 received by the Chief Executive Officer subsequent to the expiration of a limited waiver provided through June 29, 2020 (see below). The Company also recognized non-cash compensation in the amount of $142,512 during the year ended December 31, 2020 in connection with stock options issuable to management and board members.
+The chief executive officer provided a limited waiver through June 29, 2020 of certain rights and benefits contained in his employment agreement following a Change in Control (as defined in the employment agreement).
+On January 30, 2020, the Company issued to each of two directors options to purchase 50,000 shares of common stock (an aggregate of 100,000 options) at a price of $1.20 per share, vesting January 30, 2021, and expiring January 30, 2023.
+On December 29, 2020, the Company issued to its Chief Financial Officer options to purchase 50,000 shares of common stock at a price of $0.60 per share, and options to purchase 50,000 shares of common stock at a price of $1.00 per share; these options vest quarterly over two years and expire December 28, 2025.
+15. INCOME TAXES
+Deferred income taxes result from the temporary differences primarily attributable to amortization of intangible assets and debt discount and an accumulation of net operating loss carryforwards for income tax purposes with a valuation allowance against the carryforwards for book purposes.
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. Included in deferred tax assets are Federal and State net operating loss carryforwards of approximately $15,800,000, which can be carried forward indefinitely subject to limitation, except $4,900,000 which can be carried forward through 2037. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future taxable income, and tax planning strategies in making this assessment. Due to significant changes in the Company’s ownership, the Company’s future use of its existing net operating losses may be limited.
+Index
+The provision (benefit) for income taxes for the years ended December 31, 2021 and 2020 consist of the following:
+The provision (benefit) for income taxes differs from the amount of income tax determined by applying the applicable statutory income tax rate of 27.6% for the years ended December 31, 2021 and 2020 to the loss before taxes as a result of the following differences:
+Deferred income taxes reflect the tax impact of temporary differences between the amounts of assets and liabilities for financial reporting purposes and such amounts as measured by tax laws and regulations.
+Deferred income taxes include the net tax effects of net operating loss (NOL) carryforwards and the temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. As of December 31, 2021, and 2020 significant components of the Company’s deferred tax assets are as follows:
+The Company’s tax returns for the previous three years remain open for audit by the respective tax jurisdictions.
+16. EQUITY
+Common Stock
+At December 31, 2021 and 2020 a total of 2,837,580 shares are deemed issued but not outstanding by the Company.
+For the year ended December 31, 2021:
+On August 26, 2021, the Company entered into a Securities Purchase Agreement (the “SPA”) with each of JCP Investment Partnership LP, Bandera Master Fund LP and SV Asset Management LLC (collectively, the “Investors”). Pursuant to the SPA, each Investor purchased 3,125,000 shares of the Company’s common stock for an aggregate of 9,375,000 shares from the Company at a price of $0.40 per share. The Company received $3,580,372 proceeds from the sale of the shares, net of costs in the amount of $169,628. JCP Investment Partnership, LP is controlled by James C. Pappas, a director of the Company; Bandera Master Fund LP is controlled by Jefferson Gramm, a director of the Company; and SV Asset Management LLC is controlled by Hank Cohn, a director of the Company.
+Index
+During the year ended December 31, 2021 in connection with stock based compensation based upon the terms of employment agreements with its employees and compensation agreements with the Company’s independent board members, the Company charged to operations the amount of $90,000 for the vesting of a total of 200,282 shares of common stock issuable to two of its independent board members, and $402,116 for the vesting of a total of 1,020,913 shares of common stock issuable to its Chief Executive Officer and its Director of Strategic Acquisitions pursuant to their employment agreements. The Company also recognized non-cash compensation in the amount of $144,274 during the year ended December 31, 2021 in connection with stock options issuable to management and board members, and $31,861 in connection with 74,076 shares of common stock issued to an employee as a bonus.
+For the year ended December 31, 2020:
+The Company charged the amount of $142,512 in connection with the vesting of stock options issuable to board members and employees in connection with their compensation agreements.
+The Company charged the amount of $363,503 in connection with the vesting of 954,496 shares of common stock issuable to board members and employees in connection with their employment agreements. These shares are included in common stock outstanding at December 31, 2020.
+The Company issued 38,943 shares of common stock with a fair value of $0.44 to an employee as a bonus. The fair value of $17,135 was charged to operations during the year ended December 31, 2020.
+The Company issued 4,762 shares of common stock with an average fair value of $0.48 to a service provider; the fair value of $2,286 was charged to operations during the year ended December 31, 2020.
+Treasury Stock
+At December 31, 2021 and 2020, the Company had 2,623,171 shares of treasury stock.
+Warrants
+The Company had no warrants outstanding at December 31, 2021 or 2020.
+Options
+For the year ended December 31, 2021:
+During the year ended December 31 2021, the Company issued 50,000 two-year options with a fair value on the date of grant of $8,616 to a director at a price of $1.20 per share, vesting September 10, 2022, and expiring September 10, 2023.
+For the year ended December 31, 2020:
+On January 30, 2020, the Company issued to each of two directors options to purchase 50,000 shares of common stock (an aggregate of 100,000 options) at a price of $1.20 per share, vesting January 30, 2021, and expiring January 30, 2023. Each grant of 50,000 options had a fair value of $1,216 on the date of the grant.
+On December 29, 2020, the Company issued to its Chief Financial Officer options to purchase 50,000 shares of common stock at a price of $0.60 per share with a fair value on the date of the grant of $7,775, and options to purchase 50,000 shares of common stock at a price of $1.00 per share with a fair value on the date of the grant of $6,291; these options vest quarterly over two years and expire December 28, 2025.
+During the year ended December 31, 2020, an aggregate of 475,000 options to purchase shares of common stock at a weighted average price of $1.76 expired.
+Index
+The following table summarizes the options outstanding and the related prices for the options to purchase shares of the Company’s common stock issued by the Company as of December 31, 2021:
+The following table summarizes the options outstanding and the related prices for the options to purchase shares of the Company’s common stock issued by the Company as of December 31, 2020:
+Transactions involving stock options are summarized as follows:
+Aggregate intrinsic value of options outstanding and exercisable at December 31, 2021 and 2020 was $0. Aggregate intrinsic value represents the difference between the Company’s closing stock price on the last trading day of the fiscal period, which was $0.33 and $0.29 as of December 31, 2021 and 2020, respectively, and the exercise price multiplied by the number of options outstanding.
+Index
+During the year ended December 31, 2021 and 2020, the Company charged $144,274 and $142,512, respectively, to operations related to recognized stock-based compensation expense for stock options.
+The exercise price grant dates in relation to the market price during 2021 and 2020 are as follows:
+As of December 31, 2021, and 2020, there were 87,500 and 800,000, respectively, non-vested options outstanding.
+Accounting for warrants and stock options
+The Company valued warrants and options using the Black-Scholes valuation model utilizing the following variables:
+17. COMMITMENTS AND CONTINGENT LIABILITIES
+Contingent Liability
+Pursuant to the igourmet Asset Purchase Agreement, the Company recorded contingent liabilities in the original amount of $787,800. This amount relates to certain performance-based payments over the twenty-four months following the acquisition date as well as to certain additional liabilities that the Company has evaluated and has recorded on a contingent basis. During the year ended December 31, 2018, the Company reduced this amount by $392,900 as the performance goals for the first year were not met. During the year ended December 31, 2019, the Company reduced this amount by $132,300 as the performance goals for the second year were not met. During the year ended December 31, 2019, the Company paid the amount of $39,000 in connection with the additional liabilities. During the years ended December 31, 2021 and 2020, the Company paid the amount of $8,000 and $40,000, respectively, in connection with the additional liabilities. At December 31, 2021 and 2020, the amount of $67,000 remains on the Company’s consolidated balance sheet as a current contingent liability, and $108,600 and $116,600, respectively, as a long term contingent liability.
+Pursuant to the Mouth Foods LLC Asset Acquisition, the Company recorded contingent liabilities in the amount of $240,576. These amounts relate to the estimate of certain performance-based payments following the acquisition date as well as to certain additional liabilities that the Company has evaluated and has recorded on a contingent basis. During the year ended December 31, 2019, the Company paid the amount of $120,576 in connection with these liabilities. At December 31, 2021 and 2020, $120,000 is classified as a current contingent liability.
+License Agreements
+In May 2019, the Company entered into a royalty-based license agreement, through December 31, 2022 with a lifestyle brand, which provides the exclusive right, with certain carve-outs and limitations, to sell and promote branded gift baskets for certain channels including: retail, warehouse club stores, certain of the Company’s current e-commerce channels, and other e-commerce channels such as amazon.com (the “May 2019 License Agreement”). Pursuant to the May 2019 License Agreement, the Company paid an initial royalty deposit in the amount of $50,000 towards the minimum royalty, which is classified as other current assets on the Company’s balance sheet at December 31, 2019. Future royalty amounts owed for minimum payments in connection with the May 2019 License Agreement will be deducted from this deposit The royalty rate is 5% of net sales, and the Company is required, with certain exceptions and exclusions, to make minimum royalty payments of $100,000 through the end of 2020, $110,000 in 2021, and $125,000 in 2022, respectively. As of December 31, 2021, the Company has made the required minimum royalty payments.
+Index
+Litigation
+On September 16, 2019, an action (the “PA Action”) was filed in the Court of Common Pleas of Philadelphia County, Trial Division, against, among others, the Company and its wholly-owned subsidiaries, Innovative Gourmet LLC and Food Innovations, Inc. Since that time, other parties involved in the incident have joined as plaintiffs in the PA Action. The complaint in the PA Action alleges, inter alia, wrongful death and negligence by a driver formerly employed by Innovative Gourmet, and plaintiffs filed a demand and offer to settle for fifty million dollars. We expect that should a settlement occur, the amount to resolve the Action would be substantially lower. The Company, its subsidiaries, and their employees had auto and umbrella insurance policies, among others, that were in effect for the relevant period. The Company and its subsidiaries’ insurers have agreed to defend the Company, its subsidiaries and the driver in the PA Action (and related actions), subject to a reservation of rights. The Company believes that the likely outcome would result in the liabilities being covered by its insurance carriers. However, if the Company was found responsible for damages in excess of its available insurance coverage, such damages in excess of the coverage could have a material adverse effect on the Company’s operations. On July 16, 2020, the court granted the Company's motion to stay the case through the final adjudication of an additional pending legal proceeding against the driver in connection with the events related to the case. It is not anticipated that the Company and its subsidiaries will be a party to any other legal proceedings in connection with this matter. Because the statute of limitations on the incident has now run, it is not anticipated that any new plaintiffs involved in the incident will come forward against the Company and its subsidiaries.
+From time to time, the Company has become and may become involved in certain lawsuits and legal proceedings which arise in the ordinary course of business, or as the result of current or previous investments, or current or previous subsidiaries, or current or previous employees, or current or previous directors, or as a result of acquisitions and dispositions or other corporate activities. The Company intends to vigorously defend its positions. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our financial position or our business, and the outcome of these matters cannot be ultimately predicted.
+18. MAJOR CUSTOMER
+The Company’s largest customer, U.S. Foods, Inc. and its affiliates, accounted for approximately 46% and 40% of total sales in each of the years ended December 31, 2021 and 2020. A contract between our subsidiary, Food Innovations, and U.S. Foods entered an optional renewal period in December 2012 but was automatically extended for an additional 12 months in each of January 1, 2013 and 2014. On January 26, 2015 we executed a contract directly between Food Innovations, Inc., our wholly-owned subsidiary, and U.S. Foods, Inc. The term of the contract was from January 1, 2015 through December 31, 2016 and provided for a limited number of automatic annual renewals thereafter if no party gives the other 30 days’ notice of its intent not to renew. Based on the terms, the Agreement was extended through December 31, 2018. Effective January 1, 2018 the Agreement was further amended to remove the cap on renewals, and provide for an unlimited number of additional 12-month terms unless either party notifies the other in writing, 30 days prior to the end date, of its intent not to renew.
+19. FAIR VALUE MEASUREMENTS
+Our short-term financial instruments, including cash, accounts payable and other liabilities, consist primarily of instruments without extended maturities, the fair value of which, based on management’s estimates, reasonably approximate their book value. The fair value of the Company’s stock option, convertible debt features and warrant instruments is determined using option pricing models.
+As a result of the adoption of ASC 815-40, the Company is required to disclose the fair value measurements required by ASC 820, “Fair Value Measurements and Disclosures.” Hierarchical levels, defined by ASC 820 are directly related to the amount of subjectivity associated with the inputs to fair valuations of these liabilities are as follows:
+Level 1 -
+Inputs are unadjusted, quoted prices in active markets for identical assets or liabilities at the measurement date;
+Level 2 -
+Inputs other than Level 1 inputs that are either directly or indirectly observable; and
+Level 3 -
+Unobservable inputs, for which little or no market data exist, therefore requiring an entity to develop its own assumptions.
+As December 31, 2021 and 2020, the Company did not have financial assets or liabilities that are required to be accounted for at fair value on a recurring basis.
+20. SUBSEQUENT EVENTS
+None.
+Index
+ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+ITEM 9A. Controls and Procedures
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures
+Under the supervision and with the participation of our principal executive officer and principal financial officer, we conducted an evaluation of our disclosure controls and procedures, as such term is defined under Rules 13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer’s management, including its principal executive and principal financial officers, or persons performing similar functions as appropriate to allow timely decisions regarding required disclosure. We concluded that our disclosure controls and procedures as defined in Rule 13a-15(e) under the Exchange Act were effective as of December 31, 2021 to ensure that information required to be disclosed in reports we file or submit under the Exchange Act is recorded, processed, and summarized and reported within the time periods specified in SEC rules and forms and our disclosure controls and procedures are also effective to ensure that the information required to be disclosed in reports that we file under the Exchange Act is accumulated and communicated to our principal executive and financial officers to allow timely decisions regarding required disclosures.
+Management’s Annual Report on Internal Control over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) and 15d-(f) under the Exchange Act. Our internal control over financial reporting are designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in accordance with U.S. generally accepted accounting principles. Our internal control over financial reporting includes those policies and procedures that:
+(i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets;
+(ii) provide reasonable assurance that transactions are recorded as necessary to permit the preparation of our consolidated financial statements in accordance with U.S. generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and
+(iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the consolidated financial statements.
+Management assessed the effectiveness of the Company’s internal control over financial reporting as of December 31, 2021. In making this assessment, management used the criteria set forth in Internal Control Over Financial Reporting - Guidance for Smaller Public Companies issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013). Management has identified a control deficiency regarding the integration of two acquisitions in 2018 and as a result management has concluded our internal control over financial reporting was ineffective at December 31, 2021 at the reasonable assurance level. Management of the Company believes that this deficiency is primarily due to the smaller size of the company’s accounting staff in relation to certain continued system integrations related to the 2018 acquisitions of certain assets of igourmet LLC and Mouth Foods, Inc. To address this matter, we recently named a new Chief Financial Officer and also expect to retain additional qualified personnel and accounting and systems consultants to continue to remediate this control deficiency in the future.
+Inherent Limitations over Internal Controls
+Internal control over financial reporting cannot provide absolute assurance of achieving financial reporting objectives because of its inherent limitations, including the possibility of human error and circumvention by collusion or overriding of controls. Accordingly, even an effective internal control system may not prevent or detect material misstatements on a timely basis. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate. Accordingly, our internal controls and procedures are designed to provide reasonable assurance of achieving their objectives.
+Index
+Changes in Internal Control over Financial Reporting
+We have made no change in our internal control over financial reporting during the last fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+Attestation Report of the Registered Public Accounting Firm
+This annual report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. Management’s report was not subject to attestation by our independent registered public accounting firm pursuant to temporary rules of the SEC that permit us to provide only management’s report in this Annual Report on Form 10-K.
+ITEM 9B. Other Information
+None.
+ITEM 9C. Disclosures Regarding Foreign Jurisdictions That Prevent Inspections
+Not applicable.
+Index
+PART III
+ITEM 10. Directors, Executive Officers and Corporate Governance
+Set forth below are the directors and executive officers of our Company, their respective names and ages, positions with our Company, principal occupations and business experiences during at least the past five years.
+Directors
+Sam Klepfish
+Mr. Klepfish has been a director since December 1, 2005. From November 2007 to present Mr. Klepfish is the CEO of Innovative Food Holdings and its subsidiaries. From March 2006 to November 2007 Mr. Klepfish was the interim president of the Company and its subsidiary. Since February 2005 Mr. Klepfish was also a Managing Partner at ISG Capital, a merchant bank. From May 2004 through February 2005 Mr. Klepfish served as a Managing Director of Technoprises, Ltd. From January 2001 to May 2004 he was a corporate finance analyst and consultant at Phillips Nizer, a New York law firm. Since January 2001 Mr. Klepfish has been a member of the steering committee of Tri-State Ventures, a New York investment group. From 1998 to December 2000, Mr. Klepfish was an asset manager for several investors in small-cap entities.
+Justin Wiernasz, Director of Strategic Acquisitions
+Mr. Wiernasz has been a director since November 1, 2013. Effective on May 11, 2018, Mr. Justin Wiernasz resigned his position of President of Innovative Food Holdings, Inc. which he held since July 31, 2008 and assumed the position of Director of Strategic Acquisitions. Prior thereto he was the Executive Vice President of Marketing and Sales and Chief Marketing Officer of our operating subsidiary, Food Innovations, Inc. since May 2007 and the President of Food Innovations and our Chief Marketing Officer since December 2007. Prior thereto, he was at USF, our largest customer, for 13 years. From 2005 to 2007 he was the Vice President of Sales & Marketing, USF, Boston, and prior thereto, from 2003 to 2005 he was a National Sales Trainer at USF, Charleston SC, from 1996 to 2003 he was the District Sales Manager at USF, Western Massachusetts and from 1993 to 1996 he was Territory Manager, USF, Northampton, Easthampton & Amherst, MA. Prior to that from 1989 to 1993 he was the owner and operator J.J.’s food and spirit, a 110 seat restaurant.
+Joel Gold, Director
+Mr. Gold is currently a partner in a merchant banking firm, and has served on the board and committees of numerous companies. Prior to that, he was an investment banker at Buckman, Buckman and Reid located in New Jersey, a position he held since May 2010. Prior there to, from October 2004, he was head of investment banking of Andrew Garrett, Inc. From January 2000 until September 2004, he served as Executive Vice President of Investment Banking of Berry Shino Securities, Inc., an investment banking firm also located in New York City. From January 1999 until December 1999, he was an Executive Vice President of Solid Capital Markets, an investment-banking firm also located in New York City. From September 1997 to January 1999, he served as a Senior Managing Director of Interbank Capital Group, LLC, an investment banking firm also located in New York City. From April 1996 to September 1997, Mr. Gold was an Executive Vice President of LT Lawrence & Co., and from March 1995 to April 1996, a Managing Director of Fechtor Detwiler & Co., Inc., a representative of the underwriters for the Company’s initial public offering. Mr. Gold was a Managing Director of Furman Selz Incorporated from January 1992 until March 1995. From April 1990 until January 1992, Mr. Gold was a Managing Director of Bear Stearns and Co., Inc. (“Bear Stearns”). For approximately 20 years before he became affiliated with Bear Stearns, he held various positions with Drexel Burnham Lambert, Inc.
+Index
+Hank Cohn, Director
+Mr. Cohn has been a director since October 29, 2010. Hank Cohn is currently CEO of P1 Billing, LLC, a revenue cycle management services provider to ambulatory medical clinics. P1 Billing is a spinoff of PracticeOne Inc., (formerly PracticeXpert, Inc., an OTCBB traded company), an integrated PMS and EMR software and services company for physicians. Mr. Cohn served as President and Chief Executive Officer of PracticeOne from December 2009 until December 2009, at which time he sold the company to Francison Partners, one of the largest, global technology focused, private equity firms in Silicon Valley. Prior to that, Mr. Cohn worked with a number of public companies. A partial list of his past and present board memberships include: Analytical Surveys, Inc., Kaching, Inc., and International Food and Wine, Inc., currently Evolution Resources Inc. Mr. Cohn also served as the executive vice president of Galaxy Ventures, LLC a closely-held investment fund concentrating in the areas of bond trading and early stage technology investments, where he acted as portfolio manager for investments.
+David Polinsky, Director
+David A. Polinsky has been a director since July 24, 2019. Mr. Polinsky has served as Chief Financial Officer of Rafael Holdings, Inc. (NYSE: RFL) since December 2017. Mr. Polinsky co-founded Rafael Pharmaceuticals and served as its Vice President, General Counsel and Corporate Secretary from 2002 and as President, General Counsel and Secretary from 2016 through March 2018. He also served on Rafael Pharmaceutical’s Board from 2002 until 2014. Prior to joining Rafael Pharmaceuticals, from 1996 to 2002, he served as Vice President and General Counsel for a New York-based real estate focused investment and management company, Square Management Corp., leading the investment analysis in and management of residential, office, retail and development properties. Previously and in partnership with the Honorable Edward I. Koch, former Mayor of New York City, Mr. Polinsky founded in 1999 and served as CEO of a company that licensed and developed TheLaw.com as a leading consumer focused legal information site. Mr. Polinsky earned his Juris Doctorate from Fordham University School of Law in 1996 and his Bachelor of Arts from Yeshiva University in 1993. Mr. Polinsky also earned the CFA Institute’s Investment Foundations certificate.
+James C. Pappas, Director
+James C. Pappas has been a director since January 30, 2020. Mr. Pappas has served as the Managing Member of JCP Investment Management, LLC (“JCP Management”), an investment firm, and the sole member of JCP Investment Holdings, LLC (“JCP Holdings”), since June 2009. Mr. Pappas has also served as a director of Tandy Leather Factory, Inc. (NASDAQ:TLF), a retailer and wholesale distributor of a broad line of leather and related products, since June 2016. Mr. Pappas previously served as a director of each of Jamba, Inc. (formerly NASDAQ:JMBA), a leading health and wellness brand and the leading retailer of freshly squeezed juice, from January 2015 until the completion of its sale in September 2018, U.S. Geothermal Inc. (formerly NYSEMKT:HTM), a leading geothermal energy company, from September 2016 until the completion of its sale in April 2018, and The Pantry, Inc. (formerly NASDAQ:PTRY), a leading independently operated convenience store chain in the southeastern United States and one of the largest independently operated convenience store chains in the country, from March 2014 until the completion of its sale in March 2015. He also previously served as Chairman of the board of directors of Morgan’s Foods, Inc. (formerly OTC:MRFD), a then publicly traded company, from January 2013 until May 2014, when the company was acquired by Apex Restaurant Management, Inc., after originally joining its board as a director in February 2012. From 2005 until 2007, Mr. Pappas worked for The Goldman Sachs Group, Inc. (NYSE:GS) (“Goldman Sachs”), a multinational investment banking and securities firm, in its Investment Banking / Leveraged Finance Division. As part of the Goldman Sachs Leveraged Finance Group, Mr. Pappas advised private equity groups and corporations on appropriate leveraged buyout, recapitalization and refinancing alternatives. Prior to Goldman Sachs, Mr. Pappas worked at Banc of America Securities, the investment banking arm of Bank of America Corporation (NYSE:BAC), a multinational banking and financial services corporation, where he focused on Consumer and Retail Investment Banking, providing advice on a wide range of transactions including mergers and acquisitions, financings, restructurings and buy-side engagements. Mr. Pappas received a BBA and a Masters in Finance from Texas A&M University.
+Mark Schmulen, Director
+Mark Schmulen has been a director since January 30, 2020. Mr. Schmulen is a co-founder and has served as CEO of Chirp Systems, Inc., a venture-backed smart access solution for multifamily property owners, since October 2019. Mr. Schmulen has also served as the managing director of Jelly Capital, LLC, a private investment fund focused on early stage technology and real estate investments, since May 2015, and as an investment advisor representative for Forum Financial, LP, an independent investment advisor, since November 2016. Previously, he served as General Manager of Social Media for Constant Contact, Inc. (formerly NASDAQ:CTCT), a provider of digital marketing solutions, from May 2010 until May 2014. Prior to that, he was co-founder and served as CEO of Nutshell Mail, Inc., a social media marketing solution, from 2008 until its acquisition by Constant Contact, Inc. in 2010. Mr. Schmulen began his career as an investment banking analyst with JPMorgan Chase Bank. Currently, he serves on the board of directors for the Shlenker School, since August 2017 and is a Director of the HHF Foundation, benefiting early childhood education, since December 2014. Mr. Schmulen holds a B.S. from the University of Pennsylvania and an M.S. in Management from Stanford’s Graduate School of Business.
+Index
+Jefferson Gramm, Director
+Jefferson Gramm has been a director since September 10, 2021. Mr. Gramm is a co-founder, partner and portfolio manager at Bandera Partners LLC, a New York based investment fund founded in 2006. Prior to founding Bandera in 2006, he served as Managing Director of Arklow Capital, LLC, a hedge fund focused on distressed and value investments. Mr. Gramm has extensive board experience and currently serves as the Chairman of the Board of Tandy Leather Factory, Inc. and as a director of Rubicon Technology Inc. Mr. Gramm previously served on the Board of Directors of Ambassadors Group Inc., Morgan’s Foods Inc., and Peerless Systems Corp. He received an M.B.A. from Columbia University in 2003 and a B.A. in Philosophy from the University of Chicago in 1996.
+Richard Tang , CFO
+Richard Tang has been CFO at IVFH since December 29, 2020. Mr. Tang, has more than 25 years of experience in senior leadership roles, working in media, e-commerce, CPG and food-based sectors, most recently as CFO for Van Leeuwen Ice Cream LLC, a nationwide manufacturer of ultra-premium dairy and vegan ice cream distributed and sold through 2,000 supermarket and independent chain doors nationwide and multi-state brick and mortar locations. Prior thereto, from 2017 to 2019, Mr. Tang was CFO at Nutraceutical Wellness, Inc., a global subscription-based CPG e-commerce and business-to-business wellness vitamin and supplements consumer business. Prior thereto, from 2012-2016, Tang was Senior Vice President, Corporate Development at Fareportal, the third largest Online Travel Agency in North America. Mr. Tang has also held senior financial roles at The Condé Nast Publications, Time Warner, and Walt Disney Corporation. Mr. Tang holds a Master of Business Administration from Boston University Graduate School of Management and a Bachelor of Science from Boston College.
+Qualification of Directors
+We believe that all of our directors are qualified for their positions and each brings a benefit to the board. Messrs. Kelpfish and Wiernasz, as our officers, are uniquely qualified to bring management’s perspective to the board’s deliberations. Mr. Gold, with his lengthy career working for broker/dealers, bring a “Wall Street” perspective and Mr. Schmulen, with his private equity experience, and Messrs. Cohn and Polinsky, with their prior history of being executives and directors of other companies, bring a well-rounded background and wealth of general business experience to our board. Mr. Pappas brings both his investment and corporate finance background and food industry experience to the board.
+Committees
+The Board of Directors currently has an Audit Committee, a Compensation Committee, and a Nominating and Corporate Governance Committee. The members of the Compensation Committee and of the Nominating and Corporate Governance Committee are Messrs. Gold, Cohn, Pappas and Schmulen and the members of the Audit Committee are Messrs. Gold, Cohn and Schmulen with Mr. Cohn designated as the Audit Committee Financial Expert. All of the members of each committee have been determined by the Board of Directors to be independent.
+Agreements with Directors
+Prior to Mr. Pappas’ appointment to the Board, as described in a Current Report on Form 8-K filed on January 30, 2020 (the “January 8-K”), the Company and Mr. Pappas entered into a two year Agreement dated as of January 28, 2020 (the “Agreement”) which, among other things, provided that (i) the Company (x) will support the continued directorships of the New Directors (as defined in the Agreement) at the next two annual meetings and (y) after 18 months will appoint another nominee of JCP (as defined in the Agreement”) to the Board and support such nominee at the next annual meeting, provided that such nominee shall be subject to the approval (which shall not be unreasonably withheld) of the Nominating and Corporate Governance Committee of the Board and the Board after exercising their good faith customary due diligence process and fiduciary duties; and (ii) JCP and the Company agreed to certain standstill provisions, as more fully described in the Agreement. As of the date hereof, the New Directors referred to in the Agreement are Messrs. Pappas and Schmulen.
+Code of Ethics
+We have adopted a Code of Ethics that applies to each of our employees, including our CEO, our principal financial officer, as well as members of our Board of Directors. A copy of such Code has been publicly filed with, and is available for free from, the Securities and Exchange Commission.
+Index
+Section 16(a) Beneficial Ownership Reporting Compliance
+During 2021, Messrs. Klepfish and Wiernasz did not file one Form 4 in connection with the receipt of shares.
+ITEM 11. Executive Compensation
+The following table sets forth information concerning the compensation for services rendered to us for the two years ended December 31, 2021, of our Chief Executive Officer, our principal financial officer and our highest compensated officer whose annual compensation exceeded $100,000 in the fiscal year ended December 31, 2021, if any. We refer to the Chief Executive Officer and these other officers as the named executive officers.
+SUMMARY COMPENSATION TABLE
+(a) Consists of the portion of restricted stock awards which were recognized as a period cost during the year for services as an executive officer.
+(b) Consists of cash payments for health care benefits.
+(c) Consists of a cash bonus paid during the year for services performed in the previous year.
+(d) Mr. Tang’s employment with the Company was effective December 29, 2020.
+(e) Ms. Vila assumed the role of Principal Accounting Officer effective November 12, 2020 through April 15, 2021.
+(f) Mr. McDonald’s employment with the Company ended effective November 18, 2020.
+(g) Consists of option awards which were recognized as a period cost during the year for services as an executive officer.
+Index
+Outstanding Equity Awards at Fiscal Year-End as of December 31, 2021
+(a) Restricted stock awards vest according to the following schedule: An additional 125,000 restricted stock awards will vest contingent upon the attainment of a stock price of $2.00 per share for 20 consecutive trading days, and an additional 175,000 restricted stock awards will vest contingent upon the attainment of a stock price of $3.00 per share for 20 consecutive trading days.
+(b) Amounts are calculated by multiplying the number of shares shown in the table by $ 0.33 per share, which is the closing price of common stock on December 31, 2021 (the last trading day of the 2021 fiscal year).
+Director Compensation
+(a) Represents the amount charged to operations during the year ended December 31, 2021 for 90,000 shares of the Company’s common stock with a fair value of $45,000; 55,545 shares of the Company’s common stock with a fair value of $18,515 vesting over a three-year period; and 64,240 shares of the Company’s common stock with a fair value of $30,000 vesting over a three-year period.
+(b) Represents the amount charged to operations during the year ended December 31, 2021 for the following: (i) five-year options to purchase 90,000 shares of the Company’s common stock at a price of $0.62 per share, vesting over three years; (ii) five-year options to purchase 135,000 shares of the Company’s common stock at a price of $0.85 per share, vesting over three years; and (iii) five-year options to purchase 225,000 shares of the Company’s common stock at a price of $1.20 per share, vesting over three years.
+(c) Represents the amount charged to operations during the year ended December 31, 2021 for two-year options to purchase 50,000 shares of the Company’s common stock at a price of $1.20 per share, vesting over one year.
+(d) Represents the amount charged to operations during the year ended December 31, 2021 for one-year options to purchase 50,000 shares of the Company’s common stock at a price of $1.20 per share, vesting over one year.
+Index
+Employment Agreements
+Our subsidiary, Food Innovations, has employment agreements with certain officers and certain employees. The employment agreements provide for salaries and benefits, including stock grants and extend up to five years. In addition to salary and benefit provisions, the agreements include defined commitments should the employer terminate the employee with or without cause.
+SAM KLEPFISH
+Effective March 29, 2017, we entered into an employment agreement with Mr. Sam Klepfish, our CEO. This agreement, which ran through December 31, 2019, maintained the then-current base salary and provided for all bonuses and salary increases to be approved by the compensation committee.
+As of January 28, 2019, upon approval by the Company’s compensation committee comprised solely of independent directors, we entered into a new employment agreement with Mr. Sam Klepfish having an effective date of January 28, 2019 and terminating three years thereafter with up to two two-year extension periods. The first two year extension period was exercised in 2021. The agreement provides a base salary in the amount of $300,000 with annual increases of at least $25,000 and annual stock compensation of 50% of the base salary. The agreement also provides for additional bonuses of up to 25% of base compensation, based on increases in EBITDA (as defined in the agreement) and increases in our stock price as reflected in our market capitalization and other perquisites and benefits as detailed therein. The agreement also contains change of control, confidentiality, non-compete and non-solicitation provisions.
+JUSTIN WIERNASZ
+Effective March 29, 2017, we entered into an employment agreement with Mr. Wiernasz, our Director of Strategic Acquisitions. This agreement, which ran through December 31, 2019, maintained the current base salary and provided for all bonuses and salary increases to be approved by the compensation committee.
+As of January 28, 2019, upon approval by the Company’s compensation committee, we entered into a new employment agreement with Mr. Justin Wiernasz, having an effective date of January 28, 2019 and terminating three years thereafter with up to two extension periods; one for two years and one for one year. The agreement provides a base salary in the amount of $326,000 with annual increases of at least 5% and annual stock compensation of 5% of the base salary. This agreement was further modified to a base salary of $350,000 in 2019. The agreement also provides for additional bonuses of up to 35% of base compensation and based upon increases in our stock price as reflected in our market capitalization and other perquisites and benefits as detailed therein. The agreement also contains change of control, confidentiality, non-compete and non-solicitation provisions.
+RICHARD TANG
+Effective December 29, 2020, we entered into a letter agreement with Mr. Richard Tang to become our CFO. The agreement provides a base salary in the amount of $200,000 for 2021 and base compensation for 2022 to target an increase of 20%-25% with a targeted 15-20% bonus structure based on milestones to be determined by the Company’s Board of Directors in its sole discretion. For 2021, Mr. Tang will have the opportunity to earn a performance stock bonus of $40,000 and a cash bonus of $25,000 based upon satisfying certain specified milestones and an additional bonus equal to up to 10% of combined base salary and bonus based upon criteria to be determined by the Company’s Board of Directors. The agreement also provided for a one-time stock option grant in the amount of 100,000 shares (half of which is exercisable $0.60 and half at $1.00), which vests in two years. Similar to our other employees, Mr. Tang’s employment is at-will and he is subject to the Company’s rules, regulations and policies, including specifically and without limitation, confidentiality and provisions.
+Compensation Committee Interlocks and Insider Participation
+None of our executive officers has served as a director or member of a compensation committee (or other board committee performing equivalent functions) of any other entity, one of whose executive officers served as a director or a member of our Compensation Committee.
+Index
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The following table sets forth certain information as of March 28, 2022, with respect to the beneficial ownership of our common stock by (1) each person known by us to own beneficially more than 5% of the outstanding shares of our common stock, (2) each of our directors, (3) each Named Officer, and (4) all our directors and executive officers as a group. Unless otherwise stated, each person listed below uses the Company’s address. Pursuant to SEC rules, includes shares that the person has the right to receive within 60 days from March 28, 2022. The inclusion herein of any shares deemed beneficially owned does not constitute an admission of beneficial ownership of such shares. Except as otherwise indicated, the beneficial owner exercises sole voting power and sole investment power with respect to such shares. All numbers have been adjusted to reflect the 1-for-50 reverse split that was effective June 13, 2012.
+(1)
+Includes 7,686,443 shares held by JCP Investment Partnership, LP (“JCP Partnership”) and 113,492 shares held in an account managed by JCP Investment Management, LLC (“JCP Management”). JCP Investment Partners, LP (“JCP Partners”) is the general partner of JCP Partnership and JCP Investment Holdings, LLC (“JCP Holdings”) is the general partner of JCP Partners. Mr. Pappas is the managing member of JCP Management and sole member of JCP Holdings. Also includes options to purchase 50,000 shares of common stock. The address of Mr. Pappas, JCP Partnership and JCP Management, LLC is 1177 West Loop South, Suite 1320, Houston, TX 77027. Information gathered from a Form 4 filed with the Securities and Exchange Commission on August 30, 2021.
+(2)
+Includes 3,125,000 shares which are held indirectly through SV Asset Management LLC. Includes options to purchase 450,000 shares of common stock . Does not include an additional 119,998 earned shares which are accrued but not issued. Includes information gathered from a Form 4 filed with the Securities and Exchange Commission on August 31, 2022.
+(3)
+Bandera Master Fund L.P., a Cayman Islands exempted limited partnership (“Bandera Master Fund”), is the record holder of 3,125,000 shares of Common Stock. Bandera Partners LLC, a Delaware limited liability company (“Bandera Partners”), is the investment manager of Bandera Master Fund. Mr. Gramm is Managing Partner, Managing Director and Portfolio Manager of Bandera Partners. Includes options to purchase 25,000 shares of common stock. Information gathered from a Form 4 filed with the Securities and Exchange Commission on January 28, 2022. Includes options to purchase 25,000 shares of common stock exercisable at May 1, 2022.
+(4)
+Includes options to purchase 450,000 shares of common stock. Also includes 18,400 shares of common stock held by Mr. Gold’s spouse.
+(5)
+Shares held by PetBox LLC, an entity affiliated with, and controlled by, Mr. Polinsky. Includes options to purchase 50,000 shares of common stock.
+(6)
+Includes options to purchase 50,000 shares of common stock exercisable at May 1, 2022.
+(7)
+Includes options to purchase 450,000 shares of common stock exercisable at May 1, 2022. Also, includes 16,250 shares of common stock owned by Mr. Klepfish's spouse, ownership of which is disclaimed by Mr. Klepfish.
+(8)
+Includes options to purchase 450,000 shares of common stock exercisable at May 1, 2022.
+(9)
+Includes options to purchase 62,500 shares of common stock exercisable at May 1, 2022.
+(10)
+Pursuant to a Schedule 13G/A filed on February 3, 2022 with the Securities Exchange Commission, the address of The Address of Insight Wealth Management is 1175 Peachtree St NE Suite 350, Atlanta, GA 30361. Amount consists of 1,122,647 shares with sole voting and dispositive power, and 1,619,958 shares with shared dispositive power. The issuer retains sole voting power for 1,619,958 shares.
+(11)
+Pursuant to a Schedule 13D/A filed on January 20, 2022 with the Securities and Exchange Commission, Mr. Denver Smith is part of a group which reports beneficially owning an aggregate of 2,710,930, although Mr. Denver Smith only has sole voting and dispositive power over 674,471 of such shares. Mr. Smith’s address is 350 S Race Street, Denver, Colorado 80209.
+(12)
+Consists of 22,059,702 shares of common stock held by officers and directors. Also includes options to purchase 2,037,500 shares of common stock exercisable at May 1, 2022.
+Index
+ITEM 13. Certain Relationships and Related Transactions, and Director Independence
+We are not currently subject to the requirements of any stock exchange or national securities association with respect to having a majority of “independent directors”. Messrs. Gold, Cohn, Polinsky, Pappas, Schmulen, and Gramm are “independent” and only Messrs. Klepfish and Wiernasz, by virtue of being our Officers, are not independent. Mr. Klepfish and Mr. Wiernasz do not participate in board discussions concerning their compensation.
+ITEM 14. Principal Accountant Fees and Services
+Audit Fees
+The Company engaged Liggett & Webb P.A. (“LW”) as our independent registered public accounting firm since November 9, 2012. During the year ended December 31, 2021 and 2020, LW billed us audit fees of approximately $144,000 and $144,000, respectively.
+Audit-Related Fees
+The aggregate fees billed in each of the last two fiscal years for assurance and related services by LW that are reasonably related to the performance of the audit or review of our consolidated financial statements including our quarterly interim reviews on Form 10-Q and are reported under Audit Fees above.
+Tax Fees
+LW tax fees were $0 and $20,000 for the years ended December 31, 2021 and 2020, respectively.
+All Other Fees
+LW has not billed any other fees since their engagement on November 9, 2012.
+For the fiscal years ended December 31, 2021 and 2020 the board of directors considered the audit fees, audit-related fees, tax fees and other fees paid to our accountants, as disclosed above, and determined that the payment of such fees was compatible with maintaining the independence of the accountants. Our board of directors pre-approves all auditing services and all permitted non-auditing services (including the fees and terms thereof) to be performed by our independent registered public accounting firm, except for de minimis non-audit services that are approved by the board of directors prior to the completion of the audit.
+Index
+PART IV
+ITEM 15. Exhibits
+EXHIBIT NUMBER
+3.1
+Articles of Incorporation (incorporated by reference to exhibit 3.1 of the Company’s annual report on Form 10-KSB for the year ended December 31, 2004 filed with the Securities and Exchange Commission on September 28, 2005)
+3.2
+Amended Bylaws of the Company (incorporated by reference to exhibit 3.2 of the Company’s annual report Form 10-K for the year ended December 31, 2010 filed with the Securities and Exchange Commission on March 16, 2011)
+3.2.1
+Amended Bylaws of the Company (incorporated by reference to exhibit 3.2 of the Company’s current report Form 8-K filed with the Securities and Exchange Commission on January 23, 2018)
+3.2.2
+Amended Bylaws of the Company (incorporated by reference to exhibit 3.1 of the Company’s current report Form 8-K filed with the Securities and Exchange Commission on September 14, 2021)
+10.1
+Employment Agreement with Sam Klepfish (incorporated by reference to exhibit 10.1 of the Company’s Form 10-Q filed with the Securities and Exchange Commission on November 21, 2012)
+10.2
+Employment Agreement Justin Wiernasz (incorporated by reference to exhibit 10.2 of the Company’s Form 10-Q filed with the Securities and Exchange Commission on November 21, 2012)
+10.3
+Loan Agreement between the registrant and Fifth Third Bank effective February 26, 2013 (incorporated by reference to exhibit 10.1 of the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 15, 2013)
+10.4
+Security Agreement between the registrant and Fifth Third Bank effective February 26, 2013 (incorporated by reference to exhibit 10.2 of the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 15, 2013)
+10.5
+Mortgage by registrant in favor of Fifth Third Bank effective February 26, 2013 (incorporated by reference to exhibit 10.3 of the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 15, 2013)
+10.6
+Note by registrant in favor of Fifth Third Bank effective February 26, 2013 (incorporated by reference to exhibit 10.4 of the Company’s Current Report on Form 8-K filed with the Securities and Exchange Commission on March 15, 2013)
+10.7
+Employment Agreement with Sam Klepfish dated as of March 29, 2017 (incorporated by reference to the Company’s Form 10-K filed with the Securities and Exchange Commission on March 30, 2017)
+10.8
+Employment Agreement with Justin Wiernasz dated as of March 29, 2017 (incorporated by reference to the Company’s Form 10-K filed with the Securities and Exchange Commission on March 30, 2017)
+10.9
+Asset Purchase Agreement dated as of January 22, 2018 by and among Innovative Gourmet, LLC, a subsidiary of the registrant, and igourmet LLC and igourmet NY LLC (incorporated by reference to the Company’s Form 8-K filed with the Securities and Exchange Commission on January 30, 2018)
+10.10
+Loan Sale Agreement dated as of January 10, 2018 between Food Funding, LLC, a subsidiary of the registrant and UPS Capital Business Credit (incorporated by reference to the Company’s Form 8-K filed with the Securities and Exchange Commission on January 30, 2018)
+10.11
+Fifth Amendment to Restated Loan Agreement dated February 28, 2018 between Fifth Third Bank and the registrant and its subsidiaries (incorporated by reference to the Company’s Form 10-K filed with the Securities and Exchange Commission on March 29, 2018).
+Index
+10.12
+Promissory Note of the registrant and its subsidiaries in favor of Fifth Third Bank dated as of February 28, 2018 (incorporated by reference to the Company’s Form 10-K filed with the Securities and Exchange Commission on March 29, 2018).
+10.13
+Draw Promissory Note of the registrant and its subsidiaries in favor of Fifth Third Bank dated as of March 13, 2018 (incorporated by reference to the Company’s Form 10-K filed with the Securities and Exchange Commission on March 29, 2018).
+10.14
+Master Loan and Security Agreement dated March 13, 2018 between Fifth Third Bank and the registrant and its subsidiaries (incorporated by reference to the Company’s Form 10-K filed with the Securities and Exchange Commission on March 29, 2018).
+10.15
+Employment Agreement with Sam Klepfish dated as of January 28, 2019 (incorporated by reference to the Company’s Form 8-K filed with the Securities and Exchange Commission on February 1, 2019)
+10.16
+Employment Agreement with Justin Wiernasz dated as of January 28, 2019 (incorporated by reference to the Company’s Form 8-K filed with the Securities and Exchange Commission on February 1, 2019)
+10.17
+Form of Director Agreement dated as of January 28, 2019 (incorporated by reference to the Company’s Form 8-K filed with the Securities and Exchange Commission on February 1, 2019)
+10.18
+Eighth Amendment to Restated Loan Agreement dated as of November 9, 2019 between Fifth Third Bank, National Association, and the Registrant and certain of its subsidiaries (incorporated by reference to the Company’s Form 10-Q filed with the Securities and Exchange Commission on November 14, 2019).
+10.19
+Promissory Note effective November 9, 2019 between Fifth Third Bank, National Association, and Innovative Food Properties, LLC, a wholly-owned subsidiary of the Registrant (incorporated by reference to the Company’s Form 10-Q filed with the Securities and Exchange Commission on November 14, 2019).
+10.20
+Mortgage, Assignment of Leases, Fixture Filing and Security Agreement date as of November 9, 2019 between Fifth Third Bank, National Association, and Innovative Food Properties, LLC, a wholly-owned subsidiary of the Registrant (incorporated by reference to the Company’s Form 10-Q filed with the Securities and Exchange Commission on November 14, 2019).
+10.21
+Agreement for Purchase and Sale of Real Estate dated as of August 9, 2019 (incorporated by reference to the Company’s Form 10-Q filed with the Securities and Exchange Commission on August 14, 2019).
+10.22
+Securities Purchase Agreement dated August 26, 2021 between the Company and each of JCP Investment Partnership LP, Bandera Master Fund L.P. and SV Asset Management LLC. *(incorporated by reference to the Company’s Form 8-K filed with the Securities and Exchange Commission on August 31, 2021).
+Code of Ethics (incorporated by reference to exhibit 14 of the Company’s Form 10-KSB/A for the year ended December 31, 2006, filed with the Securities and Exchange Commission on July 31, 2008)
+Index
+Subsidiaries of the Company
+31.1
+Rule 13a-14(a) Certification of Chief Executive Officer
+31.2
+Rule 13a-14(a) Certification of Principal Accounting Officer
+32.1
+Rule 1350 Certification of Chief Executive Officer
+32.2
+Rule 1350 Certification of Principal Accounting Officer
+101.INS
+Inline XBRL Instance Document
+101.SCH
+Inline XBRL Taxonomy Extension Schema
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+* Certain schedules have been omitted pursuant to Item 601(a)(5) of Regulation S-K under the Securities Act. The Company agrees to furnish supplementally any omitted schedules to the Securities and Exchange Commission upon request.
+Index
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+INNOVATIVE FOOD HOLDINGS, INC.
+By: /s/ Sam Klepfish
+Sam Klepfish,
+Chief Executive Officer and Director
+Dated: March 31, 2022
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.
+Name
+Title
+Date
+/s/ Sam Klepfish
+CEO and Director
+March 31, 2022
+Sam Klepfish
+(Chief Executive Officer)
+/s/ Richard Tang
+Chief Financial Officer
+March 31, 2022
+Richard Tang
+(Principal Accounting Officer)
+/s/ Hank Cohn
+Director
+March 31, 2022
+Hank Cohn
+/s/ Joel Gold
+Director
+March 31, 2022
+Joel Gold
+/s/ Jefferson Gramm
+Director
+March 31, 2022
+Jefferson Gramm
+/s/ James C. Pappas
+Director
+March 31, 2022
+James C. Pappas
+/s/David Polinsky
+Director
+March 31, 2022
+David Polinsky
+/s/Mark Schmulen
+Director
+March 31, 2022
+Mark Schmulen
+/s/ Justin Wiernasz
+Director
+March 31, 2022
+Justin Wiernasz
+No
+false FY
+2021-01-01 2021-12-31
+2022-03-28
+2021-06-30
+2021-12-31
+2020-12-31
+2020-01-01 2020-12-31
+2019-12-31
+us-gaap:CommonStockMember
+2019-12-31
+us-gaap:AdditionalPaidInCapitalMember
+2019-12-31
+us-gaap:TreasuryStockMember
+2019-12-31
+us-gaap:RetainedEarningsMember
+2019-12-31
+us-gaap:CommonStockMember
+2020-01-01 2020-12-31
+us-gaap:AdditionalPaidInCapitalMember
+2020-01-01 2020-12-31
+us-gaap:RetainedEarningsMember
+2020-01-01 2020-12-31
+us-gaap:CommonStockMember
+2020-12-31
+us-gaap:AdditionalPaidInCapitalMember
+2020-12-31
+us-gaap:TreasuryStockMember
+2020-12-31
+us-gaap:RetainedEarningsMember
+2020-12-31
+us-gaap:CommonStockMember
+2021-01-01 2021-12-31
+us-gaap:AdditionalPaidInCapitalMember
+2021-01-01 2021-12-31
+us-gaap:RetainedEarningsMember
+2021-01-01 2021-12-31
+us-gaap:CommonStockMember
+2021-12-31
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+us-gaap:TreasuryStockMember
+2021-12-31
+us-gaap:RetainedEarningsMember
+2021-12-31
+ivfh:USFoodsIncMember us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember
+2021-01-01 2021-12-31
+ivfh:USFoodsIncMember us-gaap:AccountsReceivableMember us-gaap:CustomerConcentrationRiskMember
+2020-01-01 2020-12-31
+ivfh:USFoodsIncMember us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember
+2021-01-01 2021-12-31
+ivfh:USFoodsIncMember us-gaap:SalesRevenueNetMember us-gaap:CustomerConcentrationRiskMember
+2020-01-01 2020-12-31
+us-gaap:RestrictedStockMember
+2021-12-31
+us-gaap:RestrictedStockMember us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2021-12-31
+us-gaap:RestrictedStockMember us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+2021-12-31
+srt:ChiefExecutiveOfficerMember
+2021-01-01 2021-12-31
+ivfh:DirectorOfStrategicAcquisitionsMember
+2021-01-01 2021-12-31
+srt:DirectorMember
+2021-01-01 2021-12-31
+us-gaap:RestrictedStockUnitsRSUMember ivfh:EmployeeMember
+2021-01-01 2021-12-31
+srt:MinimumMember us-gaap:RestrictedStockMember
+2021-01-01 2021-12-31
+srt:MaximumMember us-gaap:RestrictedStockMember
+2021-01-01 2021-12-31
+us-gaap:RestrictedStockMember
+2021-01-01 2021-12-31
+us-gaap:RestrictedStockMember
+2020-01-01 2020-12-31
+us-gaap:RestrictedStockMember us-gaap:ShareBasedCompensationAwardTrancheOneMember
+2020-01-01 2020-12-31
+us-gaap:RestrictedStockMember us-gaap:ShareBasedCompensationAwardTrancheTwoMember
+2020-01-01 2020-12-31
+srt:ChiefExecutiveOfficerMember
+2020-01-01 2020-12-31
+ivfh:DirectorOfStrategicAcquisitionsMember
+2020-01-01 2020-12-31
+srt:DirectorMember
+2020-01-01 2020-12-31
+ivfh:EmployeeMember
+2020-01-01 2020-12-31
+ivfh:SpecialtyFoodServicesMember
+2021-01-01 2021-12-31
+ivfh:SpecialtyFoodServicesMember
+2020-01-01 2020-12-31
+ivfh:EcommerceMember
+2021-01-01 2021-12-31
+ivfh:EcommerceMember
+2020-01-01 2020-12-31
+ivfh:NationalBrandManagementMember
+2021-01-01 2021-12-31
+ivfh:NationalBrandManagementMember
+2020-01-01 2020-12-31
+ivfh:WarehouseAndLogisticServicesMember
+2021-01-01 2021-12-31
+ivfh:WarehouseAndLogisticServicesMember
+2020-01-01 2020-12-31
+ivfh:EstimatedUsefulLifeMember
+2021-01-01 2021-12-31
+us-gaap:ComputerEquipmentMember
+2021-01-01 2021-12-31
+us-gaap:EquipmentMember
+2021-01-01 2021-12-31
+us-gaap:MachineryAndEquipmentMember
+2021-01-01 2021-12-31
+us-gaap:FurnitureAndFixturesMember
+2021-01-01 2021-12-31
+us-gaap:VehiclesMember
+2021-01-01 2021-12-31
+us-gaap:BuildingMember
+2021-01-01 2021-12-31
+ivfh:OptionsAt060Member
+2021-01-01 2021-12-31
+ivfh:OptionsAt060Member
+2021-12-31
+ivfh:OptionsAt062Member
+2021-01-01 2021-12-31
+ivfh:OptionsAt062Member
+2021-12-31
+ivfh:OptionsAt085Member
+2021-01-01 2021-12-31
+ivfh:OptionsAt085Member
+2021-12-31
+ivfh:OptionsAt100Member
+2021-01-01 2021-12-31
+ivfh:OptionsAt100Member
+2021-12-31
+ivfh:OptionsAt120Member
+2021-01-01 2021-12-31
+ivfh:OptionsAt120Member
+2021-12-31
+ivfh:OptionsAt060Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt060Member
+2020-12-31
+ivfh:OptionsAt062Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt062Member
+2020-12-31
+ivfh:OptionsAt085Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt085Member
+2020-12-31
+ivfh:OptionsAt100Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt100Member
+2020-12-31
+ivfh:OptionsAt110Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt110Member
+2020-12-31
+ivfh:OptionsAt120Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt120Member
+2020-12-31
+ivfh:OptionsAt150Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt150Member
+2020-12-31
+ivfh:OptionsAt205Member
+2020-01-01 2020-12-31
+ivfh:OptionsAt205Member
+2020-12-31
+us-gaap:LandAndBuildingMember
+2013-02-26
+us-gaap:LandAndBuildingMember
+2013-02-26 2013-02-26
+us-gaap:LandAndBuildingMember
+2015-05-14
+us-gaap:LandAndBuildingMember
+2015-05-14 2015-05-14
+us-gaap:LandAndBuildingMember
+2019-11-08
+us-gaap:LandAndBuildingMember us-gaap:LondonInterbankOfferedRateLIBORMember
+2015-05-14 2015-05-14
+2019-11-08 2019-11-08
+2019-11-08
+2020-10-02 2020-10-02
+us-gaap:LandAndBuildingMember
+2020-01-01 2020-12-31
+us-gaap:LandMember
+2021-12-31
+us-gaap:LandMember
+2020-12-31
+us-gaap:BuildingMember
+2021-12-31
+us-gaap:BuildingMember
+2020-12-31
+us-gaap:ComputerEquipmentMember
+2021-12-31
+us-gaap:ComputerEquipmentMember
+2020-12-31
+us-gaap:EquipmentMember
+2021-12-31
+us-gaap:EquipmentMember
+2020-12-31
+us-gaap:FurnitureAndFixturesMember
+2021-12-31
+us-gaap:FurnitureAndFixturesMember
+2020-12-31
+us-gaap:VehiclesMember
+2021-12-31
+us-gaap:VehiclesMember
+2020-12-31
+srt:MinimumMember
+2021-12-31
+srt:MaximumMember
+2021-12-31
+us-gaap:LandAndBuildingMember
+2021-12-31
+us-gaap:LandAndBuildingMember
+2020-12-31
+us-gaap:OfficeEquipmentMember
+2021-12-31
+us-gaap:OfficeEquipmentMember
+2020-12-31
+us-gaap:GoodwillMember
+2020-01-01 2020-12-31
+us-gaap:NoncompeteAgreementsMember
+2021-01-01 2021-12-31
+srt:MinimumMember us-gaap:CustomerRelationshipsMember
+2021-01-01 2021-12-31
+srt:MaximumMember us-gaap:CustomerRelationshipsMember
+2021-01-01 2021-12-31
+us-gaap:DevelopedTechnologyRightsMember
+2021-01-01 2021-12-31
+ivfh:WebsiteMember
+2021-01-01 2021-12-31
+us-gaap:NoncompeteAgreementsMember
+2021-12-31
+us-gaap:CustomerRelationshipsMember
+2021-12-31
+us-gaap:TradeNamesMember
+2021-12-31
+us-gaap:DevelopedTechnologyRightsMember
+2021-12-31
+us-gaap:GoodwillMember
+2021-12-31
+ivfh:WebsiteMember
+2021-12-31
+us-gaap:NoncompeteAgreementsMember
+2020-12-31
+us-gaap:CustomerRelationshipsMember
+2020-12-31
+us-gaap:TradeNamesMember
+2020-12-31
+us-gaap:DevelopedTechnologyRightsMember
+2020-12-31
+us-gaap:GoodwillMember
+2020-12-31
+ivfh:WebsiteMember
+2020-12-31
+ivfh:AccruedInterestMember
+2021-12-31
+ivfh:AccruedInterestMember
+2021-01-01 2021-12-31
+ivfh:AccruedInterestMember
+2020-12-31
+ivfh:AccruedInterestMember
+2020-01-01 2020-12-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2021-12-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2020-12-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2020-03-20
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2021-07-31 2021-07-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2022-03-31 2022-03-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member us-gaap:LondonInterbankOfferedRateLIBORMember
+2021-01-01 2021-12-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member us-gaap:LondonInterbankOfferedRateLIBORMember
+2020-01-01 2020-12-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2019-08-01 2019-08-01
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2021-10-29 2021-10-29
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2021-01-01 2021-12-31
+us-gaap:LineOfCreditMember ivfh:FifthThirdBankCreditFacility2Member
+2020-01-01 2020-12-31
+ivfh:BonitaSpringsFLMember us-gaap:MortgagesMember
+2021-12-31
+ivfh:BonitaSpringsFLMember us-gaap:MortgagesMember
+2020-12-31
+ivfh:BonitaSpringsFLMember us-gaap:MortgagesMember
+2018-02-28
+ivfh:BonitaSpringsFLMember us-gaap:MortgagesMember
+2018-03-23
+ivfh:BonitaSpringsFLMember us-gaap:MortgagesMember
+2018-02-28 2018-02-28
+ivfh:BonitaSpringsFLMember us-gaap:MortgagesMember
+2018-03-23 2018-03-23
+ivfh:BonitaSpringsFLMember us-gaap:MortgagesMember us-gaap:LondonInterbankOfferedRateLIBORMember
+2021-01-01 2021-12-31
+ivfh:BonitaSpringsFLMember ivfh:PrincipalMember us-gaap:MortgagesMember
+2021-01-01 2021-12-31
+ivfh:BonitaSpringsFLMember ivfh:PrincipalMember us-gaap:MortgagesMember
+2020-01-01 2020-12-31
+ivfh:BonitaSpringsFLMember ivfh:AccruedInterestMember us-gaap:MortgagesMember
+2021-01-01 2021-12-31
+ivfh:BonitaSpringsFLMember ivfh:AccruedInterestMember us-gaap:MortgagesMember
+2020-01-01 2020-12-31
+ivfh:BroadviewILMember us-gaap:MortgagesMember
+2021-12-31
+ivfh:BroadviewILMember us-gaap:MortgagesMember
+2020-12-31
+ivfh:BroadviewILMember us-gaap:MortgagesMember
+2020-04-30 2020-04-30
+ivfh:BroadviewILMember us-gaap:MortgagesMember
+2020-05-29 2020-05-29
+ivfh:BroadviewILMember us-gaap:MortgagesMember us-gaap:LondonInterbankOfferedRateLIBORMember
+2021-01-01 2021-12-31
+ivfh:BroadviewILMember us-gaap:MortgagesMember us-gaap:LondonInterbankOfferedRateLIBORMember
+2020-01-01 2020-12-31
+ivfh:BroadviewILMember ivfh:PrincipalMember us-gaap:MortgagesMember
+2021-01-01 2021-12-31
+ivfh:BroadviewILMember ivfh:PrincipalMember us-gaap:MortgagesMember
+2020-01-01 2020-12-31
+ivfh:BroadviewILMember ivfh:AccruedInterestMember us-gaap:MortgagesMember
+2021-01-01 2021-12-31
+ivfh:BroadviewILMember ivfh:AccruedInterestMember us-gaap:MortgagesMember
+2020-01-01 2020-12-31
+ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2021-12-31
+ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2020-12-31
+ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2019-03-22 2019-03-22
+ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2019-03-22
+ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2021-01-01 2021-12-31
+ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2019-01-01 2019-12-31
+ivfh:PrincipalMember ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2021-01-01 2021-12-31
+ivfh:PrincipalMember ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2020-01-01 2020-12-31
+ivfh:AccruedInterestMember ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2021-01-01 2021-12-31
+ivfh:AccruedInterestMember ivfh:ArtisanEquipmentLoanMember us-gaap:NotesPayableToBanksMember
+2020-01-01 2020-12-31
+us-gaap:ConvertibleDebtMember
+2021-12-31
+us-gaap:ConvertibleDebtMember
+2020-12-31
+us-gaap:ConvertibleDebtMember
+2021-01-01 2021-12-31
+us-gaap:ConvertibleDebtMember
+2020-01-01 2020-12-31
+us-gaap:ConvertibleDebtMember
+2006-01-31
+us-gaap:LoansPayableMember
+2021-12-31
+us-gaap:LoansPayableMember
+2020-12-31
+us-gaap:LoansPayableMember
+2018-12-06 2018-12-06
+us-gaap:LoansPayableMember
+2018-12-06
+ivfh:PrincipalMember us-gaap:LoansPayableMember
+2021-01-01 2021-12-31
+ivfh:PrincipalMember us-gaap:LoansPayableMember
+2020-01-01 2020-12-31
+ivfh:AccruedInterestMember us-gaap:LoansPayableMember
+2021-01-01 2021-12-31
+ivfh:AccruedInterestMember us-gaap:LoansPayableMember
+2020-01-01 2020-12-31
+ivfh:WrightPennslyvaniaMember us-gaap:MortgagesMember
+2021-12-31
+ivfh:WrightPennslyvaniaMember us-gaap:MortgagesMember
+2020-12-31
+ivfh:WrightPennslyvaniaMember us-gaap:MortgagesMember
+2019-11-08
+ivfh:WrightPennslyvaniaMember us-gaap:MortgagesMember
+2021-01-01 2021-12-31
+ivfh:WrightPennslyvaniaMember us-gaap:MortgagesMember
+2020-01-01 2020-12-31
+ivfh:WrightPennslyvaniaMember ivfh:PrincipalMember us-gaap:MortgagesMember
+2021-01-01 2021-12-31
+ivfh:WrightPennslyvaniaMember ivfh:PrincipalMember us-gaap:MortgagesMember
+2020-01-01 2020-12-31
+ivfh:WrightPennslyvaniaMember ivfh:AccruedInterestMember us-gaap:MortgagesMember
+2021-01-01 2021-12-31
+ivfh:WrightPennslyvaniaMember ivfh:AccruedInterestMember us-gaap:MortgagesMember
+2020-01-01 2020-12-31
+ivfh:WrightPennslyvaniaMember us-gaap:MortgagesMember us-gaap:LondonInterbankOfferedRateLIBORMember
+2019-11-08 2019-11-08
+ivfh:WrightPennslyvaniaMember us-gaap:MortgagesMember
+2019-01-01 2019-12-31
+ivfh:PaycheckProtectionProgramthePPPLoanMember
+2021-12-31
+ivfh:PaycheckProtectionProgramthePPPLoanMember
+2020-12-31
+ivfh:PaycheckProtectionProgramthePPPLoanMember
+2020-04-21 2020-04-21
+ivfh:PaycheckProtectionProgramthePPPLoanMember
+2020-04-21
+ivfh:PaycheckProtectionProgramthePPPLoanMember
+2021-01-01 2021-12-31
+ivfh:PaycheckProtectionProgramthePPPLoanMember
+2020-01-01 2020-12-31
+ivfh:PaycheckProtectionProgramthePPPLoanMember ivfh:PrincipalMember
+2021-07-08 2021-07-08
+ivfh:PaycheckProtectionProgramthePPPLoanMember ivfh:AccruedInterestMember
+2021-07-08 2021-07-08
+ivfh:SubsidiaryPPPLoansMember
+2021-12-31
+ivfh:SubsidiaryPPPLoansMember
+2020-12-31
+ivfh:SubsidiaryPPPLoansMember
+2021-02-12 2021-02-12
+ivfh:SubsidiaryPPPLoansMember
+2021-04-11 2021-04-11
+ivfh:SubsidiaryPPPLoansMember
+2021-04-11
+ivfh:SubsidiaryPPPLoansMember
+2021-01-01 2021-12-31
+ivfh:SubsidiaryPPPLoansMember ivfh:PrincipalMember
+2021-10-05 2021-12-13
+ivfh:SubsidiaryPPPLoansMember ivfh:AccruedInterestMember
+2021-01-01 2021-12-31
+ivfh:FinanceLease6Member
+2021-12-31
+ivfh:FinanceLease6Member
+2020-12-31
+ivfh:FinanceLease6Member
+2021-07-12
+ivfh:FinanceLease6Member
+2021-07-21 2021-07-21
+ivfh:FinanceLease6Member
+2021-01-01 2021-12-31
+ivfh:FinanceLease5Member
+2021-12-31
+ivfh:FinanceLease5Member
+2020-12-31
+ivfh:FinanceLease5Member
+2021-07-15
+ivfh:FinanceLease5Member
+2021-07-15 2021-07-15
+ivfh:FinanceLease5Member
+2021-01-01 2021-12-31
+ivfh:FinanceLease1Member
+2021-12-31
+ivfh:FinanceLease1Member
+2020-12-31
+ivfh:FinanceLease1Member
+2020-10-14 2020-10-14
+ivfh:FinanceLease1Member
+2020-10-14
+ivfh:FinanceLease1Member
+2021-01-01 2021-12-31
+ivfh:FinanceLease1Member
+2020-01-01 2020-12-31
+ivfh:FinanceLease2Member
+2021-12-31
+ivfh:FinanceLease2Member
+2020-12-31
+ivfh:FinanceLease2Member
+2020-03-31 2020-03-31
+ivfh:FinanceLease2Member
+2020-03-31
+ivfh:FinanceLease2Member
+2021-01-01 2021-12-31
+ivfh:FinanceLease2Member
+2020-01-01 2020-12-31
+ivfh:FinanceLease3Member
+2021-12-31
+ivfh:FinanceLease3Member
+2020-12-31
+ivfh:FinanceLease3Member
+2018-11-05 2018-11-05
+ivfh:FinanceLease3Member
+2018-11-05
+ivfh:FinanceLease3Member
+2021-01-01 2021-12-31
+ivfh:FinanceLease3Member
+2020-01-01 2020-12-31
+ivfh:FinanceLease4Member
+2021-12-31
+ivfh:FinanceLease4Member
+2020-12-31
+ivfh:FinanceLease4Member
+2019-08-23
+ivfh:FinanceLease4Member
+2021-01-01 2021-12-31
+ivfh:FinanceLease4Member
+2020-01-01 2020-12-31
+ivfh:FinanceLease4Member
+2019-08-23 2019-08-23
+ivfh:IndependentDirectorMember
+2021-01-01 2021-12-31
+srt:OfficerMember
+2021-01-01 2021-12-31
+srt:DirectorMember
+2021-12-31
+srt:DirectorMember
+2021-08-26 2021-08-26
+srt:DirectorMember
+2021-08-26
+srt:AffiliatedEntityMember
+2021-08-26 2021-08-26
+srt:AffiliatedEntityMember
+2021-08-26
+ivfh:SecondDirectorMember
+2021-08-26 2021-08-26
+ivfh:SecondDirectorMember
+2021-08-26
+2021-08-26 2021-08-26
+ivfh:IndependentDirectorMember
+2020-01-01 2020-12-31
+ivfh:DirectorOfStrategicAcquisitionsMember
+2020-01-01 2020-12-31
+srt:ChiefExecutiveOfficerMember
+2020-01-01 2020-12-31
+srt:DirectorMember
+2020-01-30 2020-01-30
+ivfh:EachIndependentDirectorMember
+2020-01-30 2020-01-30
+srt:ChiefFinancialOfficerMember ivfh:OptionsAt060Member
+2020-12-29 2020-12-29
+srt:ChiefFinancialOfficerMember ivfh:OptionsAt100Member
+2020-12-29 2020-12-29
+srt:ChiefFinancialOfficerMember ivfh:OptionsAt120Member
+2020-12-29 2020-12-29
+srt:ChiefFinancialOfficerMember
+2020-12-29 2020-12-29
+ivfh:IssuedToEachInvestorMember
+2021-08-26 2021-08-26
+2021-08-26
+srt:DirectorMember
+2021-01-01 2021-12-31
+srt:OfficerMember
+2021-01-01 2021-12-31
+ivfh:EmployeeMember
+2021-01-01 2021-12-31
+ivfh:EmployeeMember
+2020-01-01 2020-12-31
+ivfh:EmployeeMember
+2020-12-31
+ivfh:EachDirectorMember
+2020-01-30 2020-01-30
+us-gaap:EmployeeStockOptionMember
+2021-12-31
+us-gaap:EmployeeStockOptionMember
+2020-12-31
+us-gaap:EmployeeStockOptionMember
+2021-01-01 2021-12-31
+us-gaap:EmployeeStockOptionMember
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt060Member
+2021-01-01 2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt060Member
+2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt062Member
+2021-01-01 2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt062Member
+2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt085Member
+2021-01-01 2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt085Member
+2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt100Member
+2021-01-01 2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt100Member
+2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt120Member
+2021-01-01 2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt120Member
+2021-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt060Member
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt060Member
+2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt062Member
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt062Member
+2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt085Member
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt085Member
+2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt100Member
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt100Member
+2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt110Member
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt110Member
+2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt120Member
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt120Member
+2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt150Member
+2020-01-01 2020-12-31
+us-gaap:EmployeeStockOptionMember ivfh:OptionsAt150Member
+2020-12-31
+us-gaap:EmployeeStockOptionMember
+2018-12-31
+srt:MinimumMember
+2021-01-01 2021-12-31
+srt:MaximumMember
+2021-01-01 2021-12-31
+srt:MinimumMember
+2020-01-01 2020-12-31
+srt:MaximumMember
+2020-01-01 2020-12-31
+us-gaap:WarrantMember
+2021-01-01 2021-12-31
+ivfh:IGourmetLLCMember
+2018-01-23
+ivfh:IGourmetLLCMember
+2018-01-23 2018-01-23
+ivfh:IGourmetLLCMember
+2018-01-01 2018-12-31
+ivfh:IGourmetLLCMember
+2019-01-01 2019-12-31
+ivfh:IGourmetLLCMember
+2021-01-01 2021-12-31
+ivfh:IGourmetLLCMember
+2020-01-01 2020-12-31
+ivfh:IGourmetLLCMember
+2021-12-31
+ivfh:IGourmetLLCMember
+2020-12-31
+ivfh:MouthFoodsMember
+2020-12-31
+ivfh:MouthFoodsMember
+2019-01-01 2019-12-31
+ivfh:MouthFoodsMember
+2021-12-31
+us-gaap:LicensingAgreementsMember
+2019-01-01 2019-12-31
+us-gaap:LicensingAgreementsMember
+2019-12-31
+2019-09-16 2019-09-16
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+utr:acre
+utr:sqft

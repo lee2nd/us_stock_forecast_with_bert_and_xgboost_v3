@@ -1,0 +1,391 @@
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+KEY INDICATORS
+Economic Measures
+Much of our business is driven by the ebbs and flows of the general economic conditions in both the United States and, to a lesser extent, abroad. We focus on a wide array of customer types including, but not limited to large retailers, aerospace manufacturers, large and small resellers of pneumatic tools and parts, automotive related customers, and many OEM customers. We tend to track the general economic conditions of the United States, industrial production, and general retail sales.
+A key economic measure relevant to us is the cost of the raw materials in our products. Key materials include metals, especially various types of steel and aluminum. Also important is the value of the United States Dollar (“USD”) in relation to the Taiwanese dollar (“TWD”), as we purchase a significant portion of our products from Taiwan. Purchases from Chinese sources are made in USD; however, if the Chinese currency, the Renminbi (“RMB”), were to be revalued against the USD, there could be a negative impact on the cost of our products. Additionally, we closely monitor the fluctuation of the Great British Pound (“GBP”) to the USD, and the GBP to TWD, both of which can have an impact on the consolidated results.
+We consider tariffs a key economic measure, as a significant portion of products imported by Florida Pneumatic are subject to these tariffs.
+Lastly, the cost and availability of a quality labor pool in the countries where products and components are manufactured, both overseas as well as in the United States, could materially affect our overall results.
+Operating Measures
+Key operating measures we use to manage our operations are orders; shipments; development of new products; customer retention; inventory levels and productivity. These measures are recorded and monitored at various intervals, including daily, weekly, and monthly. To the extent these measures are relevant, they are discussed in the detailed sections below.
+Financial Measures
+Key financial measures we use to evaluate the results of our business include various revenue metrics; gross margin; selling, general and administrative expenses; earnings before interest and taxes; earnings before interest, taxes, depreciation, and amortization; operating cash flows and capital expenditures; return on sales; return on assets; days sales outstanding and inventory turns. These measures are reviewed at monthly, quarterly, and annual intervals and compared to historical periods as well as to established objectives. To the extent that these measures are relevant, they are discussed in detail below.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+We prepare our Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America (“US GAAP”). Certain of these accounting policies require us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and the related disclosure of contingent assets and liabilities, revenue and expenses. On an ongoing basis, we evaluate our estimates pertaining to such matters as bad debts, inventory reserves, goodwill and intangible assets, warranty reserves, sales discounts, and taxes. We base our estimates on historical data and experience, when available, and on various other assumptions that are believed to be reasonable under the circumstances, the combined results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. As future events and their effects cannot be determined with precision, actual results could differ significantly from those estimates and assumptions. Significant changes, if any, in those estimates resulting from continuing changes in the economic environment will be reflected in the Consolidated Financial Statements in future periods. Actual results may differ from these estimates.
+We consider the following policies and estimates to be the most critical in understanding the judgments that are involved in the preparation of the Company’s Consolidated Financial Statements and the uncertainties that could impact the Company’s financial position, results of operations and cash flows.
+Revenue Recognition
+Our accounting policy relating to revenue recognition reflects the impact of the adoption of Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers (“ASC 606”), which is discussed further in our Notes to our Consolidated Financial Statements. As a result of our adoption of ASC 606, we record revenue based on a five-step model. We sell our goods on terms that transfer title and risk of loss at a specified location, which may be our warehouse, destination designated by our customer, port of loading or port of discharge, depending on the final destination of the goods. Other than standard product warranty provisions, our sales arrangements provide for no other post-shipment obligations. We offer rebates and other sales incentives, promotional allowances, or discounts to certain customers, typically related to purchase volume, and are classified as a reduction of revenue and recorded at the time of sale, using the most likely amount approach. We periodically evaluate whether an allowance for sales returns is necessary. Historically, we have experienced minimal sales returns. If we believe there are material potential sales returns, we will provide the necessary provision against sales.
+Performance obligations underlying our core revenue sources remain substantially unchanged. Our revenue is generated through the sale of finished products and is recognized at the point in time when merchandise is transferred to the customer with a fixed payment due generally within 30 to 90 days, and in an amount that considers the impacts of estimated allowances. Further, we have made a policy election to account for shipping and handling activities that occur after the customer has obtained control of the products as fulfillment costs rather than as an additional promised service. This election is consistent with our prior policy, and therefore the adoption of ASC 606 relating to shipping and handling activities did not have any impact on our financial results. There are no other performance obligations as of December 31, 2021.
+Accounts Receivable and Allowance for Doubtful Accounts
+Accounts receivable are customer obligations due under normal trade terms. We sell our products to retailers, distributors, OEMs and end-users involved in a variety of industries. We perform continuing credit evaluations of our customers’ financial condition, and although we generally do not require collateral, letters of credit may be required from customers in certain circumstances. Management reviews accounts receivable to determine if any receivables will potentially be uncollectible. Factors considered in the determination include, among other factors, number of days an invoice is past due, customer historical trends, available credit ratings information, other financial data, and the overall economic environment. Collection agencies may also be utilized if management so determines.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES (CONTINUED)
+We record an allowance for doubtful accounts based on specifically identified amounts that are believed to be uncollectible. We also may record as an additional allowance a certain percentage of aged accounts receivable, based on historical experience and our assessment of the general financial conditions affecting our customer base. If actual collection experience changes, revisions to the allowance may be required. We have a limited number of customers with individually large amounts due at any given consolidated balance sheet date. Further, any unanticipated change in the creditworthiness of any of our customers could have a material effect on our results of operations in the period in which such changes or events occur. After all reasonable attempts to collect an account receivable have failed, the amount of the receivable is written off against the allowance. Based on the information available, we believe that our allowance for doubtful accounts as of December 31, 2021, and 2020 were adequate. However, actual write-offs in future periods could exceed the recorded allowance.
+Inventories
+Inventories are valued at the lower of cost or net realizable value. Cost is determined by the first-in, first-out method, or moving weight average. Its finished products inventory includes materials, labor, and manufacturing overhead costs, is recorded net of an allowance for obsolete or slow-moving inventory (“OSMI”), as well as any unmarketable inventory. Such allowance is based upon historical experience and management’s understanding of market conditions and forecasts of future product demand. Specifically, at Florida Pneumatic and Jiffy we generally place a 100% reserve on inventory that has not had any sales or usage in more than two years. Hy-Tech’s methodology is primarily based on inventory turns, with inventory items that turn less frequently, receiving a greater allowance. Changes in our OSMI impact our balance sheet, gross profit, and net earnings.
+Goodwill and Indefinite-Lived Intangible Assets
+Goodwill is tested for impairment at the reporting unit level on an annual basis. This test is performed as of the last day in November, or more frequently if we believe indicators of impairment might exist. The Company considered its market capitalization and the carrying value of its assets and liabilities, including goodwill, when performing its goodwill impairment test. In evaluating goodwill for impairment, we first assessed qualitative factors to determine whether it was more likely than not that the fair value of a reporting unit was less than its carrying amount. Qualitative factors considered included, for example, macroeconomic and industry conditions, overall financial performance, and other relevant entity-specific events. If we bypassed the qualitative assessment or concluded that it was more likely than not that the fair value of a reporting unit was less than its carrying value, we then performed a quantitative goodwill impairment test to identify potential goodwill impairment and measure the amount of goodwill impairment to be recognized, if any. If the carrying value of the reporting unit’s goodwill exceeded the implied fair value of the goodwill, an impairment loss was recognized in the amount of that excess, not to exceed the carrying amount of goodwill. See Note 1 - Summary of Significant Accounting Policies in Notes to our Consolidated Financial Statements for further information.
+Intangible assets represent trademarks, customer agreements and patents related to our brands. Finite-lived intangible assets are amortized on a straight-line basis over the estimated useful lives of the assets. Indefinite-lived intangible assets are not amortized, but instead are subject to impairment evaluation. This test is performed as of the last day in November, or more frequently if we believe indicators of impairment might exist through the use of discounted cash flow models. Assumptions used in our discounted cash flow models include: (i) discount rates; (ii) projected annual revenue growth rates; and (iii) projected long-term growth rates. Our estimates also factor in economic conditions and expectations of management, which may change in the future based on period-specific facts and circumstances. Other intangibles with determinable lives, including certain trademarks, customer agreements and patents, are evaluated for the possibility of impairment when certain indicators are present, and are otherwise amortized on a straight-line basis over the estimated useful lives of the assets (currently ranging from 3 to 20 years).
+When conducting our impairment assessment of indefinite-lived intangible assets, we initially perform a qualitative evaluation of whether it is more likely than not that the asset is impaired. If it is determined by a qualitative evaluation that it is more likely than not that the asset is impaired, we then test the asset for recoverability. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of the asset to its future discounted net cash flows. If the carrying amount of such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of the assets. Assets to be disposed of are reported at the lower of the carrying amount or fair value less costs to sell.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES (CONTINUED)
+Impairment of Long-Lived Assets
+We review long-lived assets, including property, plant, and equipment and identifiable intangible assets, for impairment whenever changes in circumstances or events may indicate that the carrying amounts are not recoverable. If the fair value is less than the carrying amount of the asset, a loss is recognized for the difference.
+Factors which may cause an impairment of long-lived assets include significant changes in the manner of use of these assets, negative industry or market trends, a significant underperformance relative to historical or projected future operating results, or a likely sale or disposal of the asset before the end of its estimated useful life. If any of these factors exist, we are required to test the long-lived asset for recoverability and may be required to recognize an impairment charge for all or a portion of the asset’s carrying value.
+Income Taxes
+We account for income taxes using the asset and liability approach. This approach requires the recognition of current tax assets or liabilities for the amounts refundable or payable on tax returns for the current year, as well as the recognition of deferred tax assets or liabilities for the expected future tax consequences of temporary differences that can arise between (a) the amount of taxable income and pretax financial income for a year, such as from net operating loss carryforwards and other tax credits, and (b) the tax bases of assets or liabilities and their reported amounts in the Consolidated Financial Statements. Deferred tax assets and liabilities are measured using enacted tax rates. The impact on deferred tax assets and liabilities of changes in tax rates and laws, if any, is reflected in the Consolidated Financial Statements in the period enacted. Further, we evaluate the likelihood of realizing a benefit from our deferred tax assets by estimating future sources of taxable income and the impact of tax planning strategies. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion, or all, of the deferred tax assets will not be realized.
+We file a consolidated Federal tax return. P&F and certain of its subsidiaries file combined tax returns in New York, California, Illinois, and Texas. All subsidiaries, other than UAT, file other state and local tax returns on a stand-alone basis. UAT files an income tax return with the taxing authorities in the United Kingdom.
+When tax returns are filed, it is highly certain that some positions taken would be sustained upon examination by the taxing authorities, while other positions are subject to uncertainty about the merits of the position taken or the amount of the position that would be ultimately sustained. The benefit of a tax position is recognized in the financial statements in the period during which, based on all available evidence, management believes it is more likely than not that the position will be sustained upon examination, including the resolution of appeals or litigation processes, if any. Tax positions taken are not offset or aggregated with other positions. Tax positions that meet the more likely than not recognition threshold are measured as the largest amount of tax benefit that is more than 50% likely of being realized upon settlement with the applicable taxing authority. The portion of the benefits associated with tax positions taken that exceeds the amount measured as described above is reflected as a liability for unrecognized tax benefits in the accompanying consolidated balance sheets along with any associated interest and penalties that would be payable to the taxing authorities upon examination. Interest and penalties associated with unrecognized tax benefits are classified as income taxes in the consolidated statements of operations and comprehensive income (loss).
+The authoritative guidance for income taxes requires a reduction of the carrying amounts of deferred tax assets by recording a valuation allowance if, based on the available evidence, it is more likely than not (defined as a likelihood of more than 50%) such assets will not be realized. The valuation of deferred tax assets requires judgment in assessing the likely future tax consequences of events that have been recognized in our financial statements or tax returns and future profitability. Our accounting for deferred tax consequences represents our best estimate of those future events. Changes in estimates, due to unanticipated events or otherwise, could have a material effect on our financial condition and results of operations. We continually evaluate our deferred tax assets to determine if a valuation allowance is required.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+OVERVIEW
+During 2021, significant factors that impacted our results of operations were the:
+● Ongoing negative impact of the COVID-19 pandemic on revenue, income, and supply chain;
+● Ongoing production slow-down by Boeing of its 737 MAX aircraft, as well as significant reductions in activity at other commercial and military aerospace manufacturing facilities; and
+● Benefits provided under the CARES Act (Paycheck Protection Program Loan and Employee Retention Credit).
+TRENDS AND UNCERTAINTIES
+COVID-19 PANDEMIC
+On March 11, 2020, the World Health Organization designated the recent novel coronavirus, or COVID-19, as a global pandemic. COVID-19 was first detected in Wuhan City, Hubei Province, China and continued to spread, significantly impacting various markets around the world, including the United States. Various policies and initiatives have been implemented to reduce the global transmission of COVID-19.
+The COVID-19 virus and the resultant global economic down-turn continued to have a negative impact on our 2021 results. Additionally, we believe the supply-chain crisis as discussed below, is related to the pandemic. In addition, the COVID-19 pandemic has caused many of our customers and potential customers to refuse on-site visits, which is critical to generating revenue. We believe that until the above issues subside, our business will likely continue to be adversely affected.
+BOEING/AEROSPACE
+The Federal Aviation Administration (“FAA”) and the European Union Aviation Safety Agency (“EASA”) have lifted the grounding of the 737 MAX. China, and the grounding of the 737 MAX aircraft, which is a large customer of Boeing, has not lifted the grounding on the 737 MAX aircraft. Boeing is currently holding completed 737 MAX aircraft destined for Chinese carriers. As a result of the aforementioned, and airline companies limiting deliveries of new aircraft due to weak air travel demand, we believe production at Boeing of its 737 MAX aircraft is likely to remain below the Production levels that existed prior to both the onset of the COVID-19 pandemic. Further, the Federal Aviation Administration continues to impose close monitoring and approval of Boeings 787 Dreamliner. Until these issues are fully resolved, we will likely continue to have an adverse effect on our revenue for the foreseeable future. In addition, production of military and other commercial aircraft throughout the industry has slowed as well, we believe due to the ongoing global COVID-19 pandemic. However, we believe when all other commercial and military production lines throughout the United States come back online, an increase in our revenue should follow.
+INTERNATIONAL SUPPLY CHAIN
+Beginning in early 2021, but magnified during the third and fourth quarters, we encountered severe delays in receiving inventory from our Asian suppliers, which led to intermittent shortages of inventory. Further, during this same period and continuing into 2022, ocean freight costs have greatly increased. This trend of higher costs and delayed deliveries have continued into 2022. The major reasons for these issues include the following:
+● Increased price of fuel
+● Shortage of shipping containers
+● Congestion at the ports in Asia and the United States
+● Shortage of truck drivers in the United States.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+At the present time, we believe the above-mentioned supply chain disruptions, along with increased freight and general domestic transportation costs will likely continue during 2022. It is unknown at this time how much, if any of the increased costs can be passed on to our customers.
+INVENTORY GROWTH
+Our inventory increased to $24,021,000 at December 31, 2021, from $18,362,000 at December 31, 2020. Such increase, most of which took place at Florida Pneumatic, was the result of increased purchases during the second half of the year in order to increase safety stock levels. This was necessary in order to protect against significant delays in the receipt of overseas shipments beginning in mid-2021, which in turn had resulted in “out of stock” positions on several key items. Further, we received a relatively large order in late 2021 that is scheduled to ship to a customer in the first half of 2022. Lastly, it should be noted that inventory levels at December 31, 2020, were suppressed due primarily to sales and production levels being hampered by the pandemic. As such, a portion of this year-over-year inventory increase was designed to raise our inventory at all locations to safer pre-pandemic levels, in order to provide necessary inventory for growth.
+TECHNOLOGIES
+We believe that over time, several newer technologies and features will have a greater impact on the market for our traditional pneumatic tool offerings. The impact of this evolution has been felt initially by the advent of advanced cordless operated hand tools in the automotive aftermarket. We continue to analyze the practicality of developing or incorporating more advanced technologies in our tool platforms.
+OTHER MATTERS
+In May 2021, Florida Pneumatic detected a ransomware attack on its information technology systems that caused data to be encrypted. At the present time, all critical Florida Pneumatic information technology systems have been remediated and are operational. We believe that our corporate office and our other subsidiaries, all of which operate on separate, independent networks, were not affected by this incident.
+Other than the aforementioned, or matters that may be discussed below, there are no major trends or uncertainties that had, or we could have reasonably expected to have a material impact on our revenue, nor was there any unusual or infrequent event, transaction or any significant economic change that materially affected our results of operations.
+Unless otherwise discussed elsewhere in the Management’s Discussion and Analysis, we believe that our relationships with our key customers and suppliers remain satisfactory.
+RESULTS OF OPERATIONS
+2021 compared to 2020
+REVENUE
+The tables set forth below provide an analysis of our revenue for the years ended December 31, 2021, and 2020.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Consolidated
+Year Ended December 31,
+Increase
+Percent of
+Percent of
+Revenue
+revenue
+Revenue
+revenue
+$
+%
+Florida Pneumatic
+$
+41,488,000
+77.5
+%
+$
+38,276,000
+77.9
+%
+$
+3,212,000
+8.4
+%
+Hy-Tech
+12,066,000
+22.5
+10,860,000
+22.1
+1,206,000
+11.1
+Total
+$
+53,554,000
+100.0
+%
+$
+49,136,000
+100.0
+%
+$
+4,418,000
+9.0
+%
+REVENUE
+Florida Pneumatic
+Florida Pneumatic markets its air tool products to four primary sectors within the pneumatic tool market; Automotive, Retail, Aerospace, and Industrial. It also generates revenue from its Berkley products line, as well as a line of air filters and other OEM parts (“Other”).
+Year Ended December 31,
+Increase (decrease)
+Percent of
+Percent of
+Revenue
+revenue
+Revenue
+revenue
+$
+%
+Automotive
+$
+14,543,000
+35.1
+%
+$
+13,270,000
+34.7
+%
+$
+1,273,000
+9.6
+%
+Retail
+13,995,000
+33.7
+12,940,000
+33.8
+1,055,000
+8.2
+Aerospace
+7,184,000
+17.3
+8,087,000
+21.1
+(903,000)
+(11.2)
+Industrial
+5,289,000
+12.7
+3,481,000
+9.1
+1,808,000
+51.9
+Other
+477,000
+1.2
+498,000
+1.3
+(21,000)
+(4.2)
+Total
+$
+41,488,000
+100.0
+%
+$
+38,276,000
+100.0
+%
+$
+3,212,000
+8.4
+%
+The increase in Florida Pneumatic’s total 2021 revenue when compared to the prior year was driven by its Automotive, Retail and Industrial sectors. Specifically, the 9.6% increase in its Automotive revenue was due primarily to stronger consumer demand for its AIRCAT brand of tools and accessories during 2021, compared to the prior year. The most significant portion of the growth in revenue of its Retail sector (The Home Depot), was due to the demand for specific tools and accessories, which we believe were used by its customers to combat the COVID-19 pandemic. The largest year over year revenue growth occurred at its Industrial tools’ product line. This 51.9% growth was the result of stronger demand for its products in 2021 from its foundry, metal fabrication, manufacturing, and assembly, partially offset by a slight decline in aerospace customers within this sector.
+Most of the Aerospace revenue is attributable to Jiffy Air Tool. The Boeing Corporation is a major customer of Jiffy. The Boeing 737 MAX aircraft had been grounded by the FAA and the EASA in March 2019. In 2021, both agencies lifted the “No Fly” ruling it imposed on all Boeing 737 MAX aircraft, allowing it to begin flights in the United States, and Europe. As a result, order activity from Boeing during the latter portion of 2021 began to slowly improve. However, it is uncertain how long, if ever, it will take for the Boeing Corporation to increase its manufacturing of its 737 MAX aircraft to a volume that would be comparable to 2019 levels. Lastly, we do note that orders from other aerospace companies and military aircraft manufacturers also improved slightly during the latter portion of 2021, compared to earlier in the year, and to the same period in 2020. Further, we believe that as both domestic and international travel increase and Boeing and other major aircraft manufacturers begin to produce and deliver new aircraft, we could see a continuation of the improved order level within this Aerospace sector. However, no assurance can be made, and it is possible that this sector will remain depressed for the foreseeable future.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+REVENUE
+Hy-Tech
+Hy-Tech designs, manufactures, and sells a wide range of industrial products which are categorized as ATP for reporting purposes. In addition to Engineered Solutions, products and components manufactured for other companies under their brands are included in the OEM category in the table below. PTG revenue is comprised of products manufactured and sold by Hy-Tech’s gear business. NUMATX, Thaxton and other peripheral product lines, such as general machining, are reported as Other.
+Year Ended December 31,
+Increase (decrease)
+Percent of
+Percent of
+Revenue
+revenue
+Revenue
+revenue
+$
+%
+OEM
+$
+5,842,000
+48.4
+%
+$
+4,272,000
+39.4
+%
+$
+1,570,000
+36.8
+%
+PTG
+2,846,000
+23.6
+3,326,000
+30.6
+(480,000)
+(14.4)
+ATP
+3,024,000
+25.1
+2,796,000
+25.7
+228,000
+8.2
+Other
+354,000
+2.9
+466,000
+4.3
+(112,000)
+(24.0)
+Total
+$
+12,066,000
+100.0
+%
+$
+10,860,000
+100.0
+%
+$
+1,206,000
+11.1
+%
+Although still somewhat hampered by the ill effects that the COVID-19 pandemic has placed upon Hy-Tech’s results during 2021, it was able to increase its total revenue by 11.1%, compared to 2020. As illustrated in the table above, the growth came from its OEM and ATP products lines. Significant orders from certain major OEM customers, along with its Engineered Solutions approach, which continues to gain market momentum, provided the impetus for the growth in OEM. Its ATP revenue improvement was due in large part to a rebound in general economic activity. However, as stated in previous filings, Hy-Tech decided to focus a greater portion of its product development and marketing efforts on its Engineered Solutions. We believe the development of the Engineered Solutions and PTG product offerings provides Hy-Tech an opportunity to generate new, additional sources of revenue in the future. Additionally, in an effort to increase market penetration, Hy-Tech has “refreshed” and/or improved several of its ATP tools, including providing additional resourses to support the marketing of as its Magnum Force line of large impact wrenches. Hy-Tech believes that the Magnum Force line, a series of super duty industrial impact tools, that are designed specifically for use in demanding environments, such as refinery turnarounds, power generation outages, structural steel erection, mining and other similar bolting applications, is beginning to gain acceptance. The above increases were partially offset by a decline in its PTG and Other revenue. Despite on-going PTG product and internal systems improvements, this line continues to encounter delays and disruptions in its outside third-party processors, creating delays in its delivery time to its customers. Additionally, PTG continues to encounter reluctance to permit face to face visitation, which we believe is critical to completing the sale of PTG products and services to its current, and more importantly, its prospective customers. The decline in Hy-Tech’s Other revenue was due primarily to a large order for its Thaxton products shipping during the third quarter in 2020, with no similar order this year, and reduced orders for its NUMATX products in 2021, compared to the prior year.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+GROSS MARGIN
+Year Ended December 31,
+Increase
+Amount
+%
+Florida Pneumatic
+$
+15,274,000
+$
+14,022,000
+$
+1,252,000
+8.9
+%
+As percent of respective revenue
+36.8
+%
+36.6
+%
+0.2
+% pts
+Hy-Tech
+$
+2,073,000
+$
+171,000
+$
+1,902,000
+1112.3
+%
+As percent of respective revenue
+17.2
+%
+1.6
+%
+15.6
+% pts
+Total Tools
+$
+17,347,000
+$
+14,193,000
+$
+3,154,000
+22.2
+%
+As percent of respective revenue
+32.4
+%
+28.9
+%
+3.5
+% pts
+As discussed earlier, the increase in Florida Pneumatic’s Industrial revenue, which tends to generate stronger margins, contributed to the higher gross margin in 2021, compared to that generated in 2020. Additionally, improved overhead absorption during 2021 at Jiffy contributed to Florida Pneumatic’s improved gross margin. However, increased freight costs, particularly inbound ocean freight, and incremental costs associated with supply chain disruptions, partially offset the improvement. Florida Pneumatic’s ocean freight costs, particularly during the second half of 2021, have increased approximately four-fold when compared to a year ago. We are attempting to pass through a portion of these increases; however, we may not be able to fully neutralize the negative effects.
+Hy-Tech manufactures most of its products. Its gross margin is significantly affected by customer/product mix. Additionally, factors such as absorption of manufacturing overhead, raw material pricing third-party costs, and the supply chain issues discussed above, have affected its gross margin, all of which have been impacted by the ongoing ill effects of the pandemic. Specifically, Hy-Tech has encountered higher raw material, freight and outside third-party vendor costs, all adversely affecting its gross margin in 2021. It should be noted that during 2020 Hy-Tech incurred an excess charge relating to obsolete, slow-moving inventory (“OSMI”). Further, primarily occurring during the first half of 2020, Hy-Tech’s total gross margin was impacted by lower-than-expected gross margin on the sale of PTG products, due primarily to start-up issues in the then new facility. The two previous factors relating to fiscal 2020 were the causes for the weak gross margin.
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+Selling, general and administrative expenses (“SG&A”) include salaries and related costs, commissions, travel, administrative facilities, communications costs and promotional expenses for our direct sales and marketing staff, administrative and executive salaries, and related benefits, legal, accounting, and other professional fees as well as general corporate overhead and certain engineering expenses.
+Our SG&A expenses during 2021 were $19,856,000, compared to $19,367,000, in 2020. There were significant factors which contributed to the net change. First, driven by an increase of more than $4,400,000 in revenue, our variable expenses increased $333,000. Variable expenses include among other items, commissions, freight out, travel, advertising, shipping supplies and warranty costs. Additionally, we incurred approximately $376,000 in additional information systems costs during 2021, compared to the prior year, most of which related to the May 2021 ransomware attack at our Florida Pneumatic subsidiary. Further, compensation expense increased $430,000. Compensation expense is comprised of base salaries and wages, accrued performance-based bonus incentives and associated payroll taxes and employee benefits. This increase is due in part to an increase in Company-wide bonuses being issued in 2021 over 2020. Partially offsetting the above increases was a decline in professional fees of $565,000, most of which relates to expenses in 2020 incurred as the result of the relocation and set up of the two gear businesses that were acquired in late 2019, none of the relocation expenses repeated in 2021. Lastly, depreciation and amortization expenses declined $77,000, and corporate expenses and stock-based compensation declined $29,000 and $34,000, respectively.
+IMPAIRMENT OF ASSETS
+During 2021, we reduced by $88,000, the carrying value of certain not-in-use fixed assets to their fair market value.
+During the second quarter of 2020, we recorded goodwill and intangible asset impairment charges totaling $1,612,000, with $284,000 related to goodwill and $1,328,000 related to customer relationships, patents, and trade name.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+OTHER INCOME
+As discussed in Note 7 - CARES Act, the Employee Retention Credit (“ERC”) was established by the Coronavirus Aid, Relief, and Economic Security Act (“CARES, or “CARES Act”), in March 2020. Its intention was to help businesses retain employees and avoid layoffs during the coronavirus pandemic. The ERC provides a per employee credit to eligible businesses based on a percentage of qualified wages and certain benefits paid to, or on behalf of employees. There are two tests to determine if a company is eligible: a) if a business encountered a partial or total government ordered shutdown, or b) a business recorded a decline in gross receipts. (measuring quarterly gross receipts each quarter to same quarter in 2019). For 2020, the decline in gross receipts had to be greater than 50%, and for 2021 the decline in gross receipts had to greater than 20%. In December 2021 we began and completed the process of determining and verifying our eligibility and amount of credit. This resulted in filing amended payroll tax forms for credits totaling $2,028,000. The ERC is subject to federal and local income tax.
+Additionally, pursuant to the CARES Act, on April 20, 2020, we received a Paycheck Protection Program (“PPP”) loan, in the amount of $2,929,000. Under the terms of the CARES Act, as amended, we were eligible to apply for forgiveness for all or a portion of the PPP loan. In February 2021, we filed an application for forgiveness with the lender, who approved this submission and submitted the application for forgiveness to the SBA. On June 9, 2021, we were advised that the SBA had approved our PPP loan forgiveness application. Accordingly, the lender applied the funds it received from the SBA and paid off PPP loan principal and interest in full. In accordance with accounting guidance this forgiveness of debt and related accrued interest is to be accounted for as Other Income and is not considered as taxable income.
+In connection with the acquisition completed in late 2019, we and the seller agreed to settle a contingent liability originally recorded as $64,000 for $12,000. As such, in 2020, we reduced the contingent consideration payable by $52,000 and recorded a like amount as Other Income. Additionally, during 2020, we received Coronavirus related grants totaling $53,000 at our United Kingdom operation from Her Majesty’s Government, which were recorded as Other Income. The grant funds were not required to be repaid.
+INTEREST EXPENSE - NET
+Year Ended December 31,
+(Decrease) Increase
+Amount
+%
+Interest expense attributable to:
+Short-term borrowings
+$
+47,000
+$
+106,000
+$
+(59,000)
+(55.7)
+%
+PPP loan
+(18,000)
+18,000
+36,000
+200.0
+Amortization expense of debt issue costs
+16,000
+16,000
+-
+-
+Total
+$
+45,000
+$
+140,000
+$
+(95,000)
+(67.9)
+%
+The Applicable Margin, as defined in our Credit Agreement was the same during the fiscal years ended December 31, 2021, and 2020. (See Liquidity for further discussion). The average balance of short-term borrowings during the fiscal years ended December 31. 2021, and 2020, were $2,686,000 and $4,042,000, respectively. The reduction in short-term borrowings interest expense was due primarily to lower average borrowings in 2021, compared to the average borrowing levels in the prior year. The increase in short-term borrowings was driven primarily by increased inventory and accounts receivable levels.
+As discussed in Note 7 - CARES Act, to our Consolidated Financial Statements, in late April 2020, we borrowed approximately $2.9 million as part of the Paycheck Protection Program (“PPP”) from BNB Bank as provided under the CARES Act. The PPP Loan, as defined in Note 7, accrued interest at a rate of 1.0% per annum. Pursuant to the Flexibility Act, as defined in Note 7, interest on any unforgiven amount is deferred until the forgiveness determination is made by the Small Business Administration (“SBA”). On June 9, 2021, we received notice that the SBA had forgiven our obligation to repay the PPP loan and related accrued interest. As such, we recorded a reversal of the accrued interest related to the PPP loan.
+Lastly, we and our bank amended the Credit Agreement in February 2019. The amortization expense is related to the debt issue costs associated with amendments to our banking facility.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+INCOME TAX EXPENSE
+The benefit from income taxes was $2,000 in 2021 and $1,901,000 in 2020. Significant factors impacting 2021’s net effective tax benefit rate of 0.1% were the enactment of the Coronavirus Aid, Relief, and Economic Security Act, non-deductible permanent differences and state and local taxes. The net effective tax benefit for 2020 was 27.7%. See Note 10- Income Taxes to our Consolidated Financial Statements for further discussion.
+LIQUIDITY AND CAPITAL RESOURCES
+We monitor such metrics as days sales outstanding, inventory requirements, accounts payable and capital expenditures to project liquidity needs, as well as evaluate return on assets. Our primary source of funds is our Revolver Loan (“Revolver”) with our bank.
+We gauge our liquidity and financial stability by various measurements, some of which are shown in the following table:
+December 31,
+Working capital
+$
+24,598,000
+$
+21,258,000
+Current ratio
+3.04 to 1
+3.57 to 1
+Shareholders’ equity
+$
+43,840,000
+$
+41,538,000
+Credit facility
+Our Credit Facility is discussed in detail in Note 6 Debt, to our Consolidated Financial Statements.
+The average balance of short-term borrowings during the years ended December 31, 2021, and 2020 were $2,686,000 and $4,042,000, respectively.
+Should the need arise whereby the current credit facility is insufficient; we believe that the current facility could be expanded, and/or we could obtain additional funds based on the value of our real property.
+Cash Flows
+For the year ended December 31, 2021, cash used by operating activities was $4,149,000, compared to cash provided by operating activities for the year ended December 31, 2020, of $3,047,000. At December 31, 2021, our consolidated cash balance was $539,000, compared to $904,000 at December 31, 2020. Cash at our UAT subsidiary on December 31, 2021, and 2020 was $190,000 and $335,000, respectively. We operate under the terms and conditions of the Credit Agreement. As a result, all domestic cash receipts are remitted to Capital One lockboxes.
+Our total debt to total book capitalization (total debt divided by total debt plus equity) on December 31, 2021, was 11.6%, compared to 9.4% on December 31, 2020.
+As a result of the acquisition of the Jackson Gear business (See Note 12) in January 2022, additional working capital needs due to anticipated growth, and a roll-out of a tools program to our retail customer, our Revolver borrowings will increase significantly in the first half of 2022 and should then decline as we approach the end of 2022.
+Capital spending during the year ended December 31, 2021, was $642,000, compared to $1,104,000 in 2020. Capital expenditures currently planned for 2022 are approximately $1,400,000, which we expect will be financed through the Credit Facility. The major portion of these planned capital expenditures will be for new metal cutting equipment, tooling and information technology hardware and software, and the expansion of our Punxsutawney, PA facility as a result of the acquisition of Jackson Gear (See Note 12).
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+LIQUIDITY AND CAPITAL RESOURCES - Continued
+Cash Flows- Continued
+Our liquidity and capital is primarily sourced from our credit facility, described in Note 6 - Debt, to our Consolidated Financial Statements, and cash from operations. At December 31, 2021, we had $9,578,000 available to us from the revolver portion of the credit facility.
+For the year ended December 31, 2021, we had $16,331,000 of open purchase order commitments, compared to $8,530,000 at December 31, 2020.
+Customer concentration
+At December 31, 2021, we had one customer that accounted for 26.1% of our consolidated revenue, compared to 26.3% of 2020’s revenue. Further, accounts receivable on December 31, 2021, and 2020 due from this customer were 35.9% and 38.0%, respectively, of total accounts receivable.
+IMPACT OF INFLATION
+Increasing prices, most notably in freight/transportation and, to a lesser extent, the cost of raw materials had a material effect on our results of operations in 2021. We believe that recent significant increases of inflation, the on-going volatility of freight/transportation costs, and recent geopolitical unrest will have an impact on our results of operations during 2022.
+Recently Adopted Accounting Pronouncements
+Please refer to Note 1, Summary of Significant Accounting Policies, to the Notes to Consolidated Financial Statements included elsewhere in this report for a discussion of recently adopted accounting pronouncements and new accounting pronouncements that may impact us.

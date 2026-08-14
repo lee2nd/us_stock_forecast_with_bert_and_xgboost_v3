@@ -1,0 +1,438 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Item 7. Management’s discussion and analysis of financial condition and results of operations
+The following discussion should be read in conjunction with the consolidated financial statements and notes of Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated (“Mastercard International”) (together, “Mastercard” or the “Company”), included elsewhere in this Report. Percentage changes provided throughout “Management’s Discussion and Analysis of Financial Condition and Results of Operations” were calculated on amounts rounded to the nearest thousand. For discussion related to the results of operations for the year ended December 31, 2020 compared to the year ended December 31, 2019, please see Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2020.
+Business Overview
+Mastercard is a technology company in the global payments industry that connects consumers, financial institutions, merchants, governments, digital partners, businesses and other organizations worldwide, enabling them to use electronic forms of payment instead of cash and checks. We make payments easier and more efficient by providing a wide range of payment solutions and services using our family of well-known and trusted brands, including Mastercard®, Maestro® and Cirrus®. We operate a multi-rail payments network that provides choice and flexibility for consumers and merchants. Through our unique and proprietary core global payments network, we switch (authorize, clear and settle) payment transactions. We have additional payment capabilities that include automated clearing house (“ACH”) transactions (both batch and real-time account-based payments). Using these capabilities, we offer integrated payment products and services and capture new payment flows. Our value-added services include, among others, cyber and intelligence solutions to allow all parties to transact easily and with confidence, as well as other services that provide proprietary insights, drawing on our principled use of consumer and merchant data. Our franchise model sets the standards and ground-rules that balance value and risk across all stakeholders and allows for interoperability among them. Our payment solutions are designed to ensure safety and security for the global payments ecosystem.
+Mastercard is not a financial institution. We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers, or establish the rates charged by acquirers in connection with merchants’ acceptance of our products. In most cases, account holder relationships belong to, and are managed by, our customers.
+COVID-19
+In 2021, our growth rates, which are at various stages of recovery, increased as compared to the respective year ago period as consumer and business spend recovers and we lap the initial effects of the COVID-19 pandemic. The following tables provide a summary of trends in our key metrics for 2021 and 2020 as compared to the respective year ago periods:
+2021 Quarter ended Year ended December 31, 2021
+March 31 June 30 September 30 December 31
+Increase/(Decrease)
+Gross dollar volume (local currency basis) 8 % 33 % 20 % 23 % 21 %
+Cross-border volume (local currency basis) (17) % 58 % 52 % 53 % 32 %
+Switched transactions 9 % 41 % 25 % 27 % 25 %
+2020 Quarter ended Year ended December 31, 2020
+March 31 June 30 September 30 December 31
+Increase/(Decrease)
+Gross dollar volume (local currency basis) 8 % (10) % 1 % 1 % - %
+Cross-border volume (local currency basis) (1) % (45) % (36) % (29) % (29) %
+Switched transactions 13 % (10) % 5 % 4 % 3 %
+The impact of the COVID-19 pandemic, which began in the first quarter of 2020, continues to have negative effects on the global economy. The pandemic has affected business activity, adversely impacting consumers, our customers, suppliers and business partners, as well as our workforce. Variants of the virus have emerged, resulting in a resurgence of infections that have affected regions at different times. New variants may emerge with similar results. The extent to which the resurgence and severity of infections has affected regions is impacted by the ongoing global administration of vaccines and the availability of therapeutic
+44 MASTERCARD 2021 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+treatments in those locations. Governments, businesses and consumers continue to react to the changing conditions, tightening or loosening safety measures or voluntarily making personal safety decisions, as applicable, based on the current environment of their location.
+We continue to monitor the effects of the pandemic and the related impact on our business. The full extent to which the pandemic, and measures and actions taken by stakeholders in response, affect our business, results of operations and financial condition will depend on future developments, including the duration of the pandemic and its impact on the global economy, which are uncertain, and cannot be predicted at this time.
+Financial Results Overview
+The following table provides a summary of our key GAAP operating results, as reported:
+Year ended December 31, 2021
+Increase/
+(Decrease) 2020
+Increase/
+(Decrease)
+2021 2020 2019
+($ in millions, except per share data)
+Net revenue $ 18,884 $ 15,301 $ 16,883 23% (9)%
+Operating expenses $ 8,802 $ 7,220 $ 7,219 22% -%
+Operating income $ 10,082 $ 8,081 $ 9,664 25% (16)%
+Operating margin 53.4 % 52.8 % 57.2 % 0.6 ppt (4.4) ppt
+Income tax expense $ 1,620 $ 1,349 $ 1,613 20% (16)%
+Effective income tax rate 15.7 % 17.4 % 16.6 % (1.7) ppt 0.8 ppt
+Net income $ 8,687 $ 6,411 $ 8,118 35% (21)%
+Diluted earnings per share $ 8.76 $ 6.37 $ 7.94 38% (20)%
+Diluted weighted-average shares outstanding 992 1,006 1,022 (1)% (2)%
+The following table provides a summary of our key non-GAAP operating results1, adjusted to exclude the impact of gains and losses on our equity investments, Special Items (which represent litigation judgments and settlements and certain one-time items) and the related tax impacts on our non-GAAP adjustments. In addition, we have presented growth rates, adjusted for the impact of currency:
+Year ended December 31, 2021
+Increase/(Decrease) 2020
+Increase/(Decrease)
+2021 2020 2019 As adjusted Currency-neutral As adjusted Currency-neutral
+($ in millions, except per share data)
+Net revenue $ 18,884 $ 15,301 $ 16,883 23% 22% (9)% (8)%
+Adjusted operating expenses $ 8,627 $ 7,147 $ 7,219 21% 19% (1)% (1)%
+Adjusted operating margin 54.3 % 53.3 % 57.2 % 1.0 ppt 1.2 ppt (4.0) ppt (3.7) ppt
+Adjusted effective income tax rate 15.4 % 17.2 % 17.0 % (1.8) ppt (1.8) ppt 0.2 ppt 0.3 ppt
+Adjusted net income $ 8,333 $ 6,463 $ 7,937 29% 28% (19)% (17)%
+Adjusted diluted earnings per share $ 8.40 $ 6.43 $ 7.77 31% 30% (17)% (16)%
+Note: Tables may not sum due to rounding.
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+MASTERCARD 2021 FORM 10-K 45
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Key highlights for 2021 as compared to 2020 were as follows:
+Net revenue
+GAAP Non-GAAP
+(currency-neutral) Net revenue increased 22% on a currency-neutral basis, which includes 2 percentage points of growth from acquisitions. The remaining increase was primarily due to:
+up 23% up 22%
+- Gross dollar volume growth of 21% on a local currency basis
+- Cross-border volume growth of 32% on a local currency basis
+- Switched transactions growth of 25%
+- Other revenues increased 32%, or 31% on a currency-neutral basis, which
+includes 8 percentage points of growth due to acquisitions. The remaining growth
+was driven primarily by our Cyber & Intelligence and Data & Services solutions.
+These increases to net revenue were partially offset by:
+- Rebates and incentives growth of 32%, or 31% on a currency-neutral basis,
+primarily due to increased volumes and transactions and new and renewed deals.
+Operating expenses Adjusted
+operating expenses
+GAAP Non-GAAP
+(currency-neutral) Adjusted operating expenses increased 19% on a currency-neutral basis, which includes 7 percentage points of growth due to acquisitions. The remaining increase was primarily due to higher personnel costs, increased spending on advertising and marketing and increased data processing costs.
+up 22% up 19%
+Effective income tax rate
+Adjusted effective income tax rate
+GAAP Non-GAAP
+(currency-neutral) The adjusted effective income tax rate of 15.4% was lower than prior year, primarily due to the recognition of U.S. tax benefits, the majority of which were discrete, resulting from a higher foreign derived intangible income deduction and greater utilization of foreign tax credits in the U.S. In addition, a more favorable geographic mix of earnings in 2021 contributed to our lower effective tax rate. These benefits were partially offset by a lower discrete tax benefit related to share-based payments in 2021.
+15.7% 15.4%
+Other 2021 financial highlights were as follows:
+•We generated net cash flows from operations of $9.5 billion.
+•We completed the acquisitions of businesses for total consideration of $4.7 billion.
+•We repurchased 16.5 million shares of our common stock for $5.9 billion and paid dividends of $1.7 billion.
+•We completed debt offerings for an aggregate principal amount of $2.1 billion.
+Non-GAAP Financial Information
+Non-GAAP financial information is defined as a numerical measure of a company’s performance that excludes or includes amounts so as to be different than the most comparable measure calculated and presented in accordance with accounting principles generally accepted in the United States (“GAAP”). Our non-GAAP financial measures exclude the impact of gains and losses on our equity investments which includes mark-to-market fair value adjustments, impairments and gains and losses upon disposition and the related tax impacts. Our non-GAAP financial measures also exclude the impact of special items, where applicable, which represent litigation judgments and settlements and certain one-time items, as well as the related tax impacts (“Special Items”). Our non-GAAP financial measures for the comparable periods exclude the impact of the following:
+Gains and Losses on Equity Investments
+•During 2021, 2020 and 2019, we recorded net gains of $645 million ($497 million after tax, or $0.50 per diluted share), $30 million ($15 million after tax, or $0.01 per diluted share) and $167 million ($124 million after tax, or $0.12 per diluted share), respectively. These net gains were primarily related to unrealized fair market value adjustments on marketable and nonmarketable equity securities. In addition, in 2021, net gains also included realized gains on sales of marketable equity securities.
+46 MASTERCARD 2021 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Special Items
+Litigation provisions
+•During 2021, we recorded pre-tax charges of $94 million ($74 million after tax, or $0.07 per diluted share) related to litigation settlements and estimated attorneys’ fees with U.K. and Pan-European merchants.
+•During 2020, we recorded pre-tax charges of $73 million ($67 million after tax, or $0.07 per diluted share) related to litigation provisions which included pre-tax charges of:
+◦$45 million related to a legal matter associated with our prepaid cards in the U.K., and
+◦$28 million related to estimated attorneys’ fees and litigation settlements with U.K. and Pan-European merchants.
+Indirect tax matter
+•During 2021, we recorded a pre-tax charge of $88 million ($69 million after tax, or $0.07 per diluted share) to resolve a foreign indirect tax matter for 2015 through the current period and the related interest.
+Tax act
+•During 2019, we recorded a $57 million net tax benefit ($0.06 per diluted share), which included a $30 million benefit related to a reduction to the 2017 one-time deemed repatriation tax on accumulated foreign earnings (the transition tax) resulting from final tax regulations issued in 2019 and a $27 million benefit related to additional foreign tax credits which can be carried back under transition rules.
+See Note 7 (Investments), Note 20 (Income Taxes) and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion. We excluded these items because management evaluates the underlying operations and performance of the Company separately from these recurring and non-recurring items.
+We believe that the non-GAAP financial measures presented facilitate an understanding of our operating performance and provide a meaningful comparison of our results between periods. We use non-GAAP financial measures to, among other things, evaluate our ongoing operations in relation to historical results, for internal planning and forecasting purposes and in the calculation of performance-based compensation.
+Currency-neutral Growth Rates
+We present growth rates adjusted for the impact of currency, which is a non-GAAP financial measure. Currency-neutral growth rates are calculated by remeasuring the prior period’s results using the current period’s exchange rates for both the translational and transactional impacts on operating results. The impact of currency translation represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency. The impact of the transactional currency represents the effect of converting revenue and expenses occurring in a currency other than the functional currency of the entity. The impact of the related realized gains and losses resulting from our foreign exchange derivative contracts designated as cash flow hedging instruments is recognized in the respective financial statement line item on the statement of operations when the underlying forecasted transactions impact earnings. We believe the presentation of currency-neutral growth rates provides relevant information to facilitate an understanding of our operating results.
+The translational and transactional impact of currency and the related impact of our foreign exchange derivative contracts designated as cash flow hedging instruments (“Currency impact”) has been excluded from our currency-neutral growth rates and has been identified in our drivers of change impact tables. See “Foreign Currency - Currency Impact” for further information on our currency impacts and “Financial Results - Revenue and Operating Expenses” for our drivers of change impact tables.
+Net revenue, operating expenses, operating margin, other income (expense), effective income tax rate, net income and diluted earnings per share adjusted for the impact of gains and losses on our equity investments, Special Items and/or the impact of currency, are non-GAAP financial measures and should not be relied upon as substitutes for measures calculated in accordance with GAAP.
+MASTERCARD 2021 FORM 10-K 47
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following tables reconcile our reported financial measures calculated in accordance with GAAP to the respective non-GAAP adjusted financial measures:
+Year ended December 31, 2021
+Operating
+expenses
+Operating
+margin
+Other
+income
+(expense)
+Effective
+income
+tax rate
+Net
+income
+Diluted
+earnings
+per share
+($ in millions, except per share data)
+Reported - GAAP $ 8,802 53.4 % $ 225 15.7 % $ 8,687 $ 8.76
+(Gains) losses on equity investments ** ** (645) (0.5) % (497) (0.50)
+Litigation provisions (94) 0.5 % ** 0.1 % 74 0.07
+Indirect tax matter (82) 0.4 % 6 0.1 % 69 0.07
+Non-GAAP $ 8,627 54.3 % $ (413) 15.4 % $ 8,333 $ 8.40
+Year ended December 31, 2020
+Operating
+expenses Operating
+margin Other
+income
+(expense)
+Effective
+income
+tax rate Net
+income Diluted
+earnings
+per share
+($ in millions, except per share data)
+Reported - GAAP $ 7,220 52.8 % $ (321) 17.4 % $ 6,411 $ 6.37
+(Gains) losses on equity investments ** ** (30) (0.1) % (15) (0.01)
+Litigation provisions (73) 0.5 % ** (0.1) % 67 0.07
+Non-GAAP $ 7,147 53.3 % $ (351) 17.2 % $ 6,463 $ 6.43
+Year ended December 31, 2019
+Operating
+expenses Operating
+margin Other
+income
+(expense)
+Effective
+income
+tax rate Net
+income Diluted
+earnings
+per share
+($ in millions, except per share data)
+Reported - GAAP $ 7,219 57.2 % $ 67 16.6 % $ 8,118 7.94
+(Gains) losses on equity investments ** ** (167) (0.2) % (124) (0.12)
+Tax act ** ** ** 0.6 % (57) (0.06)
+Non-GAAP $ 7,219 57.2 % $ (100) 17.0 % $ 7,937 $ 7.77
+Note: Tables may not sum due to rounding.
+** Not applicable
+48 MASTERCARD 2021 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following tables represent the reconciliation of our growth rates reported under GAAP to our non-GAAP growth rates:
+Year Ended December 31, 2021 as compared to the Year Ended December 31, 2020
+Increase/(Decrease)
+Net revenue Operating expenses Operating margin Effective income tax rate Net income Diluted earnings per share
+Reported - GAAP 23 % 22 % 0.6 ppt (1.7) ppt 35 % 38 %
+(Gains) losses on equity investments ** ** ** (0.4) ppt (7) % (8) %
+Litigation provisions ** - % - ppt 0.1 ppt - % - %
+Indirect tax matter ** (1) % 0.4 ppt 0.1 ppt 1 % 1 %
+Non-GAAP 23 % 21 % 1.0 ppt (1.8) ppt 29 % 31 %
+Currency impact 1
+(1) % (2) % 0.2 ppt - ppt (1) % (1) %
+Non-GAAP - currency-neutral 22 % 19 % 1.2 ppt (1.8) ppt 28 % 30 %
+Year Ended December 31, 2020 as compared to the Year Ended December 31, 2019
+Increase/(Decrease)
+Net revenue Operating expenses Operating margin Effective income tax rate Net income Diluted earnings per share
+Reported - GAAP (9) % - % (4.4) ppt 0.8 ppt (21) % (20) %
+(Gains) losses on equity investments ** ** ** - ppt 1 % 1 %
+Litigation provisions ** (1) % 0.5 ppt (0.1) ppt 1 % 1 %
+Tax act ** ** ** (0.6) ppt 1 % 1 %
+Non-GAAP (9) % (1) % (4.0) ppt 0.2 ppt (19) % (17) %
+Currency impact 1
+1 % - % 0.3 ppt 0.2 ppt 1 % 1 %
+Non-GAAP - currency-neutral (8) % (1) % (3.7) ppt 0.3 ppt (17) % (16) %
+Note: Tables may not sum due to rounding.
+** Not applicable
+1See “Non-GAAP Financial Information” for further information on Currency impact.
+Key Metrics
+In addition to the financial measures described above in “Financial Results Overview”, we review the following metrics to evaluate and identify trends in our business, measure our performance, prepare financial projections and make strategic decisions. We believe that the key metrics presented facilitate an understanding of our operating and financial performance and provide a meaningful comparison of our results between periods.
+Gross Dollar Volume (“GDV”)1 measures dollar volume of activity on cards carrying our brands during the period, on a local currency basis and U.S. dollar-converted basis. GDV represents purchase volume plus cash volume and includes the impact of balance transfers and convenience checks; “purchase volume” means the aggregate dollar amount of purchases made with Mastercard-branded cards for the relevant period; and “cash volume” means the aggregate dollar amount of cash disbursements and includes the impact of balance transfers and convenience checks obtained with Mastercard-branded cards for the relevant period. Information denominated in U.S. dollars relating to GDV is calculated by applying an established U.S. dollar/local currency exchange rate for each local currency in which our volumes are reported. These exchange rates are calculated on a quarterly basis using the average exchange rate for each quarter. We report period-over-period rates of change in purchase volume and cash volume on the basis of local currency information, in order to eliminate the impact of changes in the value of currencies against the U.S. dollar in calculating such rates of change.
+Cross-border Volume2 measures cross-border dollar volume initiated and switched through our network during the period, on a local currency basis and U.S. dollar-converted basis, for all Mastercard-branded programs.
+Switched Transactions2 measures the number of transactions switched by Mastercard, which is defined as the number of transactions initiated and switched through our network during the period.
+MASTERCARD 2021 FORM 10-K 49
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Operating Margin measures how much profit we make on each dollar of sales after our operating costs but before other income (expense) and income tax expense. Operating margin is calculated by dividing our operating income by net revenue.
+1 Data used in the calculation of GDV is provided by Mastercard customers and is subject to verification by Mastercard and partial cross-checking against information provided by Mastercard’s transaction switching systems. All data is subject to revision and amendment by Mastercard or Mastercard’s customers.
+2 Growth rates are normalized to eliminate the effects of differing switching and carryover days between periods. Carryover days are those where transactions and volumes from days where the Company does not clear and settle are processed. In the fourth quarter of 2021, we began clearing and settling transactions and volumes on a daily basis.
+Foreign Currency
+Currency Impact
+Our primary revenue functional currencies are the U.S. dollar, euro, Brazilian real and the British pound. Our overall operating results are impacted by currency translation, which represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency.
+Our operating results are also impacted by transactional currency. The impact of the transactional currency represents the effect of converting revenue and expense transactions occurring in a currency other than the functional currency. Changes in currency exchange rates directly impact the calculation of gross dollar volume (“GDV”) and gross euro volume (“GEV”), which are used in the calculation of our domestic assessments, cross-border volume fees and certain volume-related rebates and incentives. In most non-European regions, GDV is calculated based on local currency spending volume converted to U.S. dollars using average exchange rates for the period. In Europe, GEV is calculated based on local currency spending volume converted to euros using average exchange rates for the period. As a result, certain of our domestic assessments, cross-border volume fees and volume-related rebates and incentives are impacted by the strengthening or weakening of the U.S. dollar versus non-European local currencies and the strengthening or weakening of the euro versus other European local currencies. For example, our billing in Australia is in the U.S. dollar, however, consumer spend in Australia is in the Australian dollar. The currency transactional impact of converting Australian dollars to our U.S. dollar billing currency will have an impact on the revenue generated. The strengthening or weakening of the U.S. dollar is evident when GDV growth on a U.S. dollar-converted basis is compared to GDV growth on a local currency basis. In 2021, GDV on a U.S. dollar-converted basis increased 21.9%, while GDV on a local currency basis increased 20.5% versus 2020. In 2020, GDV on a U.S. dollar-converted basis decreased 1.9%, while GDV on a local currency basis increased 0.1% versus 2019. Further, the impact from transactional currency occurs in transaction processing revenue, other revenue and operating expenses when the local currency of these items is different than the functional currency of the entity.
+Through December 31, 2020, our approach to managing transactional currency exposure consisted of hedging a portion of anticipated revenues impacted by transactional currencies by entering into foreign exchange derivative contracts, and recording the related changes in fair value in general and administrative expenses on the consolidated statement of operations. During the first quarter of 2021, we started to formally designate certain newly-executed foreign exchange derivative contracts, which meet the established accounting criteria, as cash flow hedges. Gains and losses resulting from changes in fair value of these designated contracts are deferred in accumulated other comprehensive income (loss) and subsequently recognized in the respective component of net revenue when the underlying forecasted transactions impact earnings.
+Foreign Exchange Activity
+We incur foreign currency gains and losses from remeasuring monetary assets and liabilities, including settlement assets and obligations, that are denominated in a currency other than the functional currency of the entity. To manage this foreign exchange risk, we may enter into foreign exchange derivative contracts to economically hedge the foreign currency exposure of a portion of our nonfunctional monetary assets and liabilities. The gains or losses resulting from changes in fair value of these contracts are intended to reduce the potential effect of the underlying hedged exposure and are recorded net within general and administrative expenses on the consolidated statement of operations. The impact of this foreign exchange activity, including the related hedging activities, has not been eliminated in our currency-neutral results.
+Our foreign exchange risk management activities are discussed further in Note 23 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part II, Item 8.
+Risk of Currency Devaluation
+We are exposed to currency devaluation in certain countries. In addition, we are subject to exchange control regulations that restrict the conversion of financial assets into U.S. dollars. While these revenues and assets are not material to us on a consolidated basis, we can be negatively impacted should there be a continued and sustained devaluation of local currencies relative to the U.S. dollar and/or a continued and sustained deterioration of economic conditions in these countries.
+50 MASTERCARD 2021 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Financial Results
+Revenue
+Primary drivers of net revenue, versus the prior year, were as follows:
+Gross revenue increased 26%, or 25% on a currency-neutral basis, which includes growth of 2 percentage points from acquisitions. The remaining increase was primarily driven by transaction and volume growth and an increase in our Cyber & Intelligence and Data & Services solutions within other revenue.
+Rebates and incentives increased 32%, or 31% on a currency-neutral basis, primarily due to increased volumes and transactions and new and renewed deals.
+Net revenue increased 23%, or 22% on a currency-neutral basis, and includes 2 percentage points of growth from acquisitions.
+See Note 3 (Revenue) to the consolidated financial statements included in Part II, Item 8 for a further discussion of how we recognize revenue.
+The components of net revenue were as follows:
+For the Years Ended December 31, Increase (Decrease)
+2021 2020 2019 2021 2020
+($ in millions)
+Domestic assessments $ 8,158 $ 6,656 $ 6,781 23% (2)%
+Cross-border volume fees 4,664 3,512 5,606 33% (37)%
+Transaction processing 10,799 8,731 8,469 24% 3%
+Other revenues 6,224 4,717 4,124 32% 14%
+Gross revenue 29,845 23,616 24,980 26% (5)%
+Rebates and incentives (contra-revenue) (10,961) (8,315) (8,097) 32% 3%
+Net revenue $ 18,884 $ 15,301 $ 16,883 23% (9)%
+The following table summarizes the drivers of change in net revenue:
+For the Years Ended December 31,
+Operational Acquisitions Currency Impact 3
+Total
+2021 2020 2021 2020 2021 2020 2021 2020
+Domestic assessments 22% 1 1% 1 -% -% -% (3)% 23 % (2) %
+Cross-border volume fees 30% 1 (37)% 1 -% -% 3% -% 33 % (37) %
+Transaction processing 22% 1,2 3% 1,2 -% -% 1% -% 24 % 3 %
+Other revenues 23% 2 12% 2 8% 3% 1% (1)% 32 % 14 %
+Rebates and incentives (contra-revenue) 31% 4% -% -% 1% (2)% 32 % 3 %
+Net revenue 20% (9)% 2% 1% 1% (1)% 23 % (9) %
+Note: Table may not sum due to rounding
+1Includes impacts from our key metrics, other non-volume based fees, pricing and mix.
+2Includes impacts from our cyber and intelligence solution fees, data analytics and consulting fees and other value-added services.
+3Includes the translational and transactional impact of currency and the related impact of our foreign exchange derivative contracts designated as cash flow hedging instruments.
+MASTERCARD 2021 FORM 10-K 51
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following tables provide a summary of the trend in volumes and transactions.
+For the Years Ended December 31,
+2021 2020
+Increase/(Decrease)
+USD Local USD Local
+Mastercard-branded GDV 1
+22 % 21 % (2) % - %
+United States 23 % 23 % 2 % 2 %
+Worldwide less United States 22 % 20 % (4) % (1) %
+Cross-border volume 1
+32 % (29) %
+1Excludes volume generated by Maestro and Cirrus cards.
+For the Years Ended December 31,
+Increase/(Decrease)
+2021 2020
+Switched transactions 25 % 3 %
+No individual country, other than the United States, generated more than 10% of net revenue in any such period. A significant portion of our net revenue is concentrated among our five largest customers. In 2021, the net revenue from these customers was approximately $4.2 billion, or 23%, of total net revenue. The loss of any of these customers or their significant card programs could adversely impact our revenue.
+Operating Expenses
+Operating expenses increased 22% in 2021 versus the prior year. Adjusted operating expenses increased 21%, or 19% on a currency-neutral basis, versus the prior year. Current year results include growth of approximately 7 percentage points from acquisitions. Excluding acquisitions, expenses increased 12% primarily due to higher personnel costs to support our continued investment in our strategic initiatives, increased spending on advertising and marketing and increased data processing costs.
+The components of operating expenses were as follows:
+For the Years Ended December 31, Increase (Decrease)
+2021 2020 2019 2021 2020
+($ in millions)
+General and administrative $ 7,087 $ 5,910 $ 5,763 20 % 3 %
+Advertising and marketing 895 657 934 36 % (30) %
+Depreciation and amortization 726 580 522 25 % 11 %
+Provision for litigation 94 73 - ** **
+Total operating expenses 8,802 7,220 7,219 22 % - %
+Special Items 1
+(176) (73) - ** **
+Adjusted operating expenses (excluding Special Items 1)
+$ 8,627 $ 7,147 $ 7,219 21 % (1) %
+Note: Table may not sum due to rounding.
+** Not meaningful
+1See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+52 MASTERCARD 2021 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following table summarizes the drivers of changes in operating expenses:
+For the Years Ended December 31,
+Operational Special
+Items 1
+Acquisitions Currency Impact 2
+Total
+2021 2020 2021 2020 2021 2020 2021 2020 2021 2020
+General and administrative 11% (1) % 1 % ** 6 % 4 % 2 % - % 20 % 3 %
+Advertising and marketing 35% (30) % ** ** 1 % - % 1 % (1) % 36 % (30) %
+Depreciation and amortization 3% 5 % ** ** 20 % 6 % 2 % - % 25 % 11 %
+Provision for litigation ** ** ** ** ** ** ** ** ** **
+Total operating expenses 12% (5) % 1 % 1 % 7 % 4 % 2 % - % 22 % - %
+Note: Table may not sum due to rounding.
+** Not meaningful
+1See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+2Represents the translational and transactional impact of currency.
+General and Administrative
+General and administrative expenses increased 20%, or 18% on a currency-neutral basis, in 2021 versus the prior year. Current year results include growth of 6 percentage points from acquisitions and 1 percentage point from Special Items. The remaining increase was primarily due to higher personnel costs to support our continued investment in our strategic initiatives and increased data processing costs.
+The components of general and administrative expenses were as follows:
+For the Years Ended December 31, Increase (Decrease)
+2021 2020 2019 2021 2020
+($ in millions)
+Personnel $ 4,489 $ 3,787 $ 3,537 19% 7%
+Professional fees 433 384 447 13% (14)%
+Data processing and telecommunications 898 756 666 19% 14%
+Foreign exchange activity 1
+51 9 32 ** **
+Other 2
+1,216 974 1,081 25% (10)%
+Total general and administrative expenses $ 7,087 $ 5,910 $ 5,763 20% 3%
+Note: Table may not sum due to rounding.
+** Not meaningful
+1Foreign exchange activity includes gains and losses on foreign exchange derivative contracts and the impact of remeasurement of assets and liabilities denominated in foreign currencies. See Note 23 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+2 Includes a special item related to a foreign indirect tax matter of $82 million, pre-tax, recorded during 2021. See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+Advertising and Marketing
+Advertising and marketing expenses increased 36%, on both an as reported and currency-neutral basis, in 2021 versus the prior year, primarily due to an increase in spending on certain marketing campaigns and an increase in advertising and sponsorship spend driven by the reinstatement of sponsored events as the effects of the pandemic recede.
+Depreciation and Amortization
+Depreciation and amortization expenses increased 25%, or 23% on a currency-neutral basis, in 2021 versus the prior year, which includes growth of 20 percentage points from acquisitions due to the amortization of acquired intangible assets.
+Provision for Litigation
+In 2021 and 2020, we recorded $94 million and $73 million, respectively, related to various litigation settlements and legal costs. See Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+MASTERCARD 2021 FORM 10-K 53
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Other Income (Expense)
+Other income (expense) was favorable $546 million in 2021 versus the prior year, primarily due to higher net gains in the current period versus the prior period related to unrealized fair market value adjustments on marketable and nonmarketable equity securities and realized gains on sales of marketable equity securities. Adjusted other income (expense) was unfavorable $62 million versus the prior year, primarily due to increased interest expense related to our recent debt issuances and a decrease in our investment income.
+The components of other income (expense) were as follows:
+For the Years Ended December 31, Increase (Decrease)
+2021 2020 2019 2021 2020
+($ in millions)
+Investment Income $ 11 $ 24 $ 97 (52) % (75) %
+Gains (losses) on equity investments, net 645 30 167 ** **
+Interest expense (431) (380) (224) 13 % 70 %
+Other income (expense), net - 5 27 ** **
+Total other income (expense) 225 (321) 67 ** **
+(Gains) losses on equity investments 1
+(645) (30) (167) ** **
+Special Items 1
+6 - - ** **
+Adjusted total other income (expense) 1
+$ (413) $ (351) $ (100) 18 % **
+Note: Table may not sum due to rounding.
+** Not meaningful
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+Income Taxes
+The effective income tax rates for the years ended December 31, 2021 and 2020 were 15.7% and 17.4%, respectively. The adjusted effective income tax rates for the years ended December 31, 2021 and 2020 were 15.4% and 17.2%, respectively. Both the as reported and as adjusted effective income tax rates in 2021 were lower than the prior year, primarily due to the recognition of U.S. tax benefits, the majority of which were discrete, resulting from a higher foreign derived intangible income deduction and greater utilization of foreign tax credits in the U.S. In addition, a more favorable geographic mix of earnings in 2021 contributed to our lower effective tax rates. These benefits were partially offset by a lower discrete tax benefit related to share-based payments in 2021.
+See Note 20 (Income Taxes) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+Liquidity and Capital Resources
+We rely on existing liquidity, cash generated from operations and access to capital to fund our global operations, credit and settlement exposure, capital expenditures, investments in our business and current and potential obligations. The following table summarizes the cash, cash equivalents, investments and credit available to us at December 31:
+2021 2020
+(in billions)
+Cash, cash equivalents and investments 1
+$ 7.9 $ 10.6
+Unused line of credit 6.0 6.0
+1Investments include available-for-sale securities and held-to-maturity securities. This amount excludes restricted cash and restricted cash equivalents of $2.5 billion and $2.3 billion at December 31, 2021 and 2020, respectively.
+We believe that our existing cash, cash equivalents and investment securities balances, our cash flow generating capabilities, and our access to capital resources are sufficient to satisfy our future operating cash needs, capital asset purchases, outstanding commitments and other liquidity requirements associated with our existing operations and potential obligations which include litigation provisions and credit and settlement exposure.
+Our liquidity and access to capital could be negatively impacted by global credit market conditions. We guarantee the settlement of many of the transactions between our customers. Historically, payments under these guarantees have not been significant;
+54 MASTERCARD 2021 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+however, historical trends may not be an indication of potential future losses. The risk of loss on these guarantees is specific to individual customers, but may also be driven by regional or global economic conditions, including, but not limited to the health of the financial institutions in a country or region. See Note 22 (Settlement and Other Risk Management) to the consolidated financial statements in Part II, Item 8 for a description of these guarantees.
+Our liquidity and access to capital could also be negatively impacted by the outcome of any of the legal or regulatory proceedings to which we are a party. For additional discussion of these and other risks facing our business, see Part I, Item 1A - Risk Factors - Legal and Regulatory Risks and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8.
+Cash Flow
+The table below shows a summary of the cash flows from operating, investing and financing activities:
+For the Years Ended December 31,
+2021 2020 2019
+(in millions)
+Net cash provided by operating activities $ 9,463 $ 7,224 $ 8,183
+Net cash used in investing activities (5,272) (1,879) (1,640)
+Net cash used in financing activities (6,555) (2,152) (5,867)
+Net cash provided by operating activities increased $2.2 billion in 2021 versus the prior year, primarily due to higher net income adjusted for non-cash items and the timing of customer incentive payments, partially offset by higher outstanding receivables in the current period due to increased volumes and timing of settlement with customers.
+Net cash used in investing activities increased $3.4 billion in 2021 versus the prior year, primarily due to increased acquisition activity in the current year.
+Net cash used in financing activities increased $4.4 billion in 2021 versus the prior year, primarily due to lower proceeds from debt issuances, higher repurchases of our Class A common stock and repayment of debt in the current year.
+Debt and Credit Availability
+In March 2021, we issued $600 million principal amount of notes due March 2031 and $700 million principal amount of notes due March 2051 and in November 2021, we issued $750 million principal amount of notes due November 2031 (collectively the “2021 USD Notes”). Additionally, during 2021, $650 million of principal related to the 2016 USD Notes was redeemed. Our total debt outstanding was $13.9 billion at December 31, 2021, with the earliest maturity of €700 million (approximately $793 million as of December 31, 2021) of principal occurring in December 2022. The proceeds of the 2021 USD Notes due March 2031 are to be used to fund eligible green and social projects, examples of which are described in the Use of Proceeds section of the Prospectus Supplement filed on March 4, 2021. All other notes are to be used for general corporate purposes.
+As of December 31, 2021, we have a commercial paper program (the “Commercial Paper Program”), under which we are authorized to issue up to $6 billion in outstanding notes, with maturities up to 397 days from the date of issuance. In conjunction with the Commercial Paper Program, we have a committed unsecured $6 billion revolving credit facility (the “Credit Facility”) which now expires in November 2026.
+Borrowings under the Commercial Paper Program and the Credit Facility are to be used to provide liquidity for general corporate purposes, including providing liquidity in the event of one or more settlement failures by our customers. In addition, we may borrow and repay amounts under these facilities for business continuity purposes. We had no borrowings outstanding under the Commercial Paper Program or the Credit Facility at December 31, 2021.
+See Note 15 (Debt) to the consolidated financial statements included in Part II, Item 8 for further discussion on our debt, the Commercial Paper Program and the Credit Facility.
+Dividends and Share Repurchases
+We have historically paid quarterly dividends on our outstanding Class A common stock and Class B common stock. Subject to legally available funds, we intend to continue to pay a quarterly cash dividend. The declaration and payment of future dividends is at the sole discretion of our Board of Directors after taking into account various factors, including our financial condition, operating results, available cash and current and anticipated cash needs.
+MASTERCARD 2021 FORM 10-K 55
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following table summarizes the annual, per share dividends paid in the years reflected:
+For the Years Ended December 31,
+2021 2020 2019
+(in millions, except per share data)
+Cash dividend, per share $ 1.76 $ 1.60 $ 1.32
+Cash dividends paid $ 1,741 $ 1,605 $ 1,345
+On November 30, 2021, our Board of Directors declared a quarterly cash dividend of $0.49 per share paid on February 9, 2022 to holders of record on January 7, 2022 of our Class A common stock and Class B common stock. The aggregate amount of this dividend was $479 million.
+On February 8, 2022, our Board of Directors declared a quarterly cash dividend of $0.49 per share payable on May 9, 2022 to holders of record on April 8, 2022 of our Class A common stock and Class B common stock. The aggregate amount of this dividend is estimated to be $479 million.
+Repurchased shares of our common stock are considered treasury stock. In November 2021, December 2020 and December 2019, our Board of Directors approved share repurchase programs authorizing us to repurchase up to $8.0 billion, $6.0 billion and $8.0 billion, respectively, of our Class A common stock. The program approved in 2021 will become effective after completion of the share repurchase program approved in 2020. The timing and actual number of additional shares repurchased will depend on a variety of factors, including cash requirements to meet the operating needs of the business, legal requirements, as well as the share price and economic and market conditions. The following table summarizes our share repurchase activity of our Class A common stock through December 31, 2021, under the plans approved in 2020 and 2019:
+(in millions, except per share data)
+Remaining authorization at December 31, 2020 $ 9,831
+Dollar-value of shares repurchased in 2021 $ 5,904
+Remaining authorization at December 31, 2021 $ 11,927
+Shares repurchased in 2021 16.5
+Average price paid per share in 2021 $ 356.82
+See Note 16 (Stockholders' Equity) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+Critical Accounting Estimates
+The application of GAAP requires us to make estimates and assumptions about certain items and future events that directly affect our reported financial condition. Our significant accounting policies, including recent accounting pronouncements, are described in Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8.
+Revenue Recognition - Rebates and Incentives
+We enter into business agreements with certain customers that provide for rebates and incentives when customers meet certain volume thresholds or other incentives tied to customer performance. We consider various factors in estimating customer performance, including forecasted transactions, card issuance and card conversion volumes, expected payments and historical experience with that customer. Rebates and incentives are recorded as a reduction to gross revenue based on these estimates primarily when volume- and transaction- based revenues are recognized over the contractual term. Differences between actual results and our estimates are adjusted in the period the customer reports actual performance. If our customers’ actual performance is not consistent with our estimates of their performance, net revenue may be materially different.
+56 MASTERCARD 2021 FORM 10-K
+PART II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Loss Contingencies
+We are currently involved in various claims and legal proceedings. We regularly review the status of each significant matter and assess its potential financial exposure. If the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Significant judgment is required in both the determination of probability and whether an exposure is reasonably estimable. Our judgments are subjective based on the status of the legal or regulatory proceedings, the merits of our defenses and consultation with in-house and outside legal counsel. Because of uncertainties related to these matters, accruals are based only on the best information available at the time. As additional information becomes available, we reassess the potential liability related to pending claims and litigation and may revise our estimates. Due to the inherent uncertainties of the legal and regulatory process in the multiple jurisdictions in which we operate, our judgments may be materially different than the actual outcomes.
+Income Taxes
+In calculating our effective income tax rate, estimates are required regarding the timing and amount of taxable and deductible items which will adjust the pretax income earned in various tax jurisdictions. Through our interpretation of local tax regulations, adjustments to pretax income for income earned in various tax jurisdictions are reflected within various tax filings. Although we believe that our estimates and judgments discussed herein are reasonable, actual results may be materially different than the estimated amounts.
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. Significant judgment is required in determining the valuation allowance. In assessing the need for a valuation allowance, we consider all sources of taxable income, including projected future taxable income, reversing taxable temporary differences and ongoing tax planning strategies. If it is determined that we are able to realize deferred tax assets in excess of the net carrying value or to the extent we are unable to realize a deferred tax asset, we would adjust the valuation allowance in the period in which such a determination is made, with a corresponding increase or decrease to earnings.
+We record tax liabilities for uncertain tax positions taken, or expected to be taken, which may not be sustained or may only be partially sustained, upon examination by the relevant taxing authorities. We consider all relevant facts and current authorities in the tax law in assessing whether any benefit resulting from an uncertain tax position is more likely than not to be sustained and, if so, how current law impacts the amount reflected within these financial statements. If upon examination, we realize a tax benefit which is not fully sustained or is more favorably sustained, this would decrease or increase earnings in the period. In certain situations, we will have offsetting tax credits or taxes in other jurisdictions.
+Deferred taxes are established on the estimated foreign exchange gains or losses for foreign earnings that are not considered permanently reinvested, which will be recognized through cumulative translation adjustments as incurred. Ultimately, the working capital requirements of foreign affiliates will determine the amount of cash to be remitted from respective jurisdictions.
+Business Combinations
+We account for our business combinations using the acquisition method of accounting. The acquisition purchase price, including contingent consideration, if any, is allocated to the underlying identified, tangible and intangible assets, liabilities assumed and any non-controlling interest in the acquiree, based on their respective estimated fair values on the acquisition date. Any excess of purchase price over the fair value of net assets acquired, including identifiable intangible assets, is recorded as goodwill. The amounts and useful lives assigned to acquisition-related tangible and intangible assets impact the amount and timing of future amortization expense. We use various valuation techniques to determine fair value, primarily discounted cash flows analysis, relief-from-royalty and multi-period excess earnings for estimating the value of intangible assets. These valuation techniques included comparable company multiples, discount rates, growth projections and other assumptions of future business conditions. Determining the fair value of assets acquired, liabilities assumed, any non-controlling interest in the acquiree and the expected useful lives, requires management’s judgment. The significance of management’s estimates and assumptions is relative to the size of the acquisition. Our estimates are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable.
+MASTERCARD 2021 FORM 10-K 57
+PART II

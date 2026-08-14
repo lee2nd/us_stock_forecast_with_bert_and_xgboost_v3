@@ -1,0 +1,218 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing at the end of this Annual Report on Form 10-K.
+Some of the information contained in this discussion and analysis or set forth elsewhere in this Annual Report on Form 10-K,
+including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. As a result of many factors, including those factors set forth in the “Risk Factors” section of this Annual Report on Form 10-K,
+our actual results could differ materially from the results described in, or implied by, the forward-looking statements contained in the following discussion and analysis.
+Overview
+Magenta Therapeutics is a clinical-stage biotechnology company developing novel medicines to bring the curative power of stem cell transplants to more patients with blood cancers, genetic diseases and autoimmune diseases.
+Magenta’s drug development pipeline includes multiple product candidates designed to improve stem cell transplants. Our lead clinical program is designed to more efficiently and reliably mobilize and collect sufficient functional stem cells for use in stem cell transplantation, a process known as mobilization. We are also developing product candidates that are designed to deplete targeted cells in the bone marrow to make space for the bone marrow to receive newly transplanted stem cells, a process known as conditioning. Our mobilization program is intended to enable rapid, reliable, predictable and safe mobilization and collection of high numbers of functional stem cells for transplant. Magenta’s targeted conditioning programs are intended to enhance the efficacy of and/or reduce the dosing levels, intensity or, in some cases, even the need for chemotoxic agents.
+Stem cell transplant is an established and, for certain patients, can be a curative medical procedure that can reset a patient’s blood and immune system after the patient has received treatment for certain blood cancers, genetic diseases or autoimmune diseases. Stem cell transplants involve a three-step process: (i) stem cells are mobilized out of the patient’s or donor’s bone marrow and collected from the blood (or, in rare cases, surgically extracted from their bone marrow); (ii) the patient’s bone marrow is cleared of any remaining stem cells in order to make space to receive new transplanted stem cells; and (iii) the stem cells are transplanted into the patient via infusion where they fasten to, or engraft in, the bone marrow and grow into the blood cells and platelets that form the basis of a reset and rebuilt blood and immune system. All transplants are categorized as either autologous or allogeneic depending on the source of the new stem cells for the transplant. In an autologous transplant, the patient’s own stem cells are used. In an allogeneic transplant, patients receive cells from a stem cell donor.
+Stem cell transplant, whether autologous or allogeneic, has broad applicability across disease settings, including blood cancers, gene therapies for genetic diseases and autoimmune diseases. It is the current standard of care for certain blood cancers such as acute myeloid leukemia, or AML, myelodysplastic syndromes, or MDS, multiple myeloma and non-Hodgkin’s
+lymphoma. Hematopoietic stem cell, or HSC, -based gene therapies also rely on the same steps of the stem cell transplant process with an additional step where collected stem cells are gene-corrected or modified to address the underlying disease prior to transplant. Such gene therapy approaches that leverage the stem cell transplant procedure are being investigated by numerous companies in a variety of diseases, including sickle cell disease, beta-thalassemia and lysosomal storage disorders. Autoimmune diseases such as multiple sclerosis and systemic sclerosis may also benefit from resetting the immune system through stem cell transplant.
+Currently, the number of days required to mobilize and collect a patient’s or donor’s stem cells is a minimum of five days in blood cancer patients and healthy donors and as many as 30 days or more in patients with sickle cell disease. When planning for a patient’s transplant, transplanting physicians cannot reliably predict
+at the outset how long it will take for patients to mobilize the number of cells required. Many patients require multiple collections, including approximately 40% of blood cancer patients and 75% of sickle cell disease patients. In addition, each day scheduled for attempted mobilization and collection can cause an accumulation of both the direct costs associated with the repeated use of mobilization agents and other healthcare resources, including personnel time, and the indirect costs associated with the need to block time in the limited number of chairs in transplant centers that are used to collect stem cells. Similarly, HSC-based
+gene therapies could benefit from more efficient collection of stem cells which could potentially reduce gene therapy manufacturing timelines and costs. Additionally, there are no approved mobilization options for patients with sickle cell disease and autoimmune diseases, and the off-label
+use of currently available medicines is associated with significant safety risks including vaso-occlusive events in sickle cell disease patients.
+Magenta is developing MGTA-145
+for stem cell mobilization in a broad range of diseases, for both autologous and allogeneic transplants. MGTA-145
+is Magenta’s biologic stem cell mobilization product candidate designed to address these time and cost inefficiencies while enabling the rapid, reliable, predictable and safe collection of functional blood stem cells for transplant in a single day. In 2020, we completed a Phase 1 clinical trial in healthy volunteers to evaluate the ability of MGTA-145,
+in combination with plerixafor, to mobilize stem cells. Based on the results of the study, we have advanced the program into three ongoing and planned Phase 2 clinical trials, including an autologous transplant trial in multiple myeloma patients; an allogeneic transplant trial with healthy donor cells collected for transplant in patients with acute myeloid leukemia, myelodysplastic syndromes or acute lymphocytic leukemia, or ALL; and lastly, a planned trial in partnership with bluebird bio, Inc. to mobilize and collect the stem cells of sickle cell disease patients.
+In addition to the opportunity to address the challenges in mobilization and collection of stem cells, Magenta also seeks to improve patient conditioning prior to transplant. Conditioning is the process by which patients are treated with chemotherapy prior to transplant to ensure that the bone marrow has sufficient space to receive newly transplanted stem cells. Currently, only approximately 50% of eligible patients receive a stem cell transplant, in part because of the risks and toxicities of the chemotherapeutic agents available today. Magenta’s lead conditioning program, MGTA-117,
+is designed to selectively deplete stem cells and reduce the need for high-dose or high-intensity chemotherapeutic agents in oncology applications and potentially eliminate the use of busulfan in gene therapy applications. Our additional research-stage conditioning programs target stem and/or immune cells and are being designed to eliminate toxic chemotherapy conditioning regimens across multiple disease settings. Our C100 program focuses on addressing opportunities in immune reset for autoimmune diseases. Our C300 program is being designed to provide for lymphodepletion prior to cell therapies such as chimeric antigen receptor T cells, or CAR-T.
+Our G100 program is being designed to provide prophylaxis of graft-versus-host disease, a common post-transplant complication following allogeneic stem cell transplant.
+Magenta is also evaluating two programs with potential in cell therapy. Each is a small molecule used to manufacture a high number of functional stem cells, from either a donor or gene-modified stem cells from a patient. MGTA-456
+is a cell therapy designed to generate higher cell doses that are well matched to the patient, which has been shown to improve the speed and success of engraftment in stem cell transplant and improve disease outcomes. In June 2020, we announced that we discontinued enrollment in our Phase 2 trial of MGTA-456
+in inherited metabolic diseases. Enrollment in an investigator-initiated trial in patients with blood cancers has been completed, and we plan to use these data, when available, to inform a decision regarding future program development in blood cancers. Our second cell therapy program, E478, is a small molecule aryl hydrocarbon receptor, or AHR, antagonist which
+uses the same mechanism used to manufacture MGTA-456
+to expand gene-modified HSCs for stem cell-based gene therapy and genome editing.
+Magenta intends to become a fully integrated discovery, development and commercial company in the field of stem cell transplant. We are developing our product candidates to be used individually or, in some cases, in combination with each other. As a result, our portfolio could be tailored to the patient’s disease, such that a patient may receive more than one Magenta therapy as part of his or her individual stem cell transplant.
+We are experiencing operational and other challenges as a result of the novel coronavirus, or COVID-19,
+global pandemic, which could delay or halt the development of our product candidates. See “-Recent Developments” and “Item 1A. Risk Factors” for further discussion of the current and expected impact on our business and product candidates.
+Since our inception in 2015, we have focused substantially all of our efforts and financial resources on organizing and staffing our company, business planning, raising capital, acquiring and developing our technology, identifying potential product candidates, and undertaking preclinical studies, and in the case of MGTA-145
+and MGTA-456,
+clinical trials. We do not have any products approved for sale and have not generated any revenue from product sales.
+In June 2018, we completed an initial public offering of our common stock. In May 2019, we issued and sold 4,887,500 shares of our common stock, including the underwriters’ exercise in full of their option to purchase additional shares of common stock, in a follow-on
+public offering at a public offering price of $13.25 per share, resulting in net proceeds of $60.3 million after underwriting discounts and commissions and other offering expenses. In June 2020, we issued and sold 8,625,000 shares of our common stock, including the underwriters’ exercise in full of their option to purchase additional shares of common stock, in a follow-on
+public offering at a public offering price of $8.00 per share, resulting in net proceeds of $64.6 million after underwriting discounts and commissions and other offering expenses.
+Since our inception, we have incurred significant operating losses. Our ability to generate product revenue sufficient to achieve profitability will depend heavily on the successful development and eventual commercialization of one or more of our product candidates. Our net loss was $74.9 million and $76.8 million for the years ended December 31, 2020 and 2019, respectively. As of December 31, 2020, we had an accumulated deficit of $254.4 million. We expect to continue to incur significant expenses and increasing operating losses for at least the next several years. We expect our expenses and capital requirements will increase in connection with our ongoing activities, particularly as we:
+•
+initiate, enroll and conduct new Phase 2 clinical trials for MGTA-145;
+•
+initiate and conduct preclinical studies and clinical trials of our product candidates, including MGTA-117;
+•
+develop any other future product candidates we may choose to pursue;
+•
+seek marketing approval for any of our product candidates that successfully complete clinical development, if any;
+•
+maintain compliance with applicable regulatory requirements;
+•
+develop and scale up our capabilities to support our ongoing preclinical activities and clinical trials for our product candidates and commercialization of any of our product candidates for which we obtain marketing approval, if any;
+•
+maintain, expand, protect and enforce our intellectual property portfolio;
+•
+develop and expand our sales, marketing and distribution capabilities for our product candidates for which we obtain marketing approval, if any; and
+•
+expand our operational, financial and management systems and increase personnel, including to support our clinical development and commercialization efforts and our operations as a public company.
+We will not generate revenue from product sales unless and until we successfully complete clinical development and obtain regulatory approval for our product candidates. If we obtain regulatory approval for any of our product candidates, we expect to incur significant expenses related to developing our commercialization capability to support product sales, marketing and distribution. Further, we expect to incur additional costs associated with operating as a public company.
+As a result, we will need substantial additional funding to support our continuing operations and pursue our growth strategy. Until such time as we can generate significant revenue from product sales, if ever, we expect to finance our operations through a combination of equity offerings, debt financings, collaborations, strategic alliances and marketing and distribution or licensing arrangements. We may be unable to raise additional funds or enter into such other agreements or arrangements when needed on favorable terms, or at all. If we fail to raise capital or enter into such agreements as, and when, needed, we may have to significantly delay, scale back or discontinue the development and commercialization of one or more of our product candidates.
+Because of the numerous risks and uncertainties associated with pharmaceutical product development, we are unable to accurately predict the timing or amount of increased expenses or when or if we will be able to achieve or maintain profitability. Even if we are able to generate product sales, we may not become profitable. If we fail to become profitable or are unable to sustain profitability on a continuing basis, then we may be unable to continue our operations at planned levels and be forced to reduce or terminate our operations.
+As of December 31, 2020, we had cash, cash equivalents and marketable securities of $148.8 million. Based on our updated operating plan, we believe that our existing cash, cash equivalents and marketable securities will enable us to fund our operating expenses and capital expenditure requirements into the first quarter of 2023. See “-Liquidity and Capital Resources.”
+Impact of the COVID-19
+Pandemic
+On March 11, 2020, the World Health Organization declared COVID-19
+a global pandemic, and on March 13, 2020, the U.S. declared a national emergency with respect to COVID-19.
+The U.S. federal government subsequently issued initial 15-day
+social distancing guidelines which were in effect through April 30, 2020 as a measure to reduce the escalation of the spread of COVID-19
+in the U.S. More than 40 states and certain U.S. territories, including the Commonwealth of Massachusetts where our operations are located, followed suit and instituted quarantines, restrictions on travel, “stay at home” rules, restrictions on types of businesses that may continue to operate and restrictions on the types of construction projects that may continue. As a result, the COVID-19
+pandemic has caused significant disruptions to the U.S., regional and global economies and has contributed to significant volatility and negative pressure in financial markets.
+We have been carefully monitoring the COVID-19
+pandemic and its potential impact on our business and have taken important steps to help ensure the safety of our employees and their families and to reduce the spread of COVID-19
+in the Cambridge community. We have established a work-from-home policy for all employees, other than those who are performing or supporting business-critical research and development operations, such as certain members of our laboratory and facilities staff. For those employees, we have implemented stringent safety measures designed to comply with applicable federal, state and local guidelines instituted in response to the COVID-19
+pandemic. We have also maintained efficient communication with our partners and clinical sites as the COVID-19
+pandemic has progressed. We have taken these precautionary steps while maintaining business continuity so that we can continue to progress our programs.
+The future impact of the COVID-19
+pandemic on our industry, the healthcare system and our current and future operations and financial condition will, however, depend on future developments, which are highly uncertain and cannot be predicted with confidence, including the scope, severity and duration of the pandemic, the actions taken to contain the pandemic or mitigate its impact, as well as the effect of any relaxation of current restrictions within the Cambridge community or regions in which our partners and clinical sites are located, and the direct and indirect economic effects of the pandemic and containment measures, among others. See “Item 1A. Risk Factors” for a discussion of the potential adverse impact of COVID-19
+on our business, results of operations and financial condition.
+Components of Our Results of Operations
+Operating Expenses
+Research and Development Expenses
+Research and development expenses consist primarily of costs incurred for our research activities, including our drug discovery efforts, and the development of our product candidates, which include:
+•
+employee-related expenses, including salaries and related costs, and stock-based compensation expense, for employees engaged in research and development functions;
+•
+expenses incurred in connection with the preclinical and clinical development of our product candidates, including under agreements with contract research organizations, or CROs;
+•
+the cost of consultants and contract manufacturing organizations, or CMOs, that manufacture drug products for use in our preclinical studies and clinical trials;
+•
+facilities, depreciation and other expenses, which include direct and allocated expenses for rent and maintenance of facilities, insurance and supplies; and
+•
+payments made under third-party licensing agreements.
+We expense research and development costs to operations as incurred. Advance payments for goods or services to be received in the future for use in research and development activities are recorded as prepaid expenses. The prepaid amounts are expensed as the related goods are delivered or the services are performed.
+Our direct research and development expenses are tracked on a program-by-program
+basis and consist primarily of external costs, such as fees paid to consultants, central laboratories, contractors, CMOs and CROs in connection with our preclinical and clinical development activities. We do not allocate employee costs, costs associated with our platform technology or facility expenses, including depreciation or other indirect costs, to specific product development programs because these costs are deployed across multiple product development programs and, as such, are not separately classified.
+The successful development and commercialization of our product candidates is highly uncertain. This is due to the numerous risks and uncertainties, including the following:
+•
+the continuing impact of the COVID-19
+pandemic on our industry, the healthcare system, and our current and future operations;
+•
+successful completion of preclinical studies and clinical trials;
+•
+receipt and related terms of marketing approvals from applicable regulatory authorities;
+•
+raising additional funds necessary to complete clinical development of and commercialize our product candidates;
+•
+obtaining and maintaining patent, trade secret and other intellectual property protection and regulatory exclusivity for our product candidates;
+•
+making arrangements with third-party manufacturers, or establishing manufacturing capabilities, for both clinical and commercial supplies of our product candidates;
+•
+developing and implementing marketing and reimbursement strategies;
+•
+establishing sales, marketing and distribution capabilities and launching commercial sales of our products, if and when approved, whether alone or in collaboration with others;
+•
+acceptance of our products, if and when approved, by patients, the medical community and third-party payors;
+•
+effectively competing with other therapies;
+•
+obtaining and maintaining third-party coverage and adequate reimbursement;
+•
+protecting and enforcing our rights in our intellectual property portfolio; and
+•
+maintaining a continued acceptable safety profile of the products following approval.
+A change in the outcome of any of these variables with respect to the development of any of our product candidates would significantly change the costs and timing associated with the development of that product candidate. We may never succeed in obtaining regulatory approval for any of our product candidates.
+Research and development activities are central to our business model. Product candidates in later stages of clinical development generally have higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. We expect research and development costs to increase significantly for the foreseeable future as our product candidate development programs progress. However, we do not believe that it is possible at this time to accurately project total program-specific expenses through commercialization. There are numerous factors associated with the successful commercialization of any of our product candidates, including future trial design and various regulatory requirements, many of which cannot be determined with accuracy at this time based on our stage of development. Additionally, future commercial and regulatory factors beyond our control will impact our clinical development programs and plans.
+General and Administrative Expenses
+General and administrative expenses consist primarily of salaries and related costs, and stock-based compensation, for personnel in executive, finance and administrative functions. General and administrative expenses also include direct and allocated facility-related costs and insurance costs, as well as professional fees for legal, patent, consulting, accounting and audit services.
+We anticipate that our general and administrative expenses will increase in the future as we increase our headcount to support our continued research activities and development of our product candidates. We also anticipate that we will incur increased costs associated with continuing to operate as a growing public company.
+Interest and Other Income, Net
+Interest and other income, net, consists of interest income and miscellaneous income and expense unrelated to our core operations.
+Income Taxes
+Since our inception, we have not recorded any U.S. federal or state income tax benefits for the net losses we have incurred in each year or for our earned research and orphan drug tax credits, due to our uncertainty of realizing a benefit from those items. As of December 31, 2020, we had net operating loss carryforwards for federal income tax purposes of $182.3 million, of which $17.5 million begin to expire in 2035 and $164.8 million can be carried forward indefinitely. As of December 31, 2020, we had net operating loss carryforwards for state income tax purposes of $184.6 million which begin to expire in 2035. As of December 31, 2020, we also had available research and orphan drug tax credit carryforwards for federal and state income tax purposes of $8.4 million and $2.0 million, respectively, which begin to expire in 2035 and 2030, respectively.
+Critical Accounting Policies and Significant Judgments and Estimates
+Our consolidated financial statements are prepared in accordance with generally accepted accounting principles in the U.S., or GAAP. The preparation of our consolidated financial statements and related disclosures requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, costs and expenses, and the disclosure of contingent assets and liabilities in our consolidated financial statements. We base our estimates on historical experience, known trends and events and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates under different assumptions or conditions.
+While our significant accounting policies are described in more detail in Note 2 to our consolidated financial statements included in this Annual Report on Form 10-K,
+we believe that the following accounting policies are those most critical to the judgments and estimates used in the preparation of our consolidated financial statements.
+Research and Development Expenses
+As part of the process of preparing our consolidated financial statements, we are required to estimate our accrued research and development expenses. This process involves reviewing open contracts and purchase orders, communicating with our applicable personnel to identify services that have been performed on our behalf and estimating the level of service performed and the associated cost incurred for the service when we have not yet been invoiced or otherwise notified of actual costs. The majority of our service providers invoice us in arrears for services performed, on a pre-determined
+schedule or when contractual milestones are met; however, some require advance payments. We make estimates of our accrued expenses as of each balance sheet date in the consolidated financial statements based on facts and circumstances known to us at that time. We periodically confirm the accuracy of the estimates with the service providers and make adjustments if necessary. Examples of estimated accrued research and development expenses include fees paid to:
+•
+vendors in connection with the preclinical development activities;
+•
+CROs in connection with preclinical and clinical trials;
+•
+CMOs in connection with the production of preclinical and clinical trial materials; and
+•
+investigative sites in connection with clinical trials.
+We base our expenses related to preclinical studies and clinical trials on our estimates of the services received and efforts expended pursuant to quotes and contracts with multiple research institutions and CROs that conduct and manage preclinical studies and clinical trials on our behalf. The financial terms of these agreements are subject to negotiation, vary from contract to contract and may result in uneven payment flows. There may be instances in which payments made to our vendors will exceed the level of services provided and result in a prepayment of the expense. In accruing service fees, we estimate the time period over which services will be performed and the level of effort to be expended in each period. If the actual timing of the performance of services or the level of effort varies from the estimate, we adjust the accrual or prepaid expense accordingly. Although we do not expect our estimates to be materially different from amounts actually incurred, our understanding of the status and timing of services performed relative to the actual status and timing of services performed may vary and may result in reporting amounts that are too high or too low in any particular period. To date, there have not been any material adjustments to our prior estimates of accrued research and development expenses.
+Stock-Based Compensation
+We measure all stock options and other stock-based awards granted to employees, directors and non-employees
+based on the fair value on the date of the grant and recognize compensation expense of those awards over the requisite service period, which is generally the vesting period of the respective award. Generally, we issue awards with either service-only vesting conditions and record expense using the straight-line method or service and performance vesting conditions and record expense when achievement of the performance condition becomes probable using the graded-vesting method. We have historically granted stock options with exercise prices equivalent to the fair value of our common stock as of the date of the grant. The fair value of our common stock is based on quoted market prices. We estimate the fair value of each stock option award using the Black-Scholes option-pricing model, which uses as inputs the fair value of our common stock and assumptions we make for the volatility of our common stock, the expected term of our stock options, the risk-free interest rate for a period that approximates the expected term of our stock options and our expected dividend yield. We do not estimate and apply a forfeiture rate as we have elected to account for forfeitures as they occur.
+Results of Operations
+Comparison of the Years Ended December 31, 2020 and 2019
+The following table summarizes our results of operations for the years ended December 31, 2020 and 2019:
+Research and Development Expenses
+Expenses related to our conditioning program decreased primarily due to lower process development and manufacturing costs. In 2019, we incurred higher manufacturing costs to support our IND-enabling
+studies and future clinical trials. The decrease in expenses related to our mobilization program was primarily due to a
+decrease in clinical trial costs for our MGTA-145
+Phase 1 clinical trials which were completed in the first quarter of 2020. Expenses related to our cell therapy program decreased primarily due to the completion of the investigator-initiated Phase 2 clinical trial of MGTA-456 in
+patients with blood cancers in the second quarter of 2020 and the discontinuance of the Phase 2 trial in inherited metabolic diseases in June 2020.
+The increase in personnel related costs was primarily due to the hiring of more senior level employees in our research and development function. The decrease in consultant costs was primarily due to a decrease in stock-based compensation. Consultant costs for the year ended December 31, 2020 and 2019 included stock-based compensation expense of $0.5 million and $1.6 million, respectively.
+General and Administrative Expenses
+The increase in personnel related costs was due primarily to an increase in headcount to support our business including an increase in stock-based compensation. Personnel related costs for the year ended December 31, 2020 and 2019 included stock-based compensation expense of $6.3 million and $5.4 million, respectively. The increase in professional and consultant costs was primarily due to an increase in patent related legal costs. The increase in facility related and other was primarily due to an increase in director and officer insurance and recruiting costs.
+Interest and Other Income, Net
+The decrease in interest and other income, net was primarily due to a decrease in interest income of $2.5 million resulting from lower interest rates on invested balances.
+Liquidity and Capital Resources
+Since our inception, we have incurred significant operating losses. We have not yet commercialized any of our product candidates and we do not expect to generate revenue from sales of any product candidates for several years, if at all. In June 2018, we completed the IPO of our common stock. In May 2019, we issued and sold 4,887,500 shares of our common stock, including the underwriters’ exercise in full of their option to purchase additional shares of common stock, in a follow-on
+public offering at a public offering price of $13.25 per share, resulting in net proceeds of $60.3 million after deducting underwriting discounts and commissions and other offering expenses. In June 2020, we issued and sold 8,625,000 shares of our common stock, including the underwriters’ exercise in full of their option to purchase additional shares of common stock, in a follow-on
+public offering at a public offering price of $8.00 per share, resulting in net proceeds of $64.6 million after deducting underwriting discounts and commission and other offering expenses.
+On August 8, 2019, we filed a shelf registration statement on Form S-3,
+or Shelf, with the Securities and Exchange Commission, or SEC, which covers the offering, issuance and sale by us of up to an aggregate of $350.0 million of our common stock, preferred stock, debt securities, warrants and/or units of any combination thereof. We simultaneously entered into a sales agreement with Cowen and Company, LLC, as sales agent, to provide for the issuance and sale by the Company of up to $100.0 million of our common stock from time to time in “at-the-market”
+offerings under the Shelf, which we refer to as the ATM Program. The Shelf was declared effective by the SEC on August 19, 2019. As of December 31, 2020, no sales have been made pursuant to the ATM Program.
+Cash Flows
+The following table summarizes our sources and uses of cash for each of the periods presented:
+Operating Activities
+During the year ended December 31, 2020, operating activities used $64.0 million of cash, primarily resulting from our net loss of $74.9 million and net cash used by changes in our operating assets and liabilities of $1.2 million, partially offset by non-cash
+charges of $12.1 million. Net cash used by changes in our operating assets and liabilities for the year ended December 31, 2020 consisted of a decrease of $2.7 million in accounts payable and accrued expenses and other current liabilities, partially offset by a decrease of $1.4 million in prepaid expenses and other current assets.
+During the year ended December 31, 2019, operating activities used $57.1 million of cash, primarily resulting from our net loss of $76.8 million, partially offset by non-cash
+charges of $10.8 million and cash provided by changes in our operating assets and liabilities of $8.8 million. Net cash provided by changes in our operating assets and liabilities for the year ended December 31, 2019 consisted primarily of a $5.0 million increase in deferred rent and a $5.2 million increase in accounts payable and accrued expenses and other current liabilities, partially offset by an increase of $1.4 million in prepaid expenses and other current assets.
+Changes in accounts payable, accrued expenses and other current liabilities and prepaid expenses in both periods were generally due to the timing of vendor invoicing and payments.
+Investing Activities
+During the year ended December 31, 2020, net cash used by investing activities was primarily attributable to net purchases of marketable securities of $10.2 million.
+During the year ended December 31, 2019, net cash provided by investing activities was primarily attributable to net maturities of marketable securities of $4.6 million, partially offset by purchases of property and equipment of $3.1 million, consisting primarily of lab equipment and leasehold improvements.
+Financing Activities
+During the year ended December 31, 2020, net cash provided by financing activities was $67.7 million, consisting of proceeds from our follow-on
+public offering, net of underwriting discounts and commissions and offering costs, of $64.6 million and proceeds from the exercise of stock options of $3.1 million.
+During the year ended December 31, 2019, net cash provided by financing activities was $62.3 million, consisting of proceeds from our follow-on
+public offering, net of underwriting discounts, commissions and offering costs, of $60.3 million and proceeds from the exercise of stock options of $2.0 million.
+Funding Requirements
+We expect our expenses to increase substantially in connection with our ongoing activities, particularly as we advance the preclinical activities and clinical trials for our product candidates in development. In addition, we expect to incur additional costs associated with operating as a public company. The timing and amount of our operating expenditures will depend largely on:
+•
+the initiation, progress, timing, costs and results of current and future preclinical studies and clinical trials for our product candidates, including the continuing impact of the COVID-19
+pandemic on our operations;
+•
+the clinical development plans we establish for these product candidates;
+•
+the number and characteristics of product candidates that we develop or may in-license;
+•
+the terms of any collaboration agreements we may choose to conclude;
+•
+the outcome, timing and cost of meeting and maintaining compliance with regulatory requirements established by the Food and Drug Administration, the European Medical Agency and other comparable foreign regulatory authorities;
+•
+the cost of filing, prosecuting, defending and enforcing our patent claims and other intellectual property rights;
+•
+the cost of defending intellectual property disputes, including patent infringement actions brought by third parties against us;
+•
+the effect of existing or new competing technological and market developments;
+•
+the cost and timing of completion of commercial-scale outsourced manufacturing activities; and
+•
+the cost of establishing sales, marketing and distribution capabilities for any product candidates for which we may receive regulatory approval in regions where we choose to commercialize our products on our own.
+As of December 31, 2020, we had cash, cash equivalents and marketable securities of $148.8 million. We believe that our existing cash, cash equivalents and marketable securities will enable us to fund our operating expenses and capital expenditure requirements into the first quarter of 2023. We have based these estimates on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we expect. Because of the numerous risks and uncertainties associated with research, development and commercialization of pharmaceutical product candidates, we are unable to estimate the exact amount of our working capital requirements. Our future funding requirements will depend on and could increase significantly as a result of many factors, including those listed above.
+Until such time, if ever, as we can generate substantial product revenue, we expect to finance our operations through a combination of equity offerings, including sales under our ATM Program, debt financings, collaborations, strategic alliances and marketing, distribution or licensing arrangements. We do not currently have any committed external source of funds. To the extent that we raise additional capital through the sale of equity or convertible debt securities, our stockholders’ ownership interest will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect our stockholders’ rights as a common stockholder. Debt financing and preferred equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making acquisitions or capital expenditures or declaring dividends. If we raise additional funds through collaborations, strategic alliances or marketing, distribution or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or product candidates or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings or other arrangements when needed, we may be required to delay, limit, reduce or terminate
+our research, product development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves. Although we continue to pursue these plans, there is no assurance that we will be successful in obtaining sufficient funding on terms acceptable to us to fund continuing operations, if at all.
+Off-Balance
+Sheet Arrangements
+We did not have during the periods presented, and we do not currently have, any off-balance
+sheet arrangements, as defined in the rules and regulations of the SEC.
+Recently Issued and Adopted Accounting Pronouncements
+A description of recently issued accounting pronouncements that may potentially impact our financial position and results of operations is disclosed in Note 2 to our consolidated financial statements included in this Annual Report on Form 10-K.

@@ -1,0 +1,995 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Introduction
+Overview
+Frontier Communications Corporation (we, us, our, Frontier, or the Company, and following the reorganization pursuant to the Plan (as defined below), the Reorganized Company) is a leading provider of communications services in the United States. As of December 31, 2020, Frontier operates in 25 states and serves approximately 3.6 million customers, including 3.1 million broadband subscribers. We provide a broad portfolio of communications services, including data and internet services, video services, voice services, access services, and advanced hardware and network solutions for our consumer and commercial customers.
+Following in-depth analysis and engagement with our stakeholders, we are pursuing a transformative restructuring process focused on restructuring the balance sheet, improving Frontier’s operations to better serve our customers, strategically repositioning Frontiers’ business to expand our fiber footprint nationally, and improving our leadership team through the acquisition of key talent.
+Balance Sheet Restructuring
+On April 14, 2020, Frontier and its subsidiaries (collectively, the Company Parties or the Debtors and, as they may be reorganized pursuant to the Plan, the Reorganized Company Parties or the Reorganized Debtors) entered into a Restructuring Support Agreement (the Restructuring Support Agreement) with certain of its noteholders (the Consenting Noteholders) to facilitate the financial restructuring (the Restructuring) of the existing debt of, existing equity interests in, and certain other obligations of the Company Parties. In connection therewith, on April 14, 2020 (the Petition Date), the Company Parties commenced cases under chapter 11 (the Chapter 11 Cases) of title 11 of the United States Code (the Bankruptcy Code) in the U.S. Bankruptcy Court for the Southern District of New York (the Bankruptcy Court).
+On May 15, 2020, the Company Parties filed a proposed Joint Plan of Reorganization and related Disclosure Statement, each of which were amended on June 26, 2020, June 29, 2020 and June 30, 2020. On May 15, 2020, the Debtors also filed a proposed order approving the Disclosure Statement and various plan solicitation materials, including the solicitation and voting procedures, which was revised on June 29, 2020 (including modifications to some of the exhibits). On June 30, 2020, the Bankruptcy Court entered the modified order approving the adequacy of the Disclosure Statement and the solicitation and notice procedures and the forms of voting ballots and notices in connection therewith. The order established June 29, 2020 as the voting record date, July 2, 2020 as the solicitation launch date and July 31, 2020 as the voting deadline. On August 21, 2020, the Company Parties filed the Fifth Amended Joint Plan of Reorganization of Frontier Communications Corporation and Its Debtor Affiliates Pursuant to Chapter 11 of the Bankruptcy Code (the Plan) with the Bankruptcy Court.
+On August 27, 2020, the Bankruptcy Court entered the Order Confirming the Fifth Amended Joint Plan of Reorganization of Frontier Communications Corporation and its Debtor Affiliates Pursuant to Chapter 11 of the Bankruptcy Code (the Confirmation Order), which approved and confirmed the Plan. The effective date of the Plan will occur once all conditions precedent to the Plan have been satisfied (the Effective Date).
+Upon emergence from the Chapter 11 Cases, execution of the Plan will accomplish three strategic goals:
+Enable Frontier to become a stronger partner for customers to keep them connected to what matters most.
+Provide significant financial flexibility to accelerate transformation, invest in infrastructure, and drive operational efficiencies.
+Significantly improve Frontier’s capital structure and reduce outstanding debt by more than $10 billion.
+We expect to emerge from bankruptcy with a meaningfully deleveraged balance sheet and ample liquidity, through a reduction of debt and annual interest expense that will provide financial flexibility to pursue operational and strategic initiatives.
+During the Chapter 11 Cases, Frontier is allowed to reorganize its finances while the business operations continue. The Company Parties continue to operate their businesses and manage their properties as “debtors-in-possession” under the jurisdiction of the Bankruptcy Court and in accordance with the applicable provisions of the Bankruptcy Code and orders of the Bankruptcy Court. For further developments on this topic, see “(b) Liquidity and Capital Resources-Chapter 11 Cases and Other Related Matters.”
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+2020 Results
+During the year ended December 31, 2020, Frontier reported operating income of $959 million and a net loss of $402 million. This compares to an operating loss of $4,873 million and a net loss of $5,911 million reported for the year ended December 31, 2019. Our 2020 results reflect $409 million of reorganization charges, a $162 million loss related to the sale our Northwest Operations described above, and $762 million of interest expense. Our 2019 results reflected goodwill impairment charges of $5,725 million, Interest expense of $1,535 million, a $446 million loss related to the sale of our Northwest Operations, and $168 million of Restructuring costs and other charges.
+Reductions in certain expenses were the primary drivers for the improvement in our Operating Loss and Net Loss year over year. Reductions in our recognized goodwill impairment charges, losses related to the sale of our Northwest Operations, Restructuring and other costs, and interest expense, more than offset increases in Reorganization items, in 2020 compared to 2019. Our lower interest expense was a result of contractual interest attributable to our unsecured noteholders of $720 million that was not recorded, as we do not expect those amounts to be paid.
+Going Concern
+In connection with the preparation of our consolidated financial statements, we conducted an evaluation as to whether there were conditions and events, considered in the aggregate, which raised substantial doubt as to the Company’s ability to continue as a going concern. As reflected in our consolidated financial statements, the Company had unrestricted cash and cash equivalents of $1,829 million and an accumulated deficit of $8,975 million as of December 31, 2020.
+Our ability to continue as a going concern is contingent upon, among other things, our ability to, subject to the Bankruptcy Court’s approval, implement the Plan, successfully emerge from the Chapter 11 Cases and generate sufficient liquidity from the Restructuring to meet our obligations and operating needs. As a result of risks and uncertainties related to (i) the Company’s ability to successfully consummate the Plan and emerge from the Chapter 11 Cases, and (ii) the effects of disruption from the Chapter 11 Cases making it more difficult to maintain business, financing and operational relationships, together with the Company’s recurring losses from operations and accumulated deficit, substantial doubt exists regarding our ability to continue as a going concern.
+See Note 1 of the Notes to Consolidated Financial Statements for further discussion of the Company’s ability to continue as a going concern. See “-(b) Liquidity and Capital Resources” and Note 3 of the Notes to Consolidated Financial Statements for more information on the Restructuring and our limited liquidity.
+Recent Events
+Divestiture of Northwest Operations
+On May 1, 2020, we completed the sale of our Northwest Operations for gross proceeds of $1,352 million, subject to certain closing adjustments. Net of funding certain pension and other retiree medical liabilities, funding certain escrows and other closing adjustments, we received $1,131 million in proceeds.
+DIP Financing
+On August 28, 2020, the Company Parties filed a motion (the DIP Financing Motion) with the Bankruptcy Court to approve the indentures, credit guarantee and security documents governing the obligations under senior secured superpriority first lien and/or second lien notes to be issued by the Company or an affiliate thereof, a debtor-in-possession (DIP) revolving facility and the exit revolving facility (the Exit Revolving Facility) it would convert into upon satisfaction of certain conditions, including the effectiveness of the Plan, a DIP term loan facility and the exit term loan facility it would convert into upon satisfaction of certain conditions, including the effectiveness of the Plan (the Exit Term Loan Facility) and, if applicable, the reinstated prepetition $1,740 million senior secured term loan B facility (the Term Loan B) due June 15, 2024 (collectively, the DIP Financing). On September 17, 2020, the Bankruptcy Court entered the final order approving the DIP Financing Motion.
+Debt Refinancing
+On September 17, 2020, we repaid the $749 million of outstanding principal under the Company’s $850 million secured revolving credit facility maturing on February 27, 2024 (the Revolver), plus accrued interest. The repayment in full of all revolving loans outstanding under the JPM Credit Agreement was a condition precedent to the entry into the DIP Revolving Facility (defined below), and the Revolver was terminated on October 8, 2020 upon entry into the DIP revolving Facility.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+In connection with the DIP Financing, on October 8, 2020, we issued $1,150 million aggregate principal amount of 5.875% First Lien Secured Notes due October 15, 2027 (the First Lien Notes due October 2027), and entered into a $625 million DIP revolving facility (the DIP Revolving Facility) and a $500 million DIP term loan facility (the Initial DIP Term Loan Facility). We used the proceeds from the offering of the First Lien Notes due October 2027, together with the proceeds of the Initial DIP Term Loan Facility and cash on hand, to (i) repay in full our prepetition $1,650 million aggregate principal amount of 8.000% First Lien Secured Notes due April 1, 2027 (the Original First Lien Notes) and (ii) pay related interest, fees and expenses.
+In connection with the DIP Financing, on November 25, 2020, we also issued $1,550 million aggregate principal amount of 5.000% First Lien Secured Notes due May 1, 2028 (the First Lien Notes due May 2028 and, together with the First Lien Notes due October 2027, the New First Lien Notes) and $1,000 million aggregate principal amount of 6.750% Second Lien Secured Notes due May 1, 2029 (the New Second Lien Notes and, together with the New First Lien Notes, the Secured Notes), and borrowed an incremental $750 million pursuant to the Incremental DIP Term Loan Facility. We used the proceeds from these issuances and the incremental term loan borrowing, together with cash on hand to (i) repay all outstanding borrowings under the Term Loan B, (ii) repay in full the $1,600 million aggregate principal amount of prepetition 8.500% Second Lien Secured Notes due April 1, 2026 (the Original Second Lien Notes), and (iii) pay related interest, fees and expenses incurred in connection therewith.
+RDOF Auction Results
+The FCC held the RDOF Phase I auction from October 29, 2020 through November 25, 2020 and announced the results on December 7, 2020. Frontier won approximately $371 million over ten years to build gigabit-capable broadband over a fiber-to-the-premises network to approximately 127,000 locations across eight states (California, Connecticut, Florida, Illinois, New York, Pennsylvania, Texas, and West Virginia). Frontier submitted its Long Form application to the FCC on January 29, 2021 and, assuming the long-form application is granted by the FCC, anticipates that it will begin receiving funding on January 1, 2022, in which case, Frontier will be required to complete the buildout to these locations by December 31, 2027, with interim target milestones over this period.
+Impact of COVID-19 Pandemic
+While overall the operational and financial impacts to our business of the COVID-19 pandemic for the year ended December 31, 2020 were not significant, we continue to closely monitor the ongoing impact to our employees, our customers, our business and our results of operations. We have experienced a slowdown in service activations and an increase in deactivations for our SMB customers; to date, these negative impacts have been partially offset by higher net residential activations and lower churn. We also continue to closely track our customers’ payment activity as well as external factors, including the expiration of federal stimulus legislation which could materially impact payment trends. With more people working from home, we have experienced higher demands on our network and higher net activations for our residential broadband service offering. This sustained increase in network demand could lead to reduced network availability and potential outages, which may impair our ability to meet customer service level commitments, lead to higher costs, higher customer churn and potential increased regulatory actions. These potential changes, among others, could have a material financial impact to Frontier. See “Risk Factors - Risks Related to our Business - The effects of COVID-19, including its impact on market conditions, may adversely impact our business and hinder our exit financing and our ability to emerge from Chapter 11” and Note 1 of the Notes to Consolidated Financial Statements for further discussion of the COVID-19 Pandemic.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Presentation of Results of Operations
+The sections below include tables that present customer counts, average monthly consumer revenue per customer (ARPC) and consumer customer churn. We define churn as the number of consumer customer deactivations during the month divided by the number of consumer customers at the beginning of the month and utilize the average of each monthly churn in the period.
+Management believes that consumer customer counts and average monthly consumer revenue per customer are important factors in evaluating our consumer customer trends. Among the key services we provide to consumer customers are voice service, data service and video service. We continue to explore the potential to provide additional services to our customer base, with the objective of meeting our customers’ communications needs.
+On November 19, 2020, the SEC issued a final rule that modernizes and simplifies Management’s Discussion and Analysis (MD&A) and certain financial disclosure requirements in SEC Regulation S-K. The changes include the elimination of Regulation S-K, Item 301, “Selected Financial Data”, Simplification of Regulation S-K, Item 302, “Supplementary Financial Information”, Amendments to certain aspects of Regulation S-K, Item 303, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” The rule is effective February 10, 2021, but compliance is not required until the annual report for the fiscal year ending on or after August 9, 2021, with early adoption permitted. We have not adopted these changes in our MD&A disclosures as of December 31, 2020.
+The following section should be read in conjunction with the consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K.
+‎
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+(a) Results of Operations
+2020 compared to 2019
+Unless otherwise indicated, the discussion of the customer metrics and components of operating income that follows relates only to the Remaining Properties.
+Customer Trends
+As of or for the year ended
+December 31, 2020
+December 31, 2019
+% Change
+Consolidated
+Northwest
+Remaining
+Consolidated
+Northwest
+Remaining
+Remaining
+Frontier
+Ops
+Properties
+Frontier
+Ops
+Properties
+Properties
+Customers (in thousands)
+3,571
+N/A
+N/A
+4,118
+N/A
+N/A
+N/A
+Consumer customer metrics
+Customers (in thousands)
+3,264
+-
+3,264
+3,747
+3,412
+(4)
+%
+Net customer additions (losses)
+(483)
+(335)
+(148)
+(313)
+(23)
+(290)
+(49)
+%
+Average monthly consumer
+revenue per customer
+$
+86.65
+$
+76.74
+$
+86.97
+$
+88.70
+$
+77.23
+$
+89.82
+(3)
+%
+Customer monthly churn
+1.73%
+1.51%
+1.74%
+2.07%
+1.74%
+2.11%
+(18)
+%
+Commercial customer metrics
+Customers (in thousands)
+N/A
+N/A
+N/A
+N/A
+N/A
+Broadband subscriber metrics
+(in thousands)
+Broadband subscribers
+3,069
+-
+3,069
+3,513
+3,211
+(4)
+%
+Net subscriber additions (losses)
+(444)
+(302)
+(142)
+(222)
+(16)
+(206)
+(31)
+%
+Video (excl. Dish) subscriber metrics
+(in thousands)
+Video subscribers (in thousands)
+-
+(23)
+%
+Net subscriber additions (losses)
+(175)
+(29)
+(146)
+(178)
+(9)
+(169)
+(14)
+%
+Dish subscriber metrics
+(in thousands)
+Dish subscribers (in thousands)
+-
+(14)
+%
+Net subscriber additions (losses)
+(39)
+(17)
+(22)
+(32)
+(3)
+(29)
+(24)
+%
+Employees
+16,200
+-
+16,200
+18,317
+`
+17,367
+(7)
+%
+We provide service and product options in our consumer and commercial offerings in each of our markets.
+Consumer Customers
+For the year ended December 31, 2020, Frontier lost 148,000, or 4% of our consumer customers, compared to 290,000, or 8% in 2019. As of December 31, 2020, 50% of our consumer broadband customers also subscribed to at least one other service offering. We lost 2% of our consumer broadband subscribers, with losses of copper broadband subscribers (primarily to competitors offering higher speeds), partially offset by gains in fiber broadband subscribers (six consecutive quarters of fiber broadbands subscriber gains). We experienced a 21% decline in our video subscribers primarily as a result of customers increasingly opting for other video services including Over the Top, in lieu of traditional video services. We also shifted our focus away from the acquisition of higher cost video customers. During 2020, we lost voice subscribers as a result of customers choosing alternative voice products and reduced attachment to broadband services.
+Our average monthly consumer customer churn was 1.74% for the year ended December 31, 2020 compared to 2.11% for 2019. The consolidated average monthly consumer revenue per customer (consumer ARPC) decreased by $2.85 or 3% to $86.97 during 2020 compared to the prior year. The overall decrease in consumer ARPC is primarily a result of a decreased percentage of customers taking linear video services along with decreased consumer voice services, slightly offset by increased data equipment revenues.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Financial Results
+For the year ended
+December 31, 2020
+December 31, 2019
+% Change
+Consolidated
+Northwest
+Remaining
+Consolidated
+Northwest
+Remaining
+Consolidated
+Remaining
+Frontier
+Ops (1)
+Properties
+Frontier
+Ops (2)
+Properties
+Frontier
+Properties
+Data and Internet services
+$
+3,478
+$
+$
+3,376
+$
+3,756
+$
+$
+3,446
+-7%
+-2%
+Voice services
+2,085
+2,028
+2,500
+2,315
+-17%
+-12%
+Video services
+1,005
+-21%
+-19%
+Other
+-10%
+-5%
+Revenue from contracts
+with customers
+6,781
+6,597
+7,738
+7,158
+-12%
+-8%
+Subsidy and other revenue
+1%
+6%
+Revenue
+7,155
+6,963
+8,107
+7,502
+-12%
+-7%
+Operating expenses (3):
+Network access
+expenses
+1,247
+1,196
+-22%
+-20%
+Network related
+expenses
+1,726
+1,700
+1,810
+1,732
+-5%
+-2%
+Selling, general and
+administrative
+expenses
+1,648
+1,622
+1,804
+1,731
+-9%
+-6%
+Depreciation and
+amortization
+1,598
+-
+1,598
+1,780
+1,720
+-10%
+-7%
+Goodwill impairment
+-
+-
+-
+5,725
+-
+5,725
+-100%
+-100%
+Loss on disposal of
+Northwest Operations
+-
+-
+-64%
+-64%
+Restructuring costs and
+other charges
+-
+-48%
+-48%
+Total operating expenses
+$
+6,196
+$
+$
+6,130
+$
+12,980
+$
+$
+12,716
+-52%
+-52%
+Operating income (loss)
+(4,873)
+(5,214)
+-120%
+-116%
+Consumer
+3,586
+3,484
+4,153
+3,831
+-14%
+-9%
+Commercial
+3,195
+3,113
+3,585
+3,327
+-11%
+-6%
+Revenue from contracts
+with customers
+6,781
+6,597
+7,738
+7,158
+-12%
+-8%
+Subsidy and other revenue
+1%
+6%
+Total revenue
+$
+7,155
+$
+$
+6,963
+$
+8,107
+$
+$
+7,502
+-12%
+-7%
+(1)Amounts represent the financial results of the Northwest Operations for the four months ended April 30, 2020.
+(2)Amounts represent the financial results of the Northwest Operations for the year ended December 31, 2019.
+(3)Operating expenses for the Northwest Operations do not include allocated expenses which are included in operating expenses for our Remaining Properties.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+The following charts present key customer metrics, disaggregation of revenue, and the results of operations of the consolidated company excluding the Northwest Operations (Northwest Ops) through the date of sale. The results of operations for the Northwest Operations are shown separate from the total for our operations located in the remaining 25 states (Remaining Properties).
+REVENUE
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Data and Internet services
+$
+3,376
+$
+3,446
+$
+(70)
+(2)
+%
+Voice services
+2,028
+2,315
+(287)
+(12)
+%
+Video services
+(183)
+(19)
+%
+Other
+(21)
+(5)
+%
+Revenue from contracts with customers (1)
+6,597
+7,158
+(561)
+(8)
+%
+Subsidy revenue
+%
+Total revenue
+$
+6,963
+$
+7,502
+$
+(539)
+(7)
+%
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Consumer
+$
+3,484
+$
+3,831
+$
+(347)
+(9)
+%
+Commercial
+3,113
+3,327
+(214)
+(6)
+%
+Revenue from contracts with customers (1)
+6,597
+7,158
+(561)
+(8)
+%
+Subsidy revenue
+%
+Total revenue
+$
+6,963
+$
+7,502
+$
+(539)
+(7)
+%
+(1)Includes $67 million and $65 million of lease revenue for the years ended December 31, 2020 and 2019, respectively.
+We generate revenues primarily through either a monthly recurring fee or a fee based on usage, and revenue recognition is not dependent upon significant judgments by management, with the exception of a determination of the provision for uncollectible amounts.
+The 9% decrease in consumer customer revenue was primarily due to the 4% decline in consumer customers combined with lower consumer ARPC (as described above) resulting in reduced revenues for consumer voice services, video services, and to a lesser extent, data and internet services revenue.
+The 6% decrease in commercial customer revenue was primarily driven by a 2% reduction in wholesale revenues which comprise approximately 53% of our commercial revenues. The decline in wholesale revenues is primarily a result of rate declines for our network access services. Our SME revenues that comprise the remaining commercial revenue decreased 10% primarily as a result of a 17% decline in small business customers in 2020.
+The increases in subsidy and other revenue, were driven primarily by transition services provided in connection with the divestiture of the Northwest Operations for the six month period following the May 1, 2020 sale date. This increase was partially offset by scheduled reductions in subsidy funding levels, primarily funding related to CAF Phase II subsidies.
+We categorize our products, services, and other revenues into the following five categories:
+Data and Internet services
+Data and internet services revenue for the year ended December 31, 2020 decreased 2% as compared with 2019. Broadband and data services revenues comprise 61% or $2,068 million of total Data and internet services revenue, while network access revenues comprise 39% or $1,308 million. Network access revenues include our data transmission services to high volume commercial customers and other carriers with dedicated high capacity circuits including services to wireless providers (wireless backhaul).
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Broadband and data services revenue decreased by $36 million, or 2%, primarily driven by a loss of SME customers combined with decreased other data services revenue. Network access revenues declined $34 million, or 3%, due to the migration of our carrier customers from legacy technology circuits to lower priced ethernet circuits.
+We expect wireless data usage to continue to increase, which may drive the need for additional wireless backhaul capacity. Despite the need for additional capacity, in the near term, we anticipate that our overall wireless backhaul revenues (which comprise approximately 2.5% of consolidated total revenues) will continue to decline in 2021, as our carrier customers migrate to ethernet solutions at lower price points or migrate to our competitors.
+Voice services
+Voice services include traditional local and long-distance wireline services, data-based Voice over Internet Protocol (VoIP) services, as well as voice messaging services offered to our consumer and commercial customers. Voice services also include the long-distance voice origination and termination services that we provide to our commercial customers and other carriers.
+The decrease of 12% in voice services revenue was primarily due to continued declines in both consumer and commercial customers, combined with a reduction in voice services being bundled with broadband services.
+Video services
+Video services include revenues generated from services provided directly to consumer customers as linear terrestrial television services, and through Dish satellite TV services.
+The decrease of 19% in video services revenue was primarily due to 23% net loss in linear video customers, partially offset by price increases.
+Other
+Other customer revenue includes switched access revenue and sales of CPE to our business customers as well as directory services. Switched access revenue includes revenues derived from allowing other carriers to use our network to originate and/or terminate their local and long-distance voice traffic (switched access). These services are primarily billed on a minutes-of-use basis applying tariffed rates filed with the FCC or state agencies.
+The decrease of $21 million, or 5%, in other revenue was primarily driven by a decrease in switched access revenue due to the reduced rates mandated by the Universal Service Fund/Intercarrier Compensation Report and Order as well as a 7% reduction in minutes of use. Since we are a consumer of switched access services on other carriers, we also benefited from the lower mandated rates within network access expense. Lower CPE sales, lower service activation associated fees, and less directory revenue also contributed to the decline in other revenue. These declines were partially offset by lower provisions for uncollectibles and higher late payment fees.
+Subsidy and other revenue
+Subsidy and other revenue includes revenue generated from cost subsidies from state and federal authorities, including the Connect America Fund Phase II as well as revenue generated from the transition services provided in connection with our divestiture of the Northwest Operations.
+The increases in subsidy and other revenue, were driven primarily by $30 million in transition services provided to the purchaser of the Northwest Operations for the six month period following the May 1, 2020 sale date. This increase was partially offset by scheduled reductions in subsidy funding levels, primarily funding related to CAF Phase II subsidies.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+2020 OPERATING EXPENSES COMPARED TO 2019
+NETWORK ACCESS EXPENSE
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Network access expenses
+$
+$
+1,196
+$
+(235)
+(20)
+%
+Network access expenses include access charges and other third-party costs directly attributable to connecting customer locations to our network, and video content costs. Such access charges and other third-party costs exclude network related expenses, depreciation and amortization, and employee related expenses.
+The decrease in network access expenses was primarily due to lower video content costs as a result of a decline in video customers and non-renewal of certain content agreements as well as decreased CPE costs.
+NETWORK RELATED EXPENSES
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Network related expenses
+$
+1,700
+$
+1,732
+$
+(32)
+(2)
+%
+Network related expenses include expenses associated with the delivery of services to customers and the operation and maintenance of our network, such as facility rent, utilities, maintenance and other costs, as well as salaries, wages and related benefits associated with personnel who are responsible for the delivery of services, and the operation and maintenance of our network.
+The decrease in network related expenses was primarily due to decreased compensation costs related to lower employee headcount, slightly offset by the abandonment of certain in-progress capital projects during 2020.
+SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Selling, general and
+administrative expenses
+$
+1,622
+$
+1,731
+$
+(109)
+(6)
+%
+Selling, general and administrative expenses (SG&A expenses) include the salaries, wages and related benefits and costs of corporate and sales personnel, travel, insurance, non-network related rent, advertising and other administrative expenses.
+The decrease in SG&A expenses was primarily driven by decreased compensation costs related to lower employee headcount and reduced property taxes.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Pension and OPEB costs
+Frontier allocates pension/OPEB expense, which includes only service costs, to network related expenses and SG&A expenses. Total consolidated pension and OPEB expense, excluding pension settlement costs and pension/OPEB special termination benefit enhancements, for the years ended December 31, 2020 and 2019 were as follows:
+For the year ended December 31,
+($ in millions)
+Total pension/OPEB
+expenses
+$
+$
+Less: costs capitalized into
+capital expenditures
+(25)
+(24)
+Net pension/OPEB expense
+$
+$
+DEPRECIATION AND AMORTIZATION
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Depreciation expense
+$
+1,255
+$
+1,287
+$
+(32)
+(2)
+%
+Amortization expense
+(90)
+(21)
+%
+$
+1,598
+$
+1,720
+$
+(122)
+(7)
+%
+Depreciation and amortization expense for the year ended December 31, 2020 decreased as compared to 2019. The decrease in depreciation expense was primarily driven by lower asset bases (refer to Note 6). The decrease in amortization expense was primarily driven by the accelerated method of amortization related to customer bases acquired in 2010, 2014, and 2016.
+GOODWILL IMPAIRMENT
+All goodwill was either fully impaired as of December 31, 2019 or disposed of in connection with the sale of our Northwest Operations on May 1, 2020. As such, there were no goodwill impairment charges for the year ended December 31, 2020.
+We recorded goodwill impairments totaling $5,725 million for the year ended December 31, 2019. The impairment in the second and third quarters of 2019 reflected a lower enterprise valuation driven by lower profitability, as well as a reduction in the applicable market multiple from 5.3x EBITDA at December 31, 2018 to the 4.4x EBITDA utilized during our quantitative assessments in 2019. This reflected, among other things, pressures on our business resulting in the continued deterioration in revenue, challenges in achieving improvements in revenue and customer trends under our transformation initiative, the long-term sustainability of our capital structure, and the lower outlook of our industry as a whole.
+LOSS ON DISPOSAL OF NORTHWEST OPERATIONS
+As a result of our evaluation of recoverability of the carrying value of the assets and liabilities held for sale relative to the agreed upon sales price, adjusted for costs to sell, we recorded a loss on disposal of our Northwest Operations of $162 million and $446 million during the years ended December 31, 2020 and 2019, respectively.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+RESTRUCTURING COSTS AND OTHER CHARGES
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Restructuring costs and
+other charges
+$
+$
+$
+(79)
+(48)
+%
+Restructuring costs and other charges consist of expenses related to changes in the composition of our business, including workforce reductions, transformation initiatives, other restructuring expenses, and corresponding changes to retirement plans resulting from a voluntary severance program.
+In 2018, Frontier launched a strategic transformation program. This program was reduced in scope and largely completed during the first half of 2019.
+For the year ended December 31, 2020, the $87 million in restructuring costs and other charges is comprised of $7 million related to severance expense, $8 million in costs related to transformation initiatives, and $72 million in consulting and advisory costs related to our balance sheet restructuring activities.
+Effective with the filing of the Chapter 11 Cases, Frontier recorded all consulting and advisory costs related to our balance sheet restructuring activities outside of operating income in “Reorganization Items, net”.
+OTHER NON-OPERATING INCOME AND EXPENSE
+For the year ended December 31,
+$ Increase
+% Increase
+($ in millions)
+(Decrease)
+(Decrease)
+Investment and other loss, net
+$
+(43)
+$
+(37)
+$
+(6)
+%
+Pension settlement costs
+$
+(159)
+$
+(57)
+$
+(102)
+%
+Loss on extinguishment of debt
+$
+(72)
+$
+(20)
+$
+(52)
+NM
+Reorganization Items, net
+$
+(409)
+$
+-
+$
+(409)
+NM
+Interest expense
+$
+(762)
+$
+(1,535)
+$
+(50)
+%
+Income tax benefit
+$
+(84)
+$
+(611)
+$
+(527)
+NM
+NM - Not meaningful
+Investment and other loss, net
+Investment and other loss, net primarily relates to non-operating pension and OPEB expenses of approximately $43 million 2020 and $42 million in 2019.
+Pension settlement costs
+Lump sum pension settlement payments to terminated or retired individuals amounted to $465 million, which exceeded the settlement threshold of $211 million, and as a result, Frontier recognized non-cash settlement charges of $159 million and $57 million during 2020 and 2019, respectively. The non-cash charge accelerated the recognition of a portion of the previously unrecognized actuarial losses in the pension plan.
+Loss on early extinguishment of debt
+In 2020, Frontier recorded a loss on the early extinguishment of debt primarily driven by the write-off of unamortized original issuance costs that were retired along with the Term Loan B, the Original First Lien Notes, and the Original Second Lien Notes. In 2019, Frontier recorded a loss on the early extinguishment of debt primarily driven by the write-off of unamortized original issuance costs that were retired along with the Term Loan A and the 2016 CoBank Credit Agreement.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Reorganization items, net
+The Company has incurred and will continue to incur significant costs associated with the reorganization, primarily the write-off of certain debt issuance costs and net discounts, financing costs, and legal and professional fees. Effective with the Petition Date, these costs which are expensed as incurred, are expected to significantly affect our consolidated results of operations. During 2020, Frontier incurred $409 million in reorganization costs associated with the restructuring of our balance sheet, including $137 million of professional fees, $93 million related to the write off of previously deferred financing costs for debt obligations that are subject to compromise, $121 million in debtor-in-possession financing costs related to our DIP Refinancing, and $58 million related to the Secured Creditor Settlement (as defined herein) entered into with certain of our secured lenders in August 2020.
+Interest expense
+Interest expense decreased $773 million, or 50%, as compared to 2019. Beginning on the Petition Date, we ceased recording interest expense for our unsecured debt. The contractual interest is $720 million higher than what we have recorded for our debt obligations for the year ended December 31, 2020.
+Income tax benefit
+For the year ended December 31, 2020, Frontier recorded an income tax benefit of $84 million on the pretax loss of $486 million. The effective tax rates on our pretax loss for the years ended December 31, 2020 and 2019 were 17.2% and 9.4%, respectively.
+Basic and diluted net loss attributable to Frontier common shareholders
+Net loss attributable to Frontier common shareholders for 2020 was $402 million, or $3.85 per share, as compared to a net loss of $5,911 million, or $56.80 per share, in 2019. For 2020, our net loss was driven by $762 million of interest expense, $409 million of reorganization charges, pension settlement costs of $159 million, and a $162 million loss related to the sale our Northwest Operations described above. For 2019, our net loss was driven by goodwill impairment charges of $5,725 million, interest expense of $1,535 million, a $446 million loss related to the sale of our Northwest Operations, and $168 million of restructuring costs and other charges.
+The comparison of our operating results and financial condition for the fiscal years ended 2019 and 2018 can be found in our Form 10-K for the fiscal year ended December 31, 2019 under “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+‎
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+(b) Liquidity and Capital Resources
+Historically, our principal liquidity requirements have been to fund the costs of operations and expand our business, pay principal and interest obligations on our significant indebtedness, for capital expenditures to replace, upgrade, expand and improve our networks and infrastructure, and to integrate acquired businesses and to separate assets and systems for sale.
+Our ability to continue as a going concern is dependent upon our ability to, subject to the Bankruptcy Court’s approval, implement the Plan, successfully emerge from the Chapter 11 Cases and generate sufficient liquidity from the Restructuring to meet our obligations and operating needs. These factors, together with the Company’s recurring losses from operations and accumulated deficit, create substantial doubt about the Company’s ability to continue as a going concern.
+Refer to “-Chapter 11 Cases and Other Related Matters” for more information on the Chapter 11 Cases and their effect on our liquidity.
+Analysis of Cash Flows
+As of December 31, 2020, we had unrestricted cash and cash equivalents aggregating $1,829 million. In 2020, we used cash flow from operations, cash on hand, proceeds from the sale of the Northwest Operations, and cash from prior year borrowings to principally fund all of our cash investing and financing activities, which were primarily capital expenditures and the repayment of the Revolver.
+On May 1, 2020, we completed the sale of the Northwest Operations for gross proceeds of $1,352 million, subject to certain closing adjustments. Net of funding certain pension and other retiree medical liabilities, funding certain escrows and other closing adjustments, we received $1,131 million in proceeds. Revenues for the Northwest Operations represented approximately 7% of consolidated revenue the four month period ended April 30, 2020 and the twelve month period ended December 31, 2019.
+As of December 31, 2020, we had a working capital deficit of $4,486 million compared to surplus of $233 million at December 31, 2019. The primary driver for the working capital deficit at December 31, 2020 was the acceleration of the maturities of our long-term debt that resulted from our filing of the Chapter 11 Cases.
+Cash Flows provided from Operating Activities
+Cash flows provided by operating activities increased $481 million to $1,989 million in 2020 as compared to 2019. The overall increase in operating cash flows was the result of favorable changes in working capital, primarily attributable to withholding payment of pre-petition trade accounts payable subsequent to the filing of the Chapter 11 Cases as well as a reduction in cash payments for interest as compared to the comparative period in 2019.
+We paid $8 million and $4 million in net cash taxes during the years ended December 31, 2020 and 2019, respectively.
+Cash Flows used by Investing Activities
+Cash flows used by investing activities decreased $1,115 million to $19 million for the year ended December 31, 2020 as compared to the corresponding period in 2019. The primary driver of this decrease was the impact of cash proceeds of $1,131 million received for the sale of the Northwest Operations.
+Capital Expenditures
+In 2020 and 2019, our capital expenditures were, $1,181 million and $1,226 million, respectively. This reduction in capital expenditures was primarily driven by delays in payments for certain prepetition capital expenditures following the filing of the Chapter 11 Cases.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Cash Flows provided from (used by) Financing Activities
+Cash flows provided from (used by) financing activities increased $925 million to $893 million for the year ended December 31, 2020 as compared to 2019. The primary driver of this increase was the repayment of the Revolver.
+DIP Financing Costs
+In connection with the filing of the Chapter 11 Cases, Frontier recorded approximately $121 million in financing costs related to the issuance of the DIP Financing for the year ended December 31, 2020.
+Debt Issuances and Debt Reductions
+On September 17, 2020, Frontier repaid the $749 million of outstanding principal under the Revolver, plus accrued interest. The repayment in full of all revolving loans outstanding under the JPM Credit Agreement was a condition precedent to the entry into the DIP Revolving Facility.
+On October 8, 2020, the Company issued $1,150 million aggregate principal amount of First Lien Notes due October 2027 and entered into a $625 million DIP Revolving Facility and the $500 million Initial DIP Term Loan Facility. The Company used the proceeds from the offering, together with the proceeds of the Initial DIP Term Loan Facility and cash on hand, to (i) repay in full the Company’s $1,650 million aggregate principal amount of Original First Lien Notes and (ii) pay related interest, fees and expenses.
+On November 25, 2020, the Company issued $1,550 million aggregate principal amount of First Lien Notes due May 2028 and $1,000 million aggregate principal amount of New Second Lien Notes and borrowed an incremental $750 million pursuant to the Incremental DIP Term Loan Facility. The Company used the proceeds from the issuances, together with the incremental term loan borrowing and cash on hand to (i) repay all outstanding borrowings under our Term Loan B, (ii) repay in full the $1,600 million aggregate principal amount of the Original Second Lien Notes, and (iii) pay related interest, fees and expenses incurred in connection therewith. See “Capital Resources” and Note 9 of the consolidated financial statements for additional details related to the DIP Revolving Facility and the DIP Term Loan Facility.
+On March 15, 2019, we completed a private offering of $1,650 million aggregate principal amount of the Original First Lien Notes. The proceeds from the offering of Original First Lien Notes, together with cash on hand, was used to (i) repay in full the outstanding borrowings under the senior secured Term Loan A facility under the JPM Credit Agreement (as defined below), (ii) repay in full the outstanding borrowings under the 2016 CoBank Credit Agreement (as defined below), and (iii) pay related interest, fees and expenses. As discussed above, the Original First Lien Notes were repaid in full in the fourth quarter of 2020.
+During the year ended December 31, 2019, Frontier used cash on hand for the scheduled retirement of $363 million principal amount of senior indebtedness. In addition, Frontier used the proceeds from the offering of Original First Lien Notes, together with cash on hand, to (i) repay in full the outstanding borrowings under the senior secured term loan A facility under the JPM Credit Agreement, which otherwise would have matured in March 2021, (ii) repay in full the outstanding borrowings under the 2016 CoBank Credit Agreement, which otherwise would have matured in October 2021, and (iii) pay related interest, fees and expenses.
+See “-Chapter 11 Cases and Other Related Matters-DIP Financing” for more information about the DIP Financing.
+The comparison of our cash flows from operations, cash flows from investing, and cash flows from financing for the fiscal years ended December 31, 2019 and 2018 can be found in our Form 10-K for the fiscal year ended December 31, 2019 under “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Capital Resources
+Historically, a substantial portion of our liquidity needs arise from debt service on our outstanding indebtedness and from funding the costs of operations, working capital and capital expenditures. Our primary sources of cash are cash flows from operations, cash on hand and proceeds from debt borrowings, including issuances of long-term debt and our $625 million undrawn borrowing capacity under the DIP Revolving Facility (as reduced by $90 million of Letters of Credit.) We have assessed our current and expected funding requirements and our current and expected sources of liquidity, and have determined, based on our forecasted financial results and financial condition as of December 31, 2020, that our operating cash flows and existing cash balances, will be adequate to finance our working capital requirements, fund capital expenditures, make required debt interest and principal payments due under the Plan, pay taxes and make other payments due under the Plan. A number of factors, including but not limited to, losses of customers, pricing pressure from increased competition, lower subsidy and switched access revenues, and the impact of economic conditions may negatively affect our cash generated from operations. We completed the sale of the Northwest Operations on May 1, 2020. Net of pension funding, certain escrows, and other closing adjustments, we received $1,131 million in proceeds.
+However, our ability to continue as a going concern is dependent upon our ability to successfully emerge from the Chapter 11 Cases and generate sufficient liquidity from the Restructuring to meet our obligations and operating needs. Refer to “-Chapter 11 Cases and Other Related Matters” for more information on the terms of the Restructuring Support Agreement, the Chapter 11 Cases and the effects of both on our liquidity.
+Term Loan and Revolving Credit Facilities and New Secured Notes
+DIP Revolving Facility
+On October 8, 2020, Frontier entered into the DIP Revolving Facility, pursuant to the senior secured superpriority debtor-in-possession credit agreement, dated as of October 8, 2020, by and among Frontier, as the borrower and a debtor and debtor-in-possession under Chapter 11 of the Bankruptcy Code, Goldman Sachs Bank USA, as administrative agent, JP Morgan Chase Bank, N.A., as collateral agent and each lender and issuing bank from time to time party thereto.
+The DIP Revolving Facility has a maturity of the earlier of (x) the date that is twelve months after the closing date of the DIP Revolving Facility and (y) the date of the substantial consummation of the Plan; provided that to the extent such substantial consummation has not occurred on or prior to the date referred to in the foregoing clause (x), primarily because any condition precedent set forth therein with respect to the procurement of regulatory approvals has not been satisfied (and other than any other conditions that by their nature can only be satisfied on the consummation date), the maturity date shall be extended by an additional six months.
+At our election, the determination of interest rates for the DIP Revolving Facility is based on margins over the alternate base rate or over LIBOR. The interest rate with respect to any LIBOR loan is 3.250% (or 2.250% for alternate base rate loans).
+Subject to customary exceptions and thresholds, the security package under the DIP Revolving Facility includes pledges of the equity interests in certain of our subsidiaries, which as of the issue date is limited to certain specified pledged entities, substantially all personal property of Frontier Video and substantially all of the unencumbered assets and properties of Frontier and Frontier Iowa, which such security interest in the unencumbered assets and properties was granted solely pursuant to the DIP financing order issued by the Bankruptcy Court, which same assets also secure the New First Lien Notes. The DIP Revolving Facility is guaranteed by the same subsidiaries that guarantee the New First Lien Notes. After giving effect to $90 million of letters of credit formerly outstanding under the Revolver that were rolled into, replaced or otherwise accommodated for under the DIP Revolving Facility, the Company has $535 million of available borrowing capacity under the DIP Revolving Facility.
+Upon the conversion date, subject to certain conditions, the DIP Revolving Facility shall convert into the Exit Revolving Facility with an aggregate principal amount of $625 million. The Exit Revolving Facility will be available on a revolving basis during the period commencing on the conversion date and ending on the date that is the earlier of (x) 4 years after the conversion date and (y) 91 days prior to the earliest maturity date of permitted pari passu refinancing debt, permitted junior refinancing debt, the term loans outstanding under the prepetition credit agreement after giving effect to the consummation of the Plan (or any indebtedness that replaces or refinances such term loans) and any long term exit facilities so long as, in each case, the outstanding principal amount of any such indebtedness is in excess of an amount set forth in the definitive documentation with respect to the Exit Revolving Facility. The determination of
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+interest rates for the Exit Revolving Facility is based on margins over the alternate base rate or over LIBOR, at our election. The interest rate with respect to any LIBOR loan is 3.500% (or 2.500% for alternate base rate loans).
+DIP Term Loan Facility
+On October 8, 2020, Frontier entered into a credit agreement with JPMorgan Chase Bank, N.A., as administrative agent and collateral agent and each lender from time to time party thereto (the DIP to Exit Term Credit Agreement). which provides for a senior secured superpriority DIP term loan facility in the aggregate principal amount of $500 million (the Initial DIP Term Loan Facility). On November 25, 2020, Frontier entered into an incremental amendment to the DIP to Exit Term Credit Agreement (the Incremental DIP Term Loan Amendment), which provides for an additional senior secured superpriority DIP term loan facility in the aggregate principal amount of $750 million (the Incremental DIP Term Loan Facility and, together with the Initial DIP Term Loan Facility, the DIP Term Loan Facility).
+The DIP Term Loan Facility has a maturity of the earlier of (x) the date that is twelve months after the closing date of the DIP Term Loan Facility and (y) the date of the substantial consummation of the Plan; provided that to the extent such substantial consummation has not occurred on or prior to the date referred to in the foregoing clause (x), primarily because any condition precedent set forth therein with respect to the procurement of regulatory approvals has not been satisfied (and other than any other conditions that by their nature can only be satisfied on the consummation date), the maturity date shall be extended by an additional six months; provided that if certain conditions are met and the conversion date occurs, the maturity date shall be the seventh anniversary of the closing date.
+At our election, the determination of interest rates for the DIP Term Loan Facility are based on margins over the alternate base rate or over LIBOR. The interest rate with respect to any LIBOR loan is 4.750% or 3.750% for alternate base rate loans, with a 1.00% LIBOR floor.
+Subject to certain exceptions and thresholds, the security package under the DIP Term Loan Facility includes pledges of the equity interests in certain of our subsidiaries, which as of the issue date is limited to certain specified pledged entities, substantially all personal property of Frontier Video Services Inc., a Delaware corporation (Frontier Video), and, solely prior to the conversion date, substantially all of the unencumbered assets and properties (the DIP Collateral) of Frontier and Frontier Communications of Iowa, LLC, an Iowa limited liability company (Frontier Iowa), which such security interest in the DIP Collateral was granted solely pursuant to the DIP financing order issued by the Bankruptcy Court, which same assets also secure the New First Lien Notes. The DIP Term Loan Facility is guaranteed by the same subsidiaries that guarantee the New First Lien Notes. Upon the conversion date, the security package will no longer include the DIP Collateral.
+Upon the conversion date, subject to certain conditions, the DIP Term Loan Facility shall convert into the Exit Term Loan Facility with an aggregate principal amount of $1,250 million.
+Terminated JP Morgan Credit Facilities
+Frontier had a prepetition term loan facility and revolving credit facility with JP Morgan Chase Bank, N.A., as administrative agent, and the lenders party thereto. As noted above, as of December 31, 2020 all outstanding amounts drawn under these facilities have been paid in full and the agreements have been terminated.
+Terminated CoBank Credit Facilities
+Frontier had two separate prepetition term loan facilities with CoBank, ACB, as administrative agent, lead arranger and a lender, and the other lenders. All outstanding amounts drawn under these agreements have been paid in full and the agreements were terminated on or before March 15, 2019.
+Letters of Credit Facility
+Frontier has a Continuing Agreement for Standby Letters of Credit with Deutsche Bank AG New York Branch (the LC Agreement). Frontier also has capacity to issue letters of credit under the DIP Revolving Credit Facility up to the full facility amount. As of December 31, 2020, $49 million and $90 million of undrawn Standby Letters of Credit had been issued under the LC Agreement and DIP Revolving Credit Facility, respectively. Letters of credit under the LC Agreement are fully cash collateralized.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Covenants related to DIP Financing
+The DIP Revolving Facility and DIP Term Loan Facility each include usual and customary negative covenants for DIP credit and DIP to exit loan agreements of this type, including covenants limiting Frontier and its restricted subsidiaries’ (other than certain covenants therein which are limited to subsidiary guarantors) ability to, among other things, incur additional indebtedness, create liens on assets, make investments, loans or advances, engage in mergers, consolidations, sales of assets and acquisitions, pay dividends and distributions and make payments in respect of certain material payment subordinated indebtedness, in each case subject to customary exceptions for credit and exit loan agreements of this type.
+The DIP Revolving Facility includes certain customary representations and warranties, affirmative covenants and events of default, including, but not limited to, payment defaults, breaches of representations and warranties, covenant defaults, certain events under ERISA, change of control or damage to a material portion of the collateral.
+The DIP Term Loan Facility includes certain customary representations and warranties, affirmative covenants and events of default, including, but not limited to, payment defaults, breaches of representations and warranties, covenant defaults, certain events under ERISA, upon the conversion date, unstayed judgments in favor of a third party involving an aggregate liability in excess of a certain threshold, change of control, upon the conversion date, specified governmental actions having a material adverse effect or condemnation or damage to a material portion of the collateral.
+First Lien Notes due October 2027
+On October 8, 2020, Frontier issued $1,150 million aggregate principal amount of First Lien Notes due October 2027, which mature on October 15, 2027, and bear interest at a rate of 5.875% per annum. Interest on the First Lien Notes due October 2027 is payable to holders of record semi-annually in arrears on April 15 and October 15 of each year, commencing April 15, 2021.
+The notes were issued pursuant to an indenture, dated as of October 8, 2020 (the 2027 First Lien Indenture), by and among Frontier, the guarantors party thereto, the grantor party thereto, JPMorgan Chase Bank N.A., as collateral agent and Wilmington Trust, National Association, as trustee, and were issued in a private offering exempt from the registration requirements of the Securities Act, to persons reasonably believed to be qualified institutional buyers in accordance with Rule 144A under the Securities Act and to persons outside the United States pursuant to Regulation S under the Securities Act, at a purchase price equal to 100% of the principal amount thereof.
+Prior to the conversion date, the First Lien Notes due October 2027 are secured on a super-priority basis and pari passu with the DIP Revolving Facility and the DIP Term Loan Facility, subject to permitted liens and certain exceptions, by all the assets that secure Frontier’s obligations under the DIP Revolving Facility and the DIP Term Loan Facility, on a super-priority basis and pari passu with the DIP Revolving Facility and the DIP Term Loan Facility. From the conversion date, the First Lien Notes due October 2027 are secured on a first-priority basis and pari passu with its senior secured credit facilities, subject to permitted liens and certain exceptions, by all the assets that secure Frontier’s obligations under its senior secured credit facilities and First Lien Notes due May 2028 on a first-priority basis and pari passu with its senior secured credit facilities and First Lien Notes due May 2028.
+Frontier may redeem the First Lien Notes due October 2027 at any time, in whole or in part, prior to their maturity. If the notes are redeemed before October 15, 2023 the redemption price will be equal to 100% of the aggregate principal amount thereof, together with any accrued and unpaid interest, if any, to, but not including, the redemption date, plus a make-whole premium. If the notes are redeemed on or after October 15, 2023 the redemption price will be equal to the amounts set forth in the 2027 First Lien Indenture, together with any accrued and unpaid interest to the redemption date.
+In addition, at any time before October 15, 2023, Frontier may redeem up to 40% of the First Lien Notes due October 2027 using the proceeds of certain equity offerings at a redemption price equal to 105.875% of the aggregate principal amount thereof, together with any accrued and unpaid interest, if any, to, but not including, the redemption date.
+In the event of a change of control triggering event, each holder of the First Lien Notes due October 2027 will have the right to require Frontier to purchase the notes at a purchase price equal to 101% of the principal amount of the First Lien Notes due October 2027, plus accrued and unpaid interest, if any, to, but not including, the date of repurchase.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+First Lien Notes due May 2028
+On November 25, 2020, Frontier issued $1,550 million aggregate principal amount of the First Lien Notes due May 2028, which mature on May 1, 2028, and bear interest at a rate of 5.000% per annum. Interest is payable to holders of record semi-annually in arrears on May 1 and November 1 of each year, commencing May 1, 2021.
+The First Lien Notes due May 2028 were issued pursuant to an indenture, dated as of November 25, 2020 (the 2028 First Lien Indenture), by and among Frontier, the guarantors party thereto, the grantor party thereto, JPMorgan Chase Bank N.A., as collateral agent and Wilmington Trust, National Association, as trustee, and were issued in a private offering exempt from the registration requirements of the Securities Act, to persons reasonably believed to be qualified institutional buyers in accordance with Rule 144A under the Securities Act and to persons outside the United States pursuant to Regulation S under the Securities Act, at a purchase price equal to 100% of the principal amount thereof.
+Prior to the conversion date, the First Lien Notes due May 2028 are secured on a super-priority basis and pari passu with the DIP Revolving Facility and DIP Term Loan Facility, subject to permitted liens and certain exceptions, by all the assets that secure Frontier’s obligations under the DIP Revolving Facility and the DIP Term Loan Facility, on a super-priority basis and pari passu with the DIP Revolving Facility and DIP Term Loan Facility. From the conversion date, the First Lien Notes due May 2028 are secured on a first-priority basis and pari passu with its senior secured credit facilities, subject to permitted liens and certain exceptions, by all the assets that secure Frontier’s obligations under its senior secured credit facilities and First Lien Notes due October 2027 on a first-priority basis and pari passu with its senior secured credit facilities and First Lien Notes due October 2027.
+Frontier may redeem the First Lien Notes due May 2028 at any time, in whole or in part, prior to their maturity. If redeemed before May 1, 2024 the redemption price will be equal to 100% of the aggregate principal amount thereof, together with any accrued and unpaid interest, if any, to, but not including, the redemption date, plus a make-whole premium. If the notes are redeemed on or after May 1, 2024, the redemption price will be equal to the amounts set forth in the 2028 First Lien Indenture, together with any accrued and unpaid interest to the redemption date. In addition, at any time before May 1, 2024, Frontier may redeem up to 40% of the First Lien Notes due May 2028 using the proceeds of certain equity offerings at a redemption price equal to 105.000% of the aggregate principal amount thereof, together with any accrued and unpaid interest, if any, to, but not including, the redemption date.
+In the event of a change of control triggering event, each holder of the First Lien Notes due May 2028 will have the right to require Frontier to purchase the notes at a purchase price equal to 101% of the principal amount of the First Lien Notes due May 2028, plus accrued and unpaid interest, if any, to, but not including, the date of repurchase.
+New Second Lien Notes
+On November 25, 2020, Frontier issued $1,000 million aggregate principal amount of the New Second Lien Notes, which mature on May 1, 2029, and bear interest at a rate of 6.750% per annum. Interest is payable to holders of record semi-annually in arrears on May 1 and November 1 of each year, commencing May 1, 2021.
+The New Second Lien Notes were issued pursuant to an indenture, dated as of November 25, 2020 (the New Second Lien Indenture, and together with the 2027 First Lien Indenture and the 2028 First Lien Indenture, the Secured Note Indentures), by and among Frontier, the guarantors party thereto, the grantor party thereto, and Wilmington Trust, National Association, as trustee and collateral agent, and were issued in a private offering exempt from the registration requirements of the Securities Act, to persons reasonably believed to be qualified institutional buyers in accordance with Rule 144A under the Securities Act and to persons outside the United States pursuant to Regulation S under the Securities Act, at a purchase price equal to 100% of the principal amount thereof.
+Prior to the conversion date, the New Second Lien Notes are superpriority obligations secured on a second-priority lien junior to the DIP Revolving Facility, the DIP Term Loan Facility, the First Lien Notes due October 2027 and the First Lien Notes due May 2028, subject to permitted liens and certain exceptions, by all the assets that secure Frontier’s obligations under the DIP Revolving Facility, the DIP Term Loan Facility, on a super-priority basis and pari passu with the DIP Revolving Facility and the DIP Term Loan Facility, the First Lien Notes due October 2027 and the First Lien Notes due May 2028. From the conversion date, the New Second Lien Notes are secured on a second-priority basis junior to the DIP Revolving Facility, the DIP Term Loan Facility, the First Lien Notes due October 2027 and the First Lien Notes due May 2028, subject to permitted liens and certain exceptions, by all the assets that secure Frontier’s obligations under its senior secured credit facilities and existing first lien notes on a second-priority basis junior to its senior secured credit facilities and New First Lien Notes.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Frontier may redeem the New Second Lien Notes at any time, in whole or in part, prior to their maturity. If redeemed before May 1, 2024, the redemption price will be equal to 100% of the aggregate principal amount thereof, together with any accrued and unpaid interest, if any, to, but not including, the redemption date, plus a make-whole premium. If redeemed on or after May 1, 2024, the redemption price will be equal to the amounts set forth in the New Second Lien Indenture, together with any accrued and unpaid interest to the redemption date. In addition, at any time before November 1, 2023, Frontier may redeem up to 40% of the New Second Lien Notes using the proceeds of certain equity offerings at a redemption price equal to 106.750% of the aggregate principal amount thereof, together with any accrued and unpaid interest, if any, to, but not including, the redemption date.
+In the event of a change of control triggering event, each holder of the New Second Lien Notes will have the right to require Frontier to purchase the notes at a purchase price equal to 101% of the principal amount of the New Second Lien Notes, plus accrued and unpaid interest, if any, to, but not including, the date of repurchase.
+Covenants related to our Secured Notes
+Each of the Secured Note Indentures contain customary negative covenants, subject to a number of important exceptions and qualifications, including, without limitation, covenants related to incurring additional debt and issuing preferred stock; incurring or creating liens; redeeming and/or prepaying certain debt; paying dividends on stock or repurchasing stock; making certain investments; engaging in specified sales of assets; entering into transactions with affiliates; and engaging in consolidation, mergers and acquisitions. Certain of these covenants will be suspended during such time, if any, that the Secured Notes, as applicable, have investment grade ratings by at least two of Moody’s, S&P or Fitch. The Secured Note Indentures also provide for customary events of default which, if any of them occurs, would permit or require the principal of and accrued interest on the applicable series of Secured Notes to become or to be declared due and payable.
+Covenants related to other debt
+The indentures governing our unsecured notes and other subsidiary indebtedness limit our ability to create liens on our assets securing indebtedness and our subsidiaries’ assets or merge or consolidate with other companies, our subsidiaries’ ability to borrow funds and to engage in change of control transactions, subject to important exceptions and qualifications.
+On April 14, 2020, the Company Parties filed the Chapter 11 Cases. The filing of the Chapter 11 Cases constituted an event of default that accelerated substantially all of our debt covenants other than those now governing our DIP Revolving Facility, DIP Term Loan Facility, and Secured Note Indentures.
+Shareholder Rights Plan
+On July 1, 2019, our Board of Directors adopted a shareholder rights plan designed to protect our NOLs from the effect of limitations imposed by federal and state tax rules following a change in the ownership of our stock. This plan was designed to deter an “ownership change” (as defined in IRC Section 382) from occurring, and therefore protect our ability to utilize our federal and state net operating loss carryforwards in the future. Pursuant to the shareholder rights plan, if a shareholder (or group of affiliated or associated persons) acquires beneficial ownership of 4.9 percent or more of the outstanding shares of Frontier’s common stock without prior approval of our Board of Directors or without meeting certain customary exceptions (such as a result of repurchases of stock by Frontier, dividends or distributions by Frontier or certain inadvertent actions by our stockholders), the rights would become exercisable and entitle shareholders (other than the acquiring shareholder or group) to purchase additional shares of Frontier at a significant discount and result in significant dilution in the economic interest and voting power of acquiring shareholder or group. For purposes of calculating percentage ownership under the plan, “outstanding shares” of common stock include all of the shares of common stock actually issued and outstanding. Beneficial ownership is determined as provided in the rights plan and generally includes, without limitation, any ownership of securities a person would be deemed to actually or constructively own for purposes of Section 382 of the IRC or the regulations promulgated thereunder.
+The plan is not meant to be an anti-takeover measure and our Board of Directors has established a procedure to consider requests to exempt the acquisition of our common stock from the rights plan, if such acquisition would not limit or impair the availability of our NOLs. Such determination will be made in the sole and absolute discretion of our Board of Directors, upon request by any person prior to the date upon which such person would otherwise become the beneficial owner of 4.9 percent or more of the outstanding shares of our common stock. In addition, if our Board of Directors determines in good faith that a person has inadvertently become the beneficial owner of 4.9 percent or
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+more of the outstanding shares of our common stock, and such person divests as promptly as practicable a sufficient number of shares of common stock so that such person beneficially owns less than 4.9 percent, then such person will not cause the rights under the plan to become exercisable.
+This summary description of the rights plan does not purport to be complete and is qualified in its entirety by reference to the Rights Agreement, dated as of July 1, 2019, by and between us and Computershare Trust Company, N.A., as Rights Agent, filed as an exhibit to our Periodic Report on Form 8-K filed on July 1, 2019.
+See “Other Information Related to the Restructuring” below for a discussion on the potential impact of the restructuring on our NOLs.
+Chapter 11 Cases and Other Related Matters
+Restructuring Support Agreement
+On April 14, 2020, the Company Parties entered into the Restructuring Support Agreement with the Consenting Noteholders, pursuant to which the Consenting Noteholders agreed, subject to certain terms and conditions, to support the Restructuring of the existing debt of, existing equity interests in, and certain other obligations of the Company Parties, pursuant to a pre-arranged Plan to be filed in the Chapter 11 Cases.
+In accordance with the Restructuring Support Agreement, the Consenting Noteholders agreed, among other things, to:
+(i)support the transactions (the Restructuring Transactions) described in, within the timeframes outlined in, and in accordance with the Restructuring Support Agreement;
+(ii)not take any action, directly or indirectly, that is reasonably likely to interfere with acceptance, implementation, or consummation of the Restructuring Transactions;
+(iii)vote each of its Senior Notes Claims (as defined in the Restructuring Support Agreement) to accept the Plan; and
+(iv)not transfer Senior Notes Claims held by each Consenting Noteholders except with respect to limited and customary exceptions, including requiring any transferee to either already be bound or become bound by the terms of the Restructuring Support Agreement.
+In accordance with the Restructuring Support Agreement, the Company Parties agreed, among other things, to:
+(i)support and take all steps reasonably necessary and desirable to consummate the Restructuring Transactions in accordance with the Restructuring Support Agreement;
+(ii)support and take all steps reasonably necessary and desirable to obtain entry of (a) the final orders of the Bankruptcy Court authorizing the relevant Company Parties’ entry into the documents governing a senior secured superpriority DIP financing facility, (b) the order of the Bankruptcy Court approving the disclosure statement related to the Plan pursuant to section 1125 of the Bankruptcy Code and (c) the Bankruptcy Court’s order confirming the Plan;
+(iii)use commercially reasonable efforts to obtain any and all required governmental, regulatory, and/or third-party approvals for the Restructuring Transactions;
+(iv)act in good faith and use commercially reasonable efforts to execute and deliver certain required documents and agreements to effectuate and consummate the Restructuring Transactions as contemplated by the Restructuring Support Agreement;
+(v)operate their businesses in the ordinary course of business in a manner consistent with the Restructuring Support Agreement and past practice and use commercially reasonable efforts to preserve their businesses; and
+(vi)not, directly or indirectly, object to, delay, impede, or take any other action to interfere with acceptance, implementation, or consummation of the Restructuring Transactions.
+The Restructuring Support Agreement may be terminated upon the occurrence of certain events, including the failure to meet specified milestones related to consummation of the Plan. In addition, the Restructuring Support Agreement shall automatically terminate on the Effective Date of the Plan once all conditions precedent to the Plan have been satisfied.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Chapter 11 Cases
+As an initial step towards implementation of the Plan, on the Petition Date, the Company Parties filed the Chapter 11 Cases. Each Company Party continues to operate its business as a “debtor in possession” under the jurisdiction of the Bankruptcy Court and in accordance with the applicable provisions of the Bankruptcy Code and the orders of the Bankruptcy Court. The Chapter 11 Cases are being jointly administered under the caption In re Frontier Communications Corporation., et al., Case No. 20-22476 (RDD).
+In general, as debtors-in-possession under the Bankruptcy Code, we are authorized to continue to operate as an ongoing business, however, we may not engage in transactions outside the ordinary course of business without the prior approval of the Bankruptcy Court. To ensure the Company Parties’ ability to continue operating in the ordinary course of business and minimize the effect of the Restructuring on the Company Parties’ customers and employees, the Company Parties filed certain motions and applications intended to limit the disruption of the bankruptcy proceedings on its operations (the First Day Motions), including authority to pay employee wages and benefits, and pay vendors and suppliers for goods and services provided both before and after the filing date, which were approved after a final hearing held on May 22, 2020. Pursuant to the First Day Motions, the Bankruptcy Court authorized us to conduct our business activities in the ordinary course, including, among other things and subject to the terms and conditions of such orders: continue to operate our cash management system and honor certain prepetition obligations related thereto; maintain existing business forms; continue to perform intercompany transactions; obtain super priority administrative expense status for post-petition intercompany balances; pay certain prepetition claims of critical vendors, lien claimants and section 503(b)(9) of the Bankruptcy Code claimants in the ordinary course of business on a post-petition basis; pay prepetition employee wages, salaries, other compensation and reimbursable employee expenses and continue employee benefits programs; pay obligations under prepetition insurance policies, continue to pay certain brokerage fees; renew, supplement, modify or purchase insurance coverage; maintain our surety bond program; pay certain prepetition taxes and fees; honor certain prepetition obligations to customers and continue certain customer programs in the ordinary course of business; and pay or honor prepetition claims of content providers.
+Plan and Disclosure Statement
+On May 15, 2020, the Company Parties filed a proposed Joint Plan of Reorganization and related Disclosure Statement, each of which were amended on June 26, 2020, June 29, 2020, June 30, 2020, August 17, 2020 and August 21, 2020. On May 15, 2020, the Debtors also filed a proposed order approving the Disclosure Statement and various plan solicitation materials, including the solicitation and voting procedures, which was revised on June 29, 2020 (including modifications to some of the exhibits). On June 30, 2020, the Bankruptcy Court entered the modified order approving the adequacy of the Disclosure Statement and the solicitation and notice procedures and the forms of voting ballots and notices in connection therewith. The order established June 29, 2020 as the voting record date, July 2, 2020 as the solicitation launch date and July 31, 2020 as the voting deadline.
+On August 21, 2020, the Company Parties filed the Plan with the Bankruptcy Court. On August 27, 2020, the Bankruptcy Court entered the Confirmation Order, which approved and confirmed the Plan. The Effective Date of the Plan will occur once all conditions precedent to the Plan have been satisfied.
+The Plan as approved and confirmed by the Bankruptcy Court provides for:
+the applicable (x) Debtors, with the consent of the Consenting Noteholders then holding greater than 50.1% of the aggregate outstanding principal amount of senior notes claims that are held by all Consenting Noteholders subject to the Restructuring Support Agreement as of such date (the Required Consenting Noteholders), or (y) Reorganized Debtors taking any action as may be necessary or advisable to effectuate the restructuring transactions described in the Plan and Restructuring Transactions Memorandum (as defined in the Plan), including;
+the execution, delivery, and filing of any organizational and governance documents for the Reorganized Company Parties;
+any and all actions necessary or appropriate to effectuate the Secured Creditor Settlement (as defined below); and
+the execution, delivery, and filing of all agreements, indentures, notes, filings, documents, and instruments delivered or entered into in connection with one or more DIP financing facilities, which shall be used to repay certain of the Company Parties’ prepetition secured indebtedness and shall convert into an exit facility on the Effective Date (a DIP-to-Exit Facility), and a DIP revolving financing facility, which shall, subject to certain conditions, convert into an exit revolving facility (a DIP-to-Exit Revolving Facility and, together with a DIP-to-Exit Facility, DIP Facilities);
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+the final satisfaction, compromise, settlement, release, and discharge of claims arising under, derived from, secured by, based on, or related to any DIP-to-Exit Facility documents or DIP-to-Exit Revolving Facility documents, on the Effective Date in exchange for payment in full in cash or, at the Company Parties’ election, and solely to the extent permitted under DIP-to-Exit Facility documents or DIP-to-Exit Revolving Facility documents, as applicable, or as otherwise agreed, such holder’s pro rata share of the applicable exit facilities;
+on the Effective Date, issuance of takeback debt by one or more of the Reorganized Company Parties (the Takeback Debt), in a principal amount of $750 million, which shall include the following terms (which may be modified subject to requisite consent under the Plan):
+an interest rate that is either (a) no more than 2.50% higher than the interest rate of the next most junior secured debt facility to be entered into on the Effective Date if the Takeback Debt is secured on a third lien basis or (b) no more than 3.50% higher than the interest rate of the most junior secured debt facility to be entered into on the Effective Date if the Takeback Debt is unsecured;
+a maturity of no less than one year outside of the longest-dated debt facility to be entered into by the Reorganized Company Parties on the Effective Date, provided that in no event shall the maturity of the Takeback Debt be longer than eight years from the Effective Date;
+to the extent the Original Second Lien Notes claims are reinstated under the Plan, the Takeback Debt will be third lien debt, provided that to the extent the Original Second Lien Notes claims are paid in full in cash during the pendency of the Chapter 11 Cases or under the Plan, the Company Parties and the Required Consenting Noteholders will agree on whether the Takeback Debt will be secured or unsecured, within three business days of the Company Parties’ delivery to the Consenting Noteholders of a term sheet for the financing to repay the Second Lien Notes in full in cash that contains terms and conditions reasonably acceptable to the Company Parties and the Required Consenting Noteholders;
+the Takeback Debt amount is subject to downward adjustment by the Consenting Noteholders holding at least sixty-six and two-thirds percent of the aggregate outstanding principal amount of senior notes that are held by all Consenting Noteholders; and
+all other terms including, without limitation, covenants and governance, shall be reasonably acceptable to the Company Parties and the Required Consenting Noteholders; provided that such terms shall not be more restrictive than those in the indenture for the Second Lien Notes.
+The Plan, among other things and subject to the terms of the Secured Creditor Settlement, contemplates the following treatment of claims against and interests in the Company Parties:
+at the option of the applicable Reorganized Company Party, holders of secured claims against a Company Party that, absent its secured status, would be entitled to priority in right of payment under section 507(a)(8) of the Bankruptcy Code (determined irrespective of time limitations) (the Secured Tax Claims) shall receive (i) payment in full in cash or (ii) payment in cash made in equal semi-annual cash payments commencing as of the Effective Date or as soon as reasonably practicable thereafter and continuing for five years, in an aggregate amount equal to such claim, together with interest at the applicable non-default contract rate under non-bankruptcy law;
+at the option of the applicable Company Party, holders of claims entitled to priority in right of payment under section 507(a) of the Bankruptcy Code other than Administrative Claims or Priority Tax Claims (each as defined in the Plan) shall receive payment in full in cash or such other treatment rendering such claims unimpaired;
+claims arising under, derived from, based on, or related to the Company’s Revolver shall be repaid on or before the Effective Date, including payment of interest payments calculated at the non-default contract rate through the earlier of the Effective Date or repayment of the Revolver in full in cash (which shall include accrued but unpaid postpetition interest);
+claims arising under, derived from, based on, or related to the JPM Credit Agreement shall be repaid on or before the Effective Date or reinstated on the Effective Date solely in the event that financing to repay such claims cannot be obtained, including payment of interest payments calculated at the non-default contract rate through the earlier of the Effective Date or repayment of the Term Loan B in full in cash (which shall include accrued but unpaid postpetition interest);
+claims arising under, derived from, based on, or related to the Original First Lien Notes, issued pursuant to the indenture, dated as of March 15, 2019, by and among the Company, as issuer, the subsidiary guarantors party thereto, JPMorgan Chase Bank, N.A., as collateral agent, and Wilmington Trust, National Association, as successor trustee shall be repaid on or before the Effective Date or reinstated on the Effective Date, including payment of interest payments calculated at the non-default contract rate through the earlier of the
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Effective Date or repayment of the Original First Lien Notes in full in cash (which shall provide for the payment of accrued but unpaid postpetition interest);
+claims arising under, derived from, based on, or related to the Original Second Lien Notes, issued pursuant to that certain indenture, dated as of March 19, 2018, by and among the Company, as issuer, the subsidiary guarantors party thereto, and Wilmington Savings Fund Society FSB, as successor trustee and successor collateral agent (the Second Lien Notes Trustee) shall be repaid on or before the Effective Date or reinstated on the Effective Date, including payment of interest payments calculated at the non-default contract rate as required through the earlier of the Effective Date or repayment of the Second Lien Notes in full in cash (which shall provide for the payment of accrued but unpaid postpetition interest);
+claims arising under, derived from, based on or related to (a) the 8.500% secured notes due November 15, 2031, issued by Frontier Southwest Incorporated pursuant to the Restated Indenture, dated June 1, 1940, by and among Frontier Southwest Incorporated, as issuer, and BOKF, NA, as successor trustee, and (b) Rural Utilities Service loan contracts due January 3, 2028 (collectively, the Subsidiary Secured Notes) shall be reinstated on the Effective Date, with holders of such claims receiving ordinary course cash interest payments at the applicable non-default contract rate through the Effective Date;
+claims arising under, derived from, based on or related to the 6.750% unsecured notes due May 15, 2027 issued by Frontier California Inc., the 6.860% unsecured notes due February 1, 2028 issued by Frontier Florida LLC, the 6.730% unsecured notes due February 15, 2028 issued by Frontier North Inc., the 8.400% unsecured notes due October 15, 2029 issued by Frontier West Virginia Inc. and the applicable indentures, debentures and purchase agreements associated therewith shall be reinstated on the Effective Date, with holders of such claims receiving ordinary course cash interest payments at the applicable non-default contract rate through the Effective Date;
+holders of claims arising under, derived from, based on, or related to the unsecured notes issued by the Company shall receive their (i) pro rata share of and interest in the Incremental Senior Notes Payment Amount (as defined in the Plan) and (ii) pro rata share of and interest in (after first reducing, for distribution purposes only, the amount of each such holder’s senior notes claim on a dollar-for-dollar basis by the amount of Incremental Senior Notes Payments, and solely to the extent actually paid): (a) 100% of the Reorganized Company’s new common stock, subject to dilution by the Reorganized Company’s management incentive plan; (b) the Takeback Debt, if any; and (c) the Surplus Cash (as defined in the Plan), if any;
+to the extent not already satisfied during the Chapter 11 Cases, holders of certain other claims that are not secured shall receive: (i) payment in full in cash; (ii) reinstatement; or (iii) such other treatment rendering such claims unimpaired, in each case as reasonably acceptable to the Company Parties and the Required Consenting Noteholders;
+holders of secured claims (other than claims arising under, derived from, based on or related to the Revolver, the Term Loan B, the Original First Lien Notes, the Second Lien Notes, the Subsidiary Secured Notes, the Secured Tax Claims or DIP Facilities) shall receive, at the option of the applicable Company Party: (i) payment in full in cash, (ii) reinstatement; (iii) delivery of the collateral securing such claim; or (iv) such other treatment rendering such claim unimpaired;
+claims subject to subordination under section 510(b) of the Bankruptcy Code shall be cancelled, released, discharged, and extinguished;
+all intercompany claims and intercompany interests shall be either (a) reinstated or (b) cancelled on the Effective Date; and
+all equity securities in the Company shall be cancelled, released and extinguished on the Effective Date.
+For more information on the repayment of the Revolver, the Original First Lien Notes, the Term Loan B and the Original Second Lien Notes, see -Term Loan and Revolving Credit Facilities and New Secured Notes.
+Secured Creditor Settlement
+The Plan will effectuate the settlement, release, compromise, discharge, and other resolution of all outstanding claims, interests, and causes of action, including the Objection of the Ad Hoc First Lien Committee to the Debtors’ Third Amended Joint Plan of Reorganization Pursuant to Chapter 11 of the Bankruptcy Code [Docket No. 857], the Objection of the Second Lien Notes Trustee to the Debtors’ Third Amended Joint Plan of Reorganization Pursuant to Chapter 11 of the Bankruptcy Code [Docket No. 858], and the Second Lien Committee’s Joinder to the Second Lien Notes Trustee’s Objection [Docket No. 860], as between the Company Parties, the ad hoc committee of certain unaffiliated holders of Term Loan B claims and Original First Lien Notes claims (the First Lien Committee) represented by Paul, Weiss, Rifkind, Wharton & Garrison LLP and PJT Partners LP, the Second Lien Notes Trustee, and the ad hoc committee of certain unaffiliated holders of Original Second Lien Notes claims represented by Quinn Emanuel
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Urquhart & Sullivan, LLP (the Second Lien Committee) (such settlement, the Secured Creditor Settlement). The Secured Creditor Settlement includes, among other terms and subject to certain conditions, the following key terms:
+holders of Term Loan B claims, Original First Lien Notes claims, and Original Second Lien Notes claims, and the First Lien Committee and Second Lien Committee, shall be deemed to have consented to reinstatement and shall not allege, and shall be deemed to have waived and foregone any objections to, any defaults arising from the transactions set forth in the Plan;
+holders of Term Loan B claims, Original First Lien Notes claims, and Original Second Lien Notes claims, and the First Lien Committee and Second Lien Committee shall be deemed to have consented to and shall not impede or otherwise delay the Debtors’ pursuit of certain debtor in possession/exit financing facilities;
+holders of Term Loan B claims, Original First Lien Notes claims, and Original Second Lien Notes claims, and the First Lien Committee and Second Lien Committee, shall waive and forgo any and all “make-whole” claims and claims to default interest under the JPM Credit Agreement, the Original First Lien Notes indenture, and/or the Second Lien Notes indenture, as applicable;
+holders of Revolver claims, Term Loan B claims, Original First Lien Notes claims (including the First Lien Committee), the applicable agents, and the Original First Lien Notes trustee shall be deemed to have waived any enforcement of any turnover or payment over rights under the Junior Lien Intercreditor and Subordination Agreement, dated as of March 19, 2018, against the Debtors, Second Lien Notes Trustee, or holders of Original Second Lien Notes claims with respect to certain obligations and amounts;
+the Company Parties shall make a $48 million payment to holders of Term Loan B claims, a $9 million payment for the benefit of holders of Original First Lien Notes claims, and, in the event that the Effective Date occurs on or after March 31, 2021, an incremental payment of $8 million to holders of Term Loan B claims, subject to the provisions and conditions of the Plan with respect to such payments;
+the Company Parties or the Reorganized Company Parties, as applicable, shall pay in full in cash all reasonable First Lien Committee fees and Second Lien Committee fees that are due and owing under the applicable engagement letters; and
+all adequate protection currently in effect shall remain in effect until entry of a final adequate protection order and, upon the Company Parties’ entry into any DIP Facilities, the Bankruptcy Court shall enter a final adequate protection order granting, among other things, adequate protection to secured creditors in the form of (i) liens and claims on all collateral securing any future DIP Facilities, and (ii) cash payments in the amount of accrued interest.
+DIP Financing
+As previously disclosed, prior to the commencement of the Chapter 11 Cases, the Company and certain of its domestic subsidiaries entered into that certain Commitment Letter, dated April 14, 2020 (as amended by that certain Letter Agreement, dated April 28, 2020, by that certain Letter Agreement, dated May 12, 2020, by that certain Letter Agreement, dated June 10, 2020, by that certain Letter Agreement, dated June 29, 2020 and as further amended, modified or supplemented from time to time, the Original Commitment Letter) with Goldman Sachs Bank USA (GS Bank), Deutsche Bank AG New York Branch (DBNY), Deutsche Bank Securities Inc. (DBSI and, collectively with DBNY, DB), Barclays Bank PLC (Barclays), Morgan Stanley Senior Funding, Inc. (MSSF), Credit Suisse AG, Cayman Islands Branch (CS) and Credit Suisse Loan Funding LLC (CSLF and, together with CS and their respective affiliates, Credit Suisse, and together with GS Bank, DB, Barclays and MSSF, the Original Commitment Parties), pursuant to which, and subject to the satisfaction of certain customary conditions, including the approval of the Bankruptcy Court, GS Bank, DBNY, Barclays, MSSF and CS committed to provide a portion of the senior secured superpriority revolving credit facility in an aggregate principal amount of $460 million, which, upon satisfaction of certain conditions, including the effectiveness of the Plan, would convert into a longer term revolving exit facility. The Original Commitment Letter lapsed in accordance with its terms.
+The Company and certain of its domestic subsidiaries entered into a Commitment Letter, dated August 13, 2020, with the Original Commitment Parties, which was amended and restated by that certain Amended and Restated Commitment Letter, dated August 28, 2020, with the Original Commitment Parties and JPMorgan Chase Bank, N.A. (JPM) (collectively, the New Commitment Parties), pursuant to which, and subject to the satisfaction of certain customary conditions, including the approval of the Bankruptcy Court, GS Bank, JPM, DBNY, MSSF and CS committed to provide a portion of the $625 million DIP Revolving Facility, which, upon satisfaction of certain conditions, including the effectiveness of the Plan, would convert into a longer term revolving exit facility (the Exit Revolving Facility).
+On August 14, 2020, the Company and certain of its subsidiaries entered into an engagement letter, which was amended and restated on August 28, 2020 by that certain Amended and Restated Engagement Letter by and among
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+the Company and certain of its subsidiaries and Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC, DBSI, Barclays Capital Inc., Morgan Stanley & Co. LLC and Credit Suisse Securities (USA) LLC, in connection with a proposed issuance, offering and sale senior secured superpriority first lien and/or second lien notes to be issued by the Company or an affiliate thereof.
+The Company and certain of its domestic subsidiaries also entered into that certain Engagement Letter, dated August 14, 2020, with GS Bank, which was amended and restated by that certain Amended and Restated Engagement Letter, dated August 28, 2020 with the New Commitment Parties, in connection with the DIP Term Loan Facility, which, upon satisfaction of certain conditions, including the effectiveness of the Plan, would convert into a term loan Exit Facility (the Exit Term Loan Facility).
+On August 28, 2020, the Company Parties filed the DIP Financing Motion with the Bankruptcy Court to approve the indentures, credit, guarantee and security documents governing the obligations under the DIP Financing. On September 17, 2020, the Bankruptcy Court entered the final order approving the DIP Financing Motion.
+Pursuant to the DIP financing order, the Debtors were authorized to issue the First Lien Notes due May 2028, the New Second Lien Notes, and the Incremental DIP Term Loan Facility. However, the original financing letters approved by the DIP financing order expired following the closing of the DIP Revolving Facility, Initial DIP Term Loan Facility, and First Lien Notes due October 2027. On November 13, 2020, the Debtors, via court-entered stipulation, obtained approval from the Bankruptcy Court to enter into supplemental financing letters to facilitate raising the First Lien Notes due 2028, the New Second Lien Notes, and the Incremental DIP Term Loan Facility. Collectively, the DIP financing has been used to refinance the Original First Lien Notes, the Second Lien Notes, and the Term Loan B. See “-Term Loan and Revolving Credit Facilities and New Secured Notes” for more information on the terms of the DIP financing.
+On October 8, 2020, the Company issued $1,150 million aggregate principal amount of the First Lien Notes due October 2027, entered into the $625 million DIP Revolving Facility and entered into the $500 million Initial DIP Term Loan Facility. The Company used the proceeds from the issuance, together with the proceeds of the DIP Term Loan Facility and cash on hand, to (i) repay in full the Company’s $1,650 million aggregate principal amount Original First Lien Notes and (ii) pay related interest, fees and expenses.
+On November 25, 2020 the company issued $1,550 million aggregate principal amount of the First Lien Notes due May 2028, $1,000 million aggregate principal amount of the New Second Lien Notes, and borrowed an incremental $750 million pursuant to the Incremental DIP Term Loan Facility. The company used the proceeds from the issuance, the incremental borrowing, and cash on hand to (i) repay all outstanding borrowings under our prepetition Term Loan B, (ii) repay in full the Original Second Lien Notes, and (iii) pay related interest, fees and expenses incurred in connection therewith.
+For information about events related to the DIP Financing, refer to “-Capital Resources”.
+Regulatory Approvals
+As set forth in the Plan and the Disclosure Statement, in order to implement the restructuring contemplated by the Plan, the Company Parties must satisfy several conditions after confirmation of the Plan but prior to emergence from Chapter 11. Among other things, the Company Parties must obtain requisite regulatory approvals, including FCC and required PUC approvals in certain states. As part of the regulatory approval process, the Company made a number of affirmative commitments and the FCC and states have imposed additional conditions on the Company as part of approval for the Restructuring, including specific investment, broadband service deployment, service quality improvements, reporting and compliance conditions. The regulatory approval process is moving forward, and the Company has received PUC approvals or favorable determinations in all of the required states at this time, except California. No assurance can be given as to the terms, conditions, and timing of the remaining California approval.
+Effects of the Restructuring and the Chapter 11 Cases on Our Liquidity
+The filing of the Chapter 11 Cases constituted an event of default that accelerated substantially all of our obligations under the documents governing the JPM Credit Facilities, the Original First Lien Notes, the Second Lien Notes, our unsecured notes and debentures and the secured and unsecured debentures of our subsidiaries. However, pursuant to the Bankruptcy Code and as described in “Part II. Other Information-Item 1. Legal Proceedings”, the filing of the Bankruptcy Petitions automatically stayed most actions against the Company Parties, including most actions to collect indebtedness incurred prior to the Petition Date or to exercise control over the Company Parties’ property. Accordingly, although the filing of the Bankruptcy Petitions triggered events of default under our existing debt
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+obligations, creditors are stayed from taking action as a result of these defaults. Additionally, under Section 502(b)(2) of the Bankruptcy Code, and subject to the terms of the DIP financing order providing for adequate protection payments to certain of our prepetition lenders, we are no longer required to pay interest on our indentures and credit facilities accruing on or after the Petition Date.
+Additionally, in connection with the Chapter 11 Cases, we have incurred, and expect to continue to incur, significant professional fees and other costs in connection with the Chapter 11 Cases. There can be no assurance that our current liquidity is sufficient to allow us to satisfy our obligations related to the Chapter 11 Cases or to pursue confirmation of the Plan.
+Other Information Related to the Restructuring
+We have significant deferred tax assets, including NOLs, The impact of the Restructuring on the Company’s NOLs will depend on whether the Restructuring is structured as (i) a taxable disposition of substantially all of the assets and/or subsidiary stock of the Company, (ii) as a recapitalization of the Company, or (iii) some other alternative structure. If structured as a taxable disposition, we anticipate that NOLs of the Company (if any) remaining after the Restructuring will not be available to the Company after consummating the Restructuring. If structured as a recapitalization, we anticipate that the Company will experience an ownership change, and thus NOLs of the Company (if any) remaining after the Restructuring will be subject to limitation, such that the Company may not derive all of the benefits of any such remaining NOLs after consummating the Restructuring.
+See “Risk Factors-Risks Related to the Restructuring, Our Indebtedness and Liquidity,” and Note 15 of the Notes to Consolidated Financial Statements for more information on the Restructuring and the risks related thereto. See “-Shareholder Rights Plan” for a description of the shareholder rights plan our Board of Directors adopted to protect our NOLs from the effect of limitations imposed by federal and state tax rules following a change in the ownership of our stock. Refer to Note 1 of the Notes to Consolidated Financial Statements for further discussion of the Company’s ability to continue as a going concern and Note 9 for further detail of our debt obligations as of and for the year ended December 31, 2020.
+Off-Balance Sheet ArrangementsWe do not maintain any off-balance sheet arrangements, transactions, obligations or other relationships with unconsolidated entities that would be expected to have a material current or future effect upon our financial statements.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Future Contractual Obligations and Commitments
+A summary of our future contractual obligations and commercial commitments as of December 31, 2020 is as follows:
+Payments due by period
+($ in millions)
+Total
+Thereafter
+Long term debt obligations,
+reclassified to Liabilities
+subject to compromise (1)
+$
+10,949
+$
+10,949
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+DIP-to-Exit secured
+debt obligations (2)
+4,950
+4,950
+-
+-
+-
+-
+-
+Other secured long term debt
+and subsidiary debt
+obligations (3)
+-
+-
+-
+-
+-
+Interest on long-term debt (4)
+2,591
+Lease obligations
+Purchase obligations
+Liability for uncertain
+tax positions
+-
+-
+-
+-
+Total
+$
+20,001
+$
+17,299
+$
+$
+$
+$
+$
+(1) Includes unsecured debt issued by Frontier that has been reclassified to Liabilities subject to compromise as of December 31, 2020 on our consolidated balance sheet. Refer to Note 3 for additional details.
+(2) Includes secured debt issued by Frontier under the DIP Term Loan Facility, the 2027 First Lien Indenture, the 2028 First Lien Indenture, and the New Second Lien Indenture that is included in Long Term Debt due within one year as of December 31, 2020 on our consolidated balance sheet. Refer to note 9 for additional details.
+(3) Includes unsecured and secured debt issued by subsidiary companies of Frontier and other secured debt issued by Frontier included in Long Term Debt due within one year as of December 31, 2020 on our consolidated balance sheet.
+(4) Includes interest incurred on DIP-to-Exit secured debt, other secured debt, and subsidiary secured and unsecured debt.
+Our outstanding performance letters of credit decreased from $151 million to $139 million during the year ended December 31, 2020. Letters of credit exclude approximately $57 million of cash held in trust in lieu of issuing letters of credit for Zurich Insurance related claims.
+In 2015, Frontier accepted the FCC’s CAF Phase II offer in 29 states, which provides $332 million in annual support and in return the Company is committed to make broadband available to approximately 774,000 locations within its footprint. This amount included approximately 41,000 locations and $19 million in annual support related to the four states of the Northwest Operations, which were disposed on May 1, 2020. To the extent we do not enable the required number of households with 10 Mbps downstream/1 Mbps upstream broadband service by the end of the CAF Phase II, or we are unable to satisfy other FCC CAF Phase II requirements, Frontier would be required to return a portion of the funds previously received.
+In 2020, Frontier was awarded approximately $371 million over ten years to build gigabit-capable broadband over a fiber-to-the-premises network to approximately 127,000 locations across eight states (California, Connecticut, Florida, Illinois, New York, Pennsylvania, Texas, and West Virginia). Frontier submitted its Long Form application to the FCC on January 29, 2021 and, assuming the long-form application is granted by the FCC, anticipates that it will begin receiving funding on January 1, 2022, in which case, Frontier will be required to complete the buildout to the RDOF locations by December 31, 2027, with interim target milestones over this period. To the extent we do not enable the required number of locations with gigabit-capable broadband service by the end of the RDOF period, or we are unable to satisfy other FCC RDOF requirements, Frontier would be required to return a portion of the funds previously received.
+Critical Accounting Policies and Estimates
+The preparation of our financial statements requires management to make estimates and assumptions. There are inherent uncertainties with respect to such estimates and assumptions; accordingly, it is possible that actual results could differ from those estimates and changes to estimates could occur in the near term. The estimates which require the most significant judgment are listed below.
+These critical accounting estimates have been reviewed with the Audit Committee of our Board of Directors. For a discussion of these and other accounting policies, see Note 1 of the Notes to Consolidated Financial Statements.
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+Allowance for Doubtful Accounts
+We maintain an allowance for doubtful accounts based on our estimate of our ability to collect accounts receivable. Our estimates are based on assumptions and other considerations, including payment history, customer financial performance, carrier billing disputes and aging analysis. Our estimation process includes general and specific reserves and varies by customer category. In 2020 and 2019, we had no “critical estimates” related to bankruptcies of communications companies or any other significant customers. See Notes 1 and 5 of the Notes to Consolidated Financial Statements for additional discussion.
+Depreciation
+The calculation of depreciation expense is based upon the estimated useful lives of the underlying property, plant and equipment and identifiable finite-lived intangible assets. Depreciation expense is principally based on the composite group method for substantially all of our property, plant and equipment assets. The estimates for remaining lives of the various asset categories are determined annually, based on an independent study. Among other considerations, these studies include models that consider actual usage, replacement history and assumptions about technology evolution for each category of asset. The latest study was completed in the fourth quarter of 2020 and did not result in any significant changes in remaining lives for any of our asset categories. A one-year decrease in the estimated useful lives of our property, plant and equipment would result in an increase of approximately $146 million to depreciation expense.
+See Notes 6 and 7 of the Notes to Consolidated Financial Statements for additional discussion.
+Asset Impairments
+We review long-lived assets to be held and used, including customer lists and long-lived assets to be disposed of for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. When triggering events are identified, recoverability of assets to be held and used is measured by comparing the carrying amount of the asset to the future undiscounted net cash flows expected to be generated by the asset. Recoverability of assets held for sale is measured by comparing the carrying amount of the assets to their estimated fair market value. If any assets are considered to be impaired, the impairment is measured by the amount by which the carrying amount of the assets exceeds the estimated fair value. Also, we periodically reassess the useful lives of our tangible and intangible assets to determine whether any changes are required.
+Our indefinite lived trade name assets are evaluated for impairment annually. The annual process for assessing the carrying value of our trade name begins with a qualitative assessment of events and conditions similar to the assessment performed for goodwill. When events are identified, we evaluate the assets for impairment through comparison of the fair value of the trade name to the carrying value. The fair value of the trade name is determined using the relief from royalty method, which is a form of the income approach. As of December 31, 2019, no impairment was present for our trade name.
+We considered whether the carrying values of indefinite-lived intangible assets, finite-lived intangible assets, and property plant and equipment may not be recoverable or whether the carrying value of certain finite-lived intangible assets were impaired, noting no impairment was present as of or for the year ended December 31, 2020.
+Pension and Other Postretirement Benefits
+We sponsor a defined benefit pension plan covering a significant number of our current and former employees as well as other postretirement benefit plans that provide medical, dental, life insurance and other benefits for covered retired employees and their beneficiaries and covered dependents. As of December 31, 2020, the unfunded benefit obligation for these plans recorded on our consolidated balance sheet was $2,243 million. During 2020, we contributed $115 million to these plans in cash and recorded $53 million of operating expense before capitalization, including a gain on disposal of $62 million related to the sale of our Northwest Operations, and $202 million of net non-operating expense, including $159 million of pension settlement costs. Pension and other postretirement benefit costs and obligations are dependent upon various actuarial assumptions, the most significant of which are the discount rate and the expected long-term rate of return on plan assets.
+Our discount rate assumption is determined annually with assistance from our actuaries based on the pattern of expected future benefit payments and the prevailing rates available on long-term, high quality corporate bonds with durations approximate to that of our benefit obligation. As of December 31, 2020, and 2019, we utilized an estimation technique that is based upon a settlement model (Bond:Link) that permits us to closely match cash flows to the expected
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)
+payments to participants. This rate can change from year-to-year based on market conditions that affect corporate bond yields.
+We are utilizing a discount rate of 2.60% as of December 31, 2020 for our qualified pension plan, compared to rates of 3.40% and 4.30% in 2019 and 2018, respectively. The discount rate for postretirement plans as of December 31, 2020 was a range of 2.60% to 2.80% compared to a range of 3.40% to 3.50% in 2019 and 4.30% to 4.40% in 2018.
+In the following table, we show the estimated sensitivity of our pension and other postretirement benefit plan liabilities to a 25 basis point change in the discount rate as of December 31, 2020:
+($ in millions)
+Increase in Discount Rate of 25 bps
+Decrease in Discount Rate of 25 bps
+Pension plans
+Projected benefit obligation
+$
+(92)
+$
+Other postretirement plans
+Accumulated postretirement benefit obligation
+$
+(35)
+$
+In developing the expected long-term rate of return assumption, we considered published surveys of expected market returns, 10 and 20 year actual returns of various major indices, and our own historical 5 year, 10 year and 20 year investment returns. The expected long-term rate of return on plan assets is based on an asset allocation assumption of 40% in long-duration fixed income securities, and 60% in equity securities and other investments. We review our asset allocation at least annually and make changes when considered appropriate. Our asset return assumption is made at the beginning of our fiscal year. In 2020, 2019 and 2018, our expected long-term rate of return on plan assets was 7.50%. Our actual return on plan assets in 2020 was 13%. For 2021, we expect to assume a rate of return of 7.50%. Our pension plan assets are valued at fair value as of the measurement date.
+For additional information regarding our pension and other postretirement benefits (see Note 20 to the Notes to Consolidated Financial Statements).
+Income Taxes
+We file a consolidated federal income tax return. We utilize the asset and liability method of accounting for income taxes. Under the asset and liability method, deferred income taxes are recorded for the tax effect of temporary differences between the financial statement basis and the tax basis of assets and liabilities using tax rates expected to be in effect when the temporary differences are expected to reverse. Actual income taxes could vary from these estimates due to future changes in governing law or review by taxing authorities.
+We recognize deferred tax assets to the extent that we believe that these assets are more likely than not to be realized. In making such a determination, we consider all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies, and results of recent operations. If we determine that we are not able to realize a portion of our net deferred tax assets in the future, we would make an adjustment to the deferred tax asset valuation allowance, which would increase the provision for income taxes.
+The tax effect of a change in tax law or rates included in income tax expense from continuing operations includes effect of changes in deferred tax assets and liabilities initially recognized through a charge or credit to other comprehensive income. The residual tax effects typically are released when the item giving rise to the tax effect is disposed of, liquidated, or terminated. Since the Company has adopted the portfolio approach to release the residual tax effects, there is no release for the residual tax effect from the sale of our Northwest Operations.
+Recent Accounting Pronouncements
+See Note 2 of the Notes to Consolidated Financial Statements included in Part IV of this report for additional information related to recent accounting pronouncements.
+‎
+FRONTIER COMMUNICATIONS CORPORATION AND SUBSIDIARIES
+(DEBTOR-IN-POSSESSION)

@@ -1,0 +1,2605 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis of our financial condition and results of operations should be read together with our
+consolidated financial statements and related notes and other financial information appearing elsewhere in this Annual Report. We
+intend for this discussion to provide you with information that will assist you in understanding our consolidated financial statements,
+the changes in key items in those consolidated financial statements from year to year and the primary factors that accounted for those
+changes.
+Some of the information contained in this discussion and analysis or set forth elsewhere in this Annual Report, including
+information with respect to our plans and strategy for our business and related financing, includes forward-looking statements that
+involve risks, uncertainties and assumptions. See the section of this Annual Report titled “Special Note Regarding Forward-Looking
+Statements” for a discussion of forward-looking statements. As a result of many factors, including those factors set forth in the “Risk
+Factors” section of this Annual Report, our actual results could differ materially from management’s
+expectations and the results
+described in or implied by the forward-looking statements contained in the following discussion and analysis.
+Overview
+Vaxxinity is engaged in the development and commercialization of
+rationally designed prophylactic and
+therapeutic vaccines to combat
+chronic disorders
+and infectious
+diseases with
+large patient
+populations and
+unmet medical
+needs. While
+vaccines have
+traditionally
+been unable
+to effectively
+and safely
+combat such
+disorders, we
+believe our
+platform could
+overcome the
+traditional hurdles
+facing
+vaccines in this area.
+Our Vaxxine
+Platform relies on a synthetic peptide vaccine technology first developed by UBI and subsequently
+refined over the last two decades. We
+believe our vaccines have the potential to combat
+conditions that have not yet been successfully
+treated, or
+which have
+primarily been
+addressed with
+monoclonal antibodies
+(mAbs) which,
+while generally
+effective, are
+extremely
+costly and
+cumbersome, and
+thus have
+limited accessibility.
+Our pipeline
+primarily consists
+of five
+programs focused
+on chronic
+disease,
+particularly neurodegenerative
+disorders, in
+addition to
+other neurology
+and cardiovascular
+indications. Given
+the global
+COVID-19
+pandemic and
+our Vaxxine
+Platform’s
+applicability to
+infectious disease,
+we are
+also opportunistically
+advancing product
+candidates
+that address SARS-CoV-2.
+We separated our
+business from
+UBI through
+two separate
+transactions: a
+spin-out from
+UBI in
+2014 of
+operations focused
+on developing
+chronic
+disease
+product
+candidates
+that
+resulted
+in
+UNS,
+and
+a
+second
+spin-out
+from
+UBI
+in
+of
+operations
+focused
+on
+the
+development of a COVID-19 vaccine that
+resulted in COVAXX.
+On February 2, 2021, Vaxxinity
+was incorporated for the purpose of
+reorganizing
+and combining
+UNS and
+COVAXX
+and did
+so on
+March 2,
+2021 through
+the Reorganization.
+In connection
+with the
+Reorganization, (i) all outstanding shares of UNS and COVAXX preferred stock and common stock were contributed to Vaxxinity
+and
+exchanged for an aggregate
+of 57,702,458 shares of
+our Class A common
+stock, 10,999,149 shares of
+our Class B common
+stock and
+58,175,751
+shares of our Series
+A preferred stock, (ii) the
+outstanding options to purchase
+shares of UNS and COVAXX common stock
+were terminated
+and substituted
+with options
+to purchase
+an aggregate
+of 19,712,504
+shares of
+our Class
+A common
+stock, (iii)
+the
+outstanding warrant to purchase shares of
+COVAXX
+common stock was cancelled and exchanged for
+a warrant that is exercisable for
+112,373
+shares of
+our Class
+A common
+stock, and
+(iv) the
+outstanding Convertible
+Notes and
+the Related
+Note were
+contributed to
+Vaxxinity and the former holders of such notes received an aggregate
+of
+4,047,344
+shares of our Series A preferred
+stock. As a result of
+the Reorganization, COVAXX
+and UNS became our wholly-owned
+subsidiaries. All shares of our
+Series A preferred stock converted
+into shares of
+our Class A
+common stock concurrently
+with the closing.
+The Reorganization was
+determined to be
+a common control
+transaction, so the
+carrying values of
+all contributed assets
+and assumed liabilities
+remained unchanged and
+the financial information
+for
+all
+periods in
+this
+section of
+the
+financial
+statements presented
+prior to
+the
+Reorganization
+are presented
+on
+consolidated basis.
+COVA
+XX was
+incorporated on
+March 23,
+2020, so
+periods prior
+to March
+23, 2020
+in this
+section of
+the financial
+statements only
+reflect the historical financial information of UNS. Unless the context requires otherwise, in this section we use the terms “Vaxxinity,”
+“we,” “us” and “our” to refer to our operations (including through UNS and COVAXX) both prior to and after the Reorganization.
+Since our spin-out transactions from UBI, we have focused on
+organizing and staffing our business, business planning,
+raising capital,
+developing
+our
+Vaxxine
+Platform,
+identifying
+and
+testing
+potential
+product
+candidates
+and
+conducting
+clinical
+trials.
+We
+have
+also
+developed a SARS CoV-2 antibody ELISA test, which received an EUA from the FDA in January 2021.
+Our current pipeline consists
+of six programs from early
+to late-stage development, including
+five programs focused on
+chronic disease.
+Our neurodegenerative chronic disease program has three primary programs: UB-311, our leading neurology product candidate, which
+targets AD; UB-312, which
+targets PD and other
+synucleinopathies;
+and an anti-tau product
+candidate which has
+the potential to address
+multiple neurodegenerative conditions, including AD.
+Additionally, we
+have two other primary
+programs focused on chronic
+disease:
+UB-313, which targets CGRP
+to prevent migraines;
+and our anti-PCSK9
+program, which targets
+hypercholesterolemia to reduce
+the risk
+of cardiac events.
+Through our
+Vaxxine Platform, we believe
+we may
+be able
+to address a
+wide range
+of other
+chronic diseases,
+including
+chronic diseases that are or could potentially be successfully treated by mAbs, which increasingly dominate the treatment
+paradigm for
+many chronic diseases.
+In addition
+to our
+chronic disease
+pipeline, given
+our Vaxxine
+Platform’s
+applicability to
+infectious disease
+and the
+global need
+for
+additional vaccines
+to address
+SARS-CoV-2, we are advancing
+an infectious
+disease product
+candidate. We have reported
+interim results
+of our
+UB-612 Phase
+1, Phase
+2, and
+Phase 1
+extension clinical
+trials. An
+EUA application
+for UB-612
+was denied
+by the
+TFDA in
+August 2021. We are appealing
+the TFDA’s decision in partnership with UBIA.
+At the same
+time, we are
+pursuing accelerated pathways
+to authorization with regulators in multiple jurisdictions, including high income countries and LMICs, based on a heterologous booster
+trial of UB-612 in the first half of 2022.
+To date,
+our revenue has been
+generated from the modest
+sales of our ELISA
+test and the sale
+of an option to negotiate
+a license with
+UNS (which
+option has
+expired). As
+a result,
+our ability
+to generate
+revenue sufficient
+to achieve
+profitability will
+depend on
+the eventual
+regulatory approval,
+and commercialization
+of one
+or more
+of our
+product candidates.
+We have not yet
+obtained any
+regulatory approvals
+for our product candidates or conducted sales and marketing activities for our product candidates.
+We have principally funded our operations through financing transactions. Through December 31, 2021,
+we received gross proceeds of
+$306.1 million
+in
+connection with
+various financial
+instruments, including
+the sale
+of preferred
+and common
+stock, the
+issuance of
+promissory notes (including
+convertible promissory notes
+(“Convertible Notes”)), and
+the entry into
+simple agreements for
+future equity
+(“SAFEs”).
+Costs associated with research and development are the most significant
+component of our expenses. These costs can vary greatly from
+period to period depending
+on the timing of
+various trials for our
+product candidates. We expect our allocated
+research and development
+costs and
+general and
+administrative expenses
+to increase
+over time
+as we
+expand the
+number of
+product candidates
+that we
+are advancing
+and incur
+increased costs as
+a result of
+operating as
+a public company.
+Further, we
+anticipate incurring greater
+selling and marketing
+expenses if we
+commercialize any of
+our product candidates
+in the future.
+Our product candidates
+are in clinical
+stage or pre-clinical
+stage development, and we
+have generated limited revenue
+to date and
+have incurred significant
+operating losses since inception.
+Net
+losses were $137.2 million and
+$40.0 million for the years
+ended December 31, 2021 and
+2020, respectively. As of December 31, 2021,
+we had an
+accumulated deficit of
+$229.5 million. We expec
+t our expenses
+and capital requirements
+will increase over
+time in connection
+with our planned operations, which include:
+•
+continuing pre-clinical studies, existing clinical trials, or initiating new clinical trials for product candidates UB-311, UB-312,
+UB-313, our COVID-19 product candidate and other product candidates;
+•
+advancing
+the
+development
+of
+our
+product
+candidate
+pipeline
+of
+other
+product
+candidates,
+including
+through
+business
+development efforts to invest in or in-license other technologies or product candidates;
+•
+hiring additional clinical, quality control, medical, scientific and other technical personnel to support clinical and research and
+development programs;
+•
+expanding operational, financial
+and management systems
+and infrastructure, expanding
+our facilities and
+increasing personnel
+to support operations;
+•
+undertaking actions to meet the requirements and demands of being a public company;
+•
+maintaining, expanding and protecting our intellectual property portfolio;
+•
+seeking regulatory approvals for any product candidates that successfully complete clinical trials; and
+•
+undertaking pre-commercialization activities to establish sales, marketing and distribution capabilities for any product
+candidates for which we may receive regulatory approval in regions where we elect to commercialize products on our own or
+jointly with third parties.
+As of
+the date of
+this Report, we
+expect our existing
+cash and
+cash equivalents will
+be sufficient
+to fund
+our operating
+expenses and
+capital expenditure requirements for at least the
+next 12 months. We
+also believe that cash and cash equivalents will
+enable us to fund
+our operating expenses
+and capital expenditure
+requirements into 2023.
+Thereafter, our viability will
+be dependent on
+our ability to raise
+additional capital to
+finance operations, to
+successfully commercialize our
+product candidates and/or
+to enter into
+collaborations with
+third parties for the
+development of our product candidates.
+If we are unable
+to do any of
+the foregoing, we would be
+forced to delay,
+limit, reduce or terminate our product candidate development or future commercialization efforts. Our estimates are based on
+a variety
+of assumptions
+that may
+prove to
+be wrong,
+and we
+could exhaust
+our available
+capital resources
+sooner than
+expected. See
+“- Liquidity
+and Capital Resources.”
+Business Update Regarding COVID-19 Pandemic
+In March
+2020, the
+World
+Health Organization
+declared the
+COVID-19 outbreak
+a pandemic.
+The onset
+of the
+pandemic led
+to our
+institutional
+prioritization
+of
+COVID-19
+vaccine
+development
+efforts,
+which
+correlated
+to
+a
+decline
+in
+research
+and
+development
+expenditures for our chronic disease product candidates. To
+date, our operations have not been negatively impacted
+by the COVID-19
+pandemic in a material manner. However, at this time, we cannot predict the specific extent, duration or full impact that the COVID-19
+pandemic will have
+on our financial
+condition and operations,
+but the development
+of clinical supply
+materials could be
+delayed and
+enrollment of patients in our studies may be delayed or suspended, as hospitals and clinics in areas where we are conducting trials shift
+resources
+to
+cope
+with
+the
+COVID-19
+pandemic
+and
+may
+limit
+access
+or
+close
+clinical
+facilities
+due
+to
+the
+COVID-19
+pandemic.
+Additionally, if our trial participants
+are unable to
+travel to our
+clinical study sites
+as a result
+of quarantines or
+other restrictions resulting
+from the COVID-19 pandemic, we may experience
+higher drop-out rates or delays in our clinical
+studies. The impact of the COVID-19
+pandemic on
+our financial
+performance will
+depend on
+future developments,
+including the
+duration and
+spread of
+the pandemic
+and
+related
+governmental
+advisories
+and
+restrictions.
+These
+developments
+and
+the
+impact
+of
+the
+COVID-19
+pandemic
+on
+the
+financial
+markets and the overall economy are highly uncertain and cannot be predicted. If the financial markets and/or
+the overall economy are
+impacted for an extended period,
+our results may be
+materially adversely affected. See
+“Risk Factors-Risks Related to Our
+Business
+and
+Industry-The
+ongoing
+coronavirus
+pandemic
+has
+caused
+interruptions
+or
+delays
+of
+our
+business
+plan.
+Delays
+caused
+by
+the
+coronavirus pandemic may have a significant adverse effect on our business.”
+Components of Our Consolidated Results of Operations
+Revenue
+Revenue for the years
+ended December 31, 2021
+and 2020 was $0.1
+million and $0.6 million,
+respectively, and consisted of commercial
+sales of our ELISA
+tests. While we continue to
+expect some revenue from sales
+of our ELISA tests,
+we do not expect
+to generate any
+meaningful revenue unless and until we obtain regulatory
+approval of and commercialize our product candidates, and we
+do not know
+when, or
+if, this
+will occur.
+If our
+development efforts
+for our
+product candidates
+are successful
+and result
+in commercialization,
+we
+may generate additional
+revenue in the
+future from a
+combination of product
+sales or payments
+from collaboration or
+license agreements
+that we have entered
+into or may enter
+into with third parties.
+See Risk Factors-Risks Related
+to the Discovery and
+Development of
+Product Candidates.
+We
+have incurred significant
+losses since our
+inception. We
+expect to incur
+losses for the
+foreseeable future and
+may never achieve or maintain profitability.
+Cost of Revenue
+Cost of revenue
+consists of kit
+production costs consisting
+of materials, labor
+and overhead expenses
+directly related to
+ELISA tests sold
+and the costs of expired ELISA tests, which are not available for commercial sale.
+If our development efforts
+in respect of our current pipeline
+of product candidates are successful and
+result in regulatory approval, we
+expect our cost
+of revenue will
+increase in relative
+proportion to the
+level of our
+revenue as we
+commercialize the applicable product
+candidate. We
+expect that
+cost of
+revenue will
+increase in
+absolute dollars
+as and
+if our
+revenue grows
+and will
+vary from
+period to
+period as a percentage of revenue.
+Research and Development Expenses
+The design, initiation and execution of
+candidate discovery and development programs
+of our future potential product candidates
+is key
+to our
+success and
+involves significant
+expenses. Prior
+to initiating
+these programs,
+project teams
+incorporating individuals
+from the
+essential disciplines within
+Vaxxinity scope out the activities, timing,
+requirements, inclusion and
+exclusion criteria and
+the primary and
+secondary endpoint. Once we have decided
+to proceed, our Vaxxine
+Platform enables the iteration of drug candidates
+in the discovery
+phase through rapid,
+rational design and
+formulation. After we
+have identified drug
+candidates, the costs
+of scaling the
+formulation from
+research grade
+to clinical
+grade, then
+to commercial
+grade, typically
+consumes significant
+resources. In
+addition, to
+internal research
+and development, we utilize service providers, including related parties, to complete activities we do not
+have the internal resources to
+handle.
+Research and development expenses consist primarily of costs incurred for research activities, including drug discovery efforts and the
+development of our product candidates. We expense research and development costs as incurred, which include:
+•
+expenses incurred to conduct the necessary preclinical studies and clinical trials required to obtain regulatory approval;
+•
+expenses incurred under agreements with CROs that are primarily engaged in the oversight and conduct of our clinical trials,
+preclinical studies and drug discovery efforts and contract manufacturers that are primarily engaged to provide preclinical
+and clinical drug substance and product for our research and development programs;
+•
+other costs related to acquiring and manufacturing materials in connection with our drug discovery efforts and preclinical
+studies and clinical trial materials, including manufacturing validation batches, as well as investigative sites and consultants
+that conduct our clinical trials, preclinical studies and other scientific development services;
+•
+payments made in cash or equity securities under third-party licensing, acquisition and option agreements;
+•
+employee-related expenses, including salaries and benefits, travel and stock-based compensation expense for employees
+engaged in research and development functions;
+•
+costs related to compliance with regulatory requirements; and
+•
+facilities-related costs, depreciation and other expenses, which include rent and utilities.
+We
+recognize external
+development
+costs based
+on
+an evaluation
+of
+the progress
+to
+completion of
+specific
+tasks using
+information
+provided to us
+by service providers.
+This process involves
+reviewing open contracts
+and purchase orders,
+communicating with personnel
+to identify services
+that have been
+performed on
+our behalf and
+estimating the
+level of service
+performed and the
+associated cost incurred
+for the service when we have not yet been invoiced or otherwise notified of actual costs. Any
+nonrefundable advance payments that we
+make for goods or services to be received in the future for use in research and development activities are recorded as prepaid expenses.
+Such amounts are expensed as the
+related goods are delivered or the
+related services are performed, or until
+it is no longer expected that
+the goods will be delivered or the services rendered, at which point the net remainder is expensed.
+We are heavily
+reliant on related parties for the advancement of our research and development programs, including for manufacturing,
+quality
+control,
+testing,
+validation,
+supply
+services,
+research
+support,
+development
+and
+clinical
+functions.
+During
+the
+years
+ended
+December 31, 2021
+and 2020, related
+party expenses were
+approximately 29% and
+56% of our
+operating expenses, respectively.
+We
+expect this reliance on related parties to diminish significantly in the future.
+Where appropriate,
+we allocate
+our third-party
+research and
+development expenses
+on a
+program-by-program basis.
+These expenses
+primarily
+relate
+to
+outside
+consultants,
+CROs,
+contract
+manufacturers
+and
+research
+laboratories
+in
+connection
+with
+pre-clinical
+development, process development,
+manufacturing and clinical
+development activities. We
+do not
+allocate our internal
+costs, such as
+employee costs, costs
+associated with our
+discovery efforts, laboratory
+supplies and facilities,
+including depreciation or
+other indirect
+costs, to
+specific programs
+because these
+costs often
+relate to
+platform development,
+to multiple
+programs simultaneously
+or to
+discovery
+of new
+programs, and
+any such
+allocation would necessarily
+involve significant estimates
+and judgments
+and, accordingly,
+would be
+imprecise. When we refer
+to the research and development
+expenses associated with a specific
+program, these refer exclusively
+to the
+allocated
+third-party
+expenses
+associated
+with
+that
+product
+candidate.
+All
+other
+research
+and
+development
+costs
+are
+referred
+to
+as
+unallocated costs.
+Product candidates in
+later stages of
+clinical development generally
+have higher development
+costs than those
+in earlier stages
+of clinical
+development,
+primarily
+due
+to
+the
+increased
+size
+and
+duration
+of
+later-stage
+clinical
+trials.
+Additionally,
+greater
+research
+and
+development overhead is
+required to support
+broader and more
+rapid development of
+our Vaxxine Platform and new product
+candidates.
+As a result, we expect that our research and development expenses will increase as we
+continue our existing and planned clinical trials
+and conduct
+increased pre-clinical and
+clinical development activities,
+including submitting regulatory
+filings for product
+candidates,
+and focus more
+generally on the
+development of our
+chronic disease product candidates.
+A significant driver of
+such increases would
+be the initiation of our
+Phase 2b trial for UB-311.
+We
+currently expect to initiate a
+Phase 2b early AD efficacy
+trial in the second half
+of 2022. If we
+decide to advance UB-311 through the
+clinic without a strategic
+partner, our costs would increase more
+significantly than
+if we engage a partner to fund the development of UB-311.
+At this time,
+we cannot reasonably
+estimate or know
+the nature, timing
+and costs of
+the efforts that
+will be necessary
+to complete the
+pre-clinical and clinical development of any of our product candidates or when, if ever, material net cash inflows may commence from
+any of our product candidates
+General and Administrative Expenses
+General
+and
+administrative
+expenses
+consist
+primarily
+of
+salaries
+and
+benefits,
+travel
+and
+stock-based
+compensation
+expense
+for
+personnel in
+executive, business development,
+finance, human
+resources, legal,
+information technology
+and administrative functions.
+General and administrative expenses also
+include facility- related costs as
+well as insurance costs and
+professional fees for legal, patent,
+consulting, investor and public relations, accounting
+and audit services and other general operating
+expenses not otherwise classified as
+research and development expenses. We expense general and administrative costs as incurred.
+We also anticipate that our general and administrative expenses will increase in the future as a result of increased costs associated with
+being a public company. In each case these increases will likely
+include increased costs related to the
+hiring of additional personnel and
+fees to outside consultants, personnel-related stock-based compensation costs, lawyers and accountants, among other expenses, and, in
+the
+case
+of
+public
+company-related
+expenses,
+services
+associated
+with
+maintaining
+compliance
+with
+Nasdaq
+listing
+and
+SEC
+requirements, director and officer liability insurance costs and investor and public relations costs.
+Other Expense (Income)
+Interest Expense
+Interest expense consists of (i) interest
+expense recognized on the note payable
+entered into during June 2020 for
+the acquisition of an
+airplane (the
+“2025 Note”),
+(ii) interest
+expense recognized
+on the
+Convertible Notes
+and (iii)
+interest expense
+recognized on
+other
+promissory
+notes,
+including
+$0.1
+million
+borrowed
+from
+our
+Chief
+Executive
+Officer
+(the
+“Executive
+Note”)
+and
+a
+related
+party
+Convertible Note payable
+for $2.0 million
+in aggregate proceeds
+that was received
+in three tranches
+(the “2018 Related
+Notes”). The
+Executive Note was repaid
+in full in August
+2021 and the 2018
+Related Notes were converted
+into Series A preferred
+stock concurrently
+with the Reorganization.
+Interest Income
+Interest income consists of income earned on our cash and cash equivalents.
+Change in Fair Value of Convertible Notes, SAFEs and Series A-1 Warrant
+Liability
+We
+issued a series of Convertible
+Notes during the years ended
+December 31, 2018 through 2021,
+a series of SAFEs during
+the years
+ended December 31, 2020 and 2021, and warrants to purchase shares of our Series A-1 preferred stock (“Series A-1 Warrants”) during
+the year ended December 31, 2020, each of which
+were measured and accounted for at fair value. We remeasured the fair value of each
+of
+the
+Convertible
+Notes,
+SAFEs
+and
+Series
+A-1
+Warrants
+at
+each
+reporting
+date
+and
+recognize
+changes
+in
+the
+fair
+value
+in
+our
+consolidated statements of operations. Inputs to the calculation of fair value generally include market and acquisition comparable(s) as
+well as other
+variables. In connection
+with the Reorganization,
+all outstanding Convertible
+Notes, SAFEs, and
+Series A-1 Warrants were
+exchanged for
+shares of
+Series
+A preferred
+stock, which
+were
+subsequently exchanged
+into shares
+of
+Class A
+common stock
+upon
+closing of the IPO in November 2021.
+Loss on Foreign Currency Translation, Net
+Our foreign subsidiaries, which
+are wholly-owned by COVAXX and UNS, use the U.S.
+dollar as their functional
+currency and maintain
+records in the local
+currency. Nonmonetary assets and liabilities
+are remeasured at historical
+rates and monetary assets
+and liabilities are
+remeasured at exchange
+rates in effect at
+the end of
+the reporting period.
+Income statement accounts
+are remeasured at
+average exchange
+rates for the reporting period. The resulting gains or
+losses are included in foreign currency (losses) gains in
+the consolidated financial
+statements.
+Provision for Income Taxes
+We have not recorded any significant amounts related
+to income tax but have
+reserved $0.6 million of unrecognized
+tax benefits against
+NOLs. We have not recorded any income tax benefits for the majority of our net losses we incurred to date.
+We
+account for income
+taxes using the
+asset and liability
+method, which requires
+the recognition of
+deferred tax assets
+and liabilities
+for the expected future tax consequences of events that have been included in the consolidated financial statements or our tax returns.
+Deferred tax assets
+and liabilities are
+determined based on the
+difference between the financial
+statement carrying amounts
+and tax basis
+of existing assets and liabilities and for loss and credit carryforwards, which are measured
+using the enacted tax rates and laws in effect
+in the years in which the differences are expected
+to reverse. The realization of our deferred
+tax assets is dependent upon the
+generation
+of future taxable income, the amount
+and timing of which are uncertain.
+Valuation
+allowances are provided, if, based upon
+the weight
+of available evidence, it is more
+likely than not that some
+or all of the deferred tax
+assets will not be realized.
+As of December 31, 2021,
+we continue to maintain
+a full valuation allowance
+against all of our
+deferred tax assets based
+on evaluation of all
+available evidence.
+We
+file income tax returns
+in the U.S. federal
+and state jurisdictions and
+may become subject to
+income tax audit and
+adjustments by
+related tax authorities. Our tax
+return periods (for entities then
+in existence) for U.S. federal income
+taxes for the tax years
+since 2017
+remain open to examination under the statute of limitations by the Internal Revenue Service and state jurisdictions. We record reserves
+for potential tax
+payments to various
+tax authorities related
+to uncertain
+tax positions, if
+any.
+The nature of
+uncertain tax positions
+is
+subject
+to
+significant
+judgment
+by
+management
+and
+subject
+to
+change,
+which
+may
+be
+substantial.
+These
+reserves
+are
+based
+on
+a
+determination of whether
+and how much
+a tax benefit
+taken by us
+in our tax
+filings or positions
+is more likely
+than not to
+be realized
+following the resolution of any potential contingencies related to the tax benefit. We develop our assessment of uncertain tax positions,
+and the associated cumulative probabilities, using internal
+expertise and assistance from third-party experts.
+As additional information
+becomes
+available,
+estimates
+are
+revised
+and
+refined.
+Differences
+between
+estimates
+and
+final
+settlement
+may
+occur
+resulting
+in
+additional tax expense. Potential
+interest and penalties
+associated with such
+uncertain tax positions is
+recorded as a
+component of our
+provision for income taxes.
+Factors Affecting the Comparability of Our Consolidated Results of Operations
+On March 2,
+2021, Vaxxinity entered into the Contribution
+and Exchange Agreement,
+pursuant to which
+the outstanding equity
+interests
+of
+UNS
+and
+COVAXX
+were
+contributed
+to
+Vaxxinity
+in
+return
+for
+equity
+interests
+in
+Vaxxinity,
+resulting
+in
+UNS
+and
+COVAXX
+becoming wholly owned subsidiaries of Vaxxinity.
+Accordingly, all share and per share amounts prior to the Reorganization have been
+adjusted to reflect the Reorganization. In
+addition, we formed COVAXX, and commenced our COVAXX business, on March 23, 2020.
+As a result,
+the historical financial information
+between March 23, 2020
+and March 2,
+2021 described in
+this Annual Report refers
+to
+the combined historical financial
+information of UNS
+and COVAXX
+and the historical financial
+information prior to March
+23, 2020
+described in this Annual Report refers only to the historical financial information
+of UNS. Our operations for the year ended December
+31, 2021 reflects the
+operations of UNS and
+COVAXX businesses on a consolidated basis for the period
+from January 1, 2021
+to March
+1, 2021
+and of
+Vaxxinity
+and its
+subsidiaries for
+the remainder
+of that
+twelve-month period.
+Our business
+operations for
+year ended
+December 31, 2020 reflects the operations of our UNS business from
+January 1, 2020 to March 22, 2020 and our UNS and
+COVAXX
+businesses on a consolidated
+basis for the remainder
+of that twelve-month period.
+See Note 1 to
+our consolidated financial statements
+included elsewhere in this Form 10-K filing.
+Consolidated Results of Operations
+Comparison of the Years Ended December 31, 2021 and 2020
+The following table summarizes our consolidated results of operations for the years ended December 31, 2021 and 2020, together with
+the dollar change in those items from year to year (in thousands):
+Yea
+rs Ended December 31,
+Change
+$
+%
+Revenue
+$
+$
+(491)
+(88)%
+Costs of revenue
+1,937
+1,885
+3624%
+Gross (loss) profit
+(1,871)
+2,376
+470%
+Operating expenses:
+Research and development
+71,379
+20,570
+50,809
+247%
+General and administrative
+51,825
+12,217
+39,608
+324%
+Total operating expenses
+123,204
+32,787
+(90,417)
+(276)%
+Loss from operations
+(125,075)
+(32,282)
+(92,793)
+287%
+Other (income) expense:
+Interest expense
+1,182
+(342)
+(29)%
+Interest income
+(9)
+(1)
+(8)
+838%
+Change in fair value of convertible notes
+2,667
+5,761
+(3,094)
+(54)%
+Change in fair value of simple agreements for future equity
+8,365
+7,750
+1260%
+Change in fair value of warrant liability
+422%
+Loss on foreign currency translation, net
+(54)
+(70)%
+Other (income) expense, net
+12,100
+7,675
+(4,425)
+(58)%
+Net loss
+$
+(137,175)
+$
+(39,957)
+(97,218)
+243%
+Revenue
+Total
+revenue
+was
+$0.1
+million
+and
+$0.6
+million
+for
+the
+years
+ended
+December
+31,
+and
+2020,
+respectively.
+All
+revenue
+and
+comparable decreases were due to sales of our ELISA tests. We
+are not actively pursuing commercialization of our ELISA tests at this
+time.
+Gross Margin
+The gross margin for
+the year ended December
+31, 2021 was negative
+however the sales
+volume was de minimis.
+During the year ended
+December 31,
+2021, we
+wrote off
+,
+to cost
+of revenue,
+$1.9 million
+in expired
+ELISA tests
+that had
+no commercial
+value, driving
+a
+significant change in gross profit percentage.
+Research and Development Expenses
+Research
+and
+development
+expenses
+were
+$71.4
+million
+and
+$20.6
+million
+for
+the
+years
+ended
+December
+31,
+and
+2020,
+respectively.
+The
+$50.8
+million
+increase
+was
+primarily
+due
+to
+an
+increase
+of
+$42.6
+million
+in
+costs
+related
+to
+UB-612,
+primarily
+consisting of materials
+and manufacturing costs
+and CRO costs associated
+with our ongoing clinical
+trial in Taiwan, which program
+was
+only
+in
+early
+development
+in
+the
+corresponding
+period.
+The
+remaining
+$8.2
+million
+increase
+was
+driven
+by
+an
+increase
+in
+unallocated costs of $6.2
+million, resulting primarily from
+increased salaries and personnel-related
+costs in connection with
+our UB-612
+development efforts, as well as an increase in other allocated costs driven primarily by pre-clinical activities for our UB-313 program.
+General and Administrative Expenses
+General
+and
+administrative
+expenses
+were
+$51.8
+million
+and
+$12.2
+million
+for
+the
+years
+ended
+December
+31,
+and
+2020,
+respectively. The $39.6 million increase was primarily due to a $28.3 million increase in stock-based compensation expense, including
+$23.1 million related to performance-based grants
+that vested upon the successful completion
+of the Company’s
+initial public offering
+in November
+2021.
+The remaining $11.3
+million increase was
+due to
+increased salaries and
+personnel-related costs and
+professional
+services costs
+related to
+our continued
+organizational growth
+to support
+our ramp-up
+in research
+and development
+efforts, as
+well as
+increased costs for preparations for being a public company.
+Interest Expense
+Interest expense
+was $0.8
+million and
+$1.2 million
+for the
+years ended
+December 31,
+2021 and
+2020, respectively.
+The $0.3
+million
+decrease was due to the exchange of Convertible Notes for Series A preferred stock in connection with the Reorganization.
+Interest Income
+Interest income on cash was less than $0.1 million for each of the years ended December 31, 2021 and 2020.
+Change in Fair Value of Convertible Notes, SAFEs and Series A-1 Warrant
+Liability
+The decrease in the change in fair value
+of the Convertible Notes of $3.1 million for
+the year ended December 31, 2021 was primarily
+related to the revaluation of the Convertible
+Notes upon conversion to equity. The increase in the change in fair
+value of SAFEs of $7.8
+million for the year ended December 31, 2021 compared to the year ended December 31, 2020 was primarily related to insight into the
+pricing of Vaxxinity’s
+next stock issuance at a higher valuation. The increase in the change in fair value of Series A-1
+Warrants of $0.2
+million for the year ended
+December 31, 2021 compared to
+the year ended December 31, 2020
+was primarily related to an
+increase in
+value of the Series A-1 preferred
+stock. In connection with the
+Reorganization, all outstanding Convertible Notes,
+SAFEs and Series A-
+1 Warrants were exchanged into shares
+of Series A preferred
+stock, which were
+subsequently exchanged into
+shares of Class
+A common
+stock upon the closing of
+the IPO in November 2021
+as described in Note 8
+to our consolidated financial statements
+included elsewhere
+in this Report.
+Loss on Foreign Currency Translation, Net
+The net loss
+of foreign currency translation
+reflected a de minimis
+increase in the foreign
+exchange rate for the
+year ended December
+31, 2021 compared to the year ended December 31, 2020.
+Liquidity and Capital Resources
+Sources of Liquidity
+We have generated limited
+revenue from sales
+of our ELISA
+tests and have
+not yet commercialized
+any of our
+product candidates, which
+are in
+various phases
+of pre-clinical
+and clinical
+development. We have financed
+operations primarily
+through the
+issuance of
+convertible
+preferred stock, borrowings under promissory
+notes (including Convertible Notes) and
+the execution of SAFEs. Through
+December 31,
+2020, we received gross proceeds
+of $99.3 million in connection
+with the issuance of various
+financial instruments, including the sale
+of preferred stock,
+the issuance of
+promissory notes (including
+Convertible Notes), and
+the execution of
+SAFEs. In addition,
+we also
+generated revenue from the sale
+of an option to
+negotiate a license with UNS
+(which option has expired) and
+the sales of ELISA tests
+in 2020 and 2021. During
+the year ended December 31,
+2021, we raised a total
+of $198.8 million, which consisted
+of $71.1 million in
+net proceeds from the issuance of
+common stock in connection with the
+IPO, $122.8 million in net proceeds
+from the issuance of Series
+B preferred shares,
+$2.0 million in
+net proceeds from
+the issuance of
+convertible debt, and
+$2.9 million in
+net proceeds from
+the issuance
+of SAFEs. At December 31, 2021, we had $144.9 million in cash and
+cash equivalents, compared to $31.1 million as of December 31,
+2020. The increase in cash
+and cash equivalents balances
+for the periods reported are
+primarily due to the factors
+described under “Cash
+Flows” below.
+Cash Flows
+The following table provides information regarding our cash flows for the years ended December 31, 2021 and 2020 (in thousands):
+Years
+Ended December 31,
+Balance Sheet Data:
+Cash and cash equivalents
+144,885
+31,143
+Restricted cash
+Total assets
+166,673
+50,141
+Total liabilities
+38,054
+75,041
+Total stockholders' equity (deficit)
+128,619
+(87,375)
+Statement of Cash Flow Data:
+Net cash flows used in operating activities
+$
+(80,990)
+$
+(33,910)
+Net cash flows used in investing activities
+(1,318)
+(1,477)
+Net cash flows provided by financing activities
+196,167
+66,109
+Net increase in cash, cash equivalents and restricted cash
+$
+113,859
+$
+30,722
+Operating Activities
+Net cash
+used in
+operating activities for
+the year
+ended December 31,
+2021 was
+$81.0 million,
+primarily due
+to a
+$137.2 million
+net
+loss, offset by
+a favorable $12.9
+million change in
+operating assets and
+liabilities and total non-cash
+items of $43.3
+million. The cash
+flow impact from changes in net
+operating assets and liabilities were primarily
+due to $11.4 million
+in amounts due to related party as
+well as $3.9
+million related to
+accrued expense, accounts
+payable and other
+liabilities.
+These increases were
+offset by
+$4.7 million in
+prepaid expenses
+for UB-612
+production. The
+primary non-cash
+adjustments to
+net loss
+included an
+$11.2
+million change
+in the
+fair
+market value of financial instruments as well as $30.4 million of stock-based compensation and $1.1 million in depreciation.
+Investing Activities
+Net cash used
+in investing activities
+totaled $1.3 million
+for the year
+ended December 31,
+2021. The cash
+used in investing
+activities
+consisted primarily of the acquisition of equipment.
+Financing Activities
+Net cash provided by financing
+activities totaled $196.2 million
+for the year ended December
+31, 2021. We raised capital to support our
+operations through
+the issuance
+of Class
+A Common
+Stock upon
+IPO, with
+net proceeds
+of $71.1
+million, the
+issuance prior
+to the
+Reorganization of SAFEs
+and Convertible
+Notes, with
+net proceeds
+of $2.9
+million and
+$2.0 million, respectively,
+as well
+as the issuance
+of Series
+B convertible preferred
+stock, with net
+proceeds of $122.8
+million. We
+also repaid $2.0
+million in relation
+to a
+Convertible
+Note, $0.1 million in relation
+to a note payable with
+related party, $0.3 million in repayment for
+Paycheck Protection Program, and
+$0.4
+million in relation to a note payable entered into for the acquisition of an Airplane.
+Funding Requirements
+We
+have generated approximately
+$3.7 million in
+revenue since inception
+and have incurred
+net losses in
+each reporting period
+since
+inception. We
+do not expect to generate
+any meaningful revenue unless and until
+we obtain regulatory approval of and
+commercialize
+our product
+candidates. We
+do not know
+when, or if,
+this will occur.
+If we do
+not receive regulatory
+approval for any
+of our
+product
+candidates, or
+if we
+receive approval
+but our
+commercialization results
+fall short
+of our
+expectations, we
+will continue
+to incur
+significant
+losses for the foreseeable future, and we
+expect the losses to increase as we
+continue the development of, and seek regulatory
+approvals
+for, our product candidates and begin to commercialize any approved products.
+As of the date of this Annual Report, we
+expect our existing cash and cash equivalents
+will be sufficient to fund our operating expenses
+over the next 12 months. As of December 31, 2021, other than our 2025 Note, we have no material debt obligations.
+We have based
+our projections of operating capital requirements on assumptions that may prove to be incorrect, and we may use all of
+our available capital resources sooner than we expect. Our future capital requirements will depend on many factors,
+which include:
+•
+the number of discovery and pre-clinical programs that we pursue and the speed with which they are advanced;
+•
+the number, size, and nature of clinical trials that we conduct;
+•
+the length of time it takes for regulators to review and approve any product candidates that successfully complete clinical
+trials;
+•
+the timing and manner in which we manufacture our pre-clinical and clinical drug material, the terms on which we can have
+such manufacturing completed, and the extent to which we undertake commercialization of any drug products, if approved;
+•
+the extent to which we establish sales, marketing, medical affairs and distribution infrastructure to commercialize any product
+candidates;
+•
+the timing and extent to which we expand our operational, financial and management systems and infrastructure, and
+facilities;
+•
+the timing and extent to which we increase our personnel to support operations, including necessary increases in headcount to
+conduct and expand our clinical trials, commercialize any approved products and support our operations as a public
+company; and
+•
+the number of patent applications we must file and claims we must defend in order to maintain, expand and protect our
+intellectual property portfolio, and the costs of preparing, filing and prosecuting patent applications, maintaining
+and
+protecting our intellectual property rights.
+Until such time, if ever, as we can generate positive cash flows from operations, we expect to finance our cash needs through public or
+private equity offerings, strategic collaborations
+and debt financing. To the extent that
+we raise additional capital
+through the sale of our
+Class A common stock, convertible securities
+or other equity securities, shareholders’ ownership interest
+will be diluted and the
+terms
+of these securities could include
+liquidation or other preferences and
+anti-dilution protections. In addition, debt financing,
+if available,
+may result
+in fixed
+payment obligations
+and may
+involve agreements
+that include
+restrictive covenants
+that limit
+our ability
+to take
+specific actions, such as incurring
+additional debt, making capital
+expenditures, creating liens, redeeming shares
+or declaring dividends.
+If we raise additional funds through strategic collaborations or
+marketing, distribution or licensing arrangements with third parties,
+we
+may have to relinquish valuable rights to our technologies, future revenue streams or product candidates or grant licenses on terms that
+may
+not
+be favorable
+to
+us.
+If
+we are
+unable to
+raise
+additional funds
+when needed,
+we
+may
+be
+required to
+delay,
+limit, reduce
+or
+terminate our product candidate development or
+future commercialization efforts or grant rights
+to third parties to develop and
+market
+product candidates that we would otherwise prefer to develop and market ourselves.
+Contract Research and Manufacturing Organizations
+We
+recorded accrued expenses
+of $4.5 million
+and $0.3 million
+in our balance
+sheet for expenditures
+incurred by CROs
+and contract
+manufacturers as of December 31, 2021 and 2020, respectively.
+Tax-Related Obligations
+We
+have reserved
+$0.6 million
+of unrecognized
+tax benefits
+against NOLs.
+Additionally,
+as of
+December 31, 2021,
+we accrued
+$0.2
+million in interest and penalties related to prior year tax filings.
+Off-Balance Sheet Arrangements
+We did not have during the periods
+presented, and do not
+currently have, any off-balance
+sheet arrangements, as defined
+in the rules and
+regulations of the SEC.
+Critical Accounting Policies and Estimates
+The preparation of financial statements in accordance with GAAP requires management to make estimates and assumptions that affect
+the amounts reported
+in our consolidated
+financial statements and
+accompanying notes. Management
+bases its estimates
+on historical
+experience, market and other conditions,
+and various other assumptions it
+believes to be reasonable. Although these
+estimates are based
+on management’s best knowledge of current events and actions
+that may impact us in the
+future, the estimation process is, by its
+nature,
+uncertain given that estimates depend
+on events over which we
+may not have control. In
+addition, if our assumptions change,
+we may
+need to
+revise our
+estimates, or
+take other
+corrective actions,
+either of
+which may
+also have
+a material
+effect on our
+consolidated financial
+statements. Significant estimates contained within these consolidated financial statements include, but
+are not limited to, the estimated
+fair
+value
+of
+our
+common
+stock,
+convertible
+notes
+payable
+and
+SAFEs,
+stock-based
+compensation,
+warrant
+liabilities,
+income
+tax
+valuation allowance
+and the
+accruals of
+research and
+development expenses.
+We
+base our
+estimates on
+historical experience,
+known
+trends and other
+market-specific or other
+relevant factors that
+we believe to
+be reasonable under
+the circumstances. On
+an ongoing basis,
+management evaluates its estimates, as there are changes in facts and circumstances. If market and other conditions change
+from those
+that we anticipate, our consolidated financial statements may be materially affected.
+While our
+significant accounting policies
+are described
+in more detail
+in the
+notes to our
+consolidated financial statements
+appearing
+elsewhere in this
+Annual Report,
+we believe that
+the following
+critical accounting
+policies and estimates
+have a higher
+degree of inherent
+uncertainty and require our most significant judgments.
+Accrued Research and Development Expenses
+As part of the process
+of preparing our consolidated financial
+statements, we are required to
+estimate accrued research and
+development
+expenses. As
+we
+advance our
+programs, we
+anticipate more
+complex clinical
+studies resulting
+in greater
+research and
+development
+expenses, which will place even greater emphasis on
+the accrual. This process involves reviewing open contracts
+and purchase orders,
+communicating with our
+applicable personnel to
+identify services that
+have been performed
+on our behalf
+and estimating the
+level of
+service performed and the
+associated cost incurred for
+the service when we
+have not yet been
+invoiced or otherwise notified
+of actual
+costs. The majority of
+our service providers invoice
+in arrears for services
+performed, on a pre-determined
+schedule or when contractual
+milestones are met; however, some require advance payments. We make estimates of accrued expenses as of each balance sheet date in
+the consolidated financial statements based on facts and circumstances known to us at that
+time. We periodically
+confirm the accuracy
+of the estimates
+with the service
+providers and make
+adjustments if necessary. Examples
+of estimated accrued
+research and development
+expenses include fees paid to:
+•
+vendors, including research laboratories, in connection with pre-clinical development activities;
+•
+CROs and investigative sites in connection with pre-clinical studies and clinical trials; and
+•
+contract manufacturers in connection with drug substance and drug product formulation of pre-clinical studies and clinical
+trial materials.
+We
+base our
+expenses related to
+pre-clinical studies and
+clinical trials on
+our estimates of
+the services received
+and efforts
+expended
+pursuant to quotes and contracts with multiple research institutions and CROs that supply, conduct and manage pre-clinical studies and
+clinical trials on our behalf. The financial terms of
+these agreements are subject to negotiation, vary from contract to
+contract and may
+result
+in uneven
+payment
+flows. There
+may
+be
+instances in
+which
+payments
+made to
+our
+vendors will
+exceed
+the
+level of
+services
+provided and result in
+a prepayment of the
+expense. Payments under some
+of these contracts depend
+on factors such as
+the successful
+enrollment of patients and the completion of
+clinical trial milestones. In accruing service fees,
+we estimate the time period over which
+services will be performed and
+the level of effort
+to be expended in each period.
+If the actual timing of
+the performance of services or
+the level
+of effort
+varies from
+the estimate,
+it adjusts
+the accrual
+or the
+prepaid expense
+accordingly.
+Although we
+do not
+expect our
+estimates to be
+materially different from
+amounts actually incurred,
+our understanding of
+the status and
+timing of services
+performed
+relative to the actual status and timing of services performed may vary and may result in reporting amounts that
+are too high or too low
+in any particular period. To date, our estimated accruals have not differed materially from actual costs incurred.
+Stock-Based Compensation
+We measure all stock-based awards granted to
+employees, directors and non-employees
+based on their fair
+value on the date
+of the grant
+and recognize the corresponding compensation
+expense of those awards over
+the requisite service period,
+which is generally the vesting
+period of the respective award. Forfeitures are accounted for as they occur.
+We grant stock
+options and restricted stock awards that are
+subject to service vesting conditions.
+We
+classify stock-based
+compensation expense
+in our
+consolidated statements
+of operations
+in the
+same manner
+in which
+the award
+recipient’s payroll costs are classified or in which the award recipient’s service payments are classified.
+We estimate the fair value of
+each stock option
+grant using the Black-Scholes
+option-pricing model, which
+requires the use
+of subjective
+assumptions
+that
+could
+materially
+impact
+the
+estimation
+of
+fair
+value
+and
+related
+compensation
+expense
+to
+be
+recognized.
+These
+assumptions include (i) the
+expected volatility of our
+stock price, (ii) the
+periods of time over
+which recipients are expected
+to hold their
+options prior to exercise (expected lives), (iii) expected dividend yield on our common stock, and (iv) risk-free interest rates, which are
+based
+on
+quoted
+U.S.Treasury
+rates
+for
+securities
+with
+maturities
+approximating
+the
+options’
+expected
+lives.
+Developing
+these
+assumptions requires the use of judgment. Both prior to and after the IPO, we lacked company-specific historical and implied volatility
+information.
+Therefore,
+we
+estimate
+our
+expected
+stock
+volatility
+based
+on
+the
+historical
+volatility
+of
+a
+publicly
+traded
+set
+of
+peer
+companies. The expected term of the Company’s options has been determined utilizing the “simplified” method for awards that
+qualify
+as “plain-vanilla” options. The expected term of options granted to non-employees is equal to the contractual term of the option award.
+The expected dividend
+yield is zero
+as we have
+never paid dividends
+and do not
+currently anticipate paying
+any in the
+foreseeable future.
+Determination of the Fair Value
+of Common Stock
+Before there was a public market for our common stock, the estimated fair value of common stock was determined by its most recently
+available third-party
+valuations of
+common stock.
+These third-
+party valuations
+were performed
+in accordance
+with the
+guidance outlined
+in the
+American Institute
+of Certified
+Public Accountants’
+Accounting and
+Valuation
+Guide, Valuation
+of Privately-Held-Company
+Equity Securities Issued as Compensation. Our common stock valuations were prepared using an option pricing method (“OPM”).
+The
+OPM treats common stock and preferred stock as call options on the total equity value of a company, with exercise prices based on the
+value thresholds at which the allocation among the various holders of a company’s securities changes. Under this method, the common
+stock
+has
+value
+only
+if
+the
+funds
+available
+for
+distribution
+to
+stockholders
+exceeded
+the
+value
+of
+the
+preferred
+stock
+liquidation
+preferences at the time
+of the liquidity event,
+such as a strategic
+sale or a merger.
+A discount for lack
+of marketability of the
+common
+stock is then applied to arrive at an indication of value for the common stock.
+In addition to considering the results of these third-party valuations, our board of directors considered various
+objective and subjective
+factors to determine the fair value of our common stock as of each grant date, including:
+•
+the prices at which we sold shares of preferred stock and the superior rights and preferences of the preferred stock relative to
+our common stock at the time of each grant;
+•
+the progress of our research and development programs, including the status and results of pre-clinical studies and clinical
+trials for our product candidates;
+•
+our stage of development and commercialization and our business strategy;
+•
+external market conditions affecting the biopharmaceutical industry and trends within the biopharmaceutical industry;
+•
+our financial position, including cash on hand, and our historical and forecasted performance and results of operations;
+•
+the lack of an active public market for our common stock and our preferred stock;
+•
+the likelihood of achieving a liquidity event, such as an initial public offering or our sale in light of prevailing market
+conditions; and
+•
+the analysis of initial public offerings and the market performance of similar companies in the biopharmaceutical industry.
+The assumptions
+underlying these
+valuations represented management’s
+best estimate,
+which involved
+inherent uncertainties
+and the
+application of management’s judgment. As a result,
+if we had used significantly
+different assumptions or estimates, the fair
+value of our
+common stock and our stock-based compensation expense could have been materially different.
+Once a public trading market for
+our common stock has been established
+for a sufficient period of
+time, it will no longer be
+necessary
+to estimate the
+fair value of
+our common stock
+in connection with
+its accounting for
+granted stock options
+and other such
+awards we
+may grant, as the fair value of our common stock will be determined based on the quoted market price of our common stock.
+Awards Granted
+The following table sets forth information on stock options awarded to employees since January 1, 2019:
+Grant Date
+Number of
+shares subject
+to award
+Per share
+exercise price
+of options
+Per share fair value
+of common stock on
+grant date
+Per share estimated
+fair value of award
+on grant date
+December 30, 2019
+1,139,717
+$0.57
+$0.64
+$0.40
+August 22, 2020
+1,984,553
+$1.21
+$1.65
+$0.75
+August 24, 2020
+521,406
+$1.21
+$1.65
+$0.75
+September 2, 2020
+160,161
+$0.57
+$1.43
+$1.18
+January 26, 2021
+9,043,916
+$4.12
+$4.12
+$2.26
+February 11, 2021
+1,404,291
+$4.01
+$4.01
+$2.53
+June 16, 2021
+690,266
+$4.81
+$4.81
+$3.59
+July 16, 2021
+282,776
+$4.81
+$4.81
+$3.63
+July 28, 2021
+562,605
+$10.07
+$10.07
+$7.47
+November 11, 2021
+1,499,085
+$13.00
+$13.00
+$9.77
+Simple Agreement for Future Equity
+During the years
+ended December 31, 2021
+and 2020, we entered
+into SAFEs. The SAFEs
+were not mandatorily redeemable,
+nor did
+they
+require
+us
+to
+repurchase
+a
+fixed
+number
+of
+shares.
+We
+determined
+that
+the
+SAFEs
+contained
+a
+liquidity
+event
+provision
+that
+embodied an obligation indexed to the fair value of the equity shares and could require us to settle the SAFE obligation by transferring
+assets or cash. Our SAFEs represented a recurring measurement that is
+classified within Level 3, disclosed and defined in Note 3 to
+our
+consolidated financial
+statements included
+elsewhere in
+this Report,
+of the
+fair value
+hierarchy wherein
+fair value
+is estimated
+using
+significant unobservable inputs, including
+an estimate of the
+number of months
+to a liquidity
+event, volatility rates and
+the estimation
+of the most likely conversion feature for converting the SAFE.
+The fair value of the SAFEs on the date of issuance was determined to equal the proceeds we received. The
+value of the SAFEs on the
+date of conversion into
+Series A preferred stock
+was determined to be
+equal to the fair
+value of the
+Series A preferred stock
+issued in
+connection with the Reorganization.
+Convertible Notes
+Beginning in 2018, we
+issued Convertible Notes
+that bore simple interest
+at annual rates ranging
+from 4.8% to 6%.
+All unpaid principal,
+together with the
+accrued interest thereon,
+for the
+Convertible Notes were
+payable upon the
+event of default
+or upon maturity,
+which
+ranged from one to three
+years. The Convertible Notes contained
+a number of provisions addressing
+automatic and optional conversion,
+events
+of
+default
+and
+prepayment
+provisions.
+We
+determined
+that
+a
+portion
+of
+the
+Convertible
+Notes
+contained
+a
+liquidity
+event
+provision, requiring them to be
+measured and accounted for at
+fair value at each reporting
+date. We
+determined the Convertible Notes
+requiring a measurement to fair value represented a recurring measurement that was classified within Level 3, disclosed and defined in
+Note 3 to our consolidated financial statements included elsewhere in this Annual Report, of the fair value hierarchy wherein fair value
+is estimated using significant unobservable inputs.
+Taiwan Centers for Disease Control Grant
+UBIA, which is responsible
+for applying for and
+managing grants on
+our behalf, was awarded
+a grant by the
+Taiwan Centers for Disease
+Control (“TCDC”)
+for COVID-19
+vaccine development.
+The grant
+provides that
+costs incurred to
+complete the
+two phases of
+the clinical
+trial will be reimbursed based on the
+achievement of certain milestones as defined in the
+agreement. We
+are entitled to reimbursement
+under the TCDC grant.
+At each reporting
+date, we assess
+the status of
+all of the
+activities involved in completing
+the clinical study
+in
+relation to
+the milestones.
+We
+account for
+the amounts
+that have
+been received
+from the
+TCDC to
+reimburse costs
+incurred on
+the
+clinical study and
+not expected
+to be
+refunded back to
+the TCDC as
+contra research and
+development expenses in
+the accompanying
+consolidated statement of operations.

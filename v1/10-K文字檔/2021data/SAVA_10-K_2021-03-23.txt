@@ -1,0 +1,215 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+﻿
+This discussion and analysis should be read in conjunction with our financial statements and accompanying notes included elsewhere in this report. Operating results are not necessarily indicative of results that may occur in future periods.
+﻿
+Overview
+﻿
+Cassava Sciences, Inc. is a clinical-stage biotechnology company. Our mission is to detect and treat neurodegenerative diseases, such as Alzheimer’s disease. Our novel science is based on stabilizing - but not removing - a critical protein in the brain.
+﻿
+Over the past 10 years, we have combined state-of-the-art technology with new insights in neurobiology to develop novel solutions for Alzheimer’s disease and other neurodegenerative diseases. Our strategy is to leverage our unique scientific/clinical platform to develop a first-in-class program for treating neurodegenerative diseases, such as Alzheimer’s.
+﻿
+We currently have two clinical-stage biopharmaceutical assets under development:
+﻿
+·
+our lead therapeutic product candidate is called simufilam, and it is a novel treatment for Alzheimer’s disease; and
+·
+our lead investigational diagnostic product candidate is called SavaDx, and it is a novel way to detect the presence of Alzheimer’s disease from a small sample of blood, possibly years before the overt appearance of clinical symptoms.
+﻿
+Our scientific approach for the treatment of Alzheimer’s disease seeks to simultaneously improve both neurodegeneration and neuroinflammation. We believe our ability to improve multiple vital functions in the brain represents a new, different and crucial approach to address Alzheimer’s disease.
+﻿
+Our lead therapeutic product candidate, simufilam, is a proprietary small molecule (oral) drug. Simufilam targets an altered form of a protein called filamin A (FLNA) in the Alzheimer’s brain. Published studies have demonstrated that the altered form of FLNA causes neuronal dysfunction, neuronal degeneration and neuroinflammation.
+﻿
+We believe simufilam improves brain health by reverting altered FLNA back to its native, healthy conformation, thus countering the downstream toxic effects of altered FLNA. We have generated and published experimental and clinical evidence of improved brain health with simufilam. Importantly, simufilam is not dependent on clearing amyloid from the brain. Since simufilam has a unique mechanism of action, we believe its potential therapeutic effects may be additive or synergistic with that of other therapeutic candidates aiming to treat neurodegeneration.
+﻿
+Simufilam has demonstrated a multitude of beneficial effects in animal models of disease, including normalizing neurotransmission, decreasing neuroinflammation, suppressing neurodegeneration, and restoring memory and cognition.
+﻿
+In 2019, we completed a small, first-in-patient, clinical-proof-of-concept, open-label Phase 2a study of simufilam in the U.S., with substantial support from the National Institute on Aging (NIA), a division of the NIH. Treatment with simufilam for 28 days significantly improved key biomarkers of Alzheimer’s pathology, neurodegeneration and neuroinflammation (p<0.001). Biomarkers effects were seen in all patients in both cerebrospinal fluid (CSF) and plasma.
+﻿
+In September 2020, we announced final results of a Phase 2b study with simufilam in Alzheimer’s disease. In this clinical study funded by the NIH, Alzheimer’s patients treated with 50 mg or 100 mg of simufilam twice-daily for 28 days showed statistically significant (p<0.05) improvements in CSF biomarkers of disease pathology, neurodegeneration and neuroinflammation, versus Alzheimer’s patients who took placebo. In addition, Alzheimer’s patients treated with simufilam showed improvements in validated tests of episodic memory and spatial working memory, versus patients on placebo (Effect Size 17-46%). Cognitive improvements correlated most strongly (R2=0.5) with decreases in levels of P-tau181.
+﻿
+In March 2020, we initiated a long-term open-label extension study to evaluate simufilam in patients with Alzheimer’s disease. This open-label, multi-center, extension study is intended to monitor the long-term safety and tolerability of simufilam 100 mg twice-daily for 12 or more months. The study’s initial target enrollment was approximately 100 patients with mild-to-moderate Alzheimer’s disease and, in February 2021, was increased to approximately 150 patients. This study uses the Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog-11) to assess cognitive symptoms of
+dementia and the Neuropsychiatric Inventory (NPI) to assess the presence and severity of dementia-related behavior. Both scales are widely used clinical tools in trials of Alzheimer’s disease.
+﻿
+On February 2, 2021, we announced results of the first of two preplanned interim analysis of our open-label study of simufilam. The first interim analysis summarizes clinical data at the midway point of enrollment, i.e., the first 50 patients who have completed at least 6 months of drug treatment. Patients’ cognition and behavior scores both improved following six months of simufilam treatment, with no safety issues. Six months of simufilam treatment improved cognition scores by 1.6 points on ADAS-Cog11, a 10% mean improvement from baseline to month 6. In these same patients, simufilam also improved dementia-related behavior, such as anxiety, delusions and agitation, by 1.3 points on the Neuropsychiatric Inventory, a 29% mean improvement from baseline to month 6.
+﻿
+Based on the interim results and inbound demand from Alzheimer’s patients and their caregivers, we announced significant changes to the open-label program, including an increase in the enrollment target by up to 50 additional patients, for a total target of approximately 150 patients. This study had enrolled approximately 80 patients as of February 2021.
+﻿
+We expect to announce results of a second planned interim analysis on safety and cognition for our open-label study approximately mid-2021. The second interim analysis is intended to summarize clinical data on the first 50 patients who complete at least 12 months of open label drug treatment.
+﻿
+On February 22, 2021, we announced the successful completion of an End-of-Phase 2 (EOP2) meeting with the FDA for simufilam. Official EOP2 meeting minutes indicate we and the FDA agree on key elements of a pivotal Phase 3 clinical program in support of a New Drug Application (NDA) filing for simufilam in Alzheimer’s disease. We believe agreements reached during the EOP2 meeting show a clear path forward for advancing simufilam into Phase 3 studies. We expect to initiate a pivotal Phase 3 program with simufilam in Alzheimer’s disease in the second half of 2021.
+﻿
+Our diagnostic effort, called SavaDx, is an early-stage program focused on detecting the presence of Alzheimer’s disease from a small sample of blood, possibly years before the overt appearance of clinical symptoms. We are developing SavaDx as a fast, accurate and quantitative blood-based investigational biomarker/diagnostic to detect and monitor Alzheimer's disease. The goal is to make the detection of Alzheimer’s disease as simple as getting a blood test. We expect to initiate a validation/disease specificity study of SavaDx in 2021.
+﻿
+Financial Overview
+﻿
+We have yet to generate any revenues from product sales. We have an accumulated deficit of $174.9 million at December 31, 2020. These losses have resulted principally from costs incurred in connection with research and development activities, salaries and other personnel-related costs and general corporate expenses. Research and development activities include costs of preclinical and clinical studies as well as clinical supplies associated with our product candidates. Salaries and other personnel-related costs include non-cash stock-based compensation associated with options and other equity awards granted to employees and non-employees. Our operating results may fluctuate substantially from period to period as a result of the timing of preclinical activities, enrollment rates of clinical studies for our product candidates and our need for clinical supplies.
+﻿
+We believe that our cash and cash equivalents at December 31, 2020, will enable us to fund our operating expenses for at least the next 12 months. In addition, we may seek in the future to fund our operations through additional public or private equity or debt financings or other sources. However, we may be unable to raise additional funds or enter into such other arrangements when needed on favorable terms or at all. If we are unable to obtain financing or reach profitability, the related lack of liquidity will have a material adverse effect on our operations and future prospects.
+﻿
+We expect to continue to use significant cash resources in our operations for the next several years. Our cash requirements for operating activities and capital expenditures may increase substantially in the future as we:
+﻿
+·
+initiate a large-scale manufacturing campaign for simufilam;
+·
+plan to initiate a Phase 3 program with simufilam
+·
+conduct other preclinical and clinical studies for our product candidates;
+·
+seek regulatory approvals for our product candidates;
+·
+develop, formulate, manufacture and commercialize our product candidates;
+·
+implement additional internal systems and develop new infrastructure;
+·
+acquire or in-license additional products or technologies, or expand the use of our technology;
+·
+maintain, defend and expand the scope of our intellectual property; and
+·
+hire additional personnel.
+﻿
+Product revenue will depend on our ability to receive regulatory approvals for, and successfully market, our product candidates. If our development efforts result in regulatory approval and successful commercialization of our product candidates, we will generate revenue from direct sales of our drugs and/or, if we license our drugs to future collaborators, from the receipt of license fees and royalties from sales of licensed products. We conduct our research and development programs through a combination of internal and collaborative programs. We rely on arrangements with universities, our collaborators, CDMOs, CROs and clinical research sites for a significant portion of our product development efforts.
+﻿
+The following table summarizes expenses which have been reduced for reimbursements received for NIH grants (in thousands):
+﻿
+﻿
+﻿
+Research and development expenses include compensation, contractor fees and supplies as well as allocated common costs. Contractor fees and supplies generally include expenses for preclinical studies and clinical studies and costs for formulation and manufacturing activities. Other common costs include the allocation of common costs such as facilities. During the year ended December 31, 2020 and 2019, we received $4.2 million and $4.7 million from research grants from the NIH. These reimbursements were recorded as a reduction to our research and development expenses.
+﻿
+Our technology has been applied across certain of our portfolio of product candidates. Data, know-how, personnel, clinical results, research results and other matters related to the research and development of any one of our product candidates also relate to, and further the development of, our other product candidates. As a result, costs allocated to a specific product candidate may not necessarily reflect the actual costs surrounding research and development of such product candidate due to cross application of the foregoing.
+﻿
+Estimating the dates of completion of clinical development, and the costs to complete development, of our product candidates would be highly speculative, subjective and potentially misleading. Pharmaceutical products take a significant amount of time to research, develop and commercialize. The clinical study portion of the development of a new drug alone usually spans several years. We expect to reassess our future research and development plans based on our review of data we receive from our current research and development activities. The cost and pace of our future research and development activities are linked and subject to change.
+Critical Accounting Policies
+﻿
+The preparation of our financial statements in accordance with U.S. generally accepted accounting principles requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses and interest income in our financial statements and accompanying notes. We evaluate our estimates on an ongoing basis, including those estimates related to agreements and research collaborations. We base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results
+may differ from these estimates under different assumptions or conditions. The following items in our financial statements require significant estimates and judgments:
+﻿
+·
+Research Contract Costs and Accruals. The Company has entered into various research and development contracts with research institutions and other third-party vendors. These agreements are generally cancelable, and related payments are recorded as research and development expenses as incurred. The Company records accruals for estimated ongoing research costs. When evaluating the adequacy of the accrued liabilities, the Company analyzes progress of the studies including the phase or completion of events, invoices received and contracted costs. Significant judgments and estimates are made in determining the accrued balances at the end of any reporting period. Actual results could differ from the Company’s estimates. The Company’s historical accrual estimates have not been materially different from the actual costs.
+﻿
+·
+2020 Cash Incentive Bonus Plan. In 2020, we established the 2020 Cash Incentive Bonus Plan (the “Plan”) to incentivize Plan participants. Awards under the Plan are accounted for as liability awards under ASC 718 “Stock-based Compensation”. The fair value of each potential Plan award will be determined once a grant date occurs and will be remeasured each reporting period. Compensation expense associated with the Plan will be recognized over the expected achievement period for each Plan award, when a Performance Condition is considered probable of being met.
+﻿
+The Plan was established to promote the long-term success of the Company by creating an “at-risk” cash bonus program that rewards Plan participants with additional cash compensation in lockstep with significant increases in our market capitalization. The Plan is considered “at-risk” because Plan participants will not receive a cash bonus unless our market capitalization increases significantly and (1) we complete a merger or acquisition transaction that constitutes a sale of ownership of the Company or its assets (a Merger Transaction) or (2) the Compensation Committee of the Board (the Compensation Committee) determines the Company has sufficient cash on hand, as defined in the Plan, to render payment (each, a “Performance Condition”), neither of which may ever occur. Because of the inherent discretion and uncertainty regarding these requirements, we have concluded that a Plan grant date has not occurred as of December 31, 2020. No actual cash payments were authorized or made to participants under the Plan during the year ended December 31, 2020.
+﻿
+·
+Stock-based Compensation. We recognize non-cash expense for the fair value of stock options and other share-based awards. We use the Black-Scholes option valuation model to calculate the fair value of stock options, using the single-option award approach and straight-line attribution method. It recognizes the resulting fair value as expense on a straight-line basis over the vesting period of each respective stock option, generally four years.
+﻿
+We have granted share-based awards that vest upon achievement of certain performance criteria, or performance awards. We multiply the number of performance awards by the fair market value of our common stock on the date of grant to calculate the fair value of each award. We estimate an implicit service period for achieving performance criteria for each award. We recognize the resulting fair value as expense over the implicit service period when we conclude that achieving the performance criteria is probable. We periodically review and update as appropriate our estimates of implicit service periods and determinations on achievement of the performance criteria. Performance awards vest and common stock is issued upon achievement of the performance criteria.
+﻿
+·
+Income Taxes. The Company accounts for income taxes under the asset and liability method. Deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax balances are adjusted to reflect tax rates based on currently enacted tax laws, which will be in effect in the years in which the temporary differences are expected to reverse. The Company has accumulated significant deferred tax assets that reflect the tax effects of net operating loss and tax credit carryovers and temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Realization of certain deferred tax assets is dependent upon future earnings. The Company is uncertain about the timing and amount of any future earnings. Accordingly, the Company offsets these deferred tax assets with a valuation allowance.
+﻿
+The Company accounts for uncertain tax positions in accordance with ASC 740, “Income Taxes”, which clarifies the accounting for uncertainty in tax positions. These provisions require recognition of the impact of a tax position in the Company’s financial statements only if that position is more likely than not of being sustained upon examination by taxing authorities, based on the technical merits of the position. Any interest and penalties related to uncertain tax positions will be reflected as a component of income tax expense.
+﻿
+Recent Accounting Pronouncements
+﻿
+In December 2019, the FABS issued ASU No. 2019-12, Income Taxes (Topic 740) Simplifying Accounting for Income Taxes as part of its initiative to reduce complexity in the accounting standards. The guidance amended certain disclosure requirements that had become redundant, outdated or superseded. Additionally, this guidance amends accounting for the interim period effects of changes in tax laws or rates, and simplifies aspects of the accounting for franchise taxes. The guidance is effective for annual periods beginning after December 15, 2020, and is applicable for the Company in fiscal 2021. Early adoption is permitted. The Company does not anticipate that this guidance will have a material impact on its consolidated financial statements.
+﻿
+In November 2018, the FASB issued ASU No. 2018-18, Collaborative Arrangements (Topic 808): Clarifying the Interaction Between Topic 808 and Topic 606. The amendments in this update provide guidance on how to assess whether certain transactions between collaborative arrangement participants should be accounted for within the revenue recognition standard. The amendments in this update are effective for interim and annual periods for the Company beginning on January 1, 2020. The adoption of this guidance did not have a material impact on the Company’s financial statements.
+﻿
+In August 2018, the FASB issued ASU No. 2018-13, Fair Value Measurement (Topic 820) - Disclosure Framework - Changes to the Disclosure Requirements for Fair Value Measurement (ASU 2018-13), which is designed to improve the effectiveness of disclosures by removing, modifying and adding disclosures related to fair value measurements. ASU 2018-13 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. The adoption of ASU 2018-13 did not have a material impact on the Company’s financial statements.
+﻿
+Results of Operations
+﻿
+Research and Development Expense
+﻿
+Research and development expense consist primarily of costs of drug development work associated with our product candidates, including:
+﻿
+·
+clinical studies,
+·
+preclinical testing,
+·
+clinical supplies and related formulation and design costs, and
+·
+compensation and other personnel-related expenses.
+﻿
+Research and development expenses increased to $3.1 million in 2020 from $1.6 million in 2019, representing a 95% increase. This increase was due primarily to costs related to manufacture clinical trial supplies in anticipation of launching a Phase 3 clinical program in simufilam as well as lower NIH reimbursement compared to the prior year. We received NIH reimbursement of $4.2 million from research grants in 2020 recorded as a reduction to research and development expense, as compared to $4.7 million in 2019.
+﻿
+Research and development expenses included non-cash stock-based compensation expenses of $0.5 million in both 2020 and 2019.
+﻿
+We expect research and development expense to increase in future periods as we plan to hire new personnel, manufacture drug supply, continue our development efforts and launch a Phase 3 clinical program in simufilam.
+﻿
+General and Administrative Expense
+﻿
+General and administrative expenses consist of personnel costs, allocated expenses and other expenses for outside professional services, including legal, human resources, audit and accounting services. Personnel costs consist of salaries, bonus, benefits and stock-based compensation. Allocated expenses consist primarily of facility costs. We incur expenses associated with operating as a public company, including expenses related to compliance with the rules and regulations of the SEC and Nasdaq, additional insurance expenses, additional audit expenses, investor relations activities, SOX compliance expenses and other administrative expenses and professional services. General and administrative expense increased to $3.7 million in 2020 from $3.4 million in 2019, representing a 10% increase. The increase was due primarily to higher insurance expenses and professional fees compared to the prior year, partially offset by lower non-cash stock-based compensation expense.
+﻿
+General and administrative expenses included non-cash stock-based compensation expenses of $0.5 million in 2020 compared to $0.8 million in 2019. We expect general and administrative expense for 2021 will increase compared to 2020 due to higher operating costs such as insurance, office space and information technology related expenses.
+﻿
+Gain on Sale of Property and Equipment
+﻿
+During the year ended December 31, 2020, we sold surplus manufacturing equipment to an independent third party and received proceeds totaling $360,000. The original cost of the property and equipment was $892,000 and accumulated depreciation was $878,000, resulting in a gain on sale of property and equipment of $346,000 during the year ended December 31, 2020. There were no sales of property and equipment during the year ended December 31, 2019.
+﻿
+We do not expect any future gains on sales of property and equipment.
+﻿
+Interest Income
+﻿
+Interest and other income, net, was $112,000 in 2020 compared to $328,000 in 2019. The decrease was due primarily to a significant decrease in interest rates in 2020 compared to the prior year.
+﻿
+Liquidity and Capital Resources
+﻿
+Since inception, we have financed our operations primarily through public and private stock offerings, payments received under collaborative agreements and interest earned on our investments. We intend to continue to use our capital resources to fund research and development activities, capital expenditures, working capital requirements and other general corporate purposes. As of December 31, 2020, cash and cash equivalents totaled $93.5 million.
+﻿
+2021 Registered Direct Offering
+﻿
+On February 12, 2021, we completed a common stock offering pursuant to which certain investors purchased 4,081,633 shares of common stock at a price of $49.00 per share. Net proceeds of the offering were approximately $189.7 million after deducting offering expenses.
+﻿
+2020 Follow-on Public Offering
+﻿
+On November 13, 2020, we completed the sale of 9,375,000 shares of our common stock in an underwritten public offering at a price of $8.00 per share. We received net proceeds from the offering of approximately $70.3 million after deducting underwriting discounts and offering expenses.
+﻿
+Common Stock Warrants
+﻿
+In August 2018, we issued warrants to purchase up to an aggregate of 9.1 million shares of its common stock in conjunction with an offering of our common stock.
+﻿
+During 2019, we received proceeds of $5.9 million from the exercise of 4.6 million shares pursuant to warrants. During 2020, we received proceeds of $4.9 million from the exercise of 4.0 million shares pursuant to warrants. During 2021, we
+received proceeds of $0.7 million from the exercise of an additional 0.6 million shares pursuant to warrants. There were no warrants outstanding following the 2021 exercises.
+﻿
+At the Market (ATM) Common Stock Issuance
+﻿
+On March 27, 2020, we established an at-the-market offering program (ATM) to sell, from time to time, shares of our common stock having an aggregate offering price of up to $100 million in transactions pursuant to a shelf registration statement that was declared effective by the U.S. Securities and Exchange Commission (the SEC) on May 5, 2020. We are obligated to pay a commission of 3.0% of the gross proceeds from the sale of shares of common stock in the offering. We are not obligated to sell any shares in the offering.
+﻿
+There were no common stock sales under the ATM during the year ended December 31, 2020.
+﻿
+NIH Research Grant Awards
+﻿
+Our research has been supported by NIH under multiple research grant awards. Strong, long-term support from NIH has allowed us to advance our two lead product candidates, simufilam and SavaDx, into clinical development.
+﻿
+In March 2020, we were awarded a supplemental research funding grant from NIH of up to $374,000. In April 2020, we were awarded a research grant from NIH of up to $2.5 million. These new, non-dilutive research grants are intended to strengthen our clinical program of simufilam, our investigational drug to treat Alzheimer’s disease. All of our NIH research grant awards are paid out on a reimbursement basis and require milestone-based technical progress.
+﻿
+2020 Cash Incentive Bonus Plan Obligations
+﻿
+On August 26, 2020, the Board approved the 2020 Cash Incentive Bonus Plan (the Plan). The Plan was established to promote the long-term success of the Company by creating an “at-risk” cash bonus program that rewards Plan participants with additional cash compensation in lockstep with significant increases in the Company’s market capitalization. The Plan is considered “at-risk” because Plan participants will not receive a cash bonus unless the Company’s market capitalization increases significantly and certain other conditions specified in the Plan are met. Specifically, Plan participants will not be paid any cash bonuses unless (1) the Company completes a merger or acquisition transaction that constitutes a sale of ownership of the Company or its assets (a Merger Transaction) or (2) the Compensation Committee determines the Company has sufficient cash on hand, as defined in the Plan. Plan participants will be paid all earned cash bonuses in the event of a Merger Transaction.
+﻿
+The Company’s market capitalization, including all outstanding stock options, was $89.4 million at the inception of the Plan on August 26, 2020. If the Company were to exceed a $5 billion market capitalization for no less than 20 consecutive trading days, and conditions noted above for payment are met, all Plan milestones would be deemed achieved, in which case total cash bonus awards would range from a minimum of $137.4 million up to a hypothetical maximum of $322.3 million.
+﻿
+The Company’s potential financial obligation to plan participants at December 31, 2020 totaled $7.3 million, based upon the achievement of one Plan milestone in the Company’s market capitalization. No actual cash bonus payments have been made to any Plan participant, as the Company has not yet satisfied all the conditions necessary for amounts to be paid under the Plan. Subsequent to December 31, 2020, the Company’s market capitalization increased substantially. These increases triggered the achievement of eight additional Plan milestones. Collectively, the achievement of such milestones could trigger potential Company obligations to Plan participants ranging from a minimum of $59.9 million up to a hypothetical maximum of $145.0 million, with exact amounts to be determined by the Compensation Committee.
+﻿
+No actual cash payments were made to participants under the Plan during the year ended December 31, 2020, or through the filing date of this Form 10-K.
+﻿
+Use of Cash
+﻿
+Net cash used in operating activities was $5.4 million for the year ended December 31, 2020, resulting primarily from the net loss reported of $6.3 million and a gain on sale of property and equipment of $0.3 million, partially offset by non-cash stock-based compensation expense of $1.0 million and changes in operating assets and liabilities of $0.3 million.
+﻿
+Net cash used in operating activities was $2.5 million for 2019, resulting primarily from a $4.6 million net loss incurred partially offset by $1.3 million of non-cash stock-based compensation expense and $0.8 million from changes in operating assets and liabilities.
+﻿
+Net cash provided by investing activities during the year ended December 31, 2020 was $360,000 for proceeds received from the sale of property and equipment.
+Net cash used in investing activities was $18,000 for 2019 from purchases of computer equipment.
+﻿
+Net cash provided by financing activities during the year ended December 31, 2020 was $75.4 million consisting of $70.3 million proceeds from our follow-on public offering of common stock in November 2020, $4.9 million proceeds from exercise of common stock warrants and $0.3 million from exercise of stock options.
+﻿
+Net cash provided by financing activities for 2019 was $5.8 million consisting of $5.9 million proceeds from exercise of common stock warrants partially offset by $0.1 million in offering expenses related the 2018 sale of common stock and warrants.
+﻿
+Realization of our deferred tax assets is dependent on future earnings, if any. We are uncertain about the timing and amount of any future earnings. Accordingly, we offset these net deferred tax assets with a valuation allowance.
+﻿
+We lease approximately 6,000 square feet of office space pursuant to a non-cancelable operating lease in Austin, TX that expires in April 2024. Future lease payments are as follows (in thousands):
+﻿
+﻿
+﻿
+﻿
+We have an accumulated deficit of $174.9 million at December 31, 2020. We expect our cash requirements to be significant in the future. The amount and timing of our future cash requirements will depend on regulatory and market acceptance of our product candidates and the resources we devote to researching and developing, formulating, manufacturing, commercializing and supporting our products. We believe that our current resources should be sufficient to fund our operations for at least the next 12 months. We may seek additional future funding through public or private financing in the future, if such funding is available and on terms acceptable to us.
+﻿
+Off-balance Sheet Arrangements
+﻿
+As of December 31, 2020, we did not have any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. In addition, we do not engage in trading activities involving non-exchange traded contracts. Therefore, we are not materially exposed to financing, liquidity, market or credit risk that could arise if we had engaged in these relationships. We do not have relationships or transactions with persons or entities that derive benefits from their non-independent relationship with us or our related parties.
+﻿

@@ -1,0 +1,672 @@
+Item 7.Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to provide information that will assist the reader in understanding the company’s Consolidated Financial Statements, the changes in certain key items in those financial statements between select periods and the primary factors that accounted for those changes. In addition, we discuss how certain accounting principles, policies and critical estimates affect our Consolidated Financial Statements. Our discussion also contains certain forward looking statements related to future events and expectations. This MD&A should be read in conjunction with our discussion of cautionary statements and significant risks to the company’s business under Item 1A. Risk Factors of the 2021 Form 10-K.
+Highlights for 2021 include:
+•Sales and revenues for 2021 were $50.971 billion, an increase of 22 percent from 2020. Sales were higher across all regions and in the three primary segments.
+•Operating profit as a percent of sales and revenues was 13.5 percent in 2021, compared with 10.9 percent in 2020.
+•Profit was $11.83 per share for 2021, and excluding the items in the table below, adjusted profit per share was $10.81. For 2020, profit was $5.46 per share, and excluding the items in the table below, adjusted profit per share was $6.56.
+•In order for our results to be more meaningful to our readers, we have separately quantified the impact of several significant items. A detailed reconciliation of GAAP to non-GAAP financial measures is included on page 54.
+Full Year 2021 Full Year 2020
+(Dollars in millions except per share data) Profit Before Taxes Profit
+Per Share Profit Before Taxes Profit
+Per Share
+Profit............................................................................. $ 8,204 $ 11.83 $ 3,995 $ 5.46
+Mark-to-market (gains) losses......................................
+(833) (1.17) 383 0.55
+Restructuring costs.......................................................
+90 0.15 354 0.55
+Adjusted profit............................................................... $ 7,461 $ 10.81 $ 4,732 $ 6.56
+•Enterprise operating cash flow was $7.2 billion in 2021. Caterpillar ended 2021 with $9.3 billion of enterprise cash.
+OVERVIEW
+Our sales and revenues for 2021 were $50.971 billion, an increase of $9.223 billion, or 22 percent, compared with $41.748 billion in 2020. The increase was primarily due to higher sales volume, driven by higher end-user demand for equipment and services and the impact from changes in dealer inventories, along with favorable price realization. Profit per share was $11.83 in 2021, compared with profit per share of $5.46 in 2020. Profit was $6.489 billion in 2021, compared with $2.998 billion in 2020. The increase was primarily due to higher sales volume and favorable price realization. Mark-to-market gains for remeasurement of pension and other postemployment benefit (OPEB) plans, a lower effective tax rate, favorable impacts from foreign currency exchange (gains) losses and lower restructuring expenses were mostly offset by unfavorable manufacturing costs and higher selling, general and administrative (SG&A) and research and development (R&D) expenses.
+Fourth-quarter 2021 sales and revenues were $13.798 billion, up $2.563 billion, or 23 percent, from $11.235 billion in the fourth quarter of 2020. Fourth-quarter 2021 profit was $3.91 per share, compared with $1.42 per share in the fourth quarter of 2020. Fourth-quarter 2021 profit was $2.120 billion, compared with $780 million in the fourth quarter of 2020.
+Response to COVID-19 and Global Business Conditions:
+We continue to monitor a variety of external factors including the ongoing impact of the COVID-19 pandemic around the world and have implemented safeguards in our facilities to protect team members in line with local governmental requirements and guidance from health authorities.
+Operations continue to be impacted by a variety of external factors including the pandemic, supply chain disruptions and associated cost and labor pressures. Areas of particular focus include certain components, transportation and raw materials. Transportation shortages have resulted in delays and increased costs. In addition, our suppliers are dealing with availability issues and freight delays, which leads to delays of production in our facilities. We continue to develop and modify contingency plans to minimize supply chain challenges that may impact our ability to meet increasing customer demand. To help mitigate supply chain challenges, we have proactively redirected components and altered our assembly processes. We continue to assess the environment and are taking appropriate price actions in response to rising costs. We will continue to monitor the situation as conditions remain fluid and evolve, but we expect these challenges to continue this year.
+Notes:
+•Glossary of terms included on pages 40-42; first occurrence of terms shown in bold italics.
+•Information on non-GAAP financial measures is included on page 54.
+•Some amounts within this report are rounded to the millions or billions and may not add. In addition, the sum of the components reported across periods may not equal the total amount reported year-to-date due to rounding.
+2021 COMPARED WITH 2020
+CONSOLIDATED SALES AND REVENUES
+The chart above graphically illustrates reasons for the change in consolidated sales and revenues between 2020 (at left) and 2021 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees.
+Total sales and revenues for 2021 were $50.971 billion, an increase of $9.223 billion, or 22 percent, compared with $41.748 billion in 2020. The increase was primarily due to higher sales volume, driven by higher end-user demand for equipment and services and the impact from changes in dealer inventories, along with favorable price realization. Dealers decreased their inventories about $2.9 billion in 2020, compared to a decrease of about $100 million in 2021.
+Sales were higher across all regions and in the three primary segments.
+North America sales increased 23 percent driven by higher end-user demand for equipment and services, the impact from changes in dealer inventories and favorable price realization. Dealers decreased inventories more during 2020 than during 2021.
+Sales increased 51 percent in Latin America due to higher end-user demand for equipment and services and the impact from changes in dealer inventories. Dealers decreased inventories during 2020, compared to an increase during 2021.
+EAME sales increased 24 percent due to higher end-user demand for equipment and services, the impact of changes in dealer inventories, favorable currency impacts primarily related to a stronger euro and British pound and favorable price realization. Dealers decreased inventories during 2020, compared to an increase during 2021.
+Asia/Pacific sales increased 15 percent driven by higher end-user demand for equipment and services, the impact of changes in dealer inventories and favorable currency impacts related to a stronger Australian dollar and Chinese yuan. Dealers decreased their inventories during 2020, compared to remaining about flat during 2021.
+Dealers decreased their inventories about $2.9 billion in 2020, compared to a decrease of about $100 million in 2021. Dealers are independent, and the reasons for changes in their inventory levels vary, including their expectations of future demand and product delivery times. Dealers’ demand expectations take into account seasonal changes, macroeconomic conditions, machine rental rates and other factors. Delivery times can vary based on availability of product from Caterpillar factories and product distribution centers. We expect dealer inventories to be about flat in 2022 compared to 2021.
+Sales and Revenues by Segment
+(Millions of dollars) 2020 Sales
+Volume Price
+Realization Currency Inter-Segment / Other 2021 $
+Change %
+Change
+Construction Industries $ 16,918 $ 4,063 $ 732 $ 323 $ 70 $ 22,106 $ 5,188 31 %
+Resource Industries 7,906 1,833 100 123 1 9,963 2,057 26 %
+Energy & Transportation 17,470 1,683 101 222 811 20,287 2,817 16 %
+All Other Segment 467 30 (1) 3 12 511 44 9 %
+Corporate Items and Eliminations (3,739) (46) - - (894) (4,679) (940)
+Machinery, Energy & Transportation 39,022 7,563 932 671 - 48,188 9,166 23 %
+Financial Products Segment 3,044 - - - 29 3,073 29 1 %
+Corporate Items and Eliminations (318) - - - 28 (290) 28
+Financial Products Revenues
+2,726 - - - 57 2,783 57 2 %
+Consolidated Sales and Revenues $ 41,748 $ 7,563 $ 932 $ 671 $ 57 $ 50,971 $ 9,223 22 %
+Sales and Revenues by Geographic Region
+North America Latin America EAME Asia/Pacific External Sales and Revenues Inter-Segment Total Sales and Revenues
+(Millions of dollars) $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg
+Construction Industries $ 9,676 31% $ 1,913 86% $ 4,858 40% $ 5,547 11% $ 21,994 30% $ 112 167% $ 22,106 31 %
+Resource Industries 2,987 31% 1,724 38% 1,987 27% 2,804 20% 9,502 28% 461 -% 9,963 26 %
+Energy & Transportation 7,611 11% 1,233 32% 4,908 10% 2,918 20% 16,670 14% 3,617 29% 20,287 16 %
+All Other Segment 56 107% 2 (50%) 18 (31%) 69 23% 145 28% 366 3% 511 9 %
+Corporate Items and Eliminations (106) (1) (1) (15) (123) (4,556) (4,679)
+Machinery, Energy & Transportation 20,224 23% 4,871 51% 11,770 24% 11,323 15% 48,188 23% - -% 48,188 23 %
+Financial Products Segment 1,935 -% 265 3% 402 3% 471 1% 3,073 1
+1% - -% 3,073 1 %
+Corporate Items and Eliminations (136) (50) (35) (69) (290) - (290)
+Financial Products Revenues 1,799 3% 215 -% 367 4% 402 -% 2,783 2% - -% 2,783 2 %
+Consolidated Sales and Revenues $ 22,023 21% $ 5,086 48% $ 12,137 23% $ 11,725 14% $ 50,971 22% $ - -% $ 50,971 22 %
+Construction Industries $ 7,365 $ 1,031 $ 3,466 $ 5,014 $ 16,876 $ 42 $ 16,918
+Resource Industries 2,286 1,253 1,570 2,337 7,446 460 7,906
+Energy & Transportation 6,843 932 4,448 2,441 14,664 2,806 17,470
+All Other Segment 27 4 26 56 113 354 467
+Corporate Items and Eliminations (62) (4) (6) (5) (77) (3,662) (3,739)
+Machinery, Energy & Transportation 16,459 3,216 9,504 9,843 39,022 - 39,022
+Financial Products Segment 1,930 257 392 465 3,044 1
+- 3,044
+Corporate Items and Eliminations (175) (41) (38) (64) (318) - (318)
+Financial Products Revenues 1,755 216 354 401 2,726 - 2,726
+Consolidated Sales and Revenues $ 18,214 $ 3,432 $ 9,858 $ 10,244 $ 41,748 $ - $ 41,748
+1 Includes revenues from Machinery, Energy & Transportation of $351 million and $362 million in 2021 and 2020, respectively.
+CONSOLIDATED OPERATING PROFIT
+The chart above graphically illustrates reasons for the change in consolidated operating profit between 2020 (at left) and 2021 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees. The bar entitled Other includes consolidating adjustments and Machinery, Energy & Transportation other operating (income) expenses.
+Operating profit was $6.878 billion in 2021, an increase of $2.325 billion, or 51 percent, compared with $4.553 billion in 2020. The increase was due to higher sales volume, favorable price realization, higher profit from Financial Products and lower restructuring expenses (included in other), partially offset by unfavorable manufacturing costs and higher SG&A/R&D expenses.
+Unfavorable manufacturing costs reflected increased freight and higher material costs. In addition, unfavorable period manufacturing costs were driven by higher short-term incentive compensation expense, which was reinstated in 2021, and higher labor costs. Unfavorable period manufacturing costs were mostly offset by favorable cost absorption and lower warranty expense. Cost absorption was favorable as inventory increased more during 2021 than during 2020.
+Higher SG&A/R&D expenses reflected higher short-term incentive compensation expense and investments aligned with the company's strategy for profitable growth, including higher labor costs and acquisition-related expenses.
+Short-term incentive compensation expense, which was reinstated in 2021, was $1.3 billion in 2021, compared to no short-term incentive compensation expense recognized in 2020. Short-term incentive compensation expense is directly related to financial and operational performance, measured against targets set annually. For 2022, we expect short-term incentive compensation expense will be about $1.0 billion.
+Operating profit margin was 13.5 percent in 2021, compared with 10.9 percent in 2020.
+Profit (Loss) by Segment
+(Millions of dollars) 2021 2020 $
+Change %
+Change
+Construction Industries $ 3,706 $ 2,373 $ 1,333 56 %
+Resource Industries 1,291 896 395 44 %
+Energy & Transportation 2,768 2,405 363 15 %
+All Other Segment (14) 28 (42) n/a
+Corporate Items and Eliminations (1,388) (1,381) (7)
+Machinery, Energy & Transportation 6,363 4,321 2,042 47 %
+Financial Products Segment 908 590 318 54 %
+Corporate Items and Eliminations (92) (53) (39)
+Financial Products 816 537 279 52 %
+Consolidating Adjustments (301) (305) 4
+Consolidated Operating Profit $ 6,878 $ 4,553 $ 2,325 51 %
+Other Profit/Loss and Tax Items
+•Interest expense excluding Financial Products in 2021 was $488 million, compared with $514 million in 2020. The decrease was due to lower average debt outstanding during 2021, compared with 2020.
+Other income/expense in 2021 was income of $1.814 billion, compared with expense of $44 million in 2020. The change was primarily due to mark-to-market gains for remeasurement of pension and other postretirement benefit (OPEB) plans in 2021, compared with mark-to-market losses in 2020. Favorable impacts from foreign currency exchange gains (losses) and lower pension and OPEB plan costs also contributed to the change.
+The company experienced foreign currency exchange net losses in 2020, compared with net gains in 2021.
+•The provision for income taxes for 2021 reflected an annual effective tax rate of 22.9 percent compared with 27.8 percent for 2020, excluding the discrete items discussed in the following paragraph. The decrease from 2020 was primarily related to changes in the geographic mix of profits from a tax perspective.
+The provision for income taxes for 2021 also included the following:
+◦A tax charge of $190 million related to $833 million of pension and OPEB mark-to-market gains in 2021, compared to a $82 million tax benefit related to $383 million of mark-to-market losses in 2020.
+◦A tax benefit of $36 million to reflect changes in estimates related to prior year’s U.S. taxes in 2021 compared to $80 million in 2020.
+◦A tax benefit of $63 million in 2021, compared with $49 million in 2020, for the settlement of stock-based compensation awards with associated tax deductions in excess of cumulative U.S. GAAP compensation expense.
+◦A tax benefit of $38 million in 2021 to recognize U.S. capital losses.
+Construction Industries
+Construction Industries’ total sales were $22.106 billion in 2021, an increase of $5.188 billion, or 31 percent, compared with $16.918 billion in 2020. The increase was due to higher sales volume, favorable price realization and favorable currency impacts related to the Chinese yuan, euro and Australian dollar. The increase in sales volume was driven by higher end-user demand for equipment and aftermarket parts and the impact from changes in dealer inventories. Dealers decreased inventories during 2020, compared with dealer inventories that were about flat during 2021.
+•In North America, sales increased due to higher end-user demand, the impact from changes in dealer inventories and favorable price realization. Dealers decreased inventories more in 2020 than in 2021.
+•Sales increased in Latin America primarily due to the impact from changes in dealer inventories, higher end-user demand and favorable price realization. Dealers increased inventories during 2021, compared with a decrease in 2020.
+•In EAME, sales increased due to higher end-user demand, the impact from changes in dealer inventories and favorable currency impacts from a stronger euro and British pound. Dealers increased inventories during 2021, compared with a decrease in 2020.
+•Sales increased in Asia/Pacific due to the impact from changes in dealer inventories and favorable currency impacts related to the Chinese yuan and Australian dollar. Dealers decreased inventories during 2020, compared with a slight increase in 2021.
+Construction Industries’ profit was $3.706 billion in 2021, an increase of $1.333 billion, or 56 percent, compared with $2.373 billion in 2020. The increase was mainly due to higher sales volume and favorable price realization, partially offset by unfavorable manufacturing costs and higher SG&A/R&D expenses.
+Unfavorable manufacturing costs reflected higher material costs, increased variable labor and burden, primarily freight, and higher period manufacturing costs. The increase in period manufacturing costs was driven by higher short-term incentive compensation expense and higher labor costs.
+Higher SG&A/R&D expenses were driven primarily by higher short-term incentive compensation expense.
+Construction Industries’ profit as a percent of total sales was 16.8 percent in 2021, compared with 14.0 percent in 2020.
+Resource Industries
+Resource Industries’ total sales were $9.963 billion in 2021, an increase of $2.057 billion, or 26 percent, compared with $7.906 billion in 2020. The increase was due to higher sales volume driven by higher end-user demand for equipment and aftermarket parts and the impact from changes in dealer inventories. End-user demand was higher in mining as well as heavy construction and quarry and aggregates. Dealers decreased inventories more during 2020 than during 2021.
+Resource Industries’ profit was $1.291 billion in 2021, an increase of $395 million, or 44 percent, compared with $896 million in 2020. The increase was mainly due to higher sales volume and favorable price realization, partially offset by unfavorable manufacturing costs and higher SG&A/R&D expenses.
+Unfavorable manufacturing costs reflected higher variable labor and burden, primarily freight, as well as higher material and period manufacturing costs, partially offset by the favorable impact of cost absorption. Higher period manufacturing costs were driven by higher short-term incentive compensation expense. Cost absorption was favorable as inventory increased during 2021, compared with a decrease during 2020.
+Higher SG&A/R&D expenses were driven primarily by higher short-term incentive compensation expense and investments aligned with growth initiatives, primarily labor costs.
+Resource Industries’ profit as a percent of total sales was 13.0 percent for 2021, compared with 11.3 percent for 2020.
+Energy & Transportation
+Sales by Application
+(Millions of dollars) 2021 2020 $
+Change %
+Change
+Oil and Gas $ 4,460 $ 3,701 $ 759 21 %
+Power Generation 4,292 3,963 329 8 %
+Industrial 3,612 2,945 667 23 %
+Transportation 4,306 4,055 251 6 %
+External Sales 16,670 14,664 2,006 14 %
+Inter-Segment 3,617 2,806 811 29 %
+Total Sales $ 20,287 $ 17,470 $ 2,817 16 %
+Energy & Transportation’s total sales were $20.287 billion in 2021, an increase of $2.817 billion, or 16 percent, compared with $17.470 billion in 2020. Sales increased across all applications and inter-segment sales.
+•Oil and Gas - Sales increased mainly due to higher sales of reciprocating engine aftermarket parts in all regions as well as higher sales in turbines and turbine-related services.
+•Power Generation - Sales increased due to higher sales of aftermarket parts and large reciprocating engines, primarily data centers. Sales also increased due to favorable currency impacts.
+•Industrial - Sales increased due to higher demand across all regions.
+•Transportation - Sales increased due to higher deliveries of locomotives, which were primarily international, and rail services. Sales also increased due to favorable currency impacts.
+Energy & Transportation’s profit was $2.768 billion in 2021, an increase of $363 million, or 15 percent, compared with $2.405 billion in 2020. The increase was due to higher sales volume and favorable price realization, partially offset by unfavorable manufacturing costs and higher SG&A/R&D expenses. Increased manufacturing costs were mainly driven by higher period manufacturing costs and higher variable labor and burden, primarily freight. In addition, segment profit was favorably impacted by lower other operating expense.
+Both SG&A/R&D expenses and period manufacturing costs were driven by higher short-term incentive compensation expense and investments aligned with growth initiatives, including acquisition-related expenses.
+Energy & Transportation’s profit as a percent of total sales was 13.6 percent in 2021, compared with 13.8 percent in 2020.
+Financial Products Segment
+Financial Products’ segment revenues were $3.073 billion in 2021, an increase of $29 million, or 1 percent, from 2020.
+Financial Products’ segment profit was $908 million in 2021, an increase of $318 million, or 54 percent, compared with $590 million in 2020. The increase was primarily due to lower provision for credit losses at Cat Financial, a favorable impact from returned or repossessed equipment and a favorable impact from equity securities in Insurance Services. These favorable impacts were partially offset by an increase in SG&A expenses primarily due to higher short-term incentive compensation expense.
+At the end of 2021, past dues at Cat Financial were 1.95 percent, compared with 3.49 percent at the end of 2020. Past dues decreased across all portfolio segments as global markets generally improved. Write-offs, net of recoveries, were $205 million for 2021, compared with $222 million for 2020. As of December 31, 2021, Cat Financial's allowance for credit losses totaled $337 million, or 1.22 percent of finance receivables, compared with $479 million, or 1.77 percent of finance receivables at December 31, 2020.
+Corporate Items and Eliminations
+Expense for corporate items and eliminations was $1.480 billion in 2021, a slight increase of $46 million from 2020.
+FOURTH QUARTER 2021 COMPARED WITH FOURTH QUARTER 2020
+CONSOLIDATED SALES AND REVENUES
+The chart above graphically illustrates reasons for the change in consolidated sales and revenues between the fourth quarter of 2020 (at left) and the fourth quarter of 2021 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees.
+Total sales and revenues for the fourth quarter of 2021 were $13.798 billion, an increase of $2.563 billion, or 23 percent, compared with $11.235 billion in the fourth quarter of 2020. The increase was mostly due to higher sales volume, driven by higher end-user demand for equipment and services and the impact from changes in dealer inventories, along with favorable price realization. Dealers decreased inventories during the fourth quarter of 2020, compared to remaining about flat during the fourth quarter of 2021.
+Sales were higher across the three primary segments.
+North America sales increased 29 percent due to the impact from changes in dealer inventories, higher end-user demand for services and favorable price realization. Dealers decreased inventories during the fourth quarter of 2020, compared with dealer inventories that were about flat during the fourth quarter of 2021.
+Sales increased 40 percent in Latin America primarily due to higher end-user demand for equipment and services and favorable price realization.
+EAME sales increased 24 percent primarily due to higher end-user demand for equipment and services and the impact from changes in dealer inventories. Dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2021.
+Asia/Pacific sales increased 9 percent primarily due to the impact from changes in dealer inventories, higher end-user demand for equipment and services and favorable price realization. Dealers decreased inventories during the fourth quarter of 2020, compared with an increase during the fourth quarter of 2021.
+Dealers decreased inventories about $1.100 billion during the fourth quarter of 2020, compared to a decrease of about $100 million during the fourth quarter of 2021. Dealers are independent, and the reasons for changes in their inventory levels vary, including their expectations of future demand and product delivery times. Dealers’ demand expectations take into account seasonal changes, macroeconomic conditions, machine rental rates and other factors. Delivery times can vary based on availability of product from Caterpillar factories and product distribution centers.
+Sales and Revenues by Segment
+(Millions of dollars) Fourth Quarter 2020 Sales
+Volume Price
+Realization Currency Inter-Segment / Other Fourth Quarter 2021 $
+Change %
+Change
+Construction Industries $ 4,508 $ 929 $ 299 $ (23) $ 23 $ 5,736 $ 1,228 27 %
+Resource Industries 2,180 467 121 2 (8) 2,762 582 27 %
+Energy & Transportation 4,811 640 88 (7) 196 5,728 917 19 %
+All Other Segment 137 7 - (1) (9) 134 (3) (2 %)
+Corporate Items and Eliminations (1,066) 6 (1) - (202) (1,263) (197)
+Machinery, Energy & Transportation 10,570 2,049 507 (29) - 13,097 2,527 24 %
+Financial Products Segment 743 - - - 33 776 33 4 %
+Corporate Items and Eliminations (78) - - - 3 (75) 3
+Financial Products Revenues 665 - - - 36 701 36 5 %
+Consolidated Sales and Revenues $ 11,235 $ 2,049 $ 507 $ (29) $ 36 $ 13,798 $ 2,563 23 %
+Sales and Revenues by Geographic Region
+North America Latin America EAME Asia/Pacific External Sales and Revenues Inter-Segment Total Sales and Revenues
+(Millions of dollars) $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg
+Fourth Quarter 2021
+Construction Industries $ 2,635 39% $ 563 74% $ 1,246 47% $ 1,245 (12%) $ 5,689 27% $ 47 96% $ 5,736 27 %
+Resource Industries 857 44% 415 5% 532 29% 839 29% 2,643 29% 119 (6%) 2,762 27 %
+Energy & Transportation 1,913 12% 398 50% 1,475 9% 965 36% 4,751 18% 977 25% 5,728 19 %
+All Other Segment 14 180% 1 -% 8 (11%) 15 (17%) 38 19% 96 (9%) 134 (2 %)
+Corporate Items and Eliminations (17) - - (7) (24) (1,239) (1,263)
+Machinery, Energy & Transportation 5,402 29% 1,377 40% 3,261 24% 3,057 9% 13,097 24% - -% 13,097 24 %
+Financial Products Segment 493 6% 70 9% 101 7% 112 (7%) 776 1
+4% - -% 776 4 %
+Corporate Items and Eliminations (37) (15) (9) (14) (75) - (75)
+Financial Products Revenues 456 8% 55 2% 92 10% 98 (6%) 701 5% - -% 701 5 %
+Consolidated Sales and Revenues $ 5,858 27% $ 1,432 38% $ 3,353 24% $ 3,155 9% $ 13,798 23% $ - -% $ 13,798 23 %
+Fourth Quarter 2020
+Construction Industries $ 1,895 $ 324 $ 848 $ 1,417 $ 4,484 $ 24 $ 4,508
+Resource Industries 596 394 412 651 2,053 127 2,180
+Energy & Transportation 1,705 265 1,353 707 4,030 781 4,811
+All Other Segment 5 - 9 18 32 105 137
+Corporate Items and Eliminations (27) 1 (2) (1) (29) (1,037) (1,066)
+Machinery, Energy & Transportation 4,174 984 2,620 2,792 10,570 - 10,570
+Financial Products Segment 464 64 94 121 743 1
+- 743
+Corporate Items and Eliminations (41) (10) (10) (17) (78) - (78)
+Financial Products Revenues 423 54 84 104 665 - 665
+Consolidated Sales and Revenues $ 4,597 $ 1,038 $ 2,704 $ 2,896 $ 11,235 $ - $ 11,235
+1 Includes revenues from Machinery, Energy & Transportation of $88 million for both the three months ended December 31, 2021 and 2020.
+CONSOLIDATED OPERATING PROFIT
+The chart above graphically illustrates reasons for the change in consolidated operating profit between the fourth quarter of 2020 (at left) and the fourth quarter of 2021 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees. The bar entitled Other includes consolidating adjustments and Machinery, Energy & Transportation other operating (income) expenses.
+Operating profit for the fourth quarter of 2021 was $1.611 billion, an increase of $231 million, or 17 percent, compared with $1.380 billion in the fourth quarter of 2020. Higher manufacturing costs and selling, general and administrative (SG&A) and research and development (R&D) expenses were more than offset by higher sales volume, favorable price realization and net restructuring income due to a gain on the sale of a facility.
+Unfavorable manufacturing costs reflected higher variable labor and burden, primarily freight, and higher material costs.
+The increase in SG&A/R&D expenses was driven by higher short-term incentive compensation expense, which was reinstated in 2021, higher labor costs due to increased headcount and investments aligned with the company's strategy for profitable growth, including acquisition-related expenses.
+Short-term incentive compensation expense, which was reinstated in 2021, was about $200 million in the fourth quarter of 2021, compared to no short-term incentive compensation expense recognized in the fourth quarter of 2020.
+Operating profit margin was 11.7 percent for the fourth quarter of 2021, compared with 12.3 percent for the fourth quarter of 2020.
+Profit (Loss) by Segment
+(Millions of dollars) Fourth Quarter 2021 Fourth Quarter 2020 $
+Change %
+Change
+Construction Industries $ 788 $ 630 $ 158 25 %
+Resource Industries 305 273 32 12 %
+Energy & Transportation 675 687 (12) (2 %)
+All Other Segment (12) (3) (9) (300 %)
+Corporate Items and Eliminations (281) (281) -
+Machinery, Energy & Transportation 1,475 1,306 169 13 %
+Financial Products Segment 248 195 53 27 %
+Corporate Items and Eliminations (37) (47) 10
+Financial Products 211 148 63 43 %
+Consolidating Adjustments (75) (74) (1)
+Consolidated Operating Profit $ 1,611 $ 1,380 $ 231 17 %
+Other Profit/Loss and Tax Items
+•Interest expense excluding Financial Products in the fourth quarter of 2021 was $112 million, compared with $130 million in the fourth quarter of 2020. The decrease was due to lower average debt outstanding during the fourth quarter of 2021, compared with the fourth quarter of 2020.
+•Other income (expense) in the fourth quarter of 2021 was income of $1.063 billion, compared with expense of $309 million in the fourth quarter of 2020. The change was primarily driven by mark-to-market gains for remeasurement of pension and OPEB plans in the fourth quarter of 2021, compared with mark-to-market losses in the fourth quarter of 2020.
+•The provision for income taxes for the fourth quarter of 2021 reflected an annual effective tax rate of 22.9 percent, compared with 27.8 percent for the fourth quarter of 2020, excluding the discrete items discussed in the following paragraph. The decrease from 2020 was primarily related to changes in the geographic mix of profits from a tax perspective.
+The provision for income taxes for the fourth quarter of 2021 also included the following:
+◦A tax benefit of $118 million for the change from the third-quarter estimated annual tax rate of 25 percent, compared to a $96 million benefit for the reduction in the annual effective tax rate in the fourth quarter of 2020.
+◦A tax charge of $190 million related to $833 million of pension and OPEB mark-to-market gains in the fourth quarter of 2021, compared to a $92 million tax benefit related to $438 million of mark-to-market losses in the fourth quarter of 2020.
+◦A tax benefit of $40 million in the fourth quarter of 2021 primarily related to recognition of U.S. capital losses compared to $28 million in the fourth quarter of 2020 for the settlement of stock-based compensation awards with associated tax deductions in excess of cumulative U.S. GAAP compensation expense.
+Construction Industries
+Construction Industries’ total sales were $5.736 billion in the fourth quarter of 2021, an increase of $1.228 billion, or 27 percent, compared with $4.508 billion in the fourth quarter of 2020. The increase was due to higher sales volume, driven by the impact from changes in dealer inventories and higher end-user demand, along with favorable price realization. Dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2021.
+▪In North America, sales increased due to higher sales volume and favorable price realization. Higher sales volume was driven by the impact from changes in dealer inventories as dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2021.
+▪Sales increased in Latin America primarily due to higher sales volume and favorable price realization. Higher sales volume was driven by higher end-user demand and the impact from changes in dealer inventories. Dealers increased inventories during the fourth quarter of 2021, compared to a decrease during the fourth quarter of 2020.
+▪In EAME, sales increased due to higher sales volume from higher end-user demand and the impact of changes in dealer inventories. Dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2021.
+▪Sales decreased in Asia/Pacific primarily due to lower sales volume, partially offset by favorable price realization. Decreased sales volume reflected lower end-user demand, partially offset by the impact from changes in dealer inventories. Lower sales in China, driven by lower end-user demand, were partially offset by higher sales across most of the rest of the region. Dealers decreased inventories during the fourth quarter of 2020, compared to an increase during the fourth quarter of 2021.
+Construction Industries’ profit was $788 million in the fourth quarter of 2021, an increase of $158 million, or 25 percent, compared with $630 million in the fourth quarter of 2020. Higher manufacturing costs and SG&A/R&D expenses were more than offset by higher sales volume and favorable price realization. Increased manufacturing costs reflected higher variable labor and burden, primarily freight, as well as higher material costs.
+The increase in SG&A/R&D expenses was driven by higher short-term incentive compensation expense.
+Construction Industries’ profit as a percent of total sales was 13.7 percent in the fourth quarter of 2021, compared with 14.0 percent in the fourth quarter of 2020.
+Resource Industries
+Resource Industries’ total sales were $2.762 billion in the fourth quarter of 2021, an increase of $582 million, or 27 percent, compared with $2.180 billion in the fourth quarter of 2020. The increase was primarily due to higher sales volume, driven by higher end-user demand for equipment and aftermarket parts, and favorable price realization. End-user demand was higher in mining as well as heavy construction and quarry and aggregates.
+Resource Industries’ profit was $305 million in the fourth quarter of 2021, an increase of $32 million, or 12 percent, compared with $273 million in the fourth quarter of 2020. Increased manufacturing costs and SG&A/R&D expenses were more than offset by higher sales volume and favorable price realization. Unfavorable manufacturing costs reflected higher variable labor and burden, primarily freight, and material costs.
+The increase in SG&A/R&D expenses was driven by investments aligned with growth initiatives, primarily labor, and higher short-term incentive compensation expense.
+Resource Industries’ profit as a percent of total sales was 11.0 percent in the fourth quarter of 2021, compared with 12.5 percent in the fourth quarter of 2020.
+Energy & Transportation
+Sales by Application
+(Millions of dollars) Fourth Quarter 2021 Fourth Quarter 2020 $
+Change %
+Change
+Oil and Gas $ 1,320 $ 1,079 $ 241 22 %
+Power Generation 1,267 1,180 87 7 %
+Industrial 952 736 216 29 %
+Transportation 1,212 1,035 177 17 %
+External Sales 4,751 4,030 721 18 %
+Inter-Segment 977 781 196 25 %
+Total Sales $ 5,728 $ 4,811 $ 917 19 %
+Energy & Transportation’s total sales were $5.728 billion in the fourth quarter of 2021, an increase of $917 million, or 19 percent, compared with $4.811 billion in the fourth quarter of 2020. Sales increased across all applications and inter-segment sales.
+▪Oil and Gas - Sales increased for reciprocating engines aftermarket parts across all regions, turbines and turbine-related services and reciprocating engines used in gas compression.
+▪Power Generation - Sales rose due to higher sales volume in reciprocating engines aftermarket parts and small reciprocating engine applications.
+▪Industrial - Sales were up due to higher demand across all regions.
+▪Transportation -Sales increased due to higher deliveries of locomotives, which were primarily international, and rail services.
+Energy & Transportation’s profit was $675 million in the fourth quarter of 2021, a decrease of $12 million, or 2 percent, compared with $687 million in the fourth quarter of 2020. The decrease was due to unfavorable manufacturing costs and higher SG&A/R&D expenses, mostly offset by higher sales volume and favorable price realization. Unfavorable manufacturing costs reflected higher variable labor and burden, primarily freight, higher period manufacturing and material costs.
+Both SG&A/R&D expenses and period manufacturing costs increased primarily due to higher short-term incentive compensation expense and investments aligned with growth initiatives, including acquisition-related expenses.
+Energy & Transportation’s profit as a percent of total sales was 11.8 percent in the fourth quarter of 2021, compared with 14.3 percent in the fourth quarter of 2020.
+Financial Products Segment
+Financial Products’ segment revenues were $776 million in the fourth quarter of 2021, an increase of $33 million, or 4 percent, from the fourth quarter of 2020.
+Financial Products’ segment profit was $248 million in the fourth quarter of 2021, an increase of $53 million, or 27 percent, compared with $195 million in the fourth quarter of 2020. The increase was mainly due to a favorable impact from returned or repossessed equipment and lower provision for credit losses at Cat Financial, partially offset by an increase in SG&A expenses primarily due to higher short-term incentive compensation expense.
+Corporate Items and Eliminations
+Expense for corporate items and eliminations was $318 million in the fourth quarter of 2021, about flat to the fourth quarter of 2020.
+2020 COMPARED WITH 2019
+For discussions related to the consolidated sales and revenue and consolidated operating profit between 2020 and 2019, refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2020, which was filed with the United States Securities and Exchange Commission on February 17, 2021.
+RESTRUCTURING COSTS
+In 2022, we expect to incur about $600 million of restructuring costs primarily related to strategic actions to address a small number of products. We expect that prior restructuring actions will result in an incremental benefit to operating costs, primarily Costs of goods sold and SG&A expenses of about $75 million in 2022 compared with 2021.
+Additional information related to restructuring costs is included in Note 25 - "Restructuring Costs" of Part II, Item 8 "Financial Statements and Supplemental Data."
+GLOSSARY OF TERMS
+1.Adjusted Operating Profit Margin - Operating profit excluding restructuring costs as a percent of sales and revenues.
+2.Adjusted Profit Per Share - Profit per share excluding pension and OPEB mark-to-market gains/losses and restructuring income/costs.
+3.All Other Segment - Primarily includes activities such as: business strategy; product management and development; manufacturing and sourcing of filters and fluids, undercarriage, ground-engaging tools, fluid transfer products, precision seals, rubber sealing and connecting components primarily for Cat® products; parts distribution; integrated logistics solutions; distribution services responsible for dealer development and administration, including a wholly owned dealer in Japan; dealer portfolio management and ensuring the most efficient and effective distribution of machines, engines and parts; brand management and marketing strategy; and digital investments for new customer and dealer solutions that integrate data analytics with state-of-the-art digital technologies while transforming the buying experience.
+4.Consolidating Adjustments - Elimination of transactions between Machinery, Energy & Transportation and Financial Products.
+5.Construction Industries - A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes asphalt pavers; backhoe loaders; compactors; cold planers; compact track and multi-terrain loaders; mini, small, medium and large track excavators; motor graders; pipelayers; road reclaimers; skid steer loaders; telehandlers; small and medium track-type tractors; track-type loaders; utility vehicles; wheel excavators; compact, small and medium wheel loaders; and related parts and work tools.
+6.Corporate Items and Eliminations - Includes corporate-level expenses, timing differences (as some expenses are reported in segment profit on a cash basis), methodology differences between segment and consolidated external reporting, certain restructuring costs and inter-segment eliminations.
+7.Currency - With respect to sales and revenues, currency represents the translation impact on sales resulting from changes in foreign currency exchange rates versus the U.S. dollar. With respect to operating profit, currency represents the net translation impact on sales and operating costs resulting from changes in foreign currency exchange rates versus the U.S. dollar. Currency only includes the impact on sales and operating profit for the Machinery, Energy & Transportation line of business; currency impacts on Financial Products revenues and operating profit are included in the Financial Products portions of the respective analyses. With respect to other income/expense, currency represents the effects of forward and option contracts entered into by the company to reduce the risk of fluctuations in exchange rates (hedging) and the net effect of changes in foreign currency exchange rates on our foreign currency assets and liabilities for consolidated results (translation).
+8.Dealer Inventories - Represents dealer machine and engine inventories, excluding aftermarket parts.
+9.EAME - A geographic region including Europe, Africa, the Middle East and the Commonwealth of Independent States (CIS).
+10.Earning Assets - Assets consisting primarily of total finance receivables net of unearned income, plus equipment on operating leases, less accumulated depreciation at Cat Financial.
+11.Energy & Transportation - A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generation, Industrial and Transportation applications, including marine- and rail-related businesses. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product and services portfolio includes turbines, centrifugal gas compressors, and turbine-related services; reciprocating engine-powered generator sets; integrated systems used in the electric power generation industry; reciprocating engines and integrated systems and solutions for the marine and oil and gas industries; reciprocating engines supplied to the industrial industry as well as Cat machinery; and diesel-electric locomotives and components and other rail-related products and services, including remanufacturing and leasing. Responsibilities also include the remanufacturing of Caterpillar reciprocating engines and components and remanufacturing services for other companies; and product support of on-highway vocational trucks for North America.
+12.Financial Products - The company defines Financial Products as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Caterpillar Insurance Holdings Inc. (Insurance Services). Financial Products’ information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+13.Financial Products Segment - Provides financing alternatives to customers and dealers around the world for Caterpillar products, as well as financing for vehicles, power generation facilities and marine vessels that, in most cases, incorporate Caterpillar products. Financing plans include operating and finance leases, installment sale contracts, repair/rebuild financing, working capital loans and wholesale financing plans. The segment also provides insurance and risk management products and services that help customers and dealers manage their business risk. Insurance and risk management products offered include physical damage insurance, inventory protection plans, extended service coverage and maintenance plans for machines and engines, and dealer property and casualty insurance. The various forms of financing, insurance and risk management products offered to customers and dealers help support the purchase and lease of Caterpillar equipment. The segment also earns revenues from Machinery, Energy & Transportation, but the related costs are not allocated to operating segments. Financial Products’ segment profit is determined on a pretax basis and includes other income/expense items.
+14.Latin America - A geographic region including Central and South American countries and Mexico.
+15.Machinery, Energy & Transportation (ME&T) - The company defines ME&T as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T’s information relates to the design, manufacturing and marketing of its products.
+16.Machinery, Energy & Transportation Other Operating (Income) Expenses - Comprised primarily of gains/losses on disposal of long-lived assets, gains/losses on divestitures and legal settlements and accruals.
+17.Manufacturing Costs - Manufacturing costs exclude the impacts of currency and represent the volume-adjusted change for variable costs and the absolute dollar change for period manufacturing costs. Variable manufacturing costs are defined as having a direct relationship with the volume of production. This includes material costs, direct labor and other costs that vary directly with production volume, such as freight, power to operate machines and supplies that are consumed in the manufacturing process. Period manufacturing costs support production but are defined as generally not having a direct relationship to short-term changes in volume. Examples include machinery and equipment repair, depreciation on manufacturing assets, facility support, procurement, factory scheduling, manufacturing planning and operations management.
+18.Mark-to-market gains/losses - Represents the net gain or loss of actual results differing from the company’s assumptions and the effects of changing assumptions for our defined benefit pension and OPEB plans. These gains and losses are immediately recognized through earnings upon the annual remeasurement in the fourth quarter, or on an interim basis as triggering events warrant remeasurement.
+19.Pension and Other Postemployment Benefits (OPEB) - The company’s defined-benefit pension and postretirement benefit plans.
+20.Price Realization - The impact of net price changes excluding currency and new product introductions. Price realization includes geographic mix of sales, which is the impact of changes in the relative weighting of sales prices between geographic regions.
+21.Resource Industries - A segment primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes large track-type tractors; large mining trucks; hard rock vehicles; longwall miners; electric rope shovels; draglines; hydraulic shovels; rotary drills; large wheel loaders; off-highway trucks; articulated trucks; wheel tractor scrapers; wheel dozers; landfill compactors; soil compactors; select work tools; machinery components; electronics and control systems and related parts. In addition to equipment, Resource Industries also develops and sells technology products and services to provide customers fleet management, equipment management analytics, autonomous machine capabilities, safety services and mining performance solutions. Resource Industries also manages areas that provide services to other parts of the company, including integrated manufacturing, research and development for drivetrains, hydraulic systems, electronics and software for Cat machines and engines.
+22.Restructuring Costs - May include costs for employee separation, long-lived asset impairments and contract terminations. These costs are included in Other operating (income) expenses except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold.
+23.Sales Volume - With respect to sales and revenues, sales volume represents the impact of changes in the quantities sold for Machinery, Energy & Transportation as well as the incremental sales impact of new product introductions, including emissions-related product updates. With respect to operating profit, sales volume represents the impact of changes in the quantities sold for Machinery, Energy & Transportation combined with product mix as well as the net operating profit impact of new product introductions, including emissions-related product updates. Product mix represents the net operating profit impact of changes in the relative weighting of Machinery, Energy & Transportation sales with respect to total sales. The impact of sales volume on segment profit includes inter-segment sales.
+24.Services - Enterprise services include, but are not limited to, aftermarket parts, Financial Products revenues and other service-related revenues. Machinery, Energy & Transportation segments exclude most Financial Products revenues.
+LIQUIDITY AND CAPITAL RESOURCES
+Sources of funds
+We generate significant capital resources from operating activities, which are the primary source of funding for our ME&T operations. Funding for these businesses is also available from commercial paper and long-term debt issuances. Financial Products’ operations are funded primarily from commercial paper, term debt issuances and collections from its existing portfolio. During 2021, we had positive operating cash flow within both our ME&T and Financial Products' operations. On a consolidated basis, we ended 2021 with $9.25 billion of cash, a decrease of $98 million from year-end 2020. We intend to maintain a strong cash and liquidity position.
+Consolidated operating cash flow for 2021 was $7.20 billion, up $871 million compared to 2020. The increase was primarily due to profit before taxes adjusted for non-cash items, including higher accruals for short-term incentive compensation. In addition, lower payments for short-term incentive compensation favorably impacted cash flow. Partially offsetting these items were increased working capital requirements compared to last year. Within working capital, changes in accounts receivable and inventory unfavorably impacted cash flow but were partially offset by favorable changes in accounts payable and accrued expenses. See further discussion of operating cash flow under ME&T and Financial Products.
+Total debt as of December 31, 2021 was $37.79 billion, an increase of $626 million from year-end 2020. Debt related to ME&T decreased $1.37 billion in 2021 due to the repayment of maturing debt. In addition, during the first quarter of 2021, we issued $500 million of ten year bonds at 1.9 percent and utilized the net proceeds to redeem all our $500 million 2.6 percent notes due in 2022. Debt related to Financial products increased by $2.01 billion due to portfolio funding requirements.
+We have three global credit facilities with a syndicate of banks totaling $10.50 billion (Credit Facility) available in the aggregate to both Caterpillar and Cat Financial for general liquidity purposes. Based on management’s allocation decision, which can be revised from time to time, the portion of the Credit Facility available to ME&T as of December 31, 2021 was $2.75 billion. Information on our Credit Facility is as follows:
+•The 364-day facility of $3.15 billion (of which $825 million is available to ME&T) expires on September 1, 2022.
+•The three-year facility, as amended and restated in September 2021, of $2.73 billion (of which $715 million is available to ME&T) expires in September 2024.
+•The five-year facility, as amended and restated in September 2021, of $4.62 billion (of which $1.21 billion is available to ME&T) expires in September 2026.
+At December 31, 2021, Caterpillar’s consolidated net worth was $16.58 billion, which was above the $9.00 billion required under the Credit Facility. The consolidated net worth is defined as the consolidated shareholder’s equity including preferred stock but excluding the pension and other postretirement benefits balance within Accumulated other comprehensive income (loss).
+At December 31, 2021, Cat Financial’s covenant interest coverage ratio was 2.51 to 1. This is above the 1.15 to 1 minimum ratio, calculated as (1) profit excluding income taxes, interest expense and net gain/(loss) from interest rate derivatives to (2) interest expense calculated at the end of each calendar quarter for the rolling four quarter period then most recently ended, required by the Credit Facility.
+In addition, at December 31, 2021, Cat Financial’s six-month covenant leverage ratio was 7.25 to 1 and year-end covenant leverage ratio was 7.91 to 1. This is below the maximum ratio of debt to net worth of 10 to 1, calculated (1) on a monthly basis as the average of the leverage ratios determined on the last day of each of the six preceding calendar months and (2) at each December 31, required by the Credit Facility.
+In the event Caterpillar or Cat Financial does not meet one or more of their respective financial covenants under the Credit Facility in the future (and are unable to obtain a consent or waiver), the syndicate of banks may terminate the commitments allocated to the party that does not meet its covenants. Additionally, in such event, certain of Cat Financial's other lenders under other loan agreements where similar financial covenants or cross default provisions are applicable, may, at their election, choose to pursue remedies under those loan agreements, including accelerating the repayment of outstanding borrowings. At December 31, 2021, there were no borrowings under the Credit Facility.
+Our total credit commitments and available credit as of December 31, 2021 were:
+December 31, 2021
+(Millions of dollars) Consolidated Machinery,
+Energy &
+Transportation Financial
+Products
+Credit lines available:
+Global credit facilities $ 10,500 $ 2,750 $ 7,750
+Other external 3,251 184 3,067
+Total credit lines available 13,751 2,934 10,817
+Less: Commercial paper outstanding (4,896) - (4,896)
+Less: Utilized credit (568) (9) (559)
+Available credit $ 8,287 $ 2,925 $ 5,362
+The other consolidated credit lines with banks as of December 31, 2021 totaled $3.25 billion. These committed and uncommitted credit lines, which may be eligible for renewal at various future dates or have no specified expiration date, are used primarily by our subsidiaries for local funding requirements. Caterpillar or Cat Financial may guarantee subsidiary borrowings under these lines.
+We receive debt ratings from the major credit rating agencies. Moody’s, Fitch and S&P maintain a “mid-A” debt rating. A downgrade of our credit ratings by any of the major credit rating agencies would result in increased borrowing costs and could make access to certain credit markets more difficult. In the event economic conditions deteriorate such that access to debt markets becomes unavailable, ME&T’s operations would rely on cash flow from operations, use of existing cash balances, borrowings from Cat Financial and access to our committed credit facilities. Our Financial Products’ operations would rely on cash flow from its existing portfolio, existing cash balances, access to our committed credit facilities and other credit line facilities of Cat Financial, and potential borrowings from Caterpillar. In addition, we maintain a support agreement with Cat Financial, which requires Caterpillar to remain the sole owner of Cat Financial and may, under certain circumstances, require Caterpillar to make payments to Cat Financial should Cat Financial fail to maintain certain financial ratios.
+We facilitate voluntary supply chain finance programs (the “Programs”) through participating financial institutions. The Programs are available to a wide range of suppliers and allows them the option to manage their cash flow. We are not a party to the agreements between the participating financial institutions and the suppliers in connection with the Programs. The range of payment terms we negotiate with our suppliers is consistent, irrespective of whether a supplier participates in the Programs. The amounts payable to participating financial institutions for suppliers who voluntarily participate in the Programs and included in accounts payable in the Consolidated Statement of Financial Position were $822 million and $533 million at December 31, 2021 and December 31, 2020, respectively. The amounts settled through the Programs and paid to participating financial institutions were $4.1 billion and $3.2 billion in 2021 and 2020, respectively. We account for payments made under the Programs, the same as our other accounts payable, as a reduction to our cash flows from operations. We do not believe that changes in the availability of supply chain financing will have a significant impact on our liquidity.
+Material cash requirements for contractual obligations
+We believe our balances of cash and cash equivalents of $9.25 billion and time deposits of $964 million as of December 31, 2021, along with cash generated by ongoing operations and continued access to debt markets, will be sufficient to satisfy our cash requirements over the next 12 months and beyond.
+We have committed cash outflow related to postretirement benefit obligations, long-term debt and operating lease agreements. See Notes 12, 14 and 20, respectively, of Part II, Item 8 “Financial Statements and Supplementary Data” for additional information.
+We have short-term obligations related to the purchase of goods and services made in the ordinary course of business. These consist of invoices received and recorded as liabilities as of December 31, 2021, but scheduled for payment in 2022 of $8.15 billion. In addition, we have contractual obligations for material and services on order at December 31, 2021, but not yet invoiced or delivered, of $7.28 billion.
+We also have long-term contractual obligations primarily for logistics services agreements; systems support, software licenses and development contracts; information technology consulting contracts and outsourcing contracts for benefit plan administration. These obligations total $1.16 billion, with $550 million due in the next 12 months.
+Machinery, Energy & Transportation
+Net cash provided by operating activities was $7.18 billion in 2021, compared with $4.05 billion in 2020. The increase was primarily due to higher profit in 2021 adjusted for non-cash items, which included higher accruals for short-term incentive compensation. In addition, lower payments for short-term incentive compensation favorably impacted cash flow. Partially offsetting these items were increased working capital requirements. Within working capital, changes in inventory and accounts receivable unfavorably impacted cash flow but were partially offset by favorable changes in accounts payable and accrued expenses.
+Net cash used for investing activities in 2021 was $1.23 billion, compared with net cash used of $1.34 billion in 2020. The change was primarily due to increased activity related to intercompany lending with Financial Products, mostly offset by increased investments in securities. During 2021, we invested $1.19 billion in bank time deposits with varying maturity dates within one year and received proceeds from time deposits that matured of $225 million. We also acquired the Oil & Gas division of the Weir Group PLC for $359 million, net of cash acquired in February 2021.
+Net cash used for financing activities during 2021 was $6.30 billion, compared with net cash used of $1.18 billion in 2020. The change was primarily due to the repayment of debt and lower proceeds from the issuance of debt. In addition, we repurchased $2.67 billion of Caterpillar common stock in 2021 compared to $1.13 billion in 2020.
+While our short-term priorities for the use of cash may vary from time to time as business needs and conditions dictate, our long-term cash deployment strategy is focused on the following priorities. Our top priority is to maintain a strong financial position in support of a Mid-A rating. Next, we intend to fund operational requirements and commitments. Then, we intend to fund priorities that profitably grow the company and return capital to shareholders through dividend growth and share repurchases. Additional information on cash deployment is as follows:
+Strong financial position - Our top priority is to maintain a strong financial position in support of a mid-A rating. We track a diverse group of financial metrics that focus on liquidity, leverage, cash flow and margins which align with our cash deployment actions and the various methodologies used by the major credit rating agencies.
+Operational excellence and commitments - Capital expenditures were $1.13 billion during 2021, compared to $994 million in 2020. We expect ME&T’s capital expenditures in 2022 to be around $1.4 billion. We made $340 million of contributions to our OPEB plans during 2021. By comparison, we made $262 million of contributions to our OPEB plans in 2020. We expect to make approximately $357 million of contributions to our pension and OPEB plans in 2022.
+Fund strategic growth initiatives and return capital to shareholders - We intend to utilize our liquidity and debt capacity to fund targeted investments that drive long-term profitable growth focused in the areas of expanded offerings and services, including acquisitions.
+As part of our capital allocation strategy, ME&T free cash flow is a liquidity measure we use to determine the cash generated and available for financing activities including debt repayments, dividends and share repurchases. We define ME&T free cash flow as cash from ME&T operations excluding discretionary pension and other postretirement benefit plan contributions less capital expenditures. A goal of our capital allocation strategy is to return substantially all ME&T free cash flow to shareholders over time in the form of dividends and share repurchases, while maintaining our mid-A rating.
+Our share repurchase plans are subject to the company’s cash deployment priorities and are evaluated on an ongoing basis considering the financial condition of the company and the economic outlook, corporate cash flow, the company's liquidity needs and the health and stability of global credit markets. The timing and amount of future repurchases may vary depending on market conditions and investing priorities. In July 2018, the Board of Directors approved an authorization to repurchase up to $10 billion of Caterpillar common stock (the 2018 Authorization) effective January 1, 2019, with no expiration. In 2021, we repurchased $2.67 billion of Caterpillar common stock, with $2.10 billion remaining under the 2018 Authorization as of December 31, 2021. Caterpillar's basic shares outstanding as of December 31, 2021 were approximately 536 million.
+Each quarter, our Board of Directors reviews the company's dividend for the applicable quarter. The Board evaluates the financial condition of the company and considers the economic outlook, corporate cash flow, the company's liquidity needs, and the health and stability of global credit markets to determine whether to maintain or change the quarterly dividend. In December 2021, the Board of Directors approved maintaining our quarterly dividend representing $1.11 per share and we continue to expect our strong financial position to support the dividend. Dividends paid totaled $2.33 billion in 2021.
+Financial Products
+Financial Products operating cash flow was $1.42 billion in 2021, compared with $1.27 billion in 2020. Net cash used for investing activities was $1.40 billion in 2021, compared with net cash provided by investing activities of $791 million in 2020. The change was primarily due to portfolio related activity. Net cash provided by financing activities was $257 million in 2021, compared with net cash used of $2.50 billion in 2020. The change was primarily due to higher portfolio funding requirements.
+Off-balance sheet arrangements
+We are a party to certain off-balance sheet arrangements, primarily in the form of guarantees. Information related to guarantees appears in Note 21 - “Guarantees and product warranty” of Part II, Item 8 “Financial Statements and Supplementary Data.”
+RECENT ACCOUNTING PRONOUNCEMENTS
+For a discussion of recent accounting pronouncements, see Note 1J - “New accounting guidance” of Part II, Item 8 “Financial Statements and Supplementary Data.”
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect reported amounts. The more significant estimates include: residual values for leased assets, fair values for goodwill impairment tests, warranty liability, reserves for product liability and insurance losses, postretirement benefits, post-sale discounts, credit losses and income taxes. We have incorporated many years of data into the determination of each of these estimates and we have not historically experienced significant adjustments. We review these assumptions at least annually with the Audit Committee of the Board of Directors. Following are the methods and assumptions used in determining our estimates and an indication of the risks inherent in each.
+Residual values for leased assets - We determine the residual value of Cat Financial’s leased equipment based on its estimated end-of-term market value. We estimate the residual value of leased equipment at the inception of the lease based on a number of factors, including historical wholesale market sales prices, past remarketing experience and any known significant market/product trends. We also consider the following critical factors in our residual value estimates: lease term, market size and demand, total expected hours of usage, machine configuration, application, location, model changes, quantities, third-party residual guarantees and contractual customer purchase options.
+Upon termination of the lease, the equipment is either purchased by the lessee or sold to a third party, in which case we may record a gain or a loss for the difference between the estimated residual value and the sale price.
+During the term of our leases, we monitor residual values. For operating leases, we record adjustments to depreciation expense reflecting changes in residual value estimates prospectively on a straight-line basis. For finance leases, we recognize residual value adjustments through a reduction of finance revenue over the remaining lease term.
+We evaluate the carrying value of equipment on operating leases for potential impairment when we determine a triggering event has occurred. When a triggering event occurs, we perform a test for recoverability by comparing projected undiscounted future cash flows to the carrying value of the equipment on operating leases. If the test for recoverability identifies a possible impairment, we measure the fair value of the equipment on operating leases in accordance with the fair value measurement framework. We recognize an impairment charge for the amount by which the carrying value of the equipment on operating leases exceeds its estimated fair value.
+At December 31, 2021, the aggregate residual value of equipment on operating leases was $1.87 billion. Without consideration of other factors such as third-party residual guarantees or contractual customer purchase options, a 10 percent non-temporary decrease in the market value of our equipment subject to operating leases would reduce residual value estimates and result in the recognition of approximately $85 million of additional annual depreciation expense.
+Fair values for goodwill impairment tests - We test goodwill for impairment annually, at the reporting unit level, and whenever events or circumstances make it more likely than not that an impairment may have occurred, such as a significant adverse change in the business climate or a decision to sell all or a portion of a reporting unit. We perform our annual goodwill impairment test as of October 1 and monitor for interim triggering events on an ongoing basis.
+We review goodwill for impairment utilizing either a qualitative assessment or a quantitative goodwill impairment test. If we choose to perform a qualitative assessment and determine the fair value more likely than not exceeds the carrying value, no further evaluation is necessary. For reporting units where we perform the quantitative goodwill impairment test, we compare the fair value of each reporting unit, which we primarily determine using an income approach based on the present value of discounted cash flows, to the respective carrying value, which includes goodwill. If the fair value of the reporting unit exceeds its carrying value, we do not consider the goodwill impaired. If the carrying value is higher than the fair value, we recognize the difference as an impairment loss.
+For reporting units where we perform a quantitative goodwill impairment test, the process requires valuation of the respective reporting unit, which we primarily determine using an income approach based on a discounted five year forecasted cash flow with a year-five residual value. We compute the residual value using the constant growth method, which values the forecasted cash flows in perpetuity. The assumptions about future cash flows and growth rates are based on each reporting unit's long-term forecast and are subject to review and approval by senior management. A reporting unit’s discount rate is a risk-adjusted weighted average cost of capital, which we believe approximates the rate from a market participant’s perspective. The estimated fair value could be impacted by changes in market conditions, interest rates, growth rates, tax rates, costs, pricing and capital expenditures. We categorize the fair value determination as Level 3 in the fair value hierarchy due to its use of internal projections and unobservable measurement inputs.
+We completed our annual assessment of goodwill in the fourth quarter of 2021 and determined that there was no impairment of goodwill. Caterpillar’s market capitalization has remained significantly above the net book value of the Company.
+An unfavorable change in our expectations for the financial performance of our reporting units, particularly long-term growth and profitability, would reduce the fair value of our reporting units. The demand for our equipment and related parts is highly cyclical and significantly impacted by commodity prices, although the impact may vary by reporting unit. The energy and mining industries are major users of our products, including the mineral extraction, oil and natural gas industries. Decisions to purchase our products are dependent upon the performance of those industries, which in turn are dependent in part on commodity prices. Lower commodity prices or industry specific circumstances that have a negative impact to the valuation assumptions may reduce the fair value of our reporting units. Should such events occur and it becomes more likely than not that a reporting unit’s fair value has fallen below its carrying value, we will perform an interim goodwill impairment test(s), in addition to the annual impairment test. Future impairment tests may result in a goodwill impairment, depending on the outcome of the quantitative impairment test. We would report a goodwill impairment as a non-cash charge to earnings.
+Warranty liability - At the time we recognize a sale, we record estimated future warranty costs. We determine the warranty liability by applying historical claim rate experience to the current field population and dealer inventory. Generally, we base historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America). We develop specific rates for each product shipment month and update them monthly based on actual warranty claim experience. Warranty costs may differ from those estimated if actual claim rates are higher or lower than our historical rates.
+Product liability and insurance loss reserve - We determine these reserves based upon reported claims in process of settlement and actuarial estimates for losses incurred but not reported. Loss reserves, including incurred but not reported reserves, are based on estimates and ultimate settlements may vary significantly from such estimates due to increased claims frequency or severity over historical levels. The amount of these reserves totaled $1.2 billion at both December 31, 2021 and 2020. The majority of the balance in both 2021 and 2020 consisted of unearned insurance premiums.
+Postretirement benefits - We sponsor defined benefit pension plans and/or other postretirement benefit plans (retirement healthcare and life insurance) to employees in many of our locations throughout the world. There are assumptions used in the accounting for these defined benefit plans that include discount rate, expected return on plan assets, expected rate of compensation increase, the future health care trend rate, mortality and other economic and demographic assumptions. The actuarial assumptions we use may change or differ significantly from actual results, which may result in a material impact to our consolidated financial statements.
+The effects of actual results differing from our assumptions and the effects of changing assumptions are considered actuarial gains or losses. We utilize a mark-to-market approach in recognizing actuarial gains or losses immediately through earnings upon the annual remeasurement in the fourth quarter, or on an interim basis as triggering events warrant remeasurement.
+Primary actuarial assumptions were determined as follows:
+•We use the assumed discount rate to discount future benefit obligations back to today’s dollars. The U.S. discount rate is based on a benefit cash flow-matching approach and represents the rate at which our benefit obligations could effectively be settled as of our measurement date, December 31. The benefit cash flow-matching approach involves analyzing Caterpillar’s projected cash flows against a high quality bond yield curve, calculated using a wide population of corporate Aa bonds available on the measurement date. We use a similar approach to determine the assumed discount rate for our most significant non-U.S. plans. In estimating the service and interest cost components of net periodic benefit cost, we utilize a full yield curve approach in determining a discount rate. This approach applies the specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows. Discount rates are sensitive to changes in interest rates. A decrease in the discount rate would increase our obligation and future expense.
+•The expected long-term rate of return on plan assets is based on our estimate of long-term passive returns for equities and fixed income securities weighted by the allocation of our plan assets. Based on historical performance, we increase the passive returns due to our active management of the plan assets. This rate is impacted by changes in general market conditions, but because it represents a long-term rate, it is not significantly impacted by short-term market swings. Changes in our allocation of plan assets would also impact this rate. For example, a shift to more fixed income securities would lower the rate. A decrease in the rate would increase our expense. The expected return on plan assets is based on the fair value of plan assets allocations as of our measurement date, December 31.
+•We use the expected rate of compensation increase to develop benefit obligations using projected pay at retirement. It represents average long-term salary increases. This rate is influenced by our long-term compensation policies. An increase in the rate would increase our obligation and expense.
+•The assumed health care trend rate represents the rate at which health care costs are assumed to increase and is based on historical and expected experience. Changes in our projections of future health care costs due to general economic conditions and those specific to health care (e.g., technology driven cost changes) will impact this trend rate. An increase in the trend rate would increase our obligation and expense.
+•We use the mortality assumption to estimate the life expectancy of plan participants. An increase in the life expectancy of plan participants will result in an increase in our obligation and expense.
+Postretirement Benefit Plan Actuarial Assumptions Sensitivity
+The effects of a one percentage-point change in certain actuarial assumptions on 2021 pension and OPEB costs and obligations are as follows:
+2021 Benefit Cost Increase (Decrease) Year-end Benefit Obligation Increase (Decrease)
+(Millions of dollars) One percentage-
+point increase One percentage-
+point decrease One percentage-
+point increase One percentage-
+point decrease
+U.S. Pension Benefits: 1
+Assumed discount rate $ 115 $ (149) $ (1,910) $ 2,329
+Expected long-term rate of return on plan assets (171) 171 - -
+Non-U.S. Pension Benefits:
+Assumed discount rate 22 (30) (591) 756
+Expected rate of compensation increase 5 (4) 39 (32)
+Expected long-term rate of return on plan assets (44) 44 - -
+Other Postretirement Benefits:
+Assumed discount rate 12 (14) (343) 413
+Expected rate of compensation increase - - 1 (1)
+Expected long-term rate of return on plan assets (1) 1 - -
+1 Effective December 31, 2019, all U.S. pension benefits were frozen, and accordingly the expected rate of compensation increase assumption is no longer applicable.
+Actuarial Assumptions
+U.S. Pension Benefits Non-U.S. Pension Benefits Other Postretirement Benefits
+2021 2020 2019 2021 2020 2019 2021 2020 2019
+Weighted-average assumptions used to determine benefit obligation, end of year:
+Discount rate 2.8 % 2.4 % 3.2 % 1.8 % 1.4 % 1.9 % 2.7 % 2.3 % 3.2 %
+Rate of compensation increase 1
+- % - % - % 2.0 % 2.0 % 2.0 % 4.0 % 4.0 % 4.0 %
+Weighted-average assumptions used to determine net periodic benefit cost:
+Discount rate used to measure service cost 1
+- % - % 4.3 % 1.4 % 1.5 % 2.5 % 2.5 % 3.2 % 4.1 %
+Discount rate used to measure interest cost 1.8 % 2.8 % 3.9 % 1.2 % 1.7 % 2.3 % 1.6 % 2.8 % 3.9 %
+Expected rate of return on plan assets 4.2 % 5.1 % 5.9 % 2.9 % 3.3 % 3.8 % 6.5 % 7.0 % 7.2 %
+Rate of compensation increase 1
+- % - % 4.0 % 2.0 % 2.0 % 3.0 % 4.0 % 4.0 % 4.1 %
+Health care cost trend rates at year-end:
+Health care trend rate assumed for next year 5.6 % 5.8 % 6.1 %
+Rate that the cost trend rate gradually declines to 5.0 % 5.0 % 5.0 %
+Year that the cost trend rate reaches ultimate rate 2025 2025 2025
+1 Effective December 31, 2019, all U.S. pension benefits were frozen, and accordingly this assumption is no longer applicable.
+See Note 12 - “Postemployment benefit plans” of Part II, Item 8 “Financial Statement and Supplemental Data” for further information regarding the accounting for postretirement benefits.
+Post-sale discount reserve - We provide discounts to dealers through merchandising programs. We have numerous programs that are designed to promote the sale of our products. The most common dealer programs provide a discount when the dealer sells a product to a targeted end user. The amount of accrued post-sale discounts was $1.4 billion at both December 31, 2021 and 2020. The reserve represents discounts that we expect to pay on previously sold units and is reviewed at least quarterly. We adjust the reserve if discounts paid differ from those estimated. Historically, those adjustments have not been material.
+Allowance for credit losses - The allowance for credit losses is management’s estimate of expected losses over the life of our finance receivable portfolio calculated using loss forecast models that take into consideration historical credit loss experience, current economic conditions and forecasts and scenarios that capture country and industry-specific economic factors. In addition, we consider qualitative factors not able to be fully captured in our loss forecast models, including borrower-specific and company-specific factors. These qualitative factors are subjective and require a degree of management judgment.
+We measure the allowance for credit losses on a collective (pool) basis when similar risk characteristics exist and on an individual basis when we determine that similar risk characteristics do not exist. We identify finance receivables for individual evaluation based on past-due status and information available about the customer, such as financial statements, news reports and published credit ratings, as well as general information regarding industry trends and the economic environment in which our customers operate. The allowance for credit losses attributable to finance receivables that are individually evaluated is based on the present value of expected future cash flows discounted at the receivables' effective interest rate, the fair value of the collateral for collateral-dependent receivables or the observable market price of the receivable. In determining collateral value, we estimate the current fair market value of the collateral less selling costs. We also consider credit enhancements such as additional collateral and contractual third-party guarantees.
+While management believes it has exercised prudent judgment and applied reasonable assumptions, there can be no assurance that in the future, changes in economic conditions or other factors would not cause changes in the financial health of our customers. If the financial health of our customers deteriorates, the timing and level of payments received could be impacted and therefore, could result in a change to our estimated losses.
+Income taxes - We are subject to the income tax laws of the many jurisdictions in which we operate. These tax laws are complex, and the manner in which they apply to our facts is sometimes open to interpretation. In establishing the provision for income taxes, we must make judgments about the application of these inherently complex tax laws. Our income tax positions and analysis are based on currently enacted tax law. Future changes in tax law or related interpretations could significantly impact the provision for income taxes, the amount of taxes payable, and the deferred tax asset and liability balances. Changes in tax law are reflected in the period of enactment with related interpretations considered in the period received.
+Despite our belief that our tax return positions are consistent with applicable tax laws, we believe that taxing authorities could challenge certain positions. Settlement of any challenge can result in no change, a complete disallowance, or some partial adjustment reached through negotiations or litigation. We record tax benefits for uncertain tax positions based upon management’s evaluation of the information available at the reporting date. To be recognized in the financial statements, a tax benefit must be at least more likely than not of being sustained based on technical merits. The benefit for positions meeting the recognition threshold is measured as the largest benefit more likely than not of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. Significant judgment is required in making these determinations and adjustments to unrecognized tax benefits may be necessary to reflect actual taxes payable upon settlement. Adjustments related to positions impacting the effective tax rate affect the provision for income taxes. Adjustments related to positions impacting the timing of deductions impact deferred tax assets and liabilities. For tax years 2007 to 2012 including the impact of a loss carryback to 2005, the IRS has proposed to tax in the United States profits earned from certain parts transactions by Caterpillar SARL (CSARL), based on the IRS examination team’s application of “substance-over-form” or “assignment-of-income” judicial doctrines. CSARL is primarily taxable locally in Switzerland. We are vigorously contesting the proposed increases to tax and penalties for these years of approximately $2.3 billion. We believe that the relevant transactions complied with applicable tax laws and did not violate judicial doctrines. The purchase of parts by CSARL from unrelated parties and the subsequent sale of those parts to unrelated dealers outside the United States have substantial legal, commercial, and economic consequences for the parties involved. Therefore, we have concluded that the largest amount of benefit that is more likely than not to be sustained related to this position is the entire benefit. As a result, no amount related to these IRS adjustments is reflected in unrecognized tax benefits. We have filed U.S. income tax returns on this same basis for years after 2012. We currently believe the ultimate disposition of this matter will not have a material adverse effect on our consolidated financial position, liquidity or results of operations.
+Deferred tax assets generally represent tax benefits for tax deductions or credits available in future tax returns. Certain estimates and assumptions are required to determine whether it is more likely than not that all or some portion of the benefit of a deferred tax asset will not be realized. In making this assessment, management analyzes the trend of U.S. GAAP earnings and estimates the impact of future taxable income, reversing temporary differences and available prudent and feasible tax planning strategies. We give less weight in this analysis to mark-to-market adjustments to remeasure our pension and OPEB plans as we do not consider these adjustments indicative of ongoing earnings trends. Should a change in facts or circumstances lead to a change in judgment about the ultimate realizability of a deferred tax asset, we record or adjust the related valuation allowance in the period that the change in facts and circumstances occurs, along with a corresponding increase or decrease in the provision for income taxes.
+Additional information related to income taxes is included in Note 6 - “Income taxes” of Part II, Item 8 “Financial statements and Supplementary Data.”
+OTHER MATTERS
+Information related to legal proceedings appears in Note 22-Environmental and Legal Matters of Part II, Item 8 “Financial Statements and Supplementary Data.”
+RETIREMENT BENEFITS
+We recognize mark-to-market gains and losses immediately through earnings upon the remeasurement of our pension and OPEB plans. Mark-to-market gains and losses represent the effects of actual results differing from our assumptions and the effects of changing assumptions. Changes in discount rates and differences between the actual return on plan assets and the expected return on plan assets generally have the largest impact on mark-to-market gains and losses.
+The table below summarizes the amounts of net periodic benefit cost recognized for 2021, 2020 and 2019, respectively, and includes expected cost for 2022.
+(Millions of dollars) 2022 Expected
+2021 2020 2019
+U.S. Pension Benefits $ (269) $ (388) $ (309) $ (7)
+Non-U.S. Pension Benefits (13) (19) 18 19
+Other Postretirement Benefits 161 118 147 158
+Mark-to-market loss (gain) - 1 (833) 383 468
+Total net periodic benefit cost (benefit) $ (121) $ (1,122) $ 239 $ 638
+1 Expected net periodic benefit cost (benefit) does not include an estimate for mark-to-market gains or losses.
+•Expected increase in expense in 2022 compared to 2021 - Excluding the impact of mark-to-market gains and losses, our net periodic benefit cost is expected to increase $168 million in 2022. The expected increase is primarily due to changes in assumptions causing higher interest cost in 2022 as a result of higher discount rates at year-end 2021 (U.S. pension plans discount rate for 2022 interest cost is 2.3% compared to 1.8% for 2021) and lower expected return on plan assets in 2022 (U.S. pension plans expected return on plans assets is 4.0 percent for 2022 compared to 4.2 percent in 2021).
+•Decrease in expense in 2021 compared to 2020 - Primarily due to mark-to-market gains in 2021 compared to mark-to-market losses in 2020 and lower interest cost in 2021 as a result of lower discount rates at year-end 2020.
+•Decrease in expense in 2020 compared to 2019 - Primarily due to lower interest cost in 2020 as a result of lower discount rates at year-end 2019, the elimination of service cost for our U.S. pension plans freezing benefit accruals and lower mark-to-market losses in 2020 compared to 2019.
+The primary factors that resulted in mark-to-market losses (gains) for 2021, 2020 and 2019 are described below. We include the net mark-to-market losses (gains) in Other income (expense) in the Results of Operations.
+•2021 net mark-to-market gain of $833 million - Primarily due to higher discount rates at the end of 2021 compared to the end of 2020. This was partially offset by various assumption changes and a lower actual return on plan assets compared to the expected return on plan assets (U.S. pension plans had an actual rate of return of 3.6 percent compared to an expected rate of return of 4.2 percent).
+•2020 net mark-to-market loss of $383 million - Primarily due to lower discount rates at the end of 2020 compared to the end of 2019. This was partially offset by a higher actual return on plan assets compared to the expected return on plan assets (U.S. pension plans had an actual rate of return of 16.7 percent compared to an expected rate of return of 5.1 percent).
+•2019 net mark-to-market loss of $468 million - Primarily due to lower discount rates at the end of 2019 compared to the end of 2018. This was partially offset by a higher actual return on plan assets compared to the expected return on plan assets (U.S. pension plans had an actual rate of return of 22.3 percent compared to an expected rate of return of 5.9 percent).
+SENSITIVITY
+Foreign Exchange Rate Sensitivity
+ME&T operations use foreign currency forward and option contracts to manage unmatched foreign currency cash inflow and outflow. Our objective is to minimize the risk of exchange rate movements that would reduce the U.S. dollar value of our foreign currency cash flow. Our policy allows for managing anticipated foreign currency cash flow for up to approximately five years. Based on the anticipated and firmly committed cash inflow and outflow for our ME&T operations for the next 12 months and the foreign currency derivative instruments in place at year-end, a hypothetical 10 percent weakening of the U.S. dollar relative to all other currencies would adversely affect our expected 2022 cash flow for our ME&T operations by approximately $89 million. Last year similar assumptions and calculations yielded a potential $126 million adverse impact on 2021 cash flow. We determine our net exposures by calculating the difference in cash inflow and outflow by currency and adding or subtracting outstanding foreign currency derivative instruments. We multiply these net amounts by 10 percent to determine the sensitivity.
+In managing foreign currency risk for our Financial Products operations, our objective is to minimize earnings volatility resulting from conversion and the remeasurement of net foreign currency balance sheet positions and future transactions denominated in foreign currencies. Since our policy allows the use of foreign currency forward, option and cross currency contracts to offset the risk of currency mismatch between our assets and liabilities and exchange rate risk associated with future transactions denominated in foreign currencies, a 10 percent change in the value of the U.S. dollar relative to all other currencies would not have a material effect on our consolidated financial position, results of operations or cash flow. Neither our policy nor the effect of a 10 percent change in the value of the U.S. dollar has changed from that reported at the end of last year.
+The effect of the hypothetical change in exchange rates ignores the effect this movement may have on other variables, including competitive risk. If it were possible to quantify this competitive impact, the results would probably be different from the sensitivity effects shown above. In addition, it is unlikely that all currencies would uniformly strengthen or weaken relative to the U.S. dollar. In reality, some currencies may weaken while others may strengthen. Our primary exposure (excluding competitive risk) is to exchange rate movements in the Australian dollar, Chinese yuan, Euro, Japanese yen and Swiss franc.
+Interest Rate Sensitivity
+For our ME&T operations, we have the option to use interest rate contracts to lower the cost of borrowed funds by attaching fixed-to-floating interest rate contracts to fixed-rate debt, and by entering into forward rate agreements on future debt issuances. A hypothetical 100 basis point adverse move in interest rates along the entire interest rate yield curve would have a minimal impact to the 2022 pre-tax earnings of ME&T. Last year, similar assumptions and calculations yielded a minimal impact to 2021 pre-tax earnings.
+For our Financial Products operations, we use interest rate derivative instruments primarily to meet our match-funding objectives and strategies. We have a match-funding policy that addresses the interest rate risk by aligning the interest rate profile (fixed or floating rate and duration) of our debt portfolio with the interest rate profile of our finance receivable portfolio within a predetermined range on an ongoing basis. In connection with that policy, we use interest rate derivative instruments to modify the debt structure to match assets within the finance receivable portfolio. Match funding reduces the volatility of margins between interest-bearing assets and interest-bearing liabilities, regardless of which direction interest rates move.
+In order to properly manage sensitivity to changes in interest rates, Financial Products measures the potential impact of different interest rate assumptions on pre-tax earnings. All on-balance sheet positions, including derivative financial instruments, are included in the analysis. The primary assumptions included in the analysis are that there are no new fixed rate assets or liabilities, the proportion of fixed rate debt to fixed rate assets remains unchanged and the level of floating rate assets and debt remain constant. An analysis of the December 31, 2021 balance sheet, using these assumptions, estimates the impact of a 100 basis point immediate and sustained adverse change in interest rates to have a minimal impact on 2022 pre-tax earnings. Last year, similar assumptions and calculations yielded a minimal impact to 2021 pre-tax earnings.
+This analysis does not necessarily represent our current outlook of future market interest rate movement, nor does it consider any actions management could undertake in response to changes in interest rates. Accordingly, no assurance can be given that actual results would be consistent with the results of our estimate.
+NON-GAAP FINANCIAL MEASURES
+We provide the following definitions for the non-GAAP financial measures used in this report. These non-GAAP financial measures have no standardized meaning prescribed by U.S. GAAP and therefore are unlikely to be comparable to the calculation of similar measures for other companies. Management does not intend these items to be considered in isolation or as a substitute for the related GAAP measures.
+We believe it is important to separately quantify the profit impact of two significant items in order for our results to be meaningful to our readers. These items consist of (i) pension and OPEB mark-to-market (gains) losses resulting from plan remeasurements and (ii) restructuring (income) costs, which were incurred to generate longer-term benefits. We do not consider these items indicative of earnings from ongoing business activities and believe the non-GAAP measures will provide investors with useful perspective on underlying business results and trends and aid with assessing our period-over-period results. In addition, we provide a calculation of ME&T free cash flow as we believe it is an important measure for investors to determine the cash generation available for financing activities including debt repayments, dividends and share repurchases.
+Reconciliations of adjusted results to the most directly comparable GAAP measures are as follows:
+Reconciliations of ME&T free cash flow to the most directly comparable GAAP measure, net cash provided by operating activities are as follows:
+Millions of dollars Twelve Months Ended December 31,
+2021 2020
+ME&T net cash provided by operating activities 1
+$ 7,177 $ 4,054
+ME&T discretionary pension contributions - -
+ME&T capital expenditures (1,129) (994)
+ME&T free cash flow $ 6,048 $ 3,060
+1 See reconciliation of ME&T net cash provided by operating activities to consolidated net cash provided by operating activities on page 58.
+Supplemental Consolidating Data
+We are providing supplemental consolidating data for the purpose of additional analysis. We have grouped the data as follows:
+Consolidated - Caterpillar Inc. and its subsidiaries.
+Machinery, Energy & Transportation - We define ME&T as it is presented in the supplemental data as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T's information relates to the design, manufacturing and marketing of our products.
+Financial Products - We define Financial Products as it is presented in the supplemental data as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Cat Insurance Holdings Inc. (Insurance Services). Financial Products’ information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+Consolidating Adjustments - Eliminations of transactions between ME&T and Financial Products.
+The nature of the ME&T and Financial Products businesses is different, especially with regard to the financial position and cash flow items. Caterpillar management utilizes this presentation internally to highlight these differences. We believe this presentation will assist readers in understanding our business.
+Pages 56 to 58 reconcile ME&T and Financial Products to Caterpillar Inc. consolidated financial information. Certain amounts for prior periods have been reclassified to conform to current year presentation.
+Supplemental Data for Results of Operations
+For The Years Ended December 31
+Supplemental consolidating data
+Consolidated Machinery,
+Energy & Transportation Financial
+Products Consolidating
+Adjustments
+(Millions of dollars) 2021 2020 2019 2021 2020 2019 2021 2020 2019 2021 2020 2019
+Sales and revenues:
+Sales of Machinery, Energy & Transportation $ 48,188 $ 39,022 $ 50,755 $ 48,188 $ 39,022 $ 50,755 $ - $ - $ - $ - $ - $ -
+Revenues of Financial Products 2,783 2,726 3,045 - - - 3,172 3,110 3,571 (389) 1 (384) 1 (526) 1
+Total sales and revenues 50,971 41,748 53,800 48,188 39,022 50,755 3,172 3,110 3,571 (389) (384) (526)
+Operating costs:
+Cost of goods sold 35,513 29,082 36,630 35,521 29,088 36,634 - - - (8) 2 (6) 2 (4) 2
+Selling, general and administrative expenses 5,365 4,642 5,162 4,724 3,915 4,444 654 746 737 (13) 2 (19) 2 (19) 2
+Research and development expenses 1,686 1,415 1,693 1,686 1,415 1,693 - - - - - -
+Interest expense of Financial Products 455 589 754 - - - 455 591 786 - (2) 3 (32) 3
+Other operating (income) expenses 1,074 1,467 1,271 (106) 283 14 1,247 1,236 1,297 (67) 2 (52) 2 (40) 2
+Total operating costs 44,093 37,195 45,510 41,825 34,701 42,785 2,356 2,573 2,820 (88) (79) (95)
+Operating profit 6,878 4,553 8,290 6,363 4,321 7,970 816 537 751 (301) (305) (431)
+Interest expense excluding Financial Products 488 514 421 488 513 429 - - - - 1 3 (8) 3
+Other income (expense) 1,814 (44) (57) 2,276 (62) (535) 87 32 80 (549) 4 (14) 4 398 4
+Consolidated profit before taxes 8,204 3,995 7,812 8,151 3,746 7,006 903 569 831 (850) (320) (25)
+Provision (benefit) for income taxes 1,742 1,006 1,746 1,517 853 1,512 225 153 234 - - -
+Profit of consolidated companies 6,462 2,989 6,066 6,634 2,893 5,494 678 416 597 (850) (320) (25)
+Equity in profit (loss) of unconsolidated affiliated companies 31 14 28 42 29 49 - - - (11) 5 (15) 5 (21) 5
+Profit of consolidated and affiliated companies 6,493 3,003 6,094 6,676 2,922 5,543 678 416 597 (861) (335) (46)
+Less: Profit (loss) attributable to noncontrolling interests 4 5 1 3 5 - 12 15 22 (11) 6 (15) 6 (21) 6
+Profit 7
+$ 6,489 $ 2,998 $ 6,093 $ 6,673 $ 2,917 $ 5,543 $ 666 $ 401 $ 575 $ (850) $ (320) $ (25)
+1Elimination of Financial Products' revenues earned from ME&T.
+2Elimination of net expenses recorded by ME&T paid to Financial Products.
+3Elimination of interest expense recorded between Financial Products and ME&T.
+4Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as dividends paid by Financial Products to ME&T.
+5Elimination of equity profit (loss) earned from Financial Products’ subsidiaries partially owned by ME&T subsidiaries.
+6Elimination of noncontrolling interest profit (loss) recorded by Financial Products for subsidiaries partially owned by ME&T subsidiaries.
+7Profit attributable to common shareholders.
+Supplemental Data for Financial Position
+At December 31 Supplemental consolidating data
+Consolidated Machinery,
+Energy & Transportation Financial
+Products Consolidating
+Adjustments
+(Millions of dollars) 2021 2020 2021 2020 2021 2020 2021 2020
+Assets
+Current assets:
+Cash and cash equivalents $ 9,254 $ 9,352 $ 8,428 $ 8,822 $ 826 $ 530 $ - $ -
+Receivables - trade and other 8,477 7,317 3,279 3,846 435 397 4,763 1,2
+3,074 1,2
+Receivables - finance 8,898 9,463 - - 13,828 13,681 (4,930) 2 (4,218) 2
+Prepaid expenses and other current assets 2,788 1,930 2,567 1,376 358 624 (137) 3 (70) 3
+Inventories 14,038 11,402 14,038 11,402 - - -
+-
+Total current assets 43,455 39,464 28,312 25,446 15,447 15,232 (304) (1,214)
+Property, plant and equipment - net 12,090 12,401 8,172 8,309 3,918 4,092 -
+-
+Long-term receivables - trade and other 1,204 1,185 375 363 204 164 625 1,2
+658 1,2
+Long-term receivables - finance 12,707 12,222 - - 13,358 12,895 (651) 2 (673) 2
+Noncurrent deferred and refundable income taxes 1,840 1,523 2,396 2,058 105 110 (661) 4 (645) 4
+Intangible assets 1,042 1,308 1,042 1,308 - - - -
+Goodwill 6,324 6,394 6,324 6,394 - - - -
+Other assets 4,131 3,827 3,388 3,158 1,952 1,871 (1,209) 5 (1,202) 5
+Total assets $ 82,793 $ 78,324 $ 50,009 $ 47,036 $ 34,984 $ 34,364 $ (2,200) $ (3,076)
+Liabilities
+Current liabilities:
+Short-term borrowings $ 5,404 $ 2,015 $ 9 $ 10 $ 5,395 $ 2,005 $ - $ -
+Short-term borrowings with consolidated companies - - - - - 1,000 - (1,000) 6
+Accounts payable 8,154 6,128 8,079 6,060 242 212 (167) 7 (144) 7
+Accrued expenses 3,757 3,642 3,385 3,099 372 543 - -
+Accrued wages, salaries and employee benefits 2,242 1,096 2,186 1,081 56 15 -
+-
+Customer advances 1,087 1,108 1,086 1,108 1 - -
+-
+Dividends payable 595 562 595 562 - - -
+-
+Other current liabilities 2,256 2,017 1,773 1,530 642 580 (159) 4,8
+(93) 4,8
+Long-term debt due within one year 6,352 9,149 45 1,420 6,307 7,729 -
+-
+Total current liabilities 29,847 25,717 17,158 14,870 13,015 12,084 (326) (1,237)
+Long-term debt due after one year 26,033 25,999 9,772 9,764 16,287 16,250 (26) 6 (15) 6
+Liability for postemployment benefits 5,592 6,872 5,592 6,872 - - -
+-
+Other liabilities 4,805 4,358 4,106 3,691 1,425 1,385 (726) 4 (718) 4
+Total liabilities 66,277 62,946 36,628 35,197 30,727 29,719 (1,078) (1,970)
+Commitments and contingencies
+Shareholders’ equity
+Common stock 6,398 6,230 6,398 6,230 919 919 (919) 9 (919) 9
+Treasury stock (27,643) (25,178) (27,643) (25,178) - - -
+-
+Profit employed in the business 39,282 35,167 35,390 31,091 3,881 4,065 11 9 11 9
+Accumulated other comprehensive income (loss) (1,553) (888) (799) (352) (754) (536) - -
+Noncontrolling interests 32 47 35 48 211 197 (214) 9 (198) 9
+Total shareholders’ equity 16,516 15,378 13,381 11,839 4,257 4,645 (1,122) (1,106)
+Total liabilities and shareholders’ equity $ 82,793 $ 78,324 $ 50,009 $ 47,036 $ 34,984 $ 34,364 $ (2,200) $ (3,076)
+1Elimination of receivables between ME&T and Financial Products.
+2Reclassification of ME&T’s trade receivables purchased by Financial Products and Financial Products’ wholesale inventory receivables.
+3Elimination of ME&T's insurance premiums that are prepaid to Financial Products.
+4Reclassification reflecting required netting of deferred tax assets/liabilities by taxing jurisdiction.
+5Elimination of other intercompany assets between ME&T and Financial Products.
+6Elimination of debt between ME&T and Financial Products.
+7Elimination of payables between ME&T and Financial Products.
+8Elimination of prepaid insurance in Financial Products’ other liabilities.
+9Eliminations associated with ME&T’s investments in Financial Products’ subsidiaries.
+Supplemental Data for Statement of Cash Flow
+For the Years Ended December 31 Supplemental consolidating data
+Consolidated Machinery,
+Energy & Transportation Financial
+Products Consolidating
+Adjustments
+(Millions of dollars) 2021 2020 2021 2020 2021 2020 2021 2020
+Cash flow from operating activities:
+Profit (loss) of consolidated and affiliated companies $ 6,493 $ 3,003 $ 6,676 $ 2,922 $ 678 $ 416 $ (861) 1,5
+$ (335) 1,5
+Adjustments for non-cash items:
+Depreciation and amortization 2,352 2,432 1,550 1,630 802 802 -
+-
+Actuarial (gain) loss on pension and postretirement benefits (833) 383 (833) 384 - (1) - -
+Provision (benefit) for deferred income taxes (383) (74) (329) (85) (54) 11 - -
+Other 216 1,000 131 613 (209) 98 294 2
+289 2
+Changes in assets and liabilities, net of acquisitions and divestitures:
+Receivables - trade and other (1,259) 1,442 (463) 395 47 50 (843) 2,3
+997 2,3
+Inventories (2,586) (34) (2,581) (29) - - (5) 2
+(5) 2
+Accounts payable 2,041 98 2,015 51 49 18 (23) 2
+29 2
+Accrued expenses 196 (366) 288 (364) (92) (2) - -
+Accrued wages, salaries and employee benefits 1,107 (544) 1,066 (510) 41 (34) -
+-
+Customer advances 34 (126) 33 (126) 1 - - -
+Other assets-net (97) (201) (200) (133) 25 (71) 78 2
+3 2
+Other liabilities-net (83) (686) (176) (694) 132 (22) (39) 2
+30 2
+Net cash provided by (used for) operating activities 7,198 6,327 7,177 4,054 1,420 1,265 (1,399) 1,008
+Cash flow from investing activities:
+Capital expenditures-excluding equipment leased to others (1,093) (978) (1,088) (976) (16) (14) 11 2
+12 2
+Expenditures for equipment leased to others (1,379) (1,137) (41) (18) (1,347) (1,139) 9 2
+20 2
+Proceeds from disposals of leased assets and property, plant and equipment 1,265 772 186 147 1,095 651 (16) 2
+(26) 2
+Additions to finance receivables (13,002) (12,385) - - (13,845) (13,525) 843 3
+1,140 3
+Collections of finance receivables 12,430 12,646 - - 13,337 14,077 (907) 3
+(1,431) 3
+Net intercompany purchased receivables - - - - (609) 1,043 609 3
+(1,043) 3
+Proceeds from sale of finance receivables 51 42 - - 51 42 - -
+Net intercompany borrowings - - 1,000 (401) 5 7 (1,005) 4
+394 4
+Investments and acquisitions (net of cash acquired) (490) (111) (490) (111) - - - -
+Proceeds from sale of businesses and investments (net of cash sold) 36 25 36 25 - - - -
+Proceeds from sale of securities 785 345 274 24 511 321 -
+-
+Investments in securities (1,766) (638) (1,189) (21) (577) (617) -
+-
+Other-net 79 (66) 81 (11) (2) (55) - -
+Net cash provided by (used for) investing activities (3,084) (1,485) (1,231) (1,342) (1,397) 791 (456)
+(934)
+Cash flow from financing activities:
+Dividends paid (2,332) (2,243) (2,332) (2,243) (850) (320) 850 5
+320 5
+Common stock issued, including treasury shares reissued 135 229 135 229 - - - -
+Common shares repurchased (2,668) (1,130) (2,668) (1,130) - - - -
+Net intercompany borrowings - - (5) (7) (1,000) 401 1,005 4
+(394) 4
+Proceeds from debt issued (original maturities greater than three months) 6,989 10,431 494 1,991 6,495 8,440 -
+-
+Payments on debt (original maturities greater than three months) (9,796) (8,237) (1,919) (26) (7,877) (8,211) -
+-
+Short-term borrowings - net (original maturities three months or less) 3,488 (2,804) (1) 5 3,489 (2,809) -
+-
+Other-net (4) (1) (4) (1) - - -
+-
+Net cash provided by (used for) financing activities (4,188) (3,755) (6,300) (1,182) 257 (2,499) 1,855 (74)
+Effect of exchange rate changes on cash (29) (13) (35) (10) 6 (3) -
+-
+Increase (decrease) in cash, cash equivalents and restricted cash (103) 1,074 (389) 1,520 286 (446) -
+-
+Cash, cash equivalents and restricted cash at beginning of period 9,366 8,292 8,822 7,302 544 990 -
+-
+Cash, cash equivalents and restricted cash at end of period $ 9,263 $ 9,366 $ 8,433 $ 8,822 $ 830 $ 544 $ -
+$ -
+1Elimination of equity profit earned from Financial Products’ subsidiaries partially owned by ME&T subsidiaries.
+2Elimination of non-cash adjustments and changes in assets and liabilities related to consolidated reporting.
+3Reclassification of Financial Products’ cash flow activity from investing to operating for receivables that arose from the sale of inventory.
+4Elimination of net proceeds and payments to/from ME&T and Financial Products.
+5Elimination of dividend activity between Financial Products and ME&T.

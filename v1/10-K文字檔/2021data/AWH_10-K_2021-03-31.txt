@@ -1,0 +1,247 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+﻿
+You should read the following discussion and analysis in conjunction with our Consolidated Financial Statements and related Notes thereto, included on pages through of this Annual Report on Form 10-K, and “Risk Factors”, which are discussed in Item 1A. The statements below contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act. See "Forward-Looking Statements" on page 1 of this Annual Report on Form 10-K.
+﻿
+Overview
+﻿
+Our core mission is to transform the state of women’s health, globally, starting with ovarian cancer. We aim to ensure that women of all ages, stages and ethnicities have the best solutions available to assess their personalized risk of cancer at the earliest stage when it matters most. Our end goal is to serve a large global pelvic mass population and overall women’s health sector with a platform coupled with proprietary science and data tools which will drive better health and wellbeing for each patient we serve.
+We aim to serve as a diagnostic service and bio-analytic solutions provider, and we plan to broaden our commercial focus from ovarian cancer to differential diagnosis of women with a range of gynecological disorders.
+In 2021, in addition to our core physician-based sales team, we constructed and launched four net new verticals: Health Systems, Integration, Specialty and Customer Experience. The Health Systems team, accompanied by the Integration team, will pursue integration into the five segments of the healthcare system: Clinical, Operational, Financial, Informatics and Administrative; whereas the Specialty team will be driving large scale adoption of our decentralized technology transfer platform, Aspira Synergy. We expect Aspira Synergy will expand our breadth and reach of access for all Aspira products, as every commercialized product as well as pipeline innovations, will be blended into our Aspira Synergy platform.
+﻿
+We are focused on commercializing our products both inside and outside the U.S. In 2018 and early 2019, we established medical and advisory support and a Key Opinion Leader Network aligned with our territories in the U.S. In addition, we added to our direct sales force and we put OVA1 on a global testing platform, which allows tests to be deployed internationally as well as run locally in the United States at major customer sites. In 2021, we plan to more fully commercialize OVA1plus by utilizing select partnerships for distribution, managed care coverage in select markets, plus our sales force (in our Core, Health Systems, and Specialty verticals) and increased adoption in our existing customer base. We also plan to develop an LDT product series of diagnostic algorithms that will include not only biomarkers, but also genetics, clinical risk factors, other diagnostics and patient history data in order to boost predictive value. The first diagnostic algorithm LDT, branded as OVASight, and formerly referred to as OVANex, focuses on monitoring women with pelvic masses. We expect OVASight to be available for commercial use in late 2021. The second diagnostic algorithm, EndoCheck, which will be an aid in the diagnosis of endometriosis. We also plan to expand our portfolio of products to include OVAInherit, which is the basis for those patients who are genetically predisposed to ovarian cancer. This algorithm will include genetics, proteins and other modalities to assess such risk. All of our products are focused on gynecologic diseases that cannot be assessed through a traditional biopsy.
+﻿
+﻿
+Critical Accounting Policies and Estimates
+﻿
+Our significant accounting policies are described in Note 1, Basis for Presentation and Summary of Significant Accounting and Reporting Policies, of the Notes to the Consolidated Financial Statements included in this Annual Report on Form 10-K. The Consolidated Financial Statements are prepared in conformity with generally accepted accounting principles in the United States of America (“GAAP”). Preparation of the financial statements requires us to make critical judgments, estimates, and assumptions that affect the amounts of assets and liabilities in the financial statements and revenues and expenses during the reporting periods (and related disclosures). We believe the policies discussed below are the Company’s critical accounting policies, as they include the more significant, subjective, and complex judgments and estimates made when preparing our consolidated financial statements.
+﻿
+Revenue Recognition
+﻿
+We recognize product revenue in accordance with the provisions of ASC Topic 606, Revenue from Contracts with Customers (“ASC 606”); all revenue is recognized upon completion of the OVA1, OVERA, OVA1plus or Aspira GenetiX test based on estimates of amounts that will ultimately be realized. In determining the amount to accrue for a delivered test result, we consider factors such as historical payment history and amount, payer coverage, whether there is a reimbursement contract between the payer and us, and any current developments or changes that could impact reimbursement. These estimates require significant judgment by management. We also review our patient account population and determine an appropriate distribution of patient accounts by payer (i.e., Medicare, patient pay, other third-party payer, etc.) into portfolios with similar collection experience.
+			
+		
+When evaluated for collectability, this results in a materially consistent revenue amount for such portfolios as if each patient account were evaluated on an individual contract basis.
+﻿
+Stock-Based Compensation
+﻿
+We record the fair value of non-cash stock-based compensation costs for stock options and stock purchase rights related to the 2010 and 2019 Plans. We estimate the fair value of stock options using a Black-Scholes option valuation model. This model requires the input of subjective assumptions including expected stock price volatility, expected life and estimated forfeitures of each award. We use the straight-line method to amortize the fair value over the vesting period of the award. These assumptions consist of estimates of future market conditions, which are inherently uncertain, and therefore are subject to management's judgment.
+﻿
+The expected life of options is based on historical data of our actual experience with the options we have granted and represents the period of time that the options granted are expected to be outstanding. This data includes employees’ expected exercise and post-vesting employment termination behaviors. The expected stock price volatility is estimated using our historical volatility in deriving the expected volatility assumption. We made an assessment that our historic volatility is most representative of future stock price trends. The expected dividend yield is based on the estimated annual dividends that we expect to pay over the expected life of the options as a percentage of the market value of our common stock as of the grant date. The risk-free interest rate for the expected life of the options granted is based on the United States Treasury yield curve in effect as of the grant date.
+﻿
+Liquidity
+﻿
+As discussed in Note 6, in March 2016, the Company entered into a loan agreement (as amended on March 7, 2018 and April 3, 2020, the “Loan Agreement”) with the State of Connecticut Department of Economic and Community Development (the “DECD”), pursuant to which it may borrow up to $4,000,000 from the DECD.
+﻿
+The loan may be prepaid at any time without premium or penalty. An initial disbursement of $2,000,000 was made to the Company on April 15, 2016 under the Loan Agreement. On December 3, 2020, the Company received a disbursement of the remaining $2,000,000 under the Loan Agreement, as the Company achieved the target employment milestone necessary to receive an additional $1,000,000 under the Loan Agreement and the DECD determined to fund the remaining $1,000,000 under the Loan Agreement after concluding that the required revenue target would likely have been achieved in the first quarter of 2020 in the absence of the impacts of COVID-19.
+﻿
+As discussed in Note 7, on June 28, 2019, the Company completed a public offering (the “2019 Offering”), pursuant to which certain investors purchased Aspira common stock for net proceeds of approximately $13,521,000 after deducting underwriting discounts, commissions and other expenses related to the 2019 Offering. On July 2, 2019, William Blair & Company, L.L.C., the sole underwriter of the 2019 Offering, exercised its option to purchase additional shares of Aspira common stock for net proceeds of $2,092,000, after deducting underwriting discounts, commissions and other expenses related to the 2019 Offering.
+﻿
+On April 10, 2020, the Company received a stimulus check of approximately $89,000 from the U.S. Department of Health and Human Services pursuant to the Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”).
+﻿
+As discussed in Note 6, on May 1, 2020, the Company obtained a loan (the “PPP Loan”) from BBVA USA in the aggregate amount of $1,005,767, pursuant to the Paycheck Protection Program (the “PPP”), which was established under the CARES Act, as administered by the U.S. Small Business Administration (the “SBA”).
+﻿
+As discussed in Note 7, during June 2020, all of the warrants from the 2017 private placement were exercised. The Company received $5,058,608 in aggregate proceeds from the exercise of the warrants.
+﻿
+As discussed in Note 7, on July 20, 2020, the Company completed a private placement of Aspira common stock for net proceeds of $10.6 million, after deducting expenses related to the private placement.
+﻿
+As discussed in Note 12, on February 8, 2021, the Company completed a public offering (the “2021 Offering”), resulting in net proceeds of approximately $48.4 million, after giving effect to underwriting discounts but before expenses.
+﻿
+As discussed in Note 6, in March 2021, the Company applied for forgiveness of the PPP Loan, but there is no assurance that all or a portion of the PPP Loan will be forgiven.
+﻿
+			
+		
+The Company has incurred significant net losses and negative cash flows from operations since inception, and as a result has an accumulated deficit of approximately $440,066,000. The Company also expects to incur a net loss and negative cash flows from operations for 2021.
+﻿
+In connection with a private placement offering of common stock and warrants we completed in May 2013, we entered into a stockholders agreement which, among other things, gives two of the primary investors in that offering the right to participate in any future equity offerings by the Company on the same price and terms as other investors. In addition, the stockholders agreement prohibits us from taking certain material actions without the consent of at least one of the two primary investors in that offering. These material actions include:
+﻿
+·
+Making any acquisition with a value greater than $2 million;
+·
+Offering, selling or issuing any securities senior to Aspira’s common stock or any securities that are convertible into or exchangeable or exercisable for securities ranking senior to Aspira’s common stock;
+·
+Taking any action that would result in a change in control of the Company or an insolvency event; and
+·
+Paying or declaring dividends on any securities of the Company or distributing any assets of the Company other than in the ordinary course of business or repurchasing any outstanding securities of the Company.
+﻿
+The foregoing rights terminate for a primary investor when that investor ceases to beneficially own less than 50% of the shares and warrants (taking into account shares issued upon exercise of the warrants), in the aggregate, that were purchased at the closing of the 2013 private placement.
+﻿
+Recent Accounting Pronouncements
+﻿
+The information set forth in Note 2 in our consolidated financial statements contained in Part II, Item 8, “Financial Statements and Supplementary Data,” of this Annual Report on Form 10-K is hereby incorporated by reference.
+﻿
+Recent Developments
+﻿
+Leadership Updates
+﻿
+Effective November 9, 2020, the Company appointed Dr. Sandra Brooks to its board of directors, who was subsequently appointed to serve on its Compensation Committee of the board of directors.
+﻿
+On November 10, 2020, we announced the appointment of the following five new members to our executive leadership team: Dr. Elena Ratner, Global Chief Medical Advisor, Clinical and Translational Medicine; Kaile Zagger, Chief Operating Officer; Dr. Lesley Northrop, Chief Scientific Officer; Dr. Gary Altwerger, Global Deputy Chief Medical Advisor, Clinical and Translational Medicine; and Dr. Diane Powis, a Chief Spokeswoman.
+﻿
+On December 10, 2020, James S. Burns, a director of the Company’s board of directors, retired from the Company’s board of directors.
+﻿
+Effective February 17, 2021, the Company appointed Nicole Sandford to its board and its Audit Committee.
+﻿
+Effective March 19, 2021 the Company appointed Nicole Sandford to its Nominating and Governance Committee.
+﻿
+In the first quarter of 2021, we formed our own internal patient advisory board, led by our Chief Spokeswoman, Dr. Diane Powis. This board includes ovarian cancer patients and survivors whose mission is to lead how we serve and educate patients early in the process.
+﻿
+Business, Product and Coverage Updates
+﻿
+On March 11, 2020, we entered into an Amendment No. 4 to Testing and Services Agreement (the “Amendment”) with Quest Diagnostics, Incorporated (“Quest Diagnostics”). The Amendment amends that certain Testing and Services Agreement, dated as of March 11, 2015 (as previously amended as of April 10, 2015, March 11, 2017 and March 1, 2018 (the “TSA”). The purpose of the Amendment was to extend the term of the TSA from March 11, 2019 to March 11, 2023 and for the Company to pay an annual fee of $75,000 for the services of a part-time Quest Diagnostics project manager.
+﻿
+On April 1, 2020, we commenced submission of claims under our preferred in-network contract with Cigna and are now receiving reimbursement of our OVA1, OVERA and Aspira GenetiX tests at the contracted rate.
+﻿
+			
+		
+On April 14, 2020, we announced that we are credentialed with Florida’s State Medicaid program for an estimated additional 3.6 million credentialed Medicaid lives.
+﻿
+On September 18, 2020, AbbVie Inc. provided the Company with certain serum samples collected and tested as part of AbbVie Inc.’s clinical trials. The Company plans to use the samples in its upcoming EndoCheck product validation trial. EndoCheck will be designed as a simple blood test to aid in the detection of endometriosis and, as such, will be less invasive than current detection methods, which require a surgical biopsy. On September 18, 2020, AbbVie Inc. also provided the Company with additional data metrics, including patient demographics, endometriosis surgical pathology diagnoses, and other clinical metrics.
+﻿
+On October 14, 2020, we announced that we are a participating provider with Anthem BlueCross BlueShield of Georgia, which has an estimated additional 3.3 million members across the state. As of December 31, 2020, we have approximately 173 million covered lives in the U.S.
+﻿
+On November 19, 2020, we announced that we entered into a collaborative research agreement with Baylor Genetics to co-develop a novel ovarian cancer early detection test.
+﻿
+In the first quarter of 2021, we submitted an application to the FDA under its Breakthrough Devices Program for our diagnostic algorithm, EndoCheck, and expect to have a dialogue with the FDA in the second quarter of 2021.
+﻿
+In the first quarter of 2021, we announced that we entered into an agreement with Dana Farber Cancer Institute, Brigham and Women’s Hospital and Medical University Lodz to evaluate their jointly-developed novel microRNA technology in combination with current Aspira technologies, for the development of a highly sensitive and specific early detection test for women with a high-risk of ovarian cancer.
+﻿
+In the first quarter of 2021, we are continuing to increase our investment in research and development, and one of our key investments is our efforts on closing the disparity gap in women’s healthcare specific to the diagnostic accuracy of ovarian cancer detection. We have five active sites enrolled in our disparity clinical study; the most recent addition was Wayne State University in Detroit Michigan as our first National Cancer Institute site.
+﻿
+In the first quarter of 2021, we submitted an abstract to the American Society for Clinical Oncology for their early June 2021 conference, and will be publishing both the analytical and clinical validation findings in the third quarter of 2021.
+﻿
+In the first quarter of 2021, we announced coverage by New York State Medicaid - one of the larger Medicaid populations in the U.S., covering 33% of the population in the state. This will bring our total covered lives to approximately 179M or 54% of the U.S. population as of April 1, 2021.
+﻿
+In the first quarter of 2021, we presented at a Congressional Briefing “Advancing Health Outcomes for Women and Minorities.” We delivered a call to action for OVA1 as the standard of care for ovarian cancer risk assessment for Caucasian and non-Caucasian women and the need for funding large race and ethnicity-based trials.
+﻿
+Branding and Listing Updates
+﻿
+On June 9, 2020, we announced that our common stock joined the broad-market Russell 3000® Index by FTSE Russell, effective after the U.S. stock market opening on June 29, 2020.
+﻿
+On June 11, 2020, we announced that we changed our name from Vermillion, Inc. to Aspira Women’s Health Inc., and our common stock would be listed on the Nasdaq Capital Market under the symbol “AWH.”
+﻿
+In the fourth quarter of 2020, we launched a digital and media campaign to strengthen our brand identity, as well as increase awareness of the advantages of our OVA1 test, including early detection and racial disparities in detection when compared with CA125.
+﻿
+COVID-19 Pandemic
+﻿
+In December 2019, a novel strain of coronavirus was reported to have surfaced in Wuhan, China. The novel coronavirus has since spread to over 100 countries, including every state in the United States. On March 11, 2020, the World Health Organization declared COVID-19, the disease caused by the novel coronavirus, a pandemic, and on March 13, 2020, the United States declared a national emergency with respect to the coronavirus outbreak. This outbreak has severely impacted global economic activity, and many countries and many states in the United States have reacted to the outbreak by instituting quarantines,
+			
+		
+mandating business and school closures and restricting travel. Patient enrollment for our planned research studies has been lower due to the impact of closures and restricted travel, which has led to delays in the completion of such studies. Our commercial efforts to enter into decentralized arrangements with large healthcare networks and supergroups have continued to move forward. However, finalization of such deals have been slowed by the pandemic. In addition, many conventions and industry conferences have been canceled.
+﻿
+As a result of the COVID-19 pandemic and actions taken to contain it, the majority of our non-laboratory employees have been working remotely since March 2020, and we expect that they will continue to do so until the number of daily COVID-19 cases in the areas surrounding our offices consistently level off or declines. In terms of business continuity, our lab operations require on site essential employees. As previously disclosed, we have put in place staffing and reagent contingency plans to ensure there is no down time at our lab. We believe the lab could continue to operate in the event any isolated infection were to impact a portion of the workforce. In addition, as of the date of the filing of this Form 10-K, we have approximately four months of reagents, one of our key testing supplies, in stock, depending on volume of tests performed, and we are working with the manufacturer to ensure a consistent supply over the next six months.
+﻿
+We are committed to following recommended physical and social distancing guidelines in order to reduce the risk of infection for our employees. We have also decreased our travel and convention-related expenses. We have taken several measures to reduce the impact of the COVID-19 related closures and quarantines. For example, because our salespeople have experienced limitations on their ability to physically visit physician offices, we have implemented other means of coverage such as virtual sales representative meetings and increased digital sales and marketing. In March 2020, our sales team began making in-person calls to customers as determined on a state-by-state basis, in accordance with local guidelines. We have developed protocols and training for our team where physical visits are allowed to help ensure employee, customer and patient safety.
+﻿
+In the fourth quarter 2020, we experienced a recovery in our test volume, such that when comparing the average number of tests per business ordering day in February 2020, the last full calendar month before COVID-19 significantly impacted the United States, to the average number of tests per business ordering day in December 2020, our test volume was back to approximately 93% of pre-COVID-19 levels. Given the potential for future resurgences of COVID-19 cases and the variety of federal and state actions taken to contain them, we are unable to estimate the potential future impact of the COVID-19 pandemic on our business, results of operations or cash flows as of the date of this filing.
+﻿
+On March 27, 2020, the U.S federal government enacted the CARES Act. The CARES Act is an emergency economic stimulus package in response to the coronavirus outbreak which, among other things, provided loans, guarantees and subsidies to qualifying businesses and contained numerous income tax provisions. Some of these tax provisions are expected to be effective retroactively for years ending before the date of enactment. We do not expect these tax provisions to have a material impact on our financial statements.
+﻿
+On April 10, 2020, we received a stimulus check of approximately $89,000 from the U.S. Department of Health and Human Services pursuant to the CARES Act.
+﻿
+On May 1, 2020, we were granted the PPP Loan from BBVA USA in the aggregate amount of $1,005,767, pursuant to the PPP, which was established under the CARES Act as administered by the SBA. We believe we are using the proceeds of the PPP Loan in a manner that qualifies for complete forgiveness of the PPP Loan but caution that there can be no assurance that all or any portion of the PPP Loan will be forgiven. In March 2021, we applied for forgiveness of the PPP Loan. See “Liquidity and Capital Resources” for more information.
+﻿
+We had previously planned to offer COVID-19 antibody and antigen testing in connection with our pre-surgical test offering, as physicians had requested these tests to solve for shortages of testing on the local level. In the fourth quarter of 2020, we decided not to proceed with adding COVID-19 antibody and antigen testing given such tests are now readily available to our physician partners at their respective hospitals or otherwise.
+			
+		
+Results of Operations - Year Ended December 31, 2020 as compared to Year Ended December 31, 2019
+﻿
+The Company’s selected summary financial and operating data for the years ended December 31, 2020 and 2019 were as follows:
+﻿
+﻿
+Product Revenue. Product revenue was $4,530,000 for the year ended December 31, 2020, compared to $4,404,000 for the same period in 2019. Revenue for ASPiRA LABS is recognized when the OVA1, OVERA, or OVA1plus test is completed based on estimates of what we expect to ultimately realize. The 3% product revenue increase is primarily due to an increase in OVA1 test volume compared to the prior year, partially offset by a lower average revenue per test. We expect revenue to improve in 2021 due to test volumes returning to pre COVID-19 levels, provided that the COVID-19 pandemic does not further escalate and result in new quarantines and state closures. The duration of the pandemic and efforts to contain it remains uncertain.
+﻿
+The number of OVA1plus tests performed increased 5% to approximately 13,557 OVA1plus tests during the year ended December 31, 2020 compared to approximately 12,898 OVA1plus tests for the same period in 2019. The volume increase was primarily due to our commercialization investment, partially offset by decreases in test volume during certain periods of 2020 as a result of the COVID-19 pandemic and efforts to contain it.
+﻿
+The revenue per OVA1plus test performed decreased to approximately $334 compared to $341 for the same period in 2019. This decrease was primarily driven by a decrease in payments by patient payers. Through insourcing our billing function, which we completed in February 2020, we expect to increase the collections from patient payers. We expect that the broader economic impacts of the COVID-19 pandemic will continue to have an effect on our collections from patient payers.
+﻿
+Genetics Revenue. Genetics revenue was $108,000 for the year ended December 31, 2020, compared to $22,000 for the same period in 2019. We launched the Aspira GenetiX product in the fourth quarter of 2019. Revenue for Aspira GenetiX is recognized when the Aspira GenetiX test is completed based on estimates of what we expect to ultimately realize. The 391% genetics revenue increase is primarily due to an increase in Aspira GenetiX test volume as we launched this product in the fourth quarter of 2019, as well as a higher revenue per test. We expect revenue to improve in 2021 due to continued commercialization investment for the Aspira GenetiX product, provided that the COVID-19 pandemic does not further escalate and result in new quarantines and state closures. The duration of the pandemic and efforts to contain it remains uncertain.
+﻿
+The number of genetics tests performed increased 220% to approximately 307 Aspira GenetiX tests during the year ended December 31, 2020 compared to approximately 96 Aspira GenetiX tests for the same period in 2019. The volume increase was primarily due to our commercialization investment, partially offset by decreases in test volume during certain periods of 2020 as a result of the COVID-19 pandemic and efforts to contain it.
+﻿
+			
+		
+Service Revenue. Service revenue was $13,000 for the year ended December 31, 2020 compared to $112,000 for the same period in 2019. Revenue for ASPiRA IVD is recognized once certain revenue recognition criteria has been met. Substantially all projects with ASPiRA IVD were finalized during the fourth quarter of 2019 and the subsidiary’s operations were largely completed. Some final project closure costs were recognized in 2020, as well as charges to customers for billable project closure support. In 2020, the Company had service revenue from the fulfillment of one legacy IVD contract. The Company expects to continue to have future revenue from the single legacy IVD contracts in 2021. However, we do not expect any to be significant (see Note 1 to the financial statements included in Part II, Item 8 of this Form 10-K).
+﻿
+Cost of Revenue - Product. Cost of product revenue was $2,500,000 for the year ended December 31, 2020 compared to $2,378,000 for the same period in 2019, representing an increase of $122,000, or 5%, due primarily to increased lab supply and shipping costs due to the increase in tests performed compared to the prior year.
+﻿
+Cost of Revenue - Genetics. Cost of genetics revenue, which consisted primarily of personnel costs and consulting expense after the launch of Aspira GenetiX, was $898,000 for the year ended December 31, 2020 compared to $295,000 for the same period in 2019. Aspira GenetiX was launched in late 2019, with the majority of the $295,000 comprising 2019 costs related to personnel and consulting expense.
+﻿
+Cost of Revenue - Service. Cost of service revenue was $17,000 for the year ended December 31, 2020 compared to $670,000 for the same period in 2019. The 97% decrease was due to the substantial wind down of our ASPiRA IVD subsidiary in 2019, partially offset by costs related to project closure support and legacy IVD contracts.
+﻿
+Research and Development Expenses. Research and development expenses represent costs incurred to develop our technology and carry out clinical studies, and include personnel-related expenses, regulatory costs, reagents and supplies used in research and development laboratory work, infrastructure expenses, contract services and other outside costs. Research and development expenses for the year ended December 31, 2020 increased by $1,086,000, or 107%, compared to the same period in 2019. This increase was primarily due to clinical utility and product development costs related to OVASight, our third-generation serial monitoring product, in 2020 as well as investments in bioinformatics and Aspira Synergy. We expect research and development expenses to increase in 2021, as a result of increased projects and clinical studies.
+﻿
+Sales and Marketing Expenses. Our sales and marketing expenses consist primarily of personnel-related expenses, education and promotional expenses, and infrastructure expenses. These expenses include the costs of educating physicians and other healthcare professionals regarding OVA1, OVERA, OVA1plus and Aspira GenetiX. Sales and marketing expenses also include the costs of sponsoring continuing medical education, medical meeting participation, and dissemination of scientific and health economic publications. Sales and marketing expenses for the year ended December 31, 2020 decreased by $802,000, or 8%, compared to the same period in 2019. This decrease was primarily due to lower commission payments and personnel related costs, as well as reductions in consulting and travel due to the COVID-19 pandemic. We expect sales and marketing expenses to increase in 2021, due to investing in key strategic hires and product portfolio expansion, as well as the continued re-openings relating to the COVID-19 pandemic, provided that the COVID-19 pandemic does not further escalate and result in new quarantines and state closures.
+﻿
+General and Administrative Expenses. General and administrative expenses consist primarily of personnel-related expenses, professional fees and other costs, including legal, finance and accounting expenses and other infrastructure expenses. General and administrative expenses for the year ended December 31, 2020 increased by $2,460,000, or 42%, compared to the same period in 2019. This increase was primarily due to an increase in legal expenses of $1,000,000, headcount and personnel expenses of $653,000, board of director fees of $359,000, consultant stock compensation of $244,000, and insurance costs of $118,000. We expect general and administrative expenses to increase slightly in 2021.
+﻿
+Other Income (Expense). Net other income (expense) for the year ended December 31, 2020 increased by $84,000, compared to the same period in 2019. Other income consists primarily of the stimulus check received from the U.S. Department of Health and Human Services of approximately $89,000.
+﻿
+Liquidity and Capital Resources
+﻿
+We plan to continue to expend resources selling and marketing OVA1, OVERA, OVA1plus and Aspira GenetiX and developing additional diagnostic tests and service capabilities.
+﻿
+On February 8, 2021, the Company completed the 2021 Offering resulting in net proceeds of approximately $48.4 million, after giving effect to underwriting discounts but before expenses.
+﻿
+			
+		
+On July 20, 2020, the Company completed a private placement pursuant to which certain investors purchased 3,150,000 shares of Aspira common stock at a per share price of $3.50. Net proceeds of the private placement were approximately $10.6 million, after deducting expenses related to the private placement.
+﻿
+In early June 2020, we issued 2,810,338 shares of our common stock upon the exercise of all of our outstanding warrants and received approximately $5.1 million in aggregate proceeds therefrom.
+﻿
+On May 1, 2020, the Company obtained the PPP Loan from BBVA USA in the aggregate amount of $1,005,767. The application for these funds required the Company to, in good faith, certify that the described economic uncertainty at the time made the loan request necessary to support the ongoing operations of the Company. This certification further required the Company to consider its current business activity and its ability to access other sources of liquidity sufficient to support ongoing operations in a manner that was not significantly detrimental to the business. Under the terms of the CARES Act and the PPP, all or a portion of the principal amount of the PPP Loan is subject to forgiveness so long as, over the 24-week period following the Company’s receipt of the proceeds of the PPP Loan, the Company uses those proceeds for payroll costs, rent, utility costs or the maintenance of employee and compensation levels. The PPP Loan, which was granted pursuant to a promissory note, matures on May 1, 2022. Any unforgiven portion of the PPP Loan bears interest at a rate of 1.000% per annum, payable monthly in equal installments commencing in May 2021. The Company applied for forgiveness of the PPP Loan in March 2021, but there is no assurance that all or a portion of the PPP Loan will be forgiven. The PPP Loan is subject to any new guidance and new requirements released by the Department of the Treasury.
+﻿
+On June 28, 2019, the Company completed the 2019 Offering pursuant to which certain investors purchased Aspira common stock for net proceeds of approximately $13,521,000 after deducting underwriting discounts, commissions and other expenses related to the 2019 Offering. On July 2, 2019, William Blair & Company, L.L.C., the sole underwriter of the 2019 Offering, exercised its option to purchase additional shares of Aspira common stock for net proceeds of $2,092,000, after deducting underwriting discounts, commissions and other expenses related to the 2019 Offering.
+﻿
+On March 22, 2016, we entered the Loan Agreement with the DECD, pursuant to which we may borrow up to $4,000,000 from the DECD. The loan bears interest at a fixed rate of 2.0% per annum and requires equal monthly payments of principal and interest until maturity, which occurs on April 15, 2026. As security for the loan, we have granted the DECD a blanket security interest in our personal and intellectual property. The DECD’s security interest in our intellectual property may be subordinated to a qualified institutional lender.
+﻿
+The loan may be prepaid at any time without premium or penalty. An initial disbursement of $2,000,000 was made to us on April 15, 2016 under the Loan Agreement. On December 3, 2020, the Company received a disbursement of the remaining $2,000,000 under the Loan Agreement, as we achieved the target employment milestone necessary to receive an additional $1,000,000 under the Loan Agreement and the DECD determined to fund the remaining $1,000,000 under the Loan Agreement after concluding that the required revenue target would likely have been achieved in the first quarter of 2020 in the absence of the impacts of COVID-19.
+﻿
+Under the terms of the Loan Agreement, we may be eligible for forgiveness of up to $1,500,000 of the principal amount of the loan if we achieve certain job creation and retention milestones by December 31, 2022. Conversely, if we are either unable to retain 25 full-time employees with a specified average annual salary for a consecutive two-year period or does not maintain our Connecticut operations through March 22, 2026, the DECD may require early repayment of a portion or all of the loan plus a penalty of 5% of the total funded loan. For additional information, see Note 6 of our consolidated financial statements.
+﻿
+The Company has incurred significant net losses and negative cash flows from operations since inception. At December 31, 2020 we had an accumulated deficit of $440,066,000 and stockholders’ equity of $9,719,000. As of December 31, 2020, we had $16,631,000 of cash and cash equivalents and $6,400,000 of current liabilities. Working capital was $12,203,000 and $9,432,000 at December 31, 2020 and December 31, 2019, respectively. There can be no assurance that we will achieve or sustain profitability or positive cash flow from operations. In addition, while we expect to grow revenue through ASPiRA LABS, there is no assurance of our ability to generate substantial revenues and cash flows from ASPiRA LABS’ operations. We expect cash from our products and services to be our only material, recurring source of cash in 2021.
+﻿
+We expect to incur a net loss and negative cash flows from operations in 2021. The impact of the COVID-19 pandemic and actions taken to contain it on our liquidity for 2021 cannot be estimated as of the date of this filing.
+﻿
+However, we believe that our cash and cash equivalents and our anticipated cash flows from operations will be sufficient to fund our operations for the next twelve months.
+﻿
+			
+		
+Our future liquidity and capital requirements will depend upon many factors, including, among others:
+﻿
+·
+resources devoted to sales, marketing and distribution capabilities;
+·
+the rate of OVA1, OVERA, OVA1plus and Aspira GenetiX product adoption by physicians and patients;
+·
+the rate of product adoption by healthcare systems and large physician practices of the decentralized distribution agreements for OVA1, OVERA and OVA1plus;
+·
+the insurance payer community’s acceptance of and reimbursement for our products;
+·
+our plans to acquire or invest in other products, technologies and businesses;
+·
+the market price of our common stock;
+·
+the potential need to add study sites to access additional patients to maintain clinical timelines; and
+·
+the impact of the COVID-19 pandemic and the actions taken to contain it, as discussed above.
+﻿
+Net cash used in operating activities was $14,734,000 for the year ended December 31, 2020, resulting primarily from the net loss reported of $17,905,000, which includes non-cash expenses in the amount of $1,548,000 related to stock compensation expense and $265,000 related to depreciation and amortization, offset by changes in accounts payable, accrued and other liabilities of $1,594,000.
+﻿
+Net cash used in operating activities was $12,965,000 for the year ended December 31, 2019, resulting primarily from the net loss reported of $15,237,000, which includes non-cash expenses in the amount of $1,193,000 related to stock compensation expense and $333,000 related to depreciation and amortization, offset by changes in accounts payable, accrued and other liabilities of $971,000, and changes in inventory expenses of $67,000.
+﻿
+Net cash used in investing activities was $490,000 and $133,000 for the year ended December 31, 2020 and 2019, respectively, which consisted primarily of property and equipment purchases.
+﻿
+Net cash provided by financing activities was $20.2 million for the year ended December 31, 2020, which resulted primarily from the proceeds from the PPP Loan of $1.0 million in May 2020, the proceeds from the exercise of the stock options of $1.6 million in June 2020, the proceeds from the exercise of warrants of approximately $5.1 million in June 2020, the proceeds from the private placement of approximately $10.6 million in July 2020, after deducting expenses related to the private placement, and the proceeds from the DECD loan of $2.0 million in December 2020. Net cash provided by financing activities was $15.4 million for the year ended December 31, 2019 which resulted primarily from the proceeds from the June 2019 public offering of $13.5 million after deducting underwriting discounts, commissions and other expenses. In July 2019, the underwriter exercised its option to purchase additional shares of Aspira common stock for net proceeds of $2.1 million, after deducting underwriting discounts, commissions and other expenses.
+﻿
+We have significant net operating loss (“NOL”) carryforwards as of December 31, 2020 for which a full valuation allowance has been provided due to our history of operating losses. Section 382 of the Internal Revenue Code of 1986, as amended (“Section 382”), as well as similar state provisions may restrict our ability to use our NOL credit carryforwards due to ownership change limitations occurring in the past or that could occur in the future. These ownership changes may also limit the amount of NOL credit carryforwards that can be utilized annually to offset future taxable income and tax, respectively.
+﻿
+Legislation commonly referred to as the Tax Cuts and Jobs Act was enacted in December 2017. As a result of the Tax Cuts and Jobs Act of 2017, federal NOLs arising before January 1, 2018, and federal NOLs arising after January 1, 2018, are subject to different rules. The Company's pre- 2018 federal NOLs will expire in varying amounts from 2021 through 2037, if not utilized; and can offset 100% of future taxable income for regular tax purposes. Any federal NOLs arising after January 1, 2018, can generally be carried forward indefinitely and can offset up to 80% of future taxable income. State NOLs will expire in varying amounts from 2021 through 2037 if not utilized. The Company's ability to use its NOLs during this period will be dependent on the Company's ability to generate taxable income, and the NOLs could expire before the Company generates sufficient taxable income. The Company’s ability to use NOL carryforwards may be restricted due to ownership change limitations occurring in the past or that could occur in the future, as required by Section 382, as well as similar state specific provisions. These ownership changes may also limit the amount of NOL carryforwards that can be utilized annually to offset future taxable income and tax, respectively.
+﻿
+The Company’s management believes that Section 382 ownership changes occurred as a result of the Company’s follow-on public offerings in 2011, 2013 and 2015. Any limitation may result in the expiration of a portion of the NOL carryforwards before utilization and any NOL carryforwards that expire prior to utilization as a result of such limitations will be removed from deferred tax assets with a corresponding reduction of the Company’s valuation allowance. Due to the existence of a valuation allowance, it is not expected that such limitations, if any, will have an impact on the Company’s results of operations or financial position.
+			
+		
+﻿
+Off-Balance Sheet Arrangements
+﻿
+As of December 31, 2020, we had no off-balance sheet arrangements.
+﻿

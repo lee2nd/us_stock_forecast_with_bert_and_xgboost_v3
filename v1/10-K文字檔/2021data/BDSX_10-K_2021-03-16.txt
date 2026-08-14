@@ -1,0 +1,356 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion of our financial condition and results of operations should be read together with our audited financial statements and related notes and other financial information included elsewhere in this Annual Report on Form 10-K and our audited financial statements and notes thereto and the related Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our final prospectus dated October 29, 2020 that forms a part of our Registration Statement on Form S-1 (File No. 333-249260), as filed with the Securities and Exchange Commission (SEC) pursuant to Rule 424(b) under the Securities Act of 1933, as amended (the “Securities Act”), on October 29, 2020 (Prospectus).
+In addition to historical financial information, this discussion and other parts of this report contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, based upon current expectations that involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth in the section titled “Risk Factors” under Part II, Item 1A below. Forward-looking statements are not guarantees of future performance and are subject to risks and uncertainties that could cause actual results and events to differ from those anticipated.
+These statements are based upon information available to us as of the date of this Annual Report on Form 10-K, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements, like all statements in this report, speak only as of their date, and we undertake no obligation to update or revise these statements in light of future developments. These statements are inherently uncertain, and investors are cautioned not to unduly rely upon these statements.
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A), is provided to supplement the financial statements and the related notes in Part II - Item 8 of this Annual Report on Form10-K. We intend for this discussion to provide you with information that will assist you in understanding our financial statements, the changes in key items in those financial statements from year to year and the primary factors that accounted for those changes. Data for the years ended December 31, 2020 and 2019 has been derived from our audited financial statements included in this Annual Report on Form 10-K.
+Overview
+We are a leading data-driven diagnostic solutions company leveraging state of the art technologies with our proprietary AI platform to discover, develop, and commercialize solutions for clinical unmet needs, with a primary focus in lung disease. By combining a technology agnostic approach with a holistic view of the patient’s disease state, we believe our solutions provide physicians with greater insights to help personalize their patient’s care and meaningfully improve disease detection, evaluation, and treatment. Our unique approach to precision medicine provides timely and actionable clinical information, which we believe helps improve overall patient outcomes and lowers the overall healthcare cost by reducing the use of ineffective and unnecessary treatments and procedures. In addition to our diagnostic tests, we provide biopharmaceutical companies with services that include diagnostic research, clinical trial testing, and the discovery, development, and commercialization of companion diagnostics.
+Our core belief is that no single technology will answer all clinical questions that we encounter. Therefore, we employ multiple technologies, including genomics, transcriptomics, proteomics, and radiomics, and leverage our proprietary AI platform, the Diagnostic Cortex, to discover innovative diagnostic tests for clinical use. The Diagnostic Cortex is an extensively validated deep learning platform optimized for the discovery of diagnostic tests, which we believe overcomes standard machine learning challenges faced in life sciences research. Our data-driven and technology agnostic approach is designed to enable us to discover diagnostic tests that answer critical clinical questions faced by physicians, researchers, and biopharmaceutical companies.
+We continuously incorporate new market insights and patient data to enhance our platform through a data-driven learning loop. We regularly engage with our customers, key opinion leaders, and scientific experts to stay ahead of the rapidly evolving diagnostic and therapeutic landscape to identify additional clinical unmet needs where a diagnostic test could help improve patient care. Additionally, we incorporate clinical and molecular profiling data from our commercial clinical testing, research studies, clinical trials, and biopharmaceutical customers or academic partnerships, to continue to advance our platform. We have over 140,000 samples and data in our biobank, including tumor profiles and immune profiles, which are used for both internal and external research and development initiatives.
+We have commercialized six diagnostic tests which are currently available for use by physicians. Our Nodify XL2 and Nodify CDT tests, marketed as part of our Nodify Lung Nodule Risk Assessment testing strategy, assess the risk of lung cancer to help identify the most appropriate treatment pathway. We believe we are the only company to offer two commercial blood-based tests to help physicians reclassify risk of malignancy in patients with suspicious lung nodules. Our GeneStrat and VeriStrat tests, marketed as part of our Biodesix Lung Reflex testing strategy, are used following diagnosis of lung cancer to measure the presence of mutations in the tumor and the state of the patient’s immune system to establish the patient’s prognosis and help guide treatment decisions. The GeneStrat tumor profiling test and the VeriStrat immune profiling test have a three-day average turnaround time, providing physicians with timely results to facilitate treatment decisions. In response to the COVID-19 pandemic, through our partnership with Bio-Rad, we commercialized the Biodesix WorkSafe testing program. Our scientific diagnostic expertise, technologies, and existing commercial infrastructure enabled us to rapidly commercialize two FDA EUA authorized tests, a part of our customizable program. Both diagnostic tests are owned and were developed by Bio-Rad and Bio-Rad has granted us permission to utilize both tests for commercial diagnostic services. HHS Secretary Azar declared a public health emergency for COVID-19 in February 2020 which justified the authorization of emergency use of diagnostic tests for the detection and/or diagnosis of COVID-19. The Bio-Rad SARS-CoV-2 ddPCR test and the Platelia SARS-CoV-2 Total Ab test have been granted FDA EUA pursuant to the current emergency declaration. The Bio-Rad SARS-CoV- 2 ddPCR test was FDA EUA authorized on May 1, 2020, authorizing performance of the test in laboratories certified under Clinical Laboratory Improvement Amendments (CLIA) to perform high complexity tests. The second test is the Platelia SARS-CoV-2 Total Ab test, which is an antibody test intended for detecting a B-cell immune response to SARS-CoV-2, indicating recent or prior infection. The Platelia SARS-CoV-2 Total Ab test was FDA EUA authorized on April 29, 2020. Medical products that are granted an EUA are only permitted to commercialize their products under the terms and conditions provided in the authorization. The FDA may revoke an EUA where it is determined that the underlying health emergency no longer exists or warrants such authorization, if the conditions for the issuance of the EUA are no longer met, or if other circumstances make revocation appropriate to protect the public health or safety, and we cannot predict how long the EUAs for the SARS-CoV-2 tests will remain in place. Using the Bio-Rad SARS-CoV-2 ddPCR test and the Platelia SARS-CoV-2 Total Ab test, we operate and have commercialized the Biodesix WorkSafe testing program.
+Prior to using the Bio-Rad tests as part of our testing program, we performed feasibility, verification, and validation studies, including developing software for process automation, sample accessioning, data management and reporting, all required to demonstrate the test operated as claimed by the manufacturer and as required by our certifying regulatory agencies for high complexity laboratory testing. We secured independent reference specimens run with EUA tests to validate these tests as fit for diagnostic use in our laboratories. Post-launch development support for these tests have included improvements in on-boarding new personnel, logistics of sample collection, sample receipt and data reporting, all required to support our testing program. Additional releases of the laboratory data management software are ongoing and planned for the foreseeable future.
+These tests are utilized by healthcare providers, including hospitals and nursing homes, and are also offered to businesses and educational systems to assist in their back-to-work or back-to-school strategies. Recently we announced multiple partnerships for COVID-19 testing, and have entered into an agreement with the State of Colorado to be one of the diagnostic companies to support widespread COVID-19 testing for the State. Additionally, we recently announced that we will oversee and manage onsite testing and validating testing for the Big Ten Conference athletic competitions.
+In addition to the six diagnostic tests currently on the market, we perform over 30 assays for research use as part of our laboratory services that have been used by over 50 biopharmaceutical customers and academic partners. All of our diagnostic testing is performed at one of our two certified, high-complexity clinical laboratories in Boulder, Colorado and De Soto, Kansas.
+Since our inception, we have performed over 285,000 tests and continue to generate a large and growing body of clinical evidence consisting of over 275 clinical and scientific peer-reviewed publications and presentations. Through ongoing study of each of our tests, we continue to grow our depth of understanding of disease biology and the broad utility of each of our tests. We believe we are poised for rapid growth by leveraging our scientific development and laboratory operations expertise along with our commercial infrastructure which includes sales, marketing, reimbursement, and regulatory affairs.
+In the United States, we market our tests to clinical customers through our targeted sales organization, which includes sales representatives that are engaged in sales efforts and promotional activities primarily to pulmonologists, oncologists, cancer centers and nodule clinics. We market our tests and services to biopharmaceutical customers globally through our targeted business development team, which promotes the broad utility of our tests and testing capabilities throughout drug development and commercialization which is of value to pharmaceutical companies and their drug-development process.
+We have funded our operations to date principally from net proceeds from an initial public offering of our common stock, the sale of convertible preferred stock, revenue from diagnostic testing and services, and the incurrence of indebtedness. We had cash and cash equivalents of $62.1 million and $5.3 million as of December 31, 2020 and 2019, respectively.
+Factors Affecting Our Performance
+We believe there are several important factors that have impacted our operating performance and results of operations, including:
+•
+Testing volume and customer mix. Our revenues and costs are affected by the volume of testing and mix of customers from period to period. We evaluate both the volume of our commercial tests, or the number of tests that we perform for patients on behalf of clinicians, as well as tests for biopharmaceutical companies. Our performance depends on our ability to retain and broaden adoption with existing customers, as well as attract new customers. We believe that the test volume we receive from clinicians and biopharmaceutical companies are indicators of growth in each of these customer verticals. Customer mix for our tests has the potential to significantly impact our results of operations, as the average selling price for biopharmaceutical sample testing is currently significantly greater than our average selling price for clinical tests since we are not a contracted provider for, or our tests are not covered by all clinical patients’ insurance. We evaluate our average selling price for tests that are covered by Medicare, Medicare Advantage and commercial payers to understand the trends in reimbursement and apply those trends to our revenue recognition policies. Our operating revenues and costs significantly increased during 2020 due to the expected increase in demand for COVID-19 testing.
+•
+Reimbursement for clinical diagnostic testing. Our revenue depends on achieving broad coverage and reimbursement for our tests from third-party payers, including both commercial and government payers. Payment from third-party payers differs depending on whether we have entered into a contract with the payers as a “participating provider” or do not have a contract and are considered a “non-participating provider.” Payers will often reimburse non-participating providers, if at all, at a lower rate than participating providers.
+Historically, we have experienced situations where commercial payers proactively reduced the amounts they were willing to reimburse for our tests, and in other situations, commercial payers have determined that the amounts they previously paid were too high and have sought to recover those perceived excess payments by deducting such amounts from payments otherwise being made. When we contract to serve as a participating provider, reimbursements are made pursuant to a negotiated fee schedule and are limited to only covered indications. Becoming a participating provider generally results in higher reimbursement for covered indications and lack of reimbursement for non-covered indications. As a result, the impact of becoming a participating provider with a specific payer will vary. If we are not able to obtain or maintain coverage and adequate reimbursement from third-party payers, we may not be able to effectively increase our testing volume and revenue as expected. Additionally, retrospective reimbursement adjustments can negatively impact our revenue and cause our financial results to fluctuate.
+•
+Investment in clinical studies and product innovation to support growth. A significant aspect of our business is our investment in research and development, including the development of new products and our investments in clinical utility studies. We have invested heavily in clinical studies for our on market and pipeline products. Our studies focus primarily on the clinical utility of our tests including the ongoing INSIGHT study which seeks to enroll up to 5,000 patients to continue our clinical understanding of the predictive and prognostic value of the VeriStrat test. Our recently launched ALTITUDE study seeks to further demonstrate the efficacy of the Nodify XL2 and Nodify CDT test. A secondary focus of our studies is understanding the economic impact of our tests in guiding treatment choices and the potential impact of our tests in reducing overall healthcare costs.
+Our clinical research has resulted in over 80 peer-reviewed publications for our tests. In addition to clinical studies, we are collaborating with investigators from multiple academic cancer centers. We believe these studies are critical to gaining physician adoption and driving favorable coverage decisions by payers and expect our investments in research and development to increase. Further we also expect to increase our research and development expenses to fund further innovation and develop new clinically relevant tests.
+•
+Ability to attract new biopharmaceutical customers and maintain and expand relationships with existing customers. Our business development team promotes the broad utility of our products for biopharmaceutical companies in the United States and internationally. Our revenue, business opportunities and growth depend in part on our ability to attract new biopharmaceutical customers and to maintain and expand relationships with existing biopharmaceutical customers. We expect to increase our sales and marketing expenses in furtherance of this as we continue to develop these relationships, we expect to support a growing number of investigations and clinical trials. If our relationships expand, we believe we may have opportunities to offer our platform for companion diagnostic development, novel target discovery and validation efforts, and to grow into other commercial opportunities. For example, we believe our multi-omic data including genomic and proteomic data, in combination with clinical outcomes or claims data, has revenue-generating potential, including for novel target identification and companion diagnostic discovery and development.
+•
+Motivating and expanding our field sales force and customer support team. Our field sales force is the primary point of contact in the clinical setting. These representatives of the company must cover expansive geographic regions which limits their time for interaction and education of our products in the clinical setting. As a result of the successful capital raise associated with our initial public offering, we plan to invest heavily in the field sales force to increase the total number of sales representatives and thereby reduce the geographic footprint each representative must cover. This investment will allow the larger sales force to maximize their education and selling efforts and achieve greater returns. Additionally, we plan to invest in the Boulder-based marketing and customer support teams to continue to provide the field team with the resources to be successful in the field. Furthermore, as we increase testing volume for our COVID-19 testing program, we plan to hire additional project support members to assist us in managing testing capacity.
+While each of these areas present significant opportunities for us, they also pose significant risks and challenges that we must address. See Part II, Item 1A. “Risk Factors” for more information.
+COVID-19 Pandemic
+The COVID-19 pandemic has disrupted, and we expect will continue to disrupt, our lung diagnostic testing operations. To protect the health and well-being of our workforce, partners, vendors and customers, we provide voluntary COVID-19 testing for employees working on-site, implemented social distance and building entry policies at work, restricted travel and facility visits, and followed the States of Colorado and Kansas’ public health orders and the guidance from the Centers for Disease Control and Prevention. Employees who can perform their duties remotely are asked to work from home and those on site are asked to follow our social distance guidelines. Our sales, marketing and business development efforts have also been constrained by our operational response to the COVID-19 pandemic due to travel restrictions. We expect to continue to adjust our operational norms to help slow the spread of COVID-19 in the coming months, including complying with government directives and guidelines as they are modified and supplemented.
+The COVID-19 pandemic negatively affected, and we expect will continue to negatively affect, our lung diagnostic testing-related revenue and our clinical studies. For example, cancer patients may have more limited access to hospitals, healthcare providers and medical resources as they take steps to control the spread of COVID-19. Our biopharmaceutical customers are facing challenges in recruiting patients and in conducting clinical trials to advance their pipelines, for which our tests could be utilized. As a result of the COVID-19 pandemic, beginning in the latter half of March 2020, we have received fewer samples for non-COVID-19 testing on a daily average basis from our clinical and biopharmaceutical customers than before the outbreak of the COVID-19 pandemic. Further, our clinical studies, such as our ongoing INSIGHT study and our recently launched ALTITUDE study, as well as our arrangements with our biopharmaceutical customers, are expected to take longer to complete than what we expected before the outbreak of the COVID-19 pandemic.
+Conversely, we are also experiencing a substantial increase in revenues related to an increase in the demand for our Biodesix WorkSafe testing program, our COVID-19 testing program. We expect that our costs to expand capacity for COVID-19 testing will increase for the first quarter of 2021 and we expect that the revenue that we generate from this expansion will comprise a significant portion of our revenue for these periods. However, there is no assurance that our COVID-19 testing program will continue to be accepted by the market or that other diagnostic tests will become more accepted, produce quicker results or are more accurate. Further, the longevity and extent of the COVID-19 pandemic is uncertain. If the pandemic were to dissipate, whether due to a significant decrease in new infections, due to acquiring herd immunity based on previous natural infection, and the availability and rapid distribution of vaccines, the evolution of variant strains that impact diagnostic test performance, or otherwise, the need for a COVID-19 test could decrease significantly and this could have an adverse effect on our results of operations and profitability. As a result, the increase in revenue due to any increase in demand for these diagnostic tests may not be indicative of our future revenue. See Part II., Item 1A. “Risk Factors” for a description of how the COVID-19 pandemic may adversely affect our business, financial condition and results of operations.
+2020 Financial and Operational Highlights
+Our fiscal year corresponds to a calendar year. The Company generated record revenue in fiscal 2020 of $45.6 million, representing an increase of 86%, of which $27.0 million was associated with the three-month period ended December 31, 2020.
+The following were significant developments affecting our business, capital structure and liquidity during the year ended December 31, 2020:
+•
+In October 2020 we completed our initial public offering, in which we sold 4.0 million shares of common stock for an offering price of $18.00 per common share. The successful offering enabled the Company to raise approximately $63.8 million in net proceeds, after deducting offering costs, underwriting discounts and commissions, providing significant cash resources to fund the Company’s growth strategy and working capital and general corporate purposes;
+•
+As of December 31, 2020, we held cash and cash equivalents of $62.1 million, an increase of $56.8 million as compared to December 31, 2019. Our December 31, 2020 cash and cash equivalent balance includes a reduction for a prepayment of approximately $7 million for three years of premiums for the Company’s directors and officer (D&O) liability insurance coverage;
+•
+Initiated biomarker study to affirm Nodify XL2® test’s importance in clinical decision making (ALTITUDE). The first-in-class biomarker study is aligned with the recommendations from the official 2018 American Thoracic Society (ATS) policy statement of the early detection of lung cancer. Dr. Gerard A. Silvestri of Medical University of South Carolina named Principal Investigator;
+•
+Announced results of study showing the Company’s proprietary blood collection device (BCD) collects, separates, and transports blood at ambient temperature to simplify specimen collection and transport while maintaining accuracy of diagnostic test results;
+•
+Partnered with major public and private institutions, including the BIG 10 athletic conference, Purdue University, Colorado State University and the State of Colorado to support COVID-19 testing.
+Components of Operating Results
+Revenues
+We derive our revenue from two primary sources: (i) providing diagnostic testing in the clinical setting (Diagnostic Tests); and (ii) providing biopharmaceutical companies with services that include diagnostic research, clinical research, clinical trial testing, development and testing services generally provided outside the clinical setting and governed by individual contracts with third parties as well as development and commercialization of companion diagnostics (Services).
+Diagnostic Tests
+Diagnostic test revenue is generated from delivery of results from our diagnostic tests. In the United States, we performed tests as both an in- network and out-of-network service provider depending on the test performed and the contracted status of the insurer. We provide diagnostic tests in two primary categories (i) lung diagnostics testing and (ii) COVID-19 testing.
+We consider diagnostic testing to be completed upon the delivery of test results to our customer, either the prescribing physician or third-party to which we contracted for services to be performed, which is considered the performance obligation. The fees for such services are billed either to a third party such as Medicare, medical facilities, commercial insurance payers, or to the patient. We determine the transaction price related to our contracts by considering the nature of the payer, the historical amount of time until payment by a payer and historical price concessions granted to groups of customers.
+Services
+Services revenue is generated from the delivery of our on-market tests, pipeline tests, custom diagnostic testing, and other scientific services for a purpose as defined by any individual customer. At times we collaborate with large biopharmaceutical companies in an attempt to discover biomarkers that would be helpful in their drug development or marketing. The performance obligations and related revenue for these sales is defined by a written agreement between us and our customer. These services are generally completed upon the delivery of testing results, or other contractually defined milestone(s), to the customer, which is considered the performance obligation. Customers for these services are typically large pharmaceutical companies where collectability is reasonably assured and therefore revenue is accrued upon completion of the performance obligations. Revenue derived from services is often unpredictable and can cause dramatic swings in our overall net revenue line from quarter to quarter.
+Operating Expenses
+Direct costs and expenses
+Cost of diagnostic testing generally consists of cost of materials, direct labor, including bonus, employee benefits, equipment and infrastructure expenses associated with acquiring and processing test samples, including sample accessioning, test performance, quality control analyses, charges to collect and transport samples; curation of test results for physicians; and in some cases, license or royalty fees due to third parties. Costs associated with performing our tests are recorded as the tests are processed regardless of whether revenue was recognized with respect to the tests. Infrastructure expenses include depreciation of laboratory equipment, rent costs, amortization of leasehold improvements and information technology costs. Royalties for licensed technology are calculated as a percentage of revenues generated using the associated technology and recorded as expense at the time the related revenue is recognized. One-time royalty payments related to signing of license agreements or other milestones, such as issuance of new patents, are amortized to expense over the expected useful life of the patents. While we do not believe the technologies underlying these licenses are necessary to permit us to provide our tests, we do believe these technologies are potentially valuable and of possible strategic importance to us or our competitors. Under these license agreements, we are obligated to pay aggregate royalties ranging from 1% to 8% of sales in which the patents or know-how are used in the product or service sold, sometimes subject to minimum annual royalties or fees in certain agreements.
+We expect the aggregate cost of diagnostic testing to increase in line with the increase in the number of tests we perform, but the cost per test to decrease modestly over time due to the efficiencies we may gain as test volume increases, and from automation and other cost reductions.
+Cost of services includes costs incurred for the performance of development services requested by our customers. Costs of development services will vary depending on the nature, timing and scope of customer projects.
+Research and development
+Research and development expenses consist of costs incurred to develop technology and include salaries and benefits, reagents and supplies used in research and development laboratory work, infrastructure expenses, including allocated facility occupancy and information technology costs, contract services, clinical studies, other outside costs and costs to develop our technology capabilities. Research and development expenses account for a significant portion of our operating expenses and consist primarily of external and internal costs incurred in connection with the discovery and development of our product candidates.
+External expenses include: (i) payments to third parties in connection with the clinical development of our product candidates, including contract research organizations and consultants; (ii) the cost of manufacturing products for use in our preclinical studies and clinical trials, including payments to contract manufacturing organizations (CMOs) and consultants; (iii) scientific development services, consulting research fees and for sponsored research arrangements with third parties; (iv) laboratory supplies; and (v) allocated facilities, depreciation and other expenses, which include direct or allocated expenses for IT, rent and maintenance of facilities. External expenses are recognized based on an evaluation of the progress to completion of specific tasks using information provided to us by our service providers or our estimate of the level of service that has been performed at each reporting date. We track external costs by the stage of program, clinical or preclinical.
+Internal expenses include employee-related costs, including salaries and related benefits for employees engaged in research and development functions. We do not track internal costs by product candidate because these costs are deployed across multiple programs and, as such, are not separately classified.
+Research and development costs are expensed as incurred. Payments made prior to the receipt of goods or services to be used in research and development are deferred and recognized as expense in the period in which the related goods are received or services are rendered. Costs to develop our technology capabilities are recorded as research and development.
+We expect our research and development expenses to increase as we continue to innovate and develop additional products and expand our data management resources. As our services revenue grows, an increasing portion of research and development dollars are expected to be allocated to cost of goods for biopharma service contracts. This expense, though expected to increase in dollars, is expected to decrease as a percentage of revenue in the long term, though it may fluctuate as a percentage of our revenues from period to period due to the timing and extent of these expenses.
+Sales, marketing, general and administrative
+Our sales and marketing expenses are expensed as incurred and include costs associated with our sales organization, including our direct sales force and sales management, client services, marketing and reimbursement, as well as business development personnel who are focused on our biopharmaceutical customers. These expenses consist primarily of salaries, commissions, bonuses, employee benefits, and travel, as well as marketing and educational activities and allocated overhead expenses. We expect our sales and marketing expenses to increase in dollars as we expand our sales force, increase our presence within the United States, and increase our marketing activities to drive further awareness and adoption of our tests and our future products. These expenses, though expected to increase in dollars, are expected to decrease as a percentage of revenue in the long term, though they may fluctuate as a percentage of our revenues from period to period due to the timing and extent of these expenses.
+Our general and administrative expenses include costs for our executive, accounting, finance, legal and human resources functions. These expenses consist principally of salaries, bonuses, employee benefits, and travel, as well as professional services fees such as consulting, audit, tax and legal fees, and general corporate costs and allocated overhead expenses. We expect that our general and administrative expenses will continue to increase in dollars, primarily due to increased headcount and costs associated with operating as a public company, including expenses related to legal, accounting, regulatory, maintaining compliance with exchange listing and requirements of the SEC, director and officer insurance premiums and investor relations. These expenses, though expected to increase in dollars, are expected to decrease as a percentage of revenue in the long term, though they may fluctuate as a percentage from period to period due to the timing and extent of these expenses.
+Change in Fair Value of Contingent Consideration
+In connection with the purchase transaction of Integrated Diagnostics, Inc. (Indi), we recorded contingent consideration pertaining to the amounts potentially payable to Indi shareholder pursuant to the terms of the asset purchase agreement. The fair value of contingent consideration is assessed at each balance sheet date and changes, if any, to the fair value are recognized as operating expenses within the statement of operations. The estimated fair value of the contingent consideration is based upon significant assumptions including probability of successful achievement of a product gross margin target, the estimated timing in which the gross margin target is achieved, and discount rates. The estimated fair value could materially differ from actual values or fair values determined using different assumptions.
+Interest Expense and Interest Income
+Interest expense consists of cash and non-cash interest from our term loan, payroll protection program loan, and convertible debt. Our convertible debt, along with the related accrued interest, was automatically converted to 1,848,280 shares of our common stock upon completion of our initial public offering in October 2020. Principal payments for our term loan are scheduled to begin in March 2021. Interest income consists of income earned on our cash and cash equivalents. Our interest income has increased primarily as a result of investment of the net proceeds from our recent offering.
+Results of Operations
+The following table sets forth the significant components of our results of operations for the periods presented (in thousands, except percentages):
+Year Ended December,
+Change
+$
+%
+Revenues
+$
+45,557
+$
+24,552
+$
+21,005
+%
+Operating expenses
+Direct costs and expenses
+21,998
+6,074
+15,924
+Research and development
+10,818
+10,468
+Sales, marketing, general and administrative
+34,857
+30,637
+4,220
+Change in fair value of contingent consideration
+4,114
+(3,296
+)
+(80
+)
+Total operating expenses
+68,491
+51,293
+17,198
+%
+Loss from operations
+(22,934
+)
+(26,741
+)
+3,807
+%
+Other income (expense)
+Interest income
+(37
+)
+(67
+%)
+Interest expense
+(7,604
+)
+(3,008
+)
+(4,596
+)
+Change in fair value of warrant liability
+(1,252
+)
+(104
+)
+(1,148
+)
+1,104
+Change in fair value of put option liability
+-
+(2,000
+)
+2,000
+(100
+)
+Other income, net
+1,072
+(650
+)
+(61
+)
+Total other expense
+(8,416
+)
+(3,985
+)
+(4,431
+)
+%
+Net loss
+$
+(31,350
+)
+$
+(30,726
+)
+$
+(624
+)
+(2
+%)
+Revenues
+We generate revenue from our diagnostic tests and services that we provide. Our revenues for the periods indicated were as follows (in thousands, except percentages):
+Year Ended December,
+Change
+$
+%
+Diagnostic revenue
+$
+40,919
+$
+17,315
+$
+23,604
+%
+Services revenue
+4,638
+7,237
+(2,599
+)
+(36
+)%
+Total revenue
+$
+45,557
+$
+24,552
+$
+21,005
+%
+Total revenue was $45.6 million for the year ended December 31, 2020 as compared to $24.6 million for the year ended December 31, 2019, an increase of $21.0 million, or 86%.
+Diagnostic test revenue increased to $40.9 million for the year ended December 31, 2020, as compared to $17.3 million for year ended December 31, 2019, an increase of $23.6 million or 136%. This increase was primarily attributable to the deployment of COVID-19 testing which generated $28.3 million of revenue and was partially offset by a decline in our lung diagnostic test volumes, which declined by $4.7 million or 27% as health care practitioners, including pulmonologists, were increasingly diverted to pandemic-related care. In addition, the Company sales efforts continued to be impacted by the reduction in travel and other COVID-19 pandemic related restrictions.
+Services revenue decreased to $4.6 million for the year ended December 31, 2020 compared to $7.2 million for the prior year ended December 31, 2019, a decrease of $2.6 million or 36%, due primarily to a reduction in business development activities which was negatively impacted by the COVID-19 pandemic similar to the reduction we experienced in our lung diagnostic testing revenue.
+Direct Costs and Expenses
+Direct costs and expenses related to revenue were $22.0 million for the year ended December 31, 2020 compared to $6.1 million for the prior year ended December 31, 2019, an increase of $16.0 million or 262%. The increase in direct costs and expenses were primarily driven by costs associated with the delivery of our COVID-19 tests as well as the release of our Nodify CDT test, offset in part by decreases costs related to our remaining lung diagnostic test costs.
+Research and Development
+Research and development expenses were relatively consistent year over year with $10.8 million for the year ended December 31, 2020 as compared to $10.5 million for the prior year ended December 31, 2019, an increase of $0.3 million, or 3%. The overall increase in cost was attributable to an increase in internal costs primarily associated with variable compensation tied to fiscal 2020 performance measures slightly offset by a decrease in external costs.
+The following table summarizes our external and internal costs for the years ended December 31, 2020 and 2019 (in thousands, except percentages):
+Year Ended December,
+Change
+$
+%
+External expenses:
+Clinical trials and associated costs
+$
+2,487
+$
+2,141
+$
+%
+Other external costs
+2,823
+3,784
+(961
+)
+(25
+)%
+Total external costs
+5,310
+5,925
+(615
+)
+(10
+)%
+Internal expenses
+5,508
+4,543
+%
+Total research and development expenses
+$
+10,818
+$
+10,468
+$
+%
+Sales, Marketing, General and Administrative
+Sales, marketing, general and administrative expenses were $34.9 million for the year ended December 31, 2020 compared to $30.6 million for the prior year ended December 31, 2019, an increase of $4.2 million, or 14%, as a result of variable compensation tied to fiscal 2020 performance measures, including the Company’s bonus to equity program for senior executives offset by reductions in employee related costs associated with COVID-19 pandemic restrictions.
+Change in Fair Value of Contingent Consideration
+Change in fair value of contingent consideration was $0.8 million for the year ended December 31, 2020 compared to $4.1 million for the year ended December 31, 2019, a net decrease of $3.3 million or 80%. The amounts recorded for change in fair value reflect the passage of time, as well as estimates regarding the period in which targets that trigger the payment of contingent consideration will be achieved and subsequently paid.
+Interest Expense
+Interest expense was $7.6 million for the year ended December 31, 2020 compared to $3.0 million for the year ended December 31, 2019, an increase of $4.6 million, or 153%. This increase was due to the addition of interest expense related to convertible notes issued to certain shareholders from August 2019 through March 2020, including the non-cash interest expense of $4.4 million associated with the full amortization of debt discount resulting from the conversion discounts included in the convertible note terms, interest on our existing term loan, and interest on our payroll protection plan loan. Cash and non-cash interest expense for the twelve-month period ended December 31, 2020 was $1.8 million and $5.8 million, respectively.
+Change in Fair Value of Warrant Liability
+During the twelve-month period ended December 31, 2020, we recognized a charge for the change in estimated fair value of our warrant liability related to warrants issued in connection with our Series G preferred stock of $1.3 million, compared to a charge of $0.1 million during fiscal year 2019, a change of $1.2 million. Effective with the closing of our initial public offering in October 2020, the warrants to purchase Series G preferred stock were automatically converted to warrants to acquire common stock and the carrying value of the warrants of $1.6 million were reclassified to additional paid-in capital.
+Change in Fair Value of Put Option Liability
+During 2019, we issued $13.0 million in convertible debt with terms that provided conversion rate discounts to the note holders in certain situations, including upon the completion of an initial public offering. The conversion discounts created a put option liability that was accounted for separately from the convertible debt instrument and reflected as a liability in our balance sheet. Subsequent to the initial measurement of the put option liability, changes in the estimated fair value will be reflected as other income or expense in the statement of operations. During 2019, we recorded a $2 million increase in the fair value of the put option liability as other expense due to the increase in the conversion discount rate provided to note holders resulting from an amendment to terms of the convertible debt issued in August and September 2019. There were no changes to the fair value of the put option liability that was recorded during 2020.
+Other Income and Expense, net
+Other income, net, during fiscal 2020 and fiscal 2019 was income of $0.4 million and $1.1 million, respectively, a decrease of $0.7 million or 61%. The decrease was due primarily to proceeds from a non-recurring legal settlement received in fiscal 2019.
+Liquidity and Capital Resources
+We are an emerging growth company and, as such, have yet to generate positive cash flow from operations. We have funded our operating activities primarily through financing activities, such as debt and equity offerings. In October 2020, we completed an initial public offering, resulting in net proceeds of approximately $63.8 million after deducting offering costs, underwriting discounts and commissions. As of December 31, 2020 we held cash and cash equivalents of $62.1 million. We believe that our existing cash, cash equivalents, and cash generated from sales of our products and services will be sufficient to meet our anticipated needs for at least the next 12 months from the date of our most recent audited financial statements, including amounts due under our PPP loan. The Company currently intends to repay the PPP loan in accordance with the underlying terms and conditions.
+We expect to continue to incur significant expenses for the foreseeable future and to incur operating losses in the near term while we make investments to support our anticipated growth. We may raise additional capital through the issuance of additional equity financing, debt financings or other sources. If this financing is not available to us at adequate levels, we may need to reevaluate our operating plans. If we do raise additional capital through public or private equity offerings, the ownership interest of our existing stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect our existing stockholders’ rights. If we raise additional capital through debt financing, we may be subject to covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends.
+Cash Flows
+The following summarizes our cash flows for the periods indicated (in thousands):
+Year Ended December 31,
+Net cash flows (used in) provided by:
+Operating activities
+$
+(21,366
+)
+$
+(21,726
+)
+Investing activities
+(2,927
+)
+(1,872
+)
+Financing activities
+81,131
+22,972
+Net increase in cash and cash equivalents and restricted cash
+$
+56,838
+$
+(626
+)
+2020 compared to 2019
+Our cash flows resulted in a net increase in cash of $56.8 million during the year ended December 31, 2020. The net cash used in operating activities decreased by approximately $0.4 million, primarily due to a year-over-year increase in non-cash charges of: (i) $4.1 million associated with the increased amortization of convertible notes debt discount resulting from our initial public offering; (ii) $3.5 million associated with the increased share-based compensation expense from achieving performance thresholds for our 2020 bonus to equity program; (iii) $1.1 million associated with an increase in the expense recorded as a change in estimated fair value of warrant liability partially offset by; (iv) a $3.3 million reduction in the year-over-year change in the estimated fair value of contingent consideration; and (v) a $3.2 million net reduction in operating assets and liabilities
+Net cash used in investing activities during the year ended December 31, 2020 totaled $2.9 million, an increase of $1.1 million compared to the same period in 2019. The increase in net cash used in investing activities was primarily due to an increase of $0.8 million in the purchases of research equipment and patent costs, and payments made for Oncimmune assets acquired of $0.3 million.
+Net cash provided by financing activities during the year ended December 31, 2020 totaled $81.1 million, an increase of $58.2 million compared to the same period in 2019. The net cash provided by financing activities for the year ended December 31, 2020 primarily resulted from $72.0 million gross proceeds from our initial public offering, $13.0 million in proceeds from the issuance of convertible notes payable, $1.3 million proceeds from stock option exercises, and $3.1 from proceeds from our paycheck protection program note payable, offset in part by equity issuance costs associated with our initial public offering of $8.2 million. The net cash provided by financing activities for the year ended December 31, 2019 primarily resulted from $10.0 million in proceeds from the issuance of our Series H Preferred Stock and $13.0 million in proceeds from the issuance of convertible notes payable.
+Contractual Obligations and Commitments
+The following table summarizes our non-cancelable contractual obligations and commitments as of December 31, 2020 (in thousands):
+Payments due by period (1)
+Total
+Less than
+1 year
+1 to 3
+years
+4 to 5
+years
+More than
+5 years
+Operating lease obligations (2)
+$
+1,539
+$
+$
+$
+-
+$
+-
+Borrowings and interest (3)
+31,517
+13,921
+17,596
+-
+-
+$
+33,056
+$
+14,624
+$
+18,432
+$
+-
+$
+-
+(1)
+Royalty payments that we may owe are not included as the timing of such payments is uncertain.
+(2)
+We are obligated under non-cancellable operating leases for all of our facilities. Lease terms for our facilities range from less than one to three years and generally require us to pay real estate taxes, certain insurance and operating costs.
+(3)
+Includes a 2% back-end term loan facility fee of $0.5 million due at maturity. The term loan is also subject to a 3% prepayment penalty which is not included above. In addition, includes principal and accrued interest payable under the Company’s payroll protection plan loan.
+In connection with the purchase transaction of Integrated Diagnostics, Inc., we recorded contingent consideration pertaining to the amounts potentially payable to Integrated Diagnostics’ shareholder pursuant to the terms of the asset purchase agreement. The estimated fair value of contingent consideration is assessed at each balance sheet date and changes, if any, to the fair value are recognized as operating expenses within the statement of operations. The estimated fair value of the contingent consideration is based upon significant assumptions including probability of successful achievement of the Milestone, the estimated timing in which the Milestone is achieved, and discount rates. The estimated fair value could materially differ from actual values or fair values determined using different assumptions. At December 31, 2020, the amount that would be due in cash at the option of the seller at the time the Milestone is met would be approximately $37 million.
+Off-Balance Sheet Arrangements
+None.
+Critical Accounting Policies and Significant Judgments and Estimates
+In accordance with accounting principles generally accepted in the United States, we are required to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Certain of these estimates significantly influence the portrayal of our financial condition and results of operations and require us to make difficult, subjective or complex judgments. Our critical accounting policies primarily relate to our fair value estimates, and are described in greater detail in Note 1 to our financial statements in Part 8 of this Annual Report on Form 10-K.
+Revenue Recognition
+We recognize revenue when our customers obtain control of promised goods or services, in an amount that reflects the consideration which we expect to receive in exchange for our goods or services. To determine revenue recognition for our arrangements with our customers, we perform a five-step process, which includes: (i) identifying the contract(s) with a customer; (ii) identifying the performance obligations in the contract; (iii) determining the transaction price; (iv) allocating the transaction price to the performance obligations in the contract; and (v) recognizing revenue when (or as) we satisfy our performance obligations.
+Diagnostic service revenues are recognized upon completion of our performance obligation to the deliver test results to our customer, either the prescribing physician or third-party to which we contracted for services to be performed. Testing services revenues are recognized upon completion of our performance obligation to deliver testing results for assay development and testing services.
+Change in Fair Value of Contingent Consideration
+In connection with the purchase transaction with Integrated Diagnostics, Inc. (Indi), we recorded contingent consideration pertaining to the amounts potentially payable to Indi’s shareholder pursuant to the terms of the asset purchase agreement. The fair value of contingent consideration is assessed at each balance sheet date and changes, if any, to the fair value are recognized as operating expenses within the statements of operations.
+The estimated fair value of the contingent consideration is based upon significant assumptions including probabilities of successful achievement of product gross margin targets, the estimated timing in which achievement of the product gross margin target is expected, and discount rates. The estimated fair value could materially differ from actual values or fair values determined using different assumptions.
+Share-based Compensation and Grant Date Fair Value
+Share-based compensation related to stock options granted to our employees, directors and non-employees is measured at the grant date based on the fair value of the award. For our service-based awards, the fair value of each award is recognized as expense on a straight-line basis over the requisite service period, which is generally the vesting period of the respective awards. Compensation expense for share-based awards with performance conditions is recognized based upon the probability the performance conditions will be met as defined in the grant. Restricted stock unit option awards are measured at their grant date fair value using the closing price of our common stock on the date of grant and recognized to expense on a straight-line basis over the vesting period of each award. We estimate forfeitures and adjust these estimates to actual forfeitures as they occur.
+We use the Black-Scholes option-pricing model to estimate the fair value of our share-based option awards, which requires assumptions to be made related to expected term of an award, expected volatility, the risk-free rate and expected dividend yield. Following the completion of our initial public offering, our Board of Directors has determined the fair value of our common stock is based on our closing price as reported on the date of grant on the primary stock exchange on which our common stock is traded.
+Prior to our initial public offering in October 2020, the fair value of our common stock was determined by our Board of Directors in accordance with the methodologies outlined in the American Institute of Certified Public Accountants Practice Aid, Valuation of Privately-Held-Company Equity Securities Issued as Compensation Practice Aid (Practice Aid). In doing so, our Board of Directors determined the best estimate of fair value of our common stock, exercising reasonable judgment and considering numerous objective and subjective factors, by first determining the enterprise value of our business, and then allocating the value among the various classes of our equity securities to derive a per share value of our common stock.
+Recently Issued Accounting Pronouncements
+In February 2016, the FASB issued Accounting Standards Update (ASU) No. 2016-2, Leases (Topic 842), which requires lessees to recognize a right-of-use asset and corresponding lease liability on the balance sheet for substantially all leases. The ASU is effective for us for beginning January 1, 2022. We expect to recognize right-of-use assets and lease obligations in our balance sheets upon adoption using the modified retrospective method as permitted by ASU No. 2018-11, Leases (Topic 842): Targeted Improvements. We do not currently expect adoption of this standard will have a significant effect on our results of operations or cash flows.
+In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments-Credit Losses: Measurement of Credit Losses on Financial Instruments. This ASU requires measurement and recognition of expected credit losses for financial assets. This guidance will become effective for us beginning January 1, 2022 with early adoption permitted. We have not yet begun evaluating the potential effect of this standard on our financial statements.
+Implications of Being an Emerging Growth Company and Smaller Reporting Company
+We are an “emerging growth company” within the meaning of the Jumpstart Our Business Startups Act (JOBS Act). As an emerging growth company, we may take advantage of certain exemptions from various public company reporting requirements, including the requirement that our internal control over financial reporting be audited by our independent registered public accounting firm pursuant to Section 404 of the Sarbanes-Oxley Act of 2002 (the “Sarbanes-Oxley Act”), certain requirements related to the disclosure of executive compensation in our periodic reports and proxy statements, the requirement that we hold a nonbinding advisory vote on executive compensation and any golden parachute payments. We may take advantage of these exemptions until we are no longer an emerging growth company. Section 107 of the JOBS Act provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act, for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies.
+We have elected to take advantage of the extended transition period to comply with new or revised accounting standards and to adopt certain of the reduced disclosure requirements available to emerging growth companies. As a result of the accounting standards election, we will not be subject to the same implementation timing for new or revised accounting standards as other public companies that are not emerging growth companies, which may make comparison of our financials to those of other public companies more difficult.
+We will remain an emerging growth company until the earliest to occur of (i) the last day of the fiscal year in which we have more than $1.07 billion in annual revenue; (ii) the date we qualify as a “large accelerated filer,” with at least $700 million of equity securities held by non-affiliates; (iii) the date on which we have issued, in any three-year period, more than $1.0 billion in non-convertible debt securities; and (iv) until December 31, 2025 (the year ended December 31st following the fifth anniversary of our initial public offering.
+Additionally, we are a “smaller reporting company” as defined in Item 10(f)(1) of Regulation S-K. Smaller reporting companies may take advantage of certain reduced disclosure obligations, including, among other things, providing only two years of audited financial statements. We will remain a smaller reporting company until the last day of the fiscal year in which: (i) the market value of our common shares held by non-affiliates exceeds $250 million as of the end of that year’s second fiscal quarter, or (ii) our annual revenues exceeded $100 million during such completed fiscal year and the market value of our common shares held by non-affiliates exceeds $700 million as of the end of that year’s second fiscal quarter.

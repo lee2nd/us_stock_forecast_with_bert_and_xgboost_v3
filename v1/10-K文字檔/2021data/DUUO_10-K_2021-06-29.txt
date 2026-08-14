@@ -1,0 +1,120 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION.
+CAUTIONARY FORWARD - LOOKING STATEMENT
+The following discussion and analysis of the results of operations and financial condition of Duo World, Inc. should be read in conjunction with our financial statements and related notes. References to “we,” “our,” or “us” in this section refers to the Company and its subsidiaries. Our discussion includes forward-looking statements based upon current expectations that involve risks and uncertainties, such as our plans, objectives, expectations and intentions. We use words such as “anticipate,” “estimate,” “plan,” “project,” “continuing,” “ongoing,” “expect,” “believe,” “intend,” “may,” “will,” “should,” “could,” and similar expressions to identify forward-looking statements.
+Certain matters discussed herein may contain forward-looking statements that are subject to risks and uncertainties. Such risks and uncertainties include, but are not limited to, the following:
+● the volatile and competitive nature of our industry,
+● the uncertainties surrounding the rapidly evolving markets in which we compete,
+● the uncertainties surrounding technological change of the industry,
+● our dependence on its intellectual property rights,
+● the success of marketing efforts by third parties,
+● the changing demands of customers and
+● the arrangements with present and future customers and third parties.
+Should one or more of these risks or uncertainties materialize or should any of the underlying assumptions prove incorrect, actual results of current and future operations may vary materially from those anticipated.
+Our MD&A is comprised of the following sections:
+A. Business Overview
+B. Critical Accounting Policies
+C. Results of operations for the years ended March 31, 2021 and March 31, 2020
+D. Financial condition as at March 31, 2021 and March 31, 2020
+E. Liquidity and capital reserves
+F. Milestones for next twelve months
+A. Business overview
+Duo World Inc. (hereinafter referred to as “Successor” or “Duo”) a private company, was organized under the laws of the state of Nevada on September 19, 2014. Duo Software (Pvt.) Limited (hereinafter referred to as “DSSL” or “Predecessor”), a Sri Lanka based company, was incorporated on September 22, 2004, in the Democratic Socialist Republic of Sri Lanka, as a limited liability company. Duo Software (Pte.) Limited (hereinafter referred to as “DSS” or “Predecessor”), a Singapore based company, was incorporated on June 5, 2007 in the Republic of Singapore as a limited liability company. DSS also includes its wholly-owned subsidiary, Duo Software India (Private) Limited (India) which was incorporated on August 30, 2007, under the laws of India.
+Effective December 3, 2014, DSSL and DSS executed a reverse recapitalization with Duo. Duo (Successor) is a holding company that conducts operations through its wholly owned subsidiaries DSSL and DSS (Predecessors) in Sri Lanka, Singapore and India.
+Duo World has its registered office in Nevada, United States, and its development center in Colombo, Sri Lanka. Duo World specializes in the space of Customer Life Cycle Management & Contact Center solutions and Subscriber Management System and Billing for Pay-Tv operators in the Asia Pacific Region. Driven by innovation, Duo World has served the enterprises in many ways, including efficiency, cost reduction, revenue optimization and continuous value addition to their product or service offerings.
+Duo World’s Customer Life Cycle and Contact Center solution is being used by some of the largest banks, largest retail chains and largest financial conglomerates in Sri Lanka. India’s largest digital cable TV operator benefits by implementing Duo World’s Subscriber Management and Billing System for the operation.
+Our authorized capital consists of 400,000,000 shares of common stock having a par value of $0.001 per share and 10,000,000 shares of preferred stock having a par value of $0.001.
+B. Critical Accounting Policies:
+We prepare our consolidated financial statements in accordance with GAAP. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates.
+Critical accounting policies and estimates are those that we consider the most important to the portrayal of our financial condition and results of operations because they require our most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of the matters that are inherently uncertain.
+Revenue Recognition
+The Company recognizes revenue from the sale of software licenses and related services. The Company’s revenue recognition policy follows guidance from Accounting Standards Codification (ASC) 606, Revenue from contract with customers. Revenue is recognized when the Company transferred promised goods and services to the customer and in the amount that reflect the consideration to which the company expected to be entitled in exchange for those goods and services.
+The following five steps are followed in recognizing revenue from contracts:
+● Identify the contract ,or contract with the customer;
+● Identify the performance obligation of the contract;
+● Determine the transaction price;
+● Allocate the transaction price to the performance obligations in the contract and;
+● Recognize revenue when or as the company satisfies a performance obligation.
+The consideration for the transaction (performance obligation(s) is determined as per the agreement or contract or invoice for the services and products.
+DuoSubscribe
+Duo Subscribe is a solution for Subscriber Management and Billing. With over a decade of experience in developing applications for these sectors and having vast amount of domain knowledge on how these sectors operate, Duo Subscribe is eminently capable of meeting the complex and rigorous demands of businesses around the world.
+Facetone
+‘Facetone’ is a communication and collaboration platform, which provides users the capability of operating and running a high performance contact center operation efficiently while saving cost and maximizing revenue opportunities. In-built FaceTone CRM feature provides the opportunity for contact centers to deliver a superior customer experience and build a better relationship by linking customers and data in real time.
+Smoothflow
+Smoothflow automates customer engagements, including building ChatBots, VoiceBots and IoTBots to deliver an Omni channel customer service experience. The product uses the power of artificial intelligence to keep improving the conversational flow and user experience.
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services. We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. Revenue is recognized net of allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities.
+Nature of Products and Services
+Licenses for on premise software licenses. The Company sells a perpetual nonexclusive license to the customer and enable customer to install and use the software and its documentation. Price per customer varies based on the selection of the products licensed, the number of site installations and the number of authorized users. The products offered on this basis are “DuoSubscribe” and “Facetone-enterprise.”
+Hosted and reseller solutions. Company distributes its software product ‘Facetone-hosted version” with third party telecommunication companies. It is a revenue model where the Tele-communication provider hosts DUO’s software applications on its platform, and makes it available to its customers over the Internet for a monthly subscription fee. Company charge telecommunication service provider a monthly license fee calculated according to the number of licenses sold.
+Cloud Services. Company sells its product Smoothflow as a “SaaS” product (Software-as-a-Service) and services are provided for a monthly subscription.
+Annual maintenance contracts. The Company offers annual maintenance programs for the ‘on premises solution’ licenses sold and this provides for technical support and updates to the Company’s software solutions. Initial annual maintenance fees are bundled with license fees in the initial licensing period and recognized when the performance obligation of license fee is met. Revenue is recognized ratably, or daily, over the term of the maintenance period, which is typically one year.
+Provisions
+A provision is recognized when the Company has present obligations as a result of past event, it is probable that an outflow of resources embodying economic benefits will be required to settle the obligations and reliable estimate can be made of amount of the obligation. Provisions are not discounted at their present value and are determined based on the best estimate required to settle the obligation at the reporting date. These estimates are reviewed at each reporting date and adjusted to reflect the current best estimates.
+Income Taxes
+The Company accounts for income taxes using the asset and liability method. Under the asset and liability method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carry forwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date.
+Quantitative and Qualitative Disclosure about Market Risk
+We are exposed to financial market risks, primarily changes in interest rates. Market risk is the potential loss arising from adverse changes in market rates and prices.
+Foreign Currency Exchange Risk
+Our results of operations and cash flows are subject to fluctuations due to changes in foreign currency exchange rates. All of our revenues are normally generated in U.S. dollars or Sri Lankan rupees. Our expenses are generally denominated in the currencies in which our operations are located, which are primarily in Asia and to a lesser extent in the U.S. Our results of operations and cash flows are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign exchange rates. To date, we have not engaged in any foreign currency hedging strategies. As our international operations grow, we plan to generate revenues in foreign currencies and we will continue to reassess our approach to manage our risk relating to fluctuations in currency rates.
+Inflation
+We do not believe that inflation had a material effect on our business, financial condition or results of operations in the last three fiscal years. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial condition and results of operations.
+C. Results of operations for the years ended March 31, 2021 and March 31, 2020:
+In March 2020, the outbreak of the COVID-19 Coronavirus caused by a novel strain of the coronavirus was recognized as a Global Pandemic by the World Health Organization, and the outbreak has become increasingly widespread all over the World, including the geographical locations in which our Company and our subsidiaries operate and sell our products and services. The COVID-19 Coronavirus Pandemic has and will continue affecting economies and businesses around the World. The Company continues to closely monitor the impact of the COVID-19 Coronavirus outbreak. The impacts of the Pandemic could be material, but, due to the evolving nature of this situation, we are not able at this time to estimate the impact on our current financial, operational or future financial results. Among the factors that could impact our results are: effectiveness of COVID-19 Coronavirus mitigation measures, development of effective vaccines and boosters (if deemed necessary), development of effective therapeutics, global and regional economic conditions, reduced business and consumer spending due to both job losses and reduced investment activity, and other factors beyond our control.
+The Company had revenues amounting to $346,478 and $771,905, respectively, for the year ended March 31, 2021 and March 31, 2020. Following is a breakdown of revenue for both years:
+Total revenue for the fiscal year ended March 31, 2021 decreased by $425,427 when compared to fiscal year ended March 31, 2020. The decrease is mainly due to the adverse economic condition due to the pandemic.
+For the years ended March 31, 2021 and March 31, 2020, the Company had the following concentrations of revenue with customers:
+The total cost of sales amounted to $285,805 and $255,387 for the years ended March 31, 2021 and March 31, 2020, respectively. The following table presents the Company’s cost of sales breakdown for both years:
+Cost of sales increased by $30,418 in the year ended March 31, 2021 when compared to the year ended March 31, 2020. Major component of decrease in cost of sales is due to increase in product development cost written off.
+The gross income for the years ended March 31, 2021 and March 31, 2020 amounted to $60,673 and $516,518, respectively.
+The total operating expenditure amounted to $391,396 and $559,182 for the years ended March 31, 2021 and March 31 2020, respectively. Total operating expenditure decreased significantly for the year ended March 31, 2021 when compared to March 31, 2020. The Company recorded reductions in general and administrative, salaries and casual wages and depreciation in 2021. The following table sets forth the Company’s operating expenditure analysis for both years:
+Following are the main reasons for the variances in operating expenses of the Company:
+General and Administrative Cost
+During the year ended March 31, 2021, general and administrative costs decreased by 27% when compared to the year ended March 31, 2020.
+Salaries and benefits
+Salaries and benefits decreased by 43% during the year ended March 31, 2021, when compared with the same period in 2020, in line with the reduction in total number of permanent staff during the year.
+The Company moved towards outsourcing of non-core activities and shifting towards contract employment lead to a general decrease in the number of permanent staff, and increase in the overall efficiency in the operations of the company.
+Selling and distribution
+There was a decrease of $2,789 in selling and distribution activities in the year ended March 31, 2021.
+Depreciation and amortization of web site development cost
+Depreciation and amortization expense has decreased by $11,480 during the year ended March 31, 2021, when compared to the year ended March 31, 2020, as the majority of the assets have been fully depreciated.
+Allowance for bad debts
+Allowance for bad debts has increased by $4,153 in the fiscal year ended March 31, 2021, when compared to the fiscal year ended March 31, 2020.
+The loss from operations for the year ended March 31, 2021 and March 31, 2020 amounted to $330,723 and $42,664, respectively.
+The Company’s other income and (expenses) for the year ended March 31, 2021 and March 31, 2020 amounted to ($167,682) and ($276,398), respectively. The following table sets forth the Company’s other income and (expenses) analysis for both years:
+Other expenses decreased by $108.716 during the year ended March 31, 2021 as compared to the other income of the year ended March 31, 2020. This increase was primarily due to decrease in exchange loss during the reporting period.
+The loss before provision for income taxes for the years ended March 31, 2021 and March 31, 2020 amounted to $498,405 and $319,062, respectively.
+The net loss for the years ended March 31, 2021 and March 31, 2020 amounted to $532,856 and $373,330, respectively.
+The Company’s comprehensive loss for the years ended March 31, 2021 and March 31, 2020 amounted to $452,101 and $171,780, respectively.
+For the years ended March 31, 2021 and March 31, 2020, the Company had 67,754,296 and 67,754,296 common shares issued and outstanding, respectively. The weighted average number of shares for the years ended March 31, 2021 and March 31, 2020 was 67,754,296 and 66,737,903, respectively. The loss per share for both years was $(0.00) per share and $(0.00) per share, respectively.
+D. Financial condition as at March 31, 2021 and March 31, 2020:
+Assets:
+The Company reported total assets of $620,286 and $1,074,178 as at March 31, 2021 and March 31, 2020, respectively. 69% of total assets are comprised of intangible assets, 22% of these total assets include net accounts receivables and 3% of total assets include Cash and cash equivalents. Our property and equipment include office equipment, computer equipment (Data Processing Equipment), furniture and fittings, web site developments and improvement to lease- hold assets having a total net book value of $8,974 and $15,915 as at March 31, 2021 and March 31, 2020, respectively. Furthermore, our current assets at March 31, 2020 totaled $403,347 and as at March 31, 2021, these current assets amounted to $183,242 comprised of cash of $21,571, accounts receivable of $135,872, prepaid and other current assets of $24,723 and accrued revenue of $1,076.
+Liabilities:
+The Company had total liabilities of $4,399,384 and $4,401,174 as at March 31, 2021 and March 31, 2020, respectively. Long term liabilities include balances owed to related parties which are outstanding for more than 12 months. Our current liabilities at March 31, 2020 totaled $2,968,055. We have seen a 1% increase in current liabilities amounting to $41,459, making total current liabilities of $3,009,514 as at March 31, 2021. These mainly include short term third party debt, payroll liabilities, payable to related parties, taxes payable, accrued liabilities and our day to day operational creditors.
+Shareholder’s Deficit:
+At March 31, 2020, the Company had shareholders´ deficit of $3,326,996. At March 31, 2021, the Company had shareholders´ deficit of $3,779,098, which represents an increase of $452,102.
+The Company had 67,754,296 and 67,754,296 common shares issued and outstanding at March 31, 2021 and March 31, 2020, respectively and had 5,000,000 preferred shares issued and outstanding at March 31, 2021 and March 31, 2020, respectively.
+E. Liquidity and capital reserves:
+The Company had loss from operations of $330,723 and $42,664 for the years ended March 31, 2021 and March 31, 2020, respectively; a total other income/ expense amounting to ($167,682) and ($276,398) for the year ended March 31, 2021, and March 31, 2020, respectively; and a net loss of $532,856 and $373,330 for the year ended March 31, 2021 and March 31, 2020, respectively.
+In summary, our cash flows for the years ended March 31, 2021 and March 31, 2020 were as follows:
+Since inception, we have financed our operations primarily through internally generated funds and the use of our lines of credit with financial institutions. We had $21,571 in cash; net cash provided by operations of ($130,613) for the year ended March 31, 2021; working capital deficit of $2,826,272 and shareholders´ deficit of $3,779,098 as of March 31, 2021.
+F. Milestones for next twelve months (2021-2022):
+Our specific plan of operations and milestones through March 2022 are as follows:
+1) Product Development and Launch:
+Capitalize on the post-Covid business landscape by completing development of the Saas version of Facetone and launch it online.
+2)
+Consolidate:
+The company will consolidate its business activities in order to become more efficient and re-launch the business.
+3) Knowledge Capital, Learning and Innovation.
+Our greatest strength is our human capital. We have the ability to continue to innovate and set trends within the industries in which we operate, due to our ability to innovate and create value in our products.
+Our management intends to:
+● Continue to empower and create value for our human capital;
+● Encourage disruptive technologies;
+● Provide greater opportunities for knowledge sharing; and
+● Sponsor and motivate learning and adoption of new technologies
+4) Financial Performance
+We intend to:
+● Reduce operational cost and break even.
+● Maximizing the utilization of capital towards revenue generation.
+5) Corporate Social Responsibility
+Our wholly-owned subsidiary, Duo Software (Pvt.) Ltd., was Asia’s first software development company to be certified Carbon Neutral in 2011.
+We intend to be environmentally friendly, and continue with the carbon foot print audit and Carbon Neutral Certification in future.

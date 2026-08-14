@@ -1,0 +1,187 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+The following discussion should be read in conjunction with Item 1 Business, Item 1A Risk Factors and our Consolidated Financial Statements and accompanying Notes included in this Annual Report on Form 10-K commencing on page. Our actual results of operations may differ materially from those discussed in forward-looking statements as a result of various factors, including but not limited to those included in Item 1A, “Risk Factors” and other portions of this Annual Report on Form 10-K. Unless otherwise noted, all dollar amounts in tables are in millions.
+OUR COMPANY
+We operate three of the most globally recognized brands in mobility solutions, Avis, Budget and Zipcar together with several other brands, well recognized in their respective markets. Our brands offer a range of options, from car and truck rental to car sharing in North America, Europe, Australasia and certain other regions we serve, with an average rental fleet of approximately 533,000 vehicles. We also license the use of our trademarks to licensees in the areas in which we do not operate directly. We and our licensees operate our brands in approximately 180 countries throughout the world.
+Business and Trends
+The spread of the novel coronavirus (“COVID-19”) and the impact on travel demand and the global economy has had significant negative impacts on all aspects of our business. Significant events affecting travel have historically had an impact on vehicle rental volumes, with the full extent of the impact generally determined by the length of time the event influences travel decisions. COVID-19 and the resulting economic conditions have had, and we believe will continue to have, a significant negative impact on our operations and vehicle rental volumes and consequently our financial results, and such negative impact may continue well beyond the containment of this outbreak. In particular:
+•Reservation volume was significantly behind the prior year on a comparable basis as a result of the effects of COVID-19, which impacted our peak summer season. We are not able to predict the impact that the COVID-19 pandemic may have on the seasonality of our business, particularly if the pandemic's effects increase.
+•The used vehicle market was significantly disrupted in the first half of the second quarter, impacting our ability to dispose of used vehicles as a result of COVID-19. Beginning in the second half of the second quarter and continuing throughout the third and fourth quarters, the used car market improved significantly. If there are further disruptions due to COVID-19, we may experience a reduction in residual values for risk vehicles in our fleet which could cause us to sustain a substantial loss on the ultimate sale of such vehicles or require us to depreciate those vehicles at a more accelerated rate than we have anticipated. If our ability to sell vehicles in the used vehicle market becomes severely limited again, we may have difficulty meeting collateral requirements due under our asset-backed financing facilities.
+•In April 2020, Moody’s and S&P Global (the “Rating Agencies”) downgraded our long-term corporate debt rating. If we were to experience a further downgrade, this could negatively impact our ability to respond to adverse changes in general economic, industry and competitive conditions, as well as changes in government regulation and changes to our business.
+•As a result of decreased rental volume, we parked our vehicles in overflow parking lots. In April 2020, we experienced a fire at an overflow parking lot near Southwest Florida International Airport. As a result, we have lost vehicles with an estimated carrying value of approximately $50 million. We realized a loss of approximately $10 million related to this incident, which has been treated as COVID-19 charges and excluded from Adjusted EBITDA. We could experience similar casualty losses in other overflow parking lots.
+•We have taken cost removal and mitigation actions by eliminating all non-essential capital and operating expenditures and we are continuing to negotiate with partners and suppliers for further reductions. Expenses for 2020 reflect the reduction or furlough of a large part of our global workforce, reduction of base compensation at the level of vice presidents and above, frozen merit increases, elimination of our 401(k) match for highly compensated employees, and cancellation of future hiring. We aggressively reduced the size of our global fleet beginning in March and ended December with 31% fewer units than the prior year. Our vehicle dispositions will occur through both traditional methods and by utilizing our alternative distribution strategy by selling directly to dealers and consumers. We also negotiated a significant number of new vehicle cancellations during 2020 to improve utilization and shrink the fleet size.
+We have never previously experienced such a decrease in demand, and as a result, our ability to be predictive regarding the impact of such a decrease is uncertain. In addition, the duration of the pandemic is uncertain. As a consequence, we cannot estimate the impact on our business, financial condition or financial forecast or operational results with reasonable certainty. Our results of operations, financial condition, and cash flows were significantly impacted during the year ended December 31, 2020, by the ongoing COVID-19 pandemic. The trends and results for the year ended December 31, 2020 may not be indicative of results that may be expected in the future due to uncertainty regarding the extent and duration of the COVID-19 pandemic.
+A discussion regarding our financial condition and results of operations for the year ended December 31, 2020 compared to 2019 is presented below. A discussion regarding our financial condition and results of operations for the year ended December 31, 2019 compared to 2018 can be found under Item 7 in our Annual Report on Form 10-K for the year ended December 31, 2019, filed with the SEC on February 20, 2020, which is available on the SEC’s website at www.sec.gov and our Investor Relations website at ir.avisbudgetgroup.com.
+We measure performance principally using the following key metrics: (i) rental days, which represent the total number of days (or portion thereof) a vehicle was rented, (ii) revenue per day, which represents revenues divided by rental days, (iii) vehicle utilization, which represents rental days divided by available rental days, available rental days is defined as average rental fleet times the number of days in the period, and (iv) per-unit fleet costs, which represent vehicle depreciation, lease charges and gain or loss on vehicle sales, divided by average rental fleet. Our rental days, revenue per day and vehicle utilization metrics are all calculated based on the actual rental of the vehicle during a 24-hour period. We believe that this methodology provides us with the most relevant metrics in order to manage the business. Our calculation may not be comparable to the calculation of similarly-titled metrics by other companies. We present currency exchange rate effects to provide a method of assessing how our business performed excluding the effects of foreign currency rate fluctuations. Currency exchange rate effects are calculated by translating the current-year results at the prior-period average exchange rate plus any related gains and losses on currency hedges.
+We assess performance and allocate resources based upon the separate financial information of our operating segments. In identifying our reportable segments, we also consider the nature of services provided by our operating segments, the geographical areas in which our segments operate and other relevant factors. Management evaluates the operating results of each of our reportable segments based upon revenues and “Adjusted EBITDA,” which we define as income from continuing operations before non-vehicle related depreciation and amortization, any impairment charges, restructuring and other related charges, early extinguishment of debt costs, non-vehicle related interest, transaction-related costs, net, charges for unprecedented personal-injury and other legal matters, non-operational charges related to shareholder activist activity, gain on sale of equity method investment in China, COVID-19 charges and income taxes. Net charges for unprecedented personal-injury and other legal matters and gain on sale of equity method investment in China are recorded within operating expenses in our consolidated results of operations. Non-operational charges related to shareholder activist activity include third party advisory, legal and other professional service fees and are recorded within selling, general and administrative expenses in our consolidated results of operations. COVID-19 charges include unusual, direct and incremental costs due to the COVID-19 pandemic, such as minimum annual guaranteed rent in excess of concession fees for the period, overflow parking for idle vehicles and related shuttling costs, incremental cleaning supplies to sanitize vehicles and facilities and other charges, and losses associated with vehicles damaged in overflow parking lots, net of insurance proceeds, and are primarily recorded within operating expenses in our consolidated results of operations. We have revised our definition of Adjusted EBITDA to exclude COVID-19 charges. We did not revise prior years' Adjusted EBITDA amounts because there were no other charges similar in nature to these. We believe Adjusted EBITDA is useful as a supplemental
+measure in evaluating the performance of our operating businesses and in comparing our results from period to period. We also believe that Adjusted EBITDA is useful to investors because it allows them to assess our results of operations and financial condition on the same basis that management uses internally. Adjusted EBITDA is a non-GAAP measure and should not be considered in isolation or as a substitute for net income or other income statement data prepared in accordance with U.S. GAAP. Our presentation of Adjusted EBITDA may not be comparable to similarly-titled measures used by other companies.
+Year Ended December 31, 2020 vs. Year Ended December 31, 2019
+Our consolidated results of operations comprised the following:
+Year Ended
+December 31,
+2020 2019 $ Change % Change
+Revenues $ 5,402 $ 9,172 $ (3,770) (41 %)
+Expenses
+Operating 3,322 4,698 (1,376) (29 %)
+Vehicle depreciation and lease charges, net 1,368 2,063 (695) (34 %)
+Selling, general and administrative 703 1,237 (534) (43 %)
+Vehicle interest, net 318 344 (26) (8 %)
+Non-vehicle related depreciation and amortization
+286 263 23 9 %
+Interest expense related to corporate debt, net:
+Interest expense 231 178 53 30 %
+Early extinguishment of debt 9 12 (3) (25 %)
+Restructuring and other related charges 118 80 38 48 %
+Transaction-related costs, net 3 10 (7) (70 %)
+Total expenses 6,358 8,885 (2,527) (28 %)
+Income (loss) before income taxes (956) 287 (1,243) n/m
+Provision for (benefit from) income taxes (272) (15) (257) n/m
+Net income (loss) $ (684) $ 302 $ (986) n/m
+__________
+n/m Not meaningful.
+Because of the impact of COVID-19, revenues decreased during 2020 compared to 2019, driven by a 38% decrease in volume and a 6% decrease in revenue per day excluding exchange rate movements, partially offset by an $8 million benefit from currency exchange rate movements. Total expenses during the year ended December 31, 2020 decreased compared to 2019, primarily due to strategic cost reduction initiatives and reduced operational activities because of the impact of COVID-19.
+During the year ended December 31, 2020, all expenses increased as a percentage of revenue, with the exception of selling, general and administrative costs, as a result of the impact of COVID-19, partially offset by strategic cost reduction initiatives to right-size the business. Operating expenses increased to 61.5% of revenue during 2020 compared to 51.2% in 2019. Vehicle depreciation and lease charges increased to 25.3% of revenue during 2020 compared to 22.5% in 2019. Selling, general and administrative costs decreased to 13.0% of revenue during 2020 compared to 13.5% in 2019, primarily due to strategic cost reduction initiatives to right-size the business. Vehicle interest costs increased to 5.9% of revenue during 2020 compared to 3.8% in 2019.
+Our effective tax rates were a benefit of 28% and 5% for the year ended December 31, 2020 and 2019, respectively, which in 2019 included a $113 million one-time benefit arising from the release of valuation allowances on certain of our foreign deferred tax assets primarily driven by tax planning strategies. As a result of these items, our net income decreased compared to 2019.
+For 2020, the Company reported losses of $9.71 per diluted share. For 2019, the Company reported earnings of $3.98 per diluted share, which includes a one-time benefit arising from the release of valuation allowances on certain of our foreign deferred tax assets primarily driven by tax planning strategies of $1.50 per share.
+Following is a more detailed discussion of the results of each of our reportable segments:
+2020 2019
+Revenues Adjusted EBITDA Revenues Adjusted EBITDA
+Americas $ 3,965 $ 72 $ 6,352 $ 652
+International 1,437 (202) 2,820 203
+Corporate and Other (a)
+- (45) - (67)
+Total Company $ 5,402 $ (175) $ 9,172 $ 788
+Reconciliation of net income (loss) to Adjusted EBITDA
+2020 2019
+Net income (loss) $ (684) $ 302
+Provision for (benefit from) income taxes (272) (15)
+Income (loss) before income taxes (956) 287
+Add: Non-vehicle related depreciation and amortization 286 263
+Interest expense related to corporate debt, net:
+Interest expense 231 178
+Early extinguishment of debt 9 12
+COVID-19 Charges (b)
+122 -
+Restructuring and other related charges (c)
+118 80
+Unprecedented personal-injury and other legal matters, net (d)
+8 -
+Non-operational charges related to shareholder activist activity (e)
+4 2
+Transaction-related costs, net (f)
+3 10
+Gain on sale of equity method investment in China (d)
+- (44)
+Adjusted EBITDA $ (175) $ 788
+__________
+(a) Includes unallocated corporate overhead which is not attributable to a particular segment.
+(b) For the year ended December 31, 2020, consists of $116 million within operating expenses, $5 million within selling, general and administrative expenses and $1 million within vehicle depreciation and lease charges, net in our consolidated results of operations. Primarily consisting of $60 million of minimum annual guaranteed rent in excess of concession fees, $48 million of incremental cleaning supplies to sanitize vehicles and facilities, overflow parking for idle vehicles and related shuttling costs and other charges and $14 million of losses associated with vehicles damaged in overflow parking lots, net of insurance proceeds.
+(c) Other related charges include costs associated with the separation of certain officers of the Company.
+(d) Reported within operating expenses in our consolidated results of operations.
+(e) Reported within selling, general and administrative expenses in our consolidated results of operations.
+(f) Primarily comprised of acquisition- and integration-related expenses.
+Americas
+2020 2019 % Change
+Revenues $ 3,965 $ 6,352 (38 %)
+Adjusted EBITDA 72 652 (89 %)
+Revenues decreased 38% during 2020, compared to 2019, primarily due to a 36% decrease in volume and a 3% decrease in revenue per day excluding exchange rate effects as a result of the impact of COVID-19.
+Operating expenses increased to 58.9% of revenue during 2020 compared to 50.2% in 2019, primarily due to impacts directly related to COVID-19, partially offset by strategic cost reduction initiatives to right-size the
+business. Vehicle depreciation and lease charges increased to 24.4% of revenue during 2020 compared to 23.0% in 2019, primarily due to impacts directly related to COVID-19, partially offset by 23% lower per-unit fleet costs. Selling, general and administrative costs decreased to 10.5% of revenue during 2020 compared to 12.1% in 2019, primarily due to strategic cost reduction initiatives to right-size the business. Vehicle interest costs increased to 6.9% of revenue during 2020 compared to 4.5% in 2019, primarily due to impacts directly related to COVID-19, partially offset by strategic cost reduction initiatives to right-size the business.
+Adjusted EBITDA decreased 89% during 2020, compared to 2019, due to lower revenues directly related to COVID-19.
+International
+2020 2019 % Change
+Revenues $ 1,437 $ 2,820 (49 %)
+Adjusted EBITDA (202) 203 n/m
+Revenues decreased 49% during 2020, compared to 2019, primarily due to a 42% decrease in volume and a 13% decrease in revenue per day excluding exchange rate movements as a result of the impact of COVID-19, partially offset by a $9 million benefit from currency exchange rate movements.
+During the year ended December 31, 2020, all expenses increased as a percentage of revenue as a result of the impact of COVID-19, partially offset by strategic cost reduction initiatives to right-size the business. Operating expenses increased to 68.5% of revenue during 2020 compared to 53.5% in 2019. Vehicle depreciation and lease charges increased to 27.9% of revenue during 2020 compared to 21.3% in 2019. Selling, general and administrative costs increased to 16.5% of revenue during 2020 compared to 14.3% in 2019. Vehicle interest costs increased to 3.1% of revenue during 2020 compared to 2.1% in 2019.
+Adjusted EBITDA decreased during 2020, compared to 2019, due to lower revenues directly related to COVID-19.
+Corporate and Other
+2020 2019 % Change
+Revenues $ - $ - n/m
+Adjusted EBITDA (45) (67) n/m
+__________
+n/m Not meaningful.
+Adjusted EBITDA decreased $22 million during 2020, compared to 2019, primarily due to lower selling, general and administrative expenses related to cost reduction initiatives, which are not attributable to a particular segment.
+We present separately the financial data of our vehicle programs. These programs are distinct from our other activities as the assets under vehicle programs are generally funded through the issuance of debt that is collateralized by such assets. The income generated by these assets is used, in part, to repay the principal and interest associated with the debt. Cash inflows and outflows relating to the generation or acquisition of such assets and the principal debt repayment or financing of such assets are classified as activities of our vehicle programs. We believe it is appropriate to segregate the financial data of our vehicle programs because, ultimately, the source of repayment of such debt is the realization of such assets.
+FINANCIAL CONDITION
+As of December 31,
+2020 2019 Change
+Total assets exclusive of assets under vehicle programs $ 8,365 $ 9,311 $ (946)
+Total liabilities exclusive of liabilities under vehicle programs 9,053 8,538 515
+Assets under vehicle programs 9,173 13,815 (4,642)
+Liabilities under vehicle programs 8,640 13,932 (5,292)
+Stockholders’ equity (155) 656 (811)
+The decrease in assets and liabilities under vehicle programs compared to 2019 is primarily related to the reduction of our vehicle rental fleet to right-size our business in response to the COVID-19 pandemic. The decrease in stockholders’ equity compared to 2019 is primarily due to our comprehensive loss and share repurchases.
+LIQUIDITY AND CAPITAL RESOURCES
+Overview
+Our principal sources of liquidity are cash on hand and our ability to generate cash through operations and financing activities, as well as available funding arrangements and committed credit facilities, each of which is discussed below.
+During 2020, our Avis Budget Rental Car Funding subsidiary issued approximately $700 million and $650 million in asset-backed notes with an expected final payment date of August 2025 and February 2026, and a weighted average interest rate of 2.42% and 2.28%, respectively. The proceeds from these borrowings were used to fund the repayment of maturing vehicle-backed debt and the acquisition of rental cars in the United States.
+In April 2020, we entered into an amendment (the “Amendment”) to our senior credit facilities, consisting of an approximately $1.2 billion term loan maturing in 2027 and a $1.8 billion revolving credit facility maturing in 2023, which remain in place after the Amendment. The Amendment provides for relief from the quarterly-tested leverage covenant contained in the credit agreement governing the senior credit facilities until the end of a specific relief period, including a holiday from such leverage covenant through June 30, 2021, during which time (i) certain negative covenant exceptions are not available to the Company, (ii) pricing on the senior credit facilities is increased, (iii) the Company must comply with a liquidity covenant and additional reporting requirements and (iv) the Company must meet additional conditions to borrow under the revolving credit facility.
+In May 2020, we issued $500 million of 10½% Senior Secured Notes due May 2025. We used the proceeds from this offering for general corporate purposes. In August 2020, we issued $350 million of additional 5¾% Senior Notes due July 2027 to redeem the outstanding $100 million in aggregate principal amount of our 5½% Senior Notes due 2023, with the remainder being used for general corporate purposes.
+During the first quarter of 2020, we repurchased approximately 5.0 million shares of our outstanding common stock for approximately $113 million.
+Cash Flows
+Year Ended December 31, 2020 vs. Year Ended December 31, 2019
+The following table summarizes our cash flows:
+Year Ended December 31,
+2020 2019 Change
+Cash provided by (used in):
+Operating activities $ 691 $ 2,586 $ (1,895)
+Investing activities 3,177 (2,752) 5,929
+Financing activities (4,045) 318 (4,363)
+Effect of changes in exchange rates on cash and cash equivalents, program and restricted cash
+42 13 29
+Net change in cash and cash equivalents, program and restricted cash
+(135) 165 (300)
+Cash and cash equivalents, program and restricted cash, beginning of period
+900 735 165
+Cash and cash equivalents, program and restricted cash, end of period
+$ 765 $ 900 $ (135)
+Cash provided by operating activities during 2020 was substantially lower compared with 2019 due to reduced operational activities as a result of the impact of COVID-19.
+The decrease in cash used in investing activities during 2020 compared with 2019 is primarily due to a decrease in investment in vehicles.
+The decrease in cash provided by financing activities during 2020 compared with 2019 is primarily due to a decrease in net borrowings under vehicle programs.
+We anticipate that our non-vehicle property and equipment additions will be approximately $235 million in 2021.
+Debt and Financing Arrangements
+At December 31, 2020, we had approximately $11.1 billion of indebtedness (including corporate indebtedness of approximately $4.2 billion and debt under vehicle programs of approximately $6.9 billion). For detailed information regarding our debt and borrowing arrangements, see Notes 13 and 14 to our Consolidated Financial Statements.
+Our primary liquidity needs include the procurement of rental vehicles to be used in our operations, servicing of corporate and vehicle-related debt and the payment of operating expenses. The present intention of management is to reinvest the undistributed earnings of our foreign subsidiaries indefinitely into our foreign operations. Our primary sources of funding are operating revenue, cash received upon the sale of vehicles, borrowings under our vehicle-backed borrowing arrangements and our senior revolving credit facility, and other financing activities.
+Our liquidity position has been impacted by COVID-19 as a result of significant volume declines and we expect the impact of COVID-19 on the U.S. and worldwide economies to continue to affect our volumes even after the outbreak is contained. Our liquidity could be further negatively affected by any financial market disruptions or the absence of a recovery or worsening of the U.S. and worldwide economies, which may result in unfavorable conditions in the mobility industry, in the asset-backed financing market and in the credit markets generally. We believe these factors have affected and could further affect the debt ratings assigned to us by credit rating agencies and the cost of our borrowings. Additionally, a worsening or prolonged downturn in the worldwide economy or a disruption in the credit markets could further impact our liquidity due to (i) decreased demand and pricing for vehicles in the used-vehicle market, (ii) increased costs associated with, and/or reduced capacity or increased collateral needs under, our financings, (iii) the adverse impact of vehicle manufacturers being unable or unwilling to honor their obligations to repurchase or guarantee the depreciation on the related program vehicles and (iv) disruption in our ability to obtain financing due to negative credit events specific to us or affecting the overall debt market (see Item 1A. Risk Factors for further discussion).
+As of December 31, 2020, we had access to $0.7 billion of available cash and cash equivalents and available borrowings under our revolving credit facility of approximately $0.6 billion, providing us with access to an approximate $1.3 billion of total liquidity. See Note 1 to our Consolidated Financial Statements for detailed information on liquidity and management’s plans.
+Our liquidity position could also be negatively impacted if we are unable to remain in compliance with the new liquidity covenant, the consolidated first lien leverage ratio requirement after the end of the waiver period on June 30, 2021 and other covenants associated with our senior credit facilities and other borrowings. As of December 31, 2020, we were in compliance with the financial covenants governing our indebtedness.
+CONTRACTUAL OBLIGATIONS
+The following table summarizes our principal future contractual obligations as of December 31, 2020:
+2021 2022 2023 2024 2025 Thereafter Total
+Corporate debt $ 19 $ 18 $ 18 $ 732 $ 1,182 $ 2,289 $ 4,258
+Debt under vehicle
+programs 1,626 2,444 1,224 885 621 102 6,902
+Debt interest 481 414 353 276 156 130 1,810
+Operating leases 686 498 424 297 223 1,081 3,209
+Commitments to purchase vehicles (a)
+8,740 - - - - - 8,740
+Defined benefit pension plan contributions (b)
+9 - - - - - 9
+Other purchase
+commitments (c)
+86 53 27 7 4 - 177
+Total (d)
+$ 11,647 $ 3,427 $ 2,046 $ 2,197 $ 2,186 $ 3,602 $ 25,105
+__________
+(a)Represents commitments to purchase vehicles, the majority of which are from Ford, Fiat Chrysler and General Motors. These commitments are generally subject to the vehicle manufacturers satisfying their obligations under the repurchase and guaranteed depreciation agreements. The purchase of such vehicles is generally financed through borrowings under vehicle programs in addition to cash received upon the sale of vehicles, some of which were purchased under repurchase and guaranteed depreciation programs (see Note 15 to our Consolidated Financial Statements).
+(b)Represents the expected contributions to our defined benefit pension plans in 2021. The amount of future contributions to our defined benefit pension plans will depend on the rates of return generated from plan assets and other factors (see Note 18 to our Consolidated Financial Statements) and are not included above.
+(c)Primarily represents commitments under service contracts for information technology, telecommunications and marketing agreements with travel service companies.
+(d)Excludes income tax uncertainties of $24 million, $13 million of which is subject to indemnification by Realogy and Wyndham. We are unable to estimate the period in which these income tax uncertainties are expected to be settled.
+For more information regarding guarantees and indemnifications, see Note 15 to our Consolidated Financial Statements.
+ACCOUNTING POLICIES
+Critical Accounting Policies
+In presenting our financial statements in conformity with GAAP, we are required to make estimates and assumptions that affect the amounts reported therein. Several of the estimates and assumptions we are required to make relate to matters that are inherently uncertain as they pertain to future events and/or events that are outside of our control. If there is a significant unfavorable change to current conditions, it could result in a material adverse impact to our consolidated results of operations, financial position and liquidity. We believe that the estimates and assumptions we used when preparing our financial statements were the most appropriate at that time. Presented below are those accounting policies that we believe require subjective and complex judgments that could potentially affect reported results. However, our businesses operate in environments where we are paid a fee for a service performed, and therefore the results of the majority of our recurring operations are recorded in our financial statements using accounting policies that are not particularly subjective, nor complex.
+Goodwill and Other Indefinite-lived Intangible Assets. We have reviewed the carrying value of our goodwill and other indefinite-lived intangible assets for impairment. In performing this review, we are required to make an assessment of fair value for our goodwill and other indefinite-lived intangible assets. When determining fair value, we utilize various assumptions, including the fair market trading price of our common stock and management’s
+projections of future cash flows, which include forecast of future revenue and Adjusted EBITDA. A change in these underlying assumptions will cause a change in the results of the tests and, as such, could cause the fair value to be less than the respective carrying amount. In such event, we would then be required to record a charge, which would impact earnings. We review the carrying value of goodwill and other indefinite-lived intangible assets for impairment annually or more frequently if circumstances indicate that an impairment may have occurred.
+Our goodwill and other indefinite-lived intangible assets are allocated among our reporting units. During 2020, 2019 and 2018, there was no impairment of goodwill and no material impairment of other intangible assets, see Note 7 to our Consolidated Financial Statements. For our Europe, Middle East and Africa (“EMEA”) reporting unit, the percentage by which the estimated fair value exceeded the carrying value as of October 1, 2020 was 17% and the amount of goodwill allocated to our reporting unit was $488 million. We will continue to closely monitor actual results versus our expectations as well as any significant changes in events or conditions, including the impact of COVID-19 on our business and the travel industry, and the resulting impact to our assumptions about future estimated cash flows, the discount rate and market multiples. In the future, failure to achieve our business plans, a further deterioration of the general economic conditions of the countries in which we operate, or significant changes in the assumptions and estimates that are used in our impairment testing for goodwill and indefinite-lived intangible assets (such as the discount rate) could result in significantly different estimates of fair value that could trigger an impairment of the goodwill of our reporting units or intangible assets.
+Vehicles. We present vehicles at cost, net of accumulated depreciation, on the Consolidated Balance Sheets. We record the initial cost of the vehicle, net of incentives and allowances from manufacturers. We acquire our rental vehicles either through repurchase and guaranteed depreciation programs with certain automobile manufacturers or outside of such programs. For rental vehicles purchased under such programs, we depreciate the vehicles such that the net book value on the date of sale or return to the manufacturers is intended to equal the contractual guaranteed residual values. For risk vehicles acquired outside of manufacturer repurchase and guaranteed depreciation programs, we depreciate based on the vehicles’ estimated residual market values at their expected dates of disposition. The estimation of residual values requires the Company to make assumptions regarding the age and mileage of the vehicle at the time of disposal, as well as expected used vehicle market conditions. The Company regularly evaluates estimated residual values and adjusts depreciation rates as appropriate. Differences between actual residual values and those estimated result in a gain or loss on disposal and are recorded as part of vehicle depreciation and lease charges, net, at the time of sale. See Note 2 to our Consolidated Financial Statements.
+Income Taxes. We account for income taxes under the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been reflected in the financial statements. Under this method, deferred tax assets and liabilities are determined based on the differences between the financial statement and tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period that includes the enactment date.
+We record net deferred tax assets to the extent we believe these assets will more likely than not be realized. In making such determination, we consider all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies and recent results of operations. In the event we were to determine that we would be able to realize deferred income tax assets in the future in excess of their net recorded amount, we would make an adjustment to the valuation allowance which would reduce the provision for income taxes. Currently we do not record valuation allowances on the majority of our tax loss carryforwards as there are adequate deferred tax liabilities that could be realized within the carryforward period.
+See Notes 2 and 9 to our Consolidated Financial Statements for more information regarding income taxes.
+Public Liability, Property Damage and Other Insurance Liabilities. Insurance liabilities on our Consolidated Balance Sheets include supplemental liability insurance, personal effects protection insurance, public liability, property damage and personal accident insurance claims for which we are self-insured. We estimate the required liability of such claims on an undiscounted basis utilizing an actuarial method that is based upon various assumptions which include, but are not limited to, our historical loss experience and projected loss development factors. The required liability is also subject to adjustment in the future based upon changes in claims experience, including changes in the number of incidents for which we are ultimately liable and changes in the cost per incident.
+Adoption of New Accounting Pronouncements
+For a description of our adoption of new accounting pronouncements and the impact thereof on our business, see Note 2 to our Consolidated Financial Statements.
+Recently Issued Accounting Pronouncements
+For a description of recently issued accounting pronouncements and the impact thereof on our business, see Note 2 to our Consolidated Financial Statements.

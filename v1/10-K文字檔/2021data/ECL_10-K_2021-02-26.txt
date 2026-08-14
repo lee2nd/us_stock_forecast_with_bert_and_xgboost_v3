@@ -1,0 +1,1294 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following management discussion and analysis (“MD&A”) provides information that we believe is useful in understanding our operating results, cash flows and financial condition. We provide quantitative information about the material sales drivers including the impact of changes in volume and pricing and the effect of acquisitions and changes in foreign currency at the corporate and reportable segment level. We also provide quantitative information regarding special (gains) and charges, discrete tax items and other significant factors we believe are useful for understanding our results. Such quantitative drivers are supported by comments meant to be qualitative in nature. Qualitative factors are generally ordered based on estimated significance.
+The discussion should be read in conjunction with the consolidated financial statements and related notes included in this Form 10-K. Our consolidated financial statements are prepared in accordance with U.S. GAAP. This discussion contains various Non-GAAP Financial Measures and also contains various forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We refer readers to the statements and information set forth in the sections entitled “Non-GAAP Financial Measures” at the end of this MD&A, and “Forward-Looking Statements” and “Risk Factors” within Items 1 and 1A of this Form 10-K. We also refer readers to the tables within the section entitled “Results of Operations” of this MD&A for reconciliation information of Non-GAAP measures to U.S. GAAP.
+Comparability of Results
+ChampionX Transaction
+On June 3, 2020, we completed the previously announced separation of our Upstream Energy business (the “ChampionX business”) in a Reverse Morris Trust transaction (the “Transaction”) through the split-off of ChampionX Holding Inc. (“ChampionX”), formed by Ecolab as a wholly owned subsidiary to hold the ChampionX Business, followed immediately by the merger of ChampionX (the “Merger”) with a wholly owned subsidiary of ChampionX Corporation (f/k/a Apergy Corporation, “Apergy”).
+The ChampionX business met the criteria to be reported as discontinued operations because the separation of ChampionX is a strategic shift in business that has a major effect on our operations and financial results. Therefore, we report the historical results of ChampionX, including the results of operations, cash flows, and related assets and liabilities, as discontinued operations for all periods presented herein. Unless otherwise noted, the accompanying MD&A has been revised to reflect the ChampionX business as discontinued operations and prior year balances have been revised accordingly to reflect continuing operations only.
+Fixed Currency Foreign Exchange Rates
+Management evaluates the sales and operating income performance of our non-U.S. dollar functional currency international operations based on fixed currency exchange rates, which eliminate the impact of exchange rate fluctuations on our international operations. Fixed currency amounts are updated annually at the beginning of each year based on translation into U.S. dollars at foreign currency exchange rates established by management, with all periods presented using such rates. Public currency rate data provided within the “Segment Performance” section of this MD&A reflect amounts translated at actual public average rates of exchange prevailing during the corresponding period and is provided for informational purposes only.
+Comparability of Reportable Segments
+Effective in the first quarter of 2020, and in anticipation of the separation of the Upstream Energy business, we created the Upstream and Downstream operating segments from the Global Energy operating segment, which was also a reportable segment. Subsequent to the separation of ChampionX, we will no longer report the Upstream Energy segment, which previously held the ChampionX business.
+The Downstream operating segment has been aggregated into the Global Industrial reportable segment. Also, in the first quarter of 2020, we announced leadership changes which allow for shared oversight and focus on the Healthcare and Life Sciences operating segments and established the Global Healthcare & Life Sciences reportable segment. This segment is comprised of the Healthcare operating segment which was previously aggregated in the Global Institutional reportable segment and the Life Sciences operating segment which was previously aggregated in the Global Industrial reportable segment. Additionally, the Textile Care operating segment, which is now being reported in Other, had previously been aggregated in the Global Industrial reportable segment. We also renamed the Global Institutional reportable segment to the Global Institutional & Specialty reportable segment. We made other immaterial changes, including the movement of certain customers and cost allocations between reportable segments.
+Impact of Acquisitions and Divestitures
+Acquisition adjusted growth rates exclude the results of our acquired businesses from the first twelve months post acquisition, the results of our divested businesses from the twelve months prior to divestiture and the Venezuelan results of operations from all comparable periods.
+EXECUTIVE SUMMARY
+In 2020, we faced significant effects from the COVID-19 pandemic. While the greater use of cleaning and sanitizing products benefited consolidated results and led to strong growth in the Healthcare & Life Sciences segment, this was more than offset by reduced overall volumes in the Institutional & Specialty, Industrial and Other segments primarily due to lower levels of global economic activity resulting from mandated government restrictions implemented to control the pandemic spread. Despite the range of actions we took to expand our sales and benefit our earnings through new products, programs, investments in the business and cost efficiency programs, as well as to position us for long term growth, the more substantial impact from the pandemic resulted in lower sales and a significant earnings decline for the full year.
+Sales
+Reported sales decreased 6% to $11.8 billion in 2020 from $12.6 billion in 2019. When measured in fixed rates of foreign currency exchange, fixed currency sales decreased 5% compared to the prior year. Acquisition adjusted fixed currency sales decreased 7% compared to the prior year.
+Gross Margin
+Our reported gross margin was 41.4% of sales for 2020, compared to our 2019 reported gross margin of 43.9%. Excluding the impact of special (gains) and charges included in cost of sales from both 2020 and 2019, our adjusted gross margin was 41.8% in 2020 and 44.2% in 2019.
+Operating Income
+Reported operating income decreased 24% to $1.4 billion in 2020, compared to $1.8 billion in 2019. Adjusted operating income, excluding the impact of special (gains) and charges, decreased 19% in 2020. When measured in fixed rates of foreign currency exchange, adjusted fixed currency operating income decreased 18% in 2020.
+Earnings from Continuing Operations Attributable to Ecolab Per Common Share (“EPS”)
+Reported continuing operations diluted EPS decreased 32% to $3.33 in 2020 compared to $4.87 in 2019. Special (gains) and charges had an impact on both years. Special (gains) and charges in 2020 were driven primarily by the impact of debt refinancing charges, restructuring charges, disposal and impairment charges, discrete tax items, acquisition and integration charges, charges for pay protection for certain employees impacted by COVID-19 net of government subsidies and litigation and other charges. Special (gains) and charges in 2019 were driven primarily by the impact of restructuring charges, discrete tax items, acquisition and integration charges and litigation and other charges. Special (gains) and charges in 2018 were driven primarily by the impact of restructuring charges and our commitment to the Ecolab Foundation. Adjusted continuing operations diluted EPS, which exclude the impact of special (gains) and charges and discrete tax items decreased 21% to $4.02 in 2020 compared to $5.12 in 2019.
+Balance Sheet
+We remain committed to maintaining “A” range ratings metrics, supported by our current credit ratings of A-/Baa1/A- by Standard & Poor’s, Moody’s Investor Services and Fitch, respectively. Our strong balance sheet has allowed us continued access to capital at attractive rates.
+Net Debt to EBITDA
+Our net debt to earnings before interest, taxes, depreciation and amortization (“EBITDA”) was 2.4 and 2.3 for 2020 and 2019, respectively. We view these ratios as important indicators of the operational and financial health of our organization. See the “Net Debt to EBITDA” table on page 45 for reconciliation information.
+Cash Flow
+Cash flow from continuing operations operating activities was $1.7 billion in 2020 compared to $2.0 billion in 2019. We continued to generate strong cash flow from operations, allowing us to fund our ongoing operations, acquisitions, investments in our business, debt repayments, pension obligations and return cash to our shareholders through share repurchases and dividend payments.
+Dividends
+We increased our quarterly cash dividend 2% in December 2020, bringing annual dividends declared to $1.89 per share. The increase represents our 29th consecutive annual dividend rate increase and the 84th consecutive year we have paid cash dividends. Our outstanding dividend history reflects our long term growth and development, strong cash flows, solid financial position and confidence in our business prospects for the years ahead.
+CRITICAL ACCOUNTING ESTIMATES
+Our consolidated financial statements are prepared in accordance with U.S. GAAP. We have adopted various accounting policies to prepare the consolidated financial statements in accordance with U.S. GAAP. Our significant accounting policies are disclosed in Note 2 of the Notes to the Consolidated Financial Statements (“Notes”).
+Preparation of our consolidated financial statements, in conformity with U.S. GAAP, requires us to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Estimates are considered to be critical if they meet both of the following criteria: (1) the estimate requires assumptions to be made about matters that are highly uncertain at the time the accounting estimate is made, and (2) different estimates that we reasonably could have used for the accounting estimate in the current period, or changes in the accounting estimate that are reasonably likely to occur from period to period, have a material impact on the presentation of our financial condition or results of operations.
+In March 2020, coronavirus 2019 (“COVID-19”) was declared a pandemic (“pandemic”) by the World Health Organization. As the impact of the pandemic continues to evolve, estimates and assumptions about future events and their effects cannot be determined with certainty and therefore require judgment. These estimates and assumptions may change in future periods and will be recognized in the consolidated financial information as new events occur and additional information becomes known. To the extent actual results differ materially from those estimates and assumptions, our future financial statements could be affected.
+Besides estimates that meet the “critical” estimate criteria, we make many other accounting estimates in preparing our financial statements and related disclosures. All estimates, whether or not deemed critical, affect reported amounts of assets, liabilities, revenues or expenses as well as disclosures of contingent assets and liabilities. Estimates are based on experience and other information available prior to the issuance of the financial statements. Materially different results can occur as circumstances change and additional information becomes known, even from estimates not deemed critical. Our critical accounting estimates include the following:
+Revenue Recognition
+Revenue is measured as the amount of consideration expected to be received in exchange for transferring goods or providing service. Revenue from product and sold equipment is recognized when obligations under the terms of a contract with the customer are satisfied, which generally occurs with the transfer of the product or delivery of the equipment. Revenue from service and leased equipment is recognized when the services are provided, or the customer receives the benefit from the leased equipment, which is over time. Service revenue is recognized over time utilizing an input method and aligns with when the services are provided. Typically, revenue is recognized over time using costs incurred to date because the effort provided by the field selling and service organization represents services provided, which corresponds with the transfer of control. Revenue for leased equipment is accounted for under Topic 842 Leases and recognized on a straight-line basis over the length of the lease contract.
+Our revenue policies do not provide for general rights of return. We record estimated reductions to revenue for customer programs and incentive offerings including pricing arrangements, promotions and other volume-based incentives based primarily on historical experience and anticipated performance over the contract period. Depending on market conditions, we may increase customer incentive offerings, which could reduce gross profit margins over the term of the incentive. We also record estimated reserves for product returns and credits based on specific circumstances and credit conditions. We record an allowance for uncollectible accounts based on our estimates of expected future credit losses. For additional information on our allowance for doubtful accounts, see discussion below.
+The revenue standard can be applied to a portfolio of contracts with similar characteristics if it is reasonable that the effects of applying the standard at the portfolio would not be significantly different than applying the standard at the individual contract level. We apply the portfolio approach primarily within each operating segment by geographical region. Application of the portfolio approach was focused on those characteristics that have the most significant accounting consequences in terms of their effect on the timing of revenue recognition or the amount of revenue recognized. We determined the key criteria to assess with respect to the portfolio approach, including the related deliverables, the characteristics of the customers and the timing and transfer of goods and services, which most closely aligned within the operating segments. In addition, the accountability for the business operations, as well as the operational decisions on how to go to market and the product offerings, are performed at the operating segment level. For additional information on revenue recognition, see Note 18.
+Valuation Allowances and Accrued Liabilities
+Allowances for Doubtful Accounts
+Accounts receivable are carried at the invoiced amounts, less an allowance for doubtful accounts, and generally do not bear interest. Our allowance for doubtful accounts reflects our expectations of expected credit losses and is determined by analyzing accounts receivable balances by age and applying historical write-off and collection trend rates. Our estimates separately consider macroeconomic trends and specific circumstances and credit conditions of customer receivables. Account balances are written off against the allowance when it is determined the receivable will not be recovered.
+Our allowance for doubtful accounts balance was $84 million and $56 million, as of December 31, 2020 and 2019, respectively. These amounts include our allowance for sales returns and credits of $16 million and $17 million as of December 31, 2020 and 2019, respectively. Our bad debt expense as a percent of reported net sales was 0.5%, 0.2% and 0.1% in 2020, 2019, and 2018. Our 2020 bad debt expense reflects a slight deterioration in the collectability of our credit portfolio due to the COVID-19 pandemic. We believe that the COVID-19 pandemic may continue to have an impact on future results consistent with 2020 experience. However, if the financial condition of our customers were to deteriorate, resulting in an inability to make payments, or if unexpected events, economic downturns, or significant changes in future trends were to occur, additional allowances may be required. For additional information on our allowance for doubtful accounts, see Note 2.
+Accrued Liabilities
+Our business and operations are subject to extensive environmental laws and regulations governing, among other things, air emissions, wastewater discharges, the use and handling of hazardous substances, waste disposal and the investigation and remediation of soil and groundwater contamination. Some risk of environmental liability is inherent in our operations.
+We record liabilities related to pending litigation, environmental claims and other contingencies when a loss is probable and can be reasonably estimated. Estimates used to record such liabilities are based on our best estimate of probable future costs. We record the amounts that represent the points in the range of estimates that we believe are most probable or the minimum amount when no amount within the range is a better estimate than any other amount. Potential insurance reimbursements generally are not anticipated in our accruals for environmental liabilities or other insured losses. Expected insurance proceeds are recorded as receivables when recovery is deemed certain. While the final resolution of litigation and environmental contingencies could result in amounts different than current accruals, and therefore have an impact on our consolidated financial results in a future reporting period, we believe the ultimate outcome will not have a significant impact on our consolidated financial position. For additional information on our commitments and contingencies, see Note 16.
+Actuarially Determined Liabilities
+Pension and Postretirement Healthcare Benefit Plans
+The measurement of our pension and postretirement benefit obligations are dependent on a variety of assumptions determined by management and used by our actuaries. These assumptions affect the amount and timing of future contributions and expenses.
+The significant assumptions used in developing the required estimates are the discount rate, expected return on assets, projected salary and health care cost increases and mortality table.
+● The discount rate assumptions for our U.S. plans are assessed using a yield curve constructed from a subset of bonds yielding greater than the median return from a population of non-callable, corporate bond issues that have an average rating of AA when averaging available Moody’s Investor Services, Standard & Poor’s and Fitch ratings. The discount rate is calculated by matching the plans’ projected cash flows to the bond yield curve. For 2020 and 2019, we measured service and interest costs by applying the specific spot rates along that yield curve to the plans’ liability cash flows. We believe this approach provides a more precise measurement of service and interest costs by aligning the timing of the plans’ liability cash flows to the corresponding spot rates on the yield curve. In determining our U.S. pension obligations for 2020, our weighted-average discount rate decreased to 2.48% from 3.20% at year end 2019. In determining our U.S. postretirement health care obligation for 2020, our weighted-average discount rate decreased to 2.37% from 3.16% at year end 2019.
+● The expected rate of return on plan assets reflects asset allocations, investment strategies and views of investment advisors, and represents our expected long-term return on plan assets. Our weighted-average expected return on U.S. plan assets used in determining the U.S. pension and U.S. postretirement health care expenses was 7.25% for 2021, 2020 and 2019.
+● Projected salary and health care cost increases are based on our long-term actual experience, the near-term outlook and assumed inflation. Our weighted-average projected salary increase used in determining the U.S. pension expenses was 4.03% for 2020, 2019 and 2018.
+● For postretirement benefit measurement purposes as of December 31, 2020, the annual rates of increase in the per capita cost of covered health care were assumed to be 8.00% for pre-65 costs and 10.75% for post-65 costs. The rates are assumed to decrease each year until they reach 5% in 2028 and remain at those levels thereafter.
+● In determining our U.S. pension and U.S. postretirement health care obligation for 2020, we utilized the most recent mortality table, MP-2020 projection scale (applied to the Pri-2012 mortality table).
+The effects of actual results differing from our assumptions, as well as changes in assumptions, are reflected in the unrecognized actuarial loss and amortized over future periods and, therefore, will generally affect our recognized expense in future periods. Significant differences in actual experience or significant changes in assumptions may materially affect future pension and other postretirement obligations. The unrecognized net actuarial loss on our U.S. qualified and non-qualified pension plans increased to $691 million as of December 31, 2020 from $632 million as of December 31, 2019 (both before tax), primarily due to current year net actuarial losses.
+The effect of a decrease in the discount rate or decrease in the expected return on assets assumption as of December 31, 2020, on the December 31, 2020 defined benefit obligation and 2021 expense is shown below, assuming no changes in benefit levels and no amortization of gains or losses for our significant U.S. plans. Expense amounts reflect the accounting for actuarial gains as a component of other comprehensive income and recognition of the impacts into income over the remaining service period:
+Effect on U.S. Pension Plans
+Increase in
+Higher
+Assumption
+Recorded
+(millions)
+Change
+Obligation
+Expense
+Discount rate
+-0.25 pts
+$71.9
+$3.3
+Expected return on assets
+-0.25 pts
+N/A
+5.3
+Effect on U.S. Postretirement
+Health Care Benefits Plans
+Increase in
+Higher
+Assumption
+Recorded
+(millions)
+Change
+Obligation
+Expense
+Discount rate
+-0.25 pts
+$4.5
+$0.2
+Expected return on assets
+-0.25 pts
+N/A
+-
+Our international pension obligations and underlying plan assets represent approximately one third of our global pension plans, with the majority of the amounts held in the U.K. and Eurozone countries. We use assumptions similar to our U.S. plan assumptions to measure our international pension obligations, however, the assumptions used vary by country based on specific local country requirements and information.
+See Note 17 for further discussion concerning our accounting policies, estimates, funded status, contributions and overall financial positions of our pension and postretirement plan obligations.
+Self-Insurance
+Globally we have insurance policies with varying deductible levels for property and casualty losses. We are insured for losses in excess of these deductibles, subject to policy terms and conditions and have recorded both a liability and an offsetting receivable for amounts in excess of these deductibles. We are self-insured for health care claims for eligible participating employees, subject to certain deductibles and limitations. We determine our liabilities for claims on an actuarial basis.
+Restructuring
+Our restructuring activities are associated with plans to enhance our efficiency, effectiveness and sharpen the competitiveness of our businesses. These restructuring plans include net costs associated with significant actions involving employee-related severance charges, contract termination costs and asset write-downs and disposals. Employee termination costs are largely based on policies and severance plans, and include personnel reductions and related costs for severance, benefits and outplacement services. These charges are reflected in the quarter in which the actions are probable and the amounts are estimable, which typically is when management approves the associated actions. Contract termination costs include charges to terminate leases prior to the end of their respective terms and other contract termination costs. Asset write-downs and disposals include leasehold improvement write-downs, other asset write-downs associated with combining operations and disposal of assets.
+Restructuring charges have been included as a component of cost of sales and special (gains) and charges on the Consolidated Statement of Income. Amounts included as a component of cost of sales include supply chain related severance and other asset write-downs associated with combining operations. Restructuring liabilities have been classified as a component of both other current and other noncurrent liabilities on the Consolidated Balance Sheet. Our restructuring liability balance was $102 million and $103 million as of December 31, 2020 and 2019, respectively. For additional information on our restructuring activities, see Note 3.
+Income Taxes
+Judgment is required to determine the annual effective income tax rate, deferred tax assets and liabilities, valuation allowances recorded against net deferred tax assets and uncertain tax positions.
+On December 22, 2017, the Tax Cuts and Jobs Act (the “Tax Act”) was enacted, which reduced the U.S. federal corporate tax rate from 35% to 21%, required companies to pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously tax deferred and created new taxes on certain foreign sourced earnings. The Tax Act added many new provisions including changes to bonus depreciation, the deduction for executive compensation and interest expense, a tax on global intangible low taxed income (“GILTI”), the base erosion anti abuse tax (“BEAT”) and a deduction for foreign derived intangible income (“FDII”). We have elected the period cost method and included the GILTI impact in our tax expense.
+We recorded updates to the estimated discrete tax expense (benefit) of the one-time transition tax in 2018 and 2019 of $66 million and $(3.1) million, respectively, primarily due to the issuance of technical guidance in both years, the finalization of certain estimates as a result of filing the 2017 and 2018 U.S. federal tax returns and the finalization of the balance sheet positions used in the calculation of the transition tax. We have completed our accounting for the effects of the Tax Act as they relate to the repricing of deferred tax balances and the one-time transition tax.
+Effective Income Tax Rate
+Our effective income tax rate is based on annual income, statutory tax rates and tax planning available in the various jurisdictions in which we operate. Our annual effective income tax rate includes the impact of reserve provisions. We recognize the amount of tax benefit that is greater than 50% likely of being realized upon settlement with a taxing authority. We adjust these reserves in light of changing facts and circumstances.
+Tax regulations require items to be included in our tax returns at different times than the items are reflected in our financial statements. As a result, the effective income tax rate reflected in our financial statements differs from that reported in our tax returns. Some of these differences are permanent, such as expenses that are not deductible on our tax return, and some are temporary differences, such as depreciation expense.
+Deferred Tax Assets and Liabilities and Valuation Allowances
+Deferred tax assets and liabilities are determined based on temporary differences between the financial reporting and tax bases of assets and liabilities, applying enacted tax rates expected to be in effect for the year in which the differences are expected to reverse. Based on the evaluation of available evidence, both positive and negative, we recognize tax assets, such as net operating loss carryforwards and tax credit carryforwards, to the extent that realizing these benefits is considered to be more likely than not. Relevant factors in determining the realizability of deferred tax assets include historical results, sources of future taxable income, the expected timing of the reversal of temporary differences, tax planning strategies and the expiration dates of the various tax attributes.
+Uncertain Tax Positions
+A number of years may elapse before a particular tax matter, for which we have established a reserve, is audited and finally resolved. The number of tax years with open tax audits varies depending on the tax jurisdiction. The Internal Revenue Service (“IRS”) has completed its examinations of our U.S. federal income tax returns through 2016 and the years 2017 and 2018 are currently under audit. In addition to the U.S. federal examinations, we have ongoing audit activity in several U.S. state and foreign jurisdictions.
+The tax positions we take are based on our interpretations of tax laws and regulations in the applicable federal, state and international jurisdictions. We believe our tax returns properly reflect the tax consequences of our operations, and our reserves for tax contingencies are appropriate and sufficient for the positions taken. Because of the uncertainty of the final outcome of these examinations, we have reserved for potential reductions of tax benefits (including related interest and penalties) for amounts that do not meet the more-likely-than-not thresholds for recognition and measurement as required by authoritative guidance. The tax reserves are reviewed throughout the year, taking into account new legislation, regulations, case law and audit results. Settlement of any particular issue could result in offsets to other balance sheet accounts, cash payments or receipts and/or adjustments to tax expense. Tax reserves are presented in the Consolidated Balance Sheet within other non-current liabilities. Our gross liability for uncertain tax positions was $21 million and $27 million as of December 31, 2020 and 2019, respectively. For additional information on income taxes see Note 13.
+Long-Lived Assets, Intangible Assets and Goodwill
+Long-Lived and Amortizable Intangible Assets
+We review our long-lived and amortizable intangible assets, the net value of which was $5.3 billion and $5.4 billion as of December 31, 2020 and 2019, respectively, for impairment and when significant events or changes in business circumstances indicate that the carrying value of the assets may not be recoverable. Such circumstances may include a significant decrease in the market price of an asset or asset group, a significant adverse change in the manner in which asset or asset groups are being used or history of operating or cash flow losses associated with the use of the asset or asset group. Impairment losses could occur when the carrying amount of an asset or asset group exceeds the anticipated future undiscounted cash flows expected to result from the use of the asset or asset group and its eventual disposition. The amount of the impairment loss to be recorded, if any, is calculated as the excess of the asset’s or assets group’s carrying amount over its estimated fair value.
+We use the straight-line method to recognize amortization expense related to our amortizable intangible assets, including our customer relationships. We consider various factors when determining the appropriate method of amortization for our customer relationships, including projected sales data, customer attrition rates and length of key customer relationships.
+Globally, we have a broad customer base. Our retention rate of significant customers has aligned with our acquisition assumptions, including the customer bases acquired from our Nalco, Anios and CID Lines transactions, which made up the majority of our unamortized customer relationships. Our historical retention rate, coupled with our consistent track record of keeping long-term relationships with our customers, supports our expectation of consistent sales generation for the foreseeable future from the acquired customer bases. If our customer retention rates or other post-acquisition operational activities change materially, we would evaluate the financial impact and any corresponding triggers which could result in impairment of our customer relationship intangible assets, or absent an impairment, an acceleration of amortization.
+In addition, we periodically reassess the estimated remaining useful lives of our long-lived and amortizable intangible assets. Changes to estimated useful lives would impact the amount of depreciation and amortization expense recorded in earnings. We have experienced no significant changes in the carrying amount or estimated remaining useful lives of our long-lived or amortizable intangible assets.
+Goodwill and Indefinite Life Intangible Assets
+We had total goodwill of $6.0 billion and $5.6 billion as of December 31, 2020 and 2019, respectively. We test our goodwill for impairment at the reporting unit level on an annual basis during the second quarter. Our reporting units are aligned with our eleven operating segments.
+For our annual 2020 goodwill impairment assessment, we completed a quantitative impairment assessment for each of our eleven reporting units using discounted cash flow analyses that incorporated assumptions regarding future growth rates, terminal values, and discount rates. Our goodwill impairment assessments for 2020 indicated the estimated fair values of each of our reporting units exceeded the respective carrying amount of the reporting unit by a significant margin. We assess the need to test our reporting units for impairment during interim periods between our scheduled annual assessments when significant events or changes in business circumstances indicate that the carrying amount of the reporting unit may not be recoverable. Additionally, no events noted during the second half of 2020 indicated a need to update any of our analyses or conclusions reached in the second quarter of 2020 for any of our eleven reporting units. There has been no impairment of goodwill in any of the periods presented.
+The Nalco trade name is our only indefinite life intangible asset. During the second quarter of 2020, we completed our annual impairment assessment of the Nalco trade name using the relief from royalty discounted cash flow method, which incorporates assumptions regarding future sales projections, royalty rates and discount rates. Based on this testing, the estimated fair value of the Nalco trade name exceeded its carrying amount by a significant margin; therefore, no adjustment to the $1.2 billion carrying value of this asset was necessary. There has been no impairment of the Nalco trade name intangible since it was acquired.
+Assets Held for Sale
+Assets and liabilities are classified as held for sale and presented separately on the balance sheet when all of the following criteria for a plan of sale have been met: (1) management, having the authority to approve the action, commits to a plan to sell the assets; (2) the assets are available for immediate sale, in their present condition, subject only to terms that are usual and customary for sales of such assets; (3) an active program to locate a buyer and other actions required to complete the plan to sell the assets have been initiated; (4) the sale of the assets is probable and is expected to be completed within one year; (5) the assets are being actively marketed for a price that is reasonable in relation to their current fair value; and (6) actions required to complete the plan indicate that it is unlikely that significant changes to the plan will be made or the plan will be withdrawn. The ChampionX business met the criteria to be held for sale immediately prior to the Separation. The ChampionX business was previously recorded in the Global Energy reportable segment, which became the Upstream Energy reportable segment beginning in 2020 and subsequently has been reported in discontinued operations. The assets and liabilities held for sale are recorded on our Consolidated Balance Sheet as Current assets of discontinued operations, Long-term assets of discontinued operations, Current liabilities of discontinued operations and Long-term liabilities of discontinued operations, respectively.
+Discontinued Operations
+Discontinued operations comprise those activities that were disposed of during the period or which were classified as held for sale at the end of a period and represent a strategic shift that has or will have a major effect on our operations and financial results. The ChampionX business met the criteria to be reported as discontinued operations because it was a strategic shift in business that had a major effect on our operations and financial results. The ChampionX business is presented on the Consolidated Balance Sheet and Consolidated Statement of Income as discontinued operations. Refer to Note 5, Discontinued Operations, for additional information.
+RESULTS OF OPERATIONS
+Net Sales
+Percent Change
+(millions)
+Product and equipment sales
+$9,466.6
+$10,129.0
+$9,903.6
+Service and lease sales
+2,323.6
+2,433.0
+2,318.5
+Reported GAAP net sales
+$11,790.2
+$12,562.0
+$12,222.1
+(6)
+%
+%
+Effect of foreign currency translation
+131.7
+35.4
+(207.4)
+Non-GAAP fixed currency sales
+$11,921.9
+$12,597.4
+$12,014.7
+(5)
+%
+%
+The percentage components of the year-over-year sales change are shown below:
+(percent)
+Volume
+(9)
+%
+%
+Price changes
+Acquisition adjusted fixed currency sales change
+(7)
+Acquisitions & divestitures
+Fixed currency sales change
+(5)
+Foreign currency translation
+(1)
+(2)
+Reported GAAP net sales change
+(6)
+%
+%
+Amounts do not necessarily sum due to rounding.
+Cost of Sales (“COS”) and Gross Profit Margin (“Gross Margin”)
+Gross
+Gross
+Gross
+(millions/percent)
+COS
+Margin
+COS
+Margin
+COS
+Margin
+Product and equipment cost of sales
+$5,481.3
+$5,617.5
+$5,510.6
+Service and lease cost of sales
+1,424.5
+1,428.3
+1,364.7
+Reported GAAP COS and gross margin
+$6,905.8
+41.4
+%
+$7,045.8
+43.9
+%
+$6,875.3
+43.7
+%
+Special (gains) and charges
+48.2
+38.5
+4.8
+Non-GAAP adjusted COS and gross margin
+$6,857.6
+41.8
+%
+$7,007.3
+44.2
+%
+$6,870.5
+43.8
+%
+Our COS values and corresponding gross margin are shown above. Our gross margin is defined as sales less cost of sales divided by sales.
+Our reported gross margin was 41.4%, 43.9%, and 43.7% for 2020, 2019, and 2018, respectively. Our 2020, 2019 and 2018 reported gross margins were negatively impacted by special (gains) and charges of $48.2 million, $38.5 million, and $4.8 million, respectively. Special (gains) and charges items impacting COS are shown within the “Special (Gains) and Charges” table on page 35.
+Excluding the impact of special (gains) and charges, our 2020 adjusted gross margin was 41.8% compared against a 2019 adjusted gross margin of 44.2%. The decrease primarily reflected the impact of lower volume, reduced operating leverage and unfavorable business mix, which more than offset pricing.
+Excluding the impact of special (gains) and charges, our adjusted gross margin was 44.2% and 43.8% for 2019 and 2018, respectively. The increase was driven primarily by pricing, which more than offset unfavorable sales mix.
+Selling, General and Administrative Expenses (“SG&A”)
+(percent)
+SG&A Ratio
+28.1
+%
+28.3
+%
+28.7
+%
+The decreased SG&A ratio (SG&A expenses as a percentage of reported net sales) comparing 2020 against 2019 was driven primarily by lower incentive compensation, discretionary spend reductions and cost savings initiatives which offset the effects of lower sales. The decreased SG&A ratio comparing 2019 against 2018 was driven primarily by sales leverage, restructuring efforts and cost savings, which more than offset investments in the business
+Special (Gains) and Charges
+Special (gains) and charges reported on the Consolidated Statement of Income included the following items:
+(millions)
+Cost of sales
+Restructuring activities
+$7.4
+$20.4
+$5.4
+Acquisition and integration activities
+3.9
+7.6
+(0.6)
+COVID-19 activities, net
+12.5
+-
+-
+Other
+24.4
+10.5
+-
+Cost of sales subtotal
+48.2
+38.5
+4.8
+Special (gains) and charges
+Restructuring activities
+71.4
+93.2
+75.9
+Acquisition and integration activities
+8.5
+5.6
+8.8
+Disposal and impairment activities
+41.4
+-
+-
+COVID-19 activities, net
+23.6
+-
+-
+Other
+34.7
+21.4
+28.0
+Special (gains) and charges subtotal
+179.6
+120.2
+112.7
+Operating income subtotal
+227.8
+158.7
+117.5
+Interest expense, net
+83.8
+0.2
+0.3
+Other (income) expense
+0.4
+9.5
+-
+Total special (gains) and charges
+$312.0
+$168.4
+$117.8
+For segment reporting purposes, special (gains) and charges are not allocated to reportable segments, which is consistent with our internal management reporting.
+Restructuring Activities
+Restructuring activities are primarily related to the Institutional Advancement Program and Accelerate 2020, both of which are described below. These activities have been included as a component of cost of sales, special (gains) and charges, and other (income) expense on the Consolidated Statement of Income. Restructuring liabilities have been classified as a component of other current and other noncurrent liabilities on the Consolidated Balance Sheet.
+Further details related to our restructuring charges are included in Note 3.
+Institutional Advancement Program
+During 2020, we approved a restructuring plan focused on the Institutional business (“the Institutional Plan”) which is intended to enhance our Institutional sales and service structure and allow the sales team to capture share and penetration while maximizing service effectiveness by leveraging our ongoing investments in digital technology. In February 2021, we expanded the Institutional Plan, and expect that these restructuring charges will be completed by 2023, with total anticipated costs of $80 million ($60 million after tax) or $0.21 per diluted share. The costs are expected to be primarily cash expenditures for severance and facility closures. We also anticipate non-cash charges related to equipment disposals. We expect total program savings of approximately $50 million by the end of 2024. Actual costs may vary from these estimates depending on actions taken.
+Certain activities contemplated in this Institutional Plan were previously approved in 2020 and included as part of Accelerate 2020 announced in 2018. These activities have been reclassified to the Institutional Plan. In 2020, we recorded total restructuring charges, including those reclassified from Accelerate 2020, of $35.2 million ($26.4 million after tax) or $0.09 per diluted share, primarily related to severance and costs to support the transition to the new sales structure. All of these charges are recorded within the special (gains) and charges line on the Consolidated Statement of Income. The liability related to the Institutional Plan was $24.7 million as of December 31, 2020. The majority of the pretax charges represent net cash expenditures which are expected to be paid over a period of a few months to several quarters which continue to be funded from operating activities.
+Accelerate 2020
+During 2018, we formally commenced a restructuring plan Accelerate 2020 (“the Plan”), to leverage technology and system investments and organizational changes. The goal of the Plan is to further simplify and automate processes and tasks, reduce complexity and management layers, consolidated facilitates and focus on key long-term growth areas by further leveraging technology and structural improvements. In the third quarter of 2020, we expanded the Plan for additional costs and savings to further leverage the technology and structural improvements. Following the establishment of the separate Institutional Plan, we now expect that the restructuring activities will be completed by the end of 2022, with total anticipated costs of $255 million ($195 million after tax), or $0.67 per diluted share, over this period of time, when revised for continuing operations. Costs are expected to be primarily cash expenditures for severance costs and some facility closure costs relating to team reorganizations. Actual costs may vary from these estimates depending on actions taken.
+We recorded restructuring charges of $41.8 million ($33.0 million after tax) or $0.11 per diluted share in 2020. Of these expenses, $0.3 million ($0.2 million after tax) or less than $0.01 per diluted share is recorded in other (income) expense. The liability related to the Plan was $71.8 million as of the end of the year. We have recorded $239.2 million ($183.8 million after tax), or $0.63 per diluted share, of cumulative restructuring charges under the Plan. The majority of the pretax charges represent net cash expenditures which are expected to be paid over a period of a few months to several quarters which continue to be funded from operating activities.
+The Plan has delivered $200 million of cumulative cost savings with estimated annual cost savings of $315 million by 2022.
+Other Restructuring Activities
+During 2020, we incurred restructuring charges of $1.8 million ($1.2 million after tax), or less than $0.01 per diluted share, related to an immaterial restructuring plan. The charges are comprised of severance, facility closure costs, including asset disposals, and consulting fees.
+Prior to 2018, we engaged in a number of restructuring plans which have been completed, except for final payments. During 2019, net restructuring gains related to restructuring plans entered into prior to 2018 were $1.5 million ($1.1 million after tax) or less than $0.01 per diluted share. The gains recorded were due to finalizing estimates upon completion of projects. During 2018, we recorded restructuring charges of $3.1 million ($2.4 million after tax) or $0.01 per diluted share.
+The restructuring liability balance for all other restructuring plans excluding Accelerate 2020 and the Institutional Advancement Program was $5.9 million and $7.7 million as of December 31, 2020 and 2019, respectively. The reduction in liability was driven primarily by severance payments. The remaining liability is expected to be paid over a period of a few months to several quarters and will continue to be funded from operating activities. Cash payments during 2020 related to these plans were $2.7 million.
+Acquisition and integration related costs
+Acquisition and integration costs reported in special (gains) and charges on the Consolidated Statement of Income in 2020 include $8.5 million ($6.9 million after tax) or $0.02 per diluted share. Charges are related to Copal Invest NV, including its primary operating entity CID Lines (collectively, “CID Lines”), Bioquell PLC (“Bioquell”) and the Laboratoires Anios (“Anios”) acquisitions and consist of integration costs and advisory and legal fees. Acquisition and integration costs reported in product and equipment cost of sales on the Consolidated Statement of Income in 2020 include $3.9 million ($3.2 million after tax) or $0.01 per diluted share and are related to the recognition of fair value step-up in the CID Lines inventory, severance and the closure of a facility. In conjunction with our acquisitions, we incurred $0.7 million ($0.6 million after tax), or less than $0.01 per diluted share, of interest expense in 2020.
+During 2019, acquisition and integration costs reported in special (gains) and charges on the Consolidated Statement of Income in 2019 include $5.6 million ($4.1 million after tax) or $0.01 per diluted share. Charges are primarily related to Bioquell and Anios acquisitions and consist of integration costs, advisory and legal fees. Acquisition and integration costs reported in product and equipment cost of sales on the Consolidated Statement of Income in 2019 include $7.6 million ($5.6 million after tax) or $0.02 per diluted share and are related to recognition of fair value step-up in the Bioquell inventory and facility closure costs. In conjunction with our acquisitions, we incurred $0.2 million ($0.1 million after tax), or less than $0.01 per diluted share, of interest expense in 2019.
+During 2018, acquisition and integration costs reported in special (gains) and charges on the Consolidated Statement of Income included $8.8 million ($6.1 million after tax), or $0.02 per diluted share, of charges primarily related to Anios integration costs, advisory and legal fees. The acquisition and integration gains reported in cost of sales on the Consolidated Statement of Income in 2018 related to changes in estimates related to an early lease exist. In conjunction with our acquisitions, we incurred $0.3 million ($0.2 million after tax), or less than $0.01 per diluted share, of interest expense in 2018.
+Disposal and impairment charges
+Disposal and impairment charges reported in special (gains) and charges on the Consolidated Statement of Income include $41.4 million ($41.5 million after tax) or $0.14 per diluted share in the 2020. During 2020, we recorded a $28.6 million ($28.6 million after tax) or $0.10 per diluted share impairment for a minority equity method investment due to the COVID-19 impact on the economic environment and the liquidity of the minority equity method investment. In addition, we recorded charges of $12.8 million ($12.9 million after tax) or $0.04 per diluted share related to the disposal of Holchem Group Limited (“Holchem”) for the loss on sale and related transaction fees during 2020. Further information related to the disposal is included in Note 4.
+COVID-19
+During 2020, we recorded charges of $57.1 million to protect the pay for certain employees directly impacted by the COVID-19 pandemic. In addition, we received subsidies and government assistance, which was recorded as a special (gain) of ($23.4) million during 2020. Finally, we recorded testing charges related to the COVID-19 pandemic of $2.4 million. COVID-19 pandemic charges are recorded in product and equipment sales, service and lease sales, and special (gains) and charges on the Consolidated Statement of Income. Total after tax net charges (gains) related to COVID-19 pandemic were $27.4 million or $0.09 per diluted share.
+Other
+During 2020 and 2019, we recorded special charges of $24.4 million ($16.0 million after tax) or $0.06 per diluted share and $10.5 million ($7.1 million after tax) or $0.02 per diluted share, respectively, recorded in product and equipment cost of sales on the Consolidated Statement of Income primarily related to a Healthcare product recall in Europe.
+Other special charges of $34.7 million ($33.9 million after tax) or $0.12 per diluted share recorded in 2020 and $21.4 million ($16.2 million after tax), or $0.06 per diluted share recorded in 2019 relate primarily to a specific legal reserve and related legal charges, partially offset by a litigation settlement in 2019, which are recorded in special (gains) and charges on the Consolidated Statement of Income. We also recorded a $7.2 million or $0.02 per diluted share, special charge related to the separation of ChampionX as a tax expense on the Consolidated Statement of Income
+During 2018, we recorded other special charges of $28.0 million ($21.2 million after tax), or $0.07 per diluted share, which primarily consisted of a $25.0 million ($18.9 million after tax), or $0.06 per diluted share, commitment to the Ecolab Foundation. Other charges, primarily litigation related charges, were minimal and have been included as a component of special (gains) and charges on the Consolidated Statement of Income.
+Other (Income) Expense
+During 2020 and 2019, we recorded other expense of $0.4 million ($0.3 million after tax) or less than $0.01 per diluted share and $9.5 million ($7.2 million after tax) or $0.02 per diluted share, respectively, related to pension curtailments and settlements for ChampionX separation and Accelerate 2020, as discussed further above. These charges have been included as a component of other (income) expense on the Consolidated Statement of Income.
+Interest expense, net
+During 2020, we recorded special charges of $83.1 million ($64.0 million after tax) or $0.22 per diluted share in interest expense on the Consolidated Statement of Income related to debt refinancing charges. In addition, during 2020, 2019 and 2018, an immaterial amount of interest expense was recorded due to acquisition and integration costs.
+Operating Income and Operating Income Margin
+Percent Change
+(millions)
+Reported GAAP operating income
+$1,395.7
+$1,845.2
+$1,728.3
+(24)
+%
+%
+Special (gains) and charges
+227.8
+158.7
+117.5
+Non-GAAP adjusted operating income
+1,623.5
+2,003.9
+1,845.8
+(19)
+Effect of foreign currency translation
+23.8
+9.1
+(26.5)
+Non-GAAP adjusted fixed currency operating income
+$1,647.3
+$2,013.0
+$1,819.3
+(18)
+%
+%
+(percent)
+Reported GAAP operating income margin
+11.8
+%
+14.7
+%
+14.1
+%
+Non-GAAP adjusted operating income margin
+13.8
+%
+16.0
+%
+15.1
+%
+Non-GAAP adjusted fixed currency
+operating income margin
+13.8
+%
+16.0
+%
+15.1
+%
+Our operating income and corresponding operating income margin are shown in the previous tables. Operating income margin is defined as operating income divided by sales.
+Our reported operating income decreased 24% when comparing 2020 to 2019 primarily due to the overall negative impact of the COVID-19 pandemic on results, which yielded lower sales and reduced operating leverage, unfavorable business mix, more than offsetting cost savings, favorable pricing and lower variable compensation. Our reported operating income increased 7% when comparing 2019 to 2018 primarily driven by pricing and cost savings, which more than offset investments in the business. Our reported operating income for 2020, 2019 and 2018 was impacted by special (gains) and charges. Excluding the impact of special (gains) and charges from all three years, 2020 adjusted operating income decreased 19% when compared to 2019 adjusted operating income and 2019 adjusted operating income increased 9% when compared to 2018 adjusted operating income.
+As shown in the previous table, foreign currency translation had a minimal impact on adjusted operating income growth for 2020 and 2019.
+Other (Income) Expense
+(millions)
+Reported GAAP other (income) expense
+($55.9)
+($77.0)
+($79.9)
+Special (gains) and charges
+0.4
+9.5
+-
+Non-GAAP adjusted other (income) expense
+($56.3)
+($86.5)
+($79.9)
+Our reported other income was $55.9 million, $77.0 million and $79.9 million in 2020, 2019 and 2018, respectively. Excluding the impact of pension curtailments and settlements in 2020 and 2019, our adjusted other income was $56.3 million and $86.5 million, respectively, reflecting the return on pension assets and non-service costs of our pension obligations.
+Interest Expense, Net
+(millions)
+Reported GAAP interest expense, net
+$290.2
+$190.7
+$221.1
+Special (gains) and charges
+83.8
+0.2
+0.3
+Non-GAAP adjusted interest expense, net
+$206.4
+$190.5
+$220.8
+Our reported net interest expense totaled $290.2 million, $190.7 million and $221.1 million during 2020, 2019 and 2018, respectively.
+We incurred $83.8 million ($64.6 million after tax), or $0.22 per diluted share, $0.2 million ($0.1 million after tax), or less than $0.01 per diluted share and $0.3 million ($0.2 million after tax), or less than $0.01 per diluted share, of interest expense in conjunction with our debt refinancing and acquisitions during 2020, 2019 and 2018, respectively.
+The increase in our 2020 adjusted net interest expense compared to 2019 was driven primarily by higher outstanding debt. The decrease in our 2019 adjusted net interest expense compared to 2018 was driven primarily by lower outstanding debt and higher interest income.
+Provision for Income Taxes
+The following table provides a summary of our tax rate:
+(percent)
+Reported GAAP tax rate
+15.2
+%
+16.7
+%
+20.2
+%
+Tax rate impact of:
+The Tax Act
+-
+0.1
+(3.9)
+Special (gains) and charges
+0.7
+0.6
+0.3
+Discrete tax items
+3.8
+2.9
+3.8
+Non-GAAP adjusted tax rate
+19.7
+%
+20.3
+%
+20.4
+%
+Our reported tax rate was 15.2%, 16.7%, and 20.2% for 2020, 2019 and 2018, respectively. The change in our tax rate includes the tax impact of special (gains) and charges and discrete tax items, which have impacted the comparability of our historical reported tax rates, as amounts included in our special (gains) and charges are derived from tax jurisdictions with rates that vary from our tax rate, and discrete tax items are not necessarily consistent across periods. The tax impact of special (gains) and charges and discrete tax items will likely continue to impact comparability of our reported tax rate in the future.
+We recognized a total net benefit related to discrete tax items of $55.8 million during 2020. The tax benefit related to share-based compensation excess tax benefit contributed $57.3 million. The amount of this tax benefit is subject to variation in stock price and award exercises. We recorded changes in reserves in non-U.S. and U.S. jurisdictions due to audit settlements and expiration of statutes of limitations which resulted in a $9.8 million tax benefit. Additionally, we recognized a net tax expense of $11.3 million primarily related to the filing of the prior year federal, state and foreign tax returns and other income tax adjustments.
+We recognized total net benefit related to discrete tax items of $57.7 million during 2019. Share-based compensation excess tax benefit contributed $42.3 million in 2019. We recognized $15.6 million tax benefit related to changes in local tax law, which primarily includes $30.4 million benefit due to the passage of the Swiss Tax Reform and AHV Financing Act, a Swiss federal tax law, offset by a tax expense of $10.2 million due to the release of the final Treasury Regulation governing taxation of foreign dividends. We recorded changes in reserves in non-U.S. and U.S. jurisdictions due to audit settlements and statutes of limitations which resulted in a $13.8 million tax benefit. We finalized the 2015 and 2016 IRS audit, which also resulted in discrete tax expense of $11.0 million. The remaining discrete tax expense was primarily related to changes in estimates in non-U.S. jurisdictions.
+We recognized total net expense related to discrete tax items of $2.1 million during 2018. We filed U.S. federal tax returns which resulted in favorable adjustments of $39.9 million related to changes in estimates and an IRS approved method change. The Tax Act resulted in $66.0 million expense for 2018 related to updates to the one-time transition tax primarily due to the issuance of technical guidance and finalization of estimates. Share-based compensation excess tax benefit contributed $27.7 million in 2018. Included within the 2018 provision for income taxes is $38.0 million of discrete charges to correct immaterial errors in prior years. The remaining discrete tax expense was primarily related to changes in reserves in non-U.S. jurisdictions, audit settlements and both international and U.S. changes in estimates.
+The change in our adjusted tax rates from 2018 to 2020 was primarily driven by global tax planning projects and geographic income mix. Future comparability of our adjusted tax rate may be impacted by various factors, including but not limited to other changes in global tax rules, further tax planning projects and geographic income mix.
+Net Income from Discontinued Operations, net of tax
+(millions)
+Reported GAAP net (loss) income from discontinued operations, net of tax
+($2,172.5)
+$133.3
+$178.8
+Adjustments:
+Special (gains) and charges
+2,210.7
+74.3
+14.0
+Discrete tax net expense (benefit)
+22.7
+(0.7)
+2.6
+Non-GAAP adjusted net income from discontinued operations, net of tax
+$60.9
+$206.9
+$195.4
+Special charges reported in discontinued operations consist primarily of ChampionX separation charges and restructuring.
+Net Income from Continuing Operations Attributable to Ecolab
+Percent Change
+(millions)
+Reported GAAP net income from continuing operations attributable to Ecolab
+$967.4
+$1,425.6
+$1,250.3
+(32)
+%
+%
+Adjustments:
+Special (gains) and charges, after tax
+254.1
+128.3
+88.8
+Discrete tax net (benefit) expense
+(55.8)
+(57.7)
+2.1
+Non-GAAP adjusted net income attributable to Ecolab
+$1,165.7
+$1,496.2
+$1,341.2
+(22)
+%
+%
+Diluted EPS from Continuing Operations
+Percent Change
+(dollars)
+Reported GAAP diluted EPS from continuing operations
+$ 3.33
+$ 4.87
+$ 4.27
+(32)
+%
+%
+Adjustments:
+Special (gains) and charges, after tax
+0.88
+0.45
+0.30
+Discrete tax net (benefit) expense
+(0.19)
+(0.20)
+0.01
+Non-GAAP adjusted diluted EPS
+$ 4.02
+$ 5.12
+$ 4.58
+(21)
+%
+%
+Per share amounts do not necessarily sum due to rounding.
+Currency translation had an unfavorable $0.05 impact on reported and adjusted diluted EPS when comparing 2020 to 2019 and unfavorable $0.12 impact when comparing 2019 to 2018.
+SEGMENT PERFORMANCE
+The non-U.S. dollar functional currency international amounts included within our reportable segments are based on translation into U.S. dollars at the fixed currency exchange rates established by management for 2020. The difference between the fixed currency exchange rates and the actual currency exchange rates is reported as “effect of foreign currency translation” in the following tables. All other accounting policies of the reportable segments are consistent with U.S. GAAP and the accounting policies described in Note 2. Additional information about our reportable segments is included in Note 19.
+Fixed currency net sales and operating income for 2020, 2019 and 2018 for our reportable segments are shown in the following tables.
+Net Sales
+Percent Change
+(millions)
+Global Industrial
+$5,959.9
+$5,994.6
+$5,688.5
+(1)
+%
+%
+Global Institutional & Specialty
+3,577.2
+4,412.1
+4,255.2
+(19)
+Global Healthcare & Life Sciences
+1,189.1
+979.0
+915.7
+Other
+1,093.3
+1,211.7
+1,155.3
+(10)
+Corporate
+102.4
+-
+-
+-
+Subtotal at fixed currency
+11,921.9
+12,597.4
+12,014.7
+(5)
+Effect of foreign currency translation
+(131.7)
+(35.4)
+207.4
+Total reported net sales
+$11,790.2
+$12,562.0
+$12,222.1
+(6)
+%
+%
+Operating Income
+Percent Change
+(millions)
+Global Industrial
+$1,106.0
+$902.7
+$753.7
+%
+%
+Global Institutional & Specialty
+321.9
+939.8
+901.5
+(66)
+Global Healthcare & Life Sciences
+207.6
+124.5
+124.4
+Other
+131.5
+167.0
+164.0
+(21)
+Corporate
+(347.5)
+(279.7)
+(241.8)
+Subtotal at fixed currency
+1,419.5
+1,854.3
+1,701.8
+(23)
+Effect of foreign currency translation
+(23.8)
+(9.1)
+26.5
+Total reported operating income
+$1,395.7
+$1,845.2
+$1,728.3
+(24)
+%
+%
+The following tables reconcile the impact of acquisitions and divestitures within our reportable segments.
+Year ended
+December 31
+Net Sales
+(millions)
+Fixed
+Currency
+Impact of Acquisitions and Divestitures
+Acquisition Adjusted
+Fixed
+Currency
+Impact of Acquisitions and Divestitures
+Acquisition Adjusted
+Global Industrial
+$5,959.9
+(81.4)
+$5,878.5
+$5,994.6
+(34.7)
+$5,959.9
+Global Institutional & Specialty
+3,577.2
+(31.2)
+3,546.0
+4,412.1
+-
+4,412.1
+Global Healthcare & Life Sciences
+1,189.1
+(24.2)
+1,164.9
+979.0
+(1.5)
+977.5
+Other
+1,093.3
+(1.1)
+1,092.2
+1,211.7
+(0.1)
+1,211.6
+Corporate
+102.4
+(102.4)
+-
+-
+-
+-
+Subtotal at fixed currency
+11,921.9
+(240.3)
+11,681.6
+12,597.4
+(36.3)
+12,561.1
+Effect of foreign currency translation
+(131.7)
+(35.4)
+Total reported net sales
+$11,790.2
+$12,562.0
+Operating Income
+(millions)
+Fixed
+Currency
+Impact of Acquisitions and Divestitures
+Acquisition Adjusted
+Fixed
+Currency
+Impact of Acquisitions and Divestitures
+Acquisition Adjusted
+Global Industrial
+$1,106.0
+(7.2)
+$1,098.8
+$902.7
+(1.6)
+$901.1
+Global Institutional & Specialty
+321.9
+(2.2)
+319.7
+939.8
+-
+939.8
+Global Healthcare & Life Sciences
+207.6
+0.3
+207.9
+124.5
+(0.2)
+124.3
+Other
+131.5
+(0.3)
+131.2
+167.0
+-
+167.0
+Corporate
+(119.7)
+-
+(119.7)
+(121.0)
+-
+(121.0)
+Non-GAAP adjusted fixed currency operating income
+1,647.3
+(9.4)
+1,637.9
+2,013.0
+(1.8)
+2,011.2
+Special (gains) and charges
+227.8
+158.7
+Subtotal at fixed currency
+1,419.5
+1,854.3
+Effect of foreign currency translation
+(23.8)
+(9.1)
+Total reported operating income
+$1,395.7
+$1,845.2
+Global Industrial
+Sales at fixed currency (millions)
+$5,959.9
+$5,994.6
+$5,688.5
+Sales at public currency (millions)
+5,870.8
+5,980.2
+5,806.8
+Volume
+(3)
+%
+%
+Price changes
+%
+%
+Acquisition adjusted fixed currency sales change
+(1)
+%
+%
+Acquisitions and divestitures
+%
+%
+Fixed currency sales change
+(1)
+%
+%
+Foreign currency translation
+(1)
+%
+(2)
+%
+Public currency sales change
+(2)
+%
+%
+Operating income at fixed currency (millions)
+$1,106.0
+$902.7
+$753.7
+Operating income at public currency (millions)
+1,086.9
+899.0
+772.5
+Fixed currency operating income change
+%
+%
+Fixed currency operating income margin
+18.6
+%
+15.1
+%
+13.2
+%
+Acquisition adjusted fixed currency operating income change
+%
+%
+Acquisition adjusted fixed currency operating income margin
+18.7
+%
+15.1
+%
+*
+Public currency operating income change
+%
+%
+* Not meaningful
+Amounts do not necessarily sum due to rounding.
+Net Sales
+Fixed currency sales for Global Industrial decreased in 2020 as lower volume more than offset pricing and increased in 2019 driven by pricing and volume gains. The 2020 sales decrease was impacted by regional declines in North America and Asia Pacific, partially offset by growth in all other regions. Regional results for 2019 were impacted by growth in all major regions.
+At an operating segment level, Water fixed currency sales decreased 2% in 2020 and increased 6% in 2019. Modest Light industry sales growth in 2020 and good sales gains in 2019 were led by innovative technology and service offerings. Heavy industry sales were moderately lower in 2020, impacted by lower end market demand, but grew moderately in 2019 as they benefitted from sales force investments and improved market conditions while mining sales were led by new business wins. Food & Beverage fixed currency sales increased 5% (3% acquisition adjusted) in 2020 as share gains and pricing more than offset generally flat industry trends. Globally, we saw strong growth in our dairy, food, beverage and brewing segments, with moderate growth in the protein business. Fixed currency sales growth was strong across major regions. Fixed currency sales increased 9% in 2019, benefiting from share gains and pricing more than offset generally flat industry trends. Downstream fixed currency sales decreased 8% and increased 1% in 2020 and 2019, respectively, as substantial reductions in transportation fuel demand and additive use hurt 2020 results, while improved pricing in 2019 more than offset lower volume. Paper fixed currency sales were flat in 2020 despite softer industrial containerboard market conditions which reduced volumes in major regions. Fixed currency sales increased 1% in 2019 despite softer containerboard market conditions which reduced volumes in major regions.
+Operating Income
+Fixed currency operating income and fixed currency operating income margins for Global Industrial increased in 2020 and 2019.
+Acquisition adjusted fixed currency operating income margins increased 3.6 percentage points in 2020. The favorable impacts of cost savings, pricing, lower delivered product costs and lower variable compensation added approximately 4.2 percentage points during 2020, which more than offset the 0.7 percentage point negative impact of lower volume. Acquisition adjusted fixed currency operating income margins increased in 2019 compared to 2018, positively impacted by pricing and cost savings initiatives, partially offset by investments in the business and lower sales volume leverage.
+Global Institutional & Specialty
+Sales at fixed currency (millions)
+$3,577.2
+$4,412.1
+$4,255.2
+Sales at public currency (millions)
+3,553.2
+4,401.5
+4,302.0
+Volume
+(21)
+%
+%
+Price changes
+%
+%
+Acquisition adjusted fixed currency sales change
+(20)
+%
+%
+Acquisitions and divestitures
+%
+%
+Fixed currency sales change
+(19)
+%
+%
+Foreign currency translation
+%
+(1)
+%
+Public currency sales change
+(19)
+%
+%
+Operating income at fixed currency (millions)
+$321.9
+$939.8
+$901.5
+Operating income at public currency (millions)
+320.3
+937.0
+906.2
+Fixed currency operating income change
+(66)
+%
+%
+Fixed currency operating income margin
+9.0
+%
+21.3
+%
+21.2
+%
+Acquisition adjusted fixed currency operating income change
+(66)
+%
+%
+Acquisition adjusted fixed currency operating income margin
+9.0
+%
+21.3
+%
+*
+Public currency operating income change
+(66)
+%
+%
+* Not meaningful
+Amounts do not necessarily sum due to rounding.
+Net Sales
+Fixed currency sales for Global Institutional & Specialty decreased in 2020 driven by a significant decline in the Institutional business due to the impact of the COVID-19 pandemic and increased in 2019 benefiting from pricing, volume growth and acquisitions. At a regional level, the 2020 sales decreased in all major regions.
+At an operating segment level, Institutional fixed currency sales decreased 27% in 2020, reflecting strong hand and surface hygiene sales that were more than offset by the negative effects of mandated reductions for in-unit dining and domestic and international travel that significantly reduced foot traffic at full-service restaurants, occupancy rates at hotels and customer visits to other entertainment facilities through the year. Fixed currency sales increased 2% in 2019 as global lodging demand showed moderate growth while global full-service restaurant industry foot traffic was soft. Specialty fixed currency sales increased 8% (5% acquisition adjusted) in 2020, as strong food retail sales growth, benefiting from continued expanded cleaning protocols and frequency in the grocery stores in response to the COVID-19 pandemic and new customer additions, was partially offset by moderately lower quickservice sales, which saw strong hand and surface sanitizer sales more than offset by COVID-19 pandemic related impacts on restaurant volumes. Fixed currency sales increased 9% in 2019, led primarily from strong ongoing business and new account wins.
+Operating Income
+Fixed currency operating income for our Global Institutional & Specialty segment decreased in 2020 and increased in 2019 when compared to prior periods. Fixed currency operating income margins decreased in 2020 and remained flat in 2019.
+Acquisition adjusted fixed currency operating income margins decreased 12.3 percentage points during 2020. Margins were negatively impacted approximately 15.0 percentage points during 2020 from volume declines, unfavorable mix and higher bad debt expense, which more than offset the 2.1 percentage points positive impact of cost savings. Acquisition adjusted fixed currency operating income margins increased in 2019 due to pricing and cost savings initiatives, which were partially offset by investments in the business and selling related expenses.
+Global Healthcare & Life Sciences
+Sales at fixed currency (millions)
+$1,189.1
+$979.0
+$915.7
+Sales at public currency (millions)
+1,181.9
+972.8
+939.5
+Volume
+%
+%
+Price changes
+%
+%
+Acquisition adjusted fixed currency sales change
+%
+%
+Acquisitions and divestitures
+%
+%
+Fixed currency sales change
+%
+%
+Foreign currency translation
+%
+(3)
+%
+Public currency sales change
+%
+%
+Operating income at fixed currency (millions)
+$207.6
+$124.5
+$124.4
+Operating income at public currency (millions)
+205.0
+122.9
+127.7
+Fixed currency operating income change
+%
+%
+Fixed currency operating income margin
+17.5
+%
+12.7
+%
+13.6
+%
+Acquisition adjusted fixed currency operating income change
+%
+%
+Acquisition adjusted fixed currency operating income margin
+17.8
+%
+12.7
+%
+*
+Public currency operating income change
+%
+(4)
+%
+* Not meaningful
+Amounts do not necessarily sum due to rounding.
+Net Sales
+Fixed currency sales increased for Global Healthcare & Life Sciences in both 2020 and 2019 as growth in both years was driven by volume and pricing gains. At an operating segment level, Healthcare fixed currency sales increased 18% (16% acquisition adjusted) in 2020. Strong COVID-19 pandemic related hand and surface disinfection sales growth more than offset the unfavorable effects of delayed elective surgical procedures. Fixed currency sales increased 1% in 2019 as good growth in Europe was offset by a product recall, while North America sales were flat as good differentiated product and program growth was partially offset by lower sales of deemphasized non-core products. Life Sciences fixed currency sales increased 35% in 2020. Results were led by strong demand for biodecontamination units, business wins and pricing in our cleaning and disinfection programs for both the pharmaceutical and personal care markets, with strong growth in Europe and moderate North America gains. Fixed currency sales increased 37% (12% acquisition adjusted) in 2019 led by business wins and pricing in our cleaning and disinfection programs for both the pharmaceutical and personal care markets, with strong growth in Europe and moderate North America gains.
+Operating Income
+Fixed currency operating income for our Global Healthcare & Life Sciences segment increased in 2020 and remained flat in 2019 when compared to prior periods. Fixed currency operating income margins increased in 2020 and decreased in 2019.
+Acquisition adjusted fixed currency operating income margins increased 5.1 percentage points in 2020. Strong volume gains, reduced discretionary spending and pricing positively impacted margins by approximately 6.6 percentage points, partially offset by the 1.1 percentage point negative impact of higher delivered product costs. Acquisition adjusted fixed currency operating income margins decreased in 2019 compared to 2018, negatively impacted by investments in the business and the impact of the Healthcare recall, partially offset by sales volume leverage and cost savings initiatives.
+Other
+Sales at fixed currency (millions)
+$1,093.3
+$1,211.7
+$1,155.3
+Sales at public currency (millions)
+1,084.3
+1,207.5
+1,173.8
+Volume
+(11)
+%
+%
+Price changes
+%
+%
+Acquisition adjusted fixed currency sales change
+(10)
+%
+%
+Acquisitions and divestitures
+%
+%
+Fixed currency sales change
+(10)
+%
+%
+Foreign currency translation
+%
+(2)
+%
+Public currency sales change
+(10)
+%
+%
+Operating income at fixed currency (millions)
+$131.5
+$167.0
+$164.0
+Operating income at public currency (millions)
+130.6
+166.3
+165.5
+Fixed currency operating income change
+(21)
+%
+%
+Fixed currency operating income margin
+12.0
+%
+13.8
+%
+14.2
+%
+Acquisition adjusted fixed currency operating income change
+(21)
+%
+%
+Acquisition adjusted fixed currency operating income margin
+12.0
+%
+13.8
+%
+*
+Public currency operating income change
+(21)
+%
+%
+* Not meaningful
+Amounts do not necessarily sum due to rounding.
+Net Sales
+Fixed currency sales for Other decreased in 2020. At a regional level, the decline in 2020 sales results mostly impacted North America and Europe. Fixed currency sales increased in 2019 with growth in all major regions.
+At an operating segment level, Pest Elimination was impacted by the COVID-19 pandemic due to partial and full customer closures along with limited vendor access. Fixed currency sales decreased 2% in 2020 with sales growth in food and beverage plants, grocery stores and healthcare facilities offset by the impact of lower restaurant and hospitality volumes. Fixed currency sales increased 6% in 2019 with good growth across all major regions and markets. Textile Care fixed currency sales decreased 27% in 2020 and increased 2% in 2019. Colloidal Technologies Group fixed currency sales decreased 18% in 2020 and increased 5% in 2019.
+Operating Income
+Fixed currency operating income in Other decreased in 2020 and increased in 2019 as compared to the prior year. Fixed currency operating income margins declined in 2020 and declined slightly in 2019.
+Acquisition adjusted fixed currency operating income margins in Other decreased 1.8 percentage points in 2020. Lower volume and unfavorable mix negatively impacted margins by approximately 4.5 percentage points, which more than offset the 3.2 percentage point positive impact of cost savings and pricing. Acquisition adjusted fixed currency operating income margins decreased in 2019, negatively impacted by field investments, which more than offset pricing, volume gains and cost savings initiatives.
+Corporate
+Consistent with our internal management reporting, Corporate amounts in the table on page 40 include sales to ChampionX in accordance with the long-term supply agreement entered into with the Transaction, as discussed in Note 5. Corporate also includes intangible asset amortization specifically from the Nalco merger and special (gains) and charges that are not allocated to our reportable segments. Items included within special (gains) and charges are shown in the table on page 35.
+FINANCIAL POSITION, CASH FLOW AND LIQUIDITY
+Financial Position
+Total assets were $18.1 billion as of December 31, 2020, compared to total assets of $20.9 billion as of December 31, 2019.
+Total liabilities were $11.9 billion as of December 31, 2020, compared to total liabilities of $12.1 billion as of December 31, 2019. Total debt was $6.7 billion as of December 31, 2020 and $6.4 billion as of December 31, 2019. See further discussion of our debt activity within the “Liquidity and Capital Resources” section of this MD&A.
+Our net debt to EBITDA is shown in the following table. EBITDA is a non-GAAP measure discussed further in the “Non-GAAP Financial Measures” section of this MD&A.
+(ratio)
+Net debt to EBITDA
+2.4
+2.3
+2.7
+(millions)
+Total debt
+$6,686.6
+$6,353.6
+$7,044.2
+Cash
+1,260.2
+118.8
+63.9
+Net debt
+$5,426.4
+$6,234.8
+$6,980.3
+Net income including noncontrolling interest
+$984.8
+$1,442.9
+$1,265.9
+Provision for income taxes
+176.6
+288.6
+321.2
+Interest expense, net
+290.2
+190.7
+221.1
+Depreciation
+594.3
+569.1
+535.9
+Amortization
+218.4
+206.2
+194.5
+EBITDA
+$2,264.3
+$2,697.5
+$2,538.6
+Cash Flows
+Operating Activities
+Dollar Change
+(millions)
+Cash provided by operating activities
+$1,741.8
+$2,046.7
+$2,006.9
+($304.9)
+$39.8
+We continue to generate strong cash flow from operations, amidst the COVID-19 pandemic, allowing us to fund our ongoing operations, acquisitions, investments in the business and pension obligations along with returning cash to our shareholders through dividend payments and share repurchases.
+Comparability of cash generated from operating activities across 2020 to 2018 was impacted by fluctuations in accounts receivable, inventories and accounts payable (“working capital”), the combination of which increased $32 million, $128 million and $133 million in 2020, 2019 and 2018 respectively. The 2020 cash flow impact from working capital accounts was driven by lower sales volume, partially offset by lower inventory turnover and slower accounts receivable collection.
+The impact on operating cash flows of pension and postretirement plan contributions, cash activity related to restructuring, cash paid for income taxes and cash paid for interest, are shown in the following table:
+Dollar Change
+(millions)
+Pensions and postretirement plan contributions
+$70.7
+$186.0
+$60.0
+($115.3)
+$126.0
+Restructuring payments
+71.1
+82.5
+46.0
+(11.4)
+36.5
+Income tax payments
+366.9
+337.4
+365.1
+29.5
+(27.7)
+Interest payments
+262.5
+189.4
+206.4
+73.1
+(17.0)
+Investing Activities
+Dollar Change
+(millions)
+Cash used for investing activities
+($857.7)
+($1,129.6)
+($961.9)
+$271.9
+($167.7)
+Cash used for investing activities is primarily impacted by the timing of business acquisitions and dispositions as well as from capital investments in the business.
+Total cash paid for acquisitions, net of cash acquired and net of cash received from dispositions, in 2020, 2019 and 2018 was $371 million, $385 million and $221 million, respectively. Our acquisitions and divestitures are discussed further in Note 4. We continue to target strategic business acquisitions which complement our growth strategy and expect to continue to make capital investments and acquisitions in the future to support our long-term growth.
+We continue to make capital investments in the business, including merchandising and customer equipment and manufacturing facilities. Total capital expenditures were $489 million, $731 million and $779 million in 2020, 2019 and 2018, respectively.
+Financing Activities
+Dollar Change
+(millions)
+Cash provided by (used for) financing activities
+($340.2)
+($1,346.6)
+($1,171.4)
+$1,006.4
+($175.2)
+Our cash flows from financing activities primarily reflect the issuances and repayment of debt, common stock repurchases, proceeds from common stock issuances related to our equity incentive programs, dividend payments and acquisition-related contingent considerations.
+Shares are repurchased for the purpose of partially offsetting the dilutive effect of our equity compensation plans and stock issued in acquisitions, to manage our capital structure and to efficiently return capital to shareholders. We repurchased a total of $146 million, $354 million, and $562 million of shares in 2020, 2019 and 2018, respectively.
+The impact on financing cash flows of commercial paper and notes payable repayments, long-term debt borrowings and long-term debt repayments, are shown in the following table:
+Dollar Change
+(millions)
+Net (repayments) issuances of commercial paper and notes payable
+($65.5)
+($252.0)
+$341.8
+$186.5
+($593.8)
+Long-term debt borrowings
+1,855.9
+-
+-
+1,855.9
+-
+Long-term debt repayments
+(1,570.0)
+(400.6)
+(551.6)
+(1,169.4)
+151.0
+In December 2020, we increased our indicated annual dividend rate by 2%. This represents the 29th consecutive year we have increased our dividend. We have paid dividends on our common stock for 84 consecutive years. Cash dividends declared per share of common stock, by quarter, for each of the last three years were as follows:
+First
+Second
+Third
+Fourth
+Quarter
+Quarter
+Quarter
+Quarter
+Year
+$0.47
+$0.47
+$0.47
+$0.48
+$1.89
+$0.46
+$0.46
+$0.46
+$0.47
+$1.85
+$0.41
+$0.41
+$0.41
+$0.46
+$1.69
+Liquidity and Capital Resources
+We currently expect to fund all of our cash requirements which are reasonably foreseeable for the next twelve months, including scheduled debt repayments, new investments in the business, share repurchases, dividend payments, possible business acquisitions and pension and postretirement contributions with cash on hand, cash generated from operating activities, and as needed, additional short-term and/or long-term borrowings. We continue to expect our operating cash flow to remain strong.
+As of December 31, 2020, we had $1,260 million of cash and cash equivalents on hand, of which $59 million was held outside of the U.S. As of December 31, 2019, we had $119 million of cash and cash equivalents on hand, of which $91 million was held outside of the U.S. We have increased our available cash on hand during the year to meet current and any future potential operational cash needs as a result of COVID-19 pandemic. We will continue to evaluate our cash position in light of future developments.
+As of December 31, 2020, we had a $2.0 billion multi-year credit facility, which expires in November 2022. The credit facility has been established with a diverse syndicate of banks and supports our U.S. and Euro commercial paper programs. The maximum aggregate amount of commercial paper that may be issued under our U.S. commercial paper program and our Euro commercial paper program may not exceed $2.0 billion. At year end, we had no outstanding commercial paper under our Euro or U.S. program. There were no borrowings under our credit facility as of December 31, 2020 or 2019. As of December 31, 2020, both programs were rated A-2 by Standard & Poor’s, P-2 by Moody’s and by Fitch.
+As of December 31, 2020, we have a $500 million 364-day revolving credit agreement, which expires in April 2021. The revolving credit agreement is to be used for general corporate purposes with a diverse syndicate of banks to provide for further liquidity in response to the coronavirus pandemic. There were no borrowings under this revolving credit agreement as of December 31, 2020. In addition, we executed a $305 million term credit agreement in April 2020, which we drew on and repaid $303 million during the second quarter of 2020.
+Additionally, we have uncommitted credit lines with major international banks and financial institutions. These credit lines support our daily global funding needs, primarily our global cash pooling structures. We have $123 million of bank supported letters of credit, surety bonds and guarantees outstanding in support of our commercial business transactions. We do not have any other significant unconditional purchase obligations or commercial commitments.
+As of December 31, 2020, Standard & Poor’s and Fitch both rated our long-term credit at A- (stable outlook) and Moody’s rated our long-term credit at Baa1 (positive outlook). A reduction in our credit ratings could limit or preclude our ability to issue commercial paper under our current programs or could also adversely affect our ability to renew existing, or negotiate new, credit facilities in the future and could increase the cost of these facilities.
+We are in compliance with our debt covenants and other requirements of our credit agreements and indentures.
+A schedule of our various obligations as of December 31, 2020 are summarized in the following table:
+Payments Due by Period
+Less
+More
+Than
+2-3
+4-5
+Than
+(millions)
+Total
+1 Year
+Years
+Years
+5 Years
+Notes payable
+$ 15
+$ 15
+$ -
+$ -
+$ -
+One-time transition tax
+-
+Long-term debt
+6,671
+1,366
+4,401
+Operating leases
+Interest*
+2,627
+1,714
+Total
+$ 9,890
+$ 376
+$ 1,463
+$ 1,820
+$ 6,231
+*
+Interest on variable rate debt was calculated using the interest rate at year end 2020.
+As of December 31, 2020, our gross liability for uncertain tax positions was $21 million. We are not able to reasonably estimate the amount by which the liability will increase or decrease over an extended period of time or whether a cash settlement of the liability will be required. Therefore, these amounts have been excluded from the schedule of contractual obligations.
+We do not have required minimum cash contribution obligations for our qualified pension plans in 2020. We are required to fund certain international pension benefit plans in accordance with local legal requirements. We estimate contributions to be made to our international plans will approximate $47 million in 2020. These amounts have been excluded from the schedule of contractual obligations.
+We lease certain sales and administrative office facilities, distribution centers, research and manufacturing facilities and other equipment under longer-term operating leases. Vehicle leases are generally shorter in duration. Vehicle leases have residual value requirements that have historically been satisfied primarily by the proceeds on the sale of the vehicles.
+Off-Balance Sheet Arrangements
+We do not participate in off-balance sheet financing arrangements. Through the normal course of business, we have established various joint ventures, some of which have not been consolidated within our financial statements as we neither control, nor are the primary beneficiary. The joint ventures help us meet local ownership requirements, achieve quicker operational scale, expand our ability to provide customers a more fully integrated offering or provide other benefits to our business or customers. These entities have not been utilized as special purposes entities, which are sometimes established for the purpose of facilitating off-balance sheet financial arrangements or other contractually narrow or limited purposes. As such, we are not exposed to financing, liquidity, market or credit risk that could arise if we had engaged in such relationships.
+Market Risk
+We enter into contractual arrangements (derivatives) in the ordinary course of business to manage foreign currency exposure and interest rate risks. We do not enter into derivatives for speculative or trading purposes. Our use of derivatives is subject to internal policies that provide guidelines for control, counterparty risk, and ongoing monitoring and reporting, and is designed to reduce the volatility associated with movements in foreign exchange and interest rates on our income statement and cash flows.
+We enter into foreign currency forward contracts to hedge certain intercompany financial arrangements, and to hedge against the effect of exchange rate fluctuations on transactions related to cash flows denominated in currencies other than U.S. dollars. We use net investment hedges as hedging instruments to manage risks associated with our investments in foreign operations. As of December 31, 2020, we had a total of €1,150 million senior notes designated as net investment hedges.
+We manage interest expense using a mix of fixed and floating rate debt. To help manage borrowing costs, we may enter into interest rate swap agreements. Under these arrangements, we agree to exchange, at specified intervals, the difference between fixed and floating interest amounts calculated by reference to an agreed-upon notional principal amount. As of December 31, 2020, we had no interest rate swaps outstanding.
+See Note 9 for further information on our hedging activity.
+Based on a sensitivity analysis (assuming a 10% change in market rates) of our foreign exchange and interest rate derivatives and other financial instruments, changes in exchange rates or interest rates would increase/decrease our financial position and liquidity by approximately $213 million. The effect on our results of operations would be substantially offset by the impact of the hedged items.
+GLOBAL ECONOMIC AND POLITICAL ENVIRONMENT
+Coronavirus disease 2019 (COVID-19)
+In March 2020, the coronavirus disease 2019 (COVID-19) was declared a pandemic by the World Health Organization. The COVID-19 pandemic affected global economies and financial markets throughout 2020, and industries faced challenges from restricted economic conditions resulting from government and private efforts to address the pandemic. As the pandemic continued and new variants of COVID-19 were identified, most countries required companies to limit or suspend business operations and implemented travel restrictions. These conditions had and are expected to continue to have a negative impact on market conditions and customer demand throughout the world over the foreseeable future until the pandemic diminishes. We experienced, and anticipate continued, overall adverse impacts and disruptions in our restaurant, hospitality and entertainment-related business operations, with modest impact on our Industrial segment businesses and limited or no adverse impacts on certain other parts of our business, supply chain and business continuity plans from COVID-19 restrictions; in addition, certain of our business have and will continue to benefit from increased cleaning and sanitizing product demand.
+While we anticipate our 2021 results of operations to be generally comparable to 2019, we are not yet able to adequately estimate the full impact of the coronavirus outbreak on our end markets and our business due to the pandemic’s evolving nature and the public and private responses to it. While we expect favorable conditions to resume in our industrial markets, and expect conditions to continue to be favorable in our healthcare and life sciences markets, we anticipate products and services provided to the full-service restaurant, hospitality, lodging and entertainment industries will continue to be negatively impacted over the near term due to the regulatory and organizational operating restrictions and mandates that have been put in place and affecting those end markets. We have taken, and are continuing to take, steps to drive revenue growth through new products, programs and markets, as well as steps to reduce costs, including reductions in capital expenditures, as well as other ongoing cost initiatives.
+The Coronavirus Aid, Relief, and Economic Security (CARES) Act was signed into law on March 27, 2020. We have taken advantage of the employer payroll tax (FICA) deferral offered by the CARES Act, which allowed us to defer the payment of employer payroll taxes for the period from March 27, 2020 to December 31, 2020. The deferred FICA liability was $66.4 million and will be payable in equal installments at December 2021 and December 2022.
+Global Economies
+Almost half of our sales are outside of the United States. Our international operations subject us to changes in economic conditions and foreign currency exchange rates as well as political uncertainty in some countries which could impact future operating results.
+Argentina has continued to experience negative economic trends, evidenced by multiple periods of increasing inflation rates, devaluation of the Argentine Peso, and increasing borrowing rates. Argentina is classified as a highly inflationary economy in accordance with U.S. GAAP, and the U.S. dollar is the functional currency for our subsidiaries in Argentina. During 2020, sales in Argentina represented less than 1% of our consolidated sales. Assets held in Argentina at the end of 2020 represented less than 1% of our consolidated assets.
+Brexit Referendum
+December 31, 2020 marked the end of the Brexit Transition Period and with it the UK’s departure from the European Union (EU) customs union and single market. The EU and UK arrived at a Trade and Cooperation Agreement, (TCA) allowing companies to trade tariff free on products having EU origins. We are working through the details of this TCA impact with the expectation that much of our trade will in fact be free of tariff.
+During 2020, net sales of our U.K. operations were approximately 3% of our consolidated net sales.
+NEW ACCOUNTING PRONOUNCEMENTS
+Information regarding new accounting pronouncements is included in Note 2.
+SUBSEQUENT EVENTS
+Subsequent to year end, we separately acquired European Institutional and Healthcare businesses. The aggregate purchase consideration for these two acquisitions was approximately $100 million. The acquisitions are not material to our consolidated financial statements individually or in the aggregate.
+NON-GAAP FINANCIAL MEASURES
+This MD&A includes financial measures that have not been calculated in accordance with U.S. GAAP. These non-GAAP measures include:
+● Fixed currency sales
+● Acquisition adjusted fixed currency sales
+● Adjusted cost of sales
+● Adjusted gross margin
+● Fixed currency operating income
+● Fixed currency operating income margin
+● Adjusted operating income
+● Adjusted operating income margin
+● Adjusted fixed currency operating income
+● Adjusted fixed currency operating income margin
+● Acquisition adjusted fixed currency operating income
+● Acquisition adjusted fixed currency operating income margin
+● Adjusted other (income) expense
+● Adjusted interest expense, net
+● EBITDA
+● Adjusted tax rate
+● Adjusted net income from discontinued operations, net of tax
+● Adjusted net income from continuing operations attributable to Ecolab
+● Adjusted diluted EPS from continuing operations
+We provide these measures as additional information regarding our operating results. We use these non-GAAP measures internally to evaluate our performance and in making financial and operational decisions, including with respect to incentive compensation. We believe that our presentation of these measures provides investors with greater transparency with respect to our results of operations and that these measures are useful for period-to-period comparison of results.
+Our non-GAAP financial measures for cost of sales, gross margin, interest expense and operating income exclude the impact of special (gains) and charges, and our non-GAAP measures for tax rate, net income from continuing operations attributable to Ecolab and diluted EPS from continuing operations further exclude the impact of discrete tax items. We include items within special (gains) and charges and discrete tax items that we believe can significantly affect the period-over-period assessment of operating results and not necessarily reflect costs and/or income associated with historical trends and future results. After tax special (gains) and charges are derived by applying the applicable local jurisdictional tax rate to the corresponding pre-tax special (gains) and charges.
+EBITDA is defined as the sum of net income including non-controlling interest, provision for income taxes, net interest expense, depreciation and amortization. EBITDA is used in our net debt to EBITDA ratio, which we view as important indicators of the operational and financial health of our organization.
+We evaluate the performance of our international operations based on fixed currency rates of foreign exchange. Fixed currency amounts included in this Form 10-K are based on translation into U.S. dollars at the fixed foreign currency exchange rates established by management at the beginning of 2020. Fixed currency amounts during 2018 for Argentina operations are reflected at the Argentine Peso rate established by management at the beginning of the year.
+Acquisition adjusted growth rates exclude the results of our acquired businesses from the first twelve months post acquisition, exclude the results of our divested businesses from the twelve months prior to divestiture and the Venezuelan results of operations from all comparable periods.
+These non-GAAP measures are not in accordance with, or an alternative to U.S. GAAP, and may be different from non-GAAP measures used by other companies. Investors should not rely on any single financial measure when evaluating our business. We recommend that investors view these measures in conjunction with the U.S. GAAP measures included in this MD&A and we have provided reconciliations of reported U.S. GAAP amounts to the non-GAAP amounts.

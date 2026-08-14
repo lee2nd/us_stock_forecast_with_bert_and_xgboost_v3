@@ -1,0 +1,369 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Our subsidiaries provide assisted and DIY tax preparation solutions through multiple channels (including in-person, online and mobile applications, virtual, and desktop software) and distribute H&R Block-branded products and services, including those of our bank partners, to the general public primarily in the U.S., Canada and Australia. Tax returns are either prepared by H&R Block tax professionals (in company-owned or franchise offices, virtually or via an internet review) or prepared and filed by our clients through our DIY tax solutions. We also offer small business solutions through our company-owned and franchise offices and online through Wave. We report a single segment that includes all of our continuing operations.
+CHANGE IN FISCAL YEAR END
+On June 9, 2021, the Board of Directors approved a change of the Company's fiscal year end from April 30 to June 30. The Company's 2022 fiscal year began on July 1, 2021 and ended on June 30, 2022. We have recast the income statement and statement of cash flows for the year ended June 30, 2021 and have provided a comparison to the year ended June 30, 2022. We have also provided a comparison of the two months ended June 30, 2021 (Transition Period) to the two months ended June 30, 2020. The recast income statement was derived as follows:
+(in 000s)
+Year ended
+April 30, 2021 Plus: Two months ended
+June 30, 2021
+(Transition Period) Less: Two months ended
+June 30, 2020 Year ended
+June 30, 2021
+Revenues $ 3,413,987 $ 466,106 $ 291,448 $ 3,588,645
+Operating expenses 2,644,360 331,751 279,101 2,697,010
+Pretax income (loss) 668,736 120,995 (7,402) 797,133
+Net income (loss) from continuing operations 590,212 91,119 (9,127) 690,458
+FINANCIAL OVERVIEW - YEAR ENDED JUNE 30, 2022 COMPARED TO YEAR ENDED JUNE 30,
+On March 21, 2020, the federal tax filing deadline in the U.S. for individual 2019 tax returns was extended from April 15, 2020 to July 15, 2020 due to the pandemic. Therefore, fiscal year 2022 results are not comparable to the prior year period, as 15 days of tax season 2020 were included in the results for the year ended June 30, 2021, resulting in a year-over-year decrease in revenues, net income from continuing operations and EPS as shown in the table below.
+Year Ended June 30, 2022 Compared to Year Ended June 30, 2021
+Revenues Operating Expenses Net Income from Continuing Operations
+$3.46B
+3.5%
+$2.72B
+0.8%
+$560.6M
+18.8%
+Diluted EPS from Continuing Operations EBITDA(1) from Continuing Operations
+$3.26
+Reported: 11.2%
+$889.5M
+15.4%
+$3.51
+Adjusted(1):
+10.9%
+(1) See "Non-GAAP Financial Information" section within this filing for a reconciliation of non-GAAP measures.
+RESULTS OF OPERATIONS - YEAR ENDED JUNE 30, 2022 COMPARED TO YEAR ENDED JUNE 30, 2021
+Operating Statistics
+Year ended June 30, 2022 2021(1)
+% Change
+TAX RETURNS PREPARED : (in 000s) (2)
+United States:
+Company-owned operations 8,769 9,558 (8.3) %
+Franchise operations 3,185 3,696 (13.8) %
+Total assisted 11,954 13,254 (9.8) %
+Desktop 1,868 2,298 (18.7) %
+Online 6,661 7,570 (12.0) %
+Total DIY 8,529 9,868 (13.6) %
+Total U.S. returns 20,483 23,122 (11.4) %
+International:
+Canada 2,449 2,459 (0.4) %
+Australia 668 680 (1.8) %
+Total international returns 3,117 3,139 (0.7) %
+Tax returns prepared worldwide 23,600 26,261 (10.1) %
+NET AVERAGE CHARGE (U.S. ONLY): (3)
+Company-owned operations $ 238.87 $ 223.94 6.7 %
+Franchise operations (4)
+$ 230.58 $ 212.32 8.6 %
+Online $ 37.87 $ 39.17 (3.3) %
+TAX OFFICES (as of March 31):
+U.S. offices:
+Company-owned offices 6,492 6,512 (0.3) %
+Franchise offices 2,605 2,759 (5.6) %
+Total U.S. offices 9,097 9,271 (1.9) %
+International offices:
+Canada 987 983 0.4 %
+Australia 404 422 (4.3) %
+Total international offices 1,391 1,405 (1.0) %
+Tax offices worldwide 10,488 10,676 (1.8) %
+(1) Represents a partial 2019 individual tax filing season, which was extended until July 15, 2020 and the full 2020 individual tax filing season.
+(2) An assisted tax return is defined as a current or prior year individual or business tax return that has been accepted by the client. A DIY online return is defined as a current year individual or business tax return that has been accepted by the client. A DIY desktop return is defined as a current year individual or business tax return that has been electronically submitted to the IRS.
+(3) Net average charge is calculated as total tax preparation fees divided by tax returns prepared.
+(4) Net average charge related to H&R Block Franchise operations represents tax preparation fees collected by H&R Block franchisees divided by returns prepared in franchise offices. H&R Block will recognize a portion of franchise revenues as franchise royalties based on the terms of franchise agreements.
+We provide Net Average Charge as a key operating metric because we consider it an important supplemental measure useful to analysts, investors, and other interested parties as it provides insights into pricing and tax return mix relative to our customer base, which are significant drivers of revenue. Our definition of Net Average Charge may not be comparable to similarly titled measures of other companies.
+Consolidated - Financial Results (in 000s, except per share amounts)
+Year ended June 30, 2022 2021 $ Change % Change
+Revenues:
+U.S. assisted tax preparation $ 2,094,612 $ 2,140,410 $ (45,798) (2.1) %
+U.S. royalties 225,242 238,629 (13,387) (5.6) %
+U.S. DIY tax preparation 319,086 367,289 (48,203) (13.1) %
+International 231,335 229,407 1,928 0.8 %
+Refund Transfers 162,893 172,356 (9,463) (5.5) %
+Emerald Card® 125,444 144,095 (18,651) (12.9) %
+Peace of Mind® Extended Service Plan 94,637 97,851 (3,214) (3.3) %
+Tax Identity Shield® 39,114 40,999 (1,885) (4.6) %
+Interest and fee income on Emerald AdvanceSM
+43,981 53,241 (9,260) (17.4) %
+Wave 80,965 63,134 17,831 28.2 %
+Other 45,961 41,234 4,727 11.5 %
+Total revenues 3,463,270 3,588,645 (125,375) (3.5) %
+Compensation and benefits:
+Field wages 808,903 812,123 3,220 0.4 %
+Other wages 284,689 280,304 (4,385) (1.6) %
+Benefits and other compensation 206,902 211,382 4,480 2.1 %
+1,300,494 1,303,809 3,315 0.3 %
+Occupancy 413,162 413,500 338 0.1 %
+Marketing and advertising 284,244 264,745 (19,499) (7.4) %
+Depreciation and amortization 142,178 154,818 12,640 8.2 %
+Bad debt 71,778 82,353 10,575 12.8 %
+Other 506,517 477,785 (28,732) (6.0) %
+Total operating expenses 2,718,373 2,697,010 (21,363) (0.8) %
+Other income (expense), net 2,454 4,989 (2,535) (50.8) %
+Interest expense on borrowings (88,282) (99,491) 11,209 11.3 %
+Income from continuing operations before income taxes 659,069 797,133 (138,064) (17.3) %
+Income taxes 98,423 106,675 8,252 7.7 %
+Net income from continuing operations 560,646 690,458 (129,812) (18.8) %
+Net loss from discontinued operations (6,972) (6,509) (463) (7.1) %
+Net income $ 553,674 $ 683,949 $ (130,275) (19.0) %
+DILUTED EARNINGS PER SHARE:
+Continuing operations $ 3.26 $ 3.67 $ (0.41) (11.2) %
+Discontinued operations (0.04) (0.03) (0.01) (33.3) %
+Consolidated $ 3.22 $ 3.64 $ (0.42) (11.5) %
+Adjusted diluted EPS(1)
+$ 3.51 $ 3.94 $ (0.43) (10.9) %
+EBITDA(1)
+$ 889,529 $ 1,051,442 $ (161,913) (15.4) %
+(1) All non-GAAP measures are results from continuing operations. See "Non-GAAP Financial Information" at the end of this item for a reconciliation of non-GAAP measures.
+YEAR ENDED JUNE 30, 2022 COMPARED TO YEAR ENDED JUNE 30, 2021
+Revenues decreased $125.4 million, or 3.5%, from the prior year. The decrease in revenue is due to lower tax return volumes in the current year as the prior year includes an additional tax season deadline due to the 2020 tax season being extended to July 15, 2020. This resulted in a decrease in U.S. tax preparation, royalty and Refund Transfer revenues.
+Emerald Card® revenues decreased $18.7 million, or 12.9%, due to some stimulus payments being loaded on to Emerald Cards in the prior year, which was partially offset by additional activity in the current year related to the IRS loading Child Tax Credits monthly to Emerald Cards during July through December 2021. Interest and fees on
+Emerald Advances decreased $9.3 million, or 17.4%, due to a decline in Emerald Advances. Wave revenues increased $17.8 million, or 28.2%, due to higher small business payments processing volumes.
+Total operating expenses increased $21.4 million, or 0.8%, from the prior year. Marketing and advertising expense increased $19.5 million, or 7.4%, due to higher online advertising and agency fees in the current year. Depreciation and amortization expense decreased $12.6 million, or 8.2%, due primarily to lower amortization of acquired intangibles. Bad debt expense decreased $10.6 million, or 12.8%, due to lower Refund Transfer volume and lower bad debt rates.
+Other operating expenses increased $28.7 million, or 6.0%. The components of other expenses are as follows:
+(in 000s)
+Year ended June 30, 2022 2021 $ Change % Change
+Consulting and outsourced services $ 136,397 $ 136,288 $ (109) (0.1) %
+Bank partner fees 26,648 22,616 (4,032) (17.8) %
+Client claims and refunds 31,814 29,857 (1,957) (6.6) %
+Employee and travel expenses 31,714 23,959 (7,755) (32.4) %
+Technology-related expenses 97,934 85,499 (12,435) (14.5) %
+Credit card/bank charges 90,209 86,203 (4,006) (4.6) %
+Insurance 15,224 11,528 (3,696) (32.1) %
+Legal fees and settlements 19,625 21,993 2,368 10.8 %
+Supplies 28,846 31,927 3,081 9.7 %
+Other 28,106 27,915 (191) (0.7) %
+$ 506,517 $ 477,785 $ (28,732) (6.0) %
+Employee and travel expenses increased $7.8 million, or 32.4%, due to less travel in the prior year as a result of COVID-19 travel restrictions. Technology-related expenses increased $12.4 million, or 14.5%, due to increased investments in information technology.
+Interest expense on borrowings decreased $11.2 million, or 11.3%, primarily due to lower borrowings on our CLOC in the current year.
+We recorded income tax expense of $98.4 million in the current year compared to $106.7 million in the prior year. The decrease is primarily related to lower pretax income in the current year. See Item 8, note 9 to the consolidated financial statements for additional discussion.
+See the discussion of loss contingencies related to our discontinued operations in Item 1A, Risk Factors and in Item 8, note 12 to the consolidated financial statements.
+RESULTS OF OPERATIONS - YEAR ENDED APRIL 30, 2021 COMPARED TO YEAR ENDED APRIL 30, 2020
+Consolidated - Financial Results (in 000s, except per share amounts)
+Year ended April 30, 2021 2020 $ Change % Change
+Revenues:
+U.S. assisted tax preparation $ 2,035,107 $ 1,533,303 $ 501,804 32.7 %
+U.S. royalties 226,253 193,411 32,842 17.0 %
+U.S. DIY tax preparation 313,055 208,901 104,154 49.9 %
+International 249,868 180,065 69,803 38.8 %
+Refund Transfers 163,329 154,687 8,642 5.6 %
+Emerald Card® 136,717 92,737 43,980 47.4 %
+Peace of Mind® Extended Service Plan 98,882 105,185 (6,303) (6.0) %
+Tax Identity Shield® 40,624 31,797 8,827 27.8 %
+Interest and fee income on Emerald AdvanceSM
+53,430 60,867 (7,437) (12.2) %
+Wave 58,277 36,711 21,566 58.7 %
+Other 38,445 42,056 (3,611) (8.6) %
+Total revenues 3,413,987 2,639,720 774,267 29.3 %
+Compensation and benefits:
+Field wages 797,262 678,813 (118,449) (17.4) %
+Other wages 272,664 218,548 (54,116) (24.8) %
+Benefits and other compensation 208,147 175,535 (32,612) (18.6) %
+1,278,073 1,072,896 (205,177) (19.1) %
+Occupancy 414,389 410,402 (3,987) (1.0) %
+Marketing and advertising 261,960 255,094 (6,866) (2.7) %
+Depreciation and amortization 156,852 169,536 12,684 7.5 %
+Bad debt 78,763 77,470 (1,293) (1.7) %
+Impairment of goodwill - 106,000 106,000 100.0 %
+Other 454,323 471,239 16,916 3.6 %
+Total operating expenses 2,644,360 2,562,637 (81,723) (3.2) %
+Other income (expense), net 5,979 15,637 (9,658) (61.8) %
+Interest expense on borrowings (106,870) (96,094) (10,776) (11.2) %
+Income (loss) from continuing operations before income taxes (benefit) 668,736 (3,374) 672,110 **
+Income taxes (benefit) 78,524 (9,530) (88,054) **
+Net income from continuing operations 590,212 6,156 584,056 9,487.6 %
+Net loss from discontinued operations (6,421) (13,682) 7,261 53.1 %
+Net income (loss) $ 583,791 $ (7,526) $ 591,317 **
+DILUTED EARNINGS (LOSS) PER SHARE:
+Continuing operations $ 3.11 $ 0.03 $ 3.08 10,266.7 %
+Discontinued operations (0.03) (0.07) 0.04 57.1 %
+Consolidated $ 3.08 $ (0.04) $ 3.12 **
+Adjusted diluted EPS(1)
+$ 3.39 $ 0.84 $ 2.55 303.6 %
+EBITDA(1)
+$ 932,458 $ 262,256 $ 670,202 255.6 %
+Adjusted EBITDA (1)
+$ 932,458 $ 368,256 $ 564,202 153.2 %
+(1) All non-GAAP measures are results from continuing operations. See "Non-GAAP Financial Information" at the end of this item for a reconciliation of non-GAAP measures.
+YEAR ENDED APRIL 30, 2021 COMPARED TO YEAR ENDED APRIL 30, 2020
+Due to the extension of the 2019 individual tax deadline to July 2020 related to the COVID-19 pandemic, we had significant increases in the number of tax returns prepared in all categories during the first half of the year ended April 30, 2021. Additionally, while the 2020 individual tax deadline was also extended to May 17, 2021, we prepared more tax returns through April 30, 2021 than we did in the prior year. As a result of these increases in volume during the year ended April 30, 2021, U.S. assisted and DIY tax preparation revenues and royalties increased compared to the prior year.
+International revenues increased $69.8 million, or 38.8%, due to higher tax returns prepared by our Canadian operations primarily due to the extension of the 2019 individual tax deadline and favorable foreign currency exchange rates. Emerald Card® revenues increased $44.0 million, or 47.4%, due to higher card activity from an increase in tax refunds loaded on to cards, as well as some Economic Impact Payments loaded on to cards. Wave revenues increased $21.6 million, or 58.7%, due to higher small business payment processing volumes over the prior year as small business owners shift to online payment options and an additional two months of revenue in the year ended April 30, 2021, as we acquired Wave on June 28, 2019.
+Total operating expenses increased $81.7 million or 3.2% from the prior year. Field wages increased $118.4 million, or 17.4%, due to higher tax preparation volumes. Other wages increased $54.1 million, or 24.8%, due primarily to higher bonus accruals. Benefits and other compensation increased $32.6 million, or 18.6%, primarily due to higher payroll taxes as a result of higher wages. Depreciation and amortization expense decreased $12.7 million, or 7.5%, due to lower depreciation on leasehold improvements and lower amortization of acquired intangibles. Additionally, we recorded an impairment of goodwill of $106.0 million related to Wave in the prior year.
+Other operating expenses decreased $16.9 million, or 3.6%. The components of other expenses are as follows:
+(in 000's)
+Year ended April 30, 2021 2020 $ Change % Change
+Consulting and outsourced services $ 127,262 $ 118,267 $ (8,995) (7.6) %
+Bank partner fees 23,681 55,633 31,952 57.4 %
+Client claims and refunds 28,756 35,498 6,742 19.0 %
+Employee and travel expenses 21,704 40,892 19,188 46.9 %
+Technology-related expenses 80,766 68,907 (11,859) (17.2) %
+Credit card/bank charges 81,154 48,826 (32,328) (66.2) %
+Insurance 11,420 15,015 3,595 23.9 %
+Legal fees and settlements 22,172 27,436 5,264 19.2 %
+Supplies 31,843 31,290 (553) (1.8) %
+Other 25,565 29,475 3,910 13.3 %
+$ 454,323 $ 471,239 $ 16,916 3.6 %
+Bank partner fees decreased $32.0 million, or 57.4%, due to lower RA and RT volumes, lower fees paid to our bank partner, and lower accruals for our RA credit loss guarantees. Employee and travel expenses decreased $19.2 million, or 46.9%, due to COVID-19 travel restrictions. Technology-related expenses increased $11.9 million, or 17.2%, due to increased investments in information technology. Credit card and bank charges increased $32.3 million, or 66.2%, as a result of higher transaction volumes for assisted and DIY tax preparation, higher Wave payment processing fees and fees related to the Emerald Card®.
+Losses of our discontinued mortgage operations are primarily related to legal expenses which are lower in the year ended April 30, 2021. See the discussion of loss contingencies related to our discontinued operations in Item 1A, Risk Factors and in Item 8, note 12 to the consolidated financial statements.
+RESULTS OF OPERATIONS - TRANSITION PERIOD COMPARISON
+Consolidated - Financial Results (in 000s)
+Two months ended June 30, (Transition Period)
+2021 2020 $ Change % Change
+Total revenues $ 466,106 $ 291,448 $ 174,658 59.9 %
+Compensation and benefits 148,817 123,081 (25,736) (20.9) %
+Occupancy 65,429 66,318 889 1.3 %
+Marketing and advertising 11,873 9,088 (2,785) (30.6) %
+Depreciation and amortization 24,586 26,621 2,035 7.6 %
+Bad debt 6,458 2,869 (3,589) (125.1) %
+Other 74,588 51,124 (23,464) (45.9) %
+Total operating expenses 331,751 279,101 (52,650) (18.9) %
+Other income (expense), net 672 1,661 (989) (59.5) %
+Interest expense on borrowings (14,032) (21,410) 7,378 34.5 %
+Income (loss) from continuing operations before income taxes 120,995 (7,402) 128,397 **
+Income taxes 29,876 1,725 (28,151) (1,631.9) %
+Net income (loss) from continuing operations 91,119 (9,127) 100,246 **
+Net loss from discontinued operations (1,509) (1,423) (86) (6.0) %
+Net income (loss) $ 89,610 $ (10,550) $ 100,160 **
+TWO MONTHS ENDED JUNE 30, 2021 COMPARED TO TWO MONTHS ENDED JUNE 30, 2020
+Revenues increased $174.7 million, or 59.9%, from the prior year comparative period. The increase in revenue is primarily a result of higher tax return volumes during the Transition Period as the 2020 individual tax deadline in the U.S. was extended to May 17, 2021, whereas in the prior year comparative period, the 2019 individual tax deadline in the U.S. was extended to July 15, 2020 resulting in increases in tax preparation, royalties and Refund Transfer revenues.
+Total operating expenses increased $52.6 million, or 18.9%, from the prior year comparative period. Compensation and benefits increased $25.7 million, or 20.9%, due to higher tax preparation volumes, higher information technology wages, higher bonus accruals and Canadian wage subsidies received in the prior year comparative period. Bad debt increased $3.6 million, or 125.1%, due to higher Refund Transfer volumes as a result of the extended tax season. Other expenses increased $23.5 million, or 45.9% due to higher consulting and outsourced services, higher technology-related expenses and higher credit card and bank charges.
+We recorded income tax expense of $29.9 million during the Transition Period compared to $1.7 million in the prior year comparative period. The effective tax rate for the two months ended June 30, 2021, and 2020 was 24.7% and (23.3)%, respectively.
+For more discussion regarding the two months ended June 30, 2021 compared to the two months ended June 30, 2020, see our June 30, 2021 Transition Report filed on Form 10-Q.
+FINANCIAL CONDITION
+These comments should be read in conjunction with the consolidated balance sheets and consolidated statements of cash flows included in Item 8.
+CAPITAL RESOURCES AND LIQUIDITY -
+OVERVIEW - Our primary sources of capital and liquidity include cash from operations (including changes in working capital), draws on our CLOC, and issuances of debt. We use our sources of liquidity primarily to fund working capital, service and repay debt, pay dividends, repurchase shares of our common stock, and acquire businesses.
+Our operations are highly seasonal and substantially all of our revenues and cash flow are generated during the period from February through April in a typical year. Therefore, we normally require the use of cash to fund losses
+and working capital needs, periodically resulting in a working capital deficit, from May through January. We typically have relied on available cash balances from the prior tax season and borrowings to meet liquidity needs.
+Given the likely availability of a number of liquidity options discussed herein, we believe that in the absence of any unexpected developments, our existing sources of capital as of June 30, 2022 are sufficient to meet our future operating and financing needs.
+DISCUSSION OF CONSOLIDATED STATEMENTS OF CASH FLOWS - The following table summarizes our statements of cash flows for the years ended June 30, 2022 and June 30, 2021. See Item 8 for the complete consolidated statements of cash flows for the years ended June 30, 2022, April 30, 2021, April 30, 2020 and the two months ended June 30, 2021.
+(in 000s)
+Year ended June 30, 2022 2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income $ 553,674 $ 683,949
+Other operating cash flows 254,863 77,287
+Net cash provided by operating activities 808,537 761,236
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Capital expenditures (61,955) (53,053)
+Payments made for business acquisitions, net of cash acquired (35,920) (17,024)
+Other investing cash flows 21,334 27,430
+Net cash used in investing activities (76,541) (42,647)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Line of credit borrowings, net - (2,000,000)
+Repayments of long-term debt (500,000) (650,000)
+Proceeds from issuance of long-term debt - 1,142,400
+Dividends paid (186,476) (195,068)
+Repurchase of common stock, including shares surrendered (563,174) (193,551)
+Other financing cash flows (7,696) (21,610)
+Net cash used in financing activities (1,257,346) (1,917,829)
+Effects of exchange rate changes on cash (8,101) 13,457
+Net change in cash and cash equivalents $ (533,451) $ (1,185,783)
+Operating Activities. Cash provided by operating activities totaled $808.5 million for the year ended June 30, 2022 compared to $761.2 million in the prior year period. The increase is primarily due to higher income tax payments in the prior year and the receipt of income tax receivables in the current year, partially offset by lower net income in the current year.
+Investing Activities. Cash used in investing activities totaled $76.5 million for the year ended June 30, 2022 compared to $42.6 million for the prior year period. The increase is primarily due to higher payments to acquire businesses.
+Financing Activities. Cash used in financing activities totaled $1.3 billion for the year ended June 30, 2022 compared to $1.9 billion for the prior year period. The decrease is primarily due to the repayment of the $2.0 billion draw on our CLOC in the prior year, partially offset by proceeds from the issuance of long-term debt in the prior year.
+CASH REQUIREMENTS -
+Dividends and Share Repurchase. Returning capital to shareholders in the form of dividends and the repurchase of outstanding shares has historically been a significant component of our capital allocation plan.
+We have consistently paid quarterly dividends. Dividends paid totaled $186.5 million and $195.1 million in the years ended June 30, 2022 and June 30, 2021, respectively. Although we have historically paid dividends and plan
+to continue to do so, there can be no assurances that circumstances will not change in the future that could affect our ability or decisions to pay dividends.
+Our current share repurchase program ended in June 2022. As a part of the repurchase program, in the current year, we purchased $550.3 million of our common stock at an average price of $23.84 per share.
+In August 2022, the Board of Directors approved a $1.25 billion share repurchase program, effective through fiscal year 2025.
+Share repurchases may be effectuated through open market transactions, some of which may be effectuated under SEC Rule 10b5-1. The Company may cancel, suspend, or extend the time period for the purchase of shares at any time. Any repurchases will be funded primarily through available cash and cash from operations. Although we may continue to repurchase shares, there is no assurance that we will purchase up to the full Board authorization.
+The following table summarizes our shares outstanding, shares repurchased, and annual dividends per share:
+(in 000s, except per share amounts)
+Year ended
+June 30, 2022 Two months ended
+June 30, 2021
+(Transition Period) Year ended
+April 30, 2021 Year ended
+April 30, 2020 Year ended
+April 30, 2019
+Shares outstanding 159,930 181,813 181,466 192,475 201,959
+Shares Repurchased 23,085 - 11,551 10,130 7,862
+Dividends declared per share $ 1.08 $ 0.27 $ 1.04 $ 1.04 $ 1.00
+Capital Investment. Capital expenditures totaled $62.0 million and $53.1 million for the years ended June 30, 2022 and 2021, respectively. Our capital expenditures relate primarily to recurring improvements to retail offices, as well as investments in computers, software and related assets. In addition to our capital expenditures, we also made payments to acquire businesses. We acquired franchise and competitor businesses totaling $35.9 million and $17.0 million during the years ended June 30, 2022 and 2021, respectively. See Item 8, note 6 for additional information on our acquisitions.
+Contractual Obligations. We are party to many contractual obligations involving commitments to make payments to third parties, which impact our short-term and long-term liquidity and capital resource needs. Our contractual obligations primarily consist of operating leases, contingent acquisition payments, and long-term debt and related interest payments. See Item 8, note 7, 10, and 11 to the consolidated financial statements for additional information.
+FINANCING RESOURCES - Our CLOC has capacity up to $1.5 billion and is scheduled to expire in June 2026. Proceeds under the CLOC may be used for working capital needs or for other general corporate purposes. We were in compliance with our CLOC covenants as of June 30, 2022. As of June 30, 2022, amounts available to borrow under the CLOC were not limited by the debt-to-EBITDA covenant. We had no balance outstanding under our CLOC as of June 30, 2022.
+In May 2022, we redeemed our outstanding $500 million 5.500% Senior Notes originally due in November 2022. The redemption price was 100% of the outstanding principal amount, plus accrued and unpaid interest up to, but not including, the redemption date.
+See Item 8, note 7 to the consolidated financial statements for discussion of our CLOC and Senior Notes.
+The following table provides ratings for debt issued by Block Financial LLC (Block Financial) as of June 30, 2022 and 2021:
+As of June 30, 2022 June 30, 2021
+Short-term Long-term Outlook Short-term Long-term Outlook
+Moody's P-3 Baa3 Stable P-3 Baa3 Stable
+S&P A-2 BBB Stable A-2 BBB Stable
+CASH AND OTHER ASSETS - As of June 30, 2022, we held cash and cash equivalents, excluding restricted amounts, of $885.0 million, including $201.0 million held by our foreign subsidiaries. We received $52.2 million of our federal income tax receivable subsequent to June 30, 2022.
+Foreign Operations. Seasonal borrowing needs of our Canadian operations are typically funded by our U.S. operations. To mitigate foreign currency risk, we sometimes enter into foreign exchange forward contracts. There were no forward contracts outstanding as of June 30, 2022.
+We do not currently intend to repatriate non-borrowed funds held by our foreign subsidiaries in a manner that would trigger a material tax liability.
+The impact of changes in foreign exchange rates during the period on our international cash balances resulted in a decrease of $8.1 million during the year ended June 30, 2022 and an increase of $13.5 million during the year ended June 30, 2021.
+SUMMARIZED GUARANTOR FINANCIAL STATEMENTS - Block Financial is a 100% owned indirect subsidiary of H&R Block, Inc. Block Financial is the Issuer and H&R Block, Inc. is the full and unconditional Guarantor of our Senior Notes, CLOC and other indebtedness issued from time to time.
+The following table presents summarized financial information for H&R Block, Inc. (Guarantor) and Block Financial (Issuer) on a combined basis after intercompany eliminations and excludes investments in and equity earnings in non-guarantor subsidiaries.
+SUMMARIZED BALANCE SHEET (in 000s)
+As of June 30, 2022 GUARANTOR AND ISSUER
+Current assets $ 38,922
+Noncurrent assets 1,698,242
+Current liabilities 75,855
+Noncurrent liabilities 1,495,732
+SUMMARIZED STATEMENTS OF OPERATIONS (in 000s)
+Year ended June 30, 2022 GUARANTOR AND ISSUER
+Total revenues $ 199,683
+Income from continuing operations before income taxes 44,404
+Net income from continuing operations 41,979
+Net income 35,007
+The table above reflects $1.6 billion of non-current intercompany receivables due to the Issuer from non-guarantor subsidiaries.
+CRITICAL ACCOUNTING ESTIMATES
+We consider the estimates discussed below to be critical to understanding our financial statements, as they require the use of significant judgment and estimation in order to measure, at a specific point in time, matters that are inherently uncertain. Specific methods and assumptions for these critical accounting estimates are described in the following paragraphs. We have reviewed and discussed each of these estimates with the Audit Committee of our Board of Directors. For all of these estimates, we caution that future events rarely develop precisely as forecasted and estimates routinely require adjustment and may require material adjustment.
+See Item 8, note 1 to the consolidated financial statements for discussion of our significant accounting policies.
+LITIGATION AND OTHER RELATED CONTINGENCIES -
+Nature of Estimates Required. We accrue liabilities related to certain legal matters for which we believe it is probable that a loss has been incurred and the amount of such loss can be reasonably estimated. Assessing the likely outcome of pending or threatened litigation or other related loss contingencies, including the amount of potential loss, if any, is highly subjective.
+Assumptions and Approach Used. We are subject to pending or threatened litigation and other related loss contingencies, which are described in Item 8, note 12 to the consolidated financial statements. It is our policy to routinely assess the likelihood of any adverse judgments or outcomes related to legal matters, as well as ranges of probable losses. A determination of the amount of the liability required to be accrued, if any, for these contingencies is made after analysis of each known issue and an analysis of historical experience. In cases where we have concluded that a loss is only reasonably possible or remote, or is not reasonably estimable, no liability is accrued.
+Sensitivity of Estimate to Change. It is reasonably possible that pending or future litigation and other related loss contingencies may vary from the amounts accrued. Our estimate of the aggregate range of reasonably possible losses includes (1) matters where a liability has been accrued and there is a reasonably possible loss in excess of the amount accrued for that liability, and (2) matters where a liability has not been accrued but we believe a loss is reasonably possible. This aggregate range represents only those losses as to which we are currently able to estimate a reasonably possible loss or range of loss. It does not represent our maximum loss exposure. As of June 30, 2022, we believe the estimate of the aggregate range of reasonably possible losses in excess of amounts accrued, where the range of loss can be estimated, was not material.
+However, our judgments on whether a loss is probable, reasonably possible, or remote, and our estimates of probable loss amounts may differ from actual results due to difficulties in predicting changes in or interpretations of, laws, predicting the outcome of court trials, arbitration hearings, settlement discussions and related activity, predicting the outcome of class certification actions, and numerous other uncertainties. Due to the number of claims which are periodically asserted against us, and the magnitude of damages sought in those claims, actual losses in the future may significantly differ from our current estimates.
+Our accrued liabilities for litigation and other related contingencies are disclosed in Item 8, note 12 to the consolidated financial statements.
+INCOME TAXES - UNCERTAIN TAX POSITIONS -
+Nature of Estimates Required. The income tax laws of jurisdictions in which we operate are complex and subject to different interpretations by the taxpayer and applicable government taxing authorities. Income tax returns filed by us are based on our interpretation of these rules. The amount of income taxes we pay is subject to ongoing audits by federal, state and foreign tax authorities, which may result in proposed assessments, including interest or penalties. We accrue a liability for unrecognized tax benefits arising from uncertain tax positions reflecting our judgment as to the ultimate resolution of the applicable issues.
+Assumptions and Approach Used. Differences between a tax position taken or expected to be taken in our tax returns and the amount of benefit recorded in our financial statements result in unrecognized tax benefits. Unrecognized tax benefits are recorded in the balance sheet as either a liability or reductions to recorded tax assets as applicable. Our uncertain tax positions arise from items such as apportionment of income for state purposes, transfer pricing, and the deductibility of related party transactions. We evaluate each uncertain tax
+position based on its technical merits. For each position, we consider all applicable information including relevant tax laws, the taxing authorities' potential position, our tax return position, and the possible settlement outcomes to determine the amount of liability to record. In making this determination, we assume the tax authority has all relevant information at its disposal.
+Sensitivity of Estimate to Change. Our assessment of the technical merits and measurement of tax benefits associated with uncertain tax positions is subject to a high degree of judgment and estimation. Actual results may differ from our current judgments due to a variety of factors, including changes in law, interpretations of law by taxing authorities that differ from our assessments, changes in the jurisdictions in which we operate and results of routine tax examinations. We believe we have adequately provided for any reasonably foreseeable outcome related to these matters. However, our future results may include favorable or unfavorable adjustments to our estimated tax liabilities in the period the assessments are made or resolved, or when statutes of limitation on potential assessments expire. As a result, our effective tax rate may fluctuate on a quarterly basis.
+A schedule of changes in our uncertain tax positions during the last three years is included in Item 8, note 9 to the consolidated financial statements.
+GOODWILL -
+Nature of Estimates Required. We test goodwill for impairment annually in the third quarter or more frequently if events occur or circumstances change which would, more likely than not, reduce the fair value of a reporting unit below its carrying value. Our goodwill impairment analysis utilizes both the income and market approaches, which includes revenue and expense forecasts, changes in working capital and selection of a discount rate, all of which are highly subjective.
+Assumptions and Approach Used. Our goodwill impairment analysis is performed at the reporting unit level. Our valuation methods include a discounted cash flow model for the income approach and the guideline public company and market capitalization methods for the market approach. The income approach requires significant management judgment with respect to revenue and expense forecasts, anticipated changes in working capital and selection of an appropriate discount rate. Changes in projections or assumptions could materially affect our estimate of reporting unit fair values. The use of different assumptions could increase or decrease estimated discounted future operating cash flows and could affect our conclusion regarding the existence or amount of potential impairment.
+Sensitivity of Estimate to Change. Estimates of fair value may be adversely impacted by declining economic conditions and changes in the industries and markets in which we operate. Additionally, if future operating results of our reporting units are below our current modeled expectations, fair value estimates may decline. Any of these factors could result in future impairments, and those impairments could be significant.
+A schedule of changes in our goodwill balances, including any impairment charges, is included in Item 8, note 6 to the consolidated financial statements.
+NEW ACCOUNTING PRONOUNCEMENTS
+See Item 8, note 1 to the consolidated financial statements for any recently issued accounting pronouncements.
+REGULATORY ENVIRONMENT
+The federal government, various state, local, provincial and foreign governments, and some self-regulatory organizations have enacted statutes and ordinances, or adopted rules and regulations, regulating many aspects of our business. These aspects include, but are not limited to, commercial income tax return preparation, income tax courses, the electronic filing of income tax returns, the offering of RTs, privacy and data security, consumer protection, marketing and advertising, franchising, antitrust and competition, sales methods, and financial services and products. We work to comply with those laws that are applicable to us or our services or products, and we continue to monitor developments in the regulatory environment in which we operate. See further discussion of these items in our Item 1A. Risk Factors under "Legal and Regulatory Risks" of this Form 10-K.
+As previously disclosed, in 2017 the Consumer Financial Protection Bureau (CFPB) published its final rule regulating certain consumer credit products (Payday Rule), which the CFPB later limited by removing the mandatory underwriting provisions. Certain limited provisions of the Payday Rule became effective in 2018, but most provisions were scheduled to go into effect in 2019. Litigation in a federal district court in Texas had stayed that effective date, but on August 31, 2021 the judge in that litigation ruled in favor of the CFPB. The plaintiffs appealed, and, on October 14, 2021, the United States Court of Appeals for the Fifth Circuit extended the compliance deadline until after the appeal is resolved.
+We are unsure whether, when, or in what form the Payday Rule will go into effect. Though we do not currently expect the Payday Rule to have a material adverse impact on Emerald AdvanceSM, our business, or our consolidated financial position, results of operations, and cash flows, we will continue to monitor and analyze the potential impact of any further developments on the Company.
+From time to time, we receive inquiries from governmental authorities regarding the applicability of laws to our services and products and other matters relating to our business. We cannot predict what effect future laws, changes in interpretations of existing laws or the results of future governmental inquiries with respect to services and products or other matters relating to our business may have on our consolidated financial position, results of operations and cash flows. We have received certain governmental inquiries relating to the IRS Free File Program. We may also be subject to future inquiries or other proceedings regarding this program or other aspects of our business. Regulatory inquiries may result in us incurring additional expense, diversion of management's attention, adverse judgments, settlements, fines, penalties, injunctions or other relief. See additional discussion of legal matters in Item 8, note 12 to the consolidated financial statements.
+NON-GAAP FINANCIAL INFORMATION
+Non-GAAP financial measures should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. Because these measures are not measures of financial performance under GAAP and are susceptible to varying calculations, they may not be comparable to similarly titled measures for other companies.
+We consider our non-GAAP financial measures to be performance measures and a useful metric for management and investors to evaluate and compare the ongoing operating performance of our business. We make adjustments for certain non-GAAP financial measures related to amortization of intangibles from acquisitions and goodwill impairments. We may consider whether other significant items that arise in the future should be excluded from our non-GAAP financial measures.
+We measure the performance of our business using a variety of metrics, including earnings before interest, taxes, depreciation and amortization (EBITDA) from continuing operations, adjusted EBITDA from continuing operations, adjusted diluted earnings per share from continuing operations, free cash flow and free cash flow yield. We also use EBITDA from continuing operations and pretax income of continuing operations, each subject to permitted adjustments, as performance metrics in incentive compensation calculations for our employees.
+The following is a reconciliation of net income to EBITDA from continuing operations and adjusted EBITDA from continuing operations, which are non-GAAP financial measures:
+(in 000s)
+Year ended June 30, 2022 June 30, 2021 April 30, 2021 April 30, 2020
+Net income (loss) - as reported $ 553,674 $ 683,949 $ 583,791 $ (7,526)
+Discontinued operations, net 6,972 6,509 6,421 13,682
+Net income from continuing operations - as reported 560,646 690,458 590,212 6,156
+Add back:
+Income taxes (benefit) 98,423 106,675 78,524 (9,530)
+Interest expense 88,282 99,491 106,870 96,094
+Depreciation and amortization 142,178 154,818 156,852 169,536
+328,883 360,984 342,246 256,100
+EBITDA from continuing operations $ 889,529 $ 1,051,442 $ 932,458 $ 262,256
+Adjustments:
+Impairment of goodwill - - - 106,000
+Adjusted EBITDA from continuing operations $ 889,529 $ 1,051,442 $ 932,458 $ 368,256
+The following is a reconciliation of our results from continuing operations to our adjusted results from continuing operations, which are non-GAAP financial measures:
+(in 000s, except per share amounts)
+Year ended June 30, 2022 June 30, 2021 April 30, 2021 April 30, 2020
+Net income from continuing operations - as reported $ 560,646 $ 690,458 $ 590,212 $ 6,156
+Adjustments:
+Amortization of intangibles related to acquisitions (pretax) 56,292 66,246 68,387 74,561
+Impairment of goodwill (pretax) - - - 106,000
+Tax effect of adjustments(1)
+(13,358) (15,115) (15,884) (19,126)
+Adjusted net income from continuing operations $ 603,580 $ 741,589 $ 642,715 $ 167,591
+Diluted earnings per share from continuing operations - as reported $ 3.26 $ 3.67 $ 3.11 $ 0.03
+Adjustments, net of tax 0.25 0.27 0.28 0.81
+Adjusted diluted earnings per share from continuing operations $ 3.51 $ 3.94 $ 3.39 $ 0.84
+(1) The tax effect of adjustments is the difference between the tax provision calculation on a GAAP basis and on an adjusted non-GAAP basis.

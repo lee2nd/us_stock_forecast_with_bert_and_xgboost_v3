@@ -1,0 +1,105 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Presentation
+This discussion should be read in conjunction with our audited financial statements and related notes included elsewhere in this document. Discussions of 2019 items and year-to-year comparisons of 2020 and 2019 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 on our Annual report on Form 10-K for the year ended December 31, 2020. The following discussion (as well as other discussions in this document) contains forward-looking statements. Please see “Cautionary Statement Regarding Forward-Looking Statements” for a discussion of uncertainties, risks and assumptions associated with these statements.
+The Company
+Rollins, Inc. (“Rollins,” “we,” “us,” “our,” or the “Company”), is an international services company headquartered in Atlanta, Georgia that provides pest and termite control services to both residential and commercial customers through its wholly-owned subsidiaries and independent franchises in the United States, Canada, Australia, Europe, and Asia with international franchises in Canada, Central and South America, the Caribbean, Europe, the Middle East, Asia, Africa, and Australia. Our pest and termite control services are performed pursuant to terms of contracts that specify the pricing arrangement with the customer. The Company operates as one reportable segment and the results of operations and its financial condition are not reliant upon any single customer.
+General Operating Comments
+2021 marked the Company’s 24th consecutive year of increased revenues. Revenues for the year rose 12.2% percent to $2.4 billion compared to $2.2 billion for the prior year. Income before income taxes increased 33.9% to $474.8 million compared to $354.7 million the prior year. Net income increased 34.5% to $350.7 million, with earnings per diluted share of $0.71 compared to $260.8 million, or $0.53 per diluted share for the prior year. The Company has continued to increase dividends to investors with $0.42 per diluted share paid in 2021 as compared to $0.33 per diluted share for the prior year, resulting in a 27% increase in dividends per share. In 2020, the dividend was reduced due to the uncertainty surrounding the effects of the COVID-19 pandemic (“COVID-19”) to our business.
+Cybersecurity Incident
+In October 2021, a third-party information technology Managed Service Provider (“MSP”) of the Company was the target of a cybersecurity incident (the “Incident”) resulting in the shutdown of the Company’s third-party Customer Relationship Management software used by certain of our subsidiaries whose aggregate annual revenues comprise less than 11% of our total revenues. Upon notice of the Incident from the MSP, the Company immediately initiated its incident response protocols. There was no known material day-to-day impact to our ability to provide normal service to customers and there was no known indication that the information of our customers or employees was compromised as a result of the Incident. The Incident did not have a material adverse effect on our business, results of operation or financial condition; however, we may continue to be the target of further cybersecurity incidents that could possibly have a material adverse effect on our business, reputation, results of operation or financial condition. More information about our cybersecurity risks is discussed under Item 1A., “Risk Factors,” of Part I of this Annual Report on Form 10-K.
+COVID-19
+The global spread and unprecedented impact of the COVID-19 pandemic (“COVID-19”) continues to create significant volatility, uncertainty and economic disruption around the world. In 2020, the pest control industry was designated as “essential” by the Department of Homeland Security. The Company has been able to remain operational in every part of the world in which it operates. With the availability of vaccinations, many COVID-19 restrictions have been lifted; however, public hesitancy regarding the vaccinations and the continued spread of COVID-19, may result in additional restrictions and mandates being imposed. The situation related to COVID-19 continues to be complex and dynamic. We cannot reasonably estimate the duration of the pandemic or fully ascertain its impact to
+our future results. We will continue to actively monitor the rapidly evolving situation related to COVID-19 and may take actions that may alter our operations, including those that may be required by federal, state, or local authorities, or that we determine are in the best interests of our employees, customers and communities. We do not know when, or if, it will become practical to relax or eliminate some or all of these measures entirely as there is no guarantee that COVID-19 will be fully contained.
+The Company’s consolidated financial statements reflect estimates and assumptions made by management that affect the reported amounts of assets and liabilities and related disclosures as of the date of the consolidated financial statements. The Company considered the impact of COVID-19 on the assumptions and estimates used in preparing the consolidated financial statements. In the opinion of management, all adjustments necessary for a fair presentation of the Company’s financial results for the year have been made. These adjustments are of a normal recurring nature but complicated by the uncertainty surrounding the global economic impact of COVID-19. The results of operations for the year ended December 31, 2021 are not necessarily indicative of results for future years. The severity, magnitude and duration, as well as the economic consequences of COVID-19, are uncertain, rapidly changing and difficult to predict. Therefore, our accounting estimates and assumptions may change over time in response to COVID-19 and may change materially in future periods.
+Results of Operations-2021 Versus 2020
+Revenues
+Revenues for the year ended December 31, 2021 were $2.4 billion, an increase of $263.1 million, or 12.2%, from 2020 revenues of $2.2 billion. Comparing 2021 to 2020, residential pest control revenue increased 13%, commercial pest control revenue increased 10% and termite and ancillary services grew 14%. The Company’s revenue mix for the year ended December 31, 2021 consisted primarily of 46% residential pest control, 34% commercial pest control and 20% termite and ancillary revenues (such as moisture control, insulation, deck and gutter work). The Company’s foreign operations accounted for approximately 8% and 7% of total revenues for the years ended December 31, 2021 and 2020, respectively.
+Cost of Services Provided
+For the twelve months ended December 31, 2021, cost of services provided increased $114.0 million, or 10.9%, compared to the twelve months ended December 31, 2020. The increase was driven by increased people costs and materials and supplies due to the increase in revenues. Additionally, fleet costs increased mainly driven by an increase in fuel costs.
+Sales, General and Administrative
+For the twelve months ended December 31, 2021, sales, general and administrative (SG&A) expenses increased $71.3 million, or 10.9%, compared to the twelve months ended December 31, 2020. The increases were driven by increased people costs mostly due to sales personnel, directly related to our increase in revenues. Additionally, SG&A increased due to the accrual related to the potential settlement of the ongoing SEC matter of $8.0 million, increased advertising costs and the charitable donation of certain excess personal protection equipment.
+Depreciation and Amortization
+For the twelve months ended December 31, 2021, depreciation and amortization increased $5.9 million, or 6.7%, compared to the twelve months ended December 31, 2020. The increase was due to the additional amortization of customer contracts from several acquisitions.
+Other (Income) Expense
+During the twelve months ended December 31, 2021, other income increased $44.0 million primarily due to the Company recognizing a gain of $35.7 million compared to a loss of $1.6 million in the prior year. The current year gain is primarily related to multiple sale-leaseback transactions where the Company sold and leased back properties that it acquired in 2019 with the Clark Pest Control acquisition. Additionally, 2020 included $6.7 million of accelerated stock compensation vesting expense that did not occur in 2021.
+Interest Expense, Net
+Interest expense, net for the years ended December 31, 2021 and 2020 was $0.8 million and $5.1 million respectively. The decrease was primarily driven by the lower average debt balance in 2021 compared to the same period in 2020.
+Income Taxes
+The Company’s effective tax rate decreased to 26.1% in 2021 compared to 26.5% in 2020. The rate is lower in the current year due to a net increase in beneficial deductions, driven by an increase in the portion of officer’s compensation deductions that were allowable.
+Liquidity and Capital Resources
+Cash and Cash Flow
+Cash from operating activities is the principal source of cash generation for our businesses.
+The most significant source of cash in our cash flow from operations is customer-related activities, the largest of which is collecting cash resulting from services sold. The most significant operating use of cash is to pay our suppliers, employees, tax authorities and others for a wide range of material and services.
+The Company’s cash and cash equivalents at December 31, 2021, and 2020 were $105.3 million and $98.5 million, respectively.
+Cash Provided by Operating Activities
+The Company’s operations generated cash of $401.8 million for the year ended December 31, 2021 primarily from net income of $350.7 million, compared with cash provided by operating activities of $435.8 million in 2020. During 2021, the Company paid the employer-only payroll taxes that were deferred under the Coronavirus Aid, Relief, and Economic Security Act (the “CARES” Act) which was signed into law on March 27, 2020. The CARES Act tax deferrals in 2020 and payments in 2021 are the primary drivers for the decline in net cash from operating activities in 2021. The Company believes its current cash and cash equivalents balances, future cash flows expected to be generated from operating activities, and available borrowings under its $175 million revolving credit facility and $250 million term loan facility, (which was amended in January 2022 to $300 million) will be sufficient to finance its current operations and obligations, and fund expansion of the business for the foreseeable future.
+Cash Used in Investing Activities
+The Company used $99.0 million in investing activities for the year ended December 31, 2021 and used $162.4 million for the year ended December 31, 2020. The Company invested approximately $27.2 million in capital expenditures during 2021 compared to $23.2 million during 2020. Capital expenditures for the year consisted primarily of property purchases, equipment replacements and technology-related projects. The Company expects to invest between $25.0 million and $35.0 million in 2022 in capital expenditures.
+Cash paid for acquisitions totaled $146.1 million for the year ended December 31, 2021 as compared to $147.6 million for the year ended December 31, 2020. The expenditures for the Company’s acquisitions were funded through existing cash balances, borrowings on our line of credit, a term loan, and other operating cash flows. The Company continues to seek new acquisitions. To offset the use of cash we had approximately $74.4 million related to the sale of assets for the year ended December 31, 2021, mostly related to the Clark Pest property sale leasebacks, as compared to $7.7 million of asset sales for the year ended December 31, 2020.
+Cash Used in or Provided by Financing Activities
+The Company used $290.2 million in financing activities for the year ended December 31, 2021 and $281.3 million in financing activities for the year ended December 31, 2020. The Company repaid $48.0 million of its outstanding debt balance throughout 2021, net of borrowings, compared to $88.5 million during 2020, net of borrowings. A total of $208.7 million was paid in cash dividends ($0.42 per share) during the year ended December 31, 2021 including a special dividend paid in December 2021 of $0.08 per share, compared to $160.5 million in cash dividends paid ($0.33 per share) during the year ended December 31, 2020, including a special dividend paid in December 2020 of $0.09 per share. In 2020, the dividend was reduced due to the uncertainty surrounding the effects of the COVID-19 pandemic (“COVID-19”) to our business.
+In 2012, the Company’s Board of Directors authorized the purchase of up to 5 million shares of the Company’s common stock. After adjustments for stock splits, the total authorized shares under the share repurchase plan are 16.9 million shares. The Company did not purchase shares on the open market during the years ended December 31, 2021, 2020 and 2019. There remain 11.4 million shares authorized to be repurchased under prior Board approval. The Company repurchased $10.7 million, $8.3 million, and $10.0 million of common stock for the years ended December 31, 2021, 2020 and 2019, respectively, from employees for the payment of taxes on vesting restricted shares.
+The Company’s $105.3 million of total cash at December 31, 2021 is primarily cash held at various banking institutions. Approximately $78.1 million is held in cash accounts at international bank institutions and the remaining $27.2 million is primarily held in Federal Deposit Insurance Corporation (“FDIC”) insured non-interest-bearing accounts at various domestic banks which at times may exceed federally insured amounts.
+The Company’s international business is expanding, and we intend to continue to grow the business in foreign markets in the future through reinvestment of foreign deposits and future earnings as well as acquisitions of unrelated companies. Repatriation of cash from the Company’s international subsidiaries is not a part of the Company’s current business plan.
+Rollins maintains adequate liquidity and capital resources, without regard to its foreign deposits, that are directed to finance domestic operations and obligations and to fund expansion of its domestic business. In order to comply with applicable debt covenants, the Company is required to maintain at all times a leverage ratio of not greater than 3.00:1.00. The leverage ratio is calculated as of the last day of the fiscal quarter most recently ended. The Company remained in compliance with applicable debt covenants at December 31, 2021 and expects to maintain compliance throughout 2022.
+For Information regarding our Revolving Credit Agreement see Note 4 - Debt of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+Litigation
+For discussion on the Company’s legal contingencies, see Note 13 - Commitments and Contingencies to the accompanying financial statements, and Part I, Item 3, Legal Proceedings.
+Contractual Obligations and Contingent Liabilities and Commitments
+The impact that the Company’s contractual obligations as of December 31, 2021 are expected to have on our liquidity and cash flow in future periods is as follows:
+Payments due by period
+Less than
+More than
+Contractual obligations (in thousands)
+Total
+1 year
+2-3 years
+4-5 years
+5 years
+Term loan1
+$
+300,000
+$
+15,000
+$
+285,000
+$
+-
+$
+-
+Acquisition holdbacks and earnouts
+25,156
+23,614
+1,542
+-
+-
+Non-cancelable operating leases
+277,384
+82,959
+102,806
+37,595
+54,024
+Unrecognized tax positions2
+1,248
+-
+1,248
+-
+-
+Total
+$
+603,788
+$
+121,573
+$
+390,596
+$
+37,595
+$
+54,024
+1.These amounts represent expected payments under the January 27, 2022 amended Credit Agreement as detailed in Note 4 to the financial statements.
+2.These amounts represent expected payments with interest for unrecognized tax benefits as of December 31, 2021.
+Critical Accounting Estimates
+The Company views critical accounting estimates to be those that are very important to the portrayal of our financial condition and results of operations, and that require management’s most difficult, complex or subjective judgments. The circumstances that make these judgments difficult or complex relate to the need for management to make estimates about the effect of matters that are inherently uncertain. We believe our critical accounting estimate to be as follows:
+Accrued Insurance-The Company retains, up to specified limits, certain risks related to general liability, workers’ compensation and auto liability. Risks are managed through either high deductible insurance or, for Clark Pest Control only, a non-affiliated group captive insurance member arrangement. The estimated costs of existing and future claims under the retained loss program are accrued based upon historical trends as incidents occur, whether reported or unreported (although actual settlement of the claims may not be made until future periods) and may be subsequently revised based on developments relating to such claims. The group captive is subject to a third-party actuary retained by the captive manager, independent from the Company. For the high deductible insurance program, the Company contracts with an independent third-party actuary on a semi-annual basis to provide the Company an estimated liability based upon historical claims information. The actuarial study is a major consideration in establishing the reserve, along with management’s knowledge of changes in business practice and existing claims compared to current balances. Management’s judgment is inherently subjective as a number of factors are outside management’s knowledge and control. Additionally, historical information is not always an accurate indication of future events. The Company continues to be proactive in safety and risk management to develop and maintain ongoing programs to reduce and prevent incidents and claims. Initiatives that have been implemented include required pre-employment screening and ongoing motor vehicle record review for all drivers, post-offer physicals for new employees, pre-hire, random and post incident drug testing, driver training and post-injury nurse triage for work-related injuries. The accruals and reserves we hold are based on estimates that involve a degree of judgment and are inherently variable and could be overestimated or insufficient. If actual claims exceed our estimates, our operating results could be materially affected, and our ability to take timely corrective actions to limit future costs may be limited.
+Recent Accounting Guidance and Other Policies and Estimates
+See Note 1 - Summary of Significant Accounting Policies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.

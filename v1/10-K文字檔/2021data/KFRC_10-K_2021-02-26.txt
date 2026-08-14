@@ -1,0 +1,288 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+This MD&A should be read in conjunction with our consolidated financial statements and the accompanying notes thereto contained in Item 8. Financial Statements and Supplementary Data of this report, as well as Item 1. Business of this report, for an overview of our operations and business environment.
+EXECUTIVE SUMMARY
+The following is an executive summary of what Kforce believes are highlights for 2020, which should be considered in the context of the additional discussions herein and in conjunction with the consolidated financial statements and notes thereto.
+•Revenue for the year ended December 31, 2020 increased 3.3%, on a billing day basis, to $1.40 billion in 2020 from $1.35 billion in 2019. Revenue decreased 0.8% for Tech and increased 20.2% for FA.
+•Flex revenue increased 4.5% on a billing day basis, to $1.36 billion in 2020 from $1.30 billion in 2019. Flex revenue decreased 0.8%, on a billing day basis, for Tech and increased 25.8%, on a billing day basis, for FA. During 2020, we secured contracts to support government-sponsored COVID-19 related initiatives that benefited FA Flex with $114.7 million in revenues for the year ended December 31, 2020. Excluding revenues from the COVID-19 Business, our FA Flex business would have declined 17.5% in 2020 on a year-over-year basis.
+•Direct Hire revenue decreased 29.6% to $33.6 million in 2020 from $47.7 million in 2019.
+•Gross profit margin decreased 100 basis points to 28.3% in 2020 due primarily to lower Direct Hire revenue mix. Flex gross profit margin decreased 10 basis points to 26.6% in 2020 from 26.7% in 2019. Flex gross profit margin increased 10 basis points for Tech and decreased 140 basis points for FA.
+•SG&A expenses as a percentage of revenue for the year ended December 31, 2020 decreased to 22.2% from 23.3% in 2019 . The decrease is primarily related to leverage from our revenue growth, continued improvements in associate productivity, reductions in certain areas such as travel and office related expenses given pandemic restrictions and overall tight management of spend.
+•Income from continuing operations for the year ended December 31, 2020, increased 2.7% to $56.0 million, or $2.62 per share, from $54.6 million, or $2.29 per share, in 2019.
+•The Firm returned $46.2 million of capital to our shareholders in the form of open market repurchases totaling $29.4 million, or 1.0 million shares, and quarterly dividends totaling $16.8 million, or $0.80 per share, during the year ended December 31, 2020.
+•In March 2020, Kforce entered into a forward-starting interest rate swap agreement with an interest rate of 0.61%, which is added to the applicable margin under our credit facility, resulting in a notional amount of our interest rates swap of $35.0 million, for a total notional amount of $100.0 million for our two interest rate swaps. This was done to primarily reduce liquidity risk at the beginning of the COVID-19 pandemic and to take advantage of historically low interest rates.
+•The total amount outstanding under our Credit Facility increased $35.0 million to $100.0 million as of December 31, 2020 as compared to $65.0 million as of December 31, 2019. We exited the year with $3.5 million of net cash compared to $45.2 million of net debt as of December 31, 2019.
+•Cash provided by operating activities was $109.2 million during the year ended December 31, 2020 compared to $66.6 million for 2019, primarily due to the deferral of roughly $38.6 million in payroll taxes as a result of the Coronavirus, Aid, Relief and Economic Security Act (the “CARES Act”).
+RESULTS OF OPERATIONS
+Certain discussions of the changes in our results of operations from the year ended December 31, 2019 as compared to the year ended December 31, 2018 have been omitted from this Form 10-K, but may be found in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Form 10-K for the fiscal year ended December 31, 2019 filed with the SEC on February 21, 2020.
+In 2020, the U.S. and global macro-economic environments were severely impacted by the COVID-19 economic and health crisis. Certain sectors of the U.S. economy were more acutely impacted by this crisis, such as the hospitality, transportation, retail, entertainment, health services and manufacturing sectors. We generate revenue within each of the aforementioned sectors of the U.S. economy though our top three industries served are financial services, business services and telecommunications., which have not been as acutely impacted by this crisis.
+Despite certain adverse effects to our business due to the abrupt economic disruption from the COVID-19 economic and health crisis and related governmental rules and regulations, we believe we were strategically well-situated as we entered the crisis in early 2020. The decisions we made to principally focus our efforts on helping world-class companies solve their strategic objectives by providing critical technology talent and solutions provided an important level of resilience to our revenues in 2020. In addition, the COVID-19 Business provided an important level of support to overall FA revenues, which were more acutely impacted at the beginning of this crisis. Our strategic positioning and execution resulted in what we believe is strong financial performance in 2020 and provides us confidence moving forward.
+The following table presents certain items in our Consolidated Statements of Operations and Comprehensive Income as a percentage of revenue for the years ended:
+DECEMBER 31,
+2020 2019 2018
+Revenue by segment:
+Tech 75.1 % 78.5 % 75.9 %
+FA 24.9 21.5 24.1
+Total Revenue 100.0 % 100.0 % 100.0 %
+Revenue by type:
+Flex 97.6 % 96.5 % 96.5 %
+Direct Hire 2.4 3.5 3.5
+Total Revenue 100.0 % 100.0 % 100.0 %
+Gross profit 28.3 % 29.3 % 29.6 %
+Selling, general and administrative expenses 22.2 % 23.3 % 23.6 %
+Depreciation and amortization 0.4 % 0.4 % 0.5 %
+Income from operations 5.7 % 5.6 % 5.6 %
+Income from continuing operations, before income taxes 5.4 % 5.3 % 5.2 %
+Income from continuing operations 4.0 % 4.0 % 3.9 %
+Income from discontinued operations, net of tax - % 5.7 % 0.5 %
+Net income 4.0 % 9.7 % 4.4 %
+Revenue. The following table presents revenue by type for each segment and percentage change from the prior period for the years ended December 31 (in thousands):
+2020 Increase
+(Decrease) 2019 Increase
+(Decrease) 2018
+Tech
+Flex revenue $ 1,032,901 (0.4) % $ 1,037,380 6.8 % $ 971,310
+Direct Hire revenue 16,727 (18.3) % 20,479 9.1 % 18,779
+Total Tech revenue $ 1,049,628 (0.8) % $ 1,057,859 6.8 % $ 990,089
+FA
+Flex revenue $ 331,196 26.3 % $ 262,307 (8.6) % $ 286,939
+Direct Hire revenue 16,876 (38.0) % 27,221 1.2 % 26,909
+Total FA revenue $ 348,072 20.2 % $ 289,528 (7.7) % $ 313,848
+Total Flex revenue $ 1,364,097 5.0 % $ 1,299,687 3.3 % $ 1,258,249
+Total Direct Hire revenue 33,603 (29.6) % 47,700 4.4 % 45,688
+Total Revenue $ 1,397,700 3.7 % $ 1,347,387 3.3 % $ 1,303,937
+Our quarterly operating results are affected by the number of billing days in a quarter. The following table presents the year-over-year revenue growth rates, on a billing day basis, for the last five quarters (in thousands, except Billing Days):
+Year-Over-Year Revenue Growth Rates
+(Per Billing Day)
+Q4 2020 Q3 2020 Q2 2020 Q1 2020 Q4 2019
+Billing days 62 64 64 64 62
+Tech Flex 0.8 % (4.2) % (3.0) % 3.3 % 4.8 %
+FA Flex 26.0 % 51.6 % 28.7 % (3.4) % (7.6) %
+Total Flex 5.9 % 6.9 % 3.4 % 1.9 % 2.1 %
+Flex Revenue. The key drivers of Flex revenue are the number of consultants on assignment, billable hours, the bill rate per hour and, to a limited extent, the amount of billable expenses incurred by Kforce.
+Flex revenue for our largest segment, Tech, decreased 0.4% (0.8% on a billing day basis) during the year ended December 31, 2020, as compared to the same period in 2019. The decline was primarily driven by assignment ends with clients in industries that were most significantly impacted by the COVID-19 economic and health crisis and lower overall demand for our services as a result of the crisis. The number of consultants on assignment in Tech Flex have grown 15% since early June 2020 and new assignment starts in the fourth quarter of 2020 increased 16% from the third quarter of 2020. Additionally, lower billable hours in our Tech business were partially offset by higher average bill rates, which increased 4.3% on a year-over-year basis in 2020. This increase was primarily due to our clients retaining our more highly skilled consultants given the scarcity of talent and the assignments that were ended at the onset of this pandemic were lower skilled areas that were less capable of working remotely. We believe that the crisis has exponentially elevated the imperative for companies to rapidly digitize their businesses, transform business models and drive productivity gains through technology investment. We expect growth in our Tech Flex business in 2021 as COVID-19 related restrictions ease and economic momentum builds.
+Our FA segment experienced an increase in Flex revenue of 26.3% during the year ended December 31, 2020, as compared to the same period in 2019, primarily driven by the COVID-19 Business that contributed approximately $114.7 million in revenue during the year ended December 31, 2020. This positively impacted FA Flex revenue growth rates by 43.7% for 2020. Similar to our Tech Flex business, we have been successful at growing the number of consultants on assignment in our FA business (excluding the COVID-19 Business) by 33% since early June 2020. As we move into 2021, we expect overall revenues in FA Flex to decline as a result of expected declines in revenues from our COVID-19 Business as well as the strategic migration of our FA business towards more highly-skilled roles that are less susceptible to technological change location and automation.
+The following table presents the key drivers for the change in Flex revenue by segment over the prior period (in thousands):
+YEAR ENDED DECEMBER 31, YEAR ENDED DECEMBER 31,
+2020 vs. 2019 2019 vs. 2018
+Key Drivers - Increase (Decrease) Tech FA Tech FA
+Volume - hours billed $ (41,950) $ 91,662 $ 35,194 $ (38,922)
+Bill rate 42,088 (22,396) 30,469 14,145
+Billable expenses (4,617) (377) 407 145
+Total change in Flex revenue $ (4,479) $ 68,889 $ 66,070 $ (24,632)
+The following table presents total Flex hours billed by segment and percentage change over the prior period for the years ended December 31 (in thousands):
+2020 Increase
+(Decrease) 2019 Increase
+(Decrease) 2018
+Tech 13,070 (4.1) % 13,625 3.7 % 13,145
+FA 9,615 35.0 % 7,120 (13.6) % 8,241
+Total Flex hours billed 22,685 9.4 % 20,745 (3.0) % 21,386
+Direct Hire Revenue. The key drivers of Direct Hire revenue are the number of placements and the associated placement fee. Direct Hire revenue also includes conversion revenue, which may occur when a consultant initially assigned to a client on a temporary basis is later converted to a permanent placement for a fee.
+Direct Hire revenue decreased 29.6% during the year ended December 31, 2020, as compared to the same period in 2019, primarily driven by a significant decline in the volume of placements due to the economic environment. However, we have seen a sequential increase in our Direct Hire revenue during the third and fourth quarters of 2020 and expect this trend to continue in the first quarter of 2021.
+The following table presents the key drivers for the change in Direct Hire revenue over the prior period (in thousands):
+YEAR ENDED DECEMBER 31, YEAR ENDED DECEMBER 31,
+2020 vs. 2019 2019 vs. 2018
+Key Drivers - Increase (Decrease) Tech FA Tech FA
+Volume - number of placements $ (4,331) $ (10,636) $ 1,113 $ (1,903)
+Placement fee 579 291 587 2,215
+Total change in Direct Hire revenue $ (3,752) $ (10,345) $ 1,700 $ 312
+The following table presents the total number of placements by segment and percentage change over the prior period for the years ended December 31:
+2020 Increase
+(Decrease) 2019 Increase
+(Decrease) 2018
+Tech 868 (21.2) % 1,101 6.0 % 1,039
+FA 1,176 (39.1) % 1,930 (7.1) % 2,077
+Total number of placements 2,044 (32.6) % 3,031 (2.7) % 3,116
+The following table presents the average fee per placement by segment and percentage change over the prior period for the years ended December 31:
+2020 Increase
+(Decrease) 2019 Increase
+(Decrease) 2018
+Tech $ 19,271 3.6 % $ 18,604 3.0 % $ 18,070
+FA $ 14,351 1.8 % $ 14,103 8.8 % $ 12,957
+Total average placement fee $ 16,440 4.5 % $ 15,738 7.3 % $ 14,662
+Gross Profit. Gross profit is determined by deducting direct costs (primarily consultant compensation, payroll taxes, payroll-related insurance and certain fringe benefits, as well as independent contractor costs) from total revenue. In addition, there are no consultant payroll costs associated with Direct Hire placements; thus, all Direct Hire revenue increases gross profit by the full amount of the placement fee.
+The following table presents the gross profit percentage (gross profit as a percentage of total revenue) for each segment and percentage change over the prior period for the years ended December 31:
+2020 Increase
+(Decrease) 2019 Increase
+(Decrease) 2018
+Tech 27.6 % (0.4) % 27.7 % (1.1) % 28.0 %
+FA 30.6 % (13.1) % 35.2 % 1.1 % 34.8 %
+Total gross profit percentage 28.3 % (3.4) % 29.3 % (1.0) % 29.6 %
+Total gross profit percentage decreased 100 basis points for the year ended December 31, 2020, as compared to the same period in 2019, primarily driven by the decrease in the mix of Direct Hire revenue.
+Flex gross profit percentage (Flex gross profit as a percentage of Flex revenue) provides management with helpful insight into the other drivers of total gross profit percentage driven by our Flex business such as changes in the spread between the consultants’ bill rate and pay rate.
+The following table presents the Flex gross profit percentage for each segment and percentage change over the prior period for the years ended December 31:
+2020 Increase
+(Decrease) 2019 Increase
+(Decrease) 2018
+Tech 26.4 % 0.4 % 26.3 % (1.1) % 26.6 %
+FA 27.1 % (4.9) % 28.5 % (0.3) % 28.6 %
+Total Flex gross profit percentage 26.6 % (0.4) % 26.7 % (1.5) % 27.1 %
+The 10 basis point decrease in Flex gross profit percentage for the year ended December 31, 2020, as compared to the same period in 2019, was primarily due to lower Flex gross profit margins on the COVID-19 Business and some spread compression in our FA business unrelated to the COVID-19 Business.
+Overall, our Flex gross profit percentage decreased slightly for the year ended December 31, 2020, as compared to the same period in 2019, although there were notable fluctuations within our segments.
+•Tech Flex gross profit margins increased 10 basis points for the year ended December 31, 2020 as compared to the same period in 2019, primarily due to a more favorable payroll tax environment. As we look towards 2021, we expect spreads in our Tech Flex business to be relatively stable.
+•FA Flex gross profit margins decreased 140 basis points for the year ended December 31, 2020, as compared to the same period in 2019, primarily due to the COVID-19 Business, which contributed a lower gross profit margin than the rest of the FA portfolio. The estimated Flex gross profit margin for the COVID-19 business was 25.4%, which is roughly 250 basis points lower than the remaining FA Flex business. As we look towards 2021, we expect spreads to be relatively stable outside of the revenue mix impact from the COVID-19 Business, which will likely continue to impact Flex gross profit margins on a year-over-year basis in the first quarter of 2021.
+The following table presents the key drivers for the change in Flex gross profit by segment over the prior period (in thousands):
+YEAR ENDED DECEMBER 31, YEAR ENDED DECEMBER 31,
+2020 vs. 2019 2019 vs. 2018
+Key Drivers - Increase (Decrease) Tech FA Tech FA
+Revenue impact $ (1,177) $ 19,655 $ 17,592 $ (7,056)
+Profitability impact 1,669 (4,864) (3,700) (297)
+Total change in Flex gross profit $ 492 $ 14,791 $ 13,892 $ (7,353)
+Kforce continues to focus on effective pricing and optimizing the spread between bill rates and pay rates. We believe this will serve over time to obtain the optimal volume, rate, effort and duration of assignment, while ultimately maximizing the benefit for our clients, our consultants and Kforce.
+SG&A Expenses. Total compensation, commissions, payroll taxes and benefit costs as a percentage of SG&A represented 83.0%, 83.1% and 83.6% of SG&A for the years ended December 31, 2020, 2019 and 2018, respectively. Commissions and other bonus incentives for our revenue-generating talent are variable costs driven primarily by revenue and gross profit levels, and associate performance. Therefore, as gross profit levels change, these expenses would also generally be anticipated to change, but remain relatively consistent as a percentage of revenue.
+The following table presents certain components of SG&A as a percentage of total revenue for the years ended December 31 (in thousands):
+2020 % of
+Revenue 2019 % of
+Revenue 2018 % of
+Revenue
+Compensation, commissions, payroll taxes and benefits costs $ 257,802 18.4 % $ 261,185 19.4 % $ 256,793 19.7 %
+Other (1)
+52,911 3.8 % 52,982 3.9 % 50,457 3.9 %
+Total SG&A $ 310,713 22.2 % $ 314,167 23.3 % $ 307,250 23.6 %
+(1) Includes items such as bad debt expense, lease expense, professional fees, travel, telephone, computer and certain other expenses.
+SG&A as a percentage of revenue decreased 110 basis points in 2020, as compared to 2019. The decrease is primarily driven by leverage from our revenue growth, continued improvements in associate productivity, reductions in certain areas such as travel and office related expenses given COVID-19 restrictions and overall tight management of spend. During 2020, we prioritized the retention of our most productive people and more tightly managed overall SG&A spend. For the year ended December 31, 2020, SG&A was negatively impacted by an increase in credit loss reserves due to a higher estimated risk of default within our accounts receivable portfolio resulting from the current economic and health crisis, as well as approximately $1.9 million in operating lease and other expenses related to the streamlining of our field offices. Included in the year ended December 31, 2019 was approximately $2.0 million of severance and other costs due to actions taken as a result of the KGS divestiture, which negatively impacted SG&A.
+The Firm continues to focus on improving the productivity of our associates and generating increased operating leverage as revenues grow.
+Depreciation and Amortization. The following table presents depreciation and amortization expense and percentage change over the prior period by major category for the years ended December 31 (in thousands):
+2020 Increase
+(Decrease) 2019 Increase
+(Decrease) 2018
+Fixed asset depreciation (includes finance leases) $ 4,073 (17.4) % $ 4,929 (13.7) % $ 5,712
+Capitalized software amortization 1,182 5.4 % 1,121 (0.3) % 1,124
+Total Depreciation and amortization $ 5,255 (13.1) % $ 6,050 (11.5) % $ 6,836
+Other Expense, Net. Other expense, net was $5.0 million in 2020, $3.4 million in 2019 and $4.5 million in 2018, and consisted primarily of interest expense related to outstanding borrowings under our credit facility.
+During the years ended December 31, 2020 and 2019, Other expense, net also included our proportionate share of the loss from WorkLLama, LLC (“WorkLLama”), equity method investment of $1.7 million and $0.8 million, respectively. Although the impact of the COVID-19 economic and health crisis remains highly uncertain, it could have a material adverse effect on the fair value of our equity method investment in WorkLLama. If the fair value falls below the book value of the equity method investment, we would be required to evaluate whether an other-than-temporary impairment has occurred. Refer to Note 1 - “Summary of Significant Accounting Policies” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a more detailed discussion on our equity method investment.
+Income Tax Expense. Income tax expense as a percentage of income from continuing operations, before income taxes (our “effective tax rate” for continuing operations) for the years ended December 31, 2020, 2019 and 2018 were 25.5%, 23.6% and 25.1%, respectively. The 2020 effective tax rate was negatively impacted by a lower Work Opportunity Tax Credit in 2020 versus 2019. The 2019 effective tax rate was favorably impacted primarily by a greater tax benefit from the vesting of restricted stock and favorable tax adjustments compared to 2018.
+Income from Discontinued Operations, Net of Tax. During 2019, we completed the sale of the GS segment, which consisted of KGS and TraumaFX® Solutions, Inc. (“TFX”), our federal government product business. Kforce did not have significant continuing involvement in the operations of KGS or TFX after the sale and reported the GS segment as discontinued operations in the consolidated statements of operations for all years presented. Refer to Note 2 - “Discontinued Operations” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a more detailed discussion.
+On April 1, 2019, Kforce completed the sale of all of the issued and outstanding stock of Kforce Government Holdings, Inc., including its wholly-owned subsidiary, KGS, to ManTech International Corporation for a cash purchase price of $115.0 million. Our gain on the sale of KGS, net of transaction costs, was $72.3 million. Total transaction costs were $9.6 million, which
+primarily includes legal and broker fees, transaction bonuses and accelerated stock-based compensation expense for KGS management triggered by a change in control of KGS.
+On June 7, 2019, Kforce completed the sale of all of the issued and outstanding stock of TFX to an unaffiliated third party for a cash purchase price of $18.4 million less a post-closing working capital adjustment of $0.7 million. Our gain on the sale of TFX, net of transaction costs, was $7.0 million. Total transaction costs were $2.2 million, which primarily includes legal and broker fees and transaction bonuses. Due to the sale of TFX, we finalized the settlement of a contingent consideration liability related to the acquisition of TFX in 2014 and paid $0.6 million during the year ended December 31, 2019.
+The effective tax rates for discontinued operations, including the gain on sale of discontinued operations, for the years ended December 31, 2019 and 2018 were 4.4% and 23.4%, respectively. There was no activity relating to discontinued operations in 2020. The GS effective tax rate for 2019 was low because of the minimal income tax obligation for the sale of KGS due to the efficient tax structure of the transaction. The GS effective tax rate for 2018 was positively impacted by the TCJA. The GS effective tax rate for 2017 was unfavorably impacted by the revaluation of our net deferred tax assets as a result of the TCJA.
+Non-GAAP Financial Measures
+Free Cash Flow. “Free Cash Flow”, a non-GAAP financial measure, is defined by Kforce as net cash provided by operating activities determined in accordance with GAAP, less capital expenditures. Management believes this provides an additional way of viewing our liquidity that, when viewed with our GAAP results, provides a more complete understanding of factors and trends affecting our cash flows and is useful information to investors as it provides a measure of the amount of cash generated from the business that can be used for strategic opportunities including investing in our business, making acquisitions, repurchasing common stock or paying dividends. Free cash flow has limitations due to the fact that it does not represent the residual cash flow available for discretionary expenditures. Therefore, we believe it is important to view free cash flow as a complement to our Consolidated Statements of Cash Flows. Free cash flows includes results from discontinued operations for the years ended December 31, 2020, 2019 and 2018.
+The following table presents Free Cash Flow (in thousands):
+YEARS ENDED DECEMBER 31,
+2020 2019 2018
+Net income $ 56,039 $ 130,862 $ 57,980
+Non-cash provisions and other 27,582 (51,650) 22,643
+Changes in operating assets/liabilities 25,538 (12,595) 7,100
+Net cash provided by operating activities 109,159 66,617 87,723
+Capital expenditures (6,475) (10,359) (5,170)
+Free cash flow 102,684 56,258 82,553
+Equity method investment (4,000) (9,000) -
+Change in debt 35,000 (6,800) (44,723)
+Repurchases of common stock (35,613) (124,453) (22,187)
+Cash dividends (16,787) (16,608) (14,871)
+Net proceeds from the sale of assets held for sale 3,548 122,544 1,000
+Other (1,177) (2,222) (2,039)
+Change in cash and cash equivalents $ 83,655 $ 19,719 $ (267)
+Adjusted EBITDA. “Adjusted EBITDA”, a non-GAAP financial measure, is defined by Kforce as net income before income from discontinued operations, net of tax, depreciation and amortization, stock-based compensation expense, interest expense, net, income tax expense and loss from equity method investment. Adjusted EBITDA should not be considered a measure of financial performance under GAAP. Items excluded from Adjusted EBITDA are significant components in understanding and assessing our past and future financial performance, and this presentation should not be construed as an inference by us that our future results will be unaffected by those items excluded from Adjusted EBITDA. Adjusted EBITDA is a key measure used by management to assess our operations including our ability to generate cash flows and our ability to repay our debt obligations. Management believes it is useful information to investors as it provides a good metric of our core profitability in comparing our performance to our competitors, as well as our performance over different time periods. The measure should not be considered in isolation or as an alternative to net income, cash flows or other financial statement information presented in the consolidated financial statements as indicators of financial performance or liquidity. The measure is not determined in accordance with GAAP and is susceptible to varying calculations, and as presented, may not be comparable to similarly titled measures of other companies.
+In addition, although we excluded amortization of stock-based compensation expense because it is a non-cash expense, we expect to continue to incur stock-based compensation in the future and the associated stock issued may result in an increase in our outstanding shares of stock, which may result in the dilution of our shareholder ownership interest. We suggest that you evaluate these items and the potential risks of excluding such items when analyzing our financial position.
+The following table presents Adjusted EBITDA and includes a reconciliation of Adjusted EBITDA to net income (in thousands):
+YEARS ENDED DECEMBER 31,
+2020 2019 2018
+Net income $ 56,039 $ 130,862 $ 57,980
+Income from discontinued operations, net of tax - 76,296 7,104
+Income from continuing operations 56,039 54,566 50,876
+Depreciation and amortization 5,255 6,050 6,836
+Stock-based compensation expense 11,595 9,825 8,489
+Interest expense, net 3,396 2,586 4,468
+Income tax expense 19,173 16,830 17,004
+Loss from equity method investment 1,681 831 -
+Adjusted EBITDA $ 97,139 $ 90,688 $ 87,673
+Adjusted EBITDA, for the year ended December 31, 2019, was negatively impacted by $2.0 million of severance and other costs due to actions taken as a result of the KGS divestiture.
+LIQUIDITY AND CAPITAL RESOURCES
+To meet our capital and liquidity requirements, we primarily rely on operating cash flow, as well as borrowings under our credit facility. At December 31, 2020 and 2019, we had $103.5 million and $19.8 million, respectively, in cash and cash equivalents, which consisted primarily of government money market funds. At December 31, 2020, Kforce had $230.7 million in working capital compared to $160.3 million at December 31, 2019.
+Cash Flows
+Our business has historically generated a significant amount of operating cash flows, which gives us a great opportunity to balance deploying available capital towards (i) investing in our infrastructure to allow sustainable growth via capital expenditures, (ii) our dividend and share repurchase programs, and (iii) maintaining sufficient liquidity to complete acquisitions or other strategic investments.
+The following table presents a summary of our net cash flows from operating, investing and financing activities (in thousands):
+YEARS ENDED DECEMBER 31,
+Cash Provided by (Used in) 2020 2019 2018
+Operating activities $ 109,159 $ 66,617 $ 87,723
+Investing activities (6,927) 103,185 (4,170)
+Financing activities (18,577) (150,083) (83,820)
+Change in cash and cash equivalents $ 83,655 $ 19,719 $ (267)
+Our Consolidated Statements of Cash Flows are presented on a combined basis (continuing operations and discontinued operations). As previously discussed, the GS segment was sold and has been reflected as discontinued operations. The absence of cash flows from the GS segment is not expected to have a significant effect on the future liquidity, financial position or capital resources of Kforce.
+The following table provides information for the total operating and investing cash flows for the GS segment (in thousands):
+YEARS ENDED DECEMBER 31,
+Cash Provided by (Used in) 2020 2019 2018
+GS Operating Activities $ - $ 4,547 $ 10,937
+GS Investing Activities $ - $ 117,798 $ (927)
+Operating Activities
+Cash provided by operating activities was $109.2 million during the year ended December 31, 2020, as compared to $66.6 million during the year ended December 31, 2019. Our largest source of operating cash flows is the collection of trade receivables, and our largest use of operating cash flows is the payment of our associate and consultant compensation. The increase was primarily driven by the deferral of the employer portion of social security taxes, which amounted to $38.6 million, which will be paid equally in 2021 and 2022 as prescribed by the CARES Act, continued positive performance of our accounts receivable portfolio and profitable revenue growth.
+Investing Activities
+Cash used in investing activities was $6.9 million during the year ended December 31, 2020, as compared to cash provided by investing activities of $103.2 million during the year ended December 31, 2019, which includes capital expenditures. Cash flows
+from investing activities for the year ended December 31, 2020 includes the receipt of proceeds from the sale of assets held within the Rabbi Trust, as well as capital investments in our WorkLLama joint venture. Cash flows from investing activities during the year ended December 31, 2019, include the net proceeds from the sale of assets held for sale, as well as capital invested in WorkLLama. We expect to continue selectively investing in our infrastructure, primarily focusing on implementing new and upgrading existing technologies that we expect will provide the most benefit.
+Financing Activities
+Cash used in financing activities was $18.6 million during the year ended December 31, 2020, as compared to $150.1 million during the year ended December 31, 2019. This was primarily driven by the $35.0 million draw down on our Credit Facility during the year ended December 31, 2020, partially offset by a decrease in cash used for repurchases of common stock to conserve our liquidity during the pandemic.
+The following table presents the cash flow impact of the common stock repurchase activity for the years ended December 31 (in thousands):
+2020 2019 2018
+Open market repurchases $ 29,386 $ 118,324 $ 16,069
+Repurchase of shares related to tax withholding requirements for vesting of restricted stock 6,227 6,129 6,118
+Total cash flow impact of common stock repurchases $ 35,613 $ 124,453 $ 22,187
+Cash paid in current year for settlement of prior year repurchases $ - $ 556 $ 3,323
+During the years ended December 31, 2020, 2019 and 2018, Kforce declared and paid dividends of $16.8 million ($0.80 per share), $16.6 million ($0.72 per share) and $14.9 million ($0.60 per share), respectively. On February 5, 2021, Kforce’s Board approved a 15% increase to the Company's quarterly dividend from $0.20 per share to $0.23 per share. The declaration, payment and amount of future dividends are discretionary and will be subject to determination by Kforce’s Board each quarter following its review of, among other things, the Firm’s current and expected financial performance as well as the ability to pay dividends under applicable law.
+We believe that existing cash and cash equivalents, cash flow from operations and available borrowings under our credit facility will be adequate to meet the capital expenditure and working capital requirements of our operations for at least the next 12 months. However, a material deterioration in the economic environment or market conditions, among other things, could negatively impact operating results and liquidity, as well as the ability of our lenders to fund borrowings. Actual results could also differ materially from those indicated as a result of a number of factors, including the use of currently available resources for potential acquisitions and additional stock repurchases.
+Credit Facility
+On May 25, 2017, the Firm entered into a credit agreement with Wells Fargo Bank, National Association, as administrative agent, Wells Fargo Securities, LLC, as lead arranger and bookrunner, Bank of America, N.A., as syndication agent, Regions Bank and BMO Harris Bank, N.A., as co-documentation agents, and the lenders referred to therein (the “Credit Facility”). The maturity date of the Credit Facility is May 25, 2022. Borrowings under the Credit Facility are secured by substantially all of the tangible and intangible assets of the Firm, excluding the Firm’s corporate headquarters and certain other designated collateral. Refer to Note 14 - “Credit Facility” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a complete discussion of our Credit Facility. As of December 31, 2020, $100.0 million was outstanding and $198.5 million, subject to certain covenants, was available and as of December 31, 2019, $65.0 million was outstanding under the Credit Facility.
+Kforce entered into two forward-starting interest rate swap agreements (the “Swaps”) to mitigate the risk of rising interest rates and the Swaps have been designated as a cash flow hedges. Refer to Note 15 - “Derivative Instrument and Hedging Activity” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a complete discussion of the Swaps. As of December 31, 2020 and 2019, the fair value of the Swaps was a liability of $1.8 million and $0.2 million, respectively.
+Stock Repurchases
+The following table presents the open market repurchase activity under the Board-authorized common stock repurchase program for the years ended December 31 (in thousands):
+2020 (1)(2) 2019
+Shares $ Shares $
+Open market repurchases 1,020 $ 29,386 3,315 $ 117,768
+(1) In March 2020, the Board approved an increase in our stock repurchase authorization to an aggregate total of $100.0 million.
+(2) In April 2020, we suspended open market stock repurchases.
+As of December 31, 2020, $84.5 million remained available for further repurchases under the Board-authorized common stock repurchase program.
+Off-Balance Sheet Arrangements
+Kforce provides letters of credit to certain vendors in lieu of cash deposits. At December 31, 2020, Kforce had letters of credit outstanding for operating lease and insurance coverage deposits totaling $1.5 million.
+In June 2019, we entered into a joint venture whereby Kforce has a 50% noncontrolling interest in WorkLLama, a newly formed LLC that is accounted for as an equity method investment. Refer to Note 1 - “Summary of Significant Accounting Policies” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, which discusses a contingent obligation related to this equity method investment.
+These off-balance sheet arrangements do not have a material impact on our liquidity or capital resources. These off-balance sheet arrangements do not provide financing, liquidity, market or credit risk support.
+Contractual Obligations and Commitments
+The following table presents our expected future contractual obligations as of December 31, 2020 (in thousands):
+Payments due by period
+Total Less than
+1 year 1-3 Years 3-5 Years More than
+5 years
+Credit facility (1) $ 107,847 $ 2,554 $ 103,968 $ 1,325 $ -
+Operating lease obligations 21,917 6,115 4,390 8,968 2,444
+Finance lease obligations 131 88 35 8 -
+Purchase obligations (2) 11,739 9,328 1,786 625 -
+Notes and interest payable (3) 224 224 - - -
+Deferred compensation plans liability (4) 38,344 3,842 6,035 5,953 22,514
+Supplemental Executive Retirement Plan (5) 24,967 - 15,231 - 9,736
+Liability for unrecognized tax positions (6) - - - - -
+Total $ 205,169 $ 22,151 $ 131,445 $ 16,879 $ 34,694
+(1) Our credit facility matures May 25, 2022. Our interest rate as of December 31, 2020 was used to forecast the expected future interest rate payments. These payments are inherently uncertain due to fluctuations in interest rates and outstanding borrowings that will occur over the remaining term of the credit facility.
+(2) Purchase obligations include agreements to purchase goods and services that are enforceable, legally binding and specify all significant terms.
+(3) Our notes payable as of December 31, 2020 relates to equipment financing arrangements and are classified in Other current liabilities if payable within the next year or in Other long-term liabilities if payable after the next year in the accompanying Consolidated Balance Sheets. The interest rate on the notes range from 2.58% to 2.71% and expire between April 2020 and October 2021.
+(4) Kforce maintains various non-qualified deferred compensation plans pursuant to which eligible management and highly-compensated key employees may elect to defer all or part of their compensation to later years. These amounts are included in the accompanying Consolidated Balance Sheets and classified as Accounts payable and other accrued liabilities and Other long-term liabilities, as appropriate, and are payable based upon the elections of the plan participants (e.g. retirement, termination of employment, change-in-control). Amounts payable upon the retirement or termination of employment may become payable during the next five years if covered employees schedule a distribution, retire or terminate during that time.
+(5) There is no funding requirement associated with our Supplemental Executive Retirement Plan (“SERP”) and, as a result, no contributions have been made through the year ended December 31, 2020. Kforce does not currently anticipate funding the SERP during 2021. Kforce has included the total undiscounted projected benefit payments, as determined at December 31, 2020, in the table above.
+(6) Kforce’s liability for unrecognized tax positions, as of December 31, 2020, was $0.2 million. This balance has been excluded from the table above due to the significant uncertainty with respect to the timing and amount of settlement, if any.
+CRITICAL ACCOUNTING ESTIMATES
+Our significant accounting policies are discussed in Note 1 - “Summary of Significant Accounting Policies” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report. Our consolidated financial statements are prepared in accordance with GAAP. In connection with the preparation of our consolidated financial statements, we are required to make assumptions and estimates about future events, and apply judgments that affect the reported amount of assets, liabilities, revenues, expenses and the related disclosures. We base our assumptions, estimates and judgments on historical experience, current trends and other factors that management believes to be relevant at the time our consolidated financial statements are prepared. On a regular basis, management reviews the accounting policies, estimates, assumptions and judgments to ensure that our consolidated financial statements are presented fairly and in accordance with GAAP. However, because future events and their effects cannot be determined with certainty, actual results could differ from our assumptions and estimates, and such differences could be material. Management believes that the following accounting estimates are the most critical to aid in fully understanding and evaluating our reported financial results, and they require management’s most difficult, subjective or complex judgments, resulting from the need to make estimates about the effect of matters that are inherently uncertain. We have not made any material changes in our accounting methodologies used in prior years.
+Allowance for Credit Losses
+Management performs an ongoing analysis of factors in establishing its allowance for doubtful accounts including recent write-off and delinquency trends, a specific analysis of significant receivable balances that are past due, the concentration of accounts receivable among clients and higher-risk sectors, and the current state of the U.S. economy. A 10% change in accounts reserved, at December 31, 2020, would have impacted our net income by approximately $0.3 million in 2020.
+On January 1, 2020, we adopted an accounting standard that requires companies to estimate and recognize lifetime expected losses, rather than incurred losses, which results in the earlier recognition of credit losses even if the expected risk of credit loss is remote. The accounting standard applies to most financial assets, including trade receivables and direct financing leases. The standard does not apply to the receivables arising from operating leases. Upon adoption of the new standard on January 1, 2020, we recognized a credit loss adjustment related to adoption of this accounting standard as a cumulative adjustment to retained earnings. For details, refer to Note 5 - “Allowance for credit losses” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report.
+Accounting for Income Taxes
+Our effective income tax rate is influenced by tax planning opportunities available to us in the various jurisdictions in which we conduct business. Significant judgment is required in determining our effective tax rate and in evaluating our tax positions, including those that may be uncertain.
+We are also required to exercise judgment with respect to the realization of our net deferred tax assets. Management evaluates positive and negative evidence and exercises judgment regarding past and future events to determine if it is more likely than not that all or some portion of the deferred tax assets may not be realized. If appropriate, a valuation allowance is recorded against deferred tax assets to offset future tax benefits that may not be realized. A 0.5% change in our effective tax rate would have impacted our net income by approximately $0.4 million in 2020.
+Refer to Note 7 - “Income Taxes” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a complete discussion of the components of our income tax expense, as well as the temporary differences that exist as of December 31, 2020.
+Equity Method Investment
+Initial Investment
+In June 2019, we entered into a joint venture whereby Kforce has a 50% noncontrolling interest in WorkLLama, which is accounted for us as an equity method investment. Under the joint venture operating agreement, Kforce is obligated to make additional cash contributions subsequent to the initial contribution, contingent on certain operational and financial milestones. Management evaluated the probability of the achievement of these milestones and recorded the estimated future contributions as part of the initial investment.
+Impairment Assessment
+We review the equity method investment for impairment whenever events or changes in circumstances indicate that the carrying amount of the investment may not be recoverable. An impairment loss is recognized in the event that an other-than-temporary decline in fair value of an investment occurs. Management’s estimate of fair value of an investment is based on the income approach and/or market approach. For the income approach, we utilize estimated discounted future cash flows expected to be generated by the investee. For the market approach, we utilize market multiples of revenue and earnings derived from comparable publicly-traded companies. These types of analyses contain uncertainties because they require management to make significant assumptions and judgments including: (1) an appropriate rate to discount the expected future cash flows; (2) the inherent risk in achieving forecasted operating results; (3) long-term growth rates; (4) expectations for future economic cycles; (5) market comparable companies and appropriate adjustments thereto; and (6) market multiples. Changes in key assumptions about the financial condition of an investee or actual conditions that differ from estimates could result in an impairment charge.
+Refer to Note 1 - “Summary of Significant Accounting Policies” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a complete discussion of our equity method investment.
+Goodwill Impairment
+Goodwill is tested at the reporting unit level which is generally an operating segment, or one level below the operating segment level, where a business operates and for which discrete financial information is available and reviewed by segment management. We evaluate goodwill for impairment annually or more frequently whenever events or circumstances indicate that the fair value of a reporting unit is below its carrying value. We monitor the existence of potential impairment indicators throughout the year. It is our policy to conduct impairment testing based on our current business strategy in light of present industry and economic conditions, as well as future expectations.
+When performing a quantitative assessment, we determine the fair value of our reporting units using widely accepted valuation techniques, including the discounted cash flow, guideline transaction and guideline company methods. These types of analyses contain uncertainties because they require management to make significant assumptions and judgments including: (1) an appropriate rate to discount the expected future cash flows; (2) the inherent risk in achieving forecasted operating results; (3) long-term growth rates; (4) expectations for future economic cycles; (5) market comparable companies and appropriate
+adjustments thereto; and (6) market multiples. When performing a qualitative assessment, we assess qualitative factors to determine whether the existence of events or circumstances indicated that it was more likely than not that the fair value of the reporting unit was less than its carrying amount.
+Refer to Note 9 - “Goodwill” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a complete discussion of the valuation methodologies employed.
+Self-Insured Liabilities
+We are self-insured for certain losses related to health insurance claims that are below insurable limits. However, we obtain third-party insurance coverage to limit our exposure to claims in excess of insurable limits. When estimating our self-insured liabilities, we consider a number of factors, including historical claims experience, plan structure, internal claims management activities, demographic factors and severity factors. Periodically, management reviews its assumptions to determine the adequacy of our self-insured liabilities.
+Our self-insured liabilities contain uncertainties because management is required to make assumptions and to apply judgment to estimate the ultimate total cost to settle reported claims and claims incurred but not reported (“IBNR”) as of the balance sheet date. A 10% change in our self-insured liabilities related to health insurance, as of December 31, 2020, would have impacted our net income by approximately $0.5 million in 2020.
+Defined Benefit Pension Plan
+The SERP is a defined benefit pension plan that benefits certain named executive officers. The SERP was not funded as of December 31, 2020 or 2019. When estimating the obligation for our pension benefit plan, management is required to make certain assumptions and to apply judgment with respect to determining an appropriate discount rate, bonus percentage assumptions and expected effect of future compensation increases for the participants in the plan.
+A 10% change in the discount rate used to measure the net periodic pension cost for the SERP would have had an insignificant impact on our net income in 2020.
+Refer to Note 13 - “Employee Benefit Plans” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a complete discussion of the terms of this plan.
+NEW ACCOUNTING STANDARDS
+Refer to Note 1 - “Summary of Significant Accounting Policies” in the Notes to Consolidated Financial Statements, included in Item 8. Financial Statements and Supplementary Data of this report, for a discussion of new accounting standards.

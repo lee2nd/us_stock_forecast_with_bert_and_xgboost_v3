@@ -1,0 +1,922 @@
+ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+You should read the following management’s discussion and analysis together with the financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements about AerSale’s business, operations and industry that involve risks and uncertainties, such as statements regarding AerSale’s plans, objectives, expectations and intentions. AerSale’s future results and financial condition may differ materially from those currently anticipated by AerSale because of the factors described in the sections entitled “Risk Factors” and “Cautionary Note Regarding Forward Looking Statements.” A discussion of the year ended December 31, 2020 compared to the year ended December 31, 2019 is included in our Annual Report on Form 10-K for the year ending December 31, 2020, filed with the SEC on March 16, 2021 under Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+The Company
+We operate as a platform for serving the commercial aviation aftermarket sector. Our top executives have on average over 30 years of experience in aircraft and engine (“Flight Equipment”) management, sales and maintenance services, and are supported by an experienced management team. We have established a global purpose built and fully integrated aviation company focused on providing products and services that maximize the value of Flight Equipment in the middle to end of its operating life cycle.
+We are a worldwide provider of aftermarket commercial aircraft, engines, and their parts to passenger and cargo airlines, leasing companies, original equipment manufacturers (“OEM”), government and defense contractors, and maintenance, repair and overhaul (“MRO”) service providers. We report our activities in two business segments: Asset Management Solutions, comprised of activities that extract value from strategic asset acquisitions either as whole assets or by disassembling for used serviceable material (“USM”); and TechOps, comprised of MRO activities for aircraft and their components, and sales of internally developed engineered solutions products.
+We focus on mid-life Flight Equipment and monetize them through our Asset Management Solutions segment. Asset Management Solutions’ activities include monetization of assets through the lease or sale of whole assets, or through disassembly activities in support of our USM-related activities. Our monetizing services have been developed to maximize returns on mid-life Flight Equipment throughout their operating life, in conjunction with realizing the highest residual value of Flight Equipment at its retirement. We accomplish this by utilizing deep market and technical knowledge related to the management of Flight Equipment sales, leasing and MRO services. To extract value from the remaining flight time on whole assets, we provide flexible short-term (generally less than five years) leasing solutions of Flight Equipment to passenger and cargo operators across the globe. Once the value from the Flight Equipment’s flight time has been extracted, Flight Equipment is considered to be at or near the end of its useful life and is analyzed for return maximization as either whole asset sales or disassembled for sale as USM parts. Revenues from this segment are segregated between Aircraft and Engine depending on the asset type that generated the revenue. Lease revenues and the related depreciation from aircraft and engines installed on those aircrafts is recognized under the Aircraft category. Revenues from sales of whole aircraft and related cost of sales are allocated between the Aircraft and Engine categories based on the allocated cost basis of the asset sold.
+Our TechOps segment provides internal and third-party aviation services, including internally developed engineered solutions, full heavy aircraft maintenance and modification, component MRO, as well as end-of-life disassembly services. Our MRO business also engages in longer-term projects such as aircraft modifications, cargo and tanker conversions of aircraft, and aircraft storage. The TechOps segment also includes MRO services for landing gear, thrust reversers, hydraulic systems, and other aircraft components.
+We utilize these capabilities to support our customers’ Flight Equipment, as well as to maintain and improve our owned Flight Equipment, which is subsequently sold or leased to our customers. These processes require a high degree of expertise on each individual aircraft or component that is being serviced. Our knowledge of these processes allows us to
+assist customers to comply with applicable regulatory and OEM requirements. A significant amount of skilled labor is required to support this process, which the Company has accumulated through its diversified offerings.
+In addition to our aircraft and USM parts offerings, we develop Engineered Solutions consisting of Supplemental Type Certificates (“STCs”) that can be installed on existing Flight Equipment to improve performance, comply with regulatory requirements, or improve safety. An example of these solutions is the AerSafe® product line, which we designed and obtained Federal Aviation Administration (“FAA”) approval to sell as a solution for compliance with the FAA’s fuel tank flammability regulations. These products are proprietary in nature and function as non-OEM solutions to regulatory requirements and other technical challenges, often at reduced delivery time and cost for operators. In order to develop these products, we engage in research and development activities that are expensed as incurred.
+Impact of COVID-19
+COVID-19 has been declared a global health pandemic by the World Health Organization. Early in March 2020, as we began to see the impacts of the pandemic on our customers, the Company took decisive actions to position itself for the short-term impacts of COVID-19, while allowing the Company the flexibility to quickly pursue the opportunities that would follow. The Company cancelled approximately $20.0 million of feedstock opportunities under negotiation, as it evaluated the impacts of COVID-19 on asset valuations. The Company also reexamined its structure and executed measures in 2020 to adjust the business through strategic headcount reductions and suspension of various other initiatives to reduce costs by over $20.0 million on an annualized basis.
+While the duration and extent of the COVID 19 pandemic depends on future developments that cannot be accurately predicted at this time, such as the extent and effectiveness of containment actions, and future restrictions due to different strains or variants of COVID 19, it has already had an adverse effect on the global economy and the ultimate societal and economic impact of the COVID 19 pandemic remains unknown.
+Results of Operations
+Sales and gross profit for AerSale’s two business segments for the years ended in December 31, 2021 and 2020 were as follows:
+Year ended December 31, 2021 compared to the year ended December 31, 2020
+Total revenues for the year ended December 31, 2021 increased by $131.5 million or 62.9% compared to 2020, driven by an increase of $133.3 million, or 135.0%, within Asset Management Solutions partially offset by a decrease of $1.8 million, or 1.6%, within TechOps.
+Asset Management Solutions
+Sales in the Asset Management Solutions segment increased by $133.3 million to $232.0 million, or 135.0%, for the year ended December 31, 2021 compared to 2020, due to a $33.8 million increase in revenues from Aircraft, and a $99.5 million increase in revenues from Engines. The increase in Aircraft revenue is primarily attributable to increased activity in the B757 product line driven by Flight Equipment sales, which amounted to a total increase of $52.8 million compared to 2020, which was partly offset by lower leasing volume of $18.2 million driven by a one-time end-of-lease maintenance settlement in the amount of $10.8 million in 2020. The increase in Engines revenue is primarily attributable to increased activity in the RB211, CF6-80, and PW4000 product lines as a result of higher Flight Equipment sales and USM sales, for a total increase of $106.1 million, which was partially offset by lower leasing activity. The increase in Flight Equipment sales and USM sales for Aircraft and Engines is directly related to strategic asset acquisitions we carried out during 2020 and 2021, as we identified increased demand in product lines that served the cargo market as a result of the COVID-19 pandemic.
+Cost of sales in Asset Management Solutions increased by $73.1 million to $142.5 million, or 105.2%, for the year ended December 31, 2021 compared to 2020. The increase in cost of sales was primarily driven by the sales increase discussed above. Gross profit in Asset Management Solutions increased by $60.2 million to $89.5 million, or 205.6%, for the year ended December 31, 2021 compared to 2020. The margin increase is mainly attributable to higher margins on Flight Equipment sales and USM sales of $64.7 million, as well as lower impact of inventory reserves and impairment of Flight Equipment recorded during the year ended December 31, 2021, which amounted to $6.4 million compared to $15.9 million in 2020, offset by a one-time end-of-lease maintenance settlement in the amount of $10.8 million in 2020.
+Aircraft gross profit margins increased to 34.5% for the year ended December 31, 2021, from 22.2% for the year ended December 31, 2020, due to the impact of Flight Equipment’s sales which generated an average margin of 37.3%, as well as lower inventory reserves. Engines gross profit margins increased to 41.1% for the year ended December 31, 2021, from 38.6% for the year ended December 31, 2020, mainly due to the impact of Flight Equipment’s sales which generated an average margin of 43.5%, partly offset by the impact of USM sales due to fluctuations in the product mix.
+TechOps
+AerSale’s revenue from the TechOps segment decreased by $1.8 million to $108.4 million, or 1.6%, for the year ended December 31, 2021, compared to 2020. The decrease was primarily driven by a reduction in aircraft storage and related maintenance activities at our heavy MRO facilities as operators return their aircraft to service, as well as a shift in resources to support our cargo conversion projects on the B757 product line.
+Cost of sales in TechOps decreased by $8.2 million to $78.6 million, or 9.4%, for the year ended December 31, 2021 compared to 2020 which is consistent with the sales decrease discussed above as well as improved margins on the heavy MRO business. Gross profit in TechOps increased $6.4 million to $29.8 million, or 27.0%, for the year ended December 31, 2021, compared to 2020. The increase in gross profit is primarily attributable to increased contributions from maintenance and storage programs. Gross profit margin increased to 27.5% for the year ended December 31, 2021 compared to 21.3% for the year ended December 31, 2020, and was largely attributable to an overall change in the product mix towards higher margin storage related maintenance and capacity efficiencies.
+Selling, General and Administrative Expenses
+Selling, general and administrative expenses increased by $21.9 million to $77.5 million, or 39.3%, for the year ended December 31, 2021, as compared to 2020. The increase was mostly related to stock compensation of $12.7 million related primarily to performance-based equity awards. Based on the Company’s performance, the Company commenced its accrual of expenses related to these performance-based awards in the third quarter of 2021. The remaining increase relates to higher costs associated with becoming a publicly traded company.
+CARES Act Proceeds
+CARES Act Proceeds increased by $2.1 million to $14.8 million for the year ended December 31, 2021, as compared to 2020. The increase was mostly related to the additional proceeds related to the Payroll Support Extension Law and American Rescue Plan Act of 2021, which was enacted into law during 2021 and exhibited similar terms and provisions to the original Cares Act of 2020.
+Unrealized loss on investments
+AerLine Holdings, Inc. ("AerLine") was a consolidating VIE prior to August 31, 2018. Refer to Note R for additional disclosures. On August 31, 2018 AerLine sold the customer relationships of its operating company, XTRA Airways, in consideration for a 9.99% interest in the buyer (“Buyer”), which rolled into the equity interest of a larger holding company when the Buyer was acquired. On November 10, 2021, AerLine transferred this equity interest to us in settlement of trade amounts due totaling $5.4 million. Based on the deterioration of the Buyer’s financial condition noted by the Company in the fourth quarter of 2021, we recognized an unrealized loss on the investment of $5.4 million during the three month period ended December 31, 2021.
+Change in fair value of warrant liability
+We account for our private warrants as a liability at their fair value, with changes in fair value recognized in our results from operations for the period. The fair value of our private warrants was determined using the market price of the public warrants adjusted for their lack of liquidity. For the year ended December 31, 2021, we recorded a $2.9 million loss on the change in fair value of the warrant liability, compared to a $0.4 million loss in the prior year.
+Interest Expense
+Interest expense, net decreased by $0.7 million to $0.9 million for the year ended December 31, 2021, as compared to 2020 and was primarily related to lower outstanding balances under the Company’s revolving credit facility.
+Income Taxes
+The effective tax rate for the year ended December 31, 2021 was 24.4% compared to 16.3% for the year ended December 31, 2020. The increase in the effective tax rate was mainly a result of a favorable permanent difference related to transaction costs paid in 2020 that did not reoccur in 2021 and to an increase in the valuation allowance in 2021. The difference between the effective tax rate and the statutory tax rate of 21% for the year ended December 31, 2021, was primarily due to the impact of state income taxes, a valuation allowance and permanent differences partially offset by the foreign derived intangible income deduction. The difference between the effective tax rate and the statutory tax rate of
+21% for the year ended December 31, 2020, is primarily due to the impact of state income taxes, and permanent differences related to transaction costs and meals and entertainment expenses, amongst others.
+Financial Position, Liquidity and Capital Resources
+As of December 31, 2021, we had $130.2 million of cash and cash equivalents. We finance our growth through cash flows generated from operations and borrowings secured by our assets. There were no borrowings during the year ended December 31, 2021. We had no outstanding balance on the Company’s Revolving Credit Agreement as of December 31, 2021, and we had $113.9 million of availability as of the end of 2021. We generated cash flows from operations of $79.1 million for the year ended December 31, 2021, generated cash flows from investing activities of $13.2 million, and generated cash flows from financing activities of $8.6 million for the year ended December 31, 2021.
+We believe our equity base, internally generated funds, and existing availability under our debt facility are sufficient to maintain our level of operations through December 31, 2022. If an event occurs that would affect our ability to meet our capital requirements, our ability to continue to grow our asset base consistent with historical trends could be impaired and our future growth limited to that which can be funded from internally generated capital.
+Cash Flows-Year ended December 31, 2021 compared to Year ended December 31, 2020
+Cash Flows from Operating Activities
+Net cash provided by operating activities was $79.1 million for the year ended December 31, 2021 compared to cash used of $12.2 million for the same period in 2020. The increase of $91.3 million was primarily due to higher net income from the sale of Flight Equipment and the timing of collections of lease and purchase deposits, partially offset by a reduction in inventory as sales exceeded purchases for the year.
+Cash Flows from Investing Activities
+Net cash provided by investing activities was $13.2 million for the year ended December 31, 2021, compared to cash used of $21.1 million in the same period for 2020. Cash provided from investing activities during the year ended December 31, 2021 was primarily related to the sale of Flight Equipment totaling $17.1 million, compared to cash used to acquire the ACT business unit during the year ended December 31, 2020 for a total of $17.0 million.
+Cash Flows from Financing Activities
+Net cash provided by financing activities for the year ended December 31, 2021 was $8.6 million, compared to cash provided of $45.2 million in the same period for 2020. The cash provided by financing activities for 2021 is driven by proceeds from the exercise of warrants. The cash provided by financing activities in 2020 is primarily driven by proceeds from the Merger with Monocle.
+Debt Obligations and Covenant Compliance
+Our amended and restated revolving credit agreement (the “Revolving Credit Agreement”) provided commitments for a $110.0 million revolving credit facility and includes a $10.0 million sub facility for letters of credit and for borrowings on same-day notice referred to as “swingline loans.” The maximum amount of such commitments available at any time for borrowings and letters of credit is determined according to a borrowing base calculation equal to the sum of eligible inventory and eligible accounts receivable reduced by the aggregate amount, if any, of trade payables of the loan parties, as defined in the Revolving Credit Agreement. Extensions of credit under the Revolving Credit Agreement are available for working capital and general corporate purposes.
+Effective March 12, 2021, we amended our Revolving Credit Agreement to increase our commitments under the Revolving Credit Agreement to a $150.0 million aggregate amount, subject to borrowing base limitations, and to extend the maturity date to March 12, 2024, subject to certain conditions.
+As of December 31, 2021, there was no outstanding balance under the Revolving Credit Agreement, as amended, and we had $113.9 million of availability. We were in compliance with our debt covenants as of December 31, 2021.
+Off-Balance Sheet Arrangements
+We did not have any off-balance sheet arrangements as of December 31, 2021. Refer to Note Q - Commitments and Contingencies within our Consolidated Financial Statements in this Annual Report on Form 10-K for a listing of our non-cancelable contractual obligations under operating leases.
+Critical Accounting Policies and Estimates
+The preparation of Consolidated Financial Statements in conformity with accounting principles generally accepted in the United States (“U.S. GAAP”) requires our management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the Consolidated Financial Statements and the reported amounts of revenues and expenses during the reporting periods. Actual results could differ from those estimates. Refer to Note A to the Consolidated Financial Statements in Item 8 of this Annual Report on Form 10-K, for a listing of our significant accounting policies and estimates. The following is a summary of critical accounting estimates and additional information on the level of uncertainty regarding relevant changes to the estimates and assumptions.
+Revenue Recognition
+We measure revenue based on the consideration specified in a contract with a customer, and excludes any sales commissions and taxes collected and remitted to government agencies. We recognize revenue when it satisfies a performance obligation by transferring control over a product or service to a customer. Our performance obligations are satisfied over time as work progresses or at a point in time based on transfer of control of products and services to our customers. For service revenue, we utilize the input method of cost-to-cost to measure progress and recognize revenue over time as this depicts when control of the promised goods or services are transferred to the customer. Revenue is recognized based on the relationship of actual costs incurred to date to the estimated total cost at completion of the performance obligation. We make certain judgments and estimates, including estimated revenues and costs, as well as inflation and the overall profitability of the arrangement. Key assumptions involved include future labor costs and efficiencies, overhead costs, and ultimate timing of product delivery. Differences may occur between the judgments and estimates made by management and actual program results.
+Changes in estimates and assumptions related to our arrangements are recorded using the cumulative catch-up method of accounting. The catch-up adjustment for the current year due to changes in revenue estimates did not have a material impact on our financial statements.
+Inventory Cost
+We record inventory at the lower of cost or market value. For purchases of whole aircraft and engines for sale or lease, cost is determined using the specific identification method whereby total cost is the cost paid, including certain asset acquisition costs that can be capitalized, to acquire such assets as a whole.
+Additionally, we purchase certain whole aircraft and engines to disassemble and supply material for our engine and airframe USM inventory. For aircraft and engine parts that originate from such dismantled aircraft and engines, cost is determined using a ratio calculated based on the relationship of the cost of the dismantled aircraft or engine at the time of purchase to the total estimated sales value of the dismantled aircraft or engine at the time of purchase. At the time of sale, this ratio is applied to the sale price of each individual airframe and/or engine part to determine its allocated cost. At the time of sale, the sum of an individual part’s allocated cost and actual repair or overhaul costs incurred represent the total cost for such part. Inventory not expected to be sold within the operating cycle is classified as non-current inventory on the Consolidated Balance Sheets.
+We evaluate this ratio periodically, and if necessary, update our sales estimates and make prospective adjustments to this ratio. Any amounts identified with an estimated sales value lower than the carrying value is reduced to the estimated sales value at the time of the review. Expenditures required for the repair of engine and airframe parts are capitalized as inventory and are expensed as cost of sales when associated parts are sold. During the year ended December 31, 2021, we adjusted the estimated return in certain product lines as a result of new material received into inventory as well as changes in demand for certain product lines. During the year ended December 31, 2021, we recorded an inventory reserve of $6.4 million mostly related to changes in projected demand for certain material driven by changing market conditions.
+Goodwill
+We test for impairment at least annually, or when events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable, by assessing qualitative factors or performing a quantitative analysis in determining whether it is more likely than not that the fair value of an asset exceeds its carrying value. A quantitative assessment involves determining the fair value of each reporting unit using market participant assumptions. An entity should recognize an impairment charge for the amount by which the carrying amount of a reporting unit exceeds its fair value up to the amount of goodwill allocated to that reporting unit.
+For purposes of reviewing impairment and the recoverability of goodwill, AerSale’s management must make various assumptions regarding estimated future cash flows and other factors in determining the fair values of the reporting unit, including market multiples, discount rates, etc.
+We performed our annual impairment analysis as of October 1, 2021 by performing a qualitative assessment, and considered factors such as the economy, industry trends, and company-specific factors and performance as an initial step in assessing the fair value of the reporting units. We concluded that the fair value of each reporting unit exceeded their carrying values, and thus no impairment charge was recorded.
+Customer Relationships and Other Intangible Assets
+Intangibles arising from business combinations, including customer relationships and FAA certificates are initially recorded at fair market value. Customer relationships are amortized over ten years and favorable leases are amortized over the remaining term of the lease. Straight-line amortization is utilized. Where there are no legal, regulatory, contractual, or other factors that would reasonably limit the useful life of an intangible asset, that asset is classified as indefinite lived and such intangible assets are not amortized.
+Other intangible assets with indefinite and definite lives are assessed for impairment annually, or more frequently when events or circumstances indicate there may be an impairment. These assets are carried at the estimated fair value at the time of acquisition. AerSale performed a quantitative impairment analysis as of July 1, 2021 on the indefinite lived intangible assets and concluded there were no impairments.
+We review the estimated lives and methods used to amortize other intangible assets annually. The actual amounts of amortization expense may differ materially from our estimates, depending on the results of our annual review; however, no significant changes to our estimates have occurred during 2021.
+Impairment of Long-Lived Assets
+On a quarterly basis, we monitor our Flight Equipment lease portfolio for events that may indicate that a particular asset may need to be evaluated for potential impairment. These events may include a decision to sell an asset (in whole or as USM parts), knowledge of specific damage to an asset, or supply/demand events that may affect our ability to lease an asset in the future. On an annual basis, even absent any such triggering event, we evaluate the carrying value of the assets in its Flight Equipment lease portfolio to determine if any impairment exists.
+Impairment may be identified by several factors, including, comparison of estimated sales proceeds or undiscounted forecasted cash flows over the life of the asset with the asset’s book value. If the forecasted undiscounted cash flows are less than the book value, the asset is written down to its fair value. When evaluating for impairment, we
+group assets at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. In our Flight Equipment portfolio, this is at the individual asset level (e.g., engine or aircraft), as each asset generates its own stream of cash flows, including lease rents, maintenance reserves and repair costs.
+We make assumptions which underlie the most significant and subjective estimates in determining whether any impairment exists. Those estimates, and the underlying assumptions, are as follows:
+● Fair value - We determine fair value by reference to independent appraisals, quoted market prices (e.g., an offer to purchase) and other factors such as current data from airlines, engine manufacturers, and MRO providers as well as specific market sales and repair cost data.
+● Future cash flows - when evaluating the future cash flows that an asset will generate, we make assumptions regarding the lease market for specific asset models, including estimates of market lease rates and future residual values.
+If the undiscounted forecasted cash flows and fair value of our long-lived assets decrease in the future, we may incur impairment charges.
+Inventory, which consists of complete aircraft and engines held for sale, as well as related parts, is valued at the lower of cost or market value. An impairment charge for excess or inactive inventory is recorded based upon an analysis that considers current inventory levels, historical sales patterns, and future sales expectations. We did not record an impairment of our Flight Equipment during the year ended December 31, 2021.
+Recent Accounting Pronouncements
+The most recent adopted and to be adopted accounting pronouncements are described in Note B to AerSale’s Consolidated Financial Statements included in this Annual Report on Form 10-K.
+ITEM 7AQUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+In the normal course of business, we are subject to market risks. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and sales. Our exposure to market risk includes fluctuating interest rates and changes in foreign exchange rates.
+Interest Rate Risk
+We are exposed to the risk that our earnings and cash flows could be adversely impacted by fluctuations in interest rates associated with borrowings under our Amended and Restated Credit Agreement, or the Credit Facility, which has variable interest rates tied to LIBOR. As of December 31, 2021, we had no outstanding variable rate borrowings under our Credit Facility. Therefore, a ten percent increase in the average interest rate affecting our variable rate debt outstanding as of December 31, 2021 would not have had a material impact on our interest expense, financial position or continuing operations.
+Foreign Currency Exchange Risk
+We primarily use the U.S. dollar as our functional currency in all markets in which we operate in order to reduce our foreign currency market risk. Only general office expense and payroll transactions are denominated in local currency. A hypothetical ten percent devaluation of the U.S. dollar against foreign currencies would not have had a material impact on our financial position or continuing operations as of and for the year ended December 31, 2021.
+ITEM 8 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+AERSALE CORPORATION
+Index to the Consolidated Financial Statements
+Page
+Report of Independent Registered Public Accounting Firm (PCAOB ID Number 248)
+Consolidated Balance Sheets as of December 31, 2021 and 2020
+Consolidated Statements of Operations for the years ended December 31, 2021, 2020 and 2019
+Consolidated Statements of Stockholders’ Equity for the years ended December 31, 2021, 2020 and 2019
+Consolidated Statements of Cash Flows for the years ended December 31, 2021, 2020 and 2019
+Notes to Consolidated Financial Statements for the years ended December 31, 2021, 2020 and 2019
+48-80
+Report of Independent Registered Public Accounting Firm
+Board of Directors and Shareholders
+AerSale Corporation
+Opinion on the financial statements
+We have audited the accompanying consolidated balance sheets of AerSale Corporation (a Delaware corporation) and subsidiaries (the “Company”) as of December 31, 2021 and 2020, the related consolidated statements of operations, changes in stockholders’ equity, and cash flows for each of the three years in the period ended December 31, 2021, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and 2020, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2021, in conformity with accounting principles generally accepted in the United States of America.
+Basis for opinion
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+/s/ GRANT THORNTON LLP
+We have served as the Company’s auditor since 2017
+Fort Lauderdale, Florida
+March 15, 2022
+AERSALE CORPORATION AND SUBSIDIARIES
+Consolidated Balance Sheets
+(in thousands, except share and per share data)
+The accompanying notes are an integral part of these consolidated financial statements.
+AERSALE CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Operations
+(in thousands, except share and per share data)
+The accompanying notes are an integral part of these consolidated financial statements.
+AERSALE CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Stockholders’ Equity
+Years ended December 31, 2021, 2020, and 2019
+AerSale Corporation Stockholders
+(in thousands, except share and per share data)
+The accompanying notes are an integral part of these consolidated financial statements.
+AERSALE CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+AERSALE CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE A-DESCRIPTION OF THE BUSINESS
+Organization
+Monocle Acquisition Corporation (“Monocle”) was initially formed on August 20, 2018 for the purpose of effecting a merger, share exchange, asset acquisition, stock purchase, recapitalization, reorganization or similar business combination with one or more businesses.
+On December 22, 2020, (the “Closing Date”), Monocle consummated the previously announced business combination pursuant to that certain Amended and Restated Agreement and Plan of Merger, dated September 8, 2020 (the “Merger Agreement”) by and among Monocle, AerSale Corporation (f/k/a Monocle Holdings Inc.), a Delaware corporation (the “Company”), AerSale Aviation, Inc. (f/k/a AerSale Corp.), a Delaware corporation (“AerSale Aviation”), Monocle Merger Sub 1 Inc., a Delaware corporation (“Merger Sub 1”), Monocle Merger Sub 2 LLC, a Delaware limited liability company (“Merger Sub 2”), and Leonard Green & Partners, L.P., a Delaware limited partnership, solely in its capacity as the initial Holder Representative (as defined in the Merger Agreement). The transactions contemplated by the Merger Agreement are referred to herein as the “Merger” or the “Business Combination” and in connection therewith, Monocle merged with and into us, whereby we survived the merger and became the successor issuer to Monocle by operation of Rule 12g-3 under the Exchange Act.
+Upon the consummation of the Merger: (a) Merger Sub 1 was merged with and into Monocle, with Monocle surviving the merger as a wholly-owned direct subsidiary of the Company (the “First Merger”), and (b) Merger Sub 2 was merged with and into AerSale Aviation, with AerSale Aviation surviving the merger as a wholly-owned indirect subsidiary of the Company (the “Second Merger”). In connection with the closing of the Business Combination (the “Closing”), AerSale Aviation changed its name from “AerSale Corp.” to “AerSale Aviation, Inc.” and the Company changed its name from “Monocle Holdings Inc.” to “AerSale Corporation.” Immediately following the Merger, the Company contributed all of its ownership in Monocle to AerSale Aviation which continued as a wholly owned subsidiary of the Company.
+The Company’s corporate headquarters are based in Miami, Florida, with additional offices, hangars, and warehouses globally.
+Description of the Business
+The Company is a worldwide provider of aftermarket commercial aircraft, engines, and their parts to airlines, leasing companies, manufacturers of original equipment, government and defense contractors, and repair and overhaul service providers. We focus on mid-life assets and monetize them through our Asset Management Solutions segment. Asset Management Solutions activities include monetization of the assets through leasing or sale of whole asset components, or through teardown activities in support of our Used Serviceable Material (“USM”) activities. Our monetizing services have been developed to maximize returns on mid-life commercial aircraft and engines (“Flight Equipment”) throughout their operating life, in conjunction with realizing the highest residual value of Flight Equipment at their retirement. We do this by utilizing our deep market and technical knowledge in management of Flight Equipment sales, leasing and Maintenance, Repair, and Overhaul (“MRO”) activities. Beyond providing asset management services on our own Flight Equipment, we additionally provide asset management services to third-party clients complementing their infrastructure to optimize their Flight Equipment investments. While our offering to customers includes leasing of mid-life aircraft and engines, this service is offered in the context of a broader strategy to extract the maximum value from those assets. Frequently, we will offer a lease of an asset for the time period before its next scheduled overhaul (“green time”) on a short term or “spot” lease, with the intent of disassembling the asset at the conclusion of the lease. In turn, the vast majority of assets that we acquire are ultimately disassembled into parts once the remaining green time has been utilized.
+The Company also operates six Federal Aviation Administration (“FAA”) Title 14 Code of Federal Regulations Part 145 Certified Repair Facilities (the MROs) located in Miami, Florida, Goodyear, Arizona, Memphis, Tennessee, as well as in Roswell and Albuquerque, New Mexico. These facilities provide the Company flexibility and control to quickly prepare Company aircraft, engines, and inventory for market, as their selective refurbishment is frequently required to meet customers’ unique demand. In addition to maintaining the Company’s fleet of aircraft, the MROs provide external customer support for maintaining their aircraft with general maintenance, preservation, lease return work, repair services, and long-term storage programs.
+On January 7, 2020 the Company acquired all of the outstanding shares of Aircraft Component Technologies, Inc. (“ACT”), a Florida corporation located in Miami, Florida, for $17.0 million in cash. The results of ACT operations have been included in the consolidated financial statements since the acquisition date. See Note T for further details.
+On June 10, 2019, the Company acquired a USM distributor and certified repair facility, Qwest Air Parts, LLC (“Qwest”), a Florida limited liability company located in Memphis, Tennessee, for $26.1 million in cash. The results of Qwest operations have been included in the consolidated financial statements since the acquisition date. See Note T for further details.
+NOTE B -SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Principles of Consolidation and Basis of Presentation
+The accompanying consolidated financial statements include the accounts of the Company and all of its wholly owned subsidiaries. As discussed in more detail in Note R, the Company also consolidates variable interest entities when required under accounting principles generally accepted in the United States (“U.S. GAAP”). All significant intercompany balances and transactions are eliminated upon consolidation.
+The Merger has been accounted for as a reverse recapitalization (“Reverse Recapitalization”) in accordance with U.S. GAAP. This determination was principally based on AerSale Aviation’s business comprising the ongoing operations of the Company following the Merger, with its senior management continuing to comprise the management of the Company and its stockholders having majority of the voting power of the Company. For accounting purposes, Monocle is considered the “acquired” company and AerSale Aviation is considered the “acquirer.” Accordingly, for accounting purposes, the Reverse Recapitalization was treated as the equivalent of AerSale Aviation issuing stock for the net assets of Monocle, accompanied by a recapitalization. The consolidated assets, liabilities, and results of operations for all periods prior to the Reverse Recapitalization only reflect the historical consolidated financial statements of AerSale Aviation. Subsequent to the Reverse Recapitalization, the consolidated financial statements reflect the results of the combined entity. The shares and corresponding capital amounts and earnings per share available to common stockholders, prior to the Merger, have been retroactively restated as shares reflecting the exchange ratio in the Merger.
+Revision of Prior Period Financial Statements
+During the quarter ended March 31, 2021, the Company identified and corrected immaterial errors that affected certain of its previously issued consolidated financial statements. These errors related to the misapplication of U.S. GAAP in connection with the classification of the Company’s private warrants as equity. The Securities and Exchange Commission (“SEC”) released a Public Statement on April 12, 2021 noting that when certain features common to warrants in SPAC transactions are included in a warrant, the warrant “should be classified as a liability measured at fair value, with changes in fair value each period reported in earnings.” Following review of the SEC’s statement, the Company concluded that our private warrants do not meet the conditions to be classified as equity and instead, the private warrants meet the definition of a derivative under Accounting Standards Codification (“ASC”) 815 “Derivatives and Hedging.” This requires the Company to record the private warrants as a liability measured at fair value on the Company’s Consolidated Balance Sheets with the changes in fair value each period reported in earnings. As a result, the Company is revising its December 31, 2020 financial statements by recognizing the private warrants as a liability upon the consummation of the Business Combination on December 22, 2020 in the amount of $1.2 million with a corresponding reduction to additional paid-in capital and retained earnings of $0.8 million and $0.4 million, respectively. Additionally, the Company is revising its basic and diluted earnings per share for the year ended December 31, 2020 to $7.85 and $7.39, respectively.
+Emerging Growth Company
+The Company is an “emerging growth company,” as defined in Section 2(a) of the Securities Act, as modified by the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”), and it may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies including, but not limited to, not being required to comply with the independent registered public accounting firm attestation requirements of Section 404 of the Sarbanes-Oxley Act, reduced disclosure obligations regarding executive compensation in its periodic reports and proxy statements, and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved.
+Further, Section 102(b)(1) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies (that is, those that have not had a Securities Act registration statement declared effective or do not have a class of securities registered under the Exchange Act) are required to comply with the new or revised financial accounting standards. The JOBS Act provides that a company can elect to opt out of the extended transition period and comply with the requirements that apply to non-emerging growth companies but any such election to opt out is irrevocable. The Company has elected not to opt out of such extended transition period which means that when a standard is issued or revised and it has different application dates for public or private companies, the Company, as an emerging growth company, can adopt the new or revised standard at the time private companies adopt the new or revised standard. This may make comparison of the Company’s financial statement with another public company that is neither an emerging growth company nor an emerging growth company that has opted out of using the extended transition period difficult or impossible because of the potential differences in accounting standards used.
+Variable Interest Entities (“VIE”)
+An entity is referred to as a VIE if it meets the criteria outlined in Accounting Standards Codification (“ASC”) Topic 810, Consolidation.
+As explained in Note R, the Company had previously determined that AerLine Holdings, Inc. (“AerLine”) was a VIE that the Company was required to consolidate. Effective August 31, 2018, the Company determined that AerLine ceased to meet the criteria for VIE consolidation under U.S. GAAP and therefore has deconsolidated the VIE. Prior to August 31, 2018, transactions between the Company and AerLine and its subsidiaries were eliminated upon consolidation.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with a maturity of three months or less when purchased to be cash equivalents. The Company’s cash equivalents are held primarily in interest-bearing accounts.
+Foreign Currency
+The Company has determined that the functional currency for its foreign subsidiaries is the U.S. dollar. The primary economic environment in which the entities generate or expend cash is in U.S. dollars as evidenced by the cash flows in or out from revenues, operating expenses, investing, and financings. Only general office expenses and payroll transactions are denominated in local currency.
+Accounts Receivable
+Accounts receivable include amounts receivable from customers for aircraft and engine parts sales, aircraft and engine basic and supplemental rents, and aircraft services. Contingent rents, also referred to as supplemental rent, and consumption of consignment inventory related to aircraft and engine parts that were earned or consumed, but unbilled, are also included in accounts receivable and totaled $0.8 and $0.6 million at December 31, 2021 and 2020, respectively.
+The Company sells to a variety of customers worldwide. For certain transactions and customers not requiring payment in full prior to shipment of goods, the Company extends credit based on an evaluation of the customers’ financial condition. The Company monitors exposure to credit losses and maintains an allowance for doubtful accounts for estimated losses in its accounts receivable portfolio. In establishing the required allowance, management considers historical losses, current market conditions, customers’ financial condition, amount of receivables in dispute, current receivables aging, and current payment patterns. Account balances are written off against the allowance after all means of collection have been exhausted and the potential for recovery is considered remote. A rollforward of the allowance for doubtful accounts is as follows (in thousands):
+On June 9, 2014, an aircraft leased to Air Indus suffered significant damage as the result of a terrorist attack. At that time, the Company recorded an impairment to the asset of $2.5 million to adjust the carrying amount to the estimated residual value of   $1.1 million. An insurance claim was filed and the insurance company is negotiating the final settlement owed to the Company. The Company has recorded an insurance receivable of $2.5 million, offsetting the impairment loss, which has been recorded in accounts receivable. In accordance with U.S. GAAP, the probable amount of the insurance recovery, limited to the amount of the loss recognized, was recorded as the insurance receivable. The Company believes that recovery of this insurance receivable is probable and is working with the insurer on settling the claim by negotiating the final settlement to the Company.
+Inventory
+Inventory, which consists of complete aircraft and engines held for sale, as well as related parts, is valued at the Lower of Cost or Market (“LCM”) value. For purchases of whole aircraft and engines for sale or lease, cost is determined using the specific identification method whereby total cost is the cost paid, including certain capitalizable asset acquisition costs, to acquire such assets as a whole.
+Additionally, the Company purchases certain whole aircraft and engines to disassemble and supply its engine and airframe parts inventory. For aircraft and engine parts that originate from such dismantled aircraft and engines, cost is determined using a ratio calculated based on the relationship of the cost of the dismantled aircraft or engine at the time of purchase to the total estimated sales value of the dismantled aircraft or engine at the time of purchase. At the time of sale, this ratio is applied to the sale price of each individual airframe and/or engine part to determine its allocated cost. At the time of sale, the sum of an individual part’s allocated cost and actual repair or overhaul costs incurred represent the total cost for such part. Inventory not expected to be sold within the operating cycle is classified as noncurrent inventory on the Consolidated Balance Sheets.
+The Company evaluates this ratio periodically, and if necessary, updates sales estimates and makes prospective adjustments to this ratio on a product line basis. Any amounts identified with an estimated sales value lower than the carrying value is reduced to the estimated sales value at the time of the review. The Company recorded additional inventory reserves due to this LCM valuation, which is reflected as a component of cost of products in the Consolidated Statements of Operations. These additional inventory reserves were as follows (in thousands):
+Expenditures required for the repair of engine and airframe parts are capitalized as inventory and are expensed as cost of sales when associated parts are sold.
+The Company periodically evaluates its complete aircraft and engines in inventory and Flight Equipment held for lease to determine if events or market circumstances indicate that the assets’ most likely disposition has changed. Should conditions prevail at the time of the Company’s Consolidated Balance Sheets that would suggest a more likely use as an asset held for lease rather than sale or disassembly for parts inventory or vice versa, it will be reclassified at its then-current book value between inventory and Flight Equipment held for lease. This transaction is a noncash item and if it occurs, is reflected in the schedule of supplemental cash flows.
+The carrying value of inventory is reviewed regularly, giving consideration to factors such as its physical condition, sales patterns, and expected future demand to estimate the amount necessary to write down our slow-moving, obsolete, or damaged inventory. Such inventory may be held for periods beyond one year. The Company recorded inventory scrap losses which are reflected as a component of cost of products in the accompanying Consolidated Statements of Operations. These scrap losses are as follows (in thousands):
+Flight Equipment Held for Lease
+Flight Equipment held for lease is stated at cost, less accumulated depreciation. Certain internal and external professional fees, major improvements, modifications, and maintenance incurred in connection with the acquisition of Flight Equipment that are required to get the Flight Equipment ready for initial service are capitalized and depreciated over the remaining life of the Flight Equipment, and are reported in the investing section of the Consolidated Statements of Cash Flows. Subsequent to placing Flight Equipment into service, the cost of maintenance and improvements to Flight Equipment is normally expensed unless the improvements materially increase the long-term value of the Flight Equipment or extend the useful life of the Flight Equipment. The capitalized cost is depreciated over the lesser of the remaining useful life of the Flight Equipment or the estimated useful life of the capitalized improvements. Aircraft airframe components are depreciated over the assets’ useful life using the straight-line method to the estimated residual value based on the total remaining life before disassembly or outright scrap metal value. Aircraft airframe useful lives range from 2 to 10 years. Engines are depreciated using the straight-line method to the estimated residual value based on the total life remaining before disassembly. To arrive at the total engine life remaining before disassembly, the remaining life of the engine’s life-limited parts, the estimated utilization, and condition, as well as the aircraft fleet supported by the engine model are considered. Upon completion of its estimated service life as a leased asset, Flight Equipment is reclassified to inventory at its carrying value. The Company discontinues the depreciation of Flight Equipment when it is held as inventory for ultimate parts sales. Differences between estimates of useful lives and residual values and actual experience may result in future impairments of aircraft or engines and/or additional gains or losses upon disposal. The Company reviews residual values of aircraft and engines periodically based on knowledge of current residual values and residual value trends to determine if they are appropriate and records adjustments as necessary. Cash flows related to the purchase and sale of Flight Equipment are presented as operating activities when the predominant source of cash flows related to the asset is from the ultimate parts sales of the assets. If the predominant source of cash flows related to the asset is expected to be from leasing of the asset, the cash flows are presented as investing activities.
+Property and Equipment
+Property and equipment are recorded at cost less accumulated depreciation. Depreciation is recognized over the estimated useful lives of the respective assets on a straight-line basis, ranging from 3 to 15 years. Leasehold improvements are amortized on a straight-line basis over the shorter of the terms of the respective leases and the estimated useful lives of the respective assets. Property and equipment held under capital leases are amortized on a straight-line basis over the shorter of the lease term or estimated useful life of the asset. Repairs and maintenance expenditures are expensed as incurred, unless such expenses extend the useful life of the asset, in which case they are capitalized.
+Investments
+Equity investments with readily determinable fair values are measured at fair value. Equity investments without readily determinable fair values are measured at cost and adjusted for impairments or observable price changes. We perform a qualitative assessment on an annual basis and recognize an impairment if there are sufficient indicators that the fair value of the investment is less than carrying value. Impairment charges are presented under “Unrealized loss on investment” within the Consolidated Statements of Operations.
+Goodwill
+In accordance with ASC 350, “Intangibles - Goodwill and Other,” goodwill is tested at least annually for impairment, or when events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable, by assessing qualitative factors or performing a quantitative analysis in determining whether it is more likely than not that its fair value exceeds the carrying value. A quantitative assessment involves determining the fair value of each reporting unit using market participant assumptions. An entity should recognize an impairment charge for the amount by which the carrying amount of a reporting unit exceeds its fair value up to the amount of goodwill allocated to that reporting unit. Our annual assessment date for goodwill is October 1st.
+For purposes of reviewing impairment and the recoverability of goodwill, we must make various assumptions regarding estimated future cash flows and other factors in determining the fair values of the reporting unit, including market multiples, discount rates, etc.
+The Company performed a qualitative impairment analysis as of October 1, 2021 on the goodwill for the Asset Management Solutions and TechOps segments, and updated through December 31, 2021, concluding that the fair value of each reporting unit exceeded their carrying values, and thus no impairment was recorded. As a result of the COVID-19 pandemic and its impact on the aviation industry, AerSale performed a qualitative impairment analysis as of June 30, 2020. The Company also performed a quantitative impairment analysis as of October 1, 2020 on the goodwill for the Asset Management Solutions and TechOps segments, and concluded the fair value of each reporting unit exceeded their carrying values, and thus no impairment charges were recorded.
+Customer Relationships and Other Intangible Assets
+Intangibles arising from business combinations, including customer relationships and FAA certificates are initially recorded at fair market value. Customer relationships are amortized over ten years. Straight-line amortization is utilized. Where there are no legal, regulatory, contractual, or other factors that would reasonably limit the useful life of an intangible assets, that asset is classified as indefinite lived and such intangible assets are not amortized.
+Other intangible assets with indefinite lives are assessed for impairment annually, or more frequently when events or circumstances indicate there may be an impairment. These assets are carried at the estimated fair value at the time of acquisition. Our annual assessment date for indefinite lived intangible assets is July 1st. The Company performed a quantitative impairment analysis as of July 1, 2021 and 2020 on the indefinite lived intangible assets and concluded there were no impairments.
+Other intangible assets are reviewed for impairment if any event or change in circumstance indicates that an impairment may have occurred. As a result of COVID-19 pandemic, the Company performed a quantitative impairment analysis on the definite-lived intangible assets as of June 30, 2020 and concluded there was no impairment.
+The Company annually reviews the estimated lives and methods used to amortize other intangible assets. The actual amounts of amortization expense may differ materially from our estimates, depending on the results of our annual review.
+Impairment of Long-Lived Assets
+Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Such events and circumstances include, but are not limited to, prolonged industry downturns, a significant decline in the Company’s market value, and significant reductions in the Company's projected cash flows. If circumstances require a long-lived asset or asset group to be tested for possible impairment, the Company first compares undiscounted cash flows expected to be generated by that asset or asset group to its carrying amount. If the carrying amount of the long-lived asset or asset group is not recoverable on an undiscounted cash flow basis, an impairment is recognized to the extent that the carrying amount exceeds its fair value. Fair value is determined through various valuation techniques including discounted cash flow models, quoted market values, and third-party independent appraisals, as considered necessary. As a result of COVID-19 pandemic, the Company performed an impairment analysis on the property, plant and equipment as of June 30, 2020 and concluded there was no impairment.
+Obligations and Instruments Potentially Settled in the Company’s Common Stock
+In connection with any obligations and instruments potentially to be settled in the Company’s stock, including the Company's earn-out shares, the Company accounts for the instruments in accordance with ASC Topic 815, “Accounting for Derivative Financial Instruments Indexed to, and Potentially Settled in a Company’s Own Stock.” This issue addresses the initial balance sheet classification and measurement of contracts that are indexed to, and potentially settled in, the Company’s stock. Under this pronouncement, contracts are initially classified as equity or as either assets or liabilities, depending on the situation. All contracts are initially measured at fair value and subsequently accounted for based on the then current classification. Contracts initially classified as equity do not recognize subsequent changes in fair value as long as the contracts continue to be classified as equity. For contracts classified as assets or liabilities, the Company reports changes in fair value in earnings and records these changes in the financial statements as long as the contracts remain classified as assets or liabilities. If contracts classified as assets or liabilities are ultimately settled in shares, any previously reported gains or losses on those contracts continue to be included in earnings. The classification of a contract is reassessed at each balance sheet date.
+Revenue Recognition
+Products - Used Serviceable Material (“USM”) Sales
+Revenues from sales of USM are measured based on consideration specified in a contract with a customer, and excludes any sales commissions and taxes collected and remitted to government agencies. We recognize revenue when we satisfy a performance obligation by transferring control over a product or service to a customer. The parts are sold at a fixed price with no right of return. In determining the performance obligation, management has identified the promise in the contract to be the shipment of the spare parts to the customer. Title passes to the buyer when the goods are shipped, and the buyer is responsible for any loss in transit, and the Company has a legal right to payment for the spare parts once shipped. We generally sell our USM products under standard 30-day payment terms, subject to certain exceptions. Customers neither have the right to return products nor do they have the right to extended financing. The Company has determined that physical acceptance of the spare parts to be a formality in accordance with ASC 606 - Revenue from Contracts with Customers (“ASC 606”).
+Spare parts revenue is based on a set price for a set number of parts as defined in the purchase order. The performance obligation is completed once the parts have shipped and, as a result, all of the transaction price is allocated to that performance obligation. The Company has determined that it is appropriate to recognize spare parts sales at a point in time (i.e., the date the parts are shipped) in accordance with ASC 606. Additionally, there is no impact to the timing and amounts of revenue recognized for spare parts sales related to the implementation of ASC 606.
+Products - Whole Asset Sales
+Revenues from whole asset sales are measured based on consideration specified in the contract with the customer. The Company and customer enter into an agreement which outlines the place and date of sale, purchase price, condition of the whole asset, bill of sale, and the assignment of rights and warranties from the Company to the customer. The
+Company believes the whole asset holds standalone value to the customer as it is not dependent on any other services for functionality purposes and therefore is distinct within the context of the contract and as described in ASC 606-10. Accordingly, the Company has identified the transfer of the whole asset as the performance obligation. The transaction price is set at a fixed dollar amount per fixed quantity (number of whole assets) and is explicitly stated in each contract. Whole asset sales revenue is based on a set price for a set number of assets, which is allocated to the performance obligation discussed above, in its entirety. The Company has determined the date of transfer to the customer is the date the customer obtains control over the asset and would cause the revenue recognition. Payment is required in full upon customers’ acceptance of the whole asset on the date of the transfer. As such, there is no impact to the timing and amounts of revenue recognized for whole asset sales related to the implementation of ASC 606.
+Leasing Revenues
+The Company leases Flight Equipment under operating leases that contain monthly base rent and reports rental income straight line over the life of the lease as it is earned. Additionally, the Company’s leases provide for supplemental rent, which is calculated based on actual hours or cycles of utilization and, for certain components, based on the amount of time until maintenance of that component is required. In certain leases, the Company records supplemental rent paid by the lessees as maintenance deposit payment liabilities in recognition of the Company’s contractual commitment to reimburse qualifying maintenance. Reimbursements to the lessees upon receipt of evidence of qualifying maintenance work are charged against the existing maintenance deposit payments liabilities. In leases where the Company is responsible for performing certain repairs or replacement of aircraft components or engines, supplemental rent is recorded as revenue in the period earned. In the event of premature lease termination or lessee default on the lease terms, revenue recognition will be discontinued when outstanding balances are beyond the customers’ deposits held. Flight Equipment leases are billed in accordance with the lease agreement and invoices are due upon receipt.
+Service Revenues
+Service revenues are recognized as performance obligations are fulfilled and the benefits are transferred to the customer. At contract inception, we evaluate if the contract should be accounted for as a single performance obligation or if the contract contains multiple performance obligations. In some cases, our service contract with the customer is considered one performance obligation as it includes factors such as the good or service being provided is significantly integrated with other promises in the contract, the service provided significantly modifies or customizes the other good or service or the goods or services are highly interdependent or interrelated with each other. If the contract has more than one performance obligation, the Company determines the standalone price of each distinct good or service underlying each performance obligation and allocates the transaction price based on their relative standalone selling prices.
+The transaction price of a contract, which can include both fixed and variable amounts, is allocated to each performance obligation identified. Some contracts contain variable consideration, which could include incremental fees or penalty provisions related to performance. Variable consideration that can be reasonably estimated based on current assumptions and historical information is included in the transaction price at the inception of the contract but limited to the amount that is probable that a significant reversal in the amount of cumulative revenue recognized will not occur. Variable consideration that cannot be reasonably estimated is recorded when known.
+For most service contracts, our performance obligations are satisfied over time as work progresses or at a point in time based on transfer of control of products and services to our customers. We receive payments from our customers based on billing schedules or other terms as written in our contracts.
+For our performance obligations that are satisfied over time, we measure progress in a manner that depicts the performance of transferring control to the customer. As such, we utilize the input method of cost-to-cost to recognize revenue over time as this depicts when control of the promised goods or services are transferred to the customer. Revenue is recognized based on the relationship of actual costs incurred to date to the estimated total cost at completion of the performance obligation. We are required to make certain judgments and estimates, including estimated revenues and costs, as well as inflation and the overall profitability of the arrangement. Key assumptions involved include future labor costs and efficiencies, overhead costs, and ultimate timing of product delivery. Differences may occur between the judgments and estimates made by management and actual program results. Under most of our MRO contracts, if the contract is
+terminated for convenience, we are entitled to payment for items delivered and fair compensation for work performed, the costs of settling and paying other claims, and a reasonable profit on the costs incurred or committed.
+Changes in estimates and assumptions related to our arrangements accounted for using the input method based on labor hours are recorded using the cumulative catchup method of accounting. These changes are primarily adjustments to the estimated profitability for our long-term programs where we provide MRO services.
+We have elected to use certain practical expedients permitted under ASC 606. Shipping and handling fees and costs incurred associated with outbound freight after control over a product has transferred to a customer are accounted for as a fulfillment cost and are included in cost of sales in our Consolidated Statements of Operations, and are not considered a performance obligation to our customers. Our reported sales on our Consolidated Statements of Operations are net of any sales or related non income taxes. We also utilize the “as invoiced” practical expedient in certain cases where performance obligations are satisfied over time and the invoiced amount corresponds directly with the value we are providing to the customer.
+Maintenance and Repair Costs
+The cost of maintenance, repairs, and re-leasing of Flight Equipment that does not extend the useful life of Flight Equipment is expensed as incurred. Costs incurred for planned major maintenance activities that materially increase the long-term value of the Flight Equipment or extend the useful life of the Flight Equipment are capitalized and depreciated over the lesser of the remaining useful life of the Flight Equipment or the estimated useful life of the capitalized improvements.
+Pursuant to certain of the Company’s aircraft leases, the lessee is responsible for performing required maintenance and repairs on the leased asset, and is required to make monthly maintenance reserve payments to the Company, in arrears following the usage month. Upon the lessee’s presentation of invoices evidencing the completion of qualifying maintenance, the Company will reimburse the lessee for the cost of the maintenance, up to the amount of the maintenance reserve payments that have been received by the Company. Unless otherwise provided in the contract, the Company records such maintenance reserve payments paid by the lessees as maintenance deposit payment liabilities in the accompanying Consolidated Balance Sheets to record the Company’s contractual commitment to reimburse such qualifying maintenance. Reimbursements to the lessees upon receipt of evidence for qualifying maintenance work are charged against the existing maintenance deposit payment liabilities.
+For other lease contracts (primarily engine lease contracts) where the terms of the lease are designed specifically to allow the Company to directly manage the occurrence, timing, and associated cost of qualifying maintenance work on the Flight Equipment, maintenance reserve payments collected during the lease are recognized as lease revenue in the period earned.
+Any amounts of maintenance reserve payments remaining at the end of a lease contract are recognized as lease revenue or applied against outstanding accounts receivable at lease termination.
+Share Based Compensation
+The Company accounts for share-based compensation to employees in accordance with ASC 718, “Compensation-Stock Compensation.” Under ASC 718, the Company measures the cost of employee services received in exchange for an award of equity instruments based on the grant-date fair value of the award and, for those awards subject only to service conditions, the Company recognizes the costs on a straight-line basis over the requisite service period for the entire award the employee is required to provide service in exchange for the award, which generally is the vesting period. For awards with performance and service conditions, we begin recording share-based compensation when achieving the performance criteria is probable and we recognize the costs using the accelerated attribution method.
+The estimated number of stock awards that will ultimately vest requires judgment, and to the extent actual results or updated estimates differ from the Company’s current estimates, such amount will be recorded as a cumulative
+adjustment in the period estimates are revised. Changes in the Company’s estimates and assumptions may cause us to realize material changes in share-based compensation expense in the future.
+The Company has issued share-based awards with performance-based vesting criteria. Achievement of the milestones must be probable before the Company begins recording share-based compensation expense. When the performance-based vesting criteria is considered probable, the Company begins to recognize compensation expense at that time. In the period that achievement of the performance-based criteria is deemed probable, US GAAP requires the immediate recognition of all previously unrecognized compensation since the original grant date. As a result, compensation expense recorded in the period that achievement is deemed probable could include a substantial amount of previously unrecorded compensation expense related to the prior periods. For any share-based awards where performance-based vesting criteria is no longer considered probable, previously recognized compensation cost would be reversed.
+The Company applies ASU 2018-07, “Improvements to Nonemployee Share-Based Payment Accounting,” which generally expands the scope of ASC 718, Compensation - Stock Compensation, to include share-based payment transactions for acquiring goods and services from nonemployees and supersedes the guidance in ASC 505-50, Equity-Based Payments to Non-employees, which previously included the accounting for nonemployee awards.
+Sales Taxes
+The Company’s policy is to present taxes collected from customers and remitted to governmental authorities on a net basis. The Company records the amounts collected as a current liability and relieves such liability upon remittance to the taxing authority without impacting revenue or expenses.
+Earnings Per Share
+Basic earnings (loss) per share is computed by dividing net earnings (loss) attributable to the Company’s common stockholders by the weighted average number of common shares outstanding during the periods. Diluted earnings (loss) per share reflects the potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted into common stock and is calculated using the treasury stock method for stock options and unvested shares.
+Income Taxes
+Income taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. The Company recognizes the effect of income tax positions only if those positions are more likely than not of being sustained on examination by the taxing authorities. Recognized income tax positions are measured at the largest amount that is greater than 50% likely of being realized. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs.
+The Company records interest and penalties related to unrecognized tax benefits in the income tax provision. The VIE was not included in the consolidated tax return of the Company. See Note M for more information about income taxes.
+New Accounting Pronouncements Adopted
+On May 2014, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2014-09, “Revenue from Contracts with Customers (Topic 606)”, which provides guidance for revenue recognition. This ASU affects any entity that either enters into contracts with customers to transfer goods or services or enters into contracts for the transfer of non-financial assets. This ASU supersedes the revenue recognition requirements in Accounting Standards Codification (“ASC”) 605, “Revenue Recognition”, and most industry specific guidance. We
+adopted this ASU on January 1, 2019 using the modified retrospective method. Refer to Note D for the impact of this change. This ASU does not apply to revenues from leasing activity, which will fall under “Leases (Topic 842)”, noted below.
+On December 2019, the FASB issued ASU 2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes (“ASU 2019-12”) as part of its overall simplification initiative to reduce costs and complexity of applying accounting standards. ASU 2019-12 removes certain exceptions from Topic 740, Income Taxes, including (i) the exception to the incremental approach for intra period tax allocation; (ii) the exception to accounting for basis differences when there are ownership changes in foreign investments; and (iii) the exception in interim period income tax accounting for year-to-date losses that exceed anticipated losses. ASU 2019-12 also simplifies U.S. GAAP in several other areas of Topic 740 such as (i) franchise taxes and other taxes partially based on income; (ii) transactions with a government that result in a step up in the tax basis of goodwill; (iii) separate financial statements of entities not subject to tax; and (iv) enacted changes in tax laws in interim periods. ASU 2019-12 is effective for public entities for annual reporting periods and interim periods within those years beginning after December 15, 2020, and early adoption is permitted. The Company adopted ASU 2019-12 on its consolidated financial statements in 2020.
+In 2021, the Financial Accounting Standards Board issued ASU No. 2021-10, “Government Assistance (Topic 832): Disclosures by Business Entities about Government Assistance.” This ASU will require certain disclosures about the significant terms and conditions of material government assistance agreements in order to provide more consistent information to users of the financial statements. This standard is effective for annual reporting periods beginning after December 15, 2021, and early adoption is permitted. We determined that our material government assistance agreements are the payroll support program agreements under the Coronavirus Aid, Relief and Economic Security Act (“CARES Act”) and the program extensions, and we adopted the new standard in 2021. See Note B where we reflect the requirements of this new standard as it relates to the payroll support program.
+On January 7, 2021, the FASB issued ASU No. 2021-01, Reference Rate Reform (Topic 848). This new standard provides optional temporary guidance for entities transitioning away from London Interbank Offered Rate (“LIBOR”) to new reference interest rates so that derivatives affected by the discounting transition are explicitly eligible for certain optional expedients and exceptions with Topic 848. These amendments do not apply to any contract modifications made after December 31, 2022, any new hedging relationships entered into after December 31, 2022, or to existing hedging relationships evaluated for effectiveness existing as of December 31, 2022, that apply certain optional practical expedients. This standard was effective immediately and may be applied (i) on a full retrospective basis as of any date from the beginning of an interim period that includes or is subsequent to March 12, 2020, or (ii) on a prospective basis to new modifications from any date within an interim period that includes or is subsequent to the date of the issuance of a final update, up to the date that financial statements are available to be issued. The Company had no material LIBOR-related contract modifications during the year ended December 31, 2021.
+On October 2021, the FASB issued ASU No. 2021-08, Business Combinations (Topic 805): Accounting for Contract Asset and Contract Liabilities from Contracts with Customers which intends to simplify the accounting for acquired revenue contracts with customers in a business combination and to also remove inconsistencies in this topic related to recognition of an acquired contract liability and payment terms and their effect on subsequent revenue recognized by the acquirer. ASU No. 2021-08 allows an acquirer to recognize and measure contract assets and contract liabilities acquired in a business combination in a similar manner to how they are recorded on the acquiree's financial statements at book value. This guidance is applicable to all business combinations occurring after the effective date and has been early adopted by the Company.
+New Accounting Pronouncements Not Yet Adopted
+On February 2016, FASB issued “Leases (Topic 842)”, which generally requires companies to recognize operating and financing lease liabilities and corresponding right-of-use assets on the balance sheet. In July 2018, FASB issued ASU No. 2018-10, “Codification Improvements to Topic 842, Leases,” and ASU No. 2018-11, “Leases (Topic 842): Targeted Improvements.” Topic 842 will be effective for the Company for the annual period beginning on January 1, 2022, the impact of which will be recorded retroactively at the beginning of the period of adoption through a cumulative-
+effect adjustment. We plan to elect the practical expedients, which permits us to not reassess (i) whether any expired or existing contracts are or contain leases, (ii) the lease classification for any expired leases and (iii) indirect costs for any existing leases. In addition, we have elected the practical expedients to not separate lease and non-lease components for both lessee and lessor relationships and to not apply the recognition requirements to leases with terms of less than 12 months. The preliminary impact of our adoption, assuming no changes in our leasing arrangements, is estimated to result in the recognition of operating lease right of use assets of approximately $13.8 million and lease liabilities of approximately $14.9 million on January 1, 2022. We are continuing our assessment, which may identify additional impacts that Topic 842 could have on our financial statements.
+On June 2016, the FASB issued ASU No. 2016-13 (“ASU 2016-13”), “Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments.” In November 2018, FASB issued ASU No. 2018-19, “Codification Improvements to Topic 326, Financial Instruments - Credit Losses,” which amends the scope and transition requirements of ASU 2016-13. ASU 2016-13 requires a financial asset (or a group of financial assets) measured at amortized cost basis to be presented at the net amount expected to be collected. The measurement of expected credit losses is based on relevant information about past events, including historical experience, current conditions and reasonable and supportable forecasts that affect the collectability of the reported amount. ASU 2016-13 will become effective for the Company beginning January 1, 2023, with early adoption permitted, on a modified retrospective approach. We are currently evaluating the impact this guidance will have on our consolidated financial statements and related disclosures.
+On May 3, 2021, the FASB issued ASU 2021-04, Earnings Per Share (Topic 260), Debt-Modifications and Extinguishments (Subtopic 470-50), Compensation-Stock Compensation (Topic 718), and Derivatives and Hedging-Contracts in Entity’s Own Equity (Subtopic 815-40): Issuer’s Accounting for Certain Modifications or Exchanges of Freestanding Equity-Classified Written Call Options. This new standard provides clarification and reduces diversity in an issuer’s accounting for modifications or exchanges of freestanding equity-classified written call options (such as warrants) that remain equity classified after modification or exchange. This standard is effective for fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. Under this standard, issuers should apply the new standard prospectively to modifications or exchanges occurring after the effective date of the new standard. Early adoption is permitted, including adoption in an interim period. If an issuer elects to early adopt the new standard in an interim period, the guidance should be applied as of the beginning of the fiscal year that includes that interim period. The Company is evaluating this new standard, but does not expect it to have a material impact on the Company's financial statements or disclosures.
+CARES Act
+The Company has also taken steps to improve our liquidity, including seeking financial assistance under the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”). Certain of the Company’s subsidiaries have received $16.4 million from the U.S. Treasury Department (“Treasury”) through the Payroll Support Program (“PSP1”) under the CARES Act, of which $12.7 million was received prior to December 31, 2020 and the remaining amount was received during the first quarter of 2021. As part of the Payroll Support Extension Law (“PSP Extension Law”), the Company entered into an agreement with the U.S. Department of the Treasury (“PSP2”) on March 4, 2021 for the receipt of relief funds of $5.5 million during 2021. Pursuant to the American Rescue Plan Act of 2021 (“ARP”), we entered into an agreement (“PSP3”) with the U.S. Department of the Treasury on April 16, 2021 and received relief funds of an additional $5.5 million, bringing the total to $14.7 million during 2021.
+In connection with the financial assistance the Company has received under the Payroll Support Program, it is required to comply with certain provisions of the CARES Act, including the requirement that funds provided pursuant to the Payroll Support Program be used exclusively for the continuation of payment of employee wages, salaries and benefits; the requirement against involuntary terminations and furloughs and reductions in employee pay rates and benefits from the signing date of the Payroll Support Program agreement through September 30, 2021. The agreement requires the Company to issue a recall to any employee who was terminated or furloughed between October 1, 2020 and March 4, 2021 and enable such employee to return to employment. In addition, the Company is subject to provisions prohibiting the repurchase of common stock and the payment of common stock dividends through September 30, 2022, as well as limitations on the payment of certain employee compensation through April 1, 2023. These restrictions may affect the
+Company’s operations and if the Company does not comply with these provisions, it may be required to reimburse up to 100% of any previously received relief funds. In particular, limitations on compensation may adversely impact our ability to attract and retain senior management or attract other key employees during this critical time. As of December 31, 2021, we have been in compliance with all of the provisions of the CARES Act.
+NOTE C - SIGNIFICANT RISKS AND UNCERTAINTIES
+Impact of Coronavirus (COVID-19)
+COVID-19 has been declared a global health pandemic by the World Health Organization. COVID-19 has impacted nearly all regions of the world, which has driven the implementation of significant, government-imposed measures to prevent or reduce its spread, including travel restrictions, the closing of borders, “shelter in place” orders and business closure. As a result, commercial airlines have experienced a decline in demand for air travel. The reduced number of aircraft in service and corresponding flying hours negatively impacts the demand for certain of AerSale’s services, and prolonged reduction could materially and adversely affect AerSale’s business, operating results, financial condition, and liquidity.
+An extended pandemic, or the threat thereof, could result in employee absenteeism leading to lower productivity in AerSale’s service locations, temporary closure of AerSale’s offices and facilities, travel restrictions for AerSale’s workforce and other voluntary actions that may result in business disruptions.
+Use of Estimates
+The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting periods. Actual results could differ from those estimates.
+Significant items subject to such estimates and assumptions include the useful lives of property and equipment, useful lives and residual values of Flight Equipment held for lease, allowances for doubtful accounts and sales returns, the income tax provision, impairment of long-lived assets, valuation of inventory, valuation and useful lives of intangibles, goodwill and contingencies.
+Risks and Uncertainties
+The Company is impacted by the general economic conditions of the commercial aviation industry. A decrease in passenger and/or air cargo traffic worldwide could result in strains on the Company’s lessees and cause them to default under their leases with the Company, which could negatively impact cash flows and results of operations. The value of Flight Equipment held for operating leases is subject to fluctuations in the values of commercial aircraft and engines worldwide. A material decrease in aircraft or engine values could have a downward impact on lease rentals and residual values and may require impairments to be taken on such assets. Additionally, impairment charges may be required to reduce the carrying value of inventory.
+The nature of the Company’s business is capital intensive and demands significant capital requirements. To meet the Company’s current purchase commitments and future aircraft and engine acquisitions, the Company may need to (i) access committed debt facilities, and/or (ii) secure additional financing, and/or (iii) use existing available cash balances.
+The Company is also subject to regulation by various governmental agencies with responsibilities over civil aviation. Increased regulations imposed by organizations such as the FAA may significantly affect industry operations.
+The Company conducts business in certain foreign countries, some of which are politically unstable or subject to military or civil conflicts. Consequently, the Company is subject to a variety of risks such as civil strife, political risk, import and export regulations, compliance with foreign laws, treaties, regulations, uncertainties arising from foreign local
+business practices, cultural considerations, restriction on fund transfers, and exposure to U.S. Foreign Corrupt Practices Act and other anti-bribery laws.
+The Company periodically reviews the carrying values of trade receivables, inventory, goodwill, intangible assets, long-lived assets, the recoverable value of deferred tax assets, and the sufficiency of accruals and provisions, substantially all of which are sensitive to the above risks and uncertainties.
+Concentrations of Credit Risk
+Financial instruments that potentially subject the Company to credit risk principally consist of cash and cash equivalents and trade receivables.
+During the year ended December 31, 2021, one customer accounted for 14% of total revenue, which was related to a nonrecurring transaction that was collected during the year. No such concentration existed for the year ended December 31, 2020. During the year ended December 31, 2019, a separate customer accounted for 17% of total revenue, which was collected during the year. No customer made up more than 10% of our trade receivable balance as of December 31, 2021 and 2020.
+Cash
+The Company maintains cash and cash equivalents with high-quality financial institutions, which at times exceed the Federal Deposit Insurance Corporation insurance limits. While the Company monitors daily the cash balances in its operating accounts and adjusts the balances as appropriate, these balances could be impacted if one or more of the financial institutions with which the Company deposits fails or is subject to other adverse conditions in the financial or credit markets. To date, the Company has experienced no loss or lack of access to its invested cash or cash equivalents; however, no assurance can be provided that access to invested cash and cash equivalents will not be impacted by adverse conditions in the financial and credit markets.
+NOTE D - Revenue
+We adopted ASC 606 on January 1, 2019 using the modified retrospective method. We elected to use the practical expedient allowing for the application of ASC 606 only to contracts that were not completed as of January 1, 2019 and the portfolio approach was used to assess the impact of ASC 606 on contracts with similar characteristics. We recognized the cumulative effect of initially applying ASC 606 as an increase of $0.7 million to the opening balance of retained earnings as of January 1, 2019.
+The timing of revenue recognition, customer billings, and cash collections results in a contract asset or contract liability at the end of each reporting period. Contract assets consist of unbilled receivables or costs incurred where revenue recognized over time exceeds the amounts billed to customers. Contract liabilities include advance payments and billings in excess of revenue recognized. Certain customers make advance payments prior to the satisfaction of our performance obligations on the contract. These amounts are recorded as contract liabilities until such performance obligations are satisfied. Contract assets and contract liabilities are determined on a contract by contract basis.
+The contract assets are as follows (in thousands):
+Contract assets are reported within accounts receivable on our Consolidated Balance Sheets. Changes in contract assets primarily results from the timing difference between our performance of services. Contract liabilities are reported as deferred revenue on our Consolidated Balance Sheets and amounted to $2.6 million as of December 31, 2020, of which $2.2 million was related to contract liabilities for services to be performed. For the year ended December 31, 2021, we recognized as revenue the entire opening balance of our contract liabilities as the timing between customer payments and our performance of the services is a short period of time and generally no longer than six months.
+Disaggregation of Revenue
+The Company reports revenue by segment. The following tables present revenue by segment, as well as a reconciliation to total revenue (in thousands):
+NOTE E-INVENTORY
+Inventory consisted of the following (in thousands):
+NOTE F -INTANGIBLE ASSETS
+In accordance with ASC 350, “Intangibles-Goodwill and Other”, goodwill and other intangible assets deemed to have indefinite lives are not amortized, but are subject to annual impairment tests. The Company reviews and evaluates its goodwill and indefinite life intangible assets for potential impairment at a minimum annually or more frequently if circumstances indicate that impairment is possible.
+The Company determined the fair value of assets acquired and liabilities assumed using a variety of methods. An income approach based on discounted cash flows was used to determine the values of our trademarks, certifications, customer relationships and FAA certificates. The assumptions we used to estimate the fair value of our reporting units are based on historical performance, as well as forecasts used in our current business plan and require considerable management judgment.
+The Company’s goodwill and intangible assets as defined by ASC 350 are related to its subsidiaries, AerSale Component Solutions (d/b/a AerSale Landing Gear Solutions) (“ALGS”), Avborne Component Solutions (d/b/a AerSale Component Solutions) (“ACS”), and Aircraft Composite Technologies (“ACT”), which are included in the TechOps segment, as well as Qwest, which is included under the Asset Management Solutions segment.
+Goodwill and other intangibles consisted of the following (in thousands):
+The Company performed its annual quantitative impairment analysis as of July 1, 2021 on the indefinite lived intangible assets and concluded there was no impairments. The Company performed a qualitative impairment analysis as of October 1, 2021 on the goodwill for the Asset Management Solutions and TechOps segment, and concluded there was no impairment.
+As a result of the COVID-19 pandemic and its impact on the aviation industry, AerSale performed a qualitative impairment analysis as of June 30, 2020 on the goodwill at the reporting unit level for the Asset Management Solutions and TechOps segments and concluded there was no impairment. Additionally, the Company performed a quantitative impairment analysis as of October 1, 2020 and concluded there was no impairment.
+Intangible assets with definite useful lives are amortized on a straight-line basis over their estimated useful lives. Intangible assets with definite lives are as follows (in thousands):
+Amortization expense was as follows (in thousands):
+The estimated aggregate amount of amortization expense for intangible assets in each fiscal year from 2022 through 2026 is $2.1 million. Accumulated amortization amounted to $5.1 and $3.0 million as of December 31, 2021 and December 31, 2020, respectively.
+Goodwill activity for the years ended December 31, 2021 and 2020 consisted of the following (in thousands):
+Other intangible assets are reviewed at least annually or more frequently if any event or change in circumstance indicates that an impairment may have occurred.
+NOTE G - PROPERTY AND EQUIPMENT, NET
+Property and equipment, net, consisted of the following (in thousands):
+Depreciation expense, which includes amortization of equipment under capital lease, was as follows (in thousands):
+NOTE H - AIRCRAFT AND ENGINES HELD FOR LEASE AND LEASE RENTAL
+Aircraft and engines held for operating leases, net, consists of the following (in thousands):
+The Company recorded an impairment of leased assets in the amount of $3.0 million for the year ended December 31, 2020 and is included in cost of leasing in the Consolidated Statements of Operations.
+Total depreciation expense included in cost of leasing in the Consolidated Statements of Operations is as follows (in thousands):
+Contingent rental fees recognized as revenues related to supplemental rent were as follows (in thousands):
+The Company’s current operating lease agreements for Flight Equipment on lease expire over the next month to three years. The amounts in the following table are based upon the assumption that Flight Equipment under operating leases will remain on lease for the length of time specified by the respective lease agreements. Minimum future annual lease rentals contracted to be received under existing operating leases of Flight Equipment at December 31, 2021 were as follows (in thousands):
+NOTE I - FAIR VALUE MEASUREMENTS
+Fair value measurements and disclosures require the use of valuation techniques to measure fair value that maximize the use of observable inputs and minimize use of unobservable inputs. These inputs are prioritized as follows:
+● Level 1: Observable inputs such as quoted prices in active markets for identical assets or liabilities.
+● Level 2: Inputs other than quoted prices included within Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities or market corroborated inputs.
+● Level 3: Unobservable inputs for which there is little or no market data and which require the Company to develop our own assumptions about how market participants price the asset or liability. The valuation techniques that may be used to measure fair value are as follows:
+● Market approach-Uses prices and other relevant information generated by market transactions involving identical or comparable assets or liabilities.
+● Income approach-Uses valuation techniques to convert future amounts to a single present amount based on current market expectation about those future amounts.
+● Cost approach-Based on the amount that currently would be required to replace the service capacity of an asset (replacement cost).
+The Company would measure the fair value of certain assets and liabilities on a nonrecurring basis, when U.S. GAAP requires the application of fair value, including events or changes in circumstances that indicate that the carrying amounts of assets may not be recoverable. Assets subject to these measurements include intangible assets acquired in business combinations.
+The Company’s financial instruments, other than cash, consist principally of accounts receivable and accounts payable. The fair value of such approximates the carrying value of these financial instruments because of their short-term nature. Borrowings under the Revolving Credit Facility approximate fair value due to the variable interest rate on the facility and the recent amendment during the year. The Company’s borrowings under the Revolving Credit Facility are carried at historical cost and adjusted for principal payments.
+NOTE J - ACCRUED EXPENSES
+The following is a summary of the components of accrued expenses (in thousands):
+NOTE K - WARRANT LIABILITY
+Warrants to purchase a total of 835,014 and 18,000,000 shares of the Company’s common stock were outstanding as of December 31, 2021 and 2020, respectively. 750,000 warrants were issued to founders in a private placement (the “Private Warrants”), subject to a twelve-month lock-up period from the date of the Merger, and 17,250,000 warrants were public warrants (the “Public Warrants”) that were exercisable immediately following the Closing. Each of the Company’s Public Warrants entitled the registered holder to purchase one share of the Company’s common stock at a price of $11.50 per share. On November 29, 2021, the Company provided notice to holders of all of the Public Warrants that the Company would be redeeming all of the Public Warrants for a redemption price of $0.01 per Public Warrant, and on December 29, 2021, such redemption was completed and the Public Warrants ceased trading on Nasdaq.
+Each of the Private Warrants entitles the registered holder to purchase one share of the Company’s common stock at a price of $11.50 per share, subject to adjustment. The Private Warrants will expire at 5:00 p.m., New York City time, on the fifth anniversary of the completion of the Merger, or earlier upon redemption or liquidation, as applicable. The Private Warrants include provisions that affect the settlement amount. Such variables are outside of those used to determine the fair value of a fixed-for-fixed instrument, and as such, the Private Warrants do not meet the criteria for equity treatment
+under guidance contained in ASC Topic 815, “Accounting for Derivative Financial Instruments Indexed to, and Potentially Settled in a Company’s Own Stock.” The Company classifies the Private Warrants as a liability at their fair value subject to re-measurement at each balance sheet date and adjusted at each reporting period until exercised or expired, and any change in fair value is recognized in the Company's Consolidated Statements of Operations. The fair value of the Private Warrants was determined using the market price of the Public Warrants adjusted for their lack of liquidity.
+NOTE L - FINANCING ARRANGEMENTS
+The Company did not have any outstanding debt obligations as of December 31, 2021 and 2020.
+At December 31, 2021 and 2020, total deferred financing costs were $1.0 and $0.4 million, respectively. Amortized debt issuance costs is recorded in interest expense through maturity of the related debt using the straight-line method, which approximates the effective interest method.
+Amortization expense was as follows (in thousands):
+$150.0 million Wells Fargo Senior Secured Revolving Credit Facility
+On April 11, 2011, AerSale, Inc. and other subsidiary borrowers signatory (collectively, “the Borrowers”) entered into a secured credit agreement (“Revolving Credit Agreement”) with Wells Fargo Bank, N.A. as administrative agent and lender, and the other lenders signatory thereto from time to time (collectively, “the Lenders”).
+On July 20, 2018, the Revolving Credit Agreement was restated and amended (as amended to date, the “Amended and Restated Credit Agreement”) to, among other things, provide a $110.0 million aggregate amount of revolver commitments subject to borrowing base limitations and extend, subject to certain conditions, the maturity date to July 20, 2021. Previous amendments predominantly accomplished maturity term extensions as well as modification to the syndicate of banks.
+On March 12, 2021, the Amended and Restated Credit Agreement was amended to, among other things, provide a $150.0 million aggregate amount of revolver commitments subject to borrowing base limitations and extend, subject to certain conditions, the maturity date to March 12, 2024. Previous amendments predominantly accomplished maturity term extensions as well as modification to the syndicate of banks.
+The Amended and Restated Credit Agreement includes a $10 million sub facility for letters of credit and for borrowings on same-day notice referred to as “swingline loans”. The maximum amount of such commitments available at any time for borrowings and letters of credit is determined according to a borrowing base calculation equal to the sum of eligible inventory and eligible accounts receivable reduced by the aggregate amount, if any, of trade payables of the loan parties, as defined in the Amended and Restated Credit Agreement. Extensions of credit under the Amended and Restated Credit Agreement are available for working capital and general corporate purposes. The commitments under the Amended and Restated Credit Agreement terminate on March 12, 2024, at which time all outstanding amounts on the Amended and Restated Credit Agreement will be due and payable.
+As of December 31, 2021, there was no outstanding balance under the Amended and Restated Credit Agreement and the Company had $113.9 million of availability.
+As of December 31, 2020, there was no outstanding balance under the Amended and Restated Credit Agreement and the Company had $83.7 million of availability.
+The obligations of the Borrowers under the Amended and Restated Credit Agreement are guaranteed by the Company, and other subsidiaries of AerSale, Inc. may be designated as borrowers on a joint and several basis. Such obligations are also secured by substantially all of the assets of the Company.
+The interest rate applicable to loans outstanding on the Amended and Restated Credit Agreement is a floating rate of interest per annum of LIBOR plus a margin of 3.50%. The interest rate as of December 31, 2021 and 2020 was 5.25% and 5.75%, respectively. In addition, a commitment fee applies to the unused portion of the commitments under the Amended and Restated Credit Agreement.
+The Borrowers’ ability to borrow on the Amended and Restated Credit Agreement is subject to ongoing compliance by the Company and the Borrowers with various customary affirmative and negative covenants. The Amended and Restated Credit Agreement requires the Company and Borrowers to meet certain financial and nonfinancial covenants. The Company was in compliance with these covenants as of December 31, 2021 and 2020.
+Interest expense on the Revolving Credit Agreement was as follows (in thousands):
+NOTE M - INCOME TAXES
+Income tax expense consists of (in thousands):
+Tax Rate Reconciliation
+The provision for income taxes on pre-tax income differs from the amount computed by applying the U.S. federal statutory income tax rate of 21.0% for the years ended December 31, 2021, 2020 and 2019 due to the following (in thousands):
+Significant Components of Deferred Taxes
+Deferred tax assets and liabilities reflect the net effect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. The tax effects of temporary differences that give rise to deferred tax assets and deferred tax liabilities as of December 31, 2021 and 2020 are as follows (in thousands):
+The deferred tax assets are adjusted by a valuation allowance if, based on the weight of available evidence, it is more likely than not that a portion or all the deferred assets will not be realized. The Company has evaluated the positive and negative evidence bearing upon its ability to realize the deferred tax assets. After considering all of the evidence, both positive and negative, it was determined that it is more likely than not, that the benefit from an outside basis difference of
+an investment acquired during the year will not be realized. Accordingly, the Company has recorded a valuation allowance of $1.3 million on the deferred tax assets related to the outside basis difference as of December 31, 2021.
+At December 31, 2021 and December 31, 2020, the Company had net operating losses available for carry-forward for Federal income tax purposes of approximately $0.5 million and $0.5 million, respectively. These net operating loss carryforwards will expire on various dates through 2034. Utilization of the net operating loss carryforwards as of December 31, 2021 are subject to annual limitation under Sec. 382 of the Internal Revenue Code. A deferred tax asset has been recorded only for those carryforwards that the Company expects to utilize prior to expiration.
+The Company and its subsidiaries file income tax returns in the U.S. federal jurisdiction, various state jurisdictions, and in Ireland. Tax years beginning in 2018 through 2021 are open for examination by the U.S. Internal Revenue Service and tax years beginning in 2017 through 2021 are open for examination by various state taxing jurisdictions in which the Company is subject to tax. Tax years beginning in 2017 through 2021 are open for examination by the Irish taxing authorities.
+ASC 740, Income Taxes, provides that a tax benefit from an uncertain tax position may be recognized when it is more likely than not that the position will be sustained upon examination, including resolutions of any related appeals or litigation processes, based on the technical merits. ASC 740 also provides guidance on measurement, derecognition, classification, interest and penalties, accounting in interim periods, and disclosure and transition. As of December 31, 2021 and 2020, there was no reserve for uncertain tax positions.
+NOTE N - EARNINGS PER SHARE
+The computation of basic and diluted earnings per share (“EPS”) is based on the weighted average number of common shares outstanding during each period. The computation of basic and diluted earnings per share is impacted by dividends for preferred stockholders.
+The following table provides a reconciliation of the computation for basic and diluted earnings per share for the years ended December 31, (in thousands, except share and per share data):
+NOTE O - STOCKHOLDERS’ EQUITY
+The Consolidated Statements of Stockholders’ Equity reflect the Reverse Recapitalization as defined in Note A as of December 22, 2020. As AerSale Aviation was deemed the accounting acquirer in the Reverse Recapitalization with Monocle, all periods prior to the consummation date reflect the balances and activity of AerSale Aviation. The common stock and per share amounts in the Consolidated Statements of Stockholders’ Equity as of December 31, 2019 and 2018, and the Consolidated Statements of Operations for the period ended December 31, 2019, from the previously reported audited consolidated financial statements of AerSale Aviation, were retroactively adjusted using the recapitalization exchange ratio of 74.0%.
+8.65% Cumulative Preferred Shares
+The preferred stock was issued at a purchase price of $1,000 per share and ranks senior to common stock. The preferred stock has an initial liquidation preference equal to its $1,000 per share purchase price, and accrues dividends at an annual rate of 8.65%. In the event of any voluntary or involuntary liquidation, dissolution, or winding-up of the Company, the holders of the preferred stock will be entitled to receive, out of assets available for distribution to our stockholders and before any distribution of assets to our common stockholders, an amount equal to the then-current liquidation preference, which includes accrued and unpaid dividends. For the year ended December 31, 2019 accrued dividends were $34.6 million. Effective July 31, 2020 and October 31, 2019, all holders of the issued and outstanding 8.65% cumulative preferred shares agreed to waive $73.2 million and $150.2 million of liquidation preference, respectively. As of December 31, 2019, cumulative, the aggregate liquidation preference was $293.8 million.
+Upon the consummation of the Merger, the liquidation preference of the preferred stock was triggered. All outstanding principal of $200 million and cumulative unpaid dividends of $21.2 million were settled in cash of $13.1 million with the remaining balance converted to the Company’s common stock at $10.00 per share.
+Common Stock
+Prior to the Merger, holders of AerSale Aviation’s common stock were entitled to one vote per share, and to receive dividends and, upon liquidation or dissolution, were entitled to receive all assets available for distribution to stockholders. The holders had no preemptive or other subscription rights and there were no redemption or sinking fund provisions with respect to such shares. Common stock was subordinated to the preferred stock with respect to dividend rights and rights upon liquidation, winding up, and dissolution of the Company.
+Upon the consummation of the Merger, holders of AerSale Aviation’s common stock received shares of the Company’s common stock at $10.00 per share as merger consideration. The Company’s common stock consist of $0.0001 par value, 200,000,000 shares authorized, of which 51,673,099 and 41,046,216 shares were issued and outstanding as of December 31, 2021 and 2020, respectively.
+Stock Appreciation Rights (“SARs”)
+Prior to the Merger, AerSale Aviation granted stock appreciation rights to certain of its executives. These awards entitled the holders to compensation in the Company’s stock from the date of grant to when the award is exercised. The awards were only exercisable upon a change in control and subject to the holder’s continuing employment.
+On December 22, 2020, the exercise feature was triggered, and the awards were exercised. The Company’s accounting policy is to reflect compensation expense when a change in control is deemed probable based on the grant date fair value of the award. As of the date of the Merger, the holder of in-the-money SARs were issued shares of the Company’s common stock valued at $1.0 million and cash, recognizing executive compensation in the amount of $1.4 million.
+Earn-Out Shares
+Upon consummation of the Merger, the pre-closing holders of AerSale Aviation’s common stock and the holders of in-the-money SARs received a contingent right to receive up to 3,000,000 additional shares of the Company’s common
+stock. Additionally, certain pre-closing holders of AerSale Aviation’s common stock received a contingent right to receive 746,876 shares of the Company’s common stock, in the aggregate (the ‘‘Earn-out Shares’’), subject to the following:
+Prior to the fifth anniversary of the Merger, if the closing price per share of the Company’s common stock is greater than $13.50 for any period of 20 trading days out of 30 consecutive trading days, the holders will be entitled to receive 50% of the Earn-out Shares in the aggregate (“Minimum Target Earn-out Shares”); and
+Prior to the fifth anniversary of the Merger, if the closing price per share of the Company’s common stock is greater than $15.00 for any period of 20 trading days out of 30 consecutive trading days, the holders will be entitled to receive all of the remaining Earn-out Shares not yet issued in the aggregate.
+Notwithstanding the foregoing, if a liquidity event; generally consisting of a merger, reorganization or consolidation that results in any person or group owning more than 50% of the voting power of the Company, the sale of all or substantially all of Company’s assets or a stockholder approved plan of complete liquidation or dissolution (“Liquidity Event”), is consummated prior to the fifth anniversary of the Merger, all Earn-out Shares that have not yet been issued shall be issued, subject to the following:
+If the Liquidity Event consideration is greater than $13.50 per share, all of the Minimum Target Earn-out Shares will be deemed issued and outstanding; and
+If the Liquidity Event consideration is greater than $15.00 per share, all of the remaining Earn-out Shares not yet issued will be deemed issued and outstanding.
+Effective February 8, 2021, the contingency event related to the Minimum Target Earn-out Shares was met and 1,855,634 shares were issued. Effective October 22, 2021, the contingency event related to the Maximum Target Earn-out Shares was met and 1,854,169 shares were issued. The remaining shares pursuant to the contingent rights were withheld to cover employee taxes.
+We determined the Earn-out Shares to be classified as equity under ASC Topic 815, “Accounting for Derivative Financial Instruments Indexed to, and Potentially Settled in a Company’s Own Stock” as the contingent right is indexed to the Company’s stock and accordingly, the accrual of the Earn-Out shares as of December 31, 2021 and 2020 had no impact on our consolidated financial statements.
+Unvested Founder Shares
+Upon the Merger, certain pre-closing holders of AerSale Corporation’s common stock agreed to defer the vesting of an aggregate of 700,000 shares (the “Unvested Founder Shares”), half of which will vest at such time as the Minimum Target (as defined in the Merger Agreement) and the other half of which will vest at the Maximum Target (as defined in the Merger Agreement). The Unvested Founder Shares will also vest upon the occurrence of a Liquidity Event on or prior to the fifth anniversary of the date of the Amended and Restated Founder Shares Agreement, solely to the extent the Liquidity Event Consideration (as defined in the Merger Agreement) is greater than $13.50, in which case half of the Unvested Founder Shares which will vest, or $15.00, in which case the other half of the Unvested Founder Shares will also vest. Pursuant to the Amended and Restated Founder Shares Agreement, the holders of the Unvested Founder Shares have retained the right to vote such Unvested Founder Shares prior to vesting. Unvested Founder Shares that have not vested on or prior to the fifth anniversary of the Closing Date will be forfeited.
+Effective February 8, 2021, the contingency event related to the Minimum Target was met and half of the Unvested Founder Shares vested. Effective October 22, 2021, the contingent event related to the Maximum Target was met and the other half of the Unvested Founder Shares vested.
+Public Warrants
+On November 29, 2021, the Company provided notice to holders of all of our 16,442,886 outstanding Public Warrants to purchase shares of our common stock that were issued under the warrant agreement as part of the units sold
+in our initial public offering, that we would be redeeming all of the Public Warrants for a redemption price of $0.01 per Public Warrant on December 29, 2021 (the “Redemption”). In accordance with Section 3.3.1(b) of the warrant agreement, following delivery of notice of the Redemption, all of our Public Warrants could only be exercised on a cashless basis in lieu of being redeemed. On December 29, 2021, we completed the Redemption and the Public Warrants ceased trading on Nasdaq. A total of 16,357,872 Public Warrants were exercised on a cashless basis in lieu of being redeemed, resulting in net issuances of 6,079,966 shares of our common stock under such Public Warrants. The Private Warrants that are still held by the initial holders or their permitted transferees were not subject to the Redemption.
+Subsequent to December 31, 2021, a total of 85,014 unredeemed Public Warrants were redeemed for a redemption price of $0.01 per Public Warrant.
+2020 Equity Incentive Plan
+The Company maintains a 2020 Equity Incentive Plan (the “2020 Plan”) and has registered 4,200,000 shares of common stock issuable under the Plan. The 2020 Plan authorizes discretionary grants of incentive stock options to employees of the Company and its qualifying subsidiaries. The 2020 Plan also authorizes discretionary grants of non-qualified stock options, stock appreciation rights, restricted stock, restricted stock units, dividend equivalents or other equity or cash-based awards to employees and consultants of the Company and its subsidiaries and to members of the Board of Directors of the Company. To the extent that an award under the 2020 Plan expires, is cancelled, forfeited, terminated, settled in cash or is otherwise settled without issuance of the full number of shares to which it relates, will become or again be available for awards under the 2020 Plan. The 2020 Plan is administered by the Company's Compensation Committee. The Compensation Committee has complete, full and final authority to: designate participants; determine the types of awards to be granted; determine the terms of awards; interpret and administer the 2020 Plans and any agreements and awards thereunder.
+Restricted stock unit activity under the 2020 Plan for the year ended December 31, 2021 was as follows:
+The Company’s restricted stock units include 1,595,000 performance-based awards that have vesting provisions subject to both time vesting and the achievement of certain performance milestones at 100% and 200% vesting targets, while the remaining 74,300 awards vest over a period ranging from one to three years.
+For the restricted stock unit awards granted under the 2020 Plan containing both service and performance conditions, the Company recognizes compensation expense when the awards are considered probable of vesting. Restricted stock units are considered granted, and the service inception date begins, when a mutual understanding of the key terms and conditions between the Company and the employee have been established. The fair value of these awards is determined based on the closing price of the shares on the grant date. The probability of restricted share awards granted with future performance conditions is evaluated at each reporting period and compensation expense is adjusted based on the probability assessment.
+For the year ended December 31, 2021, the Company recognized share-based compensation expense for the performance-based awards of $12.1 million, given that the achievement of the performance milestones at the 200% vesting target have been deemed probable for accounting purposes.
+2020 Employee Stock Purchase Plan
+The Company also maintains a 2020 Employee Stock Purchase Plan (the “ESPP”) and has registered 500,000 shares of common stock issuable under the ESPP. The Company has not issued shares pursuant to the ESPP as of December 31, 2021. Subsequent to December 31, 2021, the Company issued 11,988 shares pursuant to the ESPP.
+NOTE P - BUSINESS SEGMENTS
+Consistent with how our chief operating decision maker (Chairman and Chief Executive Officer) evaluates performance and utilizes gross profit as a profitability measure, we report our activities in two business segments:
+● Asset Management Solutions-comprised of activities to extract value from strategic asset acquisitions through leasing, trading, or disassembling for product sales
+● TechOps - comprised of MRO activities; and product sales of internally developed engineered solutions and other serviceable products.
+The Asset Management Solutions segment provides short-term and long-term leasing solutions of aircraft and jet engines to passenger and cargo operators worldwide. Assets considered to be at or near the end of their useful lives, supplied by our leasing portfolio or acquisitions, are analyzed for return maximization to assess whether they will be traded as whole assets or disassembled and sold as individual spare parts and components.
+The TechOps segment consists of aftermarket support and services businesses that provide maintenance support for aircraft and aircraft components, and sale of engineered solutions. Our MRO business also engages in longer term projects such as aircraft modifications, cargo conversions of wide-body aircraft, and aircraft storage. The segment also includes MRO of landing gear, thrust reversers, and other components. Cost of sales consists principally of the cost of product, direct labor, and overhead. Our engineered solutions revenues consist of sales of products internally developed as permitted by Supplemental Type Certificates issued by the FAA. These products are proprietary in nature and function as non-original equipment manufacturer solutions to airworthiness directives and other technical challenges for operators. In order to develop these products, we engage in research and development activities. Periodically, our TechOps division will engage in the repair and sale of used serviceable materials through their ability to overhaul existing inventory.
+The accounting policies for the segments are the same as those described in Note B. Gross Profit is calculated by subtracting cost of sales from sales. The assets and certain expenses related to corporate activities are not allocated to the segments. Our reportable segments are aligned principally around the differences in products and services. The segment reporting excludes the allocation of selling, general and administrative expenses, interest expense and income tax expense.
+Selected financial information for each segment is as follows (in thousands):
+The following table reconciles segment gross profit to net income from continuing operations for the years ended December 31, (in thousands):
+The following table presents revenues based on the customers’ geographic location and long-lived assets located in the United States, our country of domicile, for the years ended December 31, (in thousands):
+As of December 31, 2021, the Company had one customer from which revenues generated exceeded 10% of total sales. Total sales to this customer amounted to $46.2 million, which was included in the Asset Management Solutions segment. No such concentrations existed for the year ended December 31, 2020.
+Intersegment sales includes amounts invoiced by a segment for work performed for another segment. Amounts are based on actual work performed or products sold and agreed-upon pricing which is intended to be reflective of the contribution made by the supplying business segment. All intersegment transactions have been eliminated upon consolidation. Intersegment revenue is as follows (in thousands):
+NOTE Q - COMMITMENTS AND CONTINGENCIES
+Management Compensation
+Certain executive management entered into employment agreements with the Company. The contracts are for a period of three years, and the contracts provide that such management may earn discretionary bonuses, computed upon a sliding percentage scale of their base salaries, based on the overall financial performance of the Company and each individual’s contributions, subject to approval by the board of directors. Additionally, under certain termination conditions, such contracts provide for severance payments under the Company’s Severance Plan, including payment of base salary,
+bonus, and fringe benefits. The contracts include certain noncompete clauses commencing upon the employee’s separation from the Company.
+Litigation
+The Company could be involved in litigation incidental to the operation of the business. The Company intends to vigorously defend all matters in which the Company is named defendants, and, for insurable losses, maintain significant levels of insurance to protect against adverse judgments, claims or assessments that may affect the Company. Although the adequacy of existing insurance coverage of the outcome of any legal proceedings cannot be predicted with certainty, based on the current information available, the Company does not believe the ultimate liability associated with known claims or litigation, if any, in which the Company is involved will materially affect the Company’s consolidated financial condition or results of operations.
+Lease Commitments
+The Company leases office space, warehouses, hangars, computers, and equipment in connection with its operations under various operating leases, many of which contain escalation clauses.
+Future minimum lease payments under non-cancelable operating leases (with initial lease terms in excess of one year) as of December 31, 2021 are (in thousands):
+Expense charged to operations under the operating lease agreements was as follows (in thousands):
+Operating lease expense is recognized on a straight-line basis over the term of the lease, including any option periods, as appropriate. The same lease term is used for lease classification, the amortization period of related leasehold improvements, and the estimation of future lease commitments.
+NOTE R - RELATED-PARTY TRANSACTIONS
+Prior to the Merger, the Company, in the normal course of its operations, engaged in transactions with certain of its stockholders or their affiliates. On a monthly basis, AerSale Aviation paid its majority stockholder a fee in exchange for advisory, investment banking, management, consulting, and financial planning services provided on an ongoing basis. Total management fees paid to or accrued for the majority stockholder for the year ended December 31, 2019 totaled $0.6 million. Management fees for the majority stockholder was suspended in 2020, as such, no management fees were incurred in 2020 or 2021.
+The Company determined that AerLine Holdings, Inc. ("AerLine") was a VIE that the Company was required to consolidate as it was deemed the primary and sole beneficiary. Effective August 31, 2018, AerLine sold the customer relationships of its operating company, XTRA Airways, in consideration for a 9.99% interest in the buyer (“Buyer”), at which point AerLine ceased to meet the consolidation criteria as a VIE under U.S. GAAP and ceased operations. In a
+separate transaction where the Buyer was acquired, the 9.99% interest held by AerLine in the Buyer rolled over to a larger holding company (“Investee”) in exchange for 3.85% of its membership interest.
+In 2018, a portion of the balances due to the Company from AerLine was forgiven in exchange for the right to all proceeds received from AerLine related to the sale of its interest. The primary interest held by AerLine is the equity interest in the Investee. On November 10, 2021, AerLine transferred its ownership interest to the Company in settlement of amounts owed to the Company. As a result, the $5.4 million balance due from AerLine was reclassified to Investment on the Company’s Consolidated Balance Sheet.
+There were no amounts due from AerLine as of December 31, 2021, and $5.9 million was due as of December, 31, 2020. The balance due from AerLine as of December 31, 2020, was presented in the Consolidated Balance Sheet as due from related party, of which $0.5 million is presented as a current asset, while $5.4 million was presented as a long term asset.
+Based on the deterioration of the Investee’s financial condition noted by the Company in the fourth quarter of 2021, the Company recognized an unrealized loss on the investment of $5.4 million during the three month period ended December 31, 2021. This loss is reflected on the Consolidated Statement of Operations in the unrealized loss on investment line.
+NOTE S - BENEFIT PLANS
+The Company sponsors an employee retirement savings plan that qualifies under Section 401(k) of the Internal Revenue Code. Participating employees may contribute, but not more than statutory limits. The Company makes nondiscretionary 3% Safe Harbor contributions of participants’ eligible earnings who have completed the plan’s eligibility requirements. The contributions are made to the plan on behalf of the employees. Total nondiscretionary contributions to the plan were as follows (in thousands):
+NOTE T - BUSINESS COMBINATIONS
+Reverse Merger
+As described in Note A - Organization and Principles of Consolidation and Basis of Presentation above, the Company consummated the Merger dated December 22, 2020 with AerSale Aviation and in connection therewith, Monocle merged with and into the Company, whereby the Company survived the Merger and became the successor issuer to Monocle by operation of Rule 12g-3 under the Securities Exchange Act of 1934, as amended. The Company directly acquired AerSale Aviation for aggregate consideration of $317.2 million, consisting of approximately $13.1 million in cash and 30,410,540 shares of Company Common Stock at $10.00 per share. As additional consideration, the pre-Merger holders of AerSale Aviation common stock and the holders of in-the-money SARs received a contingent right to receive up to 3,746,876 additional shares of the Company’s Common Stock, which were issued in 2021. The Merger has been accounted for as a Reverse Recapitalization in accordance with U.S. GAAP. For accounting purposes, Monocle is considered the “acquired” company and AerSale Aviation is considered the “acquirer.” The Company received cash proceeds in the amount of $48.6 million resulting from the Merger, which was recorded as additional paid in capital.
+ACT Acquisition
+On January 7, 2020, the Company acquired all of the outstanding shares of Aircraft Component Technologies, Inc. (ACT), a Florida corporation located in Miami, Florida, for $17.0 million in cash. The purpose of the acquisition was to improve the Company’s profitability by enhancing service in its TechOps segment. The results of ACT operations have
+been included in the consolidated financial statements since the acquisition date. All assets and liabilities of ACT were recorded at their fair market value, and to the extent that the purchase cost exceeded the fair market value of the net assets, that excess was recorded as goodwill, all of which is deductible for federal income tax purposes. The goodwill is attributable to the general reputation of the business and the collective experience of ACT’s management and employees. ACT’s revenues and income from operations from January 7, 2020 through December 31, 2020 were $6.5 and $0.7 million, respectively. The purchase price for ACT was allocated as follows (in thousands):
+The intangible assets included above consist of the following (in thousands):
+Qwest Acquisition
+On June 10, 2019, the Company acquired all of the outstanding shares of a used serviceable material distributor and certified repair facility, Qwest Air Parts, Inc. (“Qwest”), a Florida corporation located in Memphis, Tennessee, for $26.1 million. The purpose of the acquisition was to improve the Company’s profitability by enhancing service in its Asset Management Solutions segment. The results of Qwest operations have been included in the Company’s consolidated financial statements since the acquisition date. All assets and liabilities of Qwest were revalued to their fair market value, and to the extent that the purchase cost exceeded the fair market value of the net assets, that excess was classified as goodwill. The goodwill is attributable to the general reputation of the business and the collective experience of Quest’s management and employees. The goodwill is not expected to be deductible for federal tax purposes. Qwest’s revenues and income from operations from June 10, 2019 through December 31, 2019 were $10.4 and $1.8 million, respectively. This
+business mainly operates as part of the Company’s Asset Management Solutions segment. The purchase price for Qwest was allocated as follows (in thousands):
+The intangible assets included above consist of the following (in thousands):
+The following unaudited pro forma information presents our Consolidated Statements of Operations as if ACT and Qwest had been included in our consolidated results since January 1, 2019 (in thousands, except per share data):
+The unaudited pro forma financial information is presented for informational purposes only, and may not necessarily reflect the Company’s future results of operations or what the results of operations would have been had the Company owned and operated ACT and Qwest as of January 1, 2019. The pre-acquisition results of ACT did not have a material impact on the Consolidated Statements of Operations for the year ended December 31, 2020.
+ITEM 9 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+Not applicable.
+ITEM 9A CONTROLS AND PROCEDURES
+Limitations on Effectiveness of Controls and Procedures
+In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints, and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, conducted an evaluation of the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of December 31, 2021. We maintain disclosure controls and procedures designed to ensure that information required to be disclosed in reports filed or submitted by us under the Exchange Act is recorded, processed, summarized and reported within time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of December 31, 2021.
+Management Report on Internal Control Over Financial Reporting
+Management of AerSale Corporation is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rules 13a-15(f) and 15d-15(f) of the Act. The Company’s internal control over financial reporting is a process designed by, or under the supervision of, our Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with U.S. GAAP and includes those policies and procedures that (1) pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of assets of the Company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with U.S. GAAP, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material effect on the financial statements. Internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems which are determined to be effective provide only reasonable assurance with respect to financial statement preparation and presentation. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Management, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer and oversight of the Board of Directors, assessed the effectiveness of our internal control over financial reporting as of December 31, 2021 based on the criteria for effective internal control over financial reporting described in Internal Control-Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+Based on our assessment, management concluded that the Company maintained effective internal control over financial reporting as of December 31, 2021.
+This Annual Report on Form 10-K does not include an attestation report of our independent registered accounting firm on management’s assessment regarding internal control over financial reporting due to the exemption from such requirements established by rules of the SEC for emerging growth companies.
+Changes in Internal Control over Financial Reporting
+There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended December 31, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+ITEM 9B OTHER INFORMATION
+None.
+ITEM 9C DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+Not applicable.
+ITEM 10 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+Information about our Executive Officers and Directors
+As of the date of this report, our directors and executive officers are as follows:
+Name
+Age
+Position
+Nicolas Finazzo
+Chairman, Chief Executive Officer, Division President, TechOps and Director
+Robert B. Nichols
+Vice Chairman, Division President, Asset Management Solutions and Director
+Martin Garmendia
+Chief Financial Officer and Treasurer
+Basil Barimo
+Division President, MRO Services
+Craig Wright
+Division President, Aircraft & Engine Management
+Gary Jones
+Division President, Airframe & Engine Materials
+Iso Nezaj
+Division President, Engineered Solutions
+Charles McDonald
+Chief Technical Officer and Division President of Heavy MRO Services
+James Fry
+Executive Vice President, General Counsel & Corporate Secretary
+Jonathan Seiffer
+Director
+Eric J. Zahler
+Director
+Sai S. Devabhaktuni
+Director
+Richard J. Townsend
+Director
+General C. Robert Kehler
+Director
+Peter Nolan
+Director
+Michael Kirton
+Director
+Nicolas Finazzo
+Nicolas Finazzo has served on our Board since December 2020. Mr. Finazzo founded AerSale Corp. in 2008 and has served as Chairman and Chief Executive Officer from inception until January 2019, and again since December 2019. He has also served as Division President, TechOps since December 2019. From January 2019 to December 2019, Mr. Finazzo was Executive Chairman of AerSale Corp. From 1997 to 2008, Mr. Finazzo was Co-Founder and Chief Executive Officer of AeroTurbine, Inc., a supplier of aircraft and engine products and MRO service provider. In 1997, Mr. Finazzo was Vice President and General Counsel of AeroThrust, Inc., parts supplier, MRO service provider and aircraft engine leasing company. From 1991 to 1997, Mr. Finazzo was Vice President and General Counsel of International Air Leases, Inc., a used aircraft leasing company. From 1987 to 1991, Mr. Finazzo was Vice President of Contracts for Greenwich Air Services, a jet engine MRO service provider. From 1981 to 1987, Mr. Finazzo was President of Southern Express Airways, Inc., a commuter airline operating in the United States.
+As one of our founders, Chairman and Chief Executive Officer, Mr. Finazzo brings to the Board significant senior leadership and institutional knowledge of the Company with considerable expertise in MRO services, parts distribution and aircraft and engine leasing sectors of the industry.
+Robert B. Nichols
+Robert B. Nichols has served on our Board since December 2020. Mr. Nichols founded AerSale Corp. in 2008 and has served as Vice Chairman since January 2019. He has also served as Division President, Asset Management Solutions since December 2019. From 2017 to December 2019, Mr. Nichols was Principal of AerSale Corp. From 2008 to 2017, Mr. Nichols also was Chief Operating Officer of AerSale Corp. From 1997 to 2008, Mr. Nichols was Co-Founder and Chief Operating Officer of AeroTurbine, Inc. From 1990 to 1997, Mr. Nichols was Vice President of Engine Sales and Leasing for AeroThrust, Inc. From 1989 to 1990, Mr. Nichols was Director of Engine Sales and Leasing for Greenwich Air Services.
+As one of our founders and our Vice Chairman, Mr. Nichols brings to the Board significant senior leadership, marketing, technical and global experience along with deep institutional knowledge of the Company, its operations and customer relations.
+Martin Garmendia
+Martin Garmendia has served as our Chief Financial Officer since 2018. From 2015 to 2018, he served as our Senior Vice President of Finance and Corporate Controller. From 2006 to 2015, Mr. Garmendia had various roles for NextEra Energy (NYSE: NEE) including Senior Director of Corporate Accounting for Florida Power & Light, a power utility company and Controller during the IPO of NextEra Energy Partners (NYSE: NEP). From 2003 to 2006, Mr. Garmendia had various roles for Bacardi USA, Inc., a spirits company, including Finance Manager of the Forecast Budget & Analysis Group. From 2000 to 2003, Mr. Garmendia was a Senior Auditor in the Assurance & Advisory Practice at Deloitte & Touche, LLP, a multinational professional services network and accounting firm. Mr. Garmendia is a Certified Public Accountant in the State of Florida.
+Basil Barimo
+Basil Barimo has served as our Division President, MRO Services since December 2019. From January 2019 to December 2019, he served as our Chief Executive Officer and from 2017 to January 2019, Mr. Barimo was Chief Operating Officer of AerSale Corp. From 2010 to 2017, Mr. Barimo was Executive Vice President of Repair for the NORDAM Group, an aerospace components MRO service provider. From 2003 to 2009, Mr. Barimo was the Vice President of Operations and Safety for Air Transport Association of America, a U.S. trade association and lobbying group. From 2002 to 2003, Mr. Barimo was the Vice President of Operations for Avborne, Inc., a supplier of mid-life aircraft, engines and used serviceable material, and MRO service provider. From 1989 to 2002, Mr. Barimo was the Senior Director of Maintenance Quality Assurance for US Airways, Inc., a commercial airline.
+Craig Wright
+Craig Wright has served as our Division President, Aircraft & Engine Management since December 2019. From January 2019 to December 2019, he was the President of AerSale Corp. From June 2017 to January 2019, Mr. Wright was Chief Commercial Officer of AerSale Corp. From 2010 to 2017, he was Senior Vice President of Aircraft Leasing for AerSale Corp. From 2006 to 2010, he was Vice President of Fleet for Macquarie AirFinance, a global aircraft leasing company. From 2001 to 2006, Mr. Wright was Director of Corporate Finance for GATX Capital Corp., working in multiple business units including rail/locomotive, IT equipment and aviation finance. From 1990 to 1998, Mr. Wright was a Consulting Engineer for Lin & Associates, Inc., a specialized structural engineering company.
+Gary Jones
+Gary Jones has served as President of our Materials Group since 2019. From 1999 through 2019, he was President and Chief Executive Officer of Qwest Air Parts, a supplier and distributor of commercial aviation parts that was acquired by AerSale Corp. in 2019. From 1983 to 1998, Mr. Jones was Vice President of Acquisitions for GE Capital Aviation Services, a commercial aviation financing and leasing company.
+Iso Nezaj
+Iso Nezaj has served as our Division President, Engineered Solution since 2017. He also previously serviced as our Chief Technical Officer from 2019 to 2021. From 2014 to 2017, Mr. Nezaj was our Senior Vice President of Technical Services. From 2010 to 2014, Mr. Nezaj was our Vice President in Technical Services. From 2009 to 2010, he was President of Air One Maintenance & Engineering LLC, a maintenance repair operation service provider. From 2000 to 2009, Mr. Nezaj was General Manager of Commercial Jet Inc., a maintenance repair operation service provider. From 1997 to 1999, Mr. Nezaj was Vice President and Chief Operating Officer of Skytrak International Airlines, Inc., a US FAR certified 21 commercial airline. From 1995 to 1997, Mr. Nezaj was Vice President of Engineering for Aeron Equities, Inc., a leasing aviation company. From 1993 to 1994, Mr. Nezaj was Director of Quality Assurance and Engineering for Kiwi International Airlines, Inc., a US FAR certified 121 commercial airline.
+Charles McDonald
+Mr. Charles McDonald was appointed the Chief Technical Officer and Divisional President of Heavy MRO Services for AerSale effective March 11, 2022. Prior to this appointment, Mr. McDonald was employed by AerSale as the Senior Vice President of MRO Services since December 2016. Prior to joining AerSale, Mr. McDonald worked as a consultant in the aviation industry from August 2013 to December 2016. Prior to working as a consultant, Mr. McDonald worked for Global Aviation Holdings as its Chief Executive Officer from February 2013 to August 2013 and its President from April 2008 to February 2013. Mr. McDonald also served as the Senior Vice President and Chief Operating Officer for World Airways from May 2004 to April 2008 and Trans Meridian Airlines from December 2001 to May 2004. Prior to these executive positions, Mr. McDonald worked in a variety of aviation positions for over 10 years including Vice President of Maintenance and Engineering, Director of Business Development and Director of Customer and Technical Support for Trans Meridian Airlines, British Aerospace Regional Aircraft and AMR Eagle. Mr. McDonald attended the Spartan College of Aeronautics, the former Chairman of the National Air Carriers Association, an FAA Certified A/P Mechanic, and served in the United States Army.
+James Fry
+Mr. James A. Fry has been the Executive Vice President, General Counsel and Corporate Secretary of AerSale Corporation since January 24, 2022. Prior to joining AerSale, Mr. Fry served as the Vice President, General Counsel and Corporate Secretary for Yellow Corporation from April 2015 to February 2020 and also served in the same capacity for Swift Transportation Company from January 2008 to April 2015. Prior to joining Swift Transportation, and since 1996, Mr. Fry held the positions of General Counsel and Corporate Secretary as well as Corporate Counsel for both private and publicly-traded company aviation companies including Hamilton Aerospace and World Airways. Mr. Fry also worked as an attorney in private practice in Pennsylvania prior to his in-house positions. Mr. Fry is a Schreyer Honors graduate from the Pennsylvania State University and obtained his Juris Doctor from the Temple University School of Law.
+Non-Employee Directors
+Jonathan Seiffer
+Jonathan Seiffer has served on our Board since December 2020. Mr. Seiffer currently serves as Senior Partner with Leonard Green & Partners, L.P. (“Leonard Green”), a private equity firm which is one of AerSale Corporation’s significant shareholders, which he joined in 1994. Before joining Leonard Green, he worked in corporate finance at Donaldson, Lufkin & Jenrette. Mr. Seiffer currently serves on the boards of AerSale Corporation, Signet Jewelers Limited, Authentic Brands Group, Caliber Collision Centers, Mister Car Wash, SRS Distribution, Mariner Wealth Advisors, Parts Town, West Shore Home and Sun Auto. Mr. Seiffer brings particular knowledge and experience in finance, and broad-based experience in the leadership of distribution businesses.
+Mr. Seiffer brings to the board significant strategic leadership, experience in the investment industry and valuable global business perspective.
+Eric J. Zahler
+Eric J. Zahler has served on our Board since December 2020 and previously served on the Board of Monocle Holdings, Inc. prior to the Merger. Mr. Zahler is a Co-Founder and managing member of Monocle Partners, LLC. Mr. Zahler served as Co-Founder, President and Chief Executive Officer of Monocle Acquisition Corporation (Nasdaq: MNCL), whose business combination with AerSale Corp. was consummated in 2020. He has over 35 years of senior leadership, strategy, operations, and governance experience with aerospace and defense companies. Until 2018, Mr. Zahler was a Co-Founder and Managing Director of Sagamore Capital, a private equity firm pursuing investments in the aerospace and defense, industrial electronics, and selected business service markets. Prior to founding Sagamore Capital. Mr. Zahler was President and Chief Operating Officer of Loral Space & Communications, Inc. for eight years and also served on Loral’s Board of Directors. Mr. Zahler was a senior member of the management of Loral since 1992. Mr. Zahler is a member of the Board of Directors of Maxar Technologies (NYSE: MAXR; TSX: MAXR), a leading global provider of advanced space technology solutions for commercial and government markets. He is also a member of the Board of Directors of Sequa Corporation, a portfolio company of The Carlyle Group, which provides the global airline industry with a broad range of aftermarket services, and is Chairman of the Board of Nexteon Technologies, Inc., a development-stage, private company pursuing opportunities in commercial air traffic management and aircraft navigation and surveillance. Previously, Mr. Zahler served on the board of directors of ExactEarth, Ltd. (TSX: XCT), Actel Corporation (NASDAQ: ACTL), and EasyLink Services Corporation, (NASDAQ: EASY). From 1975 to 1992, Mr. Zahler was an attorney at Fried, Frank, Harris, Shriver & Jacobson, where he was elected Partner in 1983. At Fried, Frank, he represented numerous aerospace and defense companies in all aspects of their interactions with the U.S. government. Mr. Zahler holds a Bachelor of Science degree in mathematics from Yale University and a law degree from Harvard Law School.
+Mr. Zahler brings to the Board, leadership and operations experience in executive leadership roles at global public companies, as well as accounting and financial expertise with corporate governance experience.
+Sai S. Devabhaktuni
+Sai S. Devabhaktuni has served on our Board since December 2020 and previously served on the Board of Monocle Holdings, Inc. prior to the Business Combination. Mr. Devabhaktuni is Co-Founder and Chairman of the Board of Directors of Monocle Acquisition Corporation (“Monocle”; Nasdaq: MNCL), whose business combination with AerSale Corp. was consummated in 2020. Prior to Monocle, Mr. Devabhaktuni was Head of Corporate Distressed Portfolio Management at Pacific Investment Management Company (“PIMCO”). While at PIMCO, Mr. Devabhaktuni served in various capacities on investment committees of numerous investment funds. Prior to PIMCO, and from 1998 to 2010, he was a Managing Principal at MHR Fund Management LLC (“MHR”) where he was involved in all aspects of the investment process and worked closely with senior management teams of portfolio companies on operational improvements and growth initiatives. Prior to MHR, Mr. Devabhaktuni was a member of the event-driven strategies group at Highbridge Capital Management LLC, and a member of the corporate finance, capital markets and emerging markets groups of Nomura Securities. Mr. Devabhaktuni holds a Bachelor of Science in Economics, with concentrations in
+Finance, Economics and Legal Studies from the Wharton School of the University of Pennsylvania. Mr. Devabhaktuni has served on the Board of Directors of Loral Space & Communications, Inc. (Nasdaq: LORL) and Applied Natural Gas Fuels Inc., and currently serves on the Board of Directors of Sequa Corporation.
+Mr. Devabhaktuni brings to the board experience in finance, asset management, capital markets and capital management, experience as a senior executive and perspective as an institutional investor.
+Richard J. Townsend
+Richard J. Townsend has served on our Board since December 2020. Prior to the Business Combination, Mr. Townsend served as the Executive Vice President and Chief Financial Officer of Monocle Acquisition Corporation (“Monocle”; Nasdaq: MNCL), whose business combination with AerSale Corp. was consummated in 2020. Mr. Townsend brings 40 years of knowledge and experience in finance, strategy and operations. Prior to Monocle, Mr. Townsend was a Managing Partner at Rangeley Capital (“Rangeley”), with responsibilities as a Portfolio Manager and Chief Operating Officer from 2008 to 2017, and subsequently as an Advisory Partner. Prior to Rangeley, Mr. Townsend was Executive Vice President and Chief Financial Officer of Loral Space & Communications, Inc. (Nasdaq: LORL) from 1998 to 2007, where he was responsible for all financial aspects of the business. From 1996 to 1998, Mr. Townsend served as the Corporate Controller and Director of Strategy of ITT Industries (NYSE: ITT). Mr. Townsend spent the prior 17 years in various roles in operations and financial Management at IBM (NYSE: IBM), including serving as Controller for EMEA (Europe, Middle East and Africa) in France. Prior to IBM, Mr. Townsend was a mechanical engineer at General Electric’s Nuclear Energy Division (NYSE: GE). Mr. Townsend holds a Bachelor of Science degree in Mechanical Engineering from the University of Michigan, a Master of Science degree in Engineering from the University of California at Berkeley and an MBA from Stanford University.
+Mr. Townsend brings to the Board extensive experience as a senior operating and finance executive for large public companies.
+General C. Robert Kehler
+General C. Robert Kehler, USAF (ret), has served as a director of Monocle Acquisition Corp since its prospectus. He has 43 years of leadership, strategy and governance experience related to military operations of the United States of America. General Kehler currently serves on the board of directors of Maxar Technologies Ltd. (Ticker: MAXR) and Connect Bidco Ltd. (parent of Inmarsat) and is a senior advisor to McKinsey and Company.
+General Kehler retired from the United States Air Force in December 2013 after almost 39 years of distinguished service. From January 2011 until November 2013, he served as the Commander, United States Strategic Command (“USSTRATCOM”), where he was directly responsible to the Secretary of Defense and President for the plans and operations of all U.S. forces conducting strategic deterrence, nuclear alert, global strike, space, cyberspace and associated operations. Prior to commanding USSTRATCOM, General Kehler commanded United States Air Force Space Command (predecessor to the United States Space Force) and two operational space wings conducting space launch, missile warning, and space control missions. He also commanded an intercontinental ballistic missile squadron and group.
+General Kehler entered the Air Force in 1975 as a Distinguished Graduate of the Pennsylvania State University R.O.T.C. program, has master’s degrees in Public Administration and National Security and Strategic Studies, and completed executive development programs at Carnegie-Mellon, Syracuse, and Harvard Universities. His military awards include the Defense Distinguished and Superior Service Medals, the Distinguished Service Medal (2 awards), Legion of Merit (3 awards), and the French Legion of Honor (Officer). General Kehler is an Affiliate of Stanford’s Center for International Security and Cooperation and a Senior Fellow of the National Defense University.
+Mr. Kehler brings to the Board over 40 years of leadership and governance experience and extensive involvement serving as a director and member of board committees.
+Peter Nolan
+Peter Nolan has served on our Board since December 2020. Mr. Nolan is the Chairman of Nolan Capital, a private investment company, and is also a senior advisor to Leonard Green & Partners, L.P., a private equity firm, and was previously a managing partner of Leonard Green & Partners. Mr. Nolan currently serves on the board of directors of Activision and AerSale, among others. Prior to becoming a partner at Leonard Green & Partners in 1997, Mr. Nolan served as a managing director and the Co-Head of Donaldson, Lufkin and Jenrette’s Los Angeles Investment Banking Division from 1990 to 1997, as a First Vice President in corporate finance at Drexel Burnham Lambert from 1986 to 1990, and as a Vice President at Prudential Securities, Inc. from 1982 to 1986. Prior to 1982, Mr. Nolan was an associate at Manufacturers Hanover Trust Company.
+Mr. Nolan brings to the board experience in finance, asset management, capital markets and capital management, experience as a senior executive and perspective as an institutional investor.
+Michael Kirton
+Michael Kirton has served on our Board since December 2020. Mr. Kirton currently serves as Partner with Leonard Green which he joined in 2007. Before joining Leonard Green, he worked in corporate finance at Credit Suisse First Boston. Mr. Kirton currently serves on the boards of AerSale, Charter NEX, Fineline Technologies, ProMach, Pure Gym, The Wrench Group, and Stella Environmental. Mr. Kirton brings particular knowledge and experience in finance and broad-based experience in the leadership of middle-market businesses.
+Mr. Kirton brings to the board experience in finance, asset management, capital markets and capital management, experience as a senior executive and perspective as an institutional investor.
+The remainder of the response to this Item 10 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2022 Annual Meeting of Stockholders and is incorporated herein by reference.
+ITEM 11 EXECUTIVE COMPENSATION
+The information required by this Item 11 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2022 Annual Meeting of Stockholders and is incorporated herein by reference.
+ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+Equity Compensation Plan Information
+The following table provides information on our equity compensation plans as of December 31, 2021:
+(1) Consists of the AerSale Corporation 2020 Equity Incentive Plan (the “2020 Plan”) and the AerSale Corporation 2020 Employee Stock Purchase Plan (the “ESPP”).
+(2) All outstanding awards represent 3,264,300 shares and 11,988 shares pursuant to the 2020 Plan and the ESPP, respectively. The shares pursuant to the 2020 Plan include 1,595,000 performance-based awards expected to achieve the performance milestones at the 200% vesting target.
+(3) Under the 2020 Plan, a total of 2,500,700 shares were available for issuance in the form of restricted stock, restricted stock units, stock appreciation rights, stock options, or other stock-based or cash-based awards as of December 31, 2021. Under the ESPP, a total of 488,012 shares were available for issuance as of December 31, 2021.
+The remainder of the response to this Item 12 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2022 Annual Meeting of Stockholders and is incorporated herein by reference.
+ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+The information required by this Item 13 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2022 Annual Meeting of Stockholders and is incorporated herein by reference
+ITEM 14 PRINCIPAL ACCOUNTANT FEES AND SERVICES
+The information required by this Item 14 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2022 Annual Meeting of Stockholders and is incorporated herein by reference.
+ITEM 15 EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+(a)(1) Financial Statements.
+The financial statements required by this item are listed in Item 8, “Financial Statements and Supplementary Data” herein.
+(a)(2) Financial Statement Schedules.
+All financial statement schedules have been omitted because they are not applicable, not required or the information required is shown in the financial statements or the notes thereto.
+(a)(3) Exhibits.
+The following is a list of exhibits filed as part of this Annual Report on Form 10-K.
+Exhibit
+Number
+Description
+Form
+File No.
+Exhibit
+Filing
+Date
+Filed/Furnished
+Herewith
+2.1
+Agreement and Plan of Merger, dated December 8, 2019, by and among Monocle Acquisition Corporation, Monocle Holdings Inc., AerSale Corp., Monocle Merger Sub 1 Inc., Monocle Merger Sub 2 LLC, and Leonard Green & Partners, L.P., in its capacity as the Holder Representative
+8-K
+001-38801
+2.1
+12/9/2019
+2.2
+Amendment No. 1 to the Agreement and Plan of Merger, dated August 13, 2020, by and among Monocle Acquisition Corporation, Monocle Holdings Inc., AerSale Corp., Monocle Merger Sub 1 Inc., Monocle Merger Sub 2 LLC, and Leonard Green & Partners, L.P., in its capacity as the Holder Representative
+10-Q
+001-38801
+2.1
+08/4/2020
+2.3
+Amended and Restated Agreement and Plan of Merger, dated September 8, 2020, by and among Monocle Acquisition Corporation, Monocle Holdings Inc., AerSale Corp., Monocle Merger Sub 1 Inc., Monocle Merger Sub 2 LLC, and Leonard Green & Partners, L.P., in its capacity as the Holder Representative.
+8-K
+001-38801
+2.1
+09/08/2020
+2.4
+Amendment No. 1 to the Amended and Restated Agreement and Plan of Merger, dated December 16, 2020, by and among Monocle Acquisition Corporation, Monocle Holdings Inc., AerSale Corp., Monocle Merger Sub 1 Inc., Monocle Merger Sub 2 LLC, and Leonard Green & Partners, L.P., in its capacity as the Holder Representative.
+8-K
+001-38801
+10.5
+12/17/2020
+3.1
+Amended and Restated Certificate of Incorporation of Monocle Holdings Inc., dated October 13, 2020.
+S-4/A
+333-235766
+3.1
+10/14/2020
+3.2
+Certificate of Amendment to the Amended and Restated Certificate of Incorporation of Monocle Holdings Inc., dated December 22, 2020.
+8-K
+001-38801
+3.2
+12/23/2020
+3.3
+Certificate of Amendment to the Amended and Restated Certificate of Incorporation of Monocle Holdings, Inc., dated June 17, 2021.
+10-Q
+001-38801
+3.3
+08/09/2021
+3.4
+Amended and Restated Bylaws of Monocle Holdings Inc., dated October 13, 2020.
+S-4/A
+333-235766
+3.2
+10/14/2020
+3.5
+Amendment No. 1 to the Amended and Restated Bylaws of Monocle Holdings Inc., dated December 22, 2020.
+8-K
+001-38801
+3.4
+12/23/2020
+Exhibit
+Number
+Description
+Form
+File No.
+Exhibit
+Filing
+Date
+Filed
+Herewith
+4.1
+Specimen Common Stock Certificate of Monocle Holdings Inc.
+S-4/A
+333-235766
+4.2
+02/14/2020
+4.2
+Specimen Warrant Certificate of Monocle Holdings Inc.
+S-4/A
+333-235766
+4.3
+02/14/2020
+4.3
+Warrant Agreement, dated February 6, 2019, between Monocle Acquisition Corporation and Continental Stock Transfer & Trust Company, as warrant agent.
+8-K
+001-38801
+4.1
+02/12/2019
+4.4
+Description of the Registrant’s Securities
+*
+10.1
+Letter Agreement, dated December 16, 2020, by and among Monocle Acquisition Corporation, Monocle Holdings Inc., AerSale Corp., Monocle Merger Sub 1 Inc., Monocle Merger Sub 2 LLC, and Leonard Green & Partners, L.P., in its capacity as the Holder Representative.
+8-K
+001-38801
+10.4
+12/17/2020
+10.2
+Amended and Restated Founder Shares Agreement, dated September 8, 2020, by and among Monocle Partners, LLC, Cowen Investments II LLC, Monocle Acquisition Corp, Monocle Holdings Inc. and AerSale Corp.
+8-K
+001-38801
+10.1
+09/08/2020
+10.3
+Amendment No. 1 to the Second Amended and Restated Founder Shares Agreement, dated December 16, 2020, by and among Monocle Partners, LLC, Cowen Investments II LLC, Monocle Acquisition Corp, Monocle Holdings Inc. and AerSale Corp.
+8-K
+001-38801
+10.2
+12/17/2020
+10.4
+Form of Subscription Agreement.
+8-K
+001-38801
+10.1
+12/17/2020
+10.5
+Form of Issuance Agreement.
+8-K
+001-38801
+10.3
+12/17/2020
+Exhibit
+Number
+Description
+Form
+File No.
+Exhibit
+Filing
+Date
+Filed
+Herewith
+10.6
+Amended and Restated Registration Rights Agreement, dated December 22, 2020, by and among Monocle Holdings Inc., Monocle Acquisition Corporation, Monocle Partners, LLC, Cowen Investments II LLC, C. Robert Kehler, Donald W. Manvel, John C. Pescatore, Green Equity Investors V, L.P., Green Equity Investors Side V, L.P., LGP Parts Coinvest LLC., Florida Growth Fund LLC, Enarey, LP and ThoughtValley Limited Partnership.
+8-K
+001-38801
+10.7
+12/23/2020
+10.7
+Lock-Up Agreement, dated December 22, 2020, by and among Monocle Holdings Inc., Green Equity Investors V, L.P., Green Equity Investors Side V, L.P., LGP Parts Coinvest LLC., Florida Growth Fund LLC, Enarey, LP and ThoughtValley Limited Partnership.
+8-K
+001-38801
+10.8
+12/23/2020
+10.8
+Assignment and Assumption Agreement, dated December 22, 2020, by and among Monocle Holdings Inc., Monocle Acquisition Corporation and Continental Stock Transfer & Trust Company.
+8-K
+001-38801
+10.9
+12/23/2020
+10.9
+Company Support and Mutual Release Agreement, dated September 8, 2020, by and among Monocle Acquisition Corporation, Monocle Holdings Inc., Green Equity Investors V, L.P., Green Equity Investors Side V, L.P., LGP Parts Coinvest LLC., Florida Growth Fund LLC, Enarey, LP and ThoughtValley Limited Partnership.
+8-K
+001-38801
+10.2
+09/08/2020
+10.10#
+Executive Offer Letter between AerSale Inc. and Nicolas Finazzo
+10-K
+001-38801
+10.10
+03/16/2021
+*
+10.11#
+Executive Offer Letter between AerSale Inc. and Robert B. Nichols
+10-K
+001-38801
+10.11
+03/16/2021
+*
+10.12#
+Executive Offer Letter between AerSale Inc. and Martin Garmendia
+10-K
+001-38801
+10.12
+03/16/2021
+*
+10.13#
+Executive Offer Letter between AerSale Inc. and Basil Barimo
+10-K
+001-38801
+10.13
+03/16/2021
+*
+10.14#
+Executive Offer Letter between AerSale Inc. and Gary Jones
+10-K
+001-38801
+10.14
+03/16/2021
+*
+10.15#
+Executive Offer Letter between AerSale Inc. and Iso Nezaj
+10-K
+001-38801
+10.15
+03/16/2021
+*
+Exhibit
+Number
+Description
+Form
+File No.
+Exhibit
+Filing
+Date
+Filed
+Herewith
+10.16#
+Executive Offer Letter between AerSale Inc. and Craig Wright
+10-K
+001-38801
+10.16
+03/16/2021
+*
+10.17#
+Amended and Restated AerSale Corp. Stock Appreciation Rights Plan.
+S-4/A
+333-235766
+10.8
+02/14/2020
+10.18#
+AerSale Corporation Severance Plan.
+S-4/A
+333-235766
+10.9
+02/14/2020
+10.19#
+AerSale Corporation 2020 Equity Incentive Plan.
+S-4/A
+333-235766
+10.1
+10/14/2020
+10.20#
+Forms of award agreements under the AerSale Corporation 2020 Equity Incentive Plan
+S-8
+333-253424
+99.2
+02/24/2021
+10.21#
+AerSale Corporation 2020 Employee Stock Purchase Plan.
+S-4/A
+333-235766
+10.11
+10/14/2020
+10.22
+Amended and Restated Credit Agreement, dated as of July 20, 2018, by and among Aersale Aviation Inc., the existing borrowers thereto, the lenders thereto and Wells Fargo Bank, National Association, as administrative agent and lender.
+10-K
+001-38801
+10.22
+03/16/2021
+*
+10.23
+Amendment No. 1 to Amended and Restated Credit Agreement, dated as of September 8, 2020, by and among AerSale Aviation Inc., the existing borrowers thereto, the lenders thereto and Wells Fargo Bank, National Association, as administrative agent and lender.
+10-K
+001-38801
+10.23
+03/16/2021
+*
+10.24
+Amendment No. 2 to Amended and Restated Credit Agreement, dated as of March 12, 2021, by and among AerSale Aviation Inc., the existing borrowers thereto, the lenders thereto, Wells Fargo Bank, National Association, as administrative agent and lender, AerSale Ireland 1 Limited, as new borrower and AerSale Corporation and Monocle Parent LLC, as guarantors.
+10-K
+001-38801
+10.24
+03/16/2021
+*
+10.25#
+AerSale Corporation Amended and Restated Non-Employee Director Policy
+10.26#
+Form of Restricted Stock Unit Grant Notice under the AerSale Corporation 2020 Equity Incentive Plan (Non-Employee Directors)
+Exhibit
+Number
+Description
+Form
+File No.
+Exhibit
+Filing
+Date
+Filed
+Herewith
+21.1
+List of Subsidiaries.
+*
+23.1
+Consent of Grant Thornton LLP.
+*
+31.1
+Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+*
+31.2
+Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+*
+32.1
+Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+**
+32.2
+Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+**
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+*
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.
+*
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+*
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document.
+*
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document.
+*
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+*
+Cover Page Interactive Data (formatted as Inline XBRL and contained in Exhibit 101).
+*
+Filed herewith
+**
+Furnished herewith
+#
+Denotes a management contract or compensation plan or arrangement
+†
+Schedules and exhibits to these agreements have been omitted from this filing pursuant to Item 601(b)(2) of Regulation S-K. The Company will furnish supplemental copies of such omitted schedules and exhibits to the Securities and Exchange Commission upon request
+ITEM 16. FORM 10-K SUMMARY
+None.
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+AerSale Corporation
+Date: March 15, 2022
+By:
+/s/ Nicolas Finazzo
+Nicolas Finazzo
+Chief Executive Officer
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, this report has been signed below by the following persons on behalf of the Registrant in the capacities and on the dates indicated.
+Name
+Title
+Date
+/s/ Nicolas Finazzo
+Chairman, Chief Executive Officer, Division President, TechOps and Director
+March 15, 2022
+Nicolas Finazzo
+(principal executive officer)
+/s/ Robert B. Nichols
+Vice Chairman, Division President,
+March 15, 2022
+Robert B. Nichols
+Asset Management Solutions and Director
+/s/ Martin Garmendia
+Chief Financial Officer, Treasurer and Secretary
+March 15, 2022
+Martin Garmendia
+(principal financial and accounting officer)
+/s/ Jonathan Seiffer
+Director
+March 15, 2022
+Jonathan Seiffer
+/s/ Eric J. Zahler
+Director
+March 15, 2022
+Eric J. Zahler
+/s/ Sai S. Devabhaktuni
+Director
+March 15, 2022
+Sai S. Devabhaktuni
+/s/ Richard J. Townsend
+Director
+March 15, 2022
+Richard J. Townsend
+/s/ General C. Robert Kehler
+Director
+March 15, 2022
+General C. Robert Kehler
+/s/ Peter Nolan
+Director
+March 15, 2022
+Peter Nolan
+/s/ Michael Kirton
+Director
+March 15, 2022
+Michael Kirton

@@ -1,0 +1,398 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion should be read in conjunction with the consolidated financial statements and notes thereto appearing elsewhere in this Annual Report on Form 10-K.
+In addition to historical data, this discussion contains forward-looking statements about our business, operations and financial performance based on current expectations that involve risks, uncertainties and assumptions. Our actual results may differ materially from those in this discussion as a result of various factors, including but not limited to those discussed in Part, 1. Item 1A, “Risk Factors” in this Annual Report on Form 10-K.
+Introduction
+Blackstone Mortgage Trust is a real estate finance company that originates senior loans collateralized by commercial real estate in North America, Europe, and Australia. Our investment objective is to preserve and protect shareholder capital while producing attractive risk-adjusted returns primarily through dividends generated from current income from our loan portfolio. We are externally managed by BXMT Advisors L.L.C., or our Manager, a subsidiary of The Blackstone Group Inc., or Blackstone, and are a real estate investment trust, or REIT, traded on the New York Stock Exchange, or NYSE, under the symbol “BXMT.” We are headquartered in New York City.
+We benefit from the deep knowledge, experience and information advantages of our Manager, which is a part of Blackstone’s real estate platform. Blackstone Real Estate is one of the largest owners and operators of real estate in the world, with a proven track record of successfully navigating market cycles and emerging stronger through periods of volatility. The market-leading real estate expertise derived from the strength of the Blackstone platform deeply informs our credit and underwriting process, and we believe gives us the tools to expertly manage the assets in our portfolio and work with our borrowers throughout periods of economic stress and uncertainty.
+We conduct our operations as a REIT for U.S. federal income tax purposes. We generally will not be subject to U.S. federal income taxes on our taxable income to the extent that we annually distribute all of our net taxable income to stockholders and maintain our qualification as a REIT. We also operate our business in a manner that permits us to maintain an exclusion from registration under the Investment Company Act of 1940, as amended. We are organized as a holding company and conduct our business primarily through our various subsidiaries.
+Recent Developments
+As of December 31, 2020, there is an ongoing global outbreak of a novel coronavirus, or COVID-19.
+In March 2020, the World Health Organization designated COVID-19
+as a pandemic, and numerous countries, including the United States, declared national emergencies with respect to COVID-19.
+The United States and other countries reacted to the COVID-19
+outbreak with unprecedented government intervention, including interest rate cuts and economic stimulus. The global impact of the outbreak rapidly evolved (and continues to do so), and many countries reacted by instituting, or strongly encouraging, quarantines and restrictions on travel, closing financial markets and/or restricting trading, limiting operations of non-essential
+offices, retail centers, hotels, and other businesses, and taking other restrictive measures designed to help slow the spread of COVID-19.
+Businesses also implemented similar precautionary measures. Such measures, as well as the general uncertainty surrounding the dangers and impact of COVID-19,
+have created disruption in global supply chains, increasing rates of unemployment and adversely impacting many industries, including industries related to the collateral underlying certain of our loans. Moreover, with the continued spread of COVID-19,
+governments and businesses are likely to continue to take aggressive measures to help slow its spread. For this reason, among others, as COVID-19
+continues to spread, the potential impacts, including a global, regional, or other economic recession, are increasingly uncertain and difficult to assess.
+The outbreak of COVID-19
+and its impact on the current financial, economic and capital markets environment, and future developments in these and other areas present uncertainty and risk with respect to our financial
+condition, results of operations, liquidity, and ability to pay distributions. We expect that these impacts are likely to continue to some extent as the outbreak persists and potentially even longer. The rapid development and fluidity of this situation preclude any prediction as to the ultimate adverse impact of COVID-19
+on economic and market conditions, and, as a result, present material uncertainty and risk with respect to us and the performance of our investments. The full extent of the impact and effects of COVID-19
+will depend on future developments, including, among other factors, the duration and spread of the outbreak, along with related travel advisories, quarantines and restrictions, the effectiveness and efficiency of distribution of vaccines, the recovery time of the disrupted supply chains and industries, the impact of labor market interruptions, the impact of government interventions, and uncertainty with respect to the duration of the global economic slowdown. For additional discussion with respect to the potential impact of the COVID-19
+pandemic on our liquidity and capital resources, see “Liquidity and Capital Resources” below.
+2020 Highlights
+Operating results:
+•
+Net income of $137.7 million, or $0.97 per share, and Distributable Earnings of $352.0 million, or $2.48 per share, with dividends declared of $356.2 million, or $2.48 per share. Net income includes a $167.7 million increase to the current expected credit loss, or CECL, reserve that is excluded from Distributable Earnings, as further described below.
+•
+Book value per share of $26.42 as of December 31, 2020, which is net of a $1.26 cumulative CECL reserve.
+•
+Increased liquidity by $387.7 million during the year to $1.1 billion as of December 31, 2020.
+Loan portfolio:
+•
+Loan originations of $1.6 billion. During the year we had loan fundings of $2.1 billion and loan repayments of $2.0 billion, resulting in net portfolio growth of $139.5 million.
+•
+Portfolio of 121 investments as of December 31, 2020, with a weighted-average origination loan-to-value
+ratio of 64.0% and weighted-average all-in
+yield of L+3.56%.
+•
+Collected 99.7% of the contractual interest payments that were due under our loans during the year, with virtually no interest deferrals during the year.
+Capital markets and financing activity:
+•
+Issued an aggregate 10.0 million shares of our class A common stock through an underwritten public offering, generating aggregate net proceeds of $278.3 million and entered into a $325.0 million senior secured term loan facility.
+•
+Refinanced $2.1 billion of our secured credit facilities with the proceeds from two non-recourse,
+non-mark-to-market
+securitization transactions that closed during the year, reducing our debt-to-equity
+ratio to 2.5x as of December 31, 2020 from 3.0x as of December 31, 2019.
+•
+Closed $1.2 billion of new financings under our secured credit facilities and maintained stable facility pricing and advance rates with our 12 credit providers through the volatile lending environment in 2020.
+I. Key Financial Measures and Indicators
+As a real estate finance company, we believe the key financial measures and indicators for our business are earnings per share, dividends declared, Distributable Earnings, and book value per share. For the three months ended December 31, 2020, we recorded earnings per share of $0.57, declared a dividend of $0.62 per share, and
+reported $0.60 per share of Distributable Earnings. In addition, our book value as of December 31, 2020 was $26.42 per share,
+which is net of a $1.26 cumulative CECL reserve. For the year ended December 31, 2020, we recorded earnings per share of $0.97, declared aggregate dividends of $2.48 per share, and reported $2.48 per share of Distributable Earnings.
+As further described below, Distributable Earnings is a measure that is not prepared in accordance with accounting principles generally accepted in the United States of America, or GAAP, which helps us to evaluate our performance excluding the effects of certain transactions and GAAP adjustments that we believe are not necessarily indicative of our current loan portfolio and operations. In addition, Distributable Earnings is a performance metric we consider when declaring our dividends.
+Earnings Per Share and Dividends Declared
+The following table sets forth the calculation of basic and diluted net income per share and dividends declared per share ($ in thousands, except per share data):
+(1) Represents net income attributable to Blackstone Mortgage Trust.
+Distributable Earnings
+Distributable Earnings is a non-GAAP
+measure, which we define as GAAP net income (loss), including realized gains and losses not otherwise recognized in current period GAAP net income (loss), and excluding (i) non-cash
+equity compensation expense, (ii) depreciation and amortization, (iii) unrealized gains (losses), (iv) net income (loss) attributable to our legacy portfolio, and (v) certain non-cash
+items. Distributable Earnings may also be adjusted from time to time to exclude one-time
+events pursuant to changes in GAAP and certain other non-cash
+charges as determined by our Manager, subject to approval by a majority of our independent directors. Distributable Earnings mirrors the terms of our management agreement between our Manager and us, or our Management Agreement, for purposes of calculating our incentive fee expense.
+During the year ended December 31, 2020, we recorded a $167.7 million increase in the CECL reserve, which has been excluded from Distributable Earnings consistent with other unrealized gains (losses) pursuant to our existing policy for reporting Distributable Earnings. We expect to only recognize such potential credit losses in Distributable Earnings if and when such amounts are deemed nonrecoverable upon a realization event. This is generally at the time a loan is repaid, or in the case of foreclosure, when the underlying asset is sold, but non-recoverability
+may also be concluded if, in our determination, it is nearly certain that all amounts due will not be collected. The realized loss amount reflected in Distributable Earnings will equal the difference between the cash received, or expected to be received, and the book value of the asset, and is reflective of our economic experience as it relates to the ultimate realization of the loan.
+We believe that Distributable Earnings provides meaningful information to consider in addition to our net income (loss) and cash flow from operating activities determined in accordance with GAAP. We believe Distributable Earnings is a useful financial metric for existing and potential future holders of our class A common stock as historically, over time, Distributable Earnings has been a strong indicator of our dividends per
+share. As a REIT, we generally must distribute annually at least 90% of our net taxable income, subject to certain adjustments, and therefore we believe our dividends are one of the principal reasons stockholders may invest in our class A common stock. Refer to Note 13 to our consolidated financial statements for further discussion of our distribution requirements as a REIT. Further, Distributable Earnings helps us to evaluate our performance excluding the effects of certain transactions and GAAP adjustments that we believe are not necessarily indicative of our current loan portfolio and operations, and is a performance metric we consider when declaring our dividends.
+Distributable Earnings does not represent net income (loss) or cash generated from operating activities and should not be considered as an alternative to GAAP net income (loss), or an indication of our GAAP cash flows from operations, a measure of our liquidity, or an indication of funds available for our cash needs. In addition, our methodology for calculating Distributable Earnings may differ from the methodologies employed by other companies to calculate the same or similar supplemental performance measures, and accordingly, our reported Distributable Earnings may not be comparable to the Distributable Earnings reported by other companies.
+The following table provides a reconciliation of Distributable Earnings to GAAP net income ($ in thousands, except per share data):
+(1) Represents net income attributable to Blackstone Mortgage Trust.
+(2) For the three months ended December 31, 2020, represents realized gains (losses) on the repatriation of unhedged foreign currency. For the years ended December 31, 2020 and 2019, primarily represents the forward points earned on our foreign currency forward contracts, which reflect the interest rate differentials between the applicable base rate for our foreign currency investments and USD LIBOR. These forward contracts effectively convert the rate exposure to USD LIBOR, resulting in additional interest income earned in U.S. dollar terms. These amounts were not included in GAAP net income, but rather as a component of Other Comprehensive Income in our consolidated financial statements.
+Book Value Per Share
+The following table calculates our book value per share ($ in thousands, except per share data):
+II. Loan Portfolio
+During the year ended December 31, 2020, we originated or acquired $1.6 billion of loans. Loan fundings during the year totaled $2.1 billion, including $241.8 million of non-consolidated
+senior interests. Loan repayments and sales during the year totaled $2.0 billion, including $135.7 million of non-consolidated
+senior interests. We generated interest income of $779.6 million and incurred interest expense of $347.5 million during the year, which resulted in $432.2 million of net interest income during the year ended December 31, 2020.
+Portfolio Overview
+The following table details our loan origination activity ($ in thousands):
+(1) Includes new loan originations and additional commitments made under existing loans.
+(2) Loan fundings during the three months and year ended December 31, 2020 include $71.3 million and $241.8 million, respectively, of additional fundings under related non-consolidated
+senior interests.
+(3) Loan repayments and sales during the three months and year ended December 31, 2020 include $647,000 and $135.7 million, respectively, of additional repayments or reduction of loan exposure under related non-consolidated
+senior interests.
+The following table details overall statistics for our investment portfolio as of December 31, 2020 ($ in thousands):
+(1) Excludes investment exposure to the $79.2 million subordinate position we own in the $735.5 million 2018 Single Asset Securitization. Refer to Notes 4 and 16 to our consolidated financial statements for further discussion of the 2018 Single Asset Securitization.
+(2) In certain instances, we finance our loans through the non-recourse
+sale of a senior loan interest that is not included in our consolidated financial statements. Total loan exposure encompasses the entire loan we originated and financed, including $801.8 million of such non-consolidated
+senior interests that are not included in our balance sheet portfolio.
+(3) Includes investment exposure to the $735.5 million 2018 Single Asset Securitization. We do not consolidate the 2018 Single Asset Securitization on our consolidated financial statements, and instead reflect our $79.2 million subordinate position as a component of other assets on our consolidated balance sheet. Refer to Notes 4 and 16 to our consolidated financial statements for further discussion of the 2018 Single Asset Securitization.
+(4) Unfunded commitments will primarily be funded to finance our borrowers’ construction or development of real estate-related assets, capital improvements of existing assets, or lease-related expenditures. These commitments will generally be funded over the term of each loan, subject in certain cases to an expiration date.
+(5) The weighted-average cash coupon and all-in
+yield are expressed as a spread over the relevant floating benchmark rates, which include USD LIBOR, GBP LIBOR, EURIBOR, BBSY, and CDOR, as applicable to each investment. As of December 31, 2020, 98% of our investments by total investment exposure earned a floating rate of interest, primarily indexed to USD LIBOR, and $14.2 billion of such investments earned interest based on floors that are above the applicable index. The other 2% of our investments earned a fixed rate of interest, which we reflect as a spread over the relevant floating benchmark rates, as of December 31, 2020, for purposes of the weighted-averages. In addition to cash coupon, all-in
+yield includes the amortization of deferred origination and extension fees, loan origination costs, and purchase discounts, as well as the accrual of exit fees. Excludes loans accounted for under the cost-recovery method.
+(6) Maximum maturity assumes all extension options are exercised by the borrower, however our loans and other investments may be repaid prior to such date. As of December 31, 2020, 32% of our loans and other investments by total investment exposure were subject to yield maintenance or other prepayment restrictions and 68% were open to repayment by the borrower without penalty.
+(7) Based on LTV as of the dates loans and other investments were originated or acquired by us.
+The following table details the floating benchmark rates for our investment portfolio as of December 31, 2020 ($/€/£/A$/C$ in thousands):
+(1) We use foreign currency forward contracts to protect the value or fix the amount of certain investments or cash flows in terms of the U.S. dollar. We earn forward points on our forward contracts that reflect the interest rate differentials between the applicable base rate for our foreign currency investments and USD LIBOR. These forward contracts effectively convert the foreign currency rate exposure for such investments to USD LIBOR.
+(2) The cash coupon and all-in
+yield of our fixed rate loans are reflected as a spread over USD LIBOR for purposes of the weighted-averages. In addition to cash coupon, all-in
+yield includes the amortization of deferred origination and extension fees, loan origination costs, and purchase discounts, as well as the accrual of exit fees. Excludes loans accounted for under the cost-recovery method.
+The charts below detail the geographic distribution and types of properties securing our investment portfolio, as of December 31, 2020:
+Refer to section VI of this Item 7 for details of our loan portfolio, on a loan-by-loan
+basis.
+Portfolio Management
+During the three months and year ended December 31, 2020, we collected 100.0% and 99.7%, respectively, of the contractual interest payments that were due under our loans, with virtually no interest deferrals, including with respect to loans collateralized by hospitality assets, which we believe demonstrates the overall strength of our loan portfolio and the commitment and financial wherewithal of our borrowers generally, which are primarily affiliated with large real estate private equity funds and other strong, well-capitalized, experienced sponsors.
+We maintain a robust asset management relationship with our borrowers and have utilized these relationships to address the potential impacts of the COVID-19
+pandemic on our loans secured by properties experiencing cash flow pressure, most significantly hospitality assets. Some of our borrowers have indicated that due to the impact of the COVID-19
+pandemic, they will be unable to timely execute their business plans, have had to temporarily close their businesses, or have experienced other negative business consequences and have requested temporary interest deferral or forbearance, or other modifications of their loans. During the three months ended December 31, 2020, we closed 18 loan modifications, representing an aggregate principal balance of $2.5 billion, as of December 31, 2020.
+During the year ended December 31, 2020, we closed 49 loan modifications, representing an aggregate principal balance of $6.5 billion, as of December 31, 2020. The loan modifications primarily included term extensions, interest rate changes, repurposing of reserves, and performance test or covenant waivers, many of which were coupled with additional equity commitments from sponsors, with virtually no interest deferrals.
+We are generally encouraged by our borrowers’ initial response to the COVID-19
+pandemic’s impacts on their properties. With limited exceptions, we believe our loan sponsors are committed to supporting assets collateralizing our loans through additional equity investments, and that we will benefit from our long-standing core business model of originating senior loans collateralized by large assets in major markets with experienced, well-capitalized institutional sponsors. Our investment portfolio’s low origination weighted-average LTV of 64.0% as of December 31, 2020 reflects significant equity value that our sponsors are motivated to protect through periods of cyclical disruption. While we believe the principal amounts of our loans are generally adequately protected by underlying collateral value, there is a risk that we will not realize the entire principal value of certain investments.
+Our Manager’s portfolio monitoring and asset management operations benefit from the deep knowledge, experience, and information advantages derived from its position as part of Blackstone’s real estate platform. Blackstone Real Estate is one of the largest owners and operators of real estate in the world, with a proven track record of successfully navigating market cycles and emerging stronger through periods of volatility. The market-leading real estate expertise derived from the strength of the Blackstone platform deeply informs our credit and
+underwriting process, and gives us the tools to expertly asset manage our portfolio and work with our borrowers throughout periods of economic stress and uncertainty.
+As discussed in Note 2 to our consolidated financial statements, our Manager performs a quarterly review of our loan portfolio, assesses the performance of each loan, and assigns it a risk rating between “1” and “5,” from less risk to greater risk. The weighted-average risk rating of our total loan exposure was 3.0 and 2.8 as of December 31, 2020 and December 31, 2019, respectively. The increase in the risk rating was primarily the result of loans with an aggregate principal balance of $3.2 billion that were downgraded to a “4” or “5” during the year ended December 31, 2020 to reflect the higher risk in loans collateralized by hospitality assets and select other assets that are particularly negatively impacted by the COVID-19
+pandemic.
+The following table allocates the principal balance and total loan exposure balances based on our internal risk ratings ($ in thousands):
+(1) In certain instances, we finance our loans through the non-recourse
+sale of a senior loan interest that is not included in our consolidated financial statements. See Note 2 to our consolidated financial statements for further discussion. Total loan exposure encompasses the entire loan we originated and financed, including $801.8 million of such non-consolidated
+senior interests as of December 31, 2020.
+(2) Excludes investment exposure to the $735.5 million 2018 Single Asset Securitization. Refer to Notes 4 and 16 to our consolidated financial statements for details of the subordinate position we own in the 2018 Single Asset Securitization.
+Current Expected Credit Loss Reserve
+The CECL reserve required by GAAP reflects our current estimate of potential credit losses related to our loans and debt securities included in our consolidated balance sheets. Other than a few narrow exceptions, GAAP requires that all financial instruments subject to the CECL model have some amount of loss reserve to reflect the GAAP principal underlying the CECL model that all loans, debt securities, and similar assets have some inherent risk of loss, regardless of credit quality, subordinate capital, or other mitigating factors.
+Our initial CECL reserve of $17.7 million recorded on January 1, 2020 is reflected as a direct charge to retained earnings on our consolidated statements of changes in equity; however subsequent changes to the CECL reserve are recognized through net income on our consolidated statements of operations. During the year ended December 31, 2020, we recorded a $167.7 million increase in the current expected credit loss reserve, bringing our total CECL reserve to $185.4 million as of December 31, 2020. This CECL reserve reflects the macroeconomic impact of the COVID-19
+pandemic on commercial real estate markets generally, as well as certain loans assessed for impairment in our portfolio. Further, this reserve is not reflective of what we expect our
+CECL reserve would be absent the current and potential future impacts of the COVID-19
+pandemic. See Notes 2 and 3 to our consolidated financial statements for further discussion of our CECL reserve.
+During the first and fourth quarters of 2020, we entered into loan modifications related to a multifamily asset in New York City, which is classified as a troubled debt restructuring under GAAP. During the three months ended June 30, 2020, we recorded a $14.8 million CECL reserve on this loan, which was unchanged as of December 31, 2020. This loan has an outstanding principal balance of $52.4 million, net of cost-recovery proceeds, as of December 31, 2020. The CECL reserve was recorded based on our estimation of the fair value of the loan’s underlying collateral as of December 31, 2020.
+During the third quarter of 2020, we entered into a loan modification related to a hospitality asset in New York City, which is classified as a troubled debt restructuring under GAAP. During the three months ended June 30, 2020, we recorded a $54.9 million CECL reserve on this loan, which was unchanged as of December 31, 2020. This loan has an outstanding principal balance of $286.3 million, net of cost-recovery proceeds, as of December 31, 2020. The CECL reserve was recorded based on our estimation of the fair value of the loan’s underlying collateral as of December 31, 2020.
+As of July 1, 2020, the income accrual was suspended on the two loans detailed above, which had an aggregate outstanding principal balance of $338.7 million, as of December 31, 2020. No income was recorded on these loans subsequent to July 1, 2020.
+Multifamily Joint Venture
+As of December 31, 2020, our Multifamily Joint Venture held $484.8 million of loans, which are included in the loan disclosures above. Refer to Note 2 to our consolidated financial statements for additional discussion of our Multifamily Joint Venture.
+Portfolio Financing
+Our portfolio financing consists of secured debt agreements, securitizations, and asset-specific financings. During the year-ended December 31, 2020, we refinanced $2.1 billion of our secured debt agreements through the issuance of two securitizations, which are inherently non-mark
+to market, non-recourse,
+and term-matched to the financed assets. The following table details our portfolio financing ($ in thousands):
+(1) Includes our consolidated securitized debt obligations of $2.9 billion and our non-consolidated
+securitized debt obligations of $656.3 million. The non-consolidated
+securitized debt obligation represents the senior non-consolidated
+investment exposure to the 2018 Single Asset Securitization. We own the related subordinate position, which is classified as a held-to-maturity
+debt security on our balance sheet. Refer to Notes 4 and 16 to our consolidated financial statements for details of the 2018 Single Asset Securitization.
+(2) Includes our consolidated asset-specific debt agreements of $399.7 million and our non-consolidated
+senior interests of $801.8 million. The non-consolidated
+senior interests provide structural leverage for our net investments which are reflected in the form of mezzanine loans or other subordinate interests on our balance sheet and in our results of operations.
+Secured Debt Agreements
+The following table details our outstanding secured debt agreements ($ in thousands):
+Secured Credit Facilities
+The following table details our secured credit facilities ($ in thousands):
+(1) Potential borrowings represents the total amount we could draw under each facility based on collateral already approved and pledged. When undrawn, these amounts are immediately available to us at our sole discretion under the terms of each credit facility.
+(2) Represents the principal balance of the collateral assets.
+(3) These facilities finance the loan investments of our consolidated Multifamily Joint Venture. Refer to Note 2 to our consolidated financial statements for additional discussion of our Multifamily Joint Venture.
+Revolving Credit Agreement
+We have a $250.0 million full recourse secured revolving credit agreement with Barclays that is designed to finance first mortgage originations for up to nine months as a bridge to term financing or syndication. Advances under the agreement are subject to availability under a specified borrowing base and accrue interest at a per annum pricing rate equal to the sum of (i) an applicable base rate or Eurodollar rate and (ii) an applicable margin, in each case, dependent on the applicable type of loan collateral. The maturity date of the facility is April 4, 2023. As of December 31, 2020, we had no outstanding borrowings under the agreement.
+Securitizations
+The following table details our outstanding securitizations ($ in thousands):
+(1) These non-consolidated
+securitized debt obligations represent the senior non-consolidated
+investment exposure to the 2018 Single Asset Securitization. We own the related subordinate position, which is classified as a held-to-maturity
+debt security on our balance sheet. Refer to Notes 4 and 16 to our consolidated financial statements for details of the 2018 Single Asset Securitization.
+Securitized Debt Obligations
+We have financed certain pools of our loans through collateralized loan obligations, which include the 2020 FL3 CLO, 2020 FL2 CLO, and 2017 FL1 CLO, or collectively, the CLOs. We have also financed one of our loans through a single asset securitization vehicle, or the 2017 Single Asset Securitization. The following table details our securitized debt obligations ($ in thousands):
+(1) In addition to cash coupon, all-in
+yield includes the amortization of deferred origination and extension fees, loan origination costs, purchase discounts, and accrual of exit fees. All-in
+yield for the total portfolio assumes applicable floating benchmark rates for weighted-average calculation.
+(2) Loan term represents weighted-average final maturity, assuming all extension options are exercised by the borrower. Repayments of securitized debt obligations are tied to timing of the related collateral loan asset repayments. The term of these obligations represents the rated final distribution date of the securitizations.
+(3) The collateral assets for the 2017 Single Asset Securitization include the total loan amount, of which we securitized $500.0 million.
+(4) During the year ended December 31, 2020, we recorded $43.1 million of interest expense related to our securitized debt obligations.
+Refer to Notes 6 and 16 to our consolidated financial statements for additional details of our securitized debt obligations.
+Non-Consolidated
+Securitized Debt Obligation
+In the third quarter of 2018, we contributed a senior loan to the 2018 Single Asset Securitization, and invested in the related subordinate position. We do not consolidate the 2018 Single Asset Securitization on our balance sheet. The non-consolidated
+securitized debt obligation provides structural leverage for our net investment which is reflected as a held-to-maturity
+debt security and is included in other assets on our consolidated balance sheets. The following table details our non-consolidated
+securitized debt obligations ($ in thousands):
+(1) In addition to cash coupon, all-in
+yield includes the amortization of deferred origination and extension fees, loan origination costs, and purchase discounts.
+(2) Loan term represents weighted-average final maturity, assuming all extension options are exercised by the borrower. Repayments of non-consolidated
+securitized debt obligations are tied to timing of the related collateral loan asset repayments. The term of these obligations represents the rated final distribution date of the securitizations.
+Asset-Specific Financings
+The following table details our outstanding asset-specific financings ($ in thousands):
+(1) These non-consolidated
+senior interests provide structural leverage for our net investments which are reflected in the form of mezzanine loans or other subordinate interests on our balance sheet and in our results of operations.
+Asset-Specific Debt Agreements
+The following table details our asset-specific debt agreements ($ in thousands):
+(1) These floating rate loans and related liabilities are indexed to the various benchmark rates relevant in each arrangement in terms of currency and payment frequency. Therefore the net exposure to each benchmark rate is in direct proportion to our net assets indexed to that rate. In addition to cash coupon, yield/cost includes the amortization of deferred origination fees / financing costs.
+(2) Other than amounts guaranteed on an asset-by-asset
+basis, borrowings under our asset-specific financings are non-recourse
+to us.
+(3) The weighted-average term is determined based on the maximum maturity of the corresponding loans, assuming all extension options are exercised by the borrower. Each of our asset-specific financings is term-matched to the corresponding collateral loans.
+Non-Consolidated
+Senior Interests
+In certain instances, we finance our loans through the non-recourse
+sale of a senior loan interest that is not included in our consolidated financial statements. These non-consolidated
+senior interests provide structural leverage for our net investments which are reflected in the form of mezzanine loans or other subordinate interests on our balance sheet and in our results of operations.
+The following table details the subordinate interests retained on our balance sheet and the related non-consolidated
+senior interests ($ in thousands):
+(1) Our floating rate loans and related liabilities were indexed to the various benchmark rates relevant in each arrangement in terms of currency and payment frequency. Therefore the net exposure to each benchmark rate is in direct proportion to our net assets indexed to that rate. In addition to cash coupon, all-in
+yield/cost includes the amortization of deferred fees / financing costs.
+Corporate Financing
+The following table details our outstanding corporate financing ($ in thousands):
+Secured Term Loans
+As of December 31, 2020, the following senior secured term loan facilities, or Secured Term Loans, were outstanding ($ in thousands):
+(1) The 2020 Term Loan borrowing is subject to a LIBOR floor of 1.00%.
+(2) Includes issue discount and transaction expenses that are amortized through interest expense over the life of the Secured Term Loans.
+Refer to Notes 2 and 8 to our consolidated financial statements for additional discussion of our Secured Term Loans.
+Convertible Notes
+As of December 31, 2020, the following convertible senior notes, or Convertible Notes, were outstanding ($ in thousands):
+(1) Includes issuance costs that are amortized through interest expense over the life of the Convertible Notes using the effective interest method.
+Refer to Notes 2 and 9 to our consolidated financial statements for additional discussion of our Convertible Notes.
+Floating Rate Portfolio
+Generally, our business model is such that rising interest rates will increase our net income, while declining interest rates will decrease net income. As of December 31, 2020, 98% of our investments by total investment exposure earned a floating rate of interest and were financed with liabilities that pay interest at floating rates, which resulted in an amount of net equity that is positively correlated to rising interest rates, subject to the impact of interest rate floors on certain of our floating rate investments. As of December 31, 2020, the remaining 2% of our investments by total investment exposure earned a fixed rate of interest, but are financed with liabilities that pay interest at floating rates, which resulted in a negative correlation to rising interest rates to the extent of our financing. In certain instances where we have financed fixed rate assets with floating rate liabilities, we have purchased interest rate caps to limit our exposure to increases in interest rates on such liabilities.
+Our liabilities are generally currency and index-matched to each collateral asset, resulting in a net exposure to movements in benchmark rates that varies by currency silo based on the relative proportion of floating rate assets and liabilities. The following table details our investment portfolio’s net exposure to interest rates by currency as of December 31, 2020 ($/€/£/A$/C$ in thousands):
+(1) Our floating rate investments and related liabilities are indexed to the various benchmark rates relevant in each case in terms of currency and payment frequency. Therefore the net exposure to each benchmark rate is in direct proportion to our net assets indexed to that rate.
+(2) Includes investment exposure to the 2018 Single Asset Securitization. Refer to Notes 4 and 16 to our consolidated financial statements for details of the subordinate position we own in the 2018 Single Asset Securitization.
+(3) Euro balance includes a loan denominated in British Pound Sterling, with an outstanding principal balance of £146.2 million as of December 31, 2020, that is hedged to Euro exposure through a foreign currency forward contract. Refer to Note 10 to our consolidated financial statements for additional discussion of our foreign currency derivatives.
+(4) Includes borrowings under secured debt agreements, securitizations, asset-specific financings, and secured term loans.
+(5) In addition, we have two interest rate caps of C$38.3 million ($30.1 million as of December 31, 2020) to limit our exposure to increases in interest rates.
+III. Our Results of Operations
+Operating Results
+The following table sets forth information regarding our consolidated results of operations for the years ended December 31, 2020, 2019, and 2018 ($ in thousands, except per share data):
+Income from loans and other investments, net
+Income from loans and other investments, net increased $8.0 million during the year ended December 31, 2020 compared to the year ended December 31, 2019. The increase was primarily due to (i) $13.7 billion of our loans earning interest based on floors that were above the applicable floating rate index, as of December 31, 2020, and (ii) an increase in the weighted-average principal balance of our loan portfolio by $1.7 billion during the year ended December 31, 2020, as compared to the corresponding period in 2019. This was offset by (i) a decrease in weighted-average LIBOR and other floating rate indices in 2020, (ii) an increase in the weighted-average principal balance of our outstanding financing arrangements by $1.6 billion during year ended December 31, 2020, as compared to the corresponding period in 2019, (iii) a decrease in non-recurring
+prepayment fee income, and (iv) a decline in interest income related to two loans that are accounted for under the cost-recovery method effective June 30, 2020.
+Income from loans and other investments, net increased $27.7 million during the year ended December 31, 2019 compared to the year ended December 31, 2018. The increase was primarily due to (i) an increase in the weighted-average principal balance of our loan portfolio by $3.0 billion during the year ended December 31, 2019, compared to the year ended December 31, 2018 and (ii) an increase in the weighted-average LIBOR and other floating rate indices in 2019, compared to 2018. This was offset by (i) the increase in the weighted-average principal balance of our outstanding financing arrangements by $2.6 billion during the year ended December 31, 2019, compared to the year ended December 31, 2018, and (ii) a decrease in non-recurring
+prepayment fee income.
+Other expenses
+Other expenses include management and incentive fees payable to our Manager and general and administrative expenses. Other expenses increased by $6.5 million during the year ended December 31, 2020 compared to the
+year ended December 31, 2019 due to (i) an increase of $5.1 million of management fees payable to our Manager, primarily as a result of net proceeds received from the sale of shares of our class A common stock during 2019 and 2020, (ii) $3.9 million of additional non-cash
+restricted stock amortization related to shares awarded under our long-term incentive plans, and (iii) an increase of $3.1 million of other general operating expenses. This was offset by a decrease of $5.7 million of incentive fees payable to our Manager.
+Other expenses increased by $6.9 million during the year ended December 31, 2019 compared to the year ended December 31, 2018 due to (i) an increase of $8.3 million of management fees payable to our Manager, primarily as a result of net proceeds received from the sale of shares of our class A common stock during 2018 and 2019, (ii) $2.5 million of additional non-cash
+restricted stock amortization related to shares awarded under our long-term incentive plans, and (iii) an increase of $823,000 of other general operating expenses. This was offset by a decrease of $4.7 million of incentive fees payable to our Manager.
+Changes in current expected credit loss reserve
+We adopted ASU 2016-13,
+which implemented the CECL accounting model, on January 1, 2020. During year ended December 31, 2020, we recorded a $167.7 million increase in the CECL reserve. This CECL reserve reflects the macroeconomic impact of the COVID-19
+pandemic on commercial real estate markets generally, as well as certain loans assessed for impairment in our portfolio. This reserve is not reflective of what we expect our CECL reserve would be absent the current and potential future impacts of the COVID-19
+pandemic. See Notes 2 and 3 to our consolidated financial statements for further discussion of our CECL reserve.
+Net income attributable to non-controlling
+interests
+During the years ended December 31, 2020, 2019, and 2018, we recorded $2.7 million, $1.8 million, and $735,000, respectively, of net income attributable to non-controlling
+interests related to our Multifamily Joint Venture.
+Dividends per share
+During the year ended December 31, 2020, we declared aggregate dividends of $2.48 per share, or $356.2 million. During 2019, we declared aggregate dividends of $2.48 per share, or $328.1 million. During 2018, we declared aggregate dividends of $2.48 per share, or $286.9 million.
+The following table sets forth information regarding our consolidated results of operations for the three months ended December 31, 2020 and 2019 ($ in thousands, except per share data):
+Income from loans and other investments, net
+Income from loans and other investments, net decreased $261,000 during the three months ended December 31, 2020 compared to the three months ended December 31, 2019. The decrease was primarily due to (i) a decrease in weighted-average LIBOR and other floating rate indices in 2020, (ii) an increase in the weighted-average principal balance of our outstanding financing arrangements by $631.2 million during the three months ended December 31, 2020, as compared to the corresponding period in 2019, (iii) a decrease in non-recurring
+prepayment fee income, and (iv) a decline in interest income related to two loans that are accounted for under the cost-recovery method effective June 30, 2020. This was offset by (i) $13.7 billion of our loans earning interest based on floors that were above the applicable floating rate index, as of December 31, 2020, and (ii) an increase in the weighted-average principal balance of our loan portfolio by $811.1 million during the three months ended December 31, 2020, as compared to the corresponding period in 2019.
+Other expenses
+Other expenses are composed of management and incentive fees payable to our Manager and general and administrative expenses. Other expenses increased by $646,000 during the three months ended December 31, 2020 compared to the corresponding period in 2019 due to (i) a $1.2 million increase in non-cash
+restricted stock amortization related to shares awarded under our long-term incentive plans, (ii) an increase of $1.1 million of management fees payable to our Manager, primarily as a result of net proceeds received from the sale of shares of our class A common stock during 2020, and (iii) an increase of $473,000 of general operating expenses. This was offset by a decrease of $2.1 million of incentive fees payable to our Manager.
+Changes in current expected credit loss reserve
+We adopted ASU 2016-13,
+which implemented the CECL accounting model, on January 1, 2020. Our CECL reserve reflects the macroeconomic impact of the COVID-19
+pandemic on commercial real estate markets generally, as well as certain loans assessed for impairment in our portfolio. This reserve is not reflective of what we expect our CECL reserve would be absent the current and potential future impacts of the COVID-19
+pandemic. During the three months ended December 31, 2020, we recorded a $5.8 million decrease in the CECL reserve as a result of changes in our underlying assumptions with respect to portfolio tenor and application of
+historical loss data to our portfolio. See Notes 2 and 3 to our consolidated financial statements for further discussion of our CECL reserve.
+Net income attributable to non-controlling
+interests
+During the three months ended December 31, 2020 and 2019, we recorded $807,000 and $650,000, respectively, of net income attributable to non-controlling
+interests related to our Multifamily Joint Venture.
+Dividends per share
+During the three months ended December 31, 2020, we declared aggregate dividends of $0.62 per share, or $91.0 million. During the three months ended December 31, 2019, we declared aggregate dividends of $0.62 per share, or $83.7 million.
+IV. Liquidity and Capital Resources
+Capitalization
+We have capitalized our business to date primarily through the issuance and sale of shares of our class A common stock, borrowings under secured debt agreements, borrowings under secured term loans, and the issuance and sale of convertible notes. As of December 31, 2020, our balance sheet included $1.7 billion of corporate debt and $12.7 billion of asset-level financing. No portion of our corporate debt matures before 2022 and our asset-specific financing is generally term-matched or matures in 2022 or later. Our $12.7 billion of asset-level financing includes $7.9 billion of secured debt agreements, $3.6 billion of securitizations, which are inherently non-recourse,
+non-mark
+to market, and term matched to the financed assets, and $1.2 billion of asset-specific financings.
+Margin call provisions under our credit facilities do not permit valuation adjustments based on capital markets events, and are limited to collateral-specific credit marks generally determined on a commercially reasonable basis.
+During the three months ended June 30, 2020, we entered into agreements with our seven largest secured credit facility lenders, representing an aggregate $7.9 billion of our secured credit facilities as of June 30, 2020, to temporarily suspend credit mark provisions and pre-approve
+certain loan modifications to certain of their portfolio assets, primarily in exchange for cash repayments and pledging additional loan collateral. During the three months ended December 31, 2020, we extended the credit facility modification agreements with the seven lenders without any further deleveraging or increased cost.
+We are in frequent, consistent dialogue with the providers of our secured credit facilities regarding our management of their collateral assets in light of the impacts of the COVID-19
+pandemic. Our Manager’s robust, in-house
+asset management team has extensive experience managing loans throughout cycles, and maintains a rated special servicer as part of its broader real estate debt investment and asset management platform. The feedback we have received from our lenders indicates that they believe our Manager, as part of the broader Blackstone Real Estate platform, has a superior capability to manage the loans in our portfolio to a successful resolution.
+See Notes 5, 6, 7, 8, and 9 to our consolidated financial statements for additional details regarding our secured debt agreements, securitized debt obligations, asset-specific debt agreements, Secured Term Loans, and Convertible Notes, respectively.
+Debt-to-Equity
+Ratio and Total Leverage Ratio
+The following table presents our debt-to-equity
+ratio and total leverage ratio:
+(1) Represents (i) total outstanding secured debt agreements, asset-specific debt agreements, secured term loans, and convertible notes, less cash, to (ii) total equity, in each case at period end.
+(2) Represents (i) total outstanding secured debt agreements, securitizations, asset-specific financings, secured term loans, and convertible notes, less cash, to (ii) total equity, in each case at period end.
+Sources of Liquidity
+Our current sources of liquidity include cash and cash equivalents, available borrowings under our secured debt agreements, and net receivables from servicers related to loan repayments, which are set forth in the following table ($ in thousands):
+(1) Represents loan principal payments held by our third-party servicer as of the balance sheet date which were remitted to us during the subsequent remittance cycle, net of the related secured debt balance.
+Typically, loan repayments are our largest source of incremental liquidity. For the year ended December 31, 2020, loan repayments generated $451.1 million of liquidity, net of any related financings. Similarly, during the year ended December 31, 2019, loan repayments and sales generated $998.2 million of liquidity. Loan repayments have slowed as a result of the COVID-19
+pandemic, however, as of December 31, 2020, our portfolio does include $3.0 billion of loans with a final maturity date earlier than December 31, 2022.
+During the year ended December 31, 2020, we generated cash flow from operating activities of $336.6 million. Additionally, during the year ended December 31, 2020, we received $315.4 million of net proceeds from borrowings under a secured term loan and $278.3 million of net proceeds from the issuance of shares of class A common stock. Furthermore, we are able to generate incremental liquidity through the replenishment provisions of our 2020 FL3 and 2020 FL2 CLOs, which allow us to replace a repaid loan in the CLO by increasing the principal amount of existing CLO collateral assets to maintain the aggregate amount of collateral assets in the CLO, and the related financing outstanding.
+We have access to liquidity through public offerings of debt and equity securities. To facilitate such offerings, in July 2019, we filed a shelf registration statement with the SEC that is effective for a term of three years and expires at the end of July 2022. The amount of securities to be issued pursuant to this shelf registration statement was not specified when it was filed and there is no specific dollar limit on the amount of securities we may issue. The securities covered by this registration statement include: (i) class A common stock; (ii) preferred stock; (iii) debt securities; (iv) depositary shares representing preferred stock; (v) warrants; (vi) subscription rights; (vii) purchase contracts; and (viii) units consisting of one or more of such securities or any combination of these securities. The specifics of any future offerings, along with the use of proceeds of any securities offered, will be described in detail in a prospectus supplement, or other offering materials, at the time of any offering.
+We may also access liquidity through a dividend reinvestment plan and direct stock purchase plan, under which 9,991,974 shares of class A common stock were available for issuance as of December 31, 2020, and our at-the-market
+stock offering program, pursuant to which we may sell, from time to time, up to $363.8 million of additional shares of our class A common stock as of December 31, 2020. Refer to Note 11 to our consolidated financial statements for additional details.
+Liquidity Needs
+In addition to our loan origination activity and general operating expenses, our primary liquidity needs include interest and principal payments under our $7.9 billion of outstanding borrowings under secured debt agreements, our asset-specific debt agreements, our Secured Term Loans, and our Convertible Notes.
+In addition, we had aggregate unfunded loan commitments of $3.2 billion as of December 31, 2020. We generally finance the funding of our loan commitments on terms consistent with our overall credit facilities, with an average advance rate of 72.8% for such financed loans, resulting in identified financing for $2.2 billion of our aggregate unfunded loan commitments as of December 31, 2020. Some of our lenders, including substantially all of our financing of construction loans, are contractually obligated to fund their ratable portion of these loan commitments over time, while other lenders have some degree of discretion over future loan funding obligations. We expect to fund our loan commitments over the tenor of these loans, which have a weighted-average future funding period of 3.7 years. Our future loan fundings comprise funding for capital expenditures and construction, leasing costs, and interest and carry costs, and will vary depending on the progress of capital projects, leasing, and cash flows at the assets underlying our loans. Therefore, the exact timing and amounts of such future loan fundings are uncertain and will depend on the current and future performance of the underlying collateral assets. As a result of the COVID-19
+pandemic, the progress of capital expenditures, construction, and leasing has been slower than otherwise expected, and the pace of funding relating to these capital needs has been commensurately slower and may continue to be slower.
+Contractual Obligations and Commitments
+Our contractual obligations and commitments as of December 31, 2020 were as follows ($ in thousands):
+(1) The allocation of our unfunded loan commitments is based on the earlier of the commitment expiration date or the final loan maturity date, however, we may be obligated to fund these commitments earlier than such date.
+(2) The allocation of repayments under our secured debt agreements and asset-specific debt agreements for both principal and interest payments is based on the earlier of (i) the maturity date of each agreement, or (ii) the maximum maturity date of the collateral loans, assuming all extension options are exercised by the borrower.
+(3) The Secured Term Loans are partially amortizing, with an amount equal to 1.0% per annum of the principal balance due in quarterly installments. Refer to Note 8 to our consolidated financial statements for further details on our secured term loans.
+(4) Reflects the outstanding principal balance of convertible notes, excluding any potential conversion premium. Refer to Note 9 to our consolidated financial statements for further details on our convertible notes.
+(5) Represents interest payments on our secured debt agreements, convertible notes, and Secured Term Loans. Future interest payment obligations are estimated assuming the interest rates in effect as of December 31, 2020 will remain constant into the future. This is only an estimate as actual amounts borrowed and interest rates will vary over time.
+(6) Total does not include $2.9 billion of consolidated securitized debt obligations, $656.3 million of non-consolidated
+securitized debt obligations, and $801.8 million of non-consolidated
+senior interests, as the satisfaction of these liabilities will not require cash outlays from us.
+We are also required to settle our foreign exchange derivatives with our derivative counterparties upon maturity which, depending on exchange rate movements, may result in cash received from or due to the respective counterparty. The table above does not include these amounts as they are not fixed and determinable. Refer to Note 10 to our consolidated financial statements for details regarding our derivative contracts.
+We are required to pay our Manager a base management fee, an incentive fee, and reimbursements for certain expenses pursuant to our Management Agreement. The table above does not include the amounts payable to our Manager under our Management Agreement as they are not fixed and determinable. Refer to Note 12 to our consolidated financial statements for additional terms and details of the fees payable under our Management Agreement.
+As a REIT, we generally must distribute substantially all of our net taxable income to stockholders in the form of dividends to comply with the REIT provisions of the Internal Revenue Code. Our taxable income does not necessarily equal our net income as calculated in accordance with GAAP, or our Distributable Earnings as described above.
+Cash Flows
+The following table provides a breakdown of the net change in our cash and cash equivalents ($ in thousands):
+We experienced a net increase in cash and cash equivalents of $137.6 million for the year ended December 31, 2020, compared to a net increase of $45.4 million for the year ended December 31, 2019. During 2020, we received (i) $2.1 billion of proceeds from the issuance of collateralized loan obligations, (ii) $1.9 billion from loan principal collections and sales proceeds, (iii) $315.4 million of net proceeds from secured term loan borrowings, and (iv) $278.3 million in net proceeds from the issuance of shares of class A common stock. We used the proceeds from these activities to (i) repay a net $2.1 billion under our secured debt agreements and (ii) fund $1.9 billion of new loans.
+We experienced a net increase in cash and cash equivalents of $45.4 million for the year ended December 31, 2019, compared to a net decrease of $3.9 million for the year ended December 31, 2018. During 2019, we received (i) $4.9 billion from loan principal collections and sales proceeds, (ii) $795.2 million of net borrowings under our secured debt agreements, (iii) $748.4 million of net proceeds from secured term loan borrowings, and (iv) $372.3 million of net proceeds from the issuance of shares of class A common stock. We used the proceeds from these activities to fund $6.9 billion of new loans during the year ended December 31, 2019.
+Refer to Note 3 to our consolidated financial statements for further discussion of our loan activity. Refer to Notes 5, 8, and 11 to our consolidated financial statements for additional discussion of our secured debt agreements, secured term loans, and equity.
+V. Other Items
+Income Taxes
+We have elected to be taxed as a REIT under the Internal Revenue Code for U.S. federal income tax purposes. We generally must distribute annually at least 90% of our net taxable income, subject to certain adjustments and
+excluding any net capital gain, in order for U.S. federal income tax not to apply to our earnings that we distribute. To the extent that we satisfy this distribution requirement, but distribute less than 100% of our net taxable income, we will be subject to U.S. federal income tax on our undistributed taxable income. In addition, we will be subject to a 4% nondeductible excise tax if the actual amount that we pay out to our stockholders in a calendar year is less than a minimum amount specified under U.S. federal tax laws.
+Our qualification as a REIT also depends on our ability to meet various other requirements imposed by the Internal Revenue Code, which relate to organizational structure, diversity of stock ownership, and certain restrictions with regard to the nature of our assets and the sources of our income. Even if we qualify as a REIT, we may be subject to certain U.S. federal income and excise taxes and state and local taxes on our income and assets. If we fail to maintain our qualification as a REIT for any taxable year, we may be subject to material penalties as well as federal, state and local income tax on our taxable income at regular corporate rates and we would not be able to qualify as a REIT for the subsequent four full taxable years. As of December 31, 2020 and 2019, we were in compliance with all REIT requirements.
+Refer to Note 13 to our consolidated financial statements for additional discussion of our income taxes.
+Off-Balance
+Sheet Arrangements
+We have no off-balance
+sheet arrangements.
+Critical Accounting Policies
+Our discussion and analysis of our financial condition and results of operations is based upon our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires our Manager to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. Actual results could differ from these estimates. During 2020, our Manager reviewed and evaluated our critical accounting policies and believes them to be appropriate. The following is a summary of our significant accounting policies that we believe are the most affected by our Manager’s judgments, estimates, and assumptions:
+Current Expected Credit Losses
+The CECL reserve required under Accounting Standard Update, or ASU, 2016-13
+“Financial Instruments - Credit Losses - Measurement of Credit Losses on Financial Instruments (Topic 326),” or ASU 2016-13,
+reflects our current estimate of potential credit losses related to our loans and debt securities included in our consolidated balance sheets. The initial CECL reserve recorded on January 1, 2020 is reflected as a direct charge to retained earnings on our consolidated statements of changes in equity; however subsequent changes to the CECL reserve are recognized through net income on our consolidated statements of operations. While ASU 2016-13
+does not require any particular method for determining the CECL reserve, it does specify the reserve should be based on relevant information about past events, including historical loss experience, current portfolio and market conditions, and reasonable and supportable forecasts for the duration of each respective loan. In addition, other than a few narrow exceptions, ASU 2016-13
+requires that all financial instruments subject to the CECL model have some amount of loss reserve to reflect the GAAP principal underlying the CECL model that all loans, debt securities, and similar assets have some inherent risk of loss, regardless of credit quality, subordinate capital, or other mitigating factors.
+We estimate our CECL reserve primarily using the Weighted Average Remaining Maturity, or WARM method, which has been identified as an acceptable loss-rate method for estimating CECL reserves in the Financial Accounting Standards Board Staff Q&A Topic 326, No. 1. The WARM method requires us to reference historic loan loss data across a comparable data set and apply such loss rate to each of our loans over their expected remaining term, taking into consideration expected economic conditions over the relevant timeframe. We apply
+the WARM method for the majority of our loan portfolio, which loans share similar risk characteristics. In certain instances, for loans with unique risk characteristics, we may instead use a probability-weighted model that considers the likelihood of default and expected loss given default for each such individual loan.
+Application of the WARM method to estimate a CECL reserve requires judgment, including (i) the appropriate historical loan loss reference data, (ii) the expected timing and amount of future loan fundings and repayments, and (iii) the current credit quality of our portfolio and our expectations of performance and market conditions over the relevant time period. To estimate the historic loan losses relevant to our portfolio, we have augmented our historical loan performance, which includes zero realized loan losses since the launch of our senior loan origination business in 2013, with market loan loss data licensed from Trepp LLC. This database includes commercial mortgage-backed securities, or CMBS, issued since January 1, 1999 through November 30, 2020. Within this database, we focused our historical loss reference calculations on the most relevant subset of available CMBS data, which we determined based on loan metrics that are most comparable to our loan portfolio including asset type, geography, and origination loan-to-value,
+or LTV. We believe this CMBS data, which includes month-over-month loan and property performance, is the most relevant, available, and comparable dataset to our portfolio.
+Our loans typically include commitments to fund incremental proceeds to our borrowers over the life of the loan, which future funding commitments are also subject to the CECL model. The CECL reserve related to future loan fundings is recorded as a component of Other Liabilities on our consolidated balance sheets. This CECL reserve is estimated using the same process outlined above for our outstanding loan balances, and changes in this component of the CECL reserve will similarly impact our consolidated net income. For both the funded and unfunded portions of our loans, we consider our internal risk rating of each loan as the primary credit quality indicator underlying our assessment.
+The CECL reserve is measured on a collective basis wherever similar risk characteristics exist within a pool of similar assets. We have identified the following pools and measure the reserve for credit losses using the following methods:
+•
+U.S. Loans
+: WARM method that incorporates a subset of historical loss data, expected weighted-average remaining maturity of our loan pool, and an economic view.
+•
+Non-U.S.
+Loans
+: WARM method that incorporates a subset of historical loss data, expected weighted average remaining maturity of our loan pool, and an economic view.
+•
+Unique Loans
+: a probability of default and loss given default model, assessed on an individual basis.
+•
+Impaired Loans
+:
+impairment is indicated when it is deemed probable that we will not be able to collect all amounts due to us pursuant to the contractual terms of the loan. Determining that a loan is impaired requires significant judgment from management and is based on several factors including (i) the underlying collateral performance, (ii) discussions with the borrower, (iii) borrower events of default, and (iv) other facts that impact the borrower’s ability to pay the contractual amounts due under the terms of the loan. If a loan is determined to be impaired, we record the impairment as a component of our CECL reserve by applying the practical expedient for collateral dependent loans. The CECL reserve is assessed on an individual basis for these loans by comparing the estimated fair value of the underlying collateral, less costs to sell, to the book value of the respective loan. These valuations require significant judgments, which include assumptions regarding capitalization rates, discount rates, leasing, creditworthiness of major tenants, occupancy rates, availability and cost of financing, exit plan, loan sponsorship, actions of other lenders, and other factors deemed relevant by our Manager. Actual losses, if any, could ultimately differ materially from these estimates. We only expect to realize the impairment losses if and when such amounts are deemed nonrecoverable upon a realization event. This is generally at the time a loan is repaid, or in the case of foreclosure, when the underlying asset is sold, but non-recoverability
+may also be concluded if, in our determination, it is nearly certain that all amounts due will not be collected.
+We adopted ASU 2016-13
+using the modified-retrospective method for all financial assets measured at amortized cost. Prior to our adoption, we had no loan loss provisions on our consolidated balance sheets. We recorded a cumulative-effective adjustment to the opening retained earnings in our consolidated statement of equity as of January 1, 2020. The following table details the impact of this adoption ($ in thousands):
+Contractual Term and Unfunded Loan Commitments
+Expected credit losses are estimated over the contractual term of each loan, adjusted for expected prepayments. As part of our quarterly review of our loan portfolio, we assess the expected repayment date of each loan, which is used to determine the contractual term for purposes of computing our CECL reserve.
+Additionally, the expected credit losses over the contractual period of our loans are subject to the obligation to extend credit through our unfunded loan commitments. The CECL reserve for unfunded loan commitments is adjusted quarterly, as we consider the expected timing of future funding obligations over the estimated life of the loan. The considerations in estimating our CECL reserve for unfunded loan commitments are similar to those used for the related outstanding loan receivables.
+Credit Quality Indicator
+Our risk rating is our primary credit quality indicator in assessing our current expected credit loss reserve. Our Manager performs a quarterly risk review of our portfolio of loans, and assigns each loan a risk rating based on a variety of factors, including, without limitation, LTV, debt yield, property type, geographic and local market dynamics, physical condition, cash flow volatility, leasing and tenant profile, loan structure and exit plan, and project sponsorship. Based on a 5-point
+scale, our loans are rated “l” through “5,” from less risk to greater risk, relative to our loan portfolio in the aggregate, which ratings are defined as follows:
+1 -
+Very Low Risk
+2 -
+Low Risk
+3 -
+Medium Risk
+4 -
+High Risk/Potential for Loss:
+A loan that has a risk of realizing a principal loss.
+5 -
+Impaired/Loss Likely:
+A loan that has a very high risk of realizing a principal loss or has otherwise incurred a principal loss.
+Estimation of Economic Conditions
+In addition to the WARM method computations and probability-weighted models described above, our CECL reserve is also adjusted to reflect our estimation of the current and future economic conditions that impact the performance of the commercial real estate assets securing our loans. These estimations include unemployment rates, interest rates, and other macroeconomic factors impacting the likelihood and magnitude of potential credit losses for our loans during their anticipated term. In addition to the CMBS data we have licensed from Trepp LLC, we have also licensed certain macroeconomic financial forecasts to inform our view of the potential future impact that broader economic conditions may have on our loan portfolio’s performance. These estimations require significant judgments about future events that, while based on the information available to us as of the balance sheet date, are ultimately indeterminate and the actual economic condition impacting our portfolio could vary significantly from the estimates we made as of December 31, 2020.
+Revenue Recognition
+Interest income from our loans receivable portfolio and debt securities is recognized over the life of each investment using the effective interest method and is recorded on the accrual basis. Recognition of fees, premiums, and discounts associated with these investments is deferred and recorded over the term of the loan or debt security as an adjustment to yield. Income accrual is generally suspended for loans at the earlier of the date at which payments become 90 days past due or when, in the opinion of our Manager, recovery of income and principal becomes doubtful. Interest received is then recorded as a reduction in the outstanding principal balance until accrual is resumed when the loan becomes contractually current and performance is demonstrated to be resumed. In addition, for loans we originate, the related origination expenses are deferred and recognized as a component of interest income, however expenses related to loans we acquire are included in general and administrative expenses as incurred.
+Refer to Note 2 to our consolidated financial statements for the complete listing and description of our significant accounting policies.
+VI. Loan Portfolio Details
+The following table provides details of our loan portfolio, on a loan-by-loan
+basis, as of December 31, 2020 ($ in millions):
+continued…
+continued…
+continued…
+continued…
+(1) Senior loans include senior mortgages and similar credit quality loans, including related contiguous subordinate loans and pari passu participations in senior mortgage loans.
+(2) Date loan was originated or acquired by us, and the LTV as of such date. Origination dates are subsequently updated to reflect material loan modifications.
+(3) Total loan amount reflects outstanding principal balance as well as any related unfunded loan commitment.
+(4) In certain instances, we finance our loans through the non-recourse
+sale of a senior loan interest that is not included in our consolidated financial statements. As of December 31, 2020, five loans in our portfolio have been financed with an aggregate $801.8 million of non-consolidated
+senior interest, which are included in the table above. Portfolio excludes our $79.2 million subordinate position in the $735.5 million 2018 Single Asset Securitization. Refer to Notes 4 and 16 to our consolidated financial statements for details of the 2018 Single Asset Securitization.
+(5) The weighted-average cash coupon and all-in
+yield are expressed as a spread over the relevant floating benchmark rates, which include USD LIBOR, GBP LIBOR, EURIBOR, BBSY, and CDOR, as applicable to each loan. As of December 31, 2020, 98% of our loans by total loan exposure earned a floating rate of interest, primarily indexed to USD LIBOR, and $14.2 billion of such loans earned interest based on floors that are above the applicable index. The other 2% of our loans earned a fixed rate of interest, which we reflect as a spread over the relevant floating benchmark rates, as of December 31, 2020, for purposes of the weighted-averages. In addition to cash coupon, all-in
+yield includes the amortization of deferred origination and extension fees, loan origination costs, and purchase discounts, as well as the accrual of exit fees. Excludes loans accounted for under the cost-recovery method.
+(6) Maximum maturity assumes all extension options are exercised, however our loans may be repaid prior to such date.
+(7) Loans are accounted for under the cost-recovery method.
+(8) Loan consists of one or more floating and fixed rate tranches. Coupon and all-in
+yield assume applicable floating benchmark rates for weighted-average calculation.

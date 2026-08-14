@@ -1,0 +1,67 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read together with the audited financial statements and related notes included elsewhere in this registration statement. Certain statements contained in this registration statement, including statements regarding the anticipated development and expansion of our business, our intent, belief or current expectations, primarily with respect to the future operating performance of our company and the products and services we expect to offer and other statements contained herein regarding matters that are not historical facts, are “forward-looking” statements. Our Management’s Discussion and Analysis contains not only statements that are historical facts, but also forward-looking statements which involve risks, uncertainties, and assumptions. Because forward-looking statements are inherently subject to risks and uncertainties, our actual results may differ materially from the results discussed in the forward-looking statements.
+Executive Overview
+We intend to simplify and streamline digital financial services for corporations, small and midsized enterprises (“SMEs”) and consumers through innovative payment processing and digital banking technologies that complement our core merchant services capabilities. Our company’s merchant services provide financial processing for businesses to accept cashless and/or contactless payments, such as credit cards, ACH, wireless payments, and more. Our patented, exclusively licensed and/or proprietary merchant services software offers or will offer integrated solutions for frictionless digital and mobile payment acceptance; we are supplementing these capabilities with software that solves for multi-use case, multi-channel, API-driven, account-based issuer processing for card, digital tokens, and payment transfer transactions.
+Our Revenue and Expenses
+Revenues
+We derive our revenues by providing financial processing services to businesses.
+Expenses
+Cost of Revenue. Cost of revenue includes costs directly attributable to processing and other services the company provides. These also include related costs such as residual payments to our business development partners, which are based on a percentage of the net revenue generated from client referrals.
+General and administrative. General and administrative expenses include professional services, rent and utilities, and other operating costs.
+Research and development. Research and development costs include costs of acquiring patents and other unproven technologies, contractor fees and other costs associated with the development of the SMS short code texting platform, contract and outside services.
+Interest expense, net. Our interest expense consists of interest on our outstanding indebtedness and amortization of debt issuance costs.
+How We Assess Our Business
+We provide electronic payment processing and merchant services. Our electronic payment processing and merchant services provide comprehensive payment solutions to businesses.
+Key Operating Metrics
+We evaluate our performance through key operating metrics, including:
+● The dollar volume of payments our clients process through us (payment volume); and
+● Period to period merchant payment volume attrition
+Our payment volume for the years ended December 31, 2020 and 2019 was $99,673,038 and $103,389,512, respectively. This represents a period-to-period growth rate of minus 4%. Payment volume reflects the addition of new clients and the same client payment volume from existing clients, offset by client attrition during the period.
+Our merchant payment volume attrition for the years ended December 31, 2020 and 2019 was $1,141,661 and $1,409,757 (1.37%), respectively. This represents a period-to-period attrition decrease of 19%.
+We measure period to period merchant payment volume attrition for all clients that were processing with us for the same period in the prior period. We exclude from our calculations the merchant payment volume from new clients added during the period. We experience attrition in payment volume as a result of several factors, including business closures and transfers of client’s accounts to our competitors.
+We have one merchant customer, American Residential Warranty Services, that represented approximately 36% of our total revenues in the year ended December 31, 2020 and approximately 39% of our total revenues in the year ended December 31, 2019. The terms of our agreement with this entity are industry standard for ACH processing for similar merchants. We have a 5-year contract, beginning April 24, 2020, with this customer, and the loss of their business would have a material adverse effect on our business.
+Results of Operations
+This section includes a summary of our historical results of operations, followed by detailed comparisons of our results for years ended December 31, 2020 and 2019, respectively. We have derived this data from our annual consolidated financial statements included elsewhere in this registration statement.
+Year Ended December 31, 2020
+Compared to Year Ended December 31, 2019
+The following table presents our historical results of operations for the periods indicated:
+Revenue
+Revenue increased to $329,500 from $256,138, or 29%, for the year ended December 31, 2020 from the year ended December 31, 2019. This increase was principally driven by significant reduction in processing fees from the processors.
+Cost of Revenue
+Cost of revenue increased to $140,372 from $101,638, or 38%, for the year ended December 31, 2020 from the year ended December 31, 2019. This increase was driven primarily by a significant increase in revenue.
+General and Administrative Expenses
+General and administrative expenses increased to $3,749,456 from $1,020,869, or 267%, for the year ended December 31, 2020 from the year ended December 31, 2019. This increase was primarily driven by the increase of some one-time stock compensation expense from significant consulting agreements.
+Research and Development Expenses
+Research and development expenses decreased to $49,250 from $82,057, or 40%, for the year ended December 31, 2020 from the year ended December 31, 2019. This decrease was primarily due to the decrease in development costs resulting from service agreements related to the development of our software platforms.
+Interest Expense, net
+Interest expense, net increased to $342,321 from $288,784, or 19%, for the year ended December 31, 2020 from the year ended December 31, 2019. This increase was primarily driven by the addition of one-time interest charges for the amortization of the debt discount, day one derivative loss on a security purchase agreement.
+Day One Derivative Loss
+Day one derivative loss increased to $389,712 from $0 or 100% for the year ended December 31, 2020 from the year ended December 31, 2019. This increase was primarily driven by the addition of a new convertible note agreement.
+Change in Fair Value of Derivative Liability
+Change in fair value of derivative liability increased to $71,764 from $0 or 100% for the year ended December 31, 2020 from the year ended December 31, 2019. This increase was primarily driven by the addition of a new convertible note agreement.
+Liquidity and Capital Resources
+While the company is continuing operations and generating revenues, the company’s cash position is not significant enough to support the company’s daily operations. To the extent that additional funds are necessary to finance operations and meet our long-term liquidity needs as we continue to execute our strategy, we anticipate that they can be obtained through additional indebtedness, equity or debt issuances or both. Using currently available capital resources, management believes we can conduct planned operations for six months. Further, management believes we need to raise $1.5 million to remain in business for the next 12 months.
+Since we derive our revenues principally from processing of purchases from our merchant services clients, a downturn in economic activity, such as that associated with the current corona virus pandemic could reduce the volume of purchases we process, and thus our revenues. In addition, such a downturn could cause our merchant customers to cease operations permanently decreasing our payment processing unless new customers were found. We may also face additional difficulty in raising capital during an economic downturn.
+Cash Flows	
+The following table presents a summary of cash flows from operating, investing and financing activities for the following comparative periods.
+Year Ended December 31, 2020 and 2019
+Cash Flow from Operating Activities
+Net cash used in operating activities decreased by $169,158 for the year ended December 31, 2020 from the year ended December 31, 2019. This decrease was principally driven by the reduction of a one-time settlement fee.
+Cash Flow from Investing Activities
+Net cash provided by investing activities increased by $30,911 for the year ended December 31, 2020 from the year ended December 31, 2019. This increase was principally driven by the refund of a deposit placed in escrow.
+Cash Flow from Financing Activities
+Net cash provided by financing activities decreased by $189,506 for the year ended December 31, 2020 from the year ended December 31, 2019. This decrease was principally driven by decreased proceeds from assigning our rights to stock repurchase option agreements to a third parties.
+Critical Accounting Policies
+Our discussion and analysis of our financial condition and results of operations are based upon our financial statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. On an ongoing basis, we evaluate our estimates including those related to revenue recognition, goodwill and intangible assets, derivative financial instruments, and equity-based compensation. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions.
+Critical accounting policies are those that we consider the most critical to understanding our financial condition and results of operations. The accounting policies we believe to be most critical to understanding our financial condition and results of operations are discussed below. As of December 31, 2020, there have been no significant changes to our critical accounting estimates, except as described in Note 2 to our consolidated financial statements. Further, as of December 31, 2020, there have been no significant changes to our recently issued accounting pronouncements, except as described in Note 2 to our consolidated financial statements.
+Smaller Reporting Company
+As a smaller reporting company, as defined in Item(f)(1) of Regulation S-K, we may choose to prepare our disclosures relying on scaled disclosure requirements for smaller reporting companies in Regulation S-K and in Article 8 of Regulation S-X.
+The scaled disclosure requirements for smaller reporting companies permit us (i) to include less extensive narrative disclosure than required of other reporting companies, particularly in the description of executive compensation and (ii) to provide audited financial statements for two fiscal years, in contrast to other reporting companies, which must provide audited financial statements for three years.
+We may lose our status as a smaller reporting company on the last day of the fiscal year in which (i) our public float exceeds $250 million or (ii) if we have more than $100 million in annual revenues and (a) have no public float or (b) have a public float or more than $700 million.
+Equity-based Compensation
+The Company records stock-based compensation in accordance with FASB ASC Topic 718, Compensation - Stock Compensation. FASB ASC Topic 718 requires companies to measure compensation cost for stock-based employee compensation at the fair market value on the grant date and recognize the expense over the employee’s requisite service period. The Company recognizes in the statement of operations the grant-date fair market value of stock options and other equity-based compensation issued to employees and non-employees.
+During the year ended December 31, 2020, 4,012,000 shares of common stock were issued to several consultants in connection with business development and professional services rendered valued at $2,631,899.
+During the year ended December 31, 2020, 145,832 shares of common stock were issued to the board of director. The shares were earned over the term of the director. The Company valued the stock issuance, earned as of December 31, 2020, at $81,958.
+During the year ended December 31, 2019, 454,500 shares of common stock were issued to several consultants in connection with business development and professional services rendered valued at $91,414.
+Related Parties
+See Item 13 for a full discussion of related parties.

@@ -1,0 +1,827 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following Management Discussion and Analysis (“MD&A”) is intended to help the reader understand the consolidated results of operations and financial condition of Universal Stainless & Alloy Products, Inc. and its wholly-owned subsidiaries (collectively, “we,” “us,” “our,” or the “Company”). This MD&A should be read in conjunction with our consolidated financial statements and accompanying notes included in this Form 10-K. When reviewing the discussion, you should keep in mind the substantial risks and uncertainties that characterize our business. In particular, we encourage you to review the risk and uncertainties described under Item 1A “Risk Factors,” of this Form 10-K. These risks and uncertainties could cause actual results to differ materially from those forecasted in forward-looking statements or implied by past results and trends. Forward-looking statements are statements that attempt to project or anticipate future developments in our business; we encourage you to review the discussion of forward-looking statements under “Cautionary Statement for Purposes of the “Safe Harbor” Provisions of the Private Securities Litigation Reform Act of 1995,” at the beginning of this report. These statements, like all statements in this report, speak only as of the date of this report (unless another date is indicated), and we undertake no obligation to update or revise the statements in light of future developments. Unless otherwise specified, any reference to a “year” is to the year ended December 31.
+Overview
+We manufacture and market semi-finished and finished specialty steel products, including stainless steel, nickel alloys, tool steel and certain other alloyed steels. Our manufacturing process involves melting, remelting, heat treating, hot and cold rolling, forging, machining and cold drawing of semi-finished and finished specialty steels. Our products are sold to service centers, forgers, rerollers and original equipment manufacturers. Our customers further process our products for use in a variety of industries, including the aerospace, power generation, oil and gas, heavy equipment and general industrial markets. We also perform conversion services on materials supplied by customers.
+Our aerospace end market accounted for approximately 60% our total net sales and will continue to be a major driver of our future results, although the COVID-19 pandemic negatively impacted sales in 2021. Sales decreased in our aerospace, power generation, and general industrial end markets in 2021 compared with 2020, while sales increased in the oil & gas and heavy equipment end markets.
+Total Company backlog at the end of 2021 was $134.5 million, a new record level and significantly up from $48.0 million at the end of 2020. Premium alloys sales were approximately 17% of total sales during 2021, and these premium products represented more than 20% of the backlog at the end of the year.
+Our 2021 gross margin was 5.1% of net sales, significantly improved from a negative gross margin in 2020. The negative margin in 2020 was primarily due to the impacts of the COVID-19 pandemic, including direct charges recorded to the income statement as a result of low activity levels. Although low activity levels and other headwinds depressed 2021 results as well, the improvement in gross margin reflects the benefits of lower plant spending, improvements in our production costs, and general increases in activity levels at our facilities in 2021 compared with 2020.
+During 2021, we used $18.0 million of cash in our operations, primarily from increasing our inventory levels in support of our record backlog. We also used $11.1 million on capital expenditures, a significant portion of which was spent for strategic projects related to expansion of our vacuum induction melting and vacuum arc remelting capabilities to support our growth in premium products. These investments in our inventory and premium product manufacturing equipment support our business goals of further sales growth and profitability improvement in 2022.
+We received forgiveness of our $10.0 million Paycheck Protection Program loan in 2021 and borrowed on our revolving credit facility to pay off our notes issued in 2013 as part of the North Jackson acquisition, effectively cutting the interest rate in half for $15.0 million of our debt.
+Our operating facilities are integrated, and therefore our chief operating decision maker (“CODM”) views the Company as one business unit. Our CODM sets performance goals, assesses performance and makes decisions about resource allocations on a consolidated basis. As a result of these factors, as well as the nature of the financial information available which is reviewed by our CODM, we maintain one reportable segment.
+COVID-19 Pandemic
+While the Company’s four plants have continued to operate throughout 2020 and 2021, COVID-19 related challenges negatively impacted the efficiency of our operations. These challenges are expected to continue in the first quarter of 2022 and may continue thereafter. These factors may have additional significant impacts on the Company’s backlog, end markets, overall operations, cash flows and financial results.
+The scope and nature of these impacts, most of which are beyond the Company’s control, continue to evolve, and the outcome is uncertain. The ultimate extent of the effects of the COVID-19 pandemic on the Company, and the end markets we serve, remains highly uncertain and will depend on future developments and, as such, effects could exist for an extended period, even after the pandemic may end.
+Results of Operations
+2021 Results Compared to 2020
+For the years ended December 31,
+(dollars in thousands, except per
+shipped ton information)
+Amount
+Percentage
+of net sales
+Amount
+Percentage
+of net sales
+Dollar / ton
+variance
+Percentage
+variance
+Total net sales
+$
+155,934
+100.0
+$
+179,731
+100.0
+$
+(23,797
+)
+(13.2
+)
+Cost of products sold
+147,963
+94.9
+182,387
+101.5
+(34,424
+)
+(18.9
+)
+Gross margin
+7,971
+5.1
+(2,656
+)
+(1.5
+)
+10,627
+400.1
+Selling, general and administrative expenses
+20,243
+13.0
+19,752
+11.0
+2.5
+Operating loss
+(12,272
+)
+(7.9
+)
+(22,408
+)
+(12.5
+)
+10,136
+45.2
+Interest expense
+1,989
+1.3
+2,784
+1.5
+(795
+)
+(28.6
+)
+Deferred financing amortization
+0.1
+0.1
+-
+-
+Gain on extinguishment of debt
+(10,000
+)
+(6.4
+)
+-
+-
+(10,000
+)
+NM
+Other (income), net
+(445
+)
+(0.3
+)
+(1,123
+)
+(0.6
+)
+60.4
+Loss before income taxes
+(4,041
+)
+(2.6
+)
+(24,294
+)
+(13.5
+)
+20,253
+83.4
+Benefit from income taxes
+(3,283
+)
+(2.1
+)
+(5,247
+)
+(2.9
+)
+1,964
+37.4
+Net (loss) income
+$
+(758
+)
+(0.5
+)
+%
+$
+(19,047
+)
+(10.6
+)
+%
+$
+18,289
+96.0
+%
+Tons shipped
+27,343
+30,821
+(3,478
+)
+(11.3
+)
+%
+Sales dollars per shipped ton
+$
+5,703
+$
+5,831
+$
+(128
+)
+(2.2
+)
+%
+Market Segment Information:
+For the years ended December 31,
+(dollars in thousands)
+Amount
+Percentage
+of net sales
+Amount
+Percentage
+of net sales
+Dollar
+variance
+Percentage
+variance
+Net sales:
+Service centers
+$
+110,404
+70.8
+%
+$
+126,122
+70.2
+%
+$
+(15,718
+)
+(12.5
+)
+%
+Original equipment manufacturers
+15,011
+9.6
+20,783
+11.5
+(5,772
+)
+(27.8
+)
+Rerollers
+17,058
+11.0
+15,928
+8.9
+1,130
+7.1
+Forgers
+11,835
+7.6
+14,244
+7.9
+(2,410
+)
+(16.9
+)
+Conversion services and other sales
+1,626
+1.0
+2,654
+1.5
+(1,028
+)
+(38.7
+)
+Total net sales
+$
+155,934
+100.0
+%
+$
+179,731
+100.0
+%
+$
+(23,797
+)
+(13.2
+)
+%
+Melt Type Information:
+For the years ended December 31,
+(dollars in thousands)
+Amount
+Percentage
+of net sales
+Amount
+Percentage
+of net sales
+Dollar
+variance
+Percentage
+variance
+Net sales:
+Specialty alloys
+$
+127,885
+82.0
+%
+$
+141,838
+78.9
+%
+$
+(13,953
+)
+(9.8
+)
+%
+Premium alloys
+26,423
+17.0
+35,239
+19.6
+(8,816
+)
+(25.0
+)
+Conversion services and other sales
+1,626
+1.0
+2,654
+1.5
+(1,028
+)
+(38.7
+)
+Total net sales
+$
+155,934
+100.0
+%
+$
+179,731
+100.0
+%
+$
+(23,797
+)
+(13.2
+)
+%
+The majority of our products are sold to service centers rather than the ultimate end market customers. The end market information in this Annual Report is our estimate based upon our knowledge of our customers and the grade of material sold to them, which they will in-turn sell to the ultimate end market customer.
+End Market Information:
+For the years ended December 31,
+(dollars in thousands)
+Amount
+Percentage
+of net sales
+Amount
+Percentage
+of net sales
+Dollar
+variance
+Percentage
+variance
+Net sales:
+Aerospace
+$
+91,546
+58.7
+%
+$
+121,900
+67.8
+%
+$
+(30,354
+)
+(24.9
+)
+%
+Power generation
+4,634
+3.0
+6,879
+3.8
+(2,245
+)
+(32.6
+)
+Oil and gas
+15,106
+9.7
+13,065
+7.3
+2,041
+15.6
+Heavy equipment
+34,010
+21.8
+22,400
+12.5
+11,610
+51.8
+General industrial, conversion services and other sales
+10,637
+6.8
+15,487
+8.6
+(4,850
+)
+(31.3
+)
+Total net sales
+$
+155,934
+100.0
+%
+$
+179,731
+100.0
+%
+$
+(23,797
+)
+(13.2
+)
+%
+Net sales:
+Net sales for the year ended December 31, 2021 decreased $23.8 million, or 13.2%, compared to 2020. The decrease in our sales is primarily due to a decrease in consolidated tons shipped driven by lower business activity as a result of significant challenges facing all our end markets caused primarily by the COVID-19 pandemic. The most significant impact on our business has been the slowdown in the global commercial airline industry, which is the largest driver of the decline in sales for our aerospace end market. The average total sales dollars per shipped ton also decreased due to a lower mix of premium products in 2021 compared with the prior year.
+Gross margin:
+Our 2021 gross margin was 5.1% of net sales, improved from a negative 1.5% gross margin in 2020. The negative margin in 2020 was primarily due to the impacts of the COVID-19 pandemic, including direct charges recorded to the Cost of products sold as a result of low activity levels. Although low activity levels continued in 2021, the improvement in gross margin reflects lower plant spending, improvements in our production costs, and increases in activity levels at our facilities during 2021 compared with the second half of 2020.
+Selling, general and administrative expenses:
+Our selling, general and administrative (“SG&A”) expenses consist primarily of employee costs including salaries, incentive compensation, payroll taxes and benefit related costs, legal and accounting services, share compensation and insurance costs. Our SG&A expenses increased by $0.5 million in 2021 due primarily to an increase in accruals for incentive compensation.
+Interest expense and deferred financing amortization:
+Our interest expense was $2.0 million in 2021 compared to $2.8 million in 2020 due to lower total average debt balances for the majority of the current year, lower interest rates on our variable rate debt, and payoff of the higher-interest rate notes in the first quarter of 2021.
+Gain on extinguishment of debt
+2021 included a book gain of $10.0 million recorded upon receipt of forgiveness of the Company’s PPP Term Note (as defined below).
+Other income:
+Other income was $0.4 million in 2021 compared to $1.1 million in 2020. The decrease is related to lower insurance recoveries during the current year.
+Benefit from income taxes:
+The 2021 income tax benefit is $3.3 million compared to an income tax benefit of $5.2 million in 2020. The difference is primarily due to a lower taxable loss in 2021 compared to the prior year.
+Net loss:
+We had a net loss of $0.8 million in 2021 compared to a net loss of $19.0 million in 2020. The decrease in the net loss reflects our better gross margin in the current year, plus the $10.0 million gain recorded on forgiveness of our PPP Term Note.
+2020 Results Compared to 2019
+For the years ended December 31,
+(dollars in thousands, except per
+shipped ton information)
+Amount
+Percentage of net sales
+Amount
+Percentage of net sales
+Dollar / ton
+variance
+Percentage
+variance
+Total net sales
+179,731
+100.0
+243,007
+100.0
+(63,276
+)
+(26.0
+)
+Cost of products sold
+182,387
+101.5
+215,369
+88.6
+(32,982
+)
+(15.3
+)
+Gross margin
+(2,656
+)
+(1.5
+)
+27,638
+11.4
+(30,294
+)
+(109.6
+)
+Selling, general and administrative expenses
+19,752
+11.0
+20,347
+8.4
+(595
+)
+(2.9
+)
+Operating (loss) income
+(22,408
+)
+(12.5
+)
+7,291
+3.0
+(29,699
+)
+(407.3
+)
+Interest expense
+2,784
+1.5
+3,765
+1.5
+(981
+)
+(26.1
+)
+Deferred financing amortization
+0.1
+0.1
+(2
+)
+(0.9
+)
+Other (income), net
+(1,123
+)
+(0.6
+)
+(474
+)
+(0.2
+)
+(649
+)
+136.9
+(Loss) income before income taxes
+(24,294
+)
+(13.5
+)
+3,773
+1.6
+(28,067
+)
+(743.9
+)
+Benefit from income taxes
+(5,247
+)
+(2.9
+)
+(502
+)
+(0.2
+)
+4,745
+945.2
+Net loss
+$
+(19,047
+)
+(10.6
+)
+%
+$
+4,275
+1.8
+%
+$
+(23,322
+)
+(545.5
+)
+%
+Tons shipped
+30,821
+41,462
+(10,641
+)
+(25.7
+)
+%
+Sales dollars per shipped ton
+$
+5,831
+$
+5,861
+$
+(30
+)
+(0.5
+)
+%
+Market Segment Information:
+For the years ended December 31,
+(dollars in thousands)
+Amount
+Percentage of net sales
+Amount
+Percentage of net sales
+Dollar
+variance
+Percentage
+variance
+Net sales:
+Service centers
+$
+126,122
+70.2
+%
+$
+166,327
+68.4
+%
+$
+(40,205
+)
+(24.2
+)
+%
+Original equipment manufacturers
+20,783
+11.5
+24,731
+10.2
+(3,948
+)
+(16.0
+)
+Rerollers
+15,928
+8.9
+27,236
+11.2
+(11,308
+)
+(41.5
+)
+Forgers
+14,244
+7.9
+20,444
+8.4
+(6,200
+)
+(30.3
+)
+Conversion services and other sales
+2,654
+1.5
+4,269
+1.8
+(1,615
+)
+(37.8
+)
+Total net sales
+$
+179,731
+100.0
+%
+$
+243,007
+100.0
+%
+$
+(63,276
+)
+(26.0
+)
+%
+Melt Type Information:
+For the years ended December 31,
+(dollars in thousands)
+Amount
+Percentage of net sales
+Amount
+Percentage of net sales
+Dollar
+variance
+Percentage
+variance
+Net sales:
+Specialty alloys
+$
+141,838
+78.9
+%
+$
+201,120
+82.7
+%
+$
+(59,282
+)
+(29.5
+)
+%
+Premium alloys
+35,239
+19.6
+37,618
+15.5
+(2,379
+)
+(6.3
+)
+Conversion services and other sales
+2,654
+1.5
+4,269
+1.8
+(1,615
+)
+(37.8
+)
+Total net sales
+$
+179,731
+100.0
+%
+$
+243,007
+100.0
+%
+$
+(63,276
+)
+(26.0
+)
+%
+The majority of our products are sold to service centers rather than the ultimate end market customers. The end market information in this Annual Report is our estimate based upon our knowledge of our customers and the grade of material sold to them, which they will in-turn sell to the ultimate end market customer.
+End Market Information:
+For the years ended December 31,
+(dollars in thousands)
+Amount
+Percentage of net sales
+Amount
+Percentage of net sales
+Dollar
+variance
+Percentage
+variance
+Net sales:
+Aerospace
+$
+121,900
+67.8
+%
+$
+170,445
+70.1
+%
+$
+(48,545
+)
+(28.5
+)
+%
+Power generation
+6,879
+3.8
+11,530
+4.7
+(4,651
+)
+(40.3
+)
+Oil and gas
+13,065
+7.3
+25,023
+10.3
+(11,958
+)
+(47.8
+)
+Heavy equipment
+22,400
+12.5
+22,725
+9.4
+(325
+)
+(1.4
+)
+General industrial, conversion services and other sales
+15,487
+8.6
+13,284
+5.5
+2,203
+16.6
+Total net sales
+$
+179,731
+100.0
+%
+$
+243,007
+100.0
+%
+$
+(63,276
+)
+(26.0
+)
+%
+Net sales:
+Net sales for the year ended December 31, 2020 decreased $63.3 million, or 26.0%, compared to 2019. The decrease in our sales was primarily due to a decrease in consolidated tons shipped driven by lower business activity as a result of significant challenges facing all our end markets caused primarily by the COVID-19 pandemic. The most significant impact on our business was the slowdown in the global commercial airline industry, which was the largest driver of the decline in sales for our aerospace end market.
+Gross margin:
+Our 2020 gross margin was negative 1.5% of net sales, down from 11.4% of net sales in 2019. The decrease was primarily due to the impacts of the COVID-19 pandemic, including direct charges recorded to the income statement as a result of low activity levels in our production facilities, and an unfavorable change in product mix away from higher-margin finished products to semi-finished plate and billet products.
+Selling, general and administrative expenses:
+Our SG&A expenses consist primarily of employee costs including salaries, incentive compensation, payroll taxes and benefit related costs, legal and accounting services, share compensation and insurance costs. Our SG&A expenses decreased by $0.6 million in 2020 due to cost reduction initiatives enacted in the second half of 2020 in response to our decrease in volume.
+Interest expense and deferred financing amortization:
+Our interest expense was $2.8 million in 2020 compared to $3.8 million in 2019 due in part to lower total debt balances year over year and due in part to lower interest rates on our variable rate debt. The interest rates on our variable rate debt under our Credit Agreement, which is described further below under “Liquidity and Capital Resources - Credit Facility,” are primarily determined by a LIBOR-based rate plus an applicable margin, and the LIBOR rate was lower in 2020 compared to 2019.
+Other income:
+Other income was $1.1 million in 2020 compared to $0.5 million in 2019. The increase is related to increased insurance recoveries during 2020.
+(Benefit) from income taxes:
+The 2020 income tax benefit is $5.2 million compared to a 2019 income tax benefit of $0.5 million. The difference is primarily due to our 2020 pretax loss.
+Net (loss) income:
+We had a net loss of $19.0 million in 2020 compared to net income of $4.3 million in 2019 due to the significant decrease in sales volume and the direct charges due to lower plant activity in 2020.
+Liquidity and Capital Resources
+Historically, we have financed our operations through cash provided by operating activities and borrowings on our credit facilities. At December 31, 2021, we maintained approximately $24.0 million of remaining availability under our revolving credit facility. We believe that our cash flows from continuing operations, as well as available borrowings under our credit facility, are adequate to satisfy our working capital, capital expenditure requirements, and other contractual obligations for the foreseeable future, including at least the next 12 months.
+Net cash (used in) provided by operating activities
+During 2021, we used $18.0 million of cash in our operating activities. Net loss adjusted for non-cash expenses generated $6.4 million, while we used $24.9 million growing our managed working capital, defined as net accounts receivable plus net inventory, minus accounts payable and other current liabilities. The primary component of working capital growth was the $31.0 of cash used to grow inventory in support of our record backlog.
+During 2020, we generated $23.8 million of cash from our operating activities. Net loss adjusted for non-cash expenses used $3.4 million of cash while our managed working capital, defined as net accounts receivable plus net inventory, minus accounts payable and other current liabilities, generated $27.1 million of cash. The decrease in managed working capital is the direct result of our reduced spending and inventory management, and focused cash collections activities.
+Net cash used in investing activities
+Our capital spending was $11.1 million in 2021 compared to $9.2 million during 2020. The prior year capital spending was low due to spend reduction efforts, and the increase in 2021 was driven by our strategic projects to expand our premium melt capabilities, including the acquisition of a new vacuum arc remelting furnace and a larger vacuum induction melting crucible.
+Net cash provided by (used in) financing activities
+During 2021, our financing activities provided $29.0 million of cash. This primarily includes $46.1 million of proceeds from the facilities provided by our Credit Agreement, partly offset by payoff of the $15.0 million North Jackson acquisition notes.
+The financing activities included the impacts of amending our Credit Agreement in the first quarter of 2021. Proceeds from the Term Loan (as defined below) and borrowings under our Revolving Credit Facility (as defined below) were used to pay the $15.0 million in notes that matured during the first quarter of 2021.
+Raw materials and supplies
+The cost of raw materials represents approximately 35% of the cost of products sold in 2021. The major raw materials used in our operations include nickel, molybdenum, vanadium, chrome, iron and carbon scrap. Additionally, our Bridgeville facility uses graphite electrodes as a consumable supply in the melting process. The average price of substantially all our major raw materials, including iron, nickel, molybdenum, vanadium, and chrome, increased in 2021 compared to the prior year.
+We maintain sales price surcharge to mitigate the risk of substantial raw material cost fluctuations. The market values for these raw materials and others continue to fluctuate based on supply and demand, market disruptions and other factors. Over time, our surcharge will effectively offset changes in raw material costs; however, during a period of rising or falling prices the timing will cause variation between reporting periods.
+Credit Facility
+On March 17, 2021, we entered into the Second Amended and Restated Revolving Credit, Term Loan and Security Agreement (the “Credit Agreement”), with PNC Bank, National Association (“PNC Bank”), as administrative agent and co-collateral agent, Bank of America, N.A., as co-collateral agent, the Lenders (as defined in the Credit Agreement) party thereto from time to time and PNC Capital Markets LLC, as sole lead arranger and sole bookrunner. The Credit Agreement replaces our prior Credit Agreement, and provides for a senior secured revolving credit facility in an aggregate principal amount not to exceed $105.0 million (“Revolving Credit Facility”) and a senior secured term loan facility (“Term Loan”) in the amount $15.0 million (together with the Revolving Credit Facility, the “Facilities”).
+The Company was in compliance with all applicable covenants throughout 2021 and at December 31, 2021.
+The Facilities, which expire on March 17, 2026 (the “Expiration Date”), are collateralized by a first lien on substantially all of the assets of the Company and its subsidiaries, except that no real property is collateral under the Facilities other than Company’s real property in North Jackson, Ohio.
+Availability under the Credit Agreement is based on eligible accounts receivable and inventory. The Company must maintain undrawn availability under the Credit Agreement of at least $11.0 million. That requirement can be overcome if the Company maintains a fixed charge coverage ratio of not less than 1.10 to 1.0 measured on a rolling two-quarter basis and calculated in accordance with the terms of the Credit Agreement.
+The Company is required to pay a commitment fee of 0.25% based on the daily unused portion of the Revolving Credit Facility.
+With respect to the Term Loan, the Company must pay quarterly installments of the principal of approximately $0.5 million, plus accrued and unpaid interest, on the first day of each fiscal quarter beginning on June 30, 2021. To the extent not previously paid, the Term Loan will become due and payable in full on the Expiration Date.
+Amounts outstanding under the Facilities, at the Company’s option, will bear interest at either a base rate or a LIBOR based rate, in either case calculated in accordance with the terms of the Credit Agreement. Interest under the Credit Agreement is payable monthly. We elected to use the LIBOR based rate for the majority of the debt outstanding under the Facilities during 2021. At December 31, 2021, the LIBOR based rate was 2.61% on our Revolving Credit Facility and 3.10% for the Term Loan.
+We incurred $0.5 million in additional financing costs in conjunction with the execution of the Credit Agreement, which were recorded to the Consolidated Balance Sheet in the first quarter of 2021 and will be amortized to interest expense over the life of the Credit Agreement. We did not record any additional deferred financing costs to the Consolidated Balance Sheet during 2020.
+At December 31, 2021 and 2020, we had net Credit Agreement related deferred financing costs of approximately $0.9 million and $0.5 million, respectively. We amortized $0.2 million of those deferred financing costs during each of the years ended December 31, 2021 and 2020.
+Paycheck Protection Program Note
+On April 16, 2020, the Company entered into a promissory note, dated April 15, 2020, with PNC Bank, National Association, evidencing an unsecured loan with a principal amount of $10.0 million made to the Company pursuant to the Paycheck Protection Program (the “PPP Term Note”) under the Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”). The PPP Term Note is guaranteed by the United States Small Business Administration.
+The PPP Term Note incurred interest at a fixed annual rate of 1.00%, with the first six months of interest deferred. According to the terms of the PPP Term Note, the Company would begin to make 18 equal monthly payments of principal and interest in November 2020 with the final payment due in April 2022. The Company did not make any principal or interest payments related to the PPP Term Note.
+The proceeds could be used to maintain payroll or make certain covered interest payments, lease payments and utility payments. Under the terms of the CARES Act, the Company was eligible for forgiveness for all or a portion of loan granted under the PPP, with such forgiveness to be determined, subject to limitations, based on the use of the loan proceeds for payment of payroll costs and any payments of certain covered interest, lease and utility payments.
+The Company applied for forgiveness of the PPP Term Note during the third quarter of 2020. In July 2021, PNC Bank notified the Company that forgiveness of the note was granted by the United States Small Business Administration. Accordingly, the PPP Term Note was forgiven in its entirety, including all related accrued interest. In the third quarter of 2021, we recognized forgiveness of the PPP Term Note and recorded a corresponding gain on extinguishment of debt in the Consolidated Statement of Operations for the period.
+Notes
+In connection with the acquisition of the North Jackson facility in 2011, we issued $20.0 million in Notes to the sellers of the facility as partial consideration in the transaction.
+On January 21, 2016, the Company entered into Amended and Restated Notes in the aggregate principal amount of $20.0 million (the “Notes”), each in favor of Gorbert Inc. (“Holder”). The Company’s obligations under the Notes were collateralized by a second lien on the same assets of the Company that collateralize the obligations of the Company under the Facilities. The Holder had the right to elect at any time on or prior to August 17, 2017 to convert all or any portion of the outstanding principal amount of the Notes.
+The Notes were originally scheduled to mature on March 17, 2019. In 2019, the Company extended the maturity date to March 17, 2020 in accordance with the terms of the Notes. In 2020, the Company extended the maturity date to March 17, 2021 in accordance with the terms of the Notes. The Company made partial principal payments on the notes upon extension, and an aggregate principal amount of $15.0 million remained outstanding at the 2021 maturity date. On March 17, 2021, the Company paid the remaining principal balance and all applicable interest to settle the notes obligation.
+The Notes had an applicable interest at a rate of 6.0% per year from August 17, 2017 until the time they were paid off. All accrued and unpaid interest was payable quarterly in arrears on September 18, December 18, March 18 and June 18 of each year.
+Leases
+The Company periodically enters into leases in its normal course of business. Operating lease liabilities and right-of-use assets are recorded to the consolidated balance sheet at the present value of minimum lease payments. The assets are included in Other long-term assets in the consolidated balance sheets and are amortized over the respective terms, which are five years or less. The long-term component of the lease liability is recorded in Other long-term liabilities, net and the current component is included in Other current liabilities.
+The right-of-use assets and lease liabilities for finance leases are recorded at the present value of minimum lease payments. The assets are included in Property, plant and equipment, net on the consolidated balance sheets and are depreciated over the respective lease terms. The long-term component of the lease liability is included in Long-term debt and the current component is included in Current portion of long-term debt.
+The Company entered into three new agreements accounted for as operating leases during 2021 and did not enter into any new agreements accounted for as a finance lease agreement during 2021.
+Share-Based Activity
+We granted stock options and restricted stock units, and issued shares of our common stock to officers, employees, and non-employee directors during 2021, 2020 and 2019 through our incentive compensation plans. Refer to Note 12 to our consolidated financial statements included in Item 8, “Financial Statements and Supplementary Data” for further information.
+Contingent Items
+Product Claims. We are subject to various claims and legal actions that arise in the normal course of conducting business. There were no material product claims outstanding at December 31, 2021.
+Environmental Matters. We, as well as other specialty metal manufacturers, are subject to demanding environmental standards imposed by federal, state and local environmental laws and regulations. We are not aware of any environmental condition that currently exists at any of our facilities that are probable or reasonably possible of having a material impact on our results of operations or liquidity. We are aware of energy usage concerns relating to climate change; however, we are not aware of any pending regulations that are expected to have a material impact on our results of operations or liquidity.
+Legal Matters. From time to time, various lawsuits and claims have been or may be asserted against us relating to the conduct of our business, including routine litigation relating to commercial and employment matters. The ultimate cost and outcome of any litigation or claim cannot be predicted with certainty. Management believes, based on information presently available, that the likelihood that the ultimate outcome of any such pending matter will have a material adverse effect on its financial condition, or liquidity or a material impact to its results of operations is remote, although the resolution of one or more of these matters may have a material adverse effect on its results of operations for the period in which the resolution occurs.
+Critical Accounting Estimates
+The Company’s revenues are primarily composed of sales of products. Revenue from the sale of products is recognized when the Company satisfies its performance obligation under a contract by transferring control of the promised product to its customer, which in most cases coincides with shipment of the related product. Certain sales qualify for over-time revenue recognition. Sales of certain specified product grades and shapes, and sales from conversion services, are recognized over-time. The Company’s identification of and accounting for these sales is discussed further in Note 2 to our consolidated financial statements included in Item 8, “Financial Statements and Supplementary Data.”
+Management regularly monitors the ability to collect its unpaid sales invoices and the valuation of its receivables. The allowance for doubtful accounts includes specific reserves for the value of outstanding invoices issued to customers that are deemed potentially not collectible.
+Inventories are stated at the lower of cost or net realizable value. The cost of inventory is principally determined by the weighted average cost method for material and operation costs. An inventory reserve is provided for material on hand for which management believes cost exceeds net realizable value. We reserve for slow-moving inventory and inventory that is being evaluated under our quality control process. The reserves are based upon management’s expected method of disposition.
+Property, Plant and Equipment (“PP&E”) is stated at historical cost or fair value at acquisition less accumulated depreciation. Depreciation is computed by the straight-line method over the estimated useful lives of the assets for book purposes. Depreciation for income tax purposes is computed using accelerated methods. Upon disposal, assets and related accumulated depreciation are removed from the financial statements and differences between the net book value and proceeds from disposal are generally included in cost of goods sold in the consolidated statement of operations. PP&E is evaluated for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable in relation to the operating performance and future undiscounted cash flows of the underlying assets. Adjustments are made if the sum of expected future cash flows is less than book value. No impairment reserve was necessary as of December 31, 2021, 2020 or 2019.
+Deferred income taxes are provided for temporary differences between amounts of assets and liabilities for financial reporting purposes and the basis of such assets and liabilities as measured by tax laws and regulations. Our deferred tax assets include net operating loss carry forwards that can be used to offset taxable income in future periods and reduce income taxes payable in those future periods. These deferred tax assets will expire, if unused, at various times beginning in 2027. Deferred tax liabilities primarily relate to book / tax depreciation differences. Management assesses the need to record a valuation allowance to reduce deferred tax assets to the amount that is more likely than not to be realized.
+The calculation for our share-based compensation expense involves several assumptions. Management believes each assumption used in the valuation is reasonable because it considers the experience of the plan and reasonable expectations. Management estimates volatility based on historical data, future expectations and the expected term of the share-based compensation awards. The assumptions, however, involve inherent uncertainties. As a result, if other assumptions had been used, share-based compensation expense could have varied.

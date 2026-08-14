@@ -1,0 +1,192 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. Some of the information contained in this discussion and analysis or set forth elsewhere in this Annual Report on Form 10-K, including information with respect to our plans and strategy for our business, includes forward looking statements that involve risks and uncertainties. As a result of many factors, including those factors set forth in the “Risk Factors” section of this Annual Report on Form 10-K, our actual results could differ materially from the results described, in or implied, by these forward-looking statements.
+We were established in the state of Delaware in August 2017 as Biomea Fusion, LLC. In December 2020, all outstanding membership interests in Biomea Fusion, LLC were converted into equity interests in Biomea Fusion, Inc. The capitalization information included in this Annual Report on Form 10-K is consistently presented as the information of Biomea Fusion, Inc., even during the prior period when our stockholders held their equity interests in Biomea Fusion, LLC.
+Overview
+We are a clinical-stage biopharmaceutical company focused on the discovery and development of irreversible covalent small molecule drugs to treat patients with genetically defined cancers and metabolic diseases. An irreversible covalent small molecule drug is a synthetic compound that forms a permanent bond to its target protein and offers a number of potential advantages over conventional reversible drugs, including greater target selectivity, lower drug exposure, and the ability to drive a deeper, more durable response. Leveraging our extensive expertise in irreversible covalent binding chemistry and development, we built our proprietary FUSION™ System discovery platform to advance a pipeline of novel irreversible covalent small molecule product candidates.
+Our lead product candidate, BMF-219, is designed to be an orally bioavailable, potent and selective irreversible covalent inhibitor of menin, an important transcriptional regulator known to play a direct role in oncogenic signaling in multiple cancers. In preclinical studies, administration of BMF-219 has resulted in robust anti-tumor responses across a range of liquid and solid tumor models and has been generally well-tolerated in animal studies. Additionally, administration of BMF-219 produced a pronounced effect in preclinical models of diabetes, normalizing glucose levels during treatment and even after drug washout. We are developing BMF-219 for the treatment of liquid and solid tumors that are highly dependent on menin, including leukemias containing the mixed lineage leukemia (MLL) fusion protein. In September 2021, we announced that the U.S. Food and Drug Administration (FDA) had cleared our investigational new drug (IND) application to begin a Phase 1 trial of BMF-219 in adult patients with relapsed or refractory acute leukemia including those with an MLL/KM2TA gene rearrangement or nucleophosmin 1 (NPM1) mutation. In December 2021, we amended our IND to include subsets of multiple myeloma (MM) and diffuse large B-Cell lymphoma (DLBCL) patients. It has been shown that menin is a key node in regulating the activity of MYC, a key oncogenic driver in many MM and DLBCL patients. Our preclinical data shows that BMF-219 can strongly down-regulate MYC gene activity and/or cell growth/viability in these tumor types. In January 2022, we announced that, subject to the submission and clearance of additional INDs, we plan to initiate clinical trials that further the development of BMF-219 in up to seven distinct cancer indications as well as in diabetes.
+Beyond BMF-219, we are utilizing our novel platform to develop irreversible covalent treatments against other high-value oncogenic drivers of cancer and expect to nominate our second development candidate in the first half of 2022. Additionally, we expect to provide an update on progress for our third development candidate in 2022. Our goal is to utilize our capabilities and platform to become a leader in developing irreversible covalent small molecules in order to maximize the depth and durability of clinical benefit when treating various cancers.
+Since commencing operations in 2017, we have devoted substantially all of our efforts and financial resources to conducting research and development activities, including drug discovery and preclinical studies, establishing and maintaining our intellectual property portfolio, the manufacturing of clinical and research material, organizing and staffing our company, business planning, raising capital and providing general and administrative support for these operations. We have not generated any revenue from product sales and, as a result, we have never been profitable and have incurred net losses since commencement of our operations.
+As of December 31, 2021, we had an accumulated deficit of $49.7 million. We incurred net losses of $41.6 million and $5.3 million for the years ended December 31, 2021 and December 31, 2020, respectively. We expect to continue to incur significant expenses and increasing operating losses for the foreseeable future, and our net
+losses may fluctuate significantly from period to period, depending on the timing of and expenditures on our planned research and development activities.
+We do not expect to generate revenue from product sales unless and until we obtain regulatory approval for and commercialize a product candidate, and we cannot assure you that we will ever generate significant revenue or profits. We expect that our expenses will continue to increase for the foreseeable future. We expect to continue to incur significant losses for the foreseeable future, and we expect these losses to increase substantially if and as we:
+•
+continue our research and development efforts and submit additional INDs;
+•
+conduct preclinical studies and initiate and conduct clinical trials;
+•
+seek marketing approvals for any product candidates that successfully complete clinical trials;
+•
+experience any delays or encounter any issues with any of the above, including but not limited to failed studies, complex results, safety issues or other regulatory challenges;
+•
+establish a sales, marketing and distribution infrastructure and scale-up manufacturing capabilities, whether alone or with third parties, to commercialize any product candidates for which we may obtain regulatory approval, if any;
+•
+obtain, expand, maintain, enforce and protect our intellectual property portfolio;
+•
+hire additional clinical, regulatory and scientific personnel; and
+•
+operate as a public company.
+We may need to raise additional capital in the future to fund our operations, including to conduct and complete clinical trials for any product candidates. If sufficient funds on acceptable terms are not available when needed, we could be required to significantly reduce our operating expenses and delay, reduce the scope of, or eliminate one or more of our development programs.
+We currently rely, and expect to continue to rely, on third parties for the manufacture of our product candidates. All of our product candidates are small molecules and are manufactured in synthetic processes from available or custom synthesized starting materials. The chemistry is scalable and uses commonly available pharmaceutical equipment in the manufacturing process. We expect to continue to develop product candidates that can be produced cost-effectively at contract manufacturing facilities. In addition, we do not yet have a marketing or sales organization or commercial infrastructure. Accordingly, we will incur significant expenses to develop a marketing and sales organization and commercial infrastructure in advance of generating any product sales.
+In April 2021, we completed our initial public offering (IPO) and issued an aggregate of 9,000,000 shares of our common stock at a price of $17.00 per share. Subsequent to the close, an additional 823,532 shares were issued in connection with the partial exercise by the underwriters of their option to purchase additional shares of common stock. In addition, immediately prior to the closing of the IPO, all outstanding shares of our convertible preferred stock automatically converted into 7,064,925 shares of common stock. Proceeds from the IPO, net of underwriting discounts and commissions and offering costs were $152.8 million.
+The global COVID-19 pandemic continues to evolve rapidly, and we will continue to monitor it closely. The extent of the impact of the ongoing COVID-19 pandemic on our business, operations, and product development timelines and plans remains uncertain and will depend on certain developments, including the duration and spread of the outbreak and its impact on our clinical trial enrollment, trial sites, contract research organizations (CROs), contract manufacturing organizations (CMOs), and other third parties with whom we do business, as well as its impact on regulatory authorities and our key scientific and management personnel. We have not experienced delays in our discovery and development activities as a result of the ongoing COVID-19 pandemic, but may in the future as some of our CROs and other service providers continue to be impacted.
+Components of Operating Results
+Revenue
+To date, we have not generated any revenue and do not expect to generate any revenue from the sale of products in the near future.
+Operating Expenses
+Research and Development
+Our research and development expenses consist primarily of external and internal costs incurred in connection with the research and development of our research programs and product candidates.
+External costs include:
+•
+expenses incurred under agreements with third-party CMOs, CROs, research and development service providers, academic research institutions and consulting costs; and
+•
+laboratory expenses, including supplies and services.
+Internal costs include:
+•
+personnel-related expenses, including salaries, benefits and stock-based compensation for personnel in research and product development roles; and
+•
+facilities and other allocated expenses, including expenses for rent and facilities maintenance, and amortization.
+We expense research and development costs in the periods in which they are incurred. Nonrefundable advance payments for goods or services to be received in future periods for use in research and development activities are deferred and capitalized. The capitalized amounts are then expensed as the related goods are delivered and as services are performed. We track direct costs by stage of program, clinical or preclinical. However, we do not track indirect costs on a program specific or stage of program basis because these costs are deployed across multiple programs and, as such, are not separately classified.
+We expect our research and development expenses to increase substantially during the next few years as we seek to initiate and complete clinical trials, pursue regulatory approval of BMF-219, and advance other programs through preclinical and clinical development. Predicting the timing or the final cost to complete our clinical program or validation of our manufacturing and supply processes is difficult and delays may occur because of many factors. The process of conducting the necessary preclinical and clinical research to obtain regulatory approval is costly and time-consuming. To the extent that our product candidates continue to advance into clinical trials, as well as advance into larger and later stage clinical trials, our expenses will increase substantially and may become more variable.
+Our future research and development costs may vary significantly based on a wide variety of factors, such as:
+•
+the scope, rate of progress, expense and results of preclinical development activities, as well as of any future clinical trials of our product candidates, and other research and development activities we may conduct;
+•
+uncertainties in clinical trial design;
+•
+per patient trial costs;
+•
+the number of trials required for approval;
+•
+the number of sites included in the trials;
+•
+the number of patients that participate in the trials;
+•
+the countries in which the trials are conducted;
+•
+the length of time required to enroll eligible patients;
+•
+the drop-out or discontinuation rates of patients, particularly in light of the ongoing COVID-19 pandemic environment;
+•
+the safety and efficacy profiles of our product candidates;
+•
+the timing receipt, and terms of any approvals from applicable regulatory authorities including the FDA and non-U.S. regulators;
+•
+maintaining a continued acceptable safety profile of our product candidates following approval, if any, if any of our product candidates;
+•
+significant and changing government regulation and regulatory guidance;
+•
+establishing clinical and commercial manufacturing capabilities or making arrangements with third-party manufacturers in order to ensure that we or our third-party manufacturers are able to make product successfully;
+•
+the impact of any business interruptions to our operations or to those of the third parties with whom we work, particularly considering the ongoing COVID-19 pandemic environment; and
+•
+the extent to which we establish additional strategic collaborations or other arrangements.
+A change in the outcome of any of these variables with respect to the development of any or our product candidates could significantly change the costs and timing associated with the development of that product candidate. The actual probability of success for our product candidates may be affected by a variety of factors, including the safety and efficacy of our product candidates, investment in our clinical programs, manufacturing capability and competition with other products. As a result of these variables, we are unable to determine the duration and completion costs of our research and development projects or when and to what extent we will generate revenue from the commercialization and sale of our product candidates. We may never succeed in achieving regulatory approval for any of our product candidates.
+General and Administrative
+General and administrative expenses consist principally of personnel-related costs including payroll and stock-based compensation expense for personnel in executive, finance, human resources, business and corporate development, and other administrative functions, professional fees for legal, consulting, and accounting services, rent and other facilities costs, depreciation, and other general operating expenses not otherwise classified as research and development expenses.
+We anticipate that our general and administrative expenses will increase substantially during the next few years as a result of staff expansion and additional occupancy costs, as well as costs associated with being a public company, including compliance with the rules and regulations of the SEC and those of any national securities exchange on which our securities are traded, higher legal and auditing fees, investor relations costs, higher insurance premiums and other compliance costs associated with being a public company. We also expect that our future intellectual property expenses may increase as we expand our product portfolio of product candidates due to advances in our research and development programs.
+Interest and Other Income (Loss), Net
+Other income consists primarily of interest earned on our investments and non-cash interest income (loss) related to accretion (amortization) of the discount (premium) on marketable securities.
+Results of Operations
+Comparison of the Years Ended December 31, 2021 and 2020
+The following table summarizes our results of operations for the periods indicated (in thousands):
+Research and Development Expenses
+The following table summarizes our research and development expenses incurred during the periods indicated (in thousands):
+Research and development expenses were $28.0 million for the year ended December 31, 2021, compared to $3.7 million for the year ended December 31, 2020. The increase of $24.3 million was primarily due to an increase in personnel-related expenses, as well as an increase in preclinical and clinical development costs, including manufacturing and external consulting, related to our lead product candidate, BMF-219.
+General and Administrative Expenses
+General and administrative expenses were $13.7 million for the year ended December 31, 2021, compared to $1.7 million for the year ended December 31, 2020. The increase of $12.0 million was primarily due to increased personnel-related expenses and other corporate costs to support our expanding operations, including legal and accounting, as well as additional costs we have incurred as a public company.
+Interest and Other Income (Loss), Net
+Interest and other income (loss), net was $0.1 million for the year ended December 31, 2021 compared to $3,000 for the year ended December 31, 2020. The increase of $0.1 million was primarily due to interest earned from higher cash and investment balances.
+Comparison of the Years Ended December 31, 2020 and 2019
+The following table summarizes our results of operations for the periods indicated (in thousands):
+Research and Development Expenses
+The following table summarizes our research and development expenses incurred during the periods indicated (in thousands):
+Research and development expenses were $3.7 million for the year ended December 31, 2020, compared to $1.1 million for the year ended December 31, 2019. The increase of $2.6 million was primarily due to an increase in preclinical development costs including manufacturing and external consulting costs related to our IND-enabling studies for BMF-219.
+General and Administrative Expenses
+General and administrative expenses were $1.7 million for the year ended December 31, 2020, compared to $0.1 million for the year ended December 31, 2019. The increase of $1.6 million was primarily due to increased personnel-related expenses as a result of additional headcount in 2020 in the amount of $1.1 million and increased professional services expenses, including legal and accounting, in the amount of $0.2 million.
+Liquidity and Capital Resources
+Liquidity
+We have funded our operations primarily through the sale and issuance of shares of our common and convertible preferred stock from inception through December 2020. In April 2021, we completed our IPO and issued an aggregate of 9,000,000 shares of our common stock at a price of $17.00 per share. Following the close of the IPO, an additional 823,532 shares were issued in connection with the partial exercise by the underwriters of their option to purchase additional shares of common stock. Proceeds from the IPO, net of underwriting discounts and commissions and offering costs, were $152.8 million.
+As of December 31, 2021, we had cash, cash equivalents, restricted cash, and investments of $175.7 million. As of December 31, 2021, we had an accumulated deficit of $49.7 million. Based on our current business plan, we believe that our existing cash and cash equivalents will provide sufficient resources to meet our working capital and capital expenditure needs into 2024.
+Future Funding Requirements
+We will continue to require additional capital to develop our product candidates and fund operations for the foreseeable future. We may seek to raise capital through private or public equity or debt financings, collaborative or other arrangements with corporate sources, or through other sources of financing. Adequate additional funding may not be available to us on acceptable terms or at all. Our failure to raise capital as and when needed could have a negative impact on our financial condition and our ability to pursue our business strategies. We anticipate that we will need to raise substantial additional capital, the requirements of which will depend on many factors, including:
+•
+the scope, timing, progress, duration, costs and results of our drug discovery, preclinical development activities, laboratory testing and clinical trials for our product candidates;
+•
+the number and scope of clinical programs we decide to pursue;
+•
+the scope and costs of manufacturing development and commercial manufacturing activities;
+•
+the extent to which we discover and develop additional product candidates;
+•
+the cost, timing and outcome of regulatory review of our product candidates;
+•
+the cost and timing of establishing sales and marketing capabilities, if any of our product candidates receive marketing approval;
+•
+the costs of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property rights and defending intellectual property-related claims;
+•
+our ability to establish and maintain collaborations on favorable terms, if at all;
+•
+licensing, or other arrangements into which we may enter in the future, including the timing of receipt of any milestone or royalty payments under these agreements;
+•
+the timing, receipt and amount of sales from our potential products;
+•
+our need and ability to hire additional management, scientific and medical personnel;
+•
+our need to implement additional internal systems and infrastructure, including financial and reporting systems;
+•
+our efforts to enhance operational systems and our ability to attract, hire and retain qualified personnel, including personnel to support the development of our product candidates;
+•
+the costs associated with being a public company;
+•
+the cost associated with commercializing our product candidates, if they receive regulatory approval;
+•
+our ability to establish and maintain strategic collaborations and other similar partnerships for the development and commercialization of our product candidates; and
+•
+the impact of the ongoing COVID-19 pandemic, which may exacerbate the magnitude of the factors discussed above.
+If we raise additional funds by issuing equity securities, our stockholders may experience dilution. Any future debt financing into which we enter may impose upon us additional covenants that restrict our operations, including limitations on our ability to incur liens or additional debt, pay dividends, repurchase our common stock, make certain investments and engage in certain merger, consolidation or asset sale transactions. Any debt financing or additional equity that we raise may contain terms that are not favorable to us or our stockholders. If we are unable to raise additional funds when needed, we may be required to delay, reduce, or terminate some or all of our development programs and clinical trials. We may also be required to sell or license to others rights to our product candidates in certain territories or indications that we would prefer to develop and commercialize ourselves.
+See the section of this Annual Report on Form 10-K titled “Risk Factors” for additional risks associated with our substantial capital requirements.
+Summary Statement of Cash Flows
+The following table sets forth the primary sources and uses of cash, cash equivalents and restricted cash for each of the periods presented below (in thousands):
+Net Cash Used in Operating Activities
+Net cash used in operating activities was $35.4 million for the year ended December 31, 2021. Cash used in operating activities in 2021 was mainly the result of the net loss of $41.6 million and increase in prepaid expenses and other assets of $3.7 million. This was offset by an increase in accounts payable and accrued liabilities of $2.8 million and stock-based compensation expense of $6.2 million.
+Net cash used in operating activities was $4.5 million for the year ended December 31, 2020. Cash used in operating activities in 2020 was primarily due to the use of funds in our operations and the resulting net loss of $5.3 million, offset by an aggregate increase in our accounts payable and accrued liabilities balance of $1.0 million.
+Net cash used in operating activities was $1.3 million for the year ended December 31, 2019. Cash used in operating activities in 2019 was primarily due to the use of funds in our operations and the resulting net loss of $1.2 million.
+Net Cash Used in Investing Activities
+Net cash used in investing activities was $33.4 million for the year ended December 31, 2021. Cash used in investing activities in 2021 was mainly related to cash investments in securities and purchases of property and equipment.
+Net cash used in investing activities was $51,000 for the year ended December 31, 2020. Cash used in investing activities in 2020 was mainly related to purchases of property and equipment.
+Net Cash Provided by Financing Activities
+Net cash provided by financing activities was $153.2 million for the year ended December 31, 2021. This was primarily related to $152.8 million of net proceeds received from the issuance of common stock from our initial public offering.
+Net cash provided by financing activities was $66.0 million for the year ended December 31, 2020, which consisted of $10.2 million of net proceeds from the issuance and sale of shares of our common stock, and $55.7 million of net proceeds from the issuance and sale of shares of our convertible preferred stock.
+Net cash provided by financing activities was $1.4 million for the year ended December 31, 2019 which consisted of net proceeds from the issuance and sale of shares of our common stock.
+Obligations and Commitments
+(1)
+Payments due for our lease of office, laboratory and manufacturing spaces in Redwood City and San Carlos, California. Amount above exclude future rent payment of $2.2 million for one of our leases that is expected to commence in September 2022. The payments represent gross operating lease obligations for all of our leases that have commenced.
+In addition, we enter into agreements in the normal course of business with CROs, CMOs, and other vendors for the research and development services for operating purposes, which are generally cancelable upon written notice. These payments are not included in this table of contractual obligations.
+Critical Accounting Policies, Significant Judgments and Use of Estimates
+Our financial statements have been prepared in accordance with U.S. generally accepted accounting principles (GAAP). The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as expenses incurred during the reporting periods. Our estimates are based on our historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates.
+Research and Development Expenses
+Research and development costs are expensed as incurred. Research and development expenses consist primarily of personnel costs for our research and product development employees. Also included are non-personnel costs such as fees payable to third parties for preclinical studies and research services, laboratory supplies, equipment maintenance, and other consulting costs.
+We record accruals for estimated costs of research, preclinical studies, clinical trials, and manufacturing, which are significant components of research and development expenses. A substantial portion of our ongoing research and development activities is conducted by third-party service providers, CROs and CMOs. Our contracts with the CMOs generally include fees such as initiation fees, reservation fees, costs related to animal studies and safety tests, verification run costs, materials and reagents expenses, taxes, etc. Our contracts with CROs generally include pass-through fees such as regulatory expenses, investigator fees, travel costs and other miscellaneous costs, including shipping and printing fees. The financial terms of these contracts are subject to negotiations, which vary from contract to contract and may result in payment flows that do not match the periods over which materials or services are provided to us under such contracts. We accrue the costs incurred under agreements with these third parties based on estimates of actual work completed in accordance with the respective agreements. We determine the estimated costs through discussions with internal personnel and external service providers as to the progress, or stage of completion or actual timeline (start-date and end-date) of the services
+and the agreed-upon fees to be paid for such services. In the event we make advance payments, the payments are recorded as a prepaid expense and recognized as the services are performed.
+Stock-Based Compensation
+We measure stock options and other stock-based awards granted to directors, employees and non-employees based on their fair value on the date of the grant and recognize the corresponding compensation expense of those awards over the requisite service period, which is generally the vesting period of the respective award. We have only issued stock options and restricted share awards with service-based vesting conditions and record the expense for these awards using the straight-line method. We determine the fair value of restricted stock awards granted based on the fair value of our common stock. Forfeitures are accounted for as they occur.
+We estimate the fair value of each stock option grant using the Black-Scholes option pricing model, which uses as inputs the following assumptions:
+•
+Fair value of common stock - See the subsection titled “Fair Value of Common Stock” below.
+•
+Expected term - The expected term represents the period that the stock-based awards are expected to be outstanding. We use the simplified method to determine the expected term, which is based on the average of the time-to-vesting and the contractual life of the options.
+•
+Expected volatility - Because we have been privately held and do not have any trading history for our common stock, the expected volatility was estimated based on the average volatility for comparable publicly traded biotechnology companies over a period equal to the expected term of the stock option grants. The comparable companies were chosen based on the similar size, stage in life cycle or area of specialty. We will continue to take this approach until a sufficient amount of historical information regarding the volatility of our own stock price becomes available.
+•
+Risk-free interest rate - The risk-free interest rate is based on the U.S. Treasury zero coupon issues in effect at the time of grant for periods corresponding with the expected term of the awards.
+•
+Dividend yield - We have never paid dividends on our common stock and have no plans to pay dividends on our common stock. Therefore, we used an expected dividend yield of zero.
+Assumptions we used in applying the Black-Scholes option-pricing model to determine the estimated fair value of our stock options granted involve inherent uncertainties and the application of significant judgment. As a result, if factors or expected outcomes change and we use significantly different assumptions or estimates, our equity-based compensation could be materially different.
+Fair Value of Common Stock
+Historically, for all periods prior to our IPO, the fair value of the shares of common stock underlying our share-based awards were estimated on each grant date by our board of directors. In order to determine the fair value of our common stock underlying option grants, our board of directors considered, among other things, timely valuations of our common stock prepared by an unrelated third-party valuation firm in accordance with the guidance provide by the American Institute of Certified Public Accountants Practice Guide, Valuation of Privately-Held-Company Equity Securities Issued as Compensation. Given the absence of a public trading market for our common stock prior to our IPO, our board of directors exercised reasonable judgment and considered a number of objective and subjective factors to determine the best estimate of the fair value of our common stock, including our stage of development; progress of our research and development efforts; the rights, preferences and privileges of our convertible preferred stock relative to those of our common stock; equity market conditions affecting comparable public companies and the lack of marketability of our common stock.
+Since the completion of our IPO, the fair value of each share of common stock underlying stock option grants is based on the closing price of our common stock on the Nasdaq Global Select Market as reported on the date of grant.
+Leases
+During 2020, we elected to early adopt Accounting Standard Update (ASU) No. 2016-02, Leases (ASC 842) and its associated amendments using the modified retrospective transition approach. There was no cumulative-effect adjustment recorded to accumulated deficit upon adoption. We recorded right-of-use assets and lease liabilities of $0.3 million upon adoption.
+Under ASC 842, we determine if an arrangement is a lease at inception. In addition, we determine whether leases meet the classification criteria of a finance or operating lease at the lease commencement date
+considering: (1) whether the lease transfers ownership of the underlying asset to the lessee at the end of the lease term, (2) whether the lease grants the lessee an option to purchase the underlying asset that the lessee is reasonably certain to exercise, (3) whether the lease term is for a major part of the remaining economic life of the underlying asset, (4) whether the present value of the sum of the lease payments and residual value guaranteed by the lessee equals or exceeds substantially all of the fair value of the underlying asset, and (5) whether the underlying asset is of such a specialized nature that it is expected to have no alternative use to the lessor at the end of the lease term. As of December 31, 2021, our lease population consisted of real estate operating leases. As of the date of adoption of ASC 842, we did not have finance leases.
+Operating leases are included in operating lease right-of-use (ROU) assets, lease liabilities, current, and lease liabilities, non-current in our balance sheet. ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at the lease commencement date based on the present value of lease payments over the lease term. In determining the present value of lease payments, we use our incremental borrowing rate based on the information available at the lease commencement date if the rate implicit in the lease is not readily determinable. We determine the incremental borrowing rate base on an analysis of corporate bond yields with a credit rating similar ours. The determination of our incremental borrowing rate requires management judgment including the development of a synthetic credit rating and cost of debt as we currently do not carry any debt. We believe that the estimates used in determining the incremental borrowing rate are reasonable based upon current facts and circumstances. Applying different judgments to the same facts and circumstances could result in the estimated amounts to vary. The operating lease ROU assets also include adjustments for prepayments and accrued lease payments and exclude lease incentives. Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise such options. Operating lease cost is recognized on a straight-line basis over the expected lease term. Lease agreements entered into after the adoption of ASC 842 that include lease and non-lease components are accounted for as a single lease component. Lease agreements with a noncancelable term of less than 12 months are not recorded on our balance sheet. For more information about the impact of adoption and disclosures on our leases, refer to “Note 8 - Commitments and Contingencies” in our notes to financial statements included elsewhere in this Annual Report on Form 10-K.

@@ -1,0 +1,727 @@
+Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Introduction
+Management’s discussion and analysis of financial condition and results of operations is provided as a supplement to, and should be read in conjunction with, the consolidated financial statements and related notes to enhance the understanding of our operations and our present business environment. Components of management’s discussion and analysis of financial condition and results of operations include:
+•Overview
+•Results of Operations
+•Non-GAAP Financial Measures
+•Liquidity and Capital Resources
+•Contractual Obligations
+•Off-Balance Sheet Arrangements
+•Recent Accounting Pronouncements
+•Critical Accounting Judgments and Estimates
+Overview
+We are a global media and technology company with three primary businesses: Comcast Cable, NBCUniversal and Sky. We present our operations for (1) Comcast Cable in one reportable business segment, referred to as Cable Communications; (2) NBCUniversal in four reportable business segments: Cable Networks, Broadcast Television, Filmed Entertainment and Theme Parks; and (3) Sky in one reportable business segment. For more information about our company’s operations, see Item 1: Business. Additionally, refer to Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations in our 2019 Annual Report on Form 10-K for management’s discussion and analysis of financial condition and results of operations for the fiscal year 2019 compared to fiscal year 2018.
+Comcast 2020 Annual Report on Form 10-K 34
+Consolidated Revenue, Net Income Attributable to Comcast Corporation and Adjusted EBITDA(a)
+(in billions)
+Revenue Net Income Attributable to Comcast Corporation Adjusted EBITDA
+(a)Adjusted EBITDA is a financial measure that is not defined by generally accepted accounting principles in the United States (“GAAP”). Refer to the “Non-GAAP Financial Measure” section on page 57 for additional information, including our definition and our use of Adjusted EBITDA, and for a reconciliation from net income attributable to Comcast Corporation to Adjusted EBITDA.
+2020 Consolidated Operating Results(a)
+Revenue Adjusted EBITDA
+(a)Charts exclude the results of Corporate and Other, and eliminations.
+Comcast 2020 Annual Report on Form 10-K
+2020 Developments
+The following are the more significant developments in our businesses during 2020:
+Overall
+•COVID-19 materially impacted our 2020 results of operations. While Cable Communications results were strong, NBCUniversal and Sky results experienced material negative impacts due to the temporary closure of our theme parks and the postponement of sporting events, respectively.
+•Repaid $18.8 billion and issued $18.6 billion of long-term debt in 2020 ending the year with $11.7 billion of cash on hand. This financing activity resulted in a reduction in the weighted-average cost of debt due to the favorable interest rate environment and provides additional liquidity given the risks associated with the economic conditions caused by COVID-19.
+Cable Communications
+•Revenue increased 3.4% to $60.1 billion, reflecting increases in high-speed internet, wireless, business services and advertising revenue, partially offset by declines in voice, video and other revenue.
+•Adjusted EBITDA increased 8.6% to $25.3 billion.
+•Operating margin increased from 40.1% to 42.1%, reflecting increases in revenue from high-speed internet and business services and decreases in losses in our wireless business.
+•Total customer relationships increased by 1.6 million, total high-speed internet customers increased 2.0 million and total video customers decreased 1.4 million.
+•Capital expenditures decreased 4.4% to $6.6 billion, reflecting lower spending on customer premise equipment and support capital, partially offset by an increase in spending on scalable infrastructure.
+NBCUniversal
+•Total NBCUniversal revenue decreased 17.3% to $28.1 billion and total NBCUniversal Adjusted EBITDA decreased 28.5% to $6.3 billion driven by the impacts of COVID-19.
+•Cable Networks and Broadcast Television segments revenue decreased 5.8% to $10.8 billion and 0.2% to $10.2 billion, respectively, reflecting decreases in advertising revenue, partially offset by increases in content licensing revenue. Distribution revenue decreased at Cable Networks and increased at Broadcast Television.
+•Filmed Entertainment segment revenue decreased 18.7% to $5.3 billion, reflecting lower theatrical and other revenues as a result of theater closures due to COVID-19, partially offset by an increase in content licensing revenue.
+•Theme Parks segment revenue decreased 68.9% to $1.8 billion and Adjusted EBITDA decreased from $2.5 billion to a loss of $541 million, reflecting the temporary theme parks closures due to COVID-19.
+Sky
+•Sky revenue decreased 3.3% to $18.6 billion. Excluding the impact of foreign currency, Sky revenue decreased 4.2% due to decreases in direct-to-consumer, advertising and content revenues driven by impacts of COVID-19.
+•Sky Adjusted EBITDA decreased 37.0% to $2.0 billion. Excluding the impact of foreign currency, Sky Adjusted EBITDA decreased 37.6% primarily due to the decreases in revenue.
+Other
+•Launched Peacock, our direct-to-consumer streaming service that features NBCUniversal content, which was made available to Comcast customers in April 2020 and launched nationally in July 2020.
+•Corporate and Other revenue increased 9.8% to $366 million primarily due to revenue generated from Peacock.
+•Corporate and Other Adjusted EBITDA losses increased from $880 million to $2.4 billion primarily due to severance charges and costs associated with Peacock.
+Impacts of COVID-19
+COVID-19 and measures taken to prevent its spread across the globe have impacted our businesses in a number of ways. Our Cable Communications results of operations were strong in 2020, despite having been affected by the significant deterioration in domestic economic conditions and by the costs associated with our support of customer connectivity as people worked and learned remotely from home. COVID-19 had material negative impacts on NBCUniversal and Sky results of operations during
+Comcast 2020 Annual Report on Form 10-K 36
+2020 primarily due to the temporary closure of our theme parks and disruption of professional sports seasons, respectively. We expect the impacts of the COVID-19 pandemic will continue to have a material adverse impact on our consolidated results of operations over the near to medium term, although the extent of such impact will depend on restrictive governmental measures, further deterioration of the global economy and widespread availability of vaccines.
+Cable Communications
+•Our distribution network performed well under the stress of increased traffic and peak usage driven by increased video streaming, gaming and videoconferencing as customers worked and learned remotely from home.
+•We incurred costs in 2020 associated with compensating personnel in roles affected by COVID-19, primarily during the first half of the year. These costs included additional compensation for frontline personnel who worked to keep our customers connected to our services and compensation for certain personnel who were unable to work due to the closing or suspension of operations.
+•Beginning in March 2020 and continuing through June 2021, new qualifying customers for Internet Essentials, our low-income internet adoption program, receive 60 days of free internet services. We also implemented programs, primarily during the second quarter of 2020, under which we elected to waive certain fees and to not disconnect internet, voice or wireless services for customers for nonpayment, and we are providing customers a variety of flexible and extended payment options. As a result of these programs, our customer metrics for 2020 do not include customers in the free Internet Essentials offer or certain high-risk customers who continued to receive service following nonpayment. The number of customers excluded from our customer metrics was highest as of June 30, 2020 and these customers were excluded from second quarter net additions. The number of such customers decreased in the third and fourth quarters as some of these customers either began paying for service, resulting in customer net additions, or disconnected and no longer receive service. We expect the number of excluded customers to continue to decrease in future quarters.
+•Certain professional sports leagues were disrupted due to COVID-19, generally resulting in postponed or canceled matches and reduced schedules. Certain of our programming distribution agreements with regional sports networks include contractual adjustment provisions if a minimum number of sporting events does not occur. Our programming expenses were reduced as a result of these provisions, and our revenue was negatively impacted in similar amounts as a result of adjustments that we passed through to our customers in 2020 and continue to pass through in the first quarter of 2021.
+•The deterioration of economic conditions and increased economic uncertainty resulting from COVID-19 have resulted in reduced demand for certain of our residential and business services and reduced spending from advertisers, which have had and, while we have seen some improvement over the course of 2020, likely will continue to have, negative impacts on our revenue over the near to medium term. In addition, we believe there is increased risk associated with collections on our outstanding receivables, and we have incurred, and may continue to incur, increases in our bad debt expense.
+NBCUniversal
+•The temporary closure of all of our theme parks had the most significant impact on our revenue and Adjusted EBITDA for the year ended December 31, 2020 on a consolidated basis. Our parks in Orlando and Japan reopened with limited capacity in June 2020, while our park in Hollywood remains closed. We expect the results of operations at our theme parks will continue to be negatively impacted in the near to medium term, and we cannot predict with certainty when the Hollywood park will reopen, if any reopened parks will remain open or the level of attendance at any reopened parks. In addition, although we currently expect that Universal Beijing Resort will open in 2021, we have delayed certain construction projects, including the development of the Epic Universe theme park in Orlando.
+•The deterioration of economic conditions caused by COVID-19 resulted in significant reductions in advertising spend by our customers in the Cable Networks and Broadcast Television segments and, while we have seen some improvement over the course of 2020, we expect this trend to continue over the near to medium term. There has also been, and likely will continue to be, an acceleration of subscriber losses at our networks.
+•We incurred costs in 2020 associated with compensating personnel who were unable to work due to the closing or suspension of operations due to COVID-19, primarily during the first half of the year, including at our theme parks and at our production studios.
+Comcast 2020 Annual Report on Form 10-K
+•The postponement and cancellation of many sporting events and professional sports seasons caused by COVID-19 impacted our results of operations during 2020, since both advertising revenues and costs associated with broadcasting these programs are recognized when events are broadcast. While professional sports leagues generally resumed and completed their seasons in the second half of 2020, some had reduced numbers of events for the remainder of the interrupted seasons. Certain of our sports programming rights agreements and distribution agreements with multichannel video providers require contractual adjustments if a minimum number of sporting events does not occur. Our distribution revenue was negatively impacted as a result of credits accrued relating to these provisions; and the programming costs that we recognized as the remaining events occurred were also impacted. In addition, there have been, and there may be in the future, delays to the start of the current or upcoming seasons for certain professional sports leagues. When, or the extent to which, sporting events will occur in 2021 will impact the timing, and potentially the amount, of revenue and expense recognition. In addition, the 2020 Tokyo Olympics have been postponed from the third quarter of 2020 to the third quarter of 2021, resulting in a corresponding delay of the associated revenue and costs.
+•The creation and availability of our film and television programming in the United States and globally have been disrupted, including from the suspension of studio production operations in the first half of 2020. Our studio production operations have resumed at a limited capacity. Additionally, with the temporary closure of many movie theaters worldwide, we have delayed or altered the theatrical distribution strategy for certain of our films, both domestically and internationally. Delays in theatrical releases affect both current and future periods as a result of corresponding delays in subsequent content licensing windows. We expect results of operations in our Filmed Entertainment segment to continue to be negatively impacted over the near to medium term as a result of COVID-19.
+Sky
+•Direct-to-consumer revenue has been negatively impacted as a result of lower sports subscription revenue due to the disruption of professional sports seasons and future periods may be negatively impacted as a result of the reopening plans and the extent of reopening of our commercial customers. While sporting events generally resumed late in the second quarter of 2020 and the interrupted seasons were completed, there were delays to the start of the current seasons for certain sports, including European soccer. As a result, significant costs associated with broadcasting these programs were not recognized in 2020. COVID-19 continues to result in uncertainty in the ultimate timing of when, or the extent to which, sporting events will occur in future periods; their broadcast is expected to impact the timing, and potentially the amount, of revenue and expense recognition.
+•We temporarily suspended certain sales channels due to COVID-19, which negatively impacted net customer additions and revenue in the first half of 2020. Our sales channels generally resumed operations in June 2020.
+•COVID-19 has resulted in the deterioration of economic conditions and increased economic uncertainty in Europe, intensifying what was an already deteriorating economic and advertising environment. These conditions negatively impacted revenue in 2020 and, while we have seen some improvement over the course of 2020, we expect COVID-19 likely will continue to negatively impact advertising spend and consumer demand for our services in 2021. In addition, there is increased risk associated with collections on our outstanding receivables, and we have incurred and may continue to incur increases in our bad debt expense.
+We have implemented and will continue to implement cost savings initiatives across our businesses that have impacted and will continue to impact our results of operations; certain costs incurred by our businesses in response to COVID-19, including severance, are presented in Corporate and Other. Our businesses implemented separate cost savings initiatives, with the most significant relating to severance at NBCUniversal in connection with the realignment of the operating structure in our television businesses as well as overall reductions in the cost base. We do not anticipate significant incremental costs to be incurred under these plans, and payments related to NBCUniversal employee severance are expected to be completed in 2021. NBCUniversal employee-related costs savings will be realized in operating costs and expenses primarily beginning in 2021 and a portion of these cost savings may be reallocated to investments in content and other strategic initiatives.
+Global financial markets have been volatile and domestic and global economic conditions continue to show signs of material weakness. At this point, it is impossible to predict the extent and duration of these and any other impacts of COVID-19 to our businesses, or the degree to which demand for our products and services, or supply of key inputs to those products and services, will be affected. This uncertainty makes it challenging for management to estimate with precision the future performance of our businesses.
+As of December 31, 2020, we evaluated whether the facts and circumstances and available information resulted in the need for an impairment assessment for any of our long-lived assets and concluded no assessment was required. Refer to the Critical
+Comcast 2020 Annual Report on Form 10-K 38
+Accounting Judgments and Estimates section for discussion of our impairment testing of goodwill and cable franchise rights. We will continue to evaluate the impacts of COVID-19 on our businesses, including the impacts of overall economic conditions, which could result in the recognition of an impairment charge in the future.
+Liquidity
+Although negatively impacted by the effects of COVID-19, we expect that our businesses will continue to generate significant cash flows from operating activities and we believe that these cash flows, together with our existing cash, cash equivalents and investments, available borrowings under our existing credit facilities and our ability to obtain future external financing, will be sufficient for us to meet our current and long-term liquidity and capital requirements. In 2020, we issued $18.6 billion of long-term debt, the proceeds of which were used to repay existing indebtedness and increase cash on our balance sheet in order to bolster liquidity and strengthen our financial position as a result of the increased uncertainty related to the duration and scope of the COVID-19 pandemic. We also took actions to conservatively manage cash through reductions in costs and capital expenditures in 2020. We expect the timing of certain priorities may continue to be impacted, such as the pace of our debt reduction efforts and returning capital to shareholders, and the delay of certain capital projects.
+Competition
+All of our businesses operate in intensely competitive, consumer-driven and rapidly changing environments and compete with a growing number of companies that provide a broad range of communications products and services, and entertainment, news and information content to consumers. For additional information on the competition our businesses face, see Item 1: Business and Item 1A: Risk Factors. Within the Business section, refer to the “Competition” discussion, and within the Risk Factors section, refer to the risk factors entitled “Our businesses operate in highly competitive and dynamic industries, and our businesses and results of operations could be adversely affected if we do not compete effectively” and “Changes in consumer behavior driven by online video distribution platforms for viewing content continue to adversely affect our businesses and challenge existing business models.”
+Seasonality and Cyclicality
+Each of our businesses is typically subject to seasonal and cyclical variations. See Item 1: Business and refer to the “Seasonality and Cyclicality” discussion within that section for additional information.
+Comcast 2020 Annual Report on Form 10-K
+Consolidated Operating Results
+Year ended December 31 (in millions, except per share data) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue $ 103,564 $ 108,942 $ 94,507 (4.9) % 15.3 %
+Costs and Expenses:
+Programming and production 33,121 34,440 29,692 (3.8) 16.0
+Other operating and administrative 33,109 32,807 28,094 0.9 16.8
+Advertising, marketing and promotion 6,741 7,617 7,036 (11.5) 8.2
+Depreciation 8,320 8,663 8,281 (4.0) 4.6
+Amortization 4,780 4,290 2,736 11.4 56.8
+Other operating gains - - (341) - NM
+Total costs and expenses 86,071 87,817 75,498 (2.0) 16.3
+Operating income 17,493 21,125 19,009 (17.2) 11.1
+Interest expense (4,588) (4,567) (3,542) 0.5 28.9
+Investment and other income (loss), net 1,160 438 (225) 164.8 294.6
+Income before income taxes 14,065 16,996 15,242 (17.2) 11.5
+Income tax (expense) benefit (3,364) (3,673) (3,380) (8.4) 8.7
+Net income 10,701 13,323 11,862 (19.7) 12.3
+Less: Net income attributable to noncontrolling interests and redeemable subsidiary preferred stock 167 266 131 (37.5) 102.7
+Net income attributable to Comcast Corporation $ 10,534 $ 13,057 $ 11,731 (19.3) % 11.3 %
+Basic earnings per common share attributable to Comcast Corporation shareholders
+$ 2.30 $ 2.87 $ 2.56 (19.9) % 12.1 %
+Diluted earnings per common share attributable to Comcast Corporation shareholders
+$ 2.28 $ 2.83 $ 2.53 (19.4) % 11.9 %
+Adjusted EBITDA(a)
+$ 30,826 $ 34,258 $ 30,165 (10.0) % 13.6 %
+All percentages are calculated based on actual amounts. Minor differences may exist due to rounding.
+Percentage changes that are considered not meaningful are denoted with NM.
+(a)Adjusted EBITDA is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measure” section on page 57 for additional information, including our definition and our use of Adjusted EBITDA, and for a reconciliation from net income attributable to Comcast Corporation to Adjusted EBITDA.
+The comparability of our consolidated results of operations was impacted by the Sky transaction in the fourth quarter of 2018. Sky’s results of operations are included in our consolidated financial statements following the October 9, 2018 acquisition date.
+Comcast 2020 Annual Report on Form 10-K 40
+Consolidated Revenue
+The following graph illustrates the contributions to the change in consolidated revenue made by our Cable Communications, NBCUniversal and Sky segments, as well as by Corporate and Other activities, including eliminations.
+The primary drivers of the change in revenue from 2019 to 2020 were as follows:
+•A decrease in our NBCUniversal segments revenue primarily due to the impacts of COVID-19 resulting in decreased revenue at the Theme Parks, Filmed Entertainment, Cable Networks and Broadcast segments.
+•A decrease in Corporate, Other and Eliminations revenue primarily due to an increase in eliminations as a result of the licensing of content between our NBCUniversal segments and Peacock.
+•A decrease in our Sky segment revenue primarily due to the impacts of COVID-19 resulting in decreased direct-to-consumer, advertising and content revenue, as well as the impact of foreign currency translation.
+•Growth in our Cable Communications segment revenue driven by increased revenue from high-speed internet, wireless, business services and advertising, partially offset by decreased revenue from voice, video and other revenue.
+Revenue for our segments and other businesses is discussed separately below under the heading “Segment Operating Results.”
+Comcast 2020 Annual Report on Form 10-K
+Consolidated Costs and Expenses
+The following graph illustrates the contributions to the change in consolidated operating costs and expenses, representing total costs and expenses excluding depreciation and amortization expense, made by our Cable Communications, NBCUniversal and Sky segments, as well as by Corporate and Other activities, including eliminations.
+The primary drivers of the change in operating costs and expenses from 2019 to 2020 were as follows:
+•A decrease in NBCUniversal expenses primarily due to the impacts of COVID-19, which led to decreased expenses in our Filmed Entertainment, Theme Parks, Cable Networks and Broadcast segments.
+•Flat Cable Communications segment expenses primarily due to decreased advertising, marketing and promotion expenses and customer service expenses, offset by an increase in programming expenses, other expenses, technical product support costs, and franchise and other regulatory fees.
+•An increase in Corporate, Other and Eliminations expenses primarily due to certain costs incurred in response to COVID-19, including severance charges related to our businesses, costs associated with Peacock, and a legal settlement, partially offset by an increase in eliminations as a result of our licensing content between our NBCUniversal segments and Peacock.
+•An increase in our Sky segment’s expenses primarily due to an increase in other costs and direct network costs, partially offset by a decrease in programming and production costs and the impacts of foreign currency translation.
+Operating costs and expenses for our segments and our corporate operations, business development initiatives and other businesses are discussed separately below under the heading “Segment Operating Results.”
+Consolidated Depreciation and Amortization Expense
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Cable Communications $ 7,753 $ 7,994 $ 8,262 (3.0) % (3.2) %
+NBCUniversal 2,278 2,129 2,108 7.0 0.9
+Sky 3,034 2,699 539 12.4 NM
+Corporate and Other 35 131 108 (74.1) 21.4
+Comcast Consolidated $ 13,100 $ 12,953 $ 11,017 1.1 % 17.6 %
+Percentage changes that are considered not meaningful are denoted with NM.
+NBCUniversal and Sky depreciation and amortization expense increased in 2020 primarily due to amortization of certain trade names beginning in the first quarter of 2020, which were previously accounted for as indefinite-lived intangible assets (see Note 11). Cable Communications depreciation and amortization expense decreased due to lower spending on customer premise equipment and support capital, partially offset by an increase in spending on scalable infrastructure.
+Amortization expense from acquisition-related intangible assets totaled $2.3 billion, $2.0 billion and $1.1 billion for 2020, 2019 and 2018, respectively. Amounts primarily relate to customer relationship intangible assets recorded in connection with the Sky transaction in the fourth quarter of 2018 and the NBCUniversal transaction in 2011.
+Comcast 2020 Annual Report on Form 10-K 42
+Consolidated Interest Expense
+Interest expense was flat in 2020 compared to 2019 as $360 million of charges related to the early redemption of senior notes were offset by lower weighted-average interest rates and a decrease in average debt outstanding.
+Consolidated Investment and Other Income (Loss), Net
+Year ended December 31 (in millions) 2020 2019 2018
+Equity in net income (losses) of investees, net $ (113) $ (505) $ (364)
+Realized and unrealized gains (losses) on equity securities, net 1,014 656 (187)
+Other income (loss), net 259 287 326
+Total investment and other income (loss), net $ 1,160 $ 438 $ (225)
+Equity in Net Income (Losses) of Investees, Net
+The change in equity in net income (losses) of investees, net in 2020 compared to 2019 was primarily due to our investment in Atairos Group, Inc. and our reduced share of net losses for other equity method investments. The income (losses) at Atairos were driven by fair value adjustments on its underlying investments with income of $286 million in 2020 and losses of $64 million in 2019. See Note 9 for additional information related to our investments.
+Realized and Unrealized Gains (Losses) on Equity Securities, Net
+Realized and unrealized gains (losses) on equity securities, net in 2020 were primarily as a result of gains relating to transactions involving FanDuel and PointsBet and a public offering by fuboTV, as well as gains related to our investment in Peloton, which was sold during 2020. Realized and unrealized gains (losses) on equity securities, net in 2019 resulted primarily from gains related to our interests in Snap, which was sold in 2019, and Peloton as a result of its initial public offering in 2019. See Note 9 for additional information related to our investments.
+Other Income (Loss), Net
+The change in other income (loss), net in 2020 compared to 2019 was primarily due to the recognition of $219 million of gains related to the dilution of our Hulu ownership in 2019, partially offset by foreign currency gains and lower impairments related to equity method investments in 2020.
+Consolidated Income Tax (Expense) Benefit
+Our effective income tax rate in 2020 and 2019 was 23.9% and 21.6%, respectively.
+In 2020, the effective income tax rate included $145 million of expense relating to the impact of tax law changes in the third quarter of 2020.
+In 2019, the effective income tax rate included $125 million of benefits related to state income tax adjustments recognized in the third quarter of 2019.
+Consolidated Net Income Attributable to Noncontrolling Interests and Redeemable Subsidiary Preferred Stock
+The decrease in net income attributable to noncontrolling interests and redeemable subsidiary preferred stock in 2020 compared to 2019 was primarily due to our acquisition of the remaining interest of one of our noncontrolling interests.
+Segment Operating Results
+Our segment operating results are presented based on how we assess operating performance and internally report financial information. We use Adjusted EBITDA as the measure of profit or loss for our operating segments (see Note 2).
+Comcast 2020 Annual Report on Form 10-K
+Cable Communications Segment Results of Operations
+Revenue and Adjusted EBITDA
+Residential Customer Relationships
+(in billions) (in millions)
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue
+Residential:
+High-speed internet $ 20,599 $ 18,752 $ 17,144 9.9 % 9.4 %
+Video 21,937 22,270 22,455 (1.5) (0.8)
+Voice 3,532 3,879 3,960 (8.9) (2.1)
+Wireless 1,574 1,167 890 34.9 31.2
+Business services 8,191 7,795 7,129 5.1 9.3
+Advertising 2,594 2,465 2,795 5.2 (11.8)
+Other 1,624 1,754 1,660 (7.5) 5.7
+Total revenue 60,051 58,082 56,033 3.4 3.7
+Operating costs and expenses
+Programming 13,498 13,389 13,249 0.8 1.1
+Technical and product support 8,022 7,973 7,569 0.6 5.3
+Customer service 2,432 2,494 2,536 (2.5) (1.6)
+Advertising, marketing and promotion 3,759 4,014 4,002 (6.3) 0.3
+Franchise and other regulatory fees 1,625 1,582 1,578 2.7 0.2
+Other 5,445 5,364 5,418 1.5 (1.0)
+Total operating costs and expenses 34,781 34,816 34,352 (0.1) 1.4
+Adjusted EBITDA $ 25,270 $ 23,266 $ 21,681 8.6 % 7.3 %
+Comcast 2020 Annual Report on Form 10-K 44
+Customer Metrics
+Net Additions
+(in thousands) 2020 2019 2018 2020 2019 2018
+Customer relationships
+Residential customer relationships
+30,718 29,149 28,109 1,569 1,040 925
+Business services customer relationships
+2,426 2,396 2,303 30 94 123
+Total customer relationships 33,144 31,545 30,412 1,599 1,134 1,048
+Residential customer relationships mix
+One product customers
+12,434 10,247 9,015 2,187 1,232 840
+Two product customers
+8,734 8,923 8,992 (188) (69) (25)
+Three or more product customers
+9,550 9,979 10,102 (429) (123) 110
+High-speed internet
+Residential customers
+28,351 26,414 25,097 1,937 1,317 1,234
+Business services customers
+2,248 2,215 2,125 34 89 120
+Total high-speed internet customers 30,600 28,629 27,222 1,971 1,406 1,353
+Video
+Residential customers
+18,993 20,288 20,959 (1,295) (671) (344)
+Business services customers
+852 966 1,027 (114) (61) (27)
+Total video customers 19,846 21,254 21,986 (1,408) (733) (370)
+Voice
+Residential customers
+9,645 9,934 10,153 (289) (218) (163)
+Business services customers
+1,357 1,342 1,297 15 46 60
+Total voice customers 11,002 11,276 11,449 (275) (173) (103)
+Wireless
+Wireless lines 2,826 2,052 1,236 774 816 854
+Customer metrics are presented based on actual amounts. Minor differences may exist due to rounding. Customer relationships represent the number of residential and business customers that subscribe to at least one of our services. One product, two product, and three or more product customers represent residential customers that subscribe to one, two, or three or more of our services, respectively. For MDUs, including buildings located on college campuses, whose residents have the ability to receive additional services, such as additional programming choices or our HD or DVR services, we count and report customers based on the number of potential billable relationships within each MDU. For MDUs whose residents are not able to receive additional services, the MDU is counted as a single customer. Residential high-speed internet and video customer metrics include certain customers that have prepaid for services. Wireless lines represent the number of activated eligible wireless devices on customers’ accounts. Individual customer relationships may have multiple wireless lines. Customer metrics for 2020 do not include certain high-risk customers who continue to receive service following nonpayment or customers in the free Internet Essentials offer (refer to “Impacts of COVID-19” for further discussion).
+2020 2019 2018 % Change 2019 to 2020 % Change 2018 to 2019
+Average monthly total revenue per customer relationship $ 154.71 $ 156.24 $ 156.23 (1.0) % - %
+Average monthly Adjusted EBITDA per customer relationship $ 65.11 $ 62.59 $ 60.45 4.0 % 3.5 %
+Average monthly total revenue per customer relationship is impacted by rate adjustments and changes in the types and levels of services received by our residential and business services customers, as well as changes in advertising revenue. While revenue from our residential high-speed internet, video and voice services is also impacted by changes in the allocation of revenue among services sold in a bundle, the allocation does not impact average monthly total revenue per customer relationship. Average rates in 2020 were negatively impacted by customer adjustments accrued as a result of provisions in our programming distribution agreements with regional sports networks related to canceled sporting events. For customers receiving bundled services, the revenue reduction was allocated across each of the services in the bundle.
+Each of our services has a different contribution to operating margin and we also use average monthly Adjusted EBITDA per customer relationship to evaluate the profitability of our customer base across our service offerings. We believe these metrics are useful to understand the trends in our business and average monthly Adjusted EBITDA per customer relationship is useful particularly as we continue to focus on growing our higher-margin businesses, including residential high-speed internet and business services.
+Comcast 2020 Annual Report on Form 10-K
+Cable Communications Segment - Revenue
+We are a leading provider of high-speed internet, video, voice, wireless, and security and automation services to residential customers in the United States under the Xfinity brand; we also provide these and other services to business customers and sell advertising. Revenue is generated primarily from residential and business customers that subscribe to our services, which are marketed individually and as bundled services. We also generate revenue from selling through our allocation of scheduled advertising time on cable networks that is received as part of distribution agreements with these networks to local, regional and national advertisers.
+High-Speed Internet
+We offer high-speed internet services with downstream speeds that range up to 1.2 Gbps and fiber-based speeds that range up to 2 Gbps. We also deploy xFi-enabled wireless gateways that deliver internet and voice connectivity, whole-home Wi-Fi coverage, network control and advanced security features. We believe our customer base will continue to grow as consumers choose our high-speed internet service and seek higher-speed offerings.
+Revenue increased in 2020 primarily due to an increase in the number of residential high-speed internet customers. The remaining increase in revenue in 2020 was due to an increase in average rates. Average rates in 2020 were negatively impacted by waived fees due to COVID-19 and the impacts of customer adjustments. Refer to video description below for further information.
+Video
+We offer a broad variety of video services packages that may include premium networks, pay-per-view services and our On Demand service. Our video customers may also subscribe for additional fees to our HD and DVR services.
+Revenue decreased in 2020 primarily due to a decline in the number of residential video customers, partially offset by an increase in average rates. Average rates in 2020 were negatively impacted by customer adjustments accrued as a result of provisions in our programming distribution agreements with regional sports networks related to canceled sporting events. For customers receiving bundled services, the revenue reduction was allocated across each of the services in the bundle.
+We have experienced, and expect that we will continue to experience, declines in the number of residential video customers due to competitive pressures, and we expect that our video revenue will continue to decline as a result of the competitive environment and shifting video consumption patterns. We believe our X1 platform helps us compete more effectively against this competition, and have also continued to employ sales and marketing programs, such as promotions, bundled service offerings and service offerings targeted at specific market segments.
+Voice
+We offer voice services that provide local and long-distance calling and other related features.
+Revenue decreased in 2020 primarily due to a decrease in average rates and a decline in the number of residential voice customers.
+We expect that the number of residential voice customers and voice revenue will continue to decline.
+Wireless
+We offer wireless phone services to customers that may choose to pay for services on an unlimited data plan, shared data plans, or per gigabyte of data used.
+Revenue increased in 2020 primarily due to an increase in the number of customer lines.
+Business Services
+We offer a variety of products and services to businesses. Our service offerings for small business locations primarily include high-speed internet services, as well as voice and video services, that are similar to those provided to residential customers, and include certain other features specific to businesses. We also offer Ethernet network services that connect multiple locations and other services to meet the needs of medium-sized customers and larger enterprises, and we provide cellular backhaul services to mobile network operators.
+Revenue increased in 2020 primarily due to increases in average rates and an increase in the number of customers receiving our services. The rates of growth were reduced due to the negative impacts of COVID-19 on small businesses.
+Advertising
+As part of our distribution agreements with cable networks, we generally receive an allocation of scheduled advertising time that is sold through our advertising business to local, regional and national advertisers. We also represent the advertising sales
+Comcast 2020 Annual Report on Form 10-K 46
+efforts of other multichannel video providers in some markets. In addition, we generate revenue from the sale of advertising on our digital platforms. We also provide technology, tools, data-driven services and marketplace solutions to customers in the media industry, which allow advertisers to more effectively engage with their target audiences. Revenue is affected by the strength of the advertising market, general economic conditions, and cyclicality related to political campaigns and issue-oriented advertising.
+Revenue increased in 2020 primarily due to an increase in political advertising, partially offset by a reduction in spending from advertisers due to COVID-19.
+In 2020, 4% of our advertising revenue was generated from our NBCUniversal segments, compared to 5% and 4% in 2019 and 2018, respectively. These amounts are eliminated in our consolidated financial statements but are included in the amounts presented above.
+Other
+Other revenue primarily includes revenue related to our security and automation services. We also receive revenue related to residential customer late fees and from services, such as the licensing of our technology platforms to other multichannel video providers.
+Revenue decreased in 2020 primarily due to certain waived billing and collection fees due to COVID-19, partially offset by higher revenue from the licensing of our technology platforms to other multichannel video providers.
+Cable Communications Segment - Operating Costs and Expenses
+Programming Expenses
+Programming expenses, which represent our most significant operating expense, are the fees we incur to provide content to our customers. These expenses are affected by the programming license fees charged by content providers, the fees charged for retransmission of the signals from local broadcast television stations, the number of customers we serve and the amount of content we provide.
+Expenses increased slightly in 2020 primarily due to increases in retransmission consent and sports programming fees, partially offset by declines in the number of video subscribers. The increase in expenses was also offset by the impact of adjustment provisions in our programming distribution agreements with regional sports networks related to canceled sporting events as a result of COVID-19.
+We anticipate that our programming expenses will be impacted by rate increases to a greater extent in 2021 compared to 2020 due to the timing of contract renewals, partially offset by expected declines in the number of residential video customers.
+Technical and Product Support Expenses
+Expenses include costs to complete service call and installation activities, as well as costs for network operations, product development, fulfillment and provisioning, as well as the cost of wireless handsets and tablets sold to customers and monthly wholesale wireless access fees.
+Expenses were flat in 2020 primarily due to increased costs associated with our wireless phone service and increased costs related to COVID-19, including additional compensation costs for certain personnel, offset by cost savings initiatives implemented during the current year, as well as a reduction in activity in certain aspects of our business.
+Customer Service Expenses
+Expenses include the personnel and other costs associated with handling the sale of services to customers and customer service activity.
+Expenses decreased in 2020 primarily due to lower labor costs as a result of reduced call volumes and cost savings initiatives implemented during the current year, partially offset by an increase in costs as a result of additional Xfinity stores.
+Advertising, Marketing and Promotion Expenses
+Expenses include the costs associated with attracting new customers and promoting our service offerings.
+Expenses decreased in 2020 primarily due to a decrease in spending.
+Franchise and Other Regulatory Fees
+Franchise and other regulatory fees represent the fees we are required to pay to federal, state and local authorities under the terms of our cable franchise agreements.
+Franchise and other regulatory fees increased in 2020 primarily due to increases in the related rates of these fees.
+Comcast 2020 Annual Report on Form 10-K
+Other Expenses
+Expenses primarily include personnel costs, advertising expenses, and building and facilities costs.
+Other operating costs and expenses increased in 2020 primarily due to an increase in bad debt expense as a result of COVID-19.
+Cable Communications Segment - Operating Margin
+Our operating margin is Adjusted EBITDA as a percentage of revenue. We believe this metric is useful particularly as we continue to focus on growing our higher-margin businesses, including residential high-speed internet and business services, and on reducing losses related to our wireless phone service and improving overall operating cost management. The most significant operating costs and expenses are the programming expenses we incur to provide content to our video customers, which were flat in 2020.
+Our operating margin was 42.1%, 40.1% and 38.7% in 2020, 2019 and 2018, respectively. While accrued adjustments for regional sports networks did not impact Adjusted EBITDA in 2020, they resulted in an increase to operating margins. Losses from our wireless phone service were $206 million, $401 million and $743 million in 2020, 2019 and 2018, respectively.
+NBCUniversal Segments Overview
+2020 NBCUniversal Segments Operating Results(a)
+Revenue
+Adjusted EBITDA
+(in billions) (in billions)
+(a)Segment details in the charts exclude the results of NBCUniversal Headquarters, Other and Eliminations and therefore the amounts do not equal the total. Revenue and Adjusted EBITDA charts are not presented on the same scale.
+Comcast 2020 Annual Report on Form 10-K 48
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue
+Cable Networks $ 10,849 $ 11,513 $ 11,773 (5.8) % (2.2) %
+Broadcast Television 10,244 10,261 11,439 (0.2) (10.3)
+Filmed Entertainment
+5,276 6,493 7,152 (18.7) (9.2)
+Theme Parks 1,846 5,933 5,683 (68.9) 4.4
+Headquarters, other and eliminations
+(133) (233) (286) NM NM
+Total revenue $ 28,082 $ 33,967 $ 35,761 (17.3) % (5.0) %
+Adjusted EBITDA
+Cable Networks $ 4,616 $ 4,444 $ 4,428 3.9 % 0.4 %
+Broadcast Television 1,934 1,730 1,657 11.8 4.4
+Filmed Entertainment 785 833 734 (5.8) 13.5
+Theme Parks (541) 2,455 2,455 (122.0) -
+Headquarters, other and eliminations
+(525) (690) (676) NM NM
+Total Adjusted EBITDA
+$ 6,269 $ 8,772 $ 8,598 (28.5) % 2.0 %
+Percentage changes that are considered not meaningful are denoted with NM.
+Cable Networks Segment Results of Operations
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue
+Distribution $ 6,437 $ 6,790 $ 6,826 (5.2) % (0.5) %
+Advertising 3,155 3,478 3,587 (9.3) (3.0)
+Content licensing and other 1,257 1,245 1,360 1.0 (8.5)
+Total revenue 10,849 11,513 11,773 (5.8) (2.2)
+Operating costs and expenses
+Programming and production 4,452 5,107 5,357 (12.8) (4.7)
+Other operating and administrative 1,438 1,499 1,453 (4.1) 3.2
+Advertising, marketing and promotion 343 463 535 (25.8) (13.6)
+Total operating costs and expenses 6,233 7,069 7,345 (11.8) (3.8)
+Adjusted EBITDA
+$ 4,616 $ 4,444 $ 4,428 3.9 % 0.4 %
+Cable Networks Segment - Revenue
+Distribution
+Revenue is generated from the distribution of our cable network programming to traditional and virtual multichannel video providers and is affected by the number of subscribers receiving our cable networks and the fees we charge per subscriber.
+Distribution revenue decreased in 2020 compared to 2019 primarily due to increased declines in the number of subscribers at our cable networks, partially offset by increases in the contractual rates charged under distribution agreements. The decrease was also due to credits accrued at some of our regional sports networks resulting from the reduced number of games played by professional sports leagues due to COVID-19. Certain of our distribution agreements with multichannel video providers require contractual adjustments if a minimum number of sporting events does not occur.
+Advertising
+Revenue is generated from the sale of advertising units sold on our cable networks and digital properties. Advertising revenue is primarily based on the price we charge for each advertising unit, which is generally based on audience ratings, the value of our viewer demographics to advertisers and the number of advertising units we can place in our cable networks’ programming schedules. Advertising revenue is affected by the audience ratings of our programming, the strength of the national advertising market and general economic conditions.
+Advertising revenue decreased in 2020 compared to 2019 primarily due to continued audience ratings declines at our networks and reduced spending from advertisers as a result of COVID-19, including as a result of the reduced number of sporting events, partially offset by higher prices for advertising units sold.
+Comcast 2020 Annual Report on Form 10-K
+Content Licensing and Other
+Revenue is generated primarily from the licensing of our owned programming in the United States and internationally to cable and broadcast networks and to DTC streaming service providers, as well as from the sale of our owned programming on DVDs and through digital distribution services such as iTunes. In addition, our cable television studio production operations generate revenue from programming the studio produces for third-party networks and for DTC streaming service providers.
+Revenue increased in 2020 compared to 2019 primarily due to revenue from our digital properties, partially offset by the timing of content provided under our licensing agreements.
+In 2020, 2019 and 2018, 15%, 15% and 14%, respectively, of our Cable Networks segment revenue was generated from our Cable Communications segment. These amounts are eliminated in Comcast’s consolidated financial statements but are included in the amounts presented above.
+Cable Networks Segment - Operating Costs and Expenses
+Programming and Production Costs
+Costs include the amortization of owned and acquired programming, sports rights, direct production costs, residual and participation payments, production overhead, costs associated with the distribution of our programming to third-party networks and other distribution platforms, and on-air talent costs.
+Costs decreased in 2020 primarily due to decreases in sports programming costs recognized resulting from the reduced number of events as a result of COVID-19.
+Other Operating and Administrative Expenses
+Other operating and administrative costs and expenses include salaries, employee benefits, rent and other overhead expenses.
+Expenses decreased in 2020 primarily due to lower employee-related costs as a result of cost savings initiatives.
+Advertising, Marketing and Promotion Expenses
+Expenses consist primarily of the costs associated with promoting programming on our cable networks and digital properties.
+Expenses decreased in 2020 primarily due to lower spending on marketing related to our cable networks.
+Broadcast Television Segment Results of Operations
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue
+Advertising $ 5,027 $ 5,712 $ 7,010 (12.0) % (18.5) %
+Content licensing 2,640 2,157 2,182 22.4 (1.1)
+Distribution and other 2,577 2,392 2,247 7.8 6.4
+Total revenue 10,244 10,261 11,439 (0.2) (10.3)
+Operating costs and expenses
+Programming and production 6,548 6,547 7,789 - (15.9)
+Other operating and administrative 1,476 1,564 1,547 (5.6) 1.1
+Advertising, marketing and promotion 286 420 446 (31.9) (5.9)
+Total operating costs and expenses 8,310 8,531 9,782 (2.6) (12.8)
+Adjusted EBITDA
+$ 1,934 $ 1,730 $ 1,657 11.8 % 4.4 %
+Comcast 2020 Annual Report on Form 10-K 50
+Broadcast Television Segment - Revenue
+Advertising
+Revenue is generated from the sale of advertising units sold on our broadcast networks, owned local broadcast television stations and digital properties. Advertising revenue is primarily based on the price we charge for each advertising unit, which is generally based on audience ratings and the value of our viewer demographics to advertisers, and the number of advertising units we can place in our broadcast networks’ and owned local television stations’ programming schedules. Advertising revenue is affected by the strength of the national and local advertising markets, general economic conditions, cyclicality related to political campaigns and issue-oriented advertising, and the success and ratings of our programming.
+Revenue decreased in 2020 compared to 2019 primarily due to continued declines in audience ratings and reduced spending from advertisers as a result of COVID-19, partially offset by higher prices for advertising units sold.
+Content Licensing
+Revenue is generated from the licensing of our owned programming in the United States and internationally to various distribution platforms, including to cable and broadcast networks, and to DTC streaming service providers. In addition, our broadcast television studio production operations develop and produce original content that they license to broadcast networks, cable networks and local broadcast television stations owned by us and third parties, as well as to DTC streaming service providers. The production and distribution costs related to our owned programming generally exceed the revenue generated from the initial network license, which means the subsequent licensing of our owned programming series following the initial network license is critical to their financial success.
+Content licensing revenue increased in 2020 compared to 2019 primarily due to the timing of content provided under our licensing agreement, including transactions with Peacock beginning in the second quarter of 2020.
+Distribution and Other
+We generate distribution and other revenue primarily from fees for retransmission consent of our owned local broadcast television stations and associated fees received from NBC-affiliated local broadcast television stations, as well as from the sale of our owned programming on DVDs and through digital distribution services. The sale of our owned programming is driven primarily by the popularity of our broadcast networks and programming series and therefore fluctuates based on consumer spending and acceptance. Distribution and other revenue also includes distribution revenue associated with our periodic broadcasts of the Olympic Games.
+Revenue increased in 2020 compared to 2019 primarily due to increases in fees recognized under our retransmission consent agreements.
+Broadcast Television Segment - Operating Costs and Expenses
+Programming and Production Costs
+Expenses relate to content that originates on our broadcast networks and owned local broadcast television stations, as well as owned content that is licensed to third parties. These costs include the amortization of owned and acquired programming costs, sports rights, direct production costs, residual and participation payments, production overhead, costs associated with the distribution of our programming to third-party networks and other distribution platforms, and on-air talent costs.
+Expenses were flat in 2020 primarily due to lower production costs as a result of delays in production and airing of new programs and cost savings initiatives and the impact of the updated accounting guidance, which removed certain limitations on the amounts capitalized for episodic television series and had a favorable impact on programming and production expense in the current year (see Note 8), which were offset by higher amortization associated with content licensing sales.
+Other Operating and Administrative Expenses
+Other operating and administrative costs and expenses include salaries, employee benefits, rent and other overhead expenses. Expenses decreased in 2020 primarily due to decreased overhead costs as part of cost savings initiatives and lower employee-related costs.
+Advertising, Marketing and Promotion Expenses
+Expenses consist primarily of the costs associated with promoting our owned and acquired television programming, as well as the marketing of DVDs and costs associated with our digital properties. These expenses decreased in 2020 primarily due to lower spending on marketing related to our programming.
+Comcast 2020 Annual Report on Form 10-K
+Filmed Entertainment Segment Results of Operations
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue
+Theatrical $ 421 $ 1,469 $ 2,111 (71.4) % (30.4) %
+Content licensing 3,342 3,045 2,899 9.7 5.1
+Home entertainment 944 957 1,048 (1.4) (8.7)
+Other 569 1,022 1,094 (44.2) (6.7)
+Total revenue 5,276 6,493 7,152 (18.7) (9.2)
+Operating costs and expenses
+Programming and production 2,603 2,949 3,446 (11.7) (14.4)
+Other operating and administrative 988 1,131 1,189 (12.6) (4.9)
+Advertising, marketing and promotion 900 1,580 1,783 (43.0) (11.4)
+Total operating costs and expenses 4,491 5,660 6,418 (20.6) (11.8)
+Adjusted EBITDA
+$ 785 $ 833 $ 734 (5.8) % 13.5 %
+Filmed Entertainment Segment - Revenue
+Theatrical
+Revenue is generated from the worldwide theatrical release of our produced and acquired films for exhibition in movie theaters and is significantly affected by the timing of each release and the number of films we distribute, as well as their acceptance by audiences. Theatrical revenue is also affected by the number of exhibition screens, ticket prices, the percentage of ticket sale retention by the exhibitors and the popularity of competing films at the time our films are released. The success of a film in movie theaters is generally a significant factor in determining the revenue a film is likely to generate in succeeding distribution platforms.
+Revenue decreased in 2020 primarily due to theater closures as a result of COVID-19.
+Content Licensing
+Revenue is generated primarily from the licensing of our produced and acquired films to cable, broadcast and premium networks, DTC streaming service providers and through video on demand and pay-per-view services provided by multichannel video providers and OTT service providers, including through the release of certain titles made available for viewing on video on demand platforms following a shortened theatrical release window.
+Revenue increased in 2020 primarily due to the timing of when content was made available under licensing agreements, including transactions with Peacock beginning in the second quarter of 2020, and increased sales of titles made available on demand, including certain 2020 releases after theater closures due to COVID-19.
+Home Entertainment
+Revenue is generated from the sale of our produced and acquired films on DVDs to retail stores and rental kiosks, and through digital distribution services. Revenue is significantly affected by the timing and number of our releases and their acceptance by consumers. Release dates are determined by several factors, including the timing of the exhibition of a film in movie theaters, holiday periods and the timing of competitive releases. The overall DVD market continues to experience declines due to the maturation of the DVD format from increasing shifts in consumer behavior toward digital distribution services and subscription rental services, both of which generate less revenue per transaction than DVD sales, as well as due to piracy.
+Revenue decreased in 2020 primarily due to higher sales of 2019 releases in the prior year period including How to Train Your Dragon: The Hidden World, Fast & Furious: Hobbs & Shaw and Dr. Seuss’ The Grinch, partially offset by sales of 2020 releases, including Trolls World Tour, 1917 and Dolittle, in the current year period.
+Other
+Revenue is generated from Fandango, our movie ticketing and entertainment business, consumer products, the production and licensing of live stage plays, and the distribution of filmed entertainment produced by third parties.
+Revenue decreased in 2020 primarily due to decreases in revenue from our movie ticketing and entertainment business and live stage plays, which were impacted by theater and entertainment venue closures as a result of COVID-19.
+Comcast 2020 Annual Report on Form 10-K 52
+Filmed Entertainment Segment - Operating Costs and Expenses
+Programming and Production Costs
+Expenses include the amortization of capitalized film production and acquisition costs, residual and participation payments, and distribution expenses. Residual payments represent amounts payable to individuals hired under collective bargaining agreements to work on productions and are calculated based on post-theatrical revenue. Participation payments are primarily based on film performance and represent contingent consideration payable to creative talent, to third parties that have entered into cofinancing agreements with us and to other parties involved in the production of a film. The costs associated with producing films have generally increased in recent years and may continue to increase in the future.
+Expenses decreased in 2020 due to higher amortization of film production costs in the prior year period.
+Other Operating and Administrative Expenses
+Expenses include salaries, employee benefits, rent and other overhead expenses.
+Expenses decreased in 2020 primarily due to lower costs associated with our movie ticketing and entertainment business and live stage plays, which were impacted by theater and entertainment venue closures as a result of COVID-19.
+Advertising, Marketing and Promotion Expenses
+Expenses consist primarily of expenses associated with advertising for our theatrical releases and the marketing of our films on DVDs and in digital formats. We incur significant marketing expenses before and throughout the release of a film in movie theaters. As a result, we typically incur losses on a film prior to and during the film’s exhibition in movie theaters and may not realize profits, if any, until the film generates home entertainment and content licensing revenue. The costs associated with marketing films have generally increased in recent years and may continue to increase in the future.
+Expenses decreased in 2020 primarily due to lower spending on current period releases as a result of COVID-19.
+Theme Parks Segment Results of Operations
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue $ 1,846 $ 5,933 $ 5,683 (68.9) % 4.4 %
+Operating costs and expenses 2,387 3,478 3,228 (31.4) 7.7
+Adjusted EBITDA
+$ (541) $ 2,455 $ 2,455 (122.0) % - %
+Theme Parks Segment - Revenue
+Revenue is generated primarily from guest spending at Universal theme parks. Guest spending includes ticket sales and in-park spending on food, beverages and merchandise. Guest spending depends heavily on the general environment for travel and tourism, including consumer spending on travel and other recreational activities.
+Revenue decreased in 2020 due to the temporary closures of our theme parks as a result of COVID-19, beginning in late February in Japan and mid-March for our theme parks in Orlando and Hollywood. Our theme parks in Orlando and Japan reopened with limited capacity in June, while our park in Hollywood remains closed.
+Theme Parks Segment - Operating Costs and Expenses
+Expenses consist primarily of theme park operations, including repairs and maintenance and related administrative expenses; food, beverage and merchandise costs; labor costs; and sales and marketing costs.
+Expenses decreased in 2020 primarily due to decreases in costs related to park operations due to the park closures and lower marketing-related costs, partially offset by pre-opening costs associated with Universal Beijing Resort. We expect to incur significant additional pre-opening costs ahead of the expected opening of Universal Beijing Resort in 2021.
+NBCUniversal Headquarters, Other and Eliminations
+Expenses include overhead, personnel costs and costs associated with corporate initiatives. Expenses decreased in 2020 primarily due to lower employee-related costs and decreased overhead costs as part of cost savings initiatives.
+Comcast 2020 Annual Report on Form 10-K
+Sky Segment Results of Operations
+Sky’s results of operations are included in our consolidated financial statements following the October 9, 2018 acquisition date, impacting the comparability of results of operations from fiscal year 2018 to fiscal year 2019, and as a result, actual growth rates for those fiscal years are not meaningful.
+The discussion below compares Sky’s actual results for 2020 to actual results for 2019. The pro forma segment information includes adjustments as if the Sky transaction occurred on January 1, 2017. Pro forma data is also adjusted for the effects of acquisition accounting and eliminating the costs and expenses directly related to the transaction, but does not include adjustments for costs related to integration activities, cost savings or synergies that have been or may be achieved by the combined business. Pro forma amounts are not necessarily indicative of what our results would have been had we operated the Sky business since January 1, 2017, nor of our future results.
+2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Year ended December 31 (in millions) Actual Actual Actual October 9 to December 31 Pro Forma Adjustments(a)
+Pro Forma
+Combined Actual Constant Currency Growth(b)
+Pro Forma Combined Growth Constant Currency Growth(b)
+Revenue
+Direct-to-consumer $ 15,223 $ 15,538 $ 3,632 $ 12,445 $ 16,077 (2.0) % (3.0) % (3.4) % 1.4 %
+Content 1,373 1,432 304 944 1,248 (4.1) (4.9) 14.7 19.7
+Advertising 1,998 2,249 651 1,838 2,489 (11.2) (12.0) (9.6) (5.4)
+Total revenue 18,594 19,219 4,587 15,227 19,814 (3.3) (4.2) (3.0) 1.7
+Operating costs and expenses
+Programming and production 8,649 8,865 2,137 6,685 8,822 (2.4) (3.5) 0.5 5.4
+Direct network costs 2,086 1,746 399 1,225 1,624 19.5 18.6 7.5 12.3
+Other 5,905 5,509 1,359 5,115 6,474 7.2 6.3 (14.9) (10.8)
+Total operating costs and expenses 16,640 16,120 3,895 13,025 16,920 3.2 2.2 (4.7) (0.1)
+Adjusted EBITDA
+$ 1,954 $ 3,099 $ 692 $ 2,202 $ 2,894 (37.0) % (37.6) % 7.1 % 12.2 %
+All percentages are calculated based on actual amounts. Minor differences may exist due to rounding.
+(a)Pro forma amounts include the results of operations for Sky for the period January 1, 2018 through October 8, 2018, as well as acquisition accounting adjustments.
+(b)Constant currency growth is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 57 for additional information, including our definition and our use of constant currency, and for a reconciliation of Sky’s constant currency growth rates.
+Customer Metrics
+Net Additions
+2020 2019 2018 2020 2019 2018
+(in thousands) Actual Actual Actual Actual Actual Pro Forma
+Total customer relationships
+23,939 23,994 23,600 (56) 394 735
+Sky customer relationships represent the number of residential customers that subscribe to at least one of Sky’s four primary services of video, high-speed internet, voice and wireless phone service. Commercial customers include hotels, bars, workplaces and restaurants with an active subscription for the purpose of providing Sky services to customers. Sky reports commercial customers based on the number of commercial agreements per venue in the United Kingdom, and generally based on a residential equivalent unit using the multiple of residential customer revenue in Italy and the number of active venues (bars and restaurants) or rooms (hotels and clinics) in Germany.
+2020 2019 2018 % Change 2019 to 2020 % Change 2018 to 2019
+Actual Actual Pro Forma Actual Constant
+Currency
+Growth(a)
+Pro Forma
+Growth Constant
+Currency
+Growth(a)
+Average monthly direct-to-consumer revenue per customer relationship $ 52.93 $ 54.41 $ 57.67 (2.7) % (3.7) % (5.7) % (1.0) %
+(a)Constant currency growth is a non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section on page 57 for additional information, including our definition and our use of constant currency, and for a reconciliation of Sky’s constant currency growth rates.
+Comcast 2020 Annual Report on Form 10-K 54
+Average monthly direct-to-consumer revenue per customer relationship is impacted by rate adjustments and changes in the types and levels of services received by Sky’s customers. Each of Sky’s services has a different contribution to Adjusted EBITDA. We believe this metric is useful in understanding the trends in our business across all of our direct-to-consumer service offerings.
+Sky Segment - Revenue
+Direct-to-Consumer
+Revenue is derived from subscription and transactional revenue from residential and business customers. Subscription revenue includes revenue from residential and business subscribers to video, high-speed internet, voice and wireless phone services, including DTC streaming service subscriptions and income from set-top boxes, wireless phone handset and tablet sales, installation, service calls and warranties. Transactional revenue includes the purchase of physical and digital content, DTC streaming daily passes, and pay-per-view programming.
+Revenue decreased in 2020 compared to 2019. Excluding the impact of foreign currency, revenue decreased primarily due to decreases in average revenue per customer relationship as a result of COVID-19.
+Content
+Revenue is derived from the distribution of Sky’s owned television channels on third-party platforms and the licensing of owned and acquired programming to third-party video providers.
+Revenue decreased in 2020 compared to 2019. Excluding the impact of foreign currency, revenue decreased primarily due to a decrease in revenue from the distribution of Sky’s sports programming on third-party platforms due to postponed sporting events as a result of COVID-19.
+Advertising
+Revenue is derived from the sale of advertising and sponsorships across Sky’s owned television channels and where it represents the sales efforts of third-party channels.
+Revenue decreased in 2020 compared to 2019. Excluding the impact of foreign currency, revenue decreased primarily due to overall market weakness, which has worsened due to COVID-19, and the impact of changes in legislation related to gambling advertisements in the United Kingdom and Italy that occurred in the third quarter of 2019.
+Sky Segment - Operating Costs and Expenses
+Programming and Production Costs
+Expenses primarily relate to content broadcast on Sky’s channels. These costs include the amortization of owned and acquired programming costs, sports rights, direct production costs, residual and participation payments, production overhead, and on-air talent costs. These expenses also include the fees associated with programming distribution agreements for channels owned by third parties, which are generally based on the number of customers who are able to watch the programming and the platforms on which the content is provided.
+Expenses decreased in 2020 compared to 2019. Excluding the impact of foreign currency, expenses decreased primarily due to the impacts of the disruptions of professional sports seasons as a result of COVID-19, including the delayed starts of the current European soccer seasons.
+Direct Network Costs
+Expenses primarily include costs directly related to the supply of high-speed internet and voice services, including wireless phone services, to Sky’s customers. This includes call costs, monthly wholesale access fees and other variable costs associated with Sky’s network. In addition, it includes the cost of mobile handsets sold to customers.
+Expenses increased in 2020 compared to 2019. Excluding the impact of foreign currency, expenses increased primarily due to an increase in costs associated with Sky’s high-speed internet and wireless phone services as a result of increases in the number of customers receiving these services.
+Other Expenses
+Expenses include costs related to marketing, fees paid to third-party channels where Sky represents the advertising sales efforts, subscriber management, supply chain, transmission, technology, fixed networks and general administrative costs.
+Expenses increased in 2020 compared to 2019. Excluding the impact of foreign currency, expenses increased primarily due to higher marketing costs related to Sky Q and the launch of FTTH services in Italy and a favorable settlement in the prior year, partially offset by lower fees paid to third-party channels for advertising sales efforts resulting from the impact of COVID-19.
+Comcast 2020 Annual Report on Form 10-K
+Corporate, Other and Eliminations
+Corporate and Other Results of Operations
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue $ 366 $ 333 $ 513 9.8 % (35.0) %
+Operating costs and expenses 3,046 1,393 1,772 118.5 (21.3)
+Adjustment for legal settlement (177) - (125) NM NM
+Adjustment for Sky transaction-related costs (56) (180) (355) NM NM
+Adjusted EBITDA $ (2,447) $ (880) $ (779) (178.0) % (12.9) %
+Percentage changes that are considered not meaningful are denoted with NM.
+Corporate and Other - Revenue
+Revenue primarily relates to Comcast Spectacor, which owns the Philadelphia Flyers and the Wells Fargo Center arena in Philadelphia, Pennsylvania, and revenue at Peacock beginning in the second quarter of 2020.
+Revenue increased in 2020 primarily due to revenue generated from Peacock. The increases were partially offset by decreases at Comcast Spectacor as a result of COVID-19.
+Corporate and Other - Operating Costs and Expenses
+Expenses primarily include overhead, personnel costs, the costs of other business initiatives, such as Peacock, and operating costs and expenses associated with Comcast Spectacor.
+Expenses increased in 2020 primarily due to costs associated with Peacock, certain costs incurred in response to COVID-19, including severance charges related to our businesses, a legal settlement and other non-recurring items, which were partially offset by a reduction in costs related to the Sky transaction, including expenses resulting from the replacement of share-based compensation awards and costs related to integration activities. Beginning in the second quarter of 2020, Peacock costs include amortization of film and television costs and we expect to continue to incur significant costs related to additional content and marketing for the new platform. Corporate and Other Adjusted EBITDA excludes the legal settlement and Sky transaction-related costs.
+Eliminations
+Year ended December 31 (in millions) 2020 2019 2018 % Change
+2019 to 2020 % Change
+2018 to 2019
+Revenue $ (3,529) $ (2,659) $ (2,387) 32.7 % 11.4 %
+Operating costs and expenses (3,309) (2,660) (2,360) 24.3 12.8
+Adjusted EBITDA $ (220) $ 1 $ (27) NM (105.4) %
+Percentage changes that are considered not meaningful are denoted with NM.
+For 2020, revenue and operating costs and expenses eliminations increased as a result of licensing of content between our NBCUniversal segments and Peacock. Refer to Note 2 for further description of transactions between our segments.
+Comcast 2020 Annual Report on Form 10-K 56
+Non-GAAP Financial Measures
+Consolidated Adjusted EBITDA
+Adjusted EBITDA is a non-GAAP financial measure and is the primary basis used to measure the operational strength and performance of our businesses as well as to assist in the evaluation of underlying trends in our businesses. This measure eliminates the significant level of noncash depreciation and amortization expense that results from the capital-intensive nature of certain of our businesses and from intangible assets recognized in business combinations. It is also unaffected by our capital and tax structures, and by our investment activities, including the results of entities that we do not consolidate, as our management excludes these results when evaluating our operating performance. Our management and Board of Directors use this financial measure to evaluate our consolidated operating performance and the operating performance of our operating segments and to allocate resources and capital to our operating segments. It is also a significant performance measure in our annual incentive compensation programs. Additionally, we believe that Adjusted EBITDA is useful to investors because it is one of the bases for comparing our operating performance with that of other companies in our industries, although our measure of Adjusted EBITDA may not be directly comparable to similar measures used by other companies.
+We define Adjusted EBITDA as net income attributable to Comcast Corporation before net income (loss) attributable to noncontrolling interests and redeemable subsidiary preferred stock, income tax expense, investment and other income (loss), net, interest expense, depreciation and amortization expense, and other operating gains and losses (such as impairment charges related to fixed and intangible assets and gains or losses on the sale of long-lived assets), if any. From time to time we may exclude from Adjusted EBITDA the impact of certain events, gains, losses or other charges (such as significant legal settlements) that affect the period-to-period comparability of our operating performance.
+We reconcile consolidated Adjusted EBITDA to net income attributable to Comcast Corporation. This measure should not be considered a substitute for operating income (loss), net income (loss), net income (loss) attributable to Comcast Corporation, or net cash provided by operating activities that we have reported in accordance with GAAP.
+Reconciliation from Net Income Attributable to Comcast Corporation to Adjusted EBITDA
+Year ended December 31 (in millions) 2020 2019 2018
+Net income attributable to Comcast Corporation
+$ 10,534 $ 13,057 $ 11,731
+Net income attributable to noncontrolling interests and redeemable subsidiary preferred stock
+167 266 131
+Income tax (benefit) expense 3,364 3,673 3,380
+Investment and other (income) loss, net (1,160) (438) 225
+Interest expense 4,588 4,567 3,542
+Depreciation 8,320 8,663 8,281
+Amortization 4,780 4,290 2,736
+Other operating gains - - (341)
+Adjustment for Sky transaction-related costs 56 180 355
+Adjustment for legal settlement 177 - 125
+Adjusted EBITDA $ 30,826 $ 34,258 $ 30,165
+Constant Currency
+Constant currency and constant currency growth rates are non-GAAP financial measures that present our results of operations excluding the estimated effects of foreign currency exchange rate fluctuations. Certain of our businesses, including Sky, have operations outside the United States that are conducted in local currencies. As a result, the comparability of the financial results reported in U.S. dollars is affected by changes in foreign currency exchange rates. In our Sky segment, we use constant currency and constant currency growth rates to evaluate the underlying performance of the business, and we believe it is helpful for investors to present operating results on a comparable basis year over year to evaluate its underlying performance.
+Constant currency and constant currency growth rates are calculated by comparing the prior year results adjusted to reflect the average exchange rates from the current year rather than the actual exchange rates that were in effect during the respective prior year.
+Comcast 2020 Annual Report on Form 10-K
+Reconciliation of Sky Constant Currency Growth Rates
+2020 2019 % Change 2019 to 2020 2019 2018 % Change 2018 to 2019
+Year ended December 31 (in millions, except per customer data) Actual Constant
+Currency Constant Currency Growth Actual Constant
+Currency Constant Currency Growth
+Revenue
+Direct-to-consumer $ 15,223 $ 15,698 (3.0) % $ 15,538 $ 15,326 1.4 %
+Content 1,373 1,443 (4.9) 1,432 1,196 19.7
+Advertising 1,998 2,270 (12.0) 2,249 2,376 (5.4)
+Total revenue 18,594 19,411 (4.2) 19,219 18,898 1.7
+Operating costs and expenses
+Programming and production 8,649 8,967 (3.5) 8,865 8,406 5.4
+Direct network costs 2,086 1,759 18.6 1,746 1,555 12.3
+Other 5,905 5,556 6.3 5,509 6,173 (10.8)
+Total operating costs and expenses 16,640 16,282 2.2 16,120 16,134 (0.1)
+Adjusted EBITDA
+$ 1,954 $ 3,129 (37.6) % 3,099 $ 2,764 12.2 %
+Average monthly direct-to-consumer revenue per customer relationship $ 52.93 $ 54.97 (3.7) % $ 54.41 $ 54.98 (1.0) %
+Liquidity and Capital Resources
+Our businesses generate significant cash flows from operating activities. We believe that we will be able to continue to meet our current and long-term liquidity and capital requirements, including fixed charges, through our cash flows from operating activities; existing cash, cash equivalents and investments; available borrowings under our existing credit facilities; and our ability to obtain future external financing. We anticipate that we will continue to use a substantial portion of our cash flows in repaying our debt obligations, funding our capital expenditures, investing in business opportunities and returning capital to shareholders. Refer to “Impacts of COVID-19” for additional discussion.
+We maintain significant availability under our revolving credit facilities and our commercial paper programs to meet our short-term liquidity requirements. Our commercial paper programs provide a lower-cost source of borrowing to fund our short-term working capital requirements. See Note 6 for additional information on our revolving credit facilities. As of December 31, 2020, amounts available under our revolving credit facilities, net of amounts outstanding under our commercial paper programs and outstanding letters of credit and bank guarantees, totaled $9.2 billion.
+Comcast, NBCUniversal and Comcast Cable are subject to the covenants and restrictions set forth in the indentures governing our public debt securities and in the credit agreements governing the Comcast revolving credit facility. The financial covenant in the credit facility pertains to leverage, which is the ratio of debt to EBITDA, as defined in the credit facility. We test for compliance with this financial covenant on an ongoing basis. As of December 31, 2020, we met this financial covenant by a significant margin. We do not expect to have to reduce debt or improve operating results in order to continue to comply with this financial covenant. In addition, the Universal Studios Japan term loans contain certain financial covenants. As of December 31, 2020, Universal Studios Japan was in compliance with all of these covenants.
+Operating Activities
+Components of Net Cash Provided by Operating Activities
+Year ended December 31 (in millions) 2020 2019 2018
+Operating income $ 17,493 $ 21,125 $ 19,009
+Depreciation, amortization and other operating gains 13,100 12,953 10,676
+Noncash share-based compensation 1,193 1,021 826
+Changes in operating assets and liabilities (178) (2,335) (1,313)
+Payments of interest (3,878) (4,254) (2,897)
+Payments of income taxes (3,183) (3,231) (2,355)
+Proceeds from investments and other 190 418 351
+Net cash provided by operating activities $ 24,737 $ 25,697 $ 24,297
+The variance in changes in operating assets and liabilities in 2020 compared to 2019 was primarily due to the impacts of COVID-19, including the timing of amortization and related payments for our film and television costs, which resulted from the
+Comcast 2020 Annual Report on Form 10-K 58
+suspension of studio production operations partially offset by the timing of sporting events, as well as the extension of due dates for certain tax payments and accruals related to severance.
+The decrease in interest payments in 2020 was primarily due to a decrease in average debt outstanding.
+The decrease in income tax payments in 2020 was primarily due to lower taxable income from operations in 2020, partially offset by the taxable gain associated with the AirTouch redemption which approximated the proceeds received.
+Investing Activities
+Net cash used in investing activities in 2020 consisted primarily of capital expenditures, cash paid for intangible assets, the construction of Universal Beijing Resort, purchases of investments and the purchase of spectrum rights, which were partially offset by proceeds from sales of businesses and investments. Net cash used in investing activities in 2019 consisted primarily of capital expenditures, cash paid for intangible assets, purchases of investments and the construction of Universal Beijing Resort, which were partially offset by proceeds from sales of businesses and investments.
+Capital Expenditures
+Capital expenditures decreased in 2020 primarily due to decreases in spending by our Theme Parks segment as a result of COVID-19 and by our Cable Communications segment, partially offset by increases in spending by our Sky segment, reflecting the continued deployment of Sky Q and high-speed internet services.
+Our most significant recurring investing activity has been capital expenditures in our Cable Communications segment, and we expect that this will continue in the future. Cable Communications’ capital expenditures decreased primarily due to lower spending on customer premise equipment and support capital, partially offset by an increase in spending on scalable infrastructure. The table below summarizes the capital expenditures we incurred in our Cable Communications segment in 2020, 2019 and 2018.
+Year ended December 31 (in millions) 2020 2019 2018
+Customer premise equipment $ 2,333 $ 2,659 $ 2,917
+Scalable infrastructure 2,289 2,000 2,555
+Line extensions 1,394 1,392 1,484
+Support capital 589 858 767
+Total $ 6,605 $ 6,909 $ 7,723
+We expect our capital expenditures for 2021 will be focused on the continued investment in scalable infrastructure to increase network capacity in our Cable Communications segment; increased investment in line extensions for the expansion of both business services and residential; and the continued deployment of wireless gateways, our X1 platform, cloud DVR technology, Sky Q, and international DTC streaming platforms. In addition, while we expect to invest in existing and new attractions at our Universal theme parks in the future, we have paused the construction of our additional theme park in Orlando, Florida. Capital expenditures for subsequent years will depend on numerous factors, including acquisitions, competition, changes in technology, regulatory changes, the timing and rate of deployment of new services, the capacity required for existing services, and the timing of new attractions at our theme parks.
+Cash Paid for Intangible Assets
+In 2020, cash paid for intangible assets was flat primarily due to decreases in expenditures for software development at our Cable Communications segment, offset by increases in expenditures for software development at both our Sky segment and at Corporate, primarily related to our development of Sky Q and Peacock, respectively.
+Construction of Universal Beijing Resort
+Construction of Universal Beijing Resort includes costs related to the construction of the Universal theme park and resort in Beijing, China. See Note 7.
+Purchase of Spectrum
+On September 2, 2020, the FCC announced the results of its CBRS spectrum auction. In connection with the auction, we acquired the rights to $459 million of spectrum.
+Comcast 2020 Annual Report on Form 10-K
+Proceeds from Sales of Businesses and Investments
+In 2020, proceeds from sales of businesses and investments increased primarily due to $1.7 billion of proceeds received from the sale of our investment in AirTouch in the second quarter of 2020. See Note 9.
+Purchases of Investments
+Purchases of investments in 2020 were primarily related to capital contributions to Atairos and in 2019 were primarily related to Hulu, including the acquisition of our proportionate share of the interest previously held by AT&T, and Atairos.
+Other
+Other investing activities in 2020 and 2019 were primarily related to distributions received from equity method investments.
+Financing Activities
+Net cash used in financing activities in 2020 consisted primarily of repayments of debt and the related early redemption payments presented in other financing activities, dividend payments and payments related to the redemption and repayment of subsidiary preferred shares in the second quarter of 2020 presented in other financing activities (see Note 9), which were partially offset by proceeds from borrowings and proceeds from the settlement of cross currency swaps related to our debt presented in other financing activities. Net cash used in financing activities in 2019 consisted primarily of repayments of debt and dividend payments, partially offset by proceeds from issuance of senior notes and a collateralized obligation.
+In 2020, we made debt repayments of $18.8 billion, including the early redemption and purchase of senior notes maturing between 2020 and 2047 and optional repayments of term loans due 2021 to 2023 totaling $15.8 billion.
+In 2020, we issued $12.5 billion of fixed-rate senior notes maturing between 2025 and 2062, $3.2 billion (using exchange rates on the date of issuance) of fixed-rate Euro senior notes maturing between 2027 and 2040 and $1.8 billion (using exchange rates on the date of issuance) of fixed-rate Sterling senior notes maturing between 2029 and 2036. In 2020, we made borrowings of $1.1 billion under the Universal Beijing Resort term loan.
+We have made, and may from time to time in the future make, optional repayments on our debt obligations, which may include repurchases or exchanges of our outstanding public notes and debentures, depending on various factors, such as market conditions. Any such repurchases may be effected through privately negotiated transactions, market transactions, tender offers, redemptions or otherwise. See Note 6 for additional information on our financing activities.
+Dividends
+Our Board of Directors declared quarterly dividends totaling $4.3 billion in 2020. We paid dividends of $4.1 billion in 2020. In January 2021, our Board of Directors approved a 9% increase in our dividend to $1.00 per share on an annualized basis. We expect to continue to pay quarterly dividends, although each dividend is subject to approval by our Board of Directors.
+The chart below summarizes our dividends paid in 2020, 2019 and 2018. In addition, we paid $534 million and $504 million in 2020 and 2019, respectively, related to employee taxes associated with the administration of our share-based compensation plans.
+Dividends Paid
+(in billions)
+Comcast 2020 Annual Report on Form 10-K 60
+Guarantee Structure
+Our debt is primarily issued at Comcast, although we also have debt at certain of our subsidiaries as a result of acquisitions and other issuances. A substantial amount of this debt is subject to guarantees by Comcast and by certain subsidiaries that we have put in place to simplify our capital structure. We believe this guarantee structure provides liquidity benefits to debt investors and helps to simplify credit analysis with respect to relative value considerations of guaranteed subsidiary debt.
+Debt and Guarantee Structure
+December 31 (in billions) 2020 2019
+Debt subject to cross-guarantees
+Comcast $ 85.7 $ 80.4
+NBCUniversal(a)
+2.8 5.8
+Comcast Cable(a)
+2.1 2.1
+90.6 88.3
+Debt subject to one-way guarantees
+Sky 8.4 9.2
+Other(a)
+2.8 4.1
+11.2 13.3
+Debt not guaranteed
+Universal Beijing Resort(b)
+2.5 1.3
+Other 1.1 1.0
+3.6 2.3
+Debt issuance costs, premiums, discounts, fair value adjustments for acquisition accounting and hedged positions, net
+(1.6) (1.7)
+Total debt $ 103.8 $ 102.2
+(a)NBCUniversal, Comcast Cable and Comcast Holdings (included within other debt subject to one-way guarantees) are each consolidated subsidiaries subject to the periodic reporting requirements of the SEC. The guarantee structures and related disclosures in this section, together with Exhibit 22, satisfy these reporting obligations.
+(b)Universal Beijing Resort debt financing is secured by the assets of Universal Beijing Resort and the equity interests of the investors. See Note 7 for additional information.
+Cross-guarantees
+Comcast, NBCUniversal and Comcast Cable (the “Guarantors”) fully and unconditionally, jointly and severally, guarantee each other’s debt securities. NBCUniversal and Comcast Cable also guarantee other borrowings of Comcast, including its revolving credit facility. These guarantees rank equally with all other general unsecured and unsubordinated obligations of the respective Guarantors. However, the obligations of the Guarantors under the guarantees are structurally subordinated to the indebtedness and other liabilities of their respective non-guarantor subsidiaries. The obligations of each Guarantor are limited to the maximum amount that would not render such Guarantor’s obligations subject to avoidance under applicable fraudulent conveyance provisions of U.S. and non-U.S. law. Each Guarantor’s obligations will remain in effect until all amounts payable with respect to the guaranteed securities have been paid in full. However, a guarantee by NBCUniversal or Comcast Cable of Comcast’s debt securities, or by NBCUniversal of Comcast Cable’s debt securities, will terminate upon a disposition of such Guarantor entity or all or substantially all of its assets.
+The Guarantors are each holding companies that principally hold investments in, borrow from and lend to non-guarantor subsidiary operating companies; issue and service third-party debt obligations; repurchase shares and pay dividends; and engage in certain corporate and headquarters activities. The Guarantors are generally dependent on non-guarantor subsidiary operating companies to fund these activities.
+As of December 31, 2020 and 2019, the combined Guarantors have noncurrent notes payable to non-guarantor subsidiaries of $124 billion and $122 billion, respectively, and noncurrent notes receivable from non-guarantor subsidiaries of $26 billion and $21 billion, respectively. This financial information is that of the Guarantors presented on a combined basis with intercompany balances between the Guarantors eliminated. The combined financial information excludes financial information of non-guarantor subsidiaries. The underlying net assets of the non-guarantor subsidiaries are significantly in excess of the Guarantor obligations. Excluding investments in non-guarantor subsidiaries, external debt and the noncurrent notes payable and receivable with non-guarantor subsidiaries, the Guarantors do not have material assets, liabilities or results of operations.
+Comcast 2020 Annual Report on Form 10-K
+One-way Guarantees
+Comcast provides full and unconditional guarantees of certain debt issued by Sky and other consolidated subsidiaries not subject to the periodic reporting requirements of the SEC.
+Comcast also provides a full and unconditional guarantee of $138 million principal amount of subordinated debt issued by Comcast Holdings. Comcast’s obligations under this guarantee are subordinated and subject, in right of payment, to the prior payment in full of all of Comcast’s senior indebtedness, including debt guaranteed by Comcast on a senior basis; and are structurally subordinated to the indebtedness and other liabilities of its non-guarantor subsidiaries (for purposes of this Comcast Holdings discussion, Comcast Cable and NBCUniversal are included within the non-guarantor subsidiary group). Comcast’s obligations as guarantor will remain in effect until all amounts payable with respect to the guaranteed debt have been paid in full. However, the guarantee will terminate upon a disposition of Comcast Holdings or all or substantially all of its assets. Comcast Holdings is a consolidated subsidiary holding company that directly or indirectly holds 100% and approximately 37% of our equity interests in Comcast Cable and NBCUniversal, respectively.
+As of December 31, 2020 and 2019, Comcast and Comcast Holdings, the combined issuer and guarantor of the guaranteed subordinated debt, have noncurrent senior notes payable to non-guarantor subsidiaries of $94 billion and $92 billion, respectively, and noncurrent notes receivable from non-guarantor subsidiaries of $23 billion and $18 billion, respectively. This financial information is that of Comcast and Comcast Holdings presented on a combined basis with intercompany balances between Comcast and Comcast Holdings eliminated. The combined financial information excludes financial information of non-guarantor subsidiaries of Comcast and Comcast Holdings. The underlying net assets of the non-guarantor subsidiaries of Comcast and Comcast Holdings are significantly in excess of the obligations of Comcast and Comcast Holdings. Excluding investments in non-guarantor subsidiaries, external debt and the noncurrent notes payable and receivable with non-guarantor subsidiaries, Comcast and Comcast Holdings do not have material assets, liabilities or results of operations.
+Comcast 2020 Annual Report on Form 10-K 62
+Contractual Obligations
+Payment Due by Period
+As of December 31, 2020 (in millions) Total Year 1 Years 2-3 Years 4-5 More than 5
+Debt obligations(a)
+$ 104,408 $ 2,923 $ 7,794 $ 13,612 $ 80,079
+Collateralized obligation(a)(b)
+5,168 - - 5,168 -
+Finance lease obligations 1,001 210 159 87 545
+Operating lease obligations 5,381 873 1,461 1,004 2,043
+Purchase obligations(c)
+64,765 21,288 17,254 9,693 16,530
+Other long-term liabilities reflected on the balance sheet(d)
+5,234 434 1,278 1,218 2,304
+Total(e)(f)
+$ 185,957 $ 25,728 $ 27,946 $ 30,782 $ 101,501
+Refer to Notes 6 and 16.
+(a)Excludes interest payments.
+(b)Collateralized obligation relates to a $5.2 billion term loan facility, the principal amount of which is fully secured by the minimum guaranteed proceeds under the put/call provisions related to our investment in Hulu. See Note 9.
+(c)Purchase obligations consist of agreements to purchase goods and services that are legally binding on us and specify all significant terms, including fixed or minimum quantities to be purchased and price provisions. Our purchase obligations related to Cable Communications and Sky include programming contracts with cable networks and local broadcast television stations; contracts with customer premise equipment manufacturers; contracts with communications vendors and multichannel video providers for which we provide advertising sales representation; contracts to acquire handsets and other equipment; and other contracts entered into in the normal course of business. Cable Communications’ and Sky’s programming contracts include amounts payable under fixed or minimum guaranteed commitments and do not represent the total fees that are expected to be paid under programming contracts, which we expect to be significantly higher because these contracts are generally based on the number of subscribers receiving the programming. Our purchase obligations related to NBCUniversal and Sky include commitments to acquire film and television programming, and broadcast rights relating to sporting events, such as the Olympics, the NFL and European soccer leagues, as well as obligations under various creative talent agreements, including obligations to actors, producers and television personalities, and various other television commitments. Purchase obligations do not include contracts with immaterial future commitments.
+(d)Other long-term liabilities reflected on the balance sheet consist primarily of deferred compensation obligations and postretirement, pension and postemployment benefit obligations. Our total recorded liability of $2.8 billion related to participations and residuals are not included in the table above because we cannot make a reliable estimate of the period in which these obligations will be settled. Liabilities for uncertain tax positions of $1.4 billion and the associated interest and penalties are not included in the table above because it is uncertain if or when these amounts will become payable. A contractual obligation with a carrying value of $1.1 billion is not included in the table above because it is uncertain if the arrangement will be settled. The contractual obligation involves an interest held by a third party in the revenue of certain theme parks. See Note 16 for additional information related to this arrangement.
+(e)Our contractual obligations do not include our capital commitment related to our investment in Atairos due to our inability to estimate the timing of this funding. As of December 31, 2020, our remaining commitment is $1.3 billion based on the capital calls received as of that date (see Note 9).
+(f)Total contractual obligations are made up of the following components.
+(in millions)
+Liabilities recorded on the balance sheet $ 126,230
+Commitments not recorded on the balance sheet 59,727
+Total $ 185,957
+Off-Balance Sheet Arrangements
+As of December 31, 2020, we did not have any material off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources.
+Recent Accounting Pronouncements
+See Note 8 for additional information related to recent accounting pronouncements, including the impact of the adoption of the updated accounting guidance related to film and television costs and credit losses.
+Comcast 2020 Annual Report on Form 10-K
+Critical Accounting Judgments and Estimates
+The preparation of our consolidated financial statements requires us to make estimates that affect the reported amounts of assets, liabilities, revenue and expenses, and the related disclosure of contingent assets and contingent liabilities. We base our judgments on our historical experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making estimates about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+We believe our judgments and related estimates associated with the valuation and impairment testing of goodwill and cable franchise rights and the accounting for film and television costs are critical in the preparation of our consolidated financial statements. Management has discussed the development and selection of these critical accounting judgments and estimates with the Audit Committee of our Board of Directors, and the Audit Committee has reviewed the related disclosures below. See also Notes 4 and 11.
+Valuation and Impairment Testing of Goodwill and Cable Franchise Rights
+We assess the recoverability of our goodwill and indefinite-lived intangible assets, including cable franchise rights, annually as of July 1, or more frequently whenever events or substantive changes in circumstances indicate that the assets might be impaired. The assessment of recoverability may first consider qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of a reporting unit or an indefinite-lived intangible asset is less than its carrying amount. A quantitative assessment is performed if the qualitative assessment results in a more-likely-than-not determination or if a qualitative assessment is not performed.
+Goodwill
+Goodwill results from business combinations and represents the excess amount of the consideration paid over the identifiable assets and liabilities recorded in the acquisition. We test goodwill for impairment at the reporting unit level and have concluded that our reporting units are generally the same as our reportable segments. We evaluate the determination of our reporting units periodically or whenever events or substantive changes in circumstances occur. When performing a quantitative assessment, we estimate the fair values of our reporting units primarily based on a discounted cash flow analysis that involves significant judgment, including market participant estimates of future cash flows expected to be generated by the business and the selection of discount rates. When analyzing the fair values indicated under discounted cash flow models, we also consider multiples of Adjusted EBITDA generated by the underlying assets, current market transactions and profitability information.
+We performed qualitative assessments in 2020 for goodwill in our Cable Communications and NBCUniversal segments. The qualitative assessments considered that the estimated fair values of these reporting units substantially exceeded their carrying values at the time of our previous quantitative assessments in 2018; changes in projected future cash flows; recent market transactions and overall macroeconomic conditions, including the effects of COVID-19; discount rates; and changes in our market capitalization. Based on these assessments, we concluded that it was more likely than not that the estimated fair values of our reporting units were higher than their carrying values and that the performance of a quantitative impairment test was not required. We performed a quantitative assessment in 2020 for goodwill in our Sky segment and the estimated fair value of the reporting unit was higher than the carrying value. Assets and liabilities resulting from a business combination are initially recorded at fair value and the risk of goodwill impairment is reduced as the value of the businesses in a reporting unit increases and as the carrying value of the reporting unit decreases due to the amortization of the historical cost of acquired long-lived assets over time. Given the goodwill in our Sky segment resulted from our recent acquisition of Sky in the fourth quarter of 2018, the fair value is in close proximity to the carrying value of the Sky reporting unit.
+Changes in market conditions, laws and regulations, and key assumptions made in future quantitative assessments, including expected cash flows, competitive factors and discount rates, could negatively impact the results of future impairment testing and could result in the recognition of an impairment charge.
+Cable Franchise Rights
+Our cable franchise rights assets result from agreements we have with state and local governments that allow us to construct and operate a cable business within a specified geographic area. The value of a franchise is derived from the economic benefits we receive from the right to solicit new customers and to market additional services in a particular service area. The amounts we record for cable franchise rights are primarily a result of cable system acquisitions. Typically when we acquire a cable system, the most significant asset we record is the value of the cable franchise rights. Often these cable system acquisitions include multiple franchise areas. We currently serve approximately 6,400 franchise areas in the United States.
+Comcast 2020 Annual Report on Form 10-K 64
+We have concluded that our cable franchise rights have an indefinite useful life since there are no legal, regulatory, contractual, competitive, economic or other factors which limit the period over which these rights will contribute to our cash flows. Accordingly, we do not amortize our cable franchise rights.
+For purposes of impairment testing, we have grouped the recorded values of our various cable franchise rights into our three Cable Communications divisions or units of account. We evaluate the unit of account periodically to ensure our impairment testing is performed at an appropriate level.
+When performing a quantitative assessment, we estimate the fair values of our cable franchise rights primarily based on a discounted cash flow analysis that involves significant judgment, including the estimate of future cash flows and the selection of discount rates. When analyzing the fair values indicated under the discounted cash flow models, we also consider multiples of Adjusted EBITDA generated by the underlying assets, current market transactions and profitability information.
+In 2020, we performed a qualitative assessment of our cable franchise rights. At the time of our previous quantitative assessment in 2018, the estimated fair values of our franchise rights substantially exceeded their carrying values. We also considered various factors that would affect the estimated fair values of our cable franchise rights in our qualitative assessment, including changes in our projected future cash flows associated with our Cable Communications segment; recent market transactions and overall macroeconomic conditions, including the effects of COVID-19; discount rates; and changes in our market capitalization. Based on this assessment, we concluded that it was more likely than not that the estimated fair values of our cable franchise rights were higher than the carrying values and that the performance of a quantitative impairment test was not required.
+Changes in market conditions, laws and regulations and key assumptions made in future quantitative assessments, including expected cash flows, competitive factors and discount rates, could negatively impact the results of future impairment testing and could result in the recognition of an impairment charge.
+Film and Television Content
+We capitalize costs for owned film and television content, including direct costs, production overhead, print costs, development costs and interest, as well as acquired libraries. We have determined that the predominant monetization strategy for the substantial majority of our content is on an individual basis. Amortization for owned content predominantly monetized on an individual basis and accrued costs associated with participations and residual payments are recorded using the individual film forecast computation method, which recognizes the costs in the same ratio as the associated ultimate revenue.
+Our estimates of ultimate revenue for films generally include revenue from all sources that are expected to be earned within 10 years from the date of a film’s initial release. These estimates are based on the distribution strategy and historical performance of similar content, as well as factors unique to the content itself. The most sensitive factor affecting our estimate of ultimate revenue for a film intended for theatrical release is the film’s theatrical performance, as subsequent revenue from the licensing and sale of a film has historically exhibited a high correlation to its theatrical performance. Upon a film’s release, our estimates of revenue from succeeding markets, including from content licensing across multiple platforms and home entertainment sales, are revised based on historical relationships and an analysis of current market trends.
+With respect to television series or other owned television programming, the most sensitive factor affecting our estimate of ultimate revenue is whether the series can be successfully licensed beyond its initial license window. Initial estimates of ultimate revenue are limited to the amount of revenue attributed to the initial license window. Once it is determined that a television series or other owned television programming can be licensed beyond the initial license window, revenue estimates for these additional windows or platforms, such as U.S. and international syndication, home entertainment, and other distribution platforms, are included in ultimate revenue. Revenue estimates for produced episodes include revenue expected to be earned within 10 years of delivery of the initial episode or, if still in production, 5 years from the delivery of the most recent episode, if later.
+We capitalize the costs of licensed content when the license period begins, the content is made available for use and the costs of the licenses are known. Licensed content is amortized as the associated programs are broadcast. We recognize the costs of multiyear, live-event sports rights as the rights are utilized over the contract term based on estimated relative value. Estimated relative value is generally based on the ratio of the current period revenue to the estimated ultimate revenue or the terms of the contract. Our estimates of ultimate revenue for sports rights include estimates of advertising and subscribers receiving or viewing the broadcasts over the term of the agreements.
+Comcast 2020 Annual Report on Form 10-K
+Capitalized film and television costs are subject to impairment testing when certain triggering events are identified. The substantial majority of our owned content is evaluated for impairment on an individual title basis. Licensed content that is not part of a film group is tested for impairment primarily on a channel, network or platform basis, with the exception of our broadcast networks and owned local broadcast television stations, which are tested on a daypart basis. Sports rights are accounted for as executory contracts and are not subject to impairment. When performing an impairment assessment, we estimate fair value primarily based on a discounted cash flow analysis that involves significant judgment, including market participant estimates of future cash flows, which are supported by internal forecasts. Adjustments to capitalized film and television costs were not material in any of the periods presented.

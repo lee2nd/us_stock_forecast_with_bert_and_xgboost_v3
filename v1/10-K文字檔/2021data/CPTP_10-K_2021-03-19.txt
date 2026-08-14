@@ -1,0 +1,49 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Our consolidated financial statements are prepared in accordance with GAAP. The following discussion of our financial condition and results of operations excludes the results of our discontinued operations unless otherwise noted. See Note 7, “Discontinued operations and environmental incident” in the accompanying Consolidated Financial Statements for further discussion of these operations.
+1.
+Overview:
+Critical accounting policies:
+The Securities and Exchange Commission (“SEC”) has issued guidance for the disclosure of “critical accounting policies.” The SEC defines such policies as those that require application of management’s most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and may change in subsequent periods.
+The Company’s significant accounting policies are described in Note 2 in the accompanying Consolidated Financial Statements. Not all of these significant accounting policies require management to make difficult, subjective or complex judgments or estimates. Management believes that the Company’s revenue recognition policy for long-term leases with scheduled rent increases meets the SEC definition of “critical.”
+The Company’s long-term leases (land and billboard) have original terms of 30 to 149 years. The Company follows generally accepted accounting principles (“GAAP”) in accounting for its leases by recognizing rental income on the straight-line basis over the term of the leases. Where the straight-line income exceeds the actual contractual payments (“Excess”), the Company evaluates the collectability of the entire stream of remaining lease payments on a lease-by-lease basis. If the remaining lease payments are not deemed to be probable of collection, in accordance with GAAP, lease revenue is recorded at the lower of straight-line rental income or the contractual amount paid.
+The number of years remaining on the Company’s leases range from twenty-nine (29) years to one hundred-thirty-three (133) years with total rent yet to be collected (without regard to CPI and appraisal adjustments) under the lease ranging from $10.4 million to $364.2 million. Given the length of the remaining lease term and the magnitude of the amount yet to be collected, along with the consideration of other factors, the Company has concluded that the remaining stream of lease payments is not probable of collection and as such, reports lease revenue based on the contractual amount paid.
+2.
+Liquidity and capital resources:
+Historically, the Company generates adequate liquidity to fund its operations.
+Cash and cash commitments:
+At December 31, 2020, the Company had cash and cash equivalents of $1,642,000. At December 31, 2020 and 2019, cash equivalents consist of money market accounts totaling $1,555,000 and $1,039,000, respectively. The Company and its subsidiary each maintain checking and money market accounts in two financial institutions, all of which are insured by the Federal Deposit Insurance Corporation to a maximum of $250,000. The Company periodically evaluates the financial stability of the financial institutions at which the Company’s funds are held.
+Under the terms of each applicable long-term land lease, the contractual rent adjustments for the last two year were:
+Parcel
+Number
+Monthly
+Increase
+Effective Date of Increase
+Type of
+Adjustment
+Parcels 6A, 6B and 6C
+$6,100
+July 2019
+10%
+Parcel 3S
+$0
+October 2019
+2019 Appraisal resulted in no rent increase
+Parcel 20
+$2,800
+June 1, 2020
+Base ground rent increase
+On July 30, 2020, the Company received notice that the tenant of Parcel 6C exercised its right to terminate the ground lease effective August 29, 2020. On the termination date, the annual rent on Parcel 6C was $220,000 and the annual real estate taxes paid by the tenant were $311,000. Upon termination, the real estate taxes became an obligation of the Company effective with the taxes assessed as on December 31, 2020. The Company believes that the assessed value of Parcel 6C as contained in a tax treaty between the City of Providence (“City”) and the tenant is much greater than similar parcels in the Capital Center area. The Company is not a party to the tax treaty. Accordingly, the Company has commenced negotiations with the City for a lower assessment.
+Through March 10, 2021 all tenants have paid their monthly rent in accordance with their lease agreements except for Metropark, the tenant that operates public parking on the Company’s undeveloped parcels other than Parcel 6C. The coronavirus (COVID-19) pandemic and Rhode Island’s stay-at-home order has had a significant adverse impact on Metropark. The Company does not know when or if Metropark’s operations will return to normal. Metropark has not fully paid the rent for April 2020 through March 2021. The total rent arrearage as of December 31, 2020 is $340,000 and has been fully reserved by the Company. On July 31, 2020, Metropark and the Company entered into an agreement for revenue sharing at various percentages until parking revenues received by Metropark equal or exceed $70,000 per month whereupon Metropark would be obligated to resume regularly scheduled rental payments under its lease. Upon resumption of regularly scheduled rent payments, Metropark and the Company will share fifty (50) percent of the revenue in excess of $70,000 until the arrearage has been paid in full. If prior to payment in full of the arrearage one or more of the lots is removed from the Metropark lease for development, the amount of the then unpaid arrearage in the ratio of the number of parking spaces on the removed lot to the total parking spaces on all lots prior to such lot’s removal shall be deemed paid in full. Pending this recovery, the Company will continue to recognize Metropark’s rent on a cash basis.
+The Company expects that revenue from Metropark will continue to be recognized on a cash basis all of 2021 and that the 2021 contingent rent from Lamar may be significantly less than the $139,000 received in 2020.
+In February 2019, the Company received the final escrow disbursement ($862,000) from the sale of the Terminal.
+The Terminal Sale Agreement and related documentation provides that the Company is required to secure an approved remediation plan and to remediate contamination caused by a leak in 1994 from a storage tank at the Terminal. At December 31, 2020, the Company’s accrual for the remaining cost of remediation was $490,000 of which $95,000 is expected to be incurred in 2021. On March 9, 2021, the Company commenced operation of the remediation system. The Terminal Sale Agreement also contained a cost sharing provision for a breasting dolphin whereby any costs incurred in connection with the construction of the breasting dolphin in excess of the initial estimate of $1,040,000 would be borne equally by Sprague and the Company subject to certain limitations, including, in the Company’s opinion, a 20% cap on the increase from the initial estimate subject to the sharing arrangement. In November 2019, the Company received a demand letter from Sprague asserting that they were owed $427,000, which amount represents 50% of the actual costs incurred ($1,894,008) in excess of $1,040,000. The Company asserts that its obligation cannot exceed $104,000. See Note 7, “Discontinued operations and environmental incident” in the accompanying Consolidated Financial Statements. The Company and Sprague have agreed to engage in mediation with respect to Sprague’s claim. The mediation is currently scheduled for late April 2021.
+In 2020, the Company declared and paid dividends of $1,386,000 or $0.21 per share.
+The declaration of future dividends will depend on future earnings and financial performance.
+3.
+Results of operations:
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019:
+Continuing operations:
+Revenue, leasing from continuing operations decreased $528,000 from 2019 due principally to a decrease in rent associated with Metropark ($480,000), the termination of the Parcel 6C lease ($60,000), a decline in contingent rent applicable to long-term leases ($20,000) offset by an increase in rent (contractual and contingent rent) from Lamar ($32,000).
+Operating expenses increased $53,000 due principally to: increased property tax expense and legal costs due to the termination of the Parcel 6C lease ($71,000) offset by a decrease in various other expenses ($18,000).
+General and administrative expense increased $39,000 due principally to payroll and payroll related costs ($30,000) as a result of cost-of-living increases and increased medical costs, increased professional fees related to accounting ($53,000) offset by a decrease in legal fees ($38,000) and a net decrease in various other expenses ($6,000).
+For the year ended December 31, 2020 and 2019, the Company’s effective income tax rate is 27% and 28% of income from continuing operations.

@@ -1,0 +1,174 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+The following discussion and analysis should be read in conjunction with our consolidated financial statements and notes thereto and the other financial data appearing elsewhere in this Annual Report.
+Overview
+Since we completed a reverse triangular merger in June 2018, we have been a manufacturer and U.S. distributor of interactive learning technology hardware and software that allows the presenter and participant to engage in a fully collaborative instructional environment. Galaxy's products include Galaxy's own private-label interactive touch screen panel, its own intercom, bell, and paging solutions, as well as an audio amplification line of products that is currently supported by OEM relationships. We provide a multitude of services to our customers, including installation, training, and maintenance. In September 2019, we acquired Interlock Concepts, Inc. (Concepts) and Ehlert Solutions Group, Inc. (Solutions). In October 2020, we acquired the assets of Classroom Technology Solutions, Inc.
+This Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) includes a discussion of our operations for the years ended June 30, 2021 and 2020. The discussion of our operations for the year ended June 30, 2020 includes the results of operations of Concepts and Solutions for part of the fiscal year as Concepts and Solutions were acquired in September 2019 and does not include the operations of Classroom Technology Solutions since its assets were acquired the following fiscal year. The discussion of the operations for the year ended June 30, 2021 includes the operations of Concepts and Solutions for the full year since they were acquired in September 2019 and the operations of Classroom Technology Solutions for a portion of the year since it was acquired in October 2020. Accordingly, the results of operations reported for the years ended June 30, 2021 and 2020 and are not comparable.
+With the global spread of the ongoing novel coronavirus ("COVID-19") pandemic since the first quarter of 2020, we have implemented business continuity plans designed to address and mitigate the impact of the COVID-19 pandemic on our employees and business. While our revenue has not been negatively impacted at this time and demand for our products has increased, given the global economic slowdown, and the other risks and uncertainties associated with the pandemic, we have experienced supply chain issues resulting from the pandemic which could impact our business, financial condition, results of operations and growth prospects. The extent to which the COVID-19 pandemic impacts our business, the business of our suppliers and other commercial partners, our corporate development objectives and the value of and market for our common stock, will depend on future developments that are highly uncertain and cannot be predicted with confidence at this time, such as the ultimate duration of the pandemic, travel restrictions, quarantines, social distancing and business closure requirements in the United States and other countries, and the effectiveness of actions taken globally to contain and treat the disease. The global economic slowdown and the other risks and uncertainties associated with the pandemic could have a material adverse effect on our business, financial condition, results of operations and growth prospects. In addition, to the extent the ongoing COVID-19 pandemic adversely affects our business and results of operations, it may also have the effect of heightening many of the other risks and uncertainties which we face.
+Critical Accounting Policies and Estimates
+Management's Discussion and Analysis discusses our consolidated financial statements which have been prepared in accordance with United States Generally Accepted Accounting Principles (U.S. GAAP). The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the balance sheet date and reported amounts of revenue and expenses during the reporting period. On an ongoing basis, we evaluate our estimates and judgments. We base our estimates and judgments on historical experience and on various other factors that are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our consolidated financial statements.
+Revenue recognition
+We recognize revenue to depict the transfer of promised goods to the customer in an amount the reflects the consideration to which we expect to be entitled in exchange for those goods in accordance with the provisions of ASC 606, "Revenue from Contracts with Customers".
+Stock Compensation
+We record stock-based compensation in accordance with the provisions set forth in ASC 718. ASC 718 requires companies to recognize the cost of employee services received in exchange for awards of equity instruments based upon the grant date fair value of those awards. We, from time to time, may issue common stock to acquire services or goods from non-employees. Common stock issued to persons other than employees or directors are recorded on the basis of their fair value.
+Business Combinations
+We account for business combinations under the acquisition method of accounting. Under this method, acquired assets, including separately identifiable intangible assets, and any assumed liabilities are recorded at their acquisition date estimated fair value. The excess of purchase price over the fair value amounts assigned to the assets acquired and liabilities assumed represents the goodwill amount resulting from the acquisition. Determining the fair value of assets acquired and liabilities assumed involves the use of significant estimates and assumptions.
+Goodwill
+Goodwill is not amortized, but is reviewed for impairment at least annually, or more frequently when events or changes in circumstances indicate that the carrying value may not be recoverable. Judgements regarding indicators of potential impairment are based on market conditions and operational performance of the business. If management concludes, based on its assessment of relevant events, facts and circumstances that it is more likely than not that a reporting unit's carrying value is greater than its fair value, then a goodwill impairment charge is recognized for the amount in excess, not to exceed the total amount of goodwill allocated to that reporting unit.
+Our management determined that a triggering event to assess goodwill impairment occurred during the year ending June 30, 2020 due to the separation of a key executive associated with the acquisition of Concepts and Solutions. While there was no single determinative event, the consideration in totality of several factors that developed during the year of 2020 led management to conclude that it was more likely than not that the fair values of certain intangible assets and goodwill acquired as part of that acquisition were below their carrying amounts. These factors included: a) former key executive separating from us; b) respective former key executive violating his noncompete changing the use and value of it; c) sustained decrease in our share price which reduced market capitalization; and d) uncertainty in the United States and global economies beginning in March 2020 due to COVID-19. As a result of the impairment test, an impairment loss of $2,000,287, including $800,287 related to goodwill and $1,200,000 related to finite-lived intangible assets was recorded during the year ended June 30, 2020.
+Intangible Assets
+Intangible assets are stated at the lower of cost or fair value. Intangible assets are amortized on a straight- line basis over periods ranging from two to five years, representing the period over which we expect to receive future economic benefits from these assets.
+As noted above, we determined certain intangible assets were impaired during the year ended June 30, 2020.
+Derivative Liabilities
+We classify warrants and embedded conversion features on convertible debt as derivative liabilities due to protection provisions within the agreements. Such financial instruments are initially recorded at fair value using the Monte Carlo model and subsequently adjusted to fair value at the close of each reporting period. The derivative liabilities represent a Level 3 financial instrument. We account for derivative instruments and debt instruments in accordance with ASC 815, ASU 2017-11, and associated pronouncements related to the classification and measurement of warrants and instruments with conversion features. ASU 2020-06, Complex Financial Instruments, changes the way we account for derivative liabilities and will be adopted early on July 1, 2021, as permitted by the ASU. The impact of adopting ASU 2020-06 will be disclosed in the financial statement footnotes, as well as on our next quarterly report.
+Recent Accounting Pronouncements Accounting Pronouncements Not Yet Adopted
+For a description of recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our consolidated financial statements, see Part II, Item 8, Note 1, "Summary of Significant Accounting Policies" to the consolidated financial statements in this Annual Report.
+Results of Operations for the Years Ended June 30, 2021 and 2020
+Financial Results and Performance Metrics Overview
+The tables below present an analysis of selected line items period-over-period in our Consolidated Statements of Operations for the periods indicated. The first table is a representation of our quarter-over-quarter performance to break out the activity in Q4 which is reported within the year end data of the financial reports. The second table represents an annual comparison as noted below.
+Revenue
+Total revenues recognized were $3,773,605 and $2,319,852 for the years ended June 30, 2021 and 2020, respectively, an increase of 63%. Additionally, deferred revenue amounted to $453,862 and $1,133,992 as of June 30, 2021 and 2020, respectively. Revenues during the years ended June 30, 2021 and 2020 substantially consisted of revenues from sales of technology interactive panels and related products, bell paging and intercom installs, and audio amplification OEM sales. Revenues increased during the year ended June 30, 2021 due to the increases in the customer base for our products, partially as a result of the pandemic, as well as additional revenues received through our OEM channel.
+Cost of Sales and Gross Profit
+Our cost of sales was $2,077,342 and $1,136,126 for the years ended June 30, 2021 and 2020, respectively, an increase of approximately 83%. Cost of sales for the year ended June 30, 2021 consists primarily of manufacturing, freight, amortization of capitalized development and installation costs. Cost of sales for the years ended June 30, 2020 consists primarily of manufacturing, freight, and installation costs. Cost of sales increased during the year ended June 30, 2021 consistent with the increase in revenues. Gross profit decreased slightly due to amortization of capitalized development costs. Our gross profit as a percentage of total revenues was 45% and 51% for the years ended June 30, 2021 and 2020, respectively.
+General and Administrative
+The tables below represent a quarterly comparison as well as the annual comparison discussed in the financial statements
+Three months ended
+June 30, 2021
+June 30, 2020
+Stock compensation and stock issued for services
+$ -
+$ 31,699
+General and administrative
+742,424
+2,577,198
+Total General and Administrative Expenses
+$ 742,424
+$ 2,608,897
+Total general and administrative expenses (including stock compensation and legal settlement expense) for the quarters were $742,424 and $2,608,897 for the three months ended June 30, 2021 and 2020, respectively, a decrease of approximately 72%.
+Year ended
+June 30, 2021
+June 30, 2020
+Stock compensation and stock issued for services
+$ 2,778,550
+$ 2,087,425
+General and administrative
+5,089,979
+4,841,085
+Asset impairment expense
+-
+2,000,287
+Legal Settlement expense
+-
+2,000,000
+Total General and Administrative Expenses
+$ 7,868,529
+$ 10,928,797
+Total general and administrative expenses (including stock compensation and legal settlement expenses) were $7,868,529 and $10,928,797 for the years ended June 30, 2021 and 2020, respectively, a decrease of 28%. General and administrative expenses for the years ended June 30, 2021 and June 30, 2020 consist primarily of salaries and stock compensation expense, office rent, travel expense, amortization expense, and professional fees. Of this amount, $2,778,550 and $2,087,425 represent consulting fees and stock compensation and stock issued for services, which did not impact cash, for the years ended June 30, 2021 and 2020, respectively. General and administrative expenses for the year ended June 30, 2020 also included a non-cash impairment charge of $2,000,287 and a legal settlement of $2,000,000.
+When excluding the non-cash impairment charge taken during the year ended June 30, 2020, general and administrative expenses decreased to $8,928,510 compared to $7,868,529 for the year ended June 30, 2021, a decrease of 12%. The decrease was due to the increase in costs capitalized for product development, offset by a reduction of costs associated with remote and virtual tradeshows, and other cost savings strategies implemented by management.
+Interest Expense
+Year ended
+June 30, 2021
+June 30, 2020
+Other income
+$ 456,579
+$ 6,415
+Expenses related to convertible notes payable:
+Change in fair value of derivative liability
+(1,619,583)
+2,651,957
+Interest accretion
+(382,436)
+(1,825,506)
+Interest expense related to equity purchase agreement
+(8,462,297)
+-
+Interest expense
+(8,254,333)
+(5,113,902)
+Total Other Income (Expense)
+$ (18,262,070)
+$ (4,281,036)
+Interest expense amounted to $8,254,333 and $5,113,902 for the years ended June 30, 2021 and 2020, respectively. Interest expense related to the equity purchase agreement increased to $8,462,297 for the year ended June 30, 2021. The increase in interest expense was due to the use of our equity purchase agreement to obtain working capital. During the years ended June 30, 2021 and 2020, we amortized $274,703 and $340,526 of debt discounts to interest expense.
+During the years ended June 30, 2021 and 2020, we amortized $382,436 and $1,825,506 of original issue debt discount on derivative instruments to interest accretion.
+Other Income (Expense)
+Three months ended
+June 30, 2021
+June 30, 2020
+Other income
+$ 315,562
+$ 3,366
+Expenses related to convertible notes payable:
+Change in fair value of derivative liability
+1,534,000
+(4,543,063)
+Interest accretion
+384,167
+4,064,662
+Interest related to equity purchase agreement
+(1,654,710)
+-
+Interest expense
+(1,080,554)
+(1,290,975)
+Total Other Income (Expense)
+$ (501,535)
+$ (1,766,010)
+The outstanding warrants and conversion features in convertible notes meet the definition of a derivative liability instrument because the exercise price of the warrants and the conversion rates are variable. As a result, the outstanding warrants and conversion features of the notes are recorded as a derivative liability at fair value and marked-to-market each period with the change in fair value charged or credited to income. A derivative liability of $1,842,000 and $246,612 is recorded at June 30, 2021 and June 30, 2020. A change in fair value of the derivative instruments was accreted by ($1,619,583) and $2,651,957 during the years ended June 30, 2021 and 2020, respectively, due to the change in our stock price. These amounts do not impact cash. ASU 2020-06, Complex Financial Instruments, changes the way we account for derivative liabilities and will be adopted early on July 1, 2021, as permitted by the ASU. The impact of adopting ASU 2020-06 will be disclosed in the financial statement footnotes, as well as on our next quarterly report.
+Net Loss for the Period
+As a result of the foregoing, net loss incurred for the years ended June 30, 2021 and 2020 was $24,434,336 and $14,026,107, respectively, an increase of 74%. Noncash contributing factors for the net loss incurred for the years ended June 30, 2021 and 2020 is as follows:
+a) $2,778,550 and $2,087,425 represent consulting fees and stock compensation and stock issued for services for the years ended June 30, 2021 and 2020, respectively;
+b) amortization of intangible assets and capitalized development costs for the years ended June 30, 2021 and 2020 totaling $474,635 and $206,563, respectively; and
+c) impairment charges taken of $2,000,287 for the year ended June 30, 2020.
+Net loss incurred for the quarters ending June 30, 2021 and 2020 was $641,188 and $3,925,456 respectively, a decrease of 84%. Noncash contributing factors for the net loss incurred for the quarters ending June 30, 2021 and 2020 is as follows:
+a) $0 and $31,699 represent consulting fees and stock compensation and stock issued for services for the quarters ended June 30, 2021 and 2020, respectively;
+b) amortization of intangible assets and capitalized development costs for the quarters ended June 30, 2021 and 2020 totaling $206,975 and $88,416, respectively; and
+Off-Balance Sheet Arrangements
+Other than our commitments discussed in Notes 10 and 11 on pages through to our audited financial statements for the year ended June 30, 2021, we did not have any off-balance sheet arrangements as of June 30, 2021.
+Liquidity and Capital Resources
+Since the merger in June 2018, our revenues generated from operations have been insufficient to support our operational activities and have been supplemented by the proceeds from the issuance of securities, including equity and debt issuances. As stated in Note 14 of the notes to the consolidated financial statements included in this Annual Report, our ability to continue as a going concern is dependent upon management's ability to raise capital from the sale of its equity and, ultimately, the achievement of operating revenues. If our revenues continue to be insufficient to support our operational activities, we intend to raise additional capital through the sale of equity securities or borrowings from financial institutions and possibly from related and nonrelated parties who may in fact lend to us on reasonable terms. Management believes that its actions to secure additional funding will allow us to continue as a going concern. We currently do not have any committed sources of financing other than our line of credit, the Amended and Restated Equity Purchase Agreement that we entered into with Tysadco Partners LLC on December 29, 2020, and accounts receivable factoring agreement, each of which requires us to meet certain conditions to utilize. Under the Amended and Restated Equity Purchase Agreement, we can issue up to an aggregate of $10 million worth of shares of our common stock at June 30, 2021 over a two-year period. Pursuant to the terms of the Amended and Restated Equity Purchase Agreement, we have the right to direct Tysadco Partners LLC to purchase the lesser of 500,000 shares of its common stock per sale or 300% of the average shares traded for the 10 days prior to the closing request date, at a purchase price of 85% of the lowest average daily traded price during the ten trading days commencing on the first trading day following delivery and clearing of the delivered shares, with a minimum request of $200,000. We have 205,000,000 shares of our common stock available to issue under the Equity Purchase Agreement at June 30, 2021. During the year ended June 30, 2021, we raised $5,073,438 from the sale of 655,938,679 shares of our common stock under the Amended and Restated Equity Purchase Agreement. There can be no assurance that we will meet all or any of the requirements pursuant to our line of credit, our Equity Purchase Agreement, and accounts receivable factoring agreement, and therefore those financing options may be unavailable to us. There is no guarantee we will be successful in raising capital outside of our current sources, and if so, that we will be able to do so on favorable terms.
+Our cash totaled $541,591 at June 30, 2021, as compared with $412,391 at June 30, 2020, an increase of $129,200. Net cash of $6,316,265 was used in operations for the year ended June 30, 2021. Net cash of $502,658 was used in investing activities for the year ended June 30, 2021. Net cash of $6,948,123 was provided by financing activities for the year ended June 30, 2021, primarily due to proceeds from our Amended and Restated Equity Purchase Agreement. The majority of this cash was used in the investment of product for orders already received to stay ahead of the potential product shortages we may experience in the future. During the year ended June 30, 2021, we raised $5,073,438 from the sale of 655,938,679 shares of our common stock under the Amended and Restated Equity Purchase Agreement and $2,697,730 from the issuance of convertible notes
+Total liabilities amounted to $8,760,482 and $12,238,073 as of June 30, 2021 and 2020, respectively, primarily consists of borrowings under a line of credit, derivative liability, accounts payable, deferred revenue and related party notes payable.
+To implement our business plan, we may require additional financing. Additional financing may come from future equity or debt offerings that could result in dilution to our stockholders. Further, current adverse capital and credit market conditions could limit our access to capital. We may be unable to raise capital or bear an unattractive cost of capital that could reduce our financial flexibility.
+Our long-term liquidity requirements will depend on many factors, including the rate at which we grow our business and footprint in the industries. To the extent that the funds generated from operations are insufficient to fund our activities in the long term, we may be required to raise additional funds through public or private financing. No assurance can be given that additional financing will be available or that, if it is available, it will be on terms acceptable to us.
+Non-GAAP Disclosure
+Net loss less stock compensation, and general and administrative expense, less stock compensation and impairment expenses, noted below, are non-GAAP measures and do not have standardized definitions under GAAP. The tables below provide a reconciliation of the non-GAAP financial measures, presented herein, to the most directly comparable financial measures calculated and presented in accordance with GAAP. These non-GAAP financial measures are presented because management has evaluated the financial results both including and excluding the adjusted items and believe that the non-GAAP financial measures provide additional perspective and insights when analyzing the core operating performance of the business. The non-GAAP financial measures should not be considered superior to, as a substitute for, or as an alternative to, and should be considered in conjunction with, the GAAP financial measures presented.
+Three months ended
+June 30,
+March 31, 2021
+December 31, 2020
+September 30, 2020
+Revenue
+$1,019,142
+$777,457
+$ 798,793
+$ 1,178,213
+Gross profit
+602,771
+420,726
+327,730
+345,036
+General and administrative expense, less stock compensation and impairment expenses
+742,424
+1,697,410
+1,257,918
+1,392,227
+Net Loss less stock compensation and impairment expenses
+($139,653)
+$(1,276,684)
+$(930,188)
+$(1,047,191)
+Year ended
+June 30, 2021
+June 30, 2020
+Revenue
+$ 3,773,605
+$ 2,319,852
+Gross profit
+1,696,263
+1,183,726
+General and administrative expense, less stock compensation and impairment expenses
+5,089,979
+6,841,085
+Net Loss less stock compensation and impairment expenses
+$(3,393,716)
+$(5,657,359)

@@ -1,0 +1,368 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+The following discussion and analysis of our financial condition, results of operations and liquidity should be read in conjunction with our consolidated financial statements for the years ended December 31, 2020 and 2019 and the related notes appearing elsewhere in this annual report. Our consolidated financial statements have been prepared in accordance with generally accepted accounting principles.
+CRITICAL ACCOUNTING POLICIES
+Our critical accounting policies, including the assumptions and judgments underlying those policies, are more fully described in the notes to our consolidated financial statements. We have consistently applied these policies in all material respects. Investors are cautioned, however, that these policies are not guarantees of future performance and involve risks and uncertainties, and that actual results may differ materially. Set forth below are the accounting policies that we believe most critical to an understanding of our financial condition, results of operations and liquidity.
+Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of the Company, Spectral Holdings, Inc, its 60% owned subsidiary, Noot Holdings, Inc, from its date of incorporation of February 28, 2013, and its 60% owned subsidiary, Monitr Holdings, Inc. from its date of incorporation of December 1, 2013. All material intercompany accounts and transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date the financial statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+OVERVIEW
+Spectral Capital Corporation (“Spectral” or the Company, also “We or Us”) is a technology company focused on the identification, acquisition, development, financing of technology that has the potential to transform existing industries. We look for technology that can be protected through patents or laws regarding trade secrets. Spectral has acquired significant stakes in two technology companies. Spectral intends to own, in full or in part, early stage technology companies.
+PLAN OF OPERATIONS
+Spectral Capital is a technology startup accelerator that invests in early stage companies. Spectral targets industry verticals and solutions where disruption and network effects allow for rapid adoption and displacement of incumbents. We work with startups focusing them on rapid development, getting to market, and refining their products and services with innovative features that reflect direct customer and market feedback. In addition to meeting some of the financing needs of our portfolio companies, we provide our teams with executive support at the technology, marketing and operations level in effort to bring optimal results.
+Noot is a mobile technology company that created the mobile application “Noot” which utilized proprietary search engine technology for mobile devices that delivered personalized information to the user. While Noot is no longer a working mobile application, as we determined the revenue potential did not meet our expectations, we are seeking alternative business opportunities to utilize the underlining technology.
+Monitr, launched in late 2014, is a technology and financial data services company that identifies for investors stocks that its software detects to be trending up in price at the moment.
+· Monitr leverages cloud computing, big data and software to analyze the financial markets to discover those stocks that are trending now. Thousands of companies, news stories, blogs and opinion pieces are analyzed daily to uncover the trends and displayed in an accessible and easy-to-use web based interface for investors and traders.
+· Many investors use only a few sources to become informed of market conditions, Monitr provides investors with access to thousands of sources.
+Monitr specializes in the analysis of news and opinion to determine the aggregate sentiment and trends of equities across markets in part to detect trends and provide relevant data for its users. In a change to its business model, Monitr no longer offers these services direct to individual customers for monthly or annual fees. Instead it has focused on sourcing its services to professional trading organizations that want access to Monitr´s trend detecting software.
+On September 30, 2015, one of Spectral´s portfolio companies, Kontexto, ceased operations and is no longer in business.
+Spectral's twelve-month plan includes the following goals/targets:
+· Complete one or more private equity placements;
+· Upgrade and add features to Monitr´s trend detecting software,
+· Solicit sales from larger financial institutions for Monitr´s customized analysis, real time data services and other API features;
+· Upgrade and determine business development opportunities for Noot’s search technology.
+RESULTS OF OPERATIONS FOR THE YEARS ENDED DECEMBER 31, 2020 AND 2019
+Revenues
+We are currently engaged in a technology development business and have exited natural resources. To date we have not recognized significant revenues.
+Operating Expenses
+Operating expenses decreased $10,785, from $179,184 for the year ended December 31, 2019 to $168,399 for the year ended December 31, 2020. The decrease is due to the limited amount of capital available to the Company, thus, expenditures consists of costs related to keeping the Company current in their SEC reporting requirements.
+LIQUIDITY AND CAPITAL RESOURCES
+As of December 31, 2020, we had $413 of cash on hand. We intend to fund operations through the use of cash on hand and through additional advances from our chief executive officer and through debt and equity financings until sufficient cash flows from operations can be achieved.
+Net cash used in operating activities decreased $6,237, from $30,009 for the year ended December 31, 2019 to $23,772 for the year ended December 31, 2020. This continued low amount of costs was primarily related to the Company having limited operations, due to the cash flow limitations.
+Net cash provided by financing activities decreased by $6.872 from $30,204 for the year ended December 31, 2019 to $23,332 for the year ended December 31, 2020. Net cash provided by financing activities during the years ended December 31, 2020 and 2019 related to advances from a related party in connection with payment of the Company's obligations.
+We believe that our current financial resources are not sufficient to meet our working capital requirements over the next year. Additional funding will be necessary in order to expand portfolio operations and to reach our goals. Currently, the Company does not have any commitments or assurances for additional capital nor can the Company provide assurance that such financing will be available to it on favorable terms, or at all. If, after utilizing the existing sources of capital available to the Company, further capital needs are identified and the Company is not successful in obtaining the financing, it may be forced to curtail its existing or planned future operations. In addition, if necessary, we will decrease expenses and redirect our efforts towards a sale of one of more of our assets should funding become inadequate.
+SPECTRAL CAPITAL CORPORATION
+DECEMBER 31, 2020 AND 2019
+Report of Independent Registered Public Accounting Firm
+F - 1
+Consolidated Balance Sheets as of December 31, 2020 and 2019
+F - 2
+Consolidated Statements of Operations for the years ended December 31, 2020 and 2019
+F - 3
+Consolidated Statement of Stockholders’ Deficit for the years ended December 31, 2020 and 2019
+F - 4
+Consolidated Statements of Cash Flows for the years ended December 31, 2020 and 2019
+F - 5
+Notes to Consolidated Financial Statements
+F - 6
+Report of Independent Registered Public Accounting Firm
+To the shareholders and the board of directors of Spectral Capital Corporation
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Spectral Capital Corporation (the "Company") as of December 31, 2020 and 2019, the related statements of operations, stockholders' equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States.
+Basis for Opinion
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion.
+Substantial Doubt about the Company’s Ability to Continue as a Going Concern
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company’s minimal activities raise substantial doubt about its ability to continue as a going concern. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+/s/ BF Borgers CPA PC
+BF Borgers CPA PC
+We have served as the Company's auditor since 2017
+Lakewood, CO
+February 18, 2021
+SPECTRAL CAPITAL CORPORATION
+CONSOLIDATED BALANCE SHEETS
+AS OF DECEMBER 31, 2020 AND 2019
+The accompanying notes are an integral part of these consolidated financial statements.
+SPECTRAL CAPITAL CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+FOR THE YEARS ENDED DECEMBER 31, 2020 AND 2019
+The accompanying notes are an integral part of these consolidated financial statements.
+SPECTRAL CAPITAL CORPORATION
+CONSOLIDATED STATEMENT OF STOCKHOLDERS' DEFICIT
+FOR THE YEARS ENDED DECEMBER 31, 2020 AND 2019
+The accompanying notes are an integral part of these consolidated financial statements.
+SPECTRAL CAPITAL CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2020 AND 2019
+The accompanying notes are an integral part of these consolidated financial statements.
+SPECTRAL CAPITAL CORPORATION
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 - NATURE OF OPERATIONS
+Spectral Capital Corporation (the "Company" or "Spectral") was incorporated on September 13, 2000 under the laws of the State of Nevada. Spectral is focused on the identification, acquisition, development, financing of technology that has the potential to transform existing industries. The Company looks for technology that can be protected through patents or laws regarding trade secrets. Spectral has acquired significant stakes in three technology companies currently and actively works with management to drive these companies toward increasing market penetration in their particular verticals. Spectral intends to own, in full or in part, technology companies whose founders and key management can take advantage of the deep networks and experience in technology development embodied in Spectral management.
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Going Concern
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. The Company is in the development stage and has sustained substantial losses since inception. As of December 31, 2020, the Company has cash on hand of $413 and negative working capital of $1,090,251. The Company expects current cash on hand will not be able to fund operations for a period 12 months or more. These factors raise substantial doubt regarding the Company's ability to continue as a going concern.
+To date management has funded its operations through selling equity securities and advances from related parties. The ability of the Company to continue as a going concern is dependent on the Company generating cash from the sale of its common stock and/or obtaining debt financing and attaining future profitable operations, however, there can be no assurance the Company will be successful in these efforts. As of the date of these consolidated financial statements the Company does not have any firm commitments for capital. Without the required capital, the Company will be required to reduce their development expenditures which will potentially delay the completion of products which are expected to generate future revenues.
+Risks and Uncertainties
+The Company has a limited operating history and has not generated revenues from our planned principal operations.
+The Company's business and operations are sensitive to general business and economic conditions in the U.S. and worldwide. These conditions include short-term and long-term interest rates, inflation, fluctuations in debt and equity capital markets and the general condition of the U.S. and world economy. A host of factors beyond the Company's control could cause fluctuations in these conditions, including the political environment and acts or threats of war or terrorism. Adverse developments in these general business and economic conditions, including through recession, downturn or otherwise, could have a material adverse effect on the Company's consolidated financial condition and the results of its operations.
+The Company currently has no sales and limited marketing and/or distribution capabilities. The Company has limited experience in developing, training or managing a sales force and will incur substantial additional expenses if we decide to market any of our current and future products. Developing a marketing and sales force is also time consuming and could delay launch of our future products. In addition, the Company will compete with many companies that currently have extensive and well-funded marketing and sales operations. Our marketing and sales efforts may be unable to compete successfully against these companies. In addition, the Company has limited capital to devote sales and marketing.
+The Company's industry is characterized by rapid changes in technology and customer demands. As a result, the Company's products may quickly become obsolete and unmarketable. The Company's future success will depend on its ability to adapt to technological advances, anticipate customer demands, develop new products and enhance our current products on a timely and cost-effective basis. Further, the Company's products must remain competitive with those of other companies with substantially greater resources. The Company may experience technical or other difficulties that could delay or prevent the development, introduction or marketing of new products or enhanced
+versions of existing products. Also, the Company may not be able to adapt new or enhanced products to emerging industry standards, and the Company's new products may not be favourably received. Nor may we have the capital resources to further the development of existing and/or new ones.
+On January 30, 2020, the World Health Organization declared the coronavirus outbreak (“COVID-19”) a “Public Health Emergency of International Concern” and on March 10, 2020, declared it to be a pandemic. Actions taken around the world to help mitigate the spread of the coronavirus include restrictions on travel, and quarantines in certain areas, and forced closures for certain types of public places and businesses. The coronavirus and actions taken to mitigate it have had and are expected to continue to have an adverse impact on the economies and financial markets of many countries, including the geographical area in which the Company operates. The impact of COVID-19 to our operations had been minimal due to our limited operations. However, due to the continued uncertainty around COVID-19 the additional effects of the potential impact cannot be predicted at this time.
+Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of the Company, Spectral Holdings, Inc, and its 60% owned subsidiaries, Noot Holdings, Inc. from its date of incorporation of February 28, 2013, and Monitr Holdings, Inc. from its date of incorporation of December 1, 2013. All material intercompany accounts and transactions have been eliminated in consolidation.
+Basis of Presentation
+The consolidated financial statements of the Company have been prepared in accordance with generally accepted accounting principles in the United States of America and are presented in US dollars.
+Stock-Based Compensation
+The Company accounts for employee stock-based compensation in accordance with the guidance of the Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 718, Compensation - Stock Compensation which requires all share-based payments to employees, including grants of employee stock options, to be recognized in the financial statements based on their fair values.
+The Company follows ASC Topic 505-50, Equity: Equity-Based Payments to Non-Employees for stock options and warrants issued to consultants and other non-employees. In accordance with ASC Topic 505-50, these stock options and warrants issued as compensation for services provided to the Company are accounted for based upon the fair value of the services provided or the estimated fair market value of the option or warrant, whichever can be more clearly determined. The fair value of the equity instrument is charged directly to compensation expense and additional paid-in capital over the period during which services are rendered.
+Because the Company’s stock-based compensation options have characteristics significantly different from those of traded options, and because changes in the subjective input assumptions can materially affect the estimate, amounts estimated using the Black-Scholes option pricing model may differ materially from the actual fair value of the Company’s stock-based compensation options.
+Use of Estimates
+The preparation of the consolidated financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Revenue Recognition
+The Company will recognize revenues in accordance with Accounting Standards Codification (“ASC”) 606, “Revenue from contracts with customers”. Revenues will be recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. Revenues during the year ended December 31, 2020, were insignificant to the financial statements. These revenues are for one annual subscription sold to which is being recorded over the subscription period. Deferred revenue represents amounts in which still have yet to be earned.
+Fair Value of Financial Instruments
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants as of the measurement date. Applicable accounting guidance provides an established hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. Observable inputs are inputs that market participants would use in valuing the asset or liability and are developed based on market data obtained from sources independent of the Company. Unobservable inputs are inputs that reflect the Company’s assumptions about the factors that market participants would use in valuing the asset or liability. There are three levels of inputs that may be used to measure fair value:
+Level 1 - Observable inputs that reflect quoted prices (unadjusted) for identical assets or liabilities
+in active markets.
+Level 2 - Include other inputs that are directly or indirectly observable in the marketplace.
+Level 3 - Unobservable inputs which are supported by little or no market activity.
+The fair value hierarchy also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. As of December 31, 2020 and 2019, the Company does not have any assets or liabilities which would be considered Level 2 or 3.
+The Company’s financial instruments primarily consist of cash and cash equivalents, accounts payable, deferred revenue and amounts payable to related parties. The carrying amount of these financial instruments approximates fair value due either to length of maturity or interest rates that approximate prevailing market rates unless otherwise disclosed in these consolidated financial statements.
+Income Taxes
+The Company follows ASC 740, Income Taxes for recording the provision for income taxes. The asset and liability approach is used to recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the carrying amounts and the tax bases of assets and liabilities. Tax law and rate changes are reflected in income in the period such changes are enacted. The Company records a valuation allowance to reduce deferred tax assets to the amount that is more likely than not to be realized. The Company includes interest and penalties related to income taxes, including unrecognized tax benefits, within the income tax provision.
+The Company’s income tax returns are based on calculations and assumptions that are subject to examination by the Internal Revenue Service and other tax authorities. In addition, the calculation of the Company’s tax liabilities involves dealing with uncertainties in the application of complex tax regulations. The Company recognizes liabilities for uncertain tax positions based on a two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. While the Company believes it has appropriate support for the positions taken on its tax returns, the Company regularly assesses the potential outcomes of examinations by tax authorities in determining the adequacy of its provision for income taxes. The Company continually assesses the likelihood and amount of potential adjustments and adjusts the income tax provision, income taxes payable and deferred taxes in the period in which the facts that give rise to a revision become known.
+The Company recognizes windfall tax benefits associated with share-based awards directly to stockholders’ equity only when realized. A windfall tax benefit occurs when the actual tax benefit realized by the Company upon an employee's disposition of a share-based award exceeds the deferred tax asset, if any, associated with the award that the Company had recorded. When assessing whether a tax benefit relating to share-based compensation has been realized, the Company follows the tax law ordering method, under which current year share-based compensation deductions are assumed to be utilized before net operating loss carryforwards and other tax attributes.
+We are currently delinquent with respect to our U.S. federal income tax filings for the past several years.
+Investment in Securities
+The Company’s investments consisting of common shares of non-controlled entities are accounted for on the cost basis. Impairment losses will be recorded when indicators of impairment are present.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with maturities of three months or less to be cash equivalents.
+Basic Loss Per Share
+Basic loss per share is calculated by dividing the Company’s net loss applicable to common shareholders by the weighted average number of common shares during the period. Diluted earnings per share is calculated by dividing the Company’s net income available to common shareholders by the diluted weighted average number of shares outstanding during the year. The diluted weighted average number of shares outstanding is the basic weighted number of shares adjusted for any potentially dilutive debt or equity. Common share equivalents totalling 10,000,000 and 13,000,000were outstanding at December 31, 2020 and 2019, respectively, representing outstanding warrants and options, and were not included in the computation of diluted earnings per share for the years ended December 31, 2020 and 2019, as their effect would have been anti-dilutive.
+Non-Controlling Interests
+Non-controlling interests disclosed within the consolidated statement of operations represent the minority ownership's 40% share of net losses of Noot Holdings, Inc. and Monitr Holdings, Inc incurred during the years ended December 31, 2020 and 2019. The following table sets forth the changes in non-controlling interest for the years ended December 31, 2020 and 2019:
+Foreign Currency
+The Company's functional currency is the United States Dollar. Transaction gains or losses related to balances denominated in a currency other than the functional currency are recognized in the consolidated statements of operations.
+Recent Accounting Pronouncements
+In February 2016, the FASB issued ASU No. 2016-02 “Leases” (Topic 842), that requires organizations that lease assets, referred to as “lessees”, to recognize on the balance sheet the assets and liabilities for the rights and obligations created by those leases with lease terms of more than 12 months. ASU No. 2016-02 will also require disclosures to help investors and other financial statement users better understand the amount, timing, and uncertainty of cash flows arising from leases and will include qualitative and quantitative requirements. The Company adopted the new standard on January 1, 2019. The adoption of the standard did not have an impact on the consolidated financial statements and related disclosures.
+The FASB issues ASUs to amend the authoritative literature in the FASB Accounting Standards Codification (“ASC”). There have been a number of ASUs to date, including those above, that amend the original text of ASC. Management believes that those issued to date either (i) provide supplemental guidance, (ii) are technical corrections,
+(iii) are not applicable to the Company or (iv) are not expected to have a significant impact the Company’s financial statements.
+NOTE 3 - RELATED PARTY TRANSACTIONS
+Jenifer Osterwalder, the Company's Chief Executive Officer
+Jenifer Osterwalder charges the Company $12,000 per month beginning January 1, 2020 for services rendered. Previously she was charging 12,350 CHF per month for services rendered. Total amounts expended in the Company's consolidated financial statements in connection with the CEO's services was $144,000 and $148,888 for the years ended December 31, 2020 and 2019, respectively. As of December 31, 2020 and 2019, amounts due to the CEO related to accrued salaries were $910,653 and $766,653, respectively.
+From time to time due to the limited cash flow available, the Company's CEO pays certain operating expenditures on behalf of the Company. These advances bear no interest and are due on demand. As of December 31, 2020 and 2019, the Company's CEO was due $178,605 and $155,273 in connection with these advances, respectively.
+NOTE 4 - STOCKHOLDERS' DEFICIT
+Changes in Stockholders' Deficit
+Net loss and non-controlling interest were the only changes to stockholders' deficit during the year ended December 31, 2020 and 2019.
+Employee Options
+The Company accounts for employee stock-based compensation in accordance with the guidance of FASB ASC Topic 718, Compensation - Stock Compensation which requires all share-based payments to employees, including grants of employee stock options, to be recognized in the financial statements based on their fair values.
+The Company has adopted a stock option and award plan to attract, retain and motivate its directors, officers, employees, consultants and advisors. Options provide the opportunity to acquire a proprietary interest in the Company and to benefit from its growth. Vesting terms and conditions are determined by the Board of Directors at the time of the grant. The Plan provides for the issuance of up to 15,000,000 common shares for employees, consultants, directors, and advisors.
+A summary of changes in stock options during the years ended December 31, 2020 and 2019 is as follows:
+On February 6, 2012, the Company granted 7,500,000 options to two employees. Stock-based compensation is being recognized over the two year vesting period. The options were valued at $3,408,750 using the Black-Scholes Option Pricing Model. Employee stock-based compensation expense relating to options granted in 2010 and 2012, recognized during the year ended December 31, 2020 and 2019 was $0 and $0, respectively.
+During the year ended December 31, 2020, 3,000,000 options to two employees expired without being exercised.
+NOTE 5 - INCOME TAXES
+As of December 31, 2020, the Company had net operating loss carry forwards of approximately $14,200,000 that may be available to reduce future years’ taxable income through 2037. Future tax benefits which may arise as a result of these losses have not been recognized in these consolidated financial statements, as their realization is determined not likely to occur and accordingly, the Company has recorded a valuation allowance for the deferred tax asset relating to these tax loss carry-forwards. The difference between the Company's tax rate and the statutory rate is due to a full valuation allowance.
+The provision for Federal income tax consists of the following:
+The cumulative tax effect at the expected rate of 21% of significant items comprising our net deferred tax amount is as follows:
+Due to the change in ownership provisions of the Tax Reform Act of 1986, net operating loss carry forwards for federal income tax reporting purposes are subject to annual limitations. Should a change in ownership occur net operating loss carry forwards may be limited as to use in future years. The Company is subject to routine audits by taxing jurisdictions; however, there are currently no audits for any tax periods in progress. The Company believes they are no longer subject to income tax examinations for years prior to 2012.
+NOTE 6 - COMMITMENTS AND CONTINGENCIES
+The Company leases office space on a three-month basis in Seattle, Washington.
+NOTE 7- SUBSEQUENT EVENTS
+In accordance with ASC 855-10, the Company has analysed its operations subsequent to December 31, 2020 to the date these consolidated financial statements were issued and has determined that it does not have any material subsequent events to disclose in these consolidated financial statements, other than those disclosed above.
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS AN ACCOUNTING FINANCIAL DISCLOSURE
+Not applicable.
+ITEM 9A. CONTROLS AND PROCEDURES.
+Evaluation of Disclosure Controls and Procedures
+As required by Rule 13a-15 under the Exchange Act, we carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as of December 31, 2020. This evaluation was carried out under the supervision and with the participation of our Chief Executive Officer and Principal Financial and Accounting Officer, as well as outside consultants. In assessing the effectiveness of our internal control over financial reporting we utilized the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission as published in "Internal Control over Financial Reporting - Guidance for Smaller Public Companies." Based on that evaluation, our Chief Executive Officer and Principal Financial and Accounting Officer found material weaknesses in our disclosure controls and procedures and therefore concluded that our disclosure controls and procedures as of the end of the period covered by this report were ineffective.
+The determination of ineffective internal control is based upon the lack of separation of duties, which was first identified during the year ended December 31, 2010. Our entire management is comprised of one individual. It is impossible to create a system of checks and balances with oversight in this circumstance. It is management’s intention to bring additional people into the management team. Once there are more members of management, responsibilities can be divided and oversight roles created. The Company estimates the annual costs of such remediation efforts in the form of additional management will be $150,000 per year. The Company intends to make such hires and create segregation of duties and proper oversight as soon as the capital is obtained.
+We understand that remediation of disclosure controls is a continuing work in progress due to the issuance of new standards and promulgations. However, remediation of the material weaknesses described above is among our highest priorities. Our management will periodically assess the progress and sufficiency of our ongoing initiatives and make adjustments as and when necessary. As of the date of this report, our management believes that our efforts will remediate the material weaknesses in internal control over financial reporting as described above.
+Notwithstanding these material weaknesses which are described below, our management performed additional analyses, reconciliations and other post-closing procedures and has concluded that the Company’s consolidated financial statements for the periods covered by and included in this Annual Report on Form 10-K are fairly stated in all material respects in accordance with generally accepted accounting principles in the U.S. for each of the periods presented herein.
+Inherent Limitations Over Internal Controls
+The Company's internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. The Company's internal control over financial reporting includes those policies and procedures that:
+(i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company's assets;
+(ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that the Company's receipts and expenditures are being made only in accordance with authorizations of the Company's management and directors; and
+(iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company's assets that could have a material effect on the financial statements.
+Management does not expect that the Company's internal controls will prevent or detect all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of internal controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. Also, any evaluation of the effectiveness of controls in future periods are subject to the risk that those internal controls may become inadequate because of changes in business conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Management's Report on Internal Control Over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting for the company as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Our internal control over financial reporting is designed to provide reasonable assurance regarding the (i) effectiveness and efficiency of operations, (ii) reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles, and (iii) compliance with applicable laws and regulations. Our internal controls framework is based on the criteria set forth in the Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+Management, consisting of our Chief Executive Officer and Principal Accounting and Financial Officer, is responsible for establishing and maintaining adequate internal control over the Company's financial reporting.
+Management assessed the effectiveness of our internal control over financial reporting as of December 31, 2020, utilizing the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission as published in "Internal Control over Financial Reporting - Guidance for Smaller Public Companies." Based on the assessment by management, we determined that our internal control over financial reporting was ineffective as of December 31, 2020.
+Changes in Internal Control of Financial Reporting
+During the year ended there were no changes in our internal control over financial reporting that have materially affected, or are reasonably likely to affect, our internal control over financial reporting.
+ITEM 9B. OTHER INFORMATION
+None.
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS, CONTROL PERSONS AND CORPORATE GOVERNANCE; COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT
+The following table sets forth our directors and executive officers and their ages as of the year ended December 31, 2020:
+Name
+Age
+Position
+Jenifer Osterwalder
+Chief Executive Officer, President and Director
+Stephen Spalding
+Interim Chief Financial and Accounting Officer and Director
+Jenifer Osterwalder - Chief Executive Officer, President, and Director
+Jenifer Osterwalder has served as our Chief Executive Officer, Principal Accounting Officer, President, Treasurer, Secretary and as a director since March 7, 2005. Previously, from January 2005 to March 2005, Ms. Osterwalder served as President, Chief Executive Officer, Treasurer, Secretary and as a director FUSA Technology Investments Corp. From January 2000 to January 2005 she served as a consultant investment banker to Five Seas Securities, Ltd., a securities firm in British Columbia, Canada. From August 2004 to December 2004 Ms. Osterwalder served as a consultant Manger to International Conference Services, Ltd., a conference and destination management firm in British Columbia, Canada. From January 2003 to December 2003, she served as a consultant Investment Liaison and Marketing Director for Terrikon Corporation, in British Columbia, Canada. Ms. Osterwalder received her Bachelor of Science in Business Administration in marketing and logistics from Ohio State University.
+Stephen Spalding - Interim Chief Financial and Accounting Officer, Director
+Mr. Spalding has been an independent management and financial consultant based in Mill Valley, California since March 2008. In the course of his management and financial consulting business, Mr. Spalding serves on numerous boards and is an advisor and interim officer for numerous companies, which include Paxton Energy Incorporated, Cytta Corporation and Verde Resources, Inc. Mr. Spalding is also formerly CEO, Vigilant Privacy Corporation, a private Nevada corporation that was based in Pleasanton, California, from 2003 to March, 2008 where he procured the firms angel round of financing and lead the organization while the company's product was transformed from a desktop product to an enterprise security solution. Previously he was a Partner, Deloitte & Touche LLP, from 1997 - 2003, responsible for their IDI Practice (Implementation, Development and Integration) Division. He was formerly a partner at KPMG Peat Marwick LLP from 1995 - 1997, involved in Strategic Services, Enabling Technology Practice. Mr. Spalding is currently Assistant Professor, San Francisco State University, Business Systems Management and Control, Course Number 507 (Senior/Graduate Level), present. He has an MBA, in Quantitative Analysis, University of Arizona, 1974. He also has a B.S., Finance and Management, Eastern Illinois University, 1973, a B.S., Physics (solid state), Eastern Illinois University, 1969 and a B.S., Mathematics, Eastern Illinois University, 1969.
+FAMILY RELATIONSHIPS
+There are no family relationships, by blood or marriage, among any of our directors or executive officers.
+INVOLVEMENT IN CERTAIN LEGAL PROCEEDINGS
+During the past five years, none of our directors, executive officers and control persons have been involved in any of the following events:
+·any bankruptcy petition filed by or against any business of which such person was an executive officer either at the time of the bankruptcy or within two years prior to that time;
+·any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses);
+·being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; and
+·being found by a court of competent jurisdiction (in a civil action), the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated.
+BOARD OF DIRECTORS COMMITTEES
+As of the date of this annual report on Form 10-K for the year ended December 31, 2020, we have no standing committees and our entire board of directors serves as our audit, compensation and nominating committees. Our board
+of directors has determined that Stephen Spalding, a member of our board, qualifies as an audit committee financial expert. However, we intend to appoint an audit, a compensation and a nominating committee of our board of directors.
+As of the date of this annual report on Form 10-K for the year ended December 31, 2019, there have been no material changes to the procedures by which our security holders may recommend nominees to our board of directors.
+CODE OF ETHICS
+As of the date of this annual report on Form 10-K for the year ended December 31, 2020, we have not yet adopted a code of ethics for our principal executive officer, principal financial officer or principal accounting officer. We are, however, in the process of drafting such a code of ethics and, upon adoption, it we will provide a copy of our code of ethics, without charge, to any person who so requests a copy, in writing, at: Spectral Capital Corporation., 4500 9th Avenue NE, Seattle, Washington 98105.
+COMPLIANCE WITH SECTION 16(A)
+Section 16(a) of the Exchange Act requires our directors and executive officers, and persons who own more than ten percent of a registered class of our equity securities, to file with the SEC initial reports of ownership and reports of changes in ownership of our common stock and other equity securities of ours. Officers, directors and greater than ten percent stockholders are required by the SEC’s regulations to furnish us with copies of all Section 16(a) forms they filed.
+The following table sets for the compliance reporting under Section 16(a) during the last year.
+Number of
+Late Reports
+Number of
+Transactions Not
+Timely Reported
+Failure
+to File
+Jenifer Osterwalder
+Stephen Spalding
+ITEM 11. EXECUTIVE COMPENSATION
+The following table sets forth the total compensation awarded to, earned by, or paid to our Chief Executive Officer during each of the last two completed years. No other individuals are employed by us or have earned a total annual salary and bonus in excess of $100,000 during any of the last two completed years.
+SUMMARY COMPENSATION TABLE
+Name and Principal Position
+Year
+Salary
+Bonus
+Stock Awards
+Option Awards**
+Non-Equity Incentive Plan Compensation
+Nonqualified Deferred Compensation Earnings
+All Other Compensation
+Total
+Jenifer Osterwalder
+$144,000
+-
+-
+-
+-
+-
+-
+$144,000
+Chief Executive Officer*
+$148,888
+-
+-
+-
+-
+-
+-
+$148,888
+EMPLOYMENT AGREEMENTS
+Our President and CEO, Ms. Osterwalder, does not currently have an employment agreement, however, the Company has agreed to pay Ms. Osterwalder $12,000 a month beginning January 1, 2020 for services rendered. Previously she was charging 12,350 CHF per month for services rendered. As of December 31, 2020 and 2019, amounts due to Ms. Osterwalder for accrued compensation were $910,653 and $766,653, respectively.
+As of the date of this annual report on Form 10-K for the year ended December 31, 2020, we have no other employment agreements in place with any of our other executive officers, directors or employees.
+OUTSTANDING EQUITY AWARDS AT YEAR END
+There were 5,000,000 outstanding option equity awards at our year end, held by our President and Chief Executive Officer, Jenifer Osterwalder and 2,500,000 held by director Stephen Spalding and 2,500,000 held by service providers and others.
+COMPENSATION OF DIRECTORS
+Pursuant to authority granted under our Article II, Section 2.16 of our bylaws, directors are entitled to such compensation as our board of directors shall from time to time determine. The following table sets forth the compensation of our directors for the year ended December 31, 2020:
+DIRECTOR COMPENSATION
+Name
+Fees Earned
+or Paid
+in Cash
+Stock Awards
+Option Awards
+Non-Equity Incentive Plan Compensation
+Non-
+Qualified Deferred Compensation Earnings
+All Other Compensation
+Total
+Stephen Spalding*
+$
+-
+-
+-
+-
+-
+$
+*Mr. Spalding was granted options to purchase 1,000,000 shares of our common stock at an exercise price of $1.00, with five year vesting that vests annually on the 12 month anniversary of his service as director. These options expired unexercised in October 2020. In February 2012, he was also awarded options to purchase 2,500,000 shares of common stock at $0.61 per share, which are 100% vested as of December 31, 2020.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+The following table sets forth information with respect to compensation plans under which our equity securities are authorized for issuance as of the end of the year ended December 31, 2020:
+EQUITY COMPENSATION PLAN INFORMATION
+Number of securities to be issued upon exercise of outstanding options, warrants and rights
+(a)
+Weighted-average exercise price of outstanding options, warrants and rights
+(b)
+Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a))
+(c)
+Equity compensation plans approved by security holders
+--
+--
+--
+Equity compensation plans not approved by security holders
+10,000,000
+$0.61
+5,000,000
+Total
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth certain information regarding the beneficial ownership of our common stock as of February 18, 2021. The information in these tables provides ownership information for:
+·each person known by us to be the beneficial owner of more than a 5% of our common stock
+·each of our directors and executive officers; and
+·all of our directors and executive officers as a group.
+Beneficial ownership has been determined in accordance with the rules and regulations of the SEC and includes voting or investment power with respect to our common stock and those rights to acquire additional shares within sixty days. Unless otherwise indicated, the persons named in the table below have sole voting and investment power with respect to the number of shares of common stock indicated as beneficially owned by them, except to the extent such power may be shared with a spouse. In computing the number of shares beneficially owned by a person and the percentage of ownership of that person, shares of common stock subject to options and/or warrants held by that person that are currently exercisable, as appropriate, or will become exercisable within sixty (60) days of the reporting date are deemed outstanding, even if they have not actually been exercised. Those shares, however, are not deemed outstanding for the purpose of computing the percentage ownership of any other person. The address of each person listed is care of Spectral Capital Corporation., 4500 9th Avenue NE, Seattle, Washington, 98105.
+Name
+Amount and
+Nature of Ownership
+Percent of Class*
+Jenifer Osterwalder (1)
+5,013,934
+4.0 %
+Stephen Spalding (2)
+2,500,000
+2.0%
+All officers, directors, and 5% or greater shareholders as a group (2 persons)
+7,513,934
+6.0%
+(1)Consists of 13,934 shares owned directly and immediately exercisable options to purchase 5,000,000 shares of common stock at $0.61 per share.
+(2)Includes options to purchase 2,500,000 shares of common stock at $0.61 per share.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE
+Related Party Transactions
+Jenifer Osterwalder, the Company's Chief Executive Officer
+Jenifer Osterwalder charges the Company $12,000 per month beginning January 1, 2020 for services rendered. Previously she was charging 12,350 CHF per month for services rendered. Total amounts expended in the Company's consolidated financial statements in connection with the CEO's services was $144,000 and $148,888 for the years ended December 31, 2020 and 2019, respectively. As of December 31, 2020 and 2019, amounts due to the CEO related to accrued salaries were $910,653 and $766,653, respectively.
+From time to time due to the limited cash flow available, the Company's CEO pays certain operating expenditures on behalf of the Company. These advances bear no interest and are due on demand. As of December 31, 2020 and 2019, the Company's CEO was due $178,605 and $155,273 in connection with these advances, respectively.
+Independent Directors
+The Board of Directors has determined that director Stephen Spalding is an independent director under standards established by the Securities and Exchange Commission.
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+The following table sets forth the aggregate amount of various professional fees billed by our principal accountants with respect to our last two years:
+Audit fees
+$19,413
+$
+19,413
+Audit-related fees
+-
+-
+Tax fees
+-
+-
+All other fees
+-
+-
+Total
+$19,413
+$
+19,413
+ITEM 15. EXHIBITS
+No.
+Description of Exhibit
+3(i)(1)
+Articles of Incorporation of Spectral Capital Corporation, dated September 13, 2000, incorporated by reference to Exhibit 3(a) on Form 10-SB filed May 1, 2003.
+3(i)(2)
+Certificate of Amendment to Articles of Incorporation of Spectral Capital Corporation, dated June 17, 2007, incorporated by reference to Exhibit 2.1 on Form 8-K filed July 7, 2004.
+3(ii)
+By-laws of Spectral Capital Corporation, dated September 14, 2000, incorporated by reference to Exhibit 3(b) on Form 10-SB filed May 1, 2003.
+31.1
+Certification of Spectral Capital Corporation Chief Executive Officer, Jenifer Osterwalder, required by Rule 13a-14(a) or Rule 15d-14(a), dated March 31, 2014. FILED HEREWITH
+31.2
+Certification of Spectral Capital Corporation Chief Financial Officer, Stephen Spalding, required by Rule 13a-14(a) or Rule 15d-14(a), dated March 31, 2014. FILED HEREWITH
+32.1
+Certification of Spectral Capital Corporation Chief Executive Officer, Jenifer Osterwalder, required by Rule 13a-14(b) or Rule 15d-14(b) and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), dated March 31, 2014. FILED HEREWITH.
+32.2
+Certification of Spectral Capital Corporation Chief Financial Officer, Stephen Spalding, required by Rule 13a-14(b) or Rule 15d-14(b) and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), dated March 31, 2014. FILED HEREWITH.
+Signatures
+In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Date: February 18, 2021
+SPECTRAL CAPITAL CORPORATION
+By:
+/s/ Jenifer Osterwalder
+Jenifer Osterwalder
+President and Chief Executive Officer
+/s/ Stephen Spalding
+Chief Financial and Accounting Officer

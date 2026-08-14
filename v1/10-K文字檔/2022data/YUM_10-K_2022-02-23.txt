@@ -1,0 +1,506 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Introduction and Overview
+The following Management’s Discussion and Analysis (“MD&A”), should be read in conjunction with the Consolidated Financial Statements (“Financial Statements”) in Item 8 and the Forward-Looking Statements and the Risk Factors set forth in Item 1A. All Note references herein refer to the Notes to the Financial Statements. Tabular amounts are displayed in millions of U.S. dollars except per share and unit count amounts, or as otherwise specifically identified. Percentages may not recompute due to rounding.
+Yum! Brands, Inc. and its subsidiaries (collectively referred to herein as the “Company”, “YUM”, “we”, “us” or “our”) franchise or operate a system of over 53,000 restaurants in 157 countries and territories, primarily under the concepts of KFC, Taco Bell, Pizza Hut and The Habit Burger Grill (collectively, the “Concepts”). The Company's KFC, Taco Bell and Pizza Hut brands are global leaders of the chicken, Mexican-style and pizza food categories, respectively. The Habit Burger Grill, a concept we acquired in March 2020, is a fast-casual restaurant concept specializing in made-to-order chargrilled burgers, sandwiches and more. Of the over 53,000 restaurants, 98% are operated by franchisees.
+As of December 31, 2021, YUM consists of four operating segments:
+•The KFC Division which includes our worldwide operations of the KFC concept
+•The Taco Bell Division which includes our worldwide operations of the Taco Bell concept
+•The Pizza Hut Division which includes our worldwide operations of the Pizza Hut concept
+•The Habit Burger Grill Division which includes our worldwide operations of the Habit Burger Grill concept
+Through our Recipe for Growth and Good we intend to unlock the growth potential of our Concepts and YUM, drive increased collaboration across our Concepts and geographies and consistently deliver better customer experiences, improved unit economics and higher rates of growth. Key enablers include accelerated use of technology and better leverage of our systemwide scale.
+Our Recipe for Growth is based on four key drivers:
+•Unrivaled Culture and Talent: Leverage our culture and people capability to fuel brand performance and franchise success
+•Unmatched Operating Capability: Recruit and equip the best restaurant operators in the world to deliver great customer experiences
+•Relevant, Easy and Distinctive Brands: Innovate and elevate iconic restaurant brands people trust and champion
+•Bold Restaurant Development: Drive market and franchise expansion with strong economics and value
+Our global citizenship and sustainability strategy, called the Recipe for Good, reflects our priorities for socially responsible growth, risk management and sustainable stewardship of our people, food and planet.
+We intend to drive long-term growth and shareholder returns primarily through consistent same-store sales growth and new unit development across all of our Concepts. We intend to support this growth and development through a capital and operating structure that:
+•Targets a capital structure of ~5.0x Earnings Before Interest, Taxes, Depreciation and Amortization (“EBITDA”) consolidated net leverage;
+•Invests capital in a manner consistent with an asset light, franchisor model;
+•Allocates G&A in an efficient manner that provides leverage to operating profit growth while at the same time opportunistically investing in strategic growth initiatives; and
+•Pays a competitive dividend and returns excess cash to shareholders through share repurchases.
+We intend for this MD&A to provide the reader with information that will assist in understanding our results of operations, including performance metrics that management uses to assess the Company's performance. Throughout this MD&A, we commonly discuss the following performance metrics:
+•Same-store sales growth is the estimated percentage change in system sales of all restaurants that have been open and in the YUM system for one year or more (except as noted below), including those temporarily closed. From time-to-time restaurants may be temporarily closed due to remodeling or image enhancement, rebuilding, natural disasters, health epidemic or pandemic, landlord disputes or other issues. Throughout 2020 and 2021 we have had a significant number of restaurants that were temporarily closed including restaurants closed due to government and landlord restrictions as a result of COVID-19. The system sales of restaurants we deem temporarily closed remain in our base for purposes of determining same-store sales growth and the restaurants remain in our unit count (see below). We believe same-store sales growth is useful to investors because our results are heavily dependent on the results of our Concepts' existing store base. Additionally, same-store sales growth is reflective of the strength of our Brands, the effectiveness of our operational and advertising initiatives and local economic and consumer trends. In 2021 and 2020, when calculating respective same-store sales growth we also included in our prior year base the sales of stores that were added as a result of our acquisition of The Habit Restaurants, Inc. on March 18, 2020, and that were open for one year or more. In 2019, when calculating same-store sales growth we also included in our prior year base the sales of stores that were added as a result of the Food Delivery Brands Group, S.A. (previously named Telepizza Group S.A. (“Telepizza”)) strategic alliance in December 2018 and that were open for one year or more. See additional discussion of the acquisition of The Habit Restaurants, Inc. and Telepizza strategic alliance within this MD&A.
+•Gross unit openings reflects new openings by us and our franchisees. Net new unit growth reflects gross unit openings offset by permanent store closures, by us and our franchisees. To determine whether a restaurant meets the definition of a unit we consider factors such as whether the restaurant has operations that are ongoing and independent from another YUM unit, serves the primary product of one of our Concepts, operates under a separate franchise agreement (if operated by a franchisee) and has substantial and sustainable sales. We believe gross unit openings and net new unit growth are useful to investors because we depend on new units for a significant portion of our growth. Additionally, gross unit openings and net new unit growth are generally reflective of the economic returns to us and our franchisees from opening and operating our Concept restaurants.
+•System sales, System sales excluding the impacts of foreign currency translation (“FX”), and System sales excluding FX and the impact of the 53rd week in 2019 for our U.S. subsidiaries and certain international subsidiaries that operate on a weekly period calendar. System sales reflect the results of all restaurants regardless of ownership, including Company-owned and franchise restaurants. Sales at franchise restaurants typically generate ongoing franchise and license fees for the Company at a rate of 3% to 6% of sales. Increasingly, customers are paying a fee to a third party to deliver or facilitate the ordering of our Concepts' products. We also include in System sales any portion of the amount customers pay these third parties for which the third party is obligated to pay us a license fee as a percentage of such amount. Franchise restaurant sales and fees paid by customers to third parties to deliver or facilitate the ordering of our Concepts' products are not included in Company sales on the Consolidated Statements of Income; however, any resulting franchise and license fees we receive are included in the Company's revenues. We believe System sales growth is useful to investors as a significant indicator of the overall strength of our business as it incorporates our primary revenue drivers, Company and franchise same-store sales as well as net unit growth.
+In addition to the results provided in accordance with Generally Accepted Accounting Principles in the United States of America (“GAAP”), the Company provides the following non-GAAP measurements.
+•Diluted Earnings Per Share excluding Special Items (as defined below);
+•Effective Tax Rate excluding Special Items;
+•Core Operating Profit and Core Operating Profit excluding the impact of the 53rd week in 2019. Core Operating Profit excludes Special Items and FX and we use Core Operating Profit for the purposes of evaluating performance internally;
+•Company restaurant profit and Company restaurant margin as a percentage of sales (as defined below).
+These non-GAAP measurements are not intended to replace the presentation of our financial results in accordance with GAAP. Rather, the Company believes that the presentation of these non-GAAP measurements provide additional information to investors to facilitate the comparison of past and present operations.
+Special Items are not included in any of our Division segment results as the Company does not believe they are indicative of our ongoing operations due to their size and/or nature. Our chief operating decision maker does not consider the impact of Special Items when assessing segment performance.
+Company restaurant profit is defined as Company sales less Company restaurant expenses, both of which appear on the face of our Consolidated Statements of Income. Company restaurant expenses include those expenses incurred directly by our Company-owned restaurants in generating Company sales, including cost of food and paper, cost of restaurant-level labor, rent, depreciation and amortization of restaurant-level assets and advertising expenses incurred by and on behalf of that Company restaurant. Company restaurant margin as a percentage of sales ("Company restaurant margin %") is defined as Company restaurant profit divided by Company sales. We use Company restaurant profit for the purposes of internally evaluating the performance of our Company-owned restaurants and we believe Company restaurant profit provides useful information to investors as to the profitability of our Company-owned restaurants. In calculating Company restaurant profit, the Company excludes revenues and expenses directly associated with our franchise operations as well as non-restaurant-level costs included in General and administrative expenses, some of which may support Company-owned restaurant operations. The Company also excludes restaurant-level asset impairment and closures expenses, which have historically not been significant, from the determination of Company restaurant profit as such expenses are not believed to be indicative of ongoing operations. Company restaurant profit and Company restaurant margin % as presented may not be comparable to other similarly titled measures of other companies in the industry.
+Certain performance metrics and non-GAAP measurements are presented excluding the impact of FX. These amounts are derived by translating current year results at prior year average exchange rates. We believe the elimination of the FX impact provides better year-to-year comparability without the distortion of foreign currency fluctuations.
+For 2019 we provided Core Operating Profit excluding the impact of the 53rd week and System sales excluding FX and the impact of the 53rd week to further enhance the comparability given the 53rd week that was part of our fiscal calendar in 2019.
+Results of Operations
+Summary
+All comparisons within this summary are versus the same period a year ago and unless otherwise stated include the impact of a 53rd week in 2019. For discussion of our results of operations for 2020 compared to 2019, refer to the Management's Discussion and Analysis of Financial Condition and Results of Operations included in Part II, Item 7 of our Form 10-K for the fiscal year ended December 31, 2020, filed with the SEC on February 22, 2021.
+For 2021, GAAP diluted EPS increased 77% to $5.21 per share, and diluted EPS, excluding Special Items, increased 23% to $4.46 per share.
+2021 financial highlights:
+% Change
+System Sales,
+ex FX Same-Store Sales Net New Units GAAP Operating Profit Core Operating Profit
+KFC Division +16 +11 +8 +33 +29
+Taco Bell Division +13 +11 +5 +9 +9
+Pizza Hut Division +6 +7 +4 +16 +13
+Worldwide +13 +10 +6 +42 +18
+Additionally:
+•During the year, 4,180 gross units were opened contributing to the addition of 3,057 net new units
+•During the year, we repurchased 13 million shares totaling $1,580 million at an average price of $121.70.
+•Foreign currency translation favorably impacted Divisional Operating Profit for the year by $54 million.
+Worldwide
+GAAP Results
+Amount % B/(W)
+2021 2020 2019 2021 2020
+Company sales $ 2,106 $ 1,810 $ 1,546 16 17
+Franchise and property revenues 2,900 2,510 2,660 16 (6)
+Franchise contributions for advertising and other services 1,578 1,332 1,391 18 (4)
+Total revenues 6,584 5,652 5,597 16 1
+Company restaurant expenses $ 1,725 $ 1,506 $ 1,235 (15) (22)
+G&A expenses 1,060 1,064 917 - (16)
+Franchise and property expenses 117 145 180 18 20
+Franchise advertising and other services expense 1,576 1,314 1,368 (20) 4
+Refranchising (gain) loss (35) (34) (37) 2 (9)
+Other (income) expense 2 154 4 NM NM
+Total costs and expenses, net 4,445 4,149 3,667 (7) (13)
+Operating Profit 2,139 1,503 1,930 42 (22)
+Investment (income) expense, net (86) (74) 67 16 211
+Other pension (income) expense 7 14 4 48 (235)
+Interest expense, net 544 543 486 - (12)
+Income before income taxes 1,674 1,020 1,373 64 (26)
+Income tax provision 99 116 79 15 (48)
+Net Income $ 1,575 $ 904 $ 1,294 74 (30)
+Diluted EPS(a)
+$ 5.21 $ 2.94 $ 4.14 77 (29)
+Effective tax rate 5.9 % 11.4 % 5.7 % 5.5 ppts. (5.7) ppts.
+(a)See Note 4 for the number of shares used in this calculation.
+Performance Metrics
+% Increase (Decrease)
+Unit Count 2021 2020 2019 2021 2020
+Franchise 52,373 49,255 49,257 6 -
+Company-owned 1,051 1,098 913 (4) 20
+Total 53,424 50,353 50,170 6 -
+2021 2020 2019
+Same-Store Sales Growth (Decline) % 10 (6) 3
+System Sales Growth (Decline) %, reported 16 (4) 7
+System Sales Growth (Decline) %, excluding FX 13 (4) 9
+System Sales Growth (Decline) %, excluding FX and 53rd week N/A (3) 8
+Our system sales breakdown by Company and franchise sales was as follows:
+Year
+2021 2020 2019
+Consolidated
+Company sales(a)
+$ 2,106 $ 1,810 $ 1,546
+Franchise sales 56,082 48,549 51,038
+System sales 58,188 50,359 52,584
+Foreign Currency Impact on System sales(b)
+1,277 (199) N/A
+System sales, excluding FX 56,911 50,558 52,584
+Impact of 53rd week N/A N/A 454
+System sales, excluding FX and 53rd Week $ 56,911 $ 50,558 $ 52,130
+KFC Division
+Company sales(a)
+$ 596 $ 506 $ 571
+Franchise sales 30,769 25,783 27,329
+System sales 31,365 26,289 27,900
+Foreign Currency Impact on System sales(b)
+1,000 (192) N/A
+System sales, excluding FX 30,365 26,481 27,900
+Impact of 53rd week N/A N/A 167
+System sales, excluding FX and 53rd Week $ 30,365 $ 26,481 $ 27,733
+Taco Bell Division
+Company sales(a)
+$ 944 $ 882 $ 921
+Franchise sales 12,336 10,863 10,863
+System sales 13,280 11,745 11,784
+Foreign Currency Impact on System sales(b)
+17 (2) N/A
+System sales, excluding FX 13,263 11,747 11,784
+Impact of 53rd week N/A N/A 184
+System sales, excluding FX and 53rd Week $ 13,263 $ 11,747 $ 11,600
+Pizza Hut Division
+Company sales(a)
+$ 46 $ 76 $ 54
+Franchise sales 12,909 11,879 12,846
+System sales 12,955 11,955 12,900
+Foreign Currency Impact on System sales(b)
+260 (5) N/A
+System sales, excluding FX 12,695 11,960 12,900
+Impact of 53rd week N/A N/A 103
+System sales, excluding FX and 53rd Week $ 12,695 $ 11,960 $ 12,797
+Habit Burger Grill Division(c)
+Company sales(a)
+$ 520 $ 346 N/A
+Franchise sales 68 24 N/A
+System sales 588 370 N/A
+Foreign Currency Impact on System sales(b)
+- - N/A
+System sales, excluding FX $ 588 $ 370 N/A
+(a)Company sales represents sales from our Company-operated stores as presented on our Consolidated Statements of Income.
+(b)The foreign currency impact on System sales is presented in relation only to the immediately preceding year presented. When determining applicable System sales growth percentages, the System sales excluding FX for the current year should be compared to the prior year System sales prior to adjustment for the prior year FX impact.
+(c)System sales for the Habit Burger Grill Division is shown since our March 18, 2020 acquisition date.
+Non-GAAP Items
+Non-GAAP Items, along with the reconciliation to the most comparable GAAP financial measure, are presented below.
+2021 2020 2019
+Core Operating Profit Growth % 18 (8) 12
+Core Operating Profit Growth %, excluding 53rd week N/A (7) 11
+Diluted EPS Growth %, excluding Special Items 23 2 12
+Effective Tax Rate excluding Special Items 21.4 % 15.9 % 19.8 %
+2021 2020 2019
+Company restaurant profit $ 381 $ 304 $ 311
+Company restaurant margin % 18.1 % 16.8 % 20.1 %
+Year
+Detail of Special Items 2021 2020 2019
+Refranchising gain (loss)(a)
+$ 3 $ 8 $ 12
+Costs associated with acquisition and integration of Habit Burger Grill (See Note 3)
+(4) (9) (1)
+Impairment of Habit Burger Grill goodwill (See Note 3)
+- (144) -
+Unlocking Opportunity Initiative contribution (See Note 5)
+- (50) -
+COVID-19 relief contribution (See Note 5)
+- (25) -
+Charges associated with resource optimization (See Note 5)
+(9) (36) -
+Costs associated with Pizza Hut U.S. Transformation Agreement(b)
+- (5) (13)
+Other Special Items Income (Expense)(c)
+1 (6) (9)
+Special Items Income (Expense) - Operating Profit (9) (267) (11)
+Charges associated with resource optimization - Other pension (expense) income (See Note 5)
+1 (2) -
+Interest expense, net(c) (d)
+(34) (34) (2)
+Special Items Income (Expense) before Income Taxes (42) (303) (13)
+Tax Benefit (Expense) on Special Items(e)
+17 65 (30)
+Tax Benefit - Intra-entity transfer of intellectual property (see Note 5)
+251 28 226
+Special Items Income (Expense), net of tax $ 226 $ (210) $ 183
+Average diluted shares outstanding 302 307 313
+Special Items diluted EPS $ 0.75 $ (0.68) $ 0.59
+(a)Due to their size and volatility we have reflected as Special Items those refranchising gains and losses that were recorded in connection with our previously announced plans to have at least 98% franchise restaurant ownership by the end of 2018. As such, refranchising gains and losses recorded during 2021, 2020 and 2019 as Special Items are directly associated with restaurants that were refranchised prior to the end of 2018.
+During the years ended December 31, 2021, 2020 and 2019, we recorded net refranchising gains of $3 million, $8 million and $12 million, respectively, that have been reflected as Special Items.
+Additionally, during the years ended December 31, 2021, 2020 and 2019, we recorded net refranchising gains of $32 million, $26 million, and $25 million, respectively, that have not been reflected as Special Items. These gains relate to
+refranchising of restaurants in 2021, 2020 and 2019 that were not part of our aforementioned plans to achieve 98% franchise ownership and that we believe are now more indicative of our expected ongoing refranchising activity.
+(b)In May 2017, we reached an agreement with our Pizza Hut U.S. franchisees that improved brand marketing alignment, accelerated enhancements in operations and technology and that included a permanent commitment to incremental advertising as well as digital and technology contributions by franchisees. In connection with this agreement, we recognized charges of $5 million and $13 million in the years ended December 31, 2020 and 2019, respectively, related to operating investments required as part of this agreement. The majority of these costs were recorded within Franchise and property expenses. Based on their nature and the significance in related spending in 2017, these charges have been reflected as Special Items.
+(c)During the second quarter of 2019, we recorded charges of $8 million and $2 million to Other (income) expense and Interest expense, net, respectively, related to cash payments in excess of our recorded liability to settle contingent consideration associated with our 2013 acquisition of the KFC Turkey and Pizza Hut Turkey businesses. Consistent with prior adjustments to the recorded contingent consideration we have reflected this as a Special Item.
+(d)On June 1, 2021, certain subsidiaries of the Company redeemed $1,050 million aggregate principal amount of 5.25% Subsidiary Senior Unsecured Notes due in 2026 (the “2026 Notes”). The redemption amount was equal to 102.625% of the $1,050 million aggregate principal amount redeemed, reflecting a $28 million “call premium”. We recognized the call premium and the write-off of $6 million of unamortized debt issuance costs associated with the 2026 Notes within Interest expense, net.
+On September 9, 2020, KFC Holding Co., Pizza Hut Holdings, LLC and Taco Bell of America, LLC, each of which a wholly-owned subsidiary of the Company, issued a notice of redemption for $1,050 million aggregate principal amount of 5.00% Subsidiary Senior Unsecured Notes due in 2024 (the "2024 Notes"). The redemption amount included a $26 million call premium plus accrued and unpaid interest to the date of redemption of October 9, 2020. We recorded the call premium, $6 million of unamortized debt issuance costs associated with the 2024 Notes and $2 million of accrued and unpaid interest associated with the period of time from prepayment of the 2024 Notes with the Trustee on September 25, 2020, to their redemption date within Interest expense, net.
+We reflected the call premiums and charges associated with the redemptions as Special Items due to their collective size and the fact that the amounts are not indicative of our ongoing interest expense.
+(e)Tax (Expense) Benefit on Special Items was determined based upon the impact of the nature, as well as the jurisdiction of the respective individual components within Special Items.
+During the year ended December 31, 2021, we recorded as a Special Item an $8 million tax benefit related to prior refranchisings for which the associated pre-tax gain or loss was recorded as Special. Further, in the fourth quarter of 2019, we increased our Income tax provision by $34 million to record a reserve against the tax recorded on a prior year divestiture, the effects of which were previously recorded as a Special Item.
+Reconciliation of GAAP Operating Profit to Core Operating Profit and Core Operating Profit, excluding 53rd Week Year
+2021 2020 2019
+Consolidated
+GAAP Operating Profit $ 2,139 $ 1,503 $ 1,930
+Special Items Income (Expense) - Operating Profit (9) (267) (11)
+Foreign Currency Impact on Divisional Operating Profit(a)
+54 (9) N/A
+Core Operating Profit 2,094 1,779 1,941
+Impact of 53rd Week N/A N/A 24
+Core Operating Profit, excluding 53rd Week $ 2,094 $ 1,779 $ 1,917
+KFC Division
+GAAP Operating Profit $ 1,230 $ 922 $ 1,052
+Foreign Currency Impact on Divisional Operating Profit(a)
+45 (9) N/A
+Core Operating Profit 1,185 931 1,052
+Impact of 53rd Week N/A N/A 8
+Core Operating Profit, excluding 53rd Week $ 1,185 $ 931 $ 1,044
+Taco Bell Division
+GAAP Operating Profit $ 758 $ 696 $ 683
+Foreign Currency Impact on Divisional Operating Profit(a)
+1 - N/A
+Core Operating Profit 757 696 683
+Impact of 53rd Week N/A N/A 13
+Core Operating Profit, excluding 53rd Week $ 757 $ 696 $ 670
+Pizza Hut Division
+GAAP Operating Profit $ 387 $ 335 $ 369
+Foreign Currency Impact on Divisional Operating Profit(a)
+8 - N/A
+Core Operating Profit 379 335 369
+Impact of 53rd Week N/A N/A 3
+Core Operating Profit, excluding 53rd Week $ 379 $ 335 $ 366
+Habit Burger Grill Division
+GAAP Operating Profit $ 2 $ (22) N/A
+Foreign Currency Impact on Divisional Operating Profit(a)
+- - N/A
+Core Operating Profit $ 2 $ (22) N/A
+Reconciliation of Diluted EPS to Diluted EPS excluding Special Items
+Diluted EPS $ 5.21 $ 2.94 $ 4.14
+Special Items Diluted EPS 0.75 (0.68) 0.59
+Diluted EPS excluding Special Items $ 4.46 $ 3.62 $ 3.55
+Reconciliation of GAAP Effective Tax Rate to Effective Tax Rate, excluding Special Items
+GAAP Effective Tax Rate 5.9 % 11.4 % 5.7 %
+Impact on Tax Rate as a result of Special Items (15.5) % (4.5) % (14.1) %
+Effective Tax Rate excluding Special Items 21.4 % 15.9 % 19.8 %
+(a)The foreign currency impact on reported Operating Profit is presented in relation only to the immediately preceding year presented. When determining applicable Core Operating Profit growth percentages, the Core Operating Profit for the current year should be compared to the prior year GAAP Operating Profit adjusted only for any prior year Special Items Income (Expense).
+Reconciliation of GAAP Operating Profit to Company Restaurant Profit
+KFC Division Taco Bell Division Pizza Hut Division Habit Burger Grill Division Corporate and Unallocated Consolidated
+GAAP Operating Profit (Loss) $ 1,230 $ 758 $ 387 $ 2 $ (238) $ 2,139
+Less:
+Franchise and property revenues 1,557 742 597 4 - 2,900
+Franchise contributions for advertising and other services 640 552 385 1 - 1,578
+Add:
+General and administrative expenses 377 174 201 48 260 1,060
+Franchise and property expenses 74 33 11 - (1) 117
+Franchise advertising and other services expense 627 553 395 1 - 1,576
+Refranchising (gain) loss - - - - (35) (35)
+Other (income) expense (5) 1 (9) 1 14 2
+Company restaurant profit $ 106 $ 225 $ 3 $ 47 $ - $ 381
+Company sales $ 596 $ 944 $ 46 $ 520 $ - $ 2,106
+Company restaurant margin % 17.7 % 23.9 % 6.8 % 9.0 % N/A 18.1 %
+KFC Division Taco Bell Division Pizza Hut Division Habit Burger Grill Division Corporate and Unallocated Consolidated
+GAAP Operating Profit (Loss) $ 922 $ 696 $ 335 $ (22) $ (428) $ 1,503
+Less:
+Franchise and property revenues 1,295 662 552 1 - 2,510
+Franchise contributions for advertising and other services 471 487 374 - - 1,332
+Add:
+General and administrative expenses 346 158 215 33 312 1,064
+Franchise and property expenses 91 33 17 - 4 145
+Franchise advertising and other services expense 465 484 365 - - 1,314
+Refranchising (gain) loss - - - - (34) (34)
+Other (income) expense 9 3 (3) (1) 146 154
+Company restaurant profit $ 67 $ 225 $ 3 $ 9 $ - $ 304
+Company sales $ 506 $ 882 $ 76 $ 346 $ - $ 1,810
+Company restaurant margin % 13.2 % 25.5 % 5.1 % 2.6 % N/A 16.8 %
+KFC Division Taco Bell Division Pizza Hut Division Corporate and Unallocated Consolidated
+GAAP Operating Profit (Loss) $ 1,052 $ 683 $ 369 $ (174) $ 1,930
+Less:
+Franchise and property revenues 1,390 673 597 - 2,660
+Franchise contributions for advertising and other services 530 485 376 - 1,391
+Add:
+General and administrative expenses 346 181 202 188 917
+Franchise and property expenses 89 38 39 14 180
+Franchise advertising and other services expense 520 481 367 - 1,368
+Refranchising (gain) loss - - - (37) (37)
+Other (income) expense - (4) (1) 9 4
+Company restaurant profit $ 87 $ 221 $ 3 $ - $ 311
+Company sales $ 571 $ 921 $ 54 $ - $ 1,546
+Company restaurant margin % 15.3 % 24.0 % 4.2 % N/A 20.1 %
+Items Impacting Reported Results and/or Reasonably Likely to Impact Future Results
+The following items impacted reported results in 2021 and/or 2020 and/or are reasonably likely to impact future results. See also the Detail of Special Items section of this M&DA for other items similarly impacting results.
+COVID-19
+In late 2019, a novel strain of coronavirus, COVID-19, was first detected and in March 2020, the World Health Organization declared COVID-19 a global pandemic. Throughout 2020 and 2021, COVID-19 spread throughout the U.S. and the rest of the world and governmental authorities have implemented measures to reduce the spread of COVID-19. These measures include restrictions on travel outside the home and other limitations on business and other activities as well as encouraging social distancing. As a result of COVID-19, we and our franchisees have experienced significant store closures and instances of reduced store-level operations, including reduced operating hours and dining-room closures. The impact on our sales in each of our markets has been dependent on the timing, severity and duration of the outbreak, measures implemented by government authorities to reduce the spread of COVID-19, as well as our reliance on dine-in sales in the market.
+Our results were significantly impacted by the impacts of COVID-19 in the year ended December 31, 2020, as evidenced by our worldwide same-store sales decline of 6%. Overall, our sales declines were primarily driven by temporary store closures, which peaked in early April 2020 at about 11,000 restaurants and ended 2020 at about 830 restaurants. In addition to the loss of sales due to restaurants being temporarily closed, we also lost sales due to dining room closures or other limitations on access.
+Beginning in 2020 and continuing throughout 2021 we were able to mitigate the loss of sales due to temporary unit closures, dining room closures or other limitations on access through the strength of our off-premise channels, aided by increasing consumer access to our brands via digital channels. As a result, each of our Concepts recorded positive same-store sales growth for the year, contributing to our worldwide same-store sales increase of 10% in 2021 which was driven by strong performance in developed markets such as North America and the United Kingdom. As we ended the year, COVID-19 outbreaks and resulting government restrictions limiting mobility continued to impact sales in a few key markets, primarily in Asia. We also saw strong gross unit openings of 4,180 units for the year ended December 31, 2021, which we believe is primarily a result of improving unit-level economics, our franchisees’ financial strength and commitment to our Concepts, the inherent competitive advantages of the Quick Service Restaurant sector throughout the COVID-19 pandemic, our Concepts’ off-premise and digital capabilities, as well as selective use of development incentives with certain franchisees.
+The COVID-19 situation is ongoing, and its dynamic nature makes it difficult to forecast any impacts on the Company's 2022 results. The ultimate pace of our recovery will largely depend on the continuation of current sales trends, although we expect continuing adverse impacts from COVID-19 in certain parts of the world. In addition, for our restaurants that prominently
+feature drive-thru, carryout and delivery options, COVID-19 has in many cases contributed to an increase in sales during 2021 and 2020. If the impact of COVID-19 recedes, in-person dining restrictions are lifted or lessened and the restaurant industry in general returns to more normal operations, the benefits to sales experienced by certain of our restaurants, including our Pizza Hut delivery restaurants, could wane and our results could be negatively impacted.
+Franchise Bad Debt Expense
+We experienced significant quarterly fluctuations in franchise bad debt expense in 2021 and 2020 due in large part to the uncertainties associated with COVID-19. During the year ended December 31, 2021, we recognized net bad debt recoveries of $8 million related to short-term accounts receivable due from our franchisees for royalties, rent and other services we provide, which were primarily reflected within Franchise and property expenses. These net bad debt recoveries of $8 million compared to $13 million of net bad debt expense recognized in the year ended December 31, 2020, and thus positively impacted Operating Profit growth by $21 million year-over-year.
+Investment in Devyani
+In 2020, we received an approximate 5% minority interest in Devyani International Limited (“Devyani”), an entity that operates KFC and Pizza Hut franchised units in India. The minority interest was received in lieu of cash proceeds upon the refranchising of approximately 60 KFC restaurants in India. At the time of the refranchisings, the fair value of this minority interest was estimated to be approximately $31 million. On August 16, 2021, Devyani executed an initial public offering and subsequently the fair value of this investment became readily determinable. As a result, concurrent with the initial public offering we began recording changes in fair value in Investment (income) expense, net in our Consolidated Statements of Income and recognized pre-tax investment income of $87 million, in the year ended December 31, 2021.
+Investment in Grubhub, Inc. ("Grubhub")
+In April of 2018 we purchased 2.8 million shares of Grubhub common stock for $200 million. In the quarter ended September 30, 2020, we sold our entire investment in Grubhub and received proceeds of $206 million. While we held our investment in Grubhub common stock we recognized changes in the fair value in our investment in our Consolidated Statements of Income. For the years ended December 31, 2020 and 2019, we recognized pre-tax investment income of $69 million and pre-tax investment expense of $77 million, respectively, related to changes in fair value of our investment in Grubhub common stock.
+Extra Week in 2019
+Fiscal 2019 included a 53rd week for all of our U.S. and certain international subsidiaries that operate on a period calendar. See Note 2 for additional details related to our fiscal calendar. The following table summarizes the estimated impact of the 53rd week on Revenues and Operating Profit for the year ended December 31, 2019. The 53rd week in 2019 favorably impacted Diluted EPS by $0.05 per share.
+KFC Division Taco Bell Division Pizza Hut Division Total
+Revenues
+Company sales
+$ 8 $ 15 $ 1 $ 24
+Franchise and property revenues
+9 10 5 24
+Franchise contributions for advertising and other services 5 8 5 18
+Total revenues $ 22 $ 33 $ 11 $ 66
+Operating Profit
+Franchise and property revenues
+$ 9 $ 10 $ 5 $ 24
+Franchise contributions for advertising and other services
+5 8 5 18
+Restaurant profit
+1 5 - 6
+Franchise and property expenses
+- - (1) (1)
+Franchise advertising and other services expenses (5) (8) (5) (18)
+G&A expenses
+(2) (2) (1) (5)
+Operating Profit $ 8 $ 13 $ 3 $ 24
+KFC Division
+The KFC Division has 26,934 units, 85% of which are located outside the U.S. Additionally, 99% of the KFC Division units were operated by franchisees as of the end of 2021.
+% B/(W) % B/(W)
+2021 2020
+2021 2020 2019 Reported Ex FX Reported Ex FX Ex FX and 53rd Week in 2019
+System Sales $ 31,365 $ 26,289 $ 27,900 19 16 (6) (5) (5)
+Same-Store Sales Growth % 11 N/A (9) N/A N/A
+Company sales $ 596 $ 506 $ 571 18 12 (11) (9) (8)
+Franchise and property revenues 1,557 1,295 1,390 20 17 (7) (6) (5)
+Franchise contributions for advertising and other services 640 471 530 36 30 (11) (10) (9)
+Total revenues $ 2,793 $ 2,272 $ 2,491 23 18 (9) (8) (7)
+Company restaurant profit $ 106 $ 67 $ 87 58 48 (24) (24) (22)
+Company restaurant margin % 17.7 % 13.2 % 15.3 % 4.5 ppts. 4.3 ppts. (2.1) ppts. (2.4) ppts. (2.4) ppts.
+G&A expenses $ 377 $ 346 $ 346 (9) (7) - (1) (1)
+Franchise and property expenses 74 91 89 18 20 (2) (2) (3)
+Franchise advertising and other services expense 627 465 520 (35) (29) 11 9 8
+Operating Profit $ 1,230 $ 922 $ 1,052 33 29 (12) (12) (11)
+% Increase (Decrease)
+Unit Count 2021 2020 2019 2021 2020
+Franchise 26,643 24,710 23,759 8 4
+Company-owned 291 290 345 - (16)
+Total 26,934 25,000 24,104 8 4
+Company sales and Company restaurant margin %
+In 2021, the increase in Company sales, excluding the impacts of foreign currency translation, was driven by company same-store sales growth of 17%, partially offset by refranchising.
+In 2021, the increase in Company restaurant margin percentage was driven by company same-store sales growth, partially offset by higher restaurant operating costs.
+Franchise and property revenues
+In 2021, the increase in Franchise and property revenues, excluding the impacts of foreign currency translation, was driven by franchise same-store sales growth of 11% and unit growth.
+G&A
+In 2021, the increase in G&A, excluding the impact of foreign currency translation, was driven by higher expenses related to our annual incentive compensation program and higher professional fees, partially offset by lower share-based compensation.
+Operating Profit
+In 2021, the increase in Operating Profit, excluding the impacts of foreign currency translation, was driven by same-store sales growth, unit growth, and current year net bad debt recoveries lapping prior year net bad debt expense for past due franchise receivables, partially offset by higher G&A.
+Taco Bell Division
+The Taco Bell Division has 7,791 units, 90% of which are in the U.S. The Company owned 7% of the Taco Bell units in the U.S. as of the end of 2021.
+% B/(W) % B/(W)
+2021 2020
+2021 2020 2019 Reported Ex FX Reported Ex FX Ex FX and 53rd Week in 2019
+System Sales $ 13,280 $ 11,745 $ 11,784 13 13 - - 1
+Same-Store Sales Growth % 11 N/A (1) N/A N/A
+Company sales $ 944 $ 882 $ 921 7 7 (4) (4) (3)
+Franchise and property revenues 742 662 673 12 12 (2) (2) -
+Franchise contributions for advertising and other services 552 487 485 14 14 - - 2
+Total revenues $ 2,238 $ 2,031 $ 2,079 10 10 (2) (2) (1)
+Company restaurant profit $ 225 $ 225 $ 221 - - 2 2 4
+Company restaurant margin % 23.9 % 25.5 % 24.0 % (1.6) ppts. (1.6) ppts. 1.5 ppts. 1.5 ppts. 1.6 ppts.
+G&A expenses $ 174 $ 158 $ 181 (11) (10) 13 13 12
+Franchise and property expenses 33 33 38 (3) (3) 16 15 15
+Franchise advertising and other services expense 553 484 481 (14) (14) (1) (1) (2)
+Operating Profit $ 758 $ 696 $ 683 9 9 2 2 4
+% Increase (Decrease)
+Unit Count 2021 2020 2019 2021 2020
+Franchise 7,329 6,952 6,895 5 1
+Company-owned 462 475 468 (3) 1
+Total 7,791 7,427 7,363 5 1
+Company sales and Company restaurant margin %
+In 2021, the increase in Company sales was driven by same-store sales growth of 7% and unit growth partially offset by refranchising.
+In 2021, the decrease in Company restaurant margin percentage was driven by higher restaurant operating costs, principally labor and commodities, partially offset by same-store sales growth.
+Franchise and property revenues
+In 2021, the increase in Franchise and property revenues was driven by franchise same-store sales growth of 11% and unit growth.
+G&A
+In 2021, the increase in G&A, excluding the impacts of foreign currency translation, was driven by higher expenses related to our annual incentive compensation programs, higher professional fees and higher charitable contributions, partially offset by lower headcount and lower share-based compensation.
+Operating Profit
+In 2021, the increase in Operating Profit was driven by same-store sales growth and unit growth, partially offset by higher restaurant operating costs and higher G&A costs.
+Pizza Hut Division
+The Pizza Hut Division has 18,381 units, 64% of which are located outside the U.S. Over 99% of the Pizza Hut Division units were operated by franchisees as of the end of 2021. The Pizza Hut Division uses multiple distribution channels including delivery, dine-in and express (e.g. airports) and includes units operating under both the Pizza Hut and Telepizza brands.
+On December 30, 2018, the Company consummated a strategic alliance with Food Delivery Brands Group, S.A. (previously named Telepizza Group S.A. (“Telepizza”)), to be the master franchisee of Pizza Hut in Latin America and portions of Europe, which added approximately 1,300 Telepizza units to our Pizza Hut Division unit count on December 30, 2018. The addition of the Telepizza units positively impacted 2019 Pizza Hut Division system sales growth, excluding the impacts of foreign currency and 53rd week, by 5 percentage points. The impact to Operating Profit for the year ended December 31, 2019, as a result of the strategic alliance was not significant.
+% B/(W) % B/(W)
+2021 2020
+2021 2020 2019 Reported Ex FX Reported Ex FX Ex FX and 53rd Week in 2019
+System Sales $ 12,955 $ 11,955 $ 12,900 8 6 (7) (7) (6)
+Same-Store Sales Growth (Decline) % 7 N/A (6) N/A N/A
+Company sales $ 46 $ 76 $ 54 (40) (42) 42 41 42
+Franchise and property revenues 597 552 597 8 6 (8) (8) (7)
+Franchise contributions for advertising and other services 385 374 376 3 2 (1) (1) 1
+Total revenues $ 1,028 $ 1,002 $ 1,027 3 1 (2) (2) (1)
+Company restaurant profit $ 3 $ 3 $ 3 (19) (24) 72 67 69
+Company restaurant margin % 6.8 % 5.1 % 4.2 % 1.7 ppts. 1.5 ppts. 0.9 ppts. 0.7 ppts. 0.8 ppts.
+G&A expenses $ 201 $ 215 $ 202 6 7 (7) (7) (8)
+Franchise and property expenses 11 17 39 37 38 56 56 54
+Franchise advertising and other services expense 395 365 367 (8) (7) - - (1)
+Operating Profit $ 387 $ 335 $ 369 16 13 (9) (9) (8)
+% Increase (Decrease)
+Unit Count 2021 2020 2019 2021 2020
+Franchise 18,359 17,559 18,603 5 (6)
+Company-owned 22 80 100 (73) (20)
+Total 18,381 17,639 18,703 4 (6)
+Company sales
+In 2021, the decrease in Company sales, excluding the impacts of foreign currency translation, was driven by the refranchising of stores in the United Kingdom, partially offset by company same-store sales growth of 7%.
+Franchise and property revenues
+In 2021, the increase in Franchise and property revenues, excluding the impacts of foreign currency translation, was driven by franchise same-store sales growth of 7%.
+G&A
+In 2021, the decrease in G&A, excluding the impacts of foreign currency translation, was driven by lower headcount and lower share-based compensation, partially offset by higher expenses related to our annual incentive compensation programs.
+Operating Profit
+In 2021, the increase in Operating Profit, excluding the impacts of foreign currency translation, was driven by same-store sales growth, lower G&A and current year net bad debt recoveries lapping prior year net bad debt expense for past due franchise receivables, partially offset by higher Franchise advertising and other services expense primarily related to digital and technology expenses.
+Habit Burger Grill Division
+The Habit Burger Grill Division has 318 units, the vast majority of which are in the U.S. The Company owned 90% of the Habit Burger Grill units in the U.S. as of December 31, 2021.
+% B/(W)
+2021 2020 Reported Ex FX
+System Sales $ 588 $ 370 59 59
+Same-Store Sales Growth % 16 N/A
+Total revenues $ 525 $ 347 51 51
+Operating Profit (Loss) $ 2 $ (22) 111 111
+% Increase (Decrease)
+Unit Count 2021 2020 2021
+Franchise 42 34 24
+Company-owned 276 253 9
+Total 318 287 11
+Corporate & Unallocated
+% B/(W)
+(Expense)/Income 2021 2020 2019 2021 2020
+Corporate and unallocated G&A $ (260) $ (312) $ (188) 17 (66)
+Unallocated Franchise and property expenses 1 (4) (14) 115 68
+Unallocated Refranchising gain (loss) (See Note 5)
+35 34 37 2 (9)
+Unallocated Other income (expense) (14) (146) (9) NM NM
+Investment income (expense), net (See Note 5)
+86 74 (67) 16 211
+Other pension income (expense) (See Note 15)
+(7) (14) (4) 48 (235)
+Interest expense, net (544) (543) (486) - (12)
+Income tax provision (See Note 18)
+(99) (116) (79) 15 (48)
+Effective tax rate (See Note 18)
+5.9 % 11.4 % 5.7 % 5.5 ppts. (5.7) ppts.
+Corporate and unallocated G&A
+In 2021, the decrease in Corporate and unallocated G&A expenses was driven by lapping higher prior year cost for charitable contributions including $50 million related to our “Unlocking Opportunity Initiative” and $25 million related to COVID-19 relief (see Note 5). The decrease was also driven by lapping prior year costs associated with a voluntary early retirement programs offered to our U.S. based employees and a worldwide severance program (see Note 5), offset by higher current year expenses related to our annual incentive compensation programs and increased headcount supporting our technology initiatives.
+Unallocated Other income (expense)
+Unallocated Other income (expense) for the year ended December 31, 2020, includes a charge of $144 million related to the impairment of Habit Burger Grill goodwill (see Note 3).
+Interest expense, net
+The increase in Interest expense, net for 2021 was primarily driven by increased outstanding borrowings offset by a lower weighted average-interest rate.
+Consolidated Cash Flows
+Net cash provided by operating activities was $1,706 million in 2021 versus $1,305 million in 2020. The increase was largely driven by an increase in Operating profit before Special Items, the lapping of charitable contributions reflected as Special Items and an increase in upfront fees received, partially offset by the timing of accounts receivable collections and higher advertising spending.
+Net cash used in investing activities was $173 million in 2021 versus $335 million in 2020. The change was primarily driven by the lapping of our prior year acquisition of The Habit Restaurants, Inc., higher refranchising proceeds in the current year and the current year sale of certain mutual fund investments, partially offset by the lapping of prior year proceeds from the sale of our investment in Grubhub, Inc. common stock, the current year acquisition of Dragontail Systems Limited and higher current year capital spending.
+Net cash used in financing activities was $1,767 million in 2021 versus $738 million in 2020. The change was primarily driven by higher share repurchases, partially offset by higher net borrowings.
+Liquidity and Capital Resources
+We have historically generated substantial cash flows from our extensive franchise operations, which require a limited YUM investment, and from the operations of our Company-owned stores. Our annual operating cash flows have been in excess of $1.3 billion in each of the past three years and we expect that to continue to be the case in 2022. It is our intent to use these operating cash flows to continue to invest in growing our business and pay a competitive dividend, with any remaining excess then returned to shareholders through share repurchases. To the extent operating cash flows plus other sources of cash do not cover our anticipated cash needs, we maintain a $1.25 billion Revolving Facility under our Credit Agreement (see Note 11) that was undrawn as of December 31, 2021. We believe that our ongoing cash from operations, cash on hand, which was approximately $500 million at December 31, 2021, and availability under our Revolving Facility will be sufficient to fund our cash requirements over the next twelve months.
+Our material cash requirements include the following contractual and other obligations.
+Debt Obligations and Interest Payments
+As of December 31, 2021, approximately 93%, including the impact of interest rate swaps, of our $11.3 billion of total debt outstanding, excluding finance leases and debt issuance costs and discounts, is fixed with an effective overall interest rate of approximately 4.2%. We currently target a capital structure which reflects consolidated leverage, net of available cash, of ~5.0x EBITDA and which we believe provides an attractive balance between optimized interest rates, duration and flexibility with diversified sources of liquidity and maturities spread over multiple years. We have credit ratings of BB (Standard & Poor's)/Ba2 (Moody's) with a balance sheet consistent with highly-levered peer restaurant franchise companies.
+The following table summarizes the future maturities of our outstanding long-term debt, excluding finance leases and debt issuance costs and discounts, as of December 31, 2021.
+Interest payments on the outstanding long-term debt in the table above total $3,384 million, with $464 million due within the next twelve months on the outstanding amounts on a nominal basis. The estimated interest payments related to the variable rate portion of our debt are based on current LIBOR interest rates.
+See Note 11 for details on the Securitization Notes, the Credit Agreement, Subsidiary Senior Unsecured Notes and YUM Senior Unsecured Notes.
+Operating and Finance Leases
+Payments required under our operating and finance leases total $1,252 million, of which $141 million is payable within the next 12 months. These amounts are on a nominal basis and include payments related to lease renewal options we are reasonably certain to exercise. These leases relate primarily to approximately 700 Company-owned restaurants and approximately 300 leased restaurants for which we sublease land, building or both to our franchisees. See Note 12.
+Capital Expenditures
+We remain committed to maintaining our asset light, franchisor model that includes at least a 98% franchise mix. Our allocation strategy for capital expenditures includes:
+•Run-rate capital expenditures consisting of company restaurant repairs, maintenance and remodels, support of our digital and technology initiatives and project-specific capital expenditures,
+•Targeted new company unit development to spur additional growth that is largely funded through refranchising a comparable number of existing company units, and
+•Strategic investments that create incremental value for shareholders and franchisees.
+In 2022, we expect that new store investments will exceed refranchising proceeds by $50 to $100 million, primarily driven by our strategy to accelerate growth of the Habit Burger Grill equity estate. This will result in net capital expenditures of approximately $250 million, reflecting up to $350 million of gross capital expenditures and $100 million of refranchising proceeds.
+Purchase Obligations
+Our purchase obligations include agreements to purchase goods or services that are enforceable and legally binding on us and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. We have excluded agreements that are cancellable without penalty. Our purchase obligations relate primarily to marketing, information technology and supply agreements. We have purchase obligations of approximately $420 million at December 31, 2021, with approximately $240 million due within the next 12 months.
+In addition to our contractual and other obligations, we seek to pay a competitive dividend and return excess cash to shareholders through share repurchases. As discussed in Note 20, we are also subject to claims and contingencies related to certain tax and legal matters that may require future cash outlays.
+Dividends and Share Repurchases
+In February 2022, our Board of Directors declared a dividend of $0.57 per share of Common Stock, a 14% increase from the quarterly dividend of $.50 per share of Common Stock paid in 2021. This quarterly dividend will be distributed March 11, 2022 to shareholders of record at the close of business on February 18, 2022, and will total approximately $165 million.
+In May 2021, our Board of Directors authorized share repurchases from July 1, 2021 through December 31, 2022 of up to $2 billion (excluding applicable transaction fees) of our outstanding Common Stock. As of December 31, 2021, we have remaining capacity to repurchase up to $950 million of Common Stock under this authorization. This authorization does not obligate the Company to acquire any specific number of shares.
+Contingencies
+As discussed in Note 20, as a result of an audit by the Internal Revenue Service (“IRS”) for fiscal years 2013 through 2015, on October 13, 2021, we received a Notice of Proposed Adjustment (“NPA”) from the IRS for the 2014 fiscal year relating to a series of reorganizations we undertook during that year in connection with the business realignment of our corporate and management reporting structure along brand lines. The IRS asserts that these reorganizations involved taxable distributions of approximately $6.0 billion. We expect to receive the final Revenue Agent’s Report (“RAR”) including the IRS’s calculation of the tax assessment in early 2022. The amount of additional tax that may be asserted by the IRS in the RAR cannot be quantified at this time; however, based on the NPA, the amount of additional tax to be proposed is expected to be material. We disagree with the IRS’s position as asserted in the NPA and intend to contest it vigorously by filing a protest disputing on multiple grounds any proposed taxes and proceeding to the IRS Office of Appeals.
+Also, as discussed in Note 20, on January 29, 2020, we received an order from the Special Director of the Directorate of Enforcement in India imposing a penalty on Yum! Restaurants India Private Limited of approximately Indian Rupee 11 billion, or approximately $150 million, primarily relating to alleged violations of operating conditions imposed in 1993 and 1994. We have been advised by external counsel that the order is flawed and have filed a writ petition with the Delhi High Court, which granted an interim stay of the penalty order on March 5, 2020. The stay order remains in effect, and the next hearing is scheduled for March 4, 2022. We deny liability and intend to continue vigorously defending this matter. We do not consider the risk of any significant loss arising from this order to be probable.
+See the Lease Guarantees section of Note 20 for discussion of our off-balance sheet arrangements.
+New Accounting Pronouncements Not Yet Adopted
+In March 2020, the Financial Accounting Standards Board issued guidance related to reference rate reform. The pronouncement provides temporary optional expedients and exceptions to the current guidance on contract modifications and hedge accounting to ease the financial reporting burdens related to the expected market transition from LIBOR and other interbank offered rates to alternative reference rates. The guidance was effective upon issuance and generally can be applied to applicable contract modifications through December 31, 2022. We are currently evaluating the impact of the transition from LIBOR to alternative reference rates, including the impact on our interest rate swaps. As of December 30, 2021, our interest rate swaps which expire in March 2025, had notional amounts of $1.5 billion. These interest rate swaps are designated cash flow hedges. We do not anticipate the impact of adopting this standard will be material to our Financial Statements.
+Critical Accounting Policies and Estimates
+Our reported results are impacted by the application of certain accounting policies that require us to make subjective or complex judgments. These judgments involve estimations of the effect of matters that are inherently uncertain and may significantly impact our quarterly or annual results of operations or financial condition. Changes in the estimates and judgments could significantly affect our results of operations and financial condition and cash flows in future years. A description of what we consider to be our most significant critical accounting policies follows.
+Impairment or Disposal of Long-Lived Assets
+We review long-lived assets of restaurants we intend to continue operating as Company restaurants (primarily PP&E, right-of-use operating lease assets and allocated intangible assets subject to amortization) annually for impairment, or whenever events or changes in circumstances indicate that the carrying amount of a restaurant may not be recoverable. We evaluate recoverability based on the restaurant’s forecasted undiscounted cash flows, which incorporate our best estimate of sales growth and margin improvement based upon our plans for the unit and actual results at comparable restaurants. For restaurant assets that are deemed to not be recoverable, we write-down the impaired restaurant to its estimated fair value. Key assumptions in the determination of fair value are the future after-tax cash flows of the restaurant, which are reduced by future royalties a franchisee would pay, and a discount rate. The after-tax cash flows incorporate reasonable sales growth and margin improvement assumptions that would be used by a franchisee in the determination of a purchase price for the restaurant. Estimates of future cash flows are highly subjective judgments and can be significantly impacted by changes in the business or economic conditions.
+In each of the years ended December 31, 2021 and 2019 our primary indicator of potential impairment for our restaurant assets was two consecutive years of operating losses. For the year ended December 31, 2020, as a result of the impacts of the COVID-19 pandemic this indicator was expanded to include restaurants that were open less than two years with cumulative operating losses for the last year or cumulative operating losses since the store open date if open less than one year.
+We perform an impairment evaluation at a restaurant group level when it is more likely than not that we will refranchise restaurants as a group. Expected net sales proceeds are generally based on actual bids from the buyer, if available, or anticipated bids given the discounted projected after-tax cash flows for the group of restaurants. Historically, these anticipated bids have been reasonably accurate estimations of the proceeds ultimately received. The after-tax cash flows used in determining the anticipated bids incorporate reasonable assumptions we believe a franchisee would make such as sales growth and margin improvement as well as expectations as to the useful lives of the restaurant assets. These after-tax cash flows also include a deduction for the anticipated, future royalties we would receive under a franchise agreement with terms substantially at market entered into simultaneously with the refranchising transaction.
+The discount rate used in the fair value calculations is our estimate of the required rate of return that a franchisee would expect to receive when purchasing a similar restaurant or groups of restaurants and the related long-lived assets. The discount rate incorporates rates of returns for historical refranchising market transactions and is commensurate with the risks and uncertainty inherent in the forecasted cash flows.
+We evaluate indefinite-lived intangible assets for impairment on an annual basis as of the beginning of our fourth quarter or more often if an event occurs or circumstances change that indicates impairment might exist. Fair value is an estimate of the price a willing buyer would pay for the intangible asset and is generally estimated by discounting the expected future after-tax cash flows associated with the intangible asset. Our most significant indefinite-lived intangible asset is our Habit Burger Grill brand asset with a book value of $96 million at December 31, 2021. As of our fourth quarter 2021 annual impairment testing date, the Habit Burger Grill’s forecasted results have improved from those used in determining the brand asset fair value as part of the prior year impairment test. As such, the fair values of all of our indefinite-lived intangible assets at December 31, 2021, were in excess of their respective carrying values and no impairment was recorded.
+Impairment of Goodwill
+We evaluate goodwill for impairment on an annual basis as of the beginning of our fourth quarter or more often if an event occurs or circumstances change that indicates impairment might exist. Goodwill is evaluated for impairment by determining whether the fair value of our reporting units exceed their carrying values. Our reporting units are our business units (which are aligned based on geography) in our KFC, Taco Bell, Pizza Hut and Habit Burger Grill Divisions. Fair value is the price a willing buyer would pay for the reporting unit, and is generally estimated using discounted expected future after-tax cash flows from franchise royalties and Company-owned restaurant operations, if any. Future cash flow estimates and the discount rate are the key assumptions when estimating the fair value of a reporting unit.
+Future cash flows are based on growth expectations relative to recent historical performance and incorporate sales growth (from net new units or same-store sales growth) and margin improvement (for those reporting units which include Company-owned restaurant operations) assumptions that we believe a third-party buyer would assume when determining a purchase price for the reporting unit. Any margin improvement assumptions that factor into the discounted cash flows are highly correlated with sales growth as cash flow growth can be achieved through various interrelated strategies such as product pricing and restaurant productivity initiatives. The discount rate is our estimate of the required rate of return that a third-party buyer would expect to receive when purchasing a business from us that constitutes a reporting unit. We believe the discount rate is commensurate with the risks and uncertainty inherent in the forecasted cash flows.
+The fair values of all our reporting units with goodwill balances were in excess of their respective carrying values as of our fourth quarter 2021 goodwill testing date, with all but the Habit Burger Grill reporting unit having fair values that were substantially in excess of their respective carrying values as of the 2021 goodwill testing date. As it relates to our Habit Burger Grill reporting unit, assumptions for unit growth and same-store sales growth utilized in the fourth quarter 2021 annual impairment test improved as compared to the prior year impairment test, due in large part to the continued recovery from the impacts of COVID-19. As such, the fair value of the reporting unit increased versus prior year.
+When we refranchise restaurants, we include goodwill in the carrying amount of the restaurants disposed of based on the relative fair values of the portion of the reporting unit disposed of in the refranchising versus the portion of the reporting unit that will be retained. The fair value of the portion of the reporting unit disposed of in a refranchising is determined by reference to the discounted value of the future cash flows expected to be generated by the restaurant and retained by the franchisee, which include a deduction for the anticipated, future royalties the franchisee will pay us associated with the franchise agreement entered into simultaneously with the refranchising transaction. Appropriate adjustments are made to the fair value determinations if such franchise agreement is determined to not be at prevailing market rates. When determining whether such franchise agreement is at prevailing market rates our primary consideration is consistency with the terms of our current franchise agreements both within the country that the restaurants are being refranchised in and around the world. The Company believes consistency in royalty rates as a percentage of sales is appropriate as the Company and franchisee share in the impact of near-term fluctuations in sales results with the acknowledgment that over the long-term the royalty rate represents an appropriate rate for both parties.
+The discounted value of the future cash flows expected to be generated by the restaurant and retained by the franchisee is reduced by future royalties the franchisee will pay the Company. The Company thus considers the fair value of future royalties to be received under the franchise agreement as fair value retained in its determination of the goodwill to be written off when refranchising. Others may consider the fair value of these future royalties as fair value disposed of and thus would conclude that a larger percentage of a reporting unit’s fair value is disposed of in a refranchising transaction.
+During 2021, refranchising activity completed by the Company was limited and the write-off of goodwill associated with these transactions was approximately $3 million.
+Pension Plans
+Certain of our employees are covered under defined benefit pension plans. Our two most significant plans are in the U.S. and combined had a projected benefit obligation (“PBO”) of $1,069 million and a fair value of plan assets of $1,010 million at December 31, 2021.
+The PBO reflects the actuarial present value of all benefits earned to date by employees and incorporates assumptions as to future compensation levels. Due to the relatively long time frame over which benefits earned to date are expected to be paid, our PBOs are highly sensitive to changes in discount rates. For our U.S. plans, we measured our PBOs using a discount rate of 3.00% at December 31, 2021. The primary basis for this discount rate determination is a model that consists of a hypothetical portfolio of ten or more corporate debt instruments rated Aa or higher by Moody’s or Standard & Poor's ("S&P") with cash flows that mirror our expected benefit payment cash flows under the plans. We exclude from the model those corporate debt instruments flagged by Moody’s or S&P for a potential downgrade (if the potential downgrade would result in a rating below Aa by both Moody's and S&P) and bonds with yields that were two standard deviations or more above the mean. In considering possible bond portfolios, the model allows the bond cash flows for a particular year to exceed the expected benefit payment cash flows for that year. Such excesses are assumed to be reinvested at appropriate one-year forward rates and used to meet the benefit payment cash flows in a future year. The weighted-average yield of this hypothetical portfolio was used to arrive at an appropriate discount rate. We also ensure that changes in the discount rate as compared to the prior year are consistent with the overall change in prevailing market rates and make adjustments as necessary. A 50 basis-point increase in this discount rate would have decreased these U.S. plans’ PBOs by approximately $65 million at our measurement date. Conversely, a 50 basis-point decrease in this discount rate would have increased our U.S. plans’ PBOs by approximately $72 million at our measurement date.
+The net periodic benefit cost we will record in 2022 is also impacted by the discount rate, as well as the long-term rates of return on plan assets and mortality assumptions we selected at our measurement date. We expect net periodic benefit cost for our U.S. plans to decrease approximately $8 million in 2022. A 50 basis-point change in our discount rate assumption at our 2021 measurement date would impact our 2022 U.S. net periodic benefit cost by approximately $6 million. The impacts of changes in net periodic benefit costs are reflected primarily in Other pension (income) expense.
+Our estimated long-term rate of return on U.S. plan assets is based upon the weighted-average of historical and expected future returns for each asset category. Our expected long-term rate of return on U.S. plan assets, for purposes of determining 2022 pension expense, at December 31, 2021, was 5.40%, net of administrative and investment fees paid from plan assets. We believe this rate is appropriate given the composition of our plan assets and historical market returns thereon. A 100 basis point change in our expected long-term rate of return on plan assets assumption would impact our 2022 U.S. net periodic benefit cost by approximately $9 million. Additionally, every 100 basis point variation in actual return on plan assets versus our expected return of 5.40% will impact our unrecognized pre-tax actuarial net loss by approximately $9 million.
+A decrease in discount rates over time has largely contributed to an unrecognized pre-tax actuarial net loss of $33 million included in Accumulated other comprehensive income for these U.S. plans at December 31, 2021. We will recognize approximately $11 million of such loss in net periodic benefit cost in 2022 versus $14 million recognized in 2021.
+Income Taxes
+At December 31, 2021, we had valuation allowances of $462 million to reduce our $1,541 million of deferred tax assets to amounts that are more likely than not to be realized. The net deferred tax assets primarily relate to temporary differences in profitable U.S. federal, state and foreign jurisdictions and net operating losses in certain foreign jurisdictions, the majority of which do not expire. In evaluating our ability to recover our deferred tax assets, we consider future taxable income in the various jurisdictions, carryforward periods, restrictions on usage and prudent and feasible tax planning strategies. The estimation of future taxable income in these jurisdictions and our resulting ability to utilize deferred tax assets can significantly change based on future events, including our determinations as to feasibility of certain tax planning strategies and refranchising plans. Thus, recorded valuation allowances may be subject to material future changes.
+As a matter of course, we are regularly audited by federal, state and foreign tax authorities. We recognize the benefit of positions taken or expected to be taken in our tax returns in our Income tax provision when it is more likely than not that the position would be sustained upon examination by these tax authorities. A recognized tax position is then measured at the largest amount of benefit that is greater than fifty percent likely of being realized upon settlement. At December 31, 2021, we had $116
+million of unrecognized tax benefits, $75 million of which would impact the effective tax rate if recognized. We evaluate unrecognized tax benefits, including interest thereon, on a quarterly basis to ensure that they have been appropriately adjusted for events, including audit settlements, which may impact our ultimate payment for such exposures.
+Repatriation of earnings generated after December 31, 2017, will generally be eligible for the 100% dividends received deduction or considered a distribution of previously taxed income and, therefore, exempt from U.S. federal tax. Undistributed foreign earnings may still be subject to certain state and foreign income and withholding taxes upon repatriation. Subject to limited exceptions, we do not intend to indefinitely reinvest our unremitted earnings outside the U.S. Thus, we have provided taxes, including any U.S. federal and state income, foreign income, or foreign withholding taxes on the majority of our unremitted earnings. In jurisdictions where we do intend to indefinitely reinvest our unremitted earnings, we would be required to accrue and pay applicable income taxes (if any) and foreign withholding taxes if the funds were repatriated in taxable transactions. We believe any such taxes would be immaterial.

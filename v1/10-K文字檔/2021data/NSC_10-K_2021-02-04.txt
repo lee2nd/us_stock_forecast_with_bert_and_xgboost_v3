@@ -1,0 +1,271 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Norfolk Southern Corporation and Subsidiaries
+The following discussion and analysis should be read in conjunction with the Consolidated Financial Statements and Notes.
+OVERVIEW
+We are one of the nation’s premier transportation companies. Our Norfolk Southern Railway Company subsidiary operates approximately 19,300 route miles in 22 states and the District of Columbia, serves every major container port in the eastern U.S., and provides efficient connections to other rail carriers. We are a major transporter of industrial products, including agriculture, forest and consumer products, chemicals, and metals and construction materials. In addition, we operate the most extensive intermodal network in the East and are a principal carrier of coal, automobiles, and automotive parts.
+In 2020, we continued the implementation of our strategic plan, including tactical changes to our operating plan, to generate operational efficiencies, improve customer service, and deliver strong financial results. The COVID-19 pandemic caused significant economic disruption and, along with softening energy markets, reduced the demand for our services. Nevertheless, we executed on operational initiatives to generate efficiencies and lower our cost structure. In the face of economic headwinds that resulted in a year-over-year volume decline of 12%, we improved productivity by driving year-over-year average headcount down by 18%, and we increased asset utilization through rationalization of our locomotive fleet. These sustainable cost structure improvements will provide greater benefits as the economy recovers. However, there is still substantial uncertainty as to the pace of economic recovery and the continued effects of the pandemic on our results of operations. We continue to monitor the impact of the pandemic on our employees’ availability and remain committed to protecting our employees and providing excellent transportation service products for our customers.
+SUMMARIZED RESULTS OF OPERATIONS
+2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+($ in millions, except per share amounts) (% change)
+Income from railway operations $ 3,002 $ 3,989 $ 3,959 (25 %) 1 %
+Net income $ 2,013 $ 2,722 $ 2,666 (26 %) 2 %
+Diluted earnings per share $ 7.84 $ 10.25 $ 9.51 (24 %) 8 %
+Railway operating ratio (percent) 69.3 64.7 65.4 7 % (1 %)
+Income from railway operations declined in 2020 compared to 2019 as railway operating revenues fell 13% which exceeded a 7% reduction in operating expenses. Railway operating revenues declined as lower customer demand resulted in volume reductions. Additionally, negative mix and lower fuel surcharge revenue, partially offset by increased pricing, led to lower revenue per unit. Railway operating expenses decreased due to declines in fuel price and consumption, reduced employment levels, lower volumes and operational efficiency improvements. Additionally, 2020 results were adversely impacted by a loss on asset disposal of $385 million related to locomotives sold, and by a $99 million impairment charge related to an equity method investment. For more information on the impact of these charges, see Notes 7 and 6, respectively.
+Income from railway operations rose in 2019 compared to 2018 as a 3% reduction in railway operating expenses more than offset the impact of a 1% decline in railway operating revenues. In addition to higher income from railway operations, net income and diluted earnings per share growth in 2019 also benefited from a lower effective
+K19
+tax rate. Our continuing share repurchase program contributed to diluted earnings per share growth that exceeded that of net income.
+The following tables adjust our 2020 U.S. Generally Accepted Accounting Principles (“GAAP”) financial results to exclude the effects of the aforementioned charges. The income tax effects on the non-GAAP adjustments were calculated based on the applicable tax rates to which the non-GAAP adjustments relate. We use these non-GAAP financial measures internally and believe this information provides useful supplemental information to investors to facilitate making period-to-period comparisons by excluding the 2020 charges. While we believe that these non-GAAP financial measures are useful in evaluating our business, this information should be considered as supplemental in nature and is not meant to be considered in isolation from, or as a substitute for, the related financial information prepared in accordance with GAAP. In addition, these non-GAAP financial measures may not be the same as similar measures presented by other companies.
+Non-GAAP Reconciliation for 2020
+Reported 2020 (GAAP) Loss on Asset Disposal Investment Impairment Adjusted 2020
+(non-GAAP)
+($ in millions, except per share amounts)
+Railway operating expenses $ 6,787 $ (385) $ (99) $ 6,303
+Income from railway operations $ 3,002 $ 385 $ 99 $ 3,486
+Income before income taxes $ 2,530 $ 385 $ 99 $ 3,014
+Income taxes $ 517 $ 97 $ 25 $ 639
+Net income $ 2,013 $ 288 $ 74 $ 2,375
+Diluted earnings per share $ 7.84 $ 1.12 $ 0.29 $ 9.25
+Railway operating ratio (percent) 69.3 (3.9) (1.0) 64.4
+In the table below, references to 2020 results and related comparisons use the adjusted, non-GAAP results from the table above.
+Adjusted
+Adjusted 2020
+2020 (non-GAAP) 2019
+(non-GAAP) 2019 2018 vs. 2019 vs. 2018
+($ in millions, except per share amounts) (% change)
+Railway operating expenses $ 6,303 $ 7,307 $ 7,499 (14 %) (3 %)
+Income from railway operations $ 3,486 $ 3,989 $ 3,959 (13 %) 1 %
+Income before income taxes $ 3,014 $ 3,491 $ 3,469 (14 %) 1 %
+Income taxes $ 639 $ 769 $ 803 (17 %) (4 %)
+Net income $ 2,375 $ 2,722 $ 2,666 (13 %) 2 %
+Diluted earnings per share $ 9.25 $ 10.25 $ 9.51 (10 %) 8 %
+Railway operating ratio (percent) 64.4 64.7 65.4 - % (1 %)
+K20
+DETAILED RESULTS OF OPERATIONS
+Railway Operating Revenues
+The following tables present a three-year comparison of revenues, volumes (units), and average revenue per unit by major commodity group.
+Revenues 2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+($ in millions) (% change)
+Merchandise:
+Agriculture, forest and consumer
+products $ 2,116 $ 2,256 $ 2,188 (6 %) 3 %
+Chemicals 1,809 2,092 2,083 (14 %) - %
+Metals and construction 1,333 1,461 1,482 (9 %) (1 %)
+Automotive 830 994 991 (16 %) - %
+Merchandise 6,088 6,803 6,744 (11 %) 1 %
+Intermodal 2,654 2,824 2,893 (6 %) (2 %)
+Coal 1,047 1,669 1,821 (37 %) (8 %)
+Total $ 9,789 $ 11,296 $ 11,458 (13 %) (1 %)
+Units 2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+(in thousands) (% change)
+Merchandise:
+Agriculture, forest and consumer
+products 704.4 763.7 790.7 (8 %) (3 %)
+Chemicals 482.0 588.9 604.7 (18 %) (3 %)
+Metals and construction 601.2 685.1 719.8 (12 %) (5 %)
+Automotive 329.7 394.7 403.9 (16 %) (2 %)
+Merchandise 2,117.3 2,432.4 2,519.1 (13 %) (3 %)
+Intermodal 3,992.1 4,207.2 4,375.7 (5 %) (4 %)
+Coal 574.1 914.0 1,033.5 (37 %) (12 %)
+Total 6,683.5 7,553.6 7,928.3 (12 %) (5 %)
+Revenue per Unit 2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+($ per unit) (% change)
+Merchandise:
+Agriculture, forest and consumer
+products $ 3,004 $ 2,953 $ 2,767 2 % 7 %
+Chemicals 3,753 3,553 3,444 6 % 3 %
+Metals and construction 2,216 2,133 2,059 4 % 4 %
+Automotive 2,518 2,517 2,453 - % 3 %
+Merchandise 2,875 2,797 2,677 3 % 4 %
+Intermodal 665 671 661 (1 %) 2 %
+Coal 1,824 1,826 1,762 - % 4 %
+Total 1,465 1,495 1,445 (2 %) 3 %
+K21
+At the beginning of 2020, we combined the agriculture products and forest and consumer commodity groups. In addition, we also made changes in the categorization of certain other commodity groups within Merchandise. Prior period railway operating revenues, units, and revenue per unit have been reclassified to conform to the current presentation (see Note 2).
+Revenues decreased $1.5 billion in 2020 and $162 million in 2019 compared to the prior years. As reflected in the table below, lower revenues for both years were the result of decreased volumes and lower fuel surcharge revenue, partially offset by pricing gains.
+The table below reflects the components of the revenue change by major commodity group.
+2020 vs. 2019 2019 vs. 2018
+Increase (Decrease) Increase (Decrease)
+($ in millions)
+Merchandise Intermodal Coal Merchandise Intermodal Coal
+Volume $ (881) $ (144) $ (621) $ (232) $ (111) $ (210)
+Fuel surcharge
+revenue (92) (124) (13) (14) (30) (35)
+Rate, mix and
+other 258 98 12 305 72 93
+Total $ (715) $ (170) $ (622) $ 59 $ (69) $ (152)
+Approximately 90% of our revenue base is covered by contracts that include negotiated fuel surcharges. These revenues totaled $349 million, $578 million, and $657 million in 2020, 2019, and 2018, respectively.
+MERCHANDISE revenues decreased in 2020 but increased in 2019 compared with the prior years. In 2020, revenues decreased due to volume declines in all commodity groups which were partially offset by higher average revenue per unit, driven by pricing gains. In 2019, revenues grew due to higher average revenue per unit, driven by pricing gains, which were partially offset by volume declines in all commodity groups.
+For 2021, merchandise revenues are expected to increase, the result of higher volume as the market continues to recover from the impact of the COVID-19 pandemic and increased revenue per unit driven by pricing gains.
+Agriculture, forest and consumer products revenues decreased in 2020 but increased in 2019 compared with the prior years. In 2020, the decline was the result of reduced volume partially offset by higher average revenue per unit, driven by pricing gains partially offset by lower fuel surcharge revenue. Volume declined due to the impact of COVID-19 on the demand for ethanol, corn, food service products, and building, industrial and commercial products. Revenue growth in 2019 was due to higher average revenue per unit, a result of pricing gains, which more than offset volume declines. Volume was down due to decreased shipments of ethanol, pulpboard, lumber, soybeans, pulp, woodchips, canned goods, and fertilizer, partially offset by increased corn shipments.
+In 2021, agriculture, forest and consumer products revenues are expected to rise, a result of increased volume as the economic recovery continues, and revenue per unit increases resulting from pricing gains. We expect volumes to increase in most markets led by ethanol, corn, pulpboard, and food services.
+Chemicals revenues fell in 2020 but rose slightly in 2019 compared with the prior years. In 2020, the decrease was the result of volume declines partially offset by higher average revenue per unit, due to pricing gains. Volume declined due to the impact from COVID-19 and ongoing disruptions in the energy market. The pandemic created an overabundance of products in the market as companies reduced stockpiles before requiring more products. Oil and petroleum shipments were negatively impacted due to reductions in gasoline/jet fuel demand and travel. In
+K22
+2019, the rise was the result of higher average revenue per unit, due to pricing gains, which were partially offset by volume declines. Volume declines in natural gas, sand, petroleum products, organic and inorganic chemicals, and plastics were partially offset by gains in crude oil and municipal waste.
+For 2021, chemicals revenues are anticipated to increase, as a result of increased volume and revenue per unit driven by pricing gains. We expect carloads to increase due to growth in plastics, organic chemicals, petroleum products, and solid waste which is projected to be partially offset by reduced volumes of sand, crude oil and natural gas liquids.
+Metals and construction revenues declined in both periods. In 2020, volume declines were partially offset by higher average revenue per unit, the result of pricing gains. Volume declines were largely the result of weakened demand due to reductions in metal and domestic vehicle production. The pandemic caused industries to suspend production which heavily impacted customers’ needs for materials and shipping of finished and semi-finished goods. These declines were partially offset by increased demand for cement. In 2019, volume declines were largely offset by higher average revenue per unit, the result of pricing gains. Volume declines in iron and steel, coil, scrap metal, and kaolin were partially offset by increases in aggregates shipments due to improved service and market strength.
+For 2021, metals and construction revenues are expected to rise, a result of increased volume and revenue per unit driven by pricing gains. As the economic recovery continues, volume growth is expected in almost all markets led by scrap metal, coil, iron and steel, and construction.
+Automotive revenues declined in 2020 but were flat in 2019 compared with the prior years. In 2020, revenue declines were driven by lower volume and fuel surcharge revenue, partially offset by pricing gains. The volume decline was mostly the result of unplanned automotive plant shutdowns in the first half of the year, primarily due to the COVID-19 pandemic, which was partially offset by increased demand in the second half of the year. In 2019, higher average revenue per unit, driven by price increases, offset volume declines that were primarily the result of decreases in U.S. light vehicle production and the United Automobile Workers strike in the fourth quarter.
+In 2021, automotive revenues are expected to increase as a result of higher volume as inventories continue to rebuild.
+INTERMODAL revenues decreased in both periods. The decline in 2020 was driven by lower volume and fuel surcharge revenue, which were partially offset by pricing gains and favorable mix. The decline in 2019 was driven by lower volume, which was partially offset by higher average revenue per unit, a result of pricing gains.
+For 2021, we expect intermodal revenues to rise, the result of increased demand, expected highway conversions, and higher fuel surcharge revenue.
+Intermodal units by market were as follows:
+2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+(units in thousands) (% change)
+Domestic 2,568.7 2,593.5 2,801.1 (1 %) (7 %)
+International 1,423.4 1,613.7 1,574.6 (12 %) 2 %
+Total 3,992.1 4,207.2 4,375.7 (5 %) (4 %)
+Domestic volume fell in both periods. While volume rebounded in the second half of 2020 due to inventory replenishment and a strong peak season, volume for the year was challenged by supply chain disruptions related to
+K23
+COVID-19 and strong over-the-road competition in the first half of the year. Volume was challenged in 2019 by stronger over-the-road competition.
+For 2021, we expect higher domestic volume driven by growth from new and existing customers and continued highway conversions.
+International volume fell in 2020, but rose in 2019. The decline in 2020 resulted from supply chain disruptions due to COVID-19. The rise in 2019 was due to increased demand from new and existing customers partially offset by lower shipments due to tariff concerns.
+For 2021, we expect international volume growth as demand and trade continue to recover.
+COAL revenues decreased in both periods. The decrease in 2020 was a result of significant volume declines. The decrease in 2019 was a result of lower volume, which was partially offset by higher average revenue per unit, driven by pricing gains.
+For 2021, we expect coal revenues to decline. We anticipate overall coal volume to be down as continued declines in utility are projected to more than offset domestic metallurgical and export gains.
+As shown in the following table, total tonnage decreased in both periods.
+2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+(tons in thousands) (% change)
+Utility 32,479 60,278 65,688 (46 %) (8 %)
+Export 18,900 23,324 28,046 (19 %) (17 %)
+Domestic metallurgical 9,441 13,562 15,500 (30 %) (13 %)
+Industrial 3,566 4,655 5,410 (23 %) (14 %)
+Total 64,386 101,819 114,644 (37 %) (11 %)
+Utility coal tonnage decreased in both periods. The decline in 2020 was due to low natural gas prices, diminished industrial and commercial electricity demand, and high stockpiles. The decline in 2019 was due to continued headwinds from low natural gas prices and additional natural gas and renewable energy generating capacity, which were slightly offset by customer inventory rebuilding.
+For 2021, utility coal tonnage is expected to decrease as a result of high stockpiles and continued pressure from natural gas and renewable energy.
+Export coal tonnage decreased in both periods. The decline in 2020 was a result of weak seaborne pricing, COVID-19-related global disruptions, and import restrictions. The decline in 2019 was a result of weak thermal seaborne pricing and coal supply disruptions at certain mines.
+For 2021, export coal tonnage is expected to increase due to the global recovery from COVID-19.
+Domestic metallurgical coal tonnage was down in both years. The decline in 2020 was a reflection of continued reduced domestic steel demand which led to idled customer facilities and lower production. The decline in 2019 was a reflection of challenging overall market conditions including softening domestic steel demand, customer sourcing changes, and plant outages.
+For 2021, domestic metallurgical coal tonnage is expected to increase due to the recovery from COVID-19.
+K24
+Industrial coal tonnage decreased in both years driven by pressure from natural gas conversions and customer sourcing changes.
+For 2021, industrial coal tonnage is expected to decrease as a result of continued pressure from natural gas conversions and customer sourcing changes.
+Railway Operating Expenses
+Railway operating expenses summarized by major classifications were as follows:
+2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+($ in millions) (% change)
+Compensation and benefits $ 2,373 $ 2,751 $ 2,925 (14 %) (6 %)
+Purchased services and rents 1,687 1,725 1,730 (2 %) - %
+Fuel 535 953 1,087 (44 %) (12 %)
+Depreciation 1,154 1,138 1,102 1 % 3 %
+Materials and other 653 740 655 (12 %) 13 %
+Loss on asset disposal 385 - -
+Total $ 6,787 $ 7,307 $ 7,499 (7 %) (3 %)
+In 2020, expenses fell as our strategic initiatives to improve productivity and asset utilization resulted in lower compensation and benefits expense, declines in fuel consumption, reduced purchased services, and lower materials expense. Fuel expense also declined due to lower prices. These expense reductions were partially offset by a loss on asset disposal of $385 million related to locomotives sold, and a $99 million impairment charge included in purchased services and rents related to an equity method investment. In 2019, expenses fell as our strategic initiatives to improve productivity resulted in lower compensation, equipment rents, and materials expense. These decreases along with lower fuel prices and consumption were partially offset by lower gains on operating property sales, increased depreciation, and a write-off of a $32 million receivable as a result of a legal dispute.
+Compensation and benefits decreased in 2020, reflecting changes in:
+•employment levels (down $309 million),
+•health and welfare benefits for craft employees (down $77 million),
+•overtime and recrews (down $54 million),
+•incentive and stock-based compensation (down $38 million),
+•increased pay rates (up $50 million),
+•lower capitalized labor (additional expense of $51 million), and
+•other (down $1 million).
+K25
+In 2019, compensation and benefits decreased, a result of changes in:
+•employment levels (down $117 million),
+•incentive and stock-based compensation (down $83 million),
+•overtime and recrews (down $45 million),
+•higher capitalized labor (reduced expense of $9 million),
+•2018 employment tax refund ($31 million unfavorable in 2019),
+•pay rates (up $76 million), and
+•other (down $27 million).
+Our employment averaged 20,200 in 2020, compared with 24,600 in 2019, and 26,700 in 2018.
+Purchased services and rents includes the costs of services purchased from external vendors and contractors, including the net costs of operating joint (or leased) facilities with other railroads and the net cost of equipment rentals.
+2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+($ in millions) (% change)
+Purchased services $ 1,387 $ 1,434 $ 1,367 (3 %) 5 %
+Equipment rents 300 291 363 3 % (20 %)
+Total $ 1,687 $ 1,725 $ 1,730 (2 %) - %
+The decrease in purchased services in 2020 resulted from volume-related declines and strategic initiatives to improve productivity and asset utilization, partially offset by the $99 million impairment related to an equity method investment. The increase in purchased services in 2019 was the result of increased technology-related costs, expenses associated with our headquarters relocation, and increased intermodal-related costs partially offset by decreased transportation activities.
+Equipment rents, which includes our cost of using equipment (mostly freight cars) owned by other railroads or private owners less the rent paid to us for the use of our equipment, increased in 2020, but decreased in 2019. In 2020, the increase was primarily the result of lower equity in TTX earnings and increased automotive equipment expenses partially offset by decreased intermodal equipment expenses. In 2019, the decrease was largely due to improved network velocity and the absence of short-term locomotive resource costs incurred in the prior year.
+Fuel expense, which includes the cost of locomotive fuel as well as other fuel used in railway operations, decreased in both periods. The change in both years was due to lower locomotive fuel prices (down 32% in 2020 and 8% in 2019) which decreased expenses by $235 million in 2020 and $82 million in 2019. Additionally, locomotive fuel consumption decreased 18% in 2020 and 4% in 2019. We consumed approximately 368 million gallons of diesel fuel in 2020, compared with 451 million gallons in 2019 and 472 million gallons in 2018.
+Depreciation expense increased in both periods, a reflection of reinvestment in our infrastructure, rolling stock, and technology.
+K26
+Materials and other expenses decreased in 2020 but increased in 2019 as shown in the following table.
+2020 2019
+2020 2019 2018 vs. 2019 vs. 2018
+($ in millions) (% change)
+Materials $ 274 $ 327 $ 362 (16 %) (10 %)
+Claims 179 193 176 (7 %) 10 %
+Other 200 220 117 (9 %) 88 %
+Total $ 653 $ 740 $ 655 (12 %) 13 %
+Materials expense decreased in 2020 and 2019 due primarily to lower maintenance requirements as a result of fewer locomotives and freight cars in service.
+Claims expense includes costs related to personal injury, property damage, and environmental matters. The 2020 expense declined, primarily the result of lower costs related to environmental remediation matters partially offset by increased derailment costs. The 2019 expense increased, primarily due to higher costs related to environmental remediation matters and personal injury claims.
+Other expense decreased in 2020, largely due to the absence of the 2019 write-off of a $32 million receivable as a result of a legal dispute. Additionally, 2020 benefited from reduced travel expenses resulting from the COVID-19 pandemic. These reductions were partially offset by lower gains from sales of operating property. Other expense increased in 2019, primarily due to lower gains from sales of operating property and the $32 million write-off. Gains from operating property sales amounted to $26 million, $64 million, and $158 million in 2020, 2019, and 2018, respectively.
+Loss on asset disposal
+During 2020, we recorded a $385 million charge related to the disposal of 703 locomotives, the sales of which were completed during the fourth quarter. For more information on the impact of the charge, see Note 7.
+Other income - net
+Other income - net increased in 2020 and 2019. The increase in 2020 was driven by the absence of the prior year $49 million impairment loss related to natural resource assets that were sold in 2020, lower pension and postretirement benefit expenses, and higher returns on corporate-owned life insurance (“COLI”) investments, which more than offset the absence of coal royalties and lower gains on sales of non-operating property. The increase in 2019 was driven by higher COLI returns and increased gains on sales of non-operating property, which more than offset the aforementioned $49 million impairment loss.
+Income taxes
+The effective income tax rate was 20.4% in 2020, compared with 22.0% in 2019 and 23.1% in 2018. The current year benefited from a reduction of taxes upon the resolution of our 2012 amended return (see Note 4). All three years benefited from favorable tax benefits associated with stock-based compensation and COLI returns.
+For 2021, we expect an effective income tax rate between 23% and 24%.
+K27
+FINANCIAL CONDITION, LIQUIDITY, AND CAPITAL RESOURCES
+Cash provided by operating activities, our principal source of liquidity, was $3.6 billion in 2020, $3.9 billion in 2019, and $3.7 billion in 2018. The decline in 2020 reflects a decrease in income from railway operations offset in part by lower income tax payments. The increase in 2019 was primarily the result of improved operating results. We had working capital of $158 million and negative working capital of $219 million at December 31, 2020, and 2019, respectively. Cash and cash equivalents totaled $1.1 billion and $580 million at December 31, 2020, and 2019, respectively. We expect cash on hand combined with cash provided by operating activities will be sufficient to meet our ongoing obligations. In addition, we believe our currently-available borrowing capacity, access to additional financing, and ability to reduce property additions and shareholder distributions, including share repurchases, provide additional flexibility to meet our ongoing obligations. Nonetheless, we continue to monitor the ongoing impacts of the COVID-19 pandemic, which could lead to a reduction in cash flows from operations.
+Contractual obligations at December 31, 2020, include long-term debt (Note 9), interest on fixed-rate long-term debt, unconditional purchase obligations (Note 17), long-term advances from Conrail (Note 6), operating leases (Note 10), agreements with Consolidated Rail Corporation (CRC) (Note 6), and unrecognized tax benefits (Note 4).
+Total 2021 2022 -
+2023 2024 -
+2025 2026 and
+Subsequent Other
+($ in millions)
+Long-term debt principal $ 13,693 $ 579 $ 1,156 $ 958 $ 11,000 -
+Interest on fixed-rate long-term debt 13,515 568 1,062 997 10,888 -
+Unconditional purchase obligations 1,120 600 329 76 115 -
+Long-term advances from Conrail 534 - - - 534 -
+Operating leases 504 101 143 115 145 -
+Agreements with CRC 140 41 82 17 - -
+Unrecognized tax benefits* 22 - - - - 22
+Total $ 29,528 $ 1,889 $ 2,772 $ 2,163 $ 22,682 $ 22
+* This amount is shown in the Other column because the year of settlement cannot be reasonably estimated.
+Off balance sheet arrangements consist primarily of unrecognized obligations, including unconditional purchase obligations and future interest payments on fixed-rate long-term debt, which are included in the table above. In addition, we entered into a synthetic lease during 2019 which is discussed further in Note 10.
+Cash used in investing activities was $1.2 billion in 2020, compared with $1.8 billion in 2019, and $1.7 billion in 2018. The decrease in 2020 was primarily driven by lower property additions. In 2019, increased COLI activity and higher property additions were partially offset by increased proceeds from property sales. We had the ability to borrow up to $750 million against our COLI policies at December 31, 2020.
+Capital spending and track and equipment statistics can be found within the “Railway Property” section of Part I of this report on Form 10-K. For 2021, we expect capital spending will approximate $1.6 billion.
+Cash used in financing activities was $1.9 billion in 2020, compared with $2.0 billion in 2019, and $2.3 billion in 2018. The change in 2020 reflects lower repurchases of Common Stock and debt repayments, partially offset by
+reduced proceeds from borrowings. In 2019, the decrease was impacted by fewer repurchases of Common Stock, higher debt repayments, and increased dividends.
+Share repurchases of $1.4 billion in 2020, $2.1 billion in 2019, and $2.8 billion in 2018 resulted in the retirement of 7.4 million, 11.3 million, and 17.1 million shares, respectively. As of December 31, 2020, 20.7 million shares
+K28
+remain authorized by our Board of Directors for repurchase. The timing and volume of future share repurchases will be guided by our assessment of market conditions and other pertinent factors. Any near-term purchases under the program are expected to be made with internally generated cash, cash on hand, or proceeds from borrowings.
+In May 2020, we issued $800 million of 3.05% senior notes due 2050, resulting in $790 million in net proceeds.
+In May 2020, we also issued $800 million of 3.155% senior notes due 2055 in exchange for $554 million of previously issued notes ($450 million at 5.1% due 2118, $42 million at 6% due 2111, $29 million at 7.9% due 2097, $26 million at 6% due 2105, and $7 million at 7.05% due 2037). As part of the debt exchange, a $4 million loss on extinguishment was recognized in “Other income - net.”
+In May 2020, we also renewed and amended our accounts receivable securitization program, reducing our maximum borrowing capacity from $450 million to $400 million. The term expires in May 2021. We had no amounts outstanding at December 31, 2020 or December 31, 2019, and our available borrowing capacity was $400 million and $429 million, respectively.
+In March 2020, we renewed and amended our five-year credit agreement. We increased the program’s borrowing capacity from $750 million to $800 million. The amended agreement expires in 2025 and provides for borrowings at prevailing rates and includes covenants. We had no amounts outstanding under this facility at December 31, 2020 or December 31, 2019.
+We discuss our credit agreement and our accounts receivable securitization program in Note 9, and we have authority from our Board of Directors to issue an additional $1.6 billion of debt or equity securities through public or private sale, all of which provide for access to additional liquidity should the need arise. Our debt-to-total capitalization ratio was 46.2% at December 31, 2020, compared with 44.5% at December 31, 2019.
+Upcoming annual debt maturities are disclosed in Note 9. Overall, our goal is to maintain a capital structure with appropriate leverage to support our business strategy and provide flexibility through business cycles.
+APPLICATION OF CRITICAL ACCOUNTING POLICIES
+The preparation of financial statements in accordance with GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. These estimates and assumptions may require judgment about matters that are inherently uncertain, and future events are likely to occur that may require us to make changes to these estimates and assumptions. Accordingly, we regularly review these estimates and assumptions based on historical experience, changes in the business environment, and other factors we believe to be reasonable under the circumstances. The following critical accounting policies are a subset of our significant accounting policies described in Note 1.
+Pensions and Other Postretirement Benefits
+Accounting for pensions and other postretirement benefit plans requires us to make several estimates and assumptions (Note 12). These include the expected rate of return from investment of the plans’ assets and the expected retirement age of employees as well as their projected earnings and mortality. In addition, the amounts recorded are affected by changes in the interest rate environment because the associated liabilities are discounted to their present value. We make these estimates based on our historical experience and other information we deem pertinent under the circumstances (for example, expectations of future stock market performance). We utilize an independent actuarial consulting firm’s studies to assist us in selecting appropriate actuarial assumptions and valuing related liabilities.
+For 2020, we assumed a long-term investment rate of return of 8.25%, which was supported by our long-term total rate of return on plan assets since inception, as well as our expectation of future returns. A one-percentage point change to this rate of return assumption would result in a $24 million change in annual pension expense. We review
+K29
+assumptions related to our defined benefit plans annually, and while changes are likely to occur in assumptions concerning retirement age, projected earnings, and mortality, they are not expected to have a material effect on our net pension expense or net pension liability in the future. The net pension liability is recorded at net present value using discount rates that are based on the current interest rate environment in light of the timing of expected benefit payments. We utilize analyses in which the projected annual cash flows from the pension and postretirement benefit plans are matched with yield curves based on an appropriate universe of high-quality corporate bonds. We use the results of the yield curve analyses to select the discount rates that match the payment streams of the benefits in these plans. A one-percentage point change to this discount rate assumption would result in a $17 million change in annual pension expense.
+Properties and Depreciation
+Most of our assets are long-lived railway properties (Note 7). “Properties” are stated principally at cost and are depreciated using the group method whereby assets with similar characteristics, use, and expected lives are grouped together in asset classes and depreciated using a composite depreciation rate. See Note 1 for a more detailed discussion of assumptions and estimates.
+Expenditures, including those on leased assets, that extend an asset’s useful life or increase its utility are capitalized. Expenditures capitalized include those that are directly related to a capital project and may include materials, labor, and other direct costs, in addition to an allocable portion of indirect costs that relate to a capital project. A significant portion of our annual capital spending relates to self-constructed assets. Costs related to repairs and maintenance activities that, in our judgment, do not extend an asset’s useful life or increase its utility are expensed when such repairs are performed.
+Depreciation expense for 2020 totaled $1.2 billion. Our composite depreciation rates for 2020 are disclosed in Note 7; a one-year increase (or decrease) in the estimated average useful lives of depreciable assets would have resulted in an approximate $40 million decrease (or increase) to annual depreciation expense.
+Personal Injury
+Claims expense, included in “Materials and other” in the Consolidated Statements of Income, includes our estimate of costs for personal injuries.
+To aid in valuing our personal injury liability and determining the amount to accrue with respect to such claims during the year, we utilize studies prepared by an independent consulting actuarial firm. The actuarial firm studies our historical patterns of reserving for claims and subsequent settlements, taking into account relevant outside influences. We adjust the liability quarterly based upon our assessment and the results of the study. The accuracy of our estimate of the liability is subject to inherent limitation given the difficulty of predicting future events and, as such, the ultimate loss sustained may vary from the estimated liability recorded.
+See Note 17 for a more detailed discussion of the assumptions and estimates we use for personal injury.
+Income Taxes
+Our net deferred tax liability totaled $6.9 billion at December 31, 2020 (Note 4). This liability is estimated based on the expected future tax consequences of items recognized in the financial statements. After application of the federal statutory tax rate to book income, judgment is required with respect to the timing and deductibility of expenses in our income tax returns. For state income and other taxes, judgment is also required with respect to the apportionment among the various jurisdictions. A valuation allowance is recorded if we expect that it is more likely than not that deferred tax assets will not be realized. We have a $57 million valuation allowance on $509 million of deferred tax assets as of December 31, 2020, reflecting the expectation that almost all of these assets will be realized.
+K30
+OTHER MATTERS
+Labor Agreements
+Approximately 80% of our railroad employees are covered by collective bargaining agreements with various labor unions. Pursuant to the Railway Labor Act, these agreements remain in effect until new agreements are reached, or until the bargaining procedures mandated by the Railway Labor Act are completed. We largely bargain nationally in concert with other major railroads, represented by the National Carriers Conference Committee. Moratorium provisions in the labor agreements govern when the railroads and unions may propose changes to the agreements. The current round of bargaining commenced on November 1, 2019 with both management and the unions serving their formal proposals for changes to the collective bargaining agreements and direct negotiations are ongoing.
+Market Risks
+At December 31, 2020, we had no outstanding debt subject to interest rate fluctuations. Market risk for fixed-rate debt is estimated as the potential increase in fair value resulting from a one-percentage point decrease in interest rates as of December 31, 2020 and amounts to an increase of approximately $2.0 billion to the fair value of our debt at December 31, 2020. We consider it unlikely that interest rate fluctuations applicable to these instruments will result in a material adverse effect on our financial position, results of operations, or liquidity.
+New Accounting Pronouncements
+For a detailed discussion of new accounting pronouncements, see Note 1.
+Inflation
+In preparing financial statements, GAAP requires the use of historical cost that disregards the effects of inflation on the replacement cost of property. As a capital-intensive company, we have most of our capital invested in long-lived assets. The replacement cost of these assets, as well as the related depreciation expense, would be substantially greater than the amounts reported on the basis of historical cost.
+FORWARD-LOOKING STATEMENTS
+Certain statements in Management’s Discussion and Analysis of Financial Condition and Results of Operations are “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, as amended. These statements relate to future events or our future financial performance and involve known and unknown risks, uncertainties, and other factors that may cause our actual results, levels of activity, performance, or our achievements or those of our industry to be materially different from those expressed or implied by any forward-looking statements. In some cases, forward-looking statements can be identified by terminology such as “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “project,” “consider,” “predict,” “potential,” “feel,” or other comparable terminology. We have based these forward-looking statements on our current expectations, assumptions, estimates, beliefs, and projections. While we believe these expectations, assumptions, estimates, beliefs, and projections are reasonable, such forward-looking statements are only predictions and involve known and unknown risks and uncertainties, many of which involve factors or circumstances that are beyond our control. These and other important factors, including those discussed in Item 1A “Risk Factors,” may cause actual results, performance, or achievements to differ materially from those expressed or implied by these forward-looking statements. The forward-looking statements herein are made only as of the date they were first issued, and unless otherwise required by applicable securities laws, we disclaim any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise.
+K31

@@ -1,0 +1,731 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following “Management’s Discussion and Analysis of Financial Condition and Results of Operations” is provided to assist readers in understanding our financial performance during the periods presented and significant trends that may impact our future performance. This discussion should be read in conjunction with our Financial Statements and the related notes thereto. Certain terms are defined in the “Glossary of Terms” beginning on page ii.
+Overview
+We are a leading fabricator of complex steel structures, modules and marine vessels, and a provider of project management, hookup, commissioning, repair, maintenance and civil construction services. Our customers include U.S. and, to a lesser extent, international energy producers; refining, petrochemical, LNG, industrial, power, and marine operators; EPC companies; and certain agencies of the U.S. Government.
+During 2019, we operated and managed our business through three operating divisions (“Fabrication,” “Shipyard” and “Services”) and one non-operating division (“Corporate”), which represented our reportable segments. In the first quarter 2020, our Fabrication and Services Divisions were operationally combined to form an integrated new division called Fabrication & Services. As a result, we operate and manage our business through two operating divisions (“Shipyard” and “Fabrication & Services”) and one non-operating division (“Corporate”), which represent our reportable segments. Accordingly, the segment results (including the effects of eliminations) for our Fabrication and Services Divisions for each of 2019 and 2018 were combined to conform to the presentation of our reportable segments for 2020. In addition to the division combination, in the first quarter 2020, management and project execution responsibility for our two forty-vehicle ferry projects were transferred from our former Fabrication Division to our Shipyard Division. Accordingly, results for these projects for 2019 (the projects had no results for 2018) were reclassified from our former Fabrication Division to our Shipyard Division to conform to the presentation of these projects for 2020. See Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+Our corporate headquarters is located in Houston, Texas, with operating facilities located in Houma, Louisiana. In the fourth quarter 2020, we closed our Jennings Yard and Lake Charles Yard within our Shipyard Division. See Note 3 of our Financial Statements in Item 8 and below for further discussion of our closure of the Jennings Yard and Lake Charles Yard.
+Since 2014, the price of oil has been at depressed levels, resulting in a significant and sustained reduction in capital spending and drilling activities from our traditional offshore oil and gas customer base. Consequently, our operating results and cash flows were negatively impacted as we experienced reductions in revenue, lower margins due to competitive pricing, significant under-utilization of our operating facilities and losses on certain projects.
+During the first quarter 2020, oil prices declined even further to historical lows due to a decline in demand for oil resulting in part from an unprecedented global health crisis caused by COVID-19. On June 8, 2020, the National Bureau of Economic Research indicated that the U.S. economy entered a recession in February 2020, and the duration and severity of this recession, which is ongoing, remains unclear at this time. We operate in a critical infrastructure industry, as defined by the U.S. Department of Homeland Security. Consistent with federal guidelines and with state and local orders to date, we have continued to operate across our footprint. However, the progression of and global response to COVID-19, and related contraction in oil demand, combined with depressed and volatile crude oil prices have had and may continue to have negative impacts on our operations. The extent to which COVID-19 and the related contraction in oil demand and the resulting reduction and volatility in crude oil prices may adversely impact our business, prospects, financial condition, operating results and cash flows depends on future developments that are highly uncertain and unpredictable. This current level of uncertainty means the ultimate business and financial impacts of COVID-19 and the related contraction in oil demand and the depressed crude oil prices cannot be reasonably estimated at this time.
+During 2020, COVID-19 significantly impacted our operations. Specifically, as we have ramped up our workforce to support our longer duration projects, we have been impacted by physical distancing measures, higher employee absenteeism and turnover, as well as challenges recruiting and hiring craft labor, particularly within our Shipyard Division. Further, certain deliverables from third-party engineering firms supporting our projects have been delayed and our suppliers and subcontractors are being impacted by COVID-19, resulting in schedule delays and higher cost estimates for subcontracted services and materials. The more significant impacts to our projects associated with COVID-19 during 2020 are summarized below:
+•
+Towing, salvage and rescue ship projects - The cumulative effect of COVID-19 related impacts has resulted in disruptions, inefficiencies and lower than anticipated productivity and progress on our five towing, salvage and rescue ship projects, which are expected to have compounding effects over the duration of the projects and result in extensions of schedules and the re-sequencing of construction activities on the projects. The re-sequencing of construction activities will require us to perform construction activities on a concurrent basis, which is less efficient and reduces our ability to incorporate the benefits of previous experience into each follow-on vessel. These impacts have resulted in forecast cost increases on the projects. We have submitted a request for equitable adjustment to our customer, the U.S. Navy, to extend our project schedules and recover the increased forecast costs associated with the impacts of COVID-19; however, we can provide no assurances that we will be successful in recovering these costs.
+•
+Research Vessel Projects - Construction activities for our three research vessel projects have been delayed until production engineering achieves a satisfactory level of completion to limit impacts on construction, including disruption and rework. These construction delays are expected to continue in the near term due to production engineering delays experienced by our customer’s engineering subcontractor as a result of COVID-19. We are working with the customer to collectively assess the execution and schedule impacts to the projects due to these production engineering delays.
+•
+Harbor Tug Projects - Physical distancing measures associated with COVID-19 resulted in lower than anticipated productivity and progress on our final two harbor tug projects, resulting in extensions of schedules and forecast cost increases on the projects. The final two projects were completed in October 2020 and January 2021, respectively.
+•
+Seventy-Vehicle Ferry Project and Two Forty-Vehicle Ferry Projects - The cumulative effect of COVID-19 related impacts has resulted in disruptions, inefficiencies and lower than anticipated productivity and progress on our seventy-vehicle ferry project and two forty-vehicle ferry projects, resulting in extensions of schedules and forecast cost increases on the projects. Although we have received extensions of the project schedules, we have been unable to recover the cost impacts of COVID-19 on the projects.
+While we believe it is likely that there will continue to be an impact from COVID-19 for the foreseeable future, as discussed above, we are unable to estimate the ultimate impacts on our productivity, schedules and costs on our projects over the longer-term if mitigation measures, employee absenteeism and turnover, craft labor hiring challenges, engineering delays and supplier and subcontractor disruptions continue as a result of COVID-19. See Note 2 of our Financials in Item 8 for further discussion of the impacts of the aforementioned on our projects, and “Risk Factors” in Item 1A and Note 1 of our Financial Statements in Item 8 for further discussion of the impacts of COVID-19 and reductions and volatility in crude oil prices.
+In addition to the impacts of COVID-19 during 2020, our projects and operations were further impacted by the following:
+•
+Hurricanes - During the third quarter 2020, Hurricane Laura made landfall near our Lake Charles Yard as a high-end Category 4 hurricane, damaging primarily drydocks, warehouses, bulkheads and our ninth harbor tug project at our Lake Charles Yard. In the fourth quarter 2020, we closed our Lake Charles Yard. See Note 2 of our Financials in Item 8 for further discussion of the impacts of Hurricane Laura on our operations.
+•
+Overhead Crane Incident - During the third quarter 2020, our first forty-vehicle ferry project was damaged by an overhead crane, which disengaged from its tracks, and landed on the hull that was under construction. See Note 2 of our Financial Statements in Item 8 for further discussion of the crane incident and the impact on our first forty-vehicle ferry project.
+We continue to address these operational, market and economic challenges through a strategy focused on the following initiatives to:
+•
+Mitigate the impacts of COVID-19 on our operations, employees and contractors;
+•
+Improve and maintain our liquidity through cost reduction efforts and the sale of under-utilized assets;
+•
+Improve our resource utilization and centralize key project resources through the rationalization and integration of our facilities and operations;
+•
+Improve our competitiveness and project execution by enhancing our proposal, estimating and operations resources, processes and procedures; and
+•
+Reduce our reliance on the fabrication of structures and marine vessels associated with the offshore oil and gas sector by repositioning the Company to:
+-
+Fabricate modules, piping systems and other structures for onshore refining, petrochemical, LNG and industrial facilities;
+-
+Fabricate newbuild marine vessels for the government and other customers unrelated to the offshore oil and gas sector;
+-
+Fabricate foundations, secondary steel components and support structures for offshore wind developments; and
+-
+Fabricate structures in support of our customers as they make energy transitions away from fossil fuels.
+See below for further discussion of these initiatives.
+Progress on our Initiatives
+Efforts to mitigate the impacts of COVID-19 on our operations, employees and contractors - We are continuing to take actions to mitigate the impacts of COVID-19 on our operations while ensuring the safety and well-being of our employees and contractors.
+•
+COVID-19 measures - We have initiated measures that include ongoing communications with our leadership teams to anticipate and proactively address COVID-19 impacts, work-place distancing of employees (including allowing some employees to work remotely) and regular monitoring of office and yard personnel for compliance. We are also monitoring employee and visitor temperatures prior to entering our facilities, implemented employee and visitor wellness questionnaires, increased monitoring of employee absenteeism and the reasons for such absences, and initiated protocols for employees returning from absences, including employees that have tested positive for COVID-19, or have come in contact with
+individuals that tested positive for COVID-19. In addition, we have installed hand sanitizing stations and taken additional actions to more frequently sanitize our facilities.
+•
+Pursuit of force majeure - We are providing appropriate notices to our customers and making the appropriate claims for extensions of schedule for our projects which have been impacted by COVID-19.
+•
+Loan agreement - In April 2020, we entered into a loan agreement for proceeds of $10.0 million (“PPP Loan”) pursuant to the Paycheck Protection Program (“PPP”) under the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”). The proceeds were used for payroll costs, rent and utilities, of which approximately 93% was used for payroll costs. See “Liquidity and Capital Resources” below and Note 5 of our Financial Statements in Item 8 for further discussion of the PPP Loan.
+Efforts to preserve and improve our liquidity - We continue to take actions to preserve and improve our liquidity, and at December 31, 2020, our cash and short-term investments totaled $51.2 million. To preserve our liquidity position, we have undertaken cost reduction initiatives (including reducing the compensation of our directors and executive officers and reducing the size of our board), monetized under-utilized assets and facilities and are maintaining an ongoing focus on project cash flow management. During 2020, we received proceeds of $1.7 million from the sale of assets held for sale, and at December 31, 2020, our assets held for sale totaled $8.2 million. Further, as discussed above, we received the PPP Loan in the second quarter 2020, which provided funding necessary to offset the immediate and anticipated impacts of COVID-19. It also provided us important additional liquidity as a strong balance sheet is required to execute our backlog and compete for new project awards, and we experience significant monthly fluctuations in our working capital.
+Efforts to improve our resource utilization and centralize our key project resources - We are improving our resource utilization and centralizing our key project resources through the rationalization and integration of our facilities and operations.
+•
+Closure of Jennings Yard and Lake Charles Yard - During the fourth quarter 2020, we closed our Jennings Yard and Lake Charles Yard. The closures will consolidate our marine vessel construction and repair and maintenance activities in our Houma Yards, enabling us to maximize the utilization of our facilities and resources (including reducing overhead costs), combine our management and supervision talent in a single location, and improve our project execution. See Note 3 of our Financial Statements in Item 8 for further discussion of our closure of the Jennings Yard and Lake Charles Yard.
+•
+Combination of our Fabrication Division and Services Division and Realignment of Projects - As discussed above, in the first quarter 2020, we combined our Fabrication and Services Divisions to form an integrated new division called Fabrication & Services. The integration will enable us to capitalize on the best practices and execution experience of the former divisions, conform processes and procedures, maximize the utilization of our resources (including reducing overhead costs) and improve project execution. In addition, as discussed above, in the first quarter 2020, management and project execution responsibility for our two forty-vehicle ferry projects was transferred from our former Fabrication Division to our Shipyard Division to better align the supervision and construction of these vessels with the capabilities and expertise of our Shipyard Division.
+Efforts to improve our competitiveness and project execution - We have taken, and continue to take, actions to improve our competitiveness and project execution by enhancing our proposal, estimating and operations resources, processes and procedures. Our actions include strategic changes in management and key personnel, the addition of functional expertise, project management training, development of a formal “lessons learned” program to incorporate experiences gained from previous projects into current and future projects, and other measures designed to strengthen our personnel, processes and procedures. Further, we are taking a disciplined approach to pursuing and bidding project opportunities, putting more rigor around our bid estimates to provide greater confidence that our estimates are achievable, increasing accountability and providing incentives for the execution of projects in line with our original estimates and subsequent forecasts, and incorporating previous experience into the bidding and execution of future projects.
+Efforts to reduce our reliance on the offshore oil and gas sector - We are pursuing several initiatives to reduce our reliance on the fabrication of structures and marine vessels associated with the offshore oil and gas sector.
+•
+Fabrication of onshore modules, piping systems and structures - We continue to focus our business development efforts on the fabrication of modules, piping systems and other structures for onshore refining, petrochemical, LNG and industrial facilities. We have experienced success with several smaller project opportunities, and our volume of bidding activity for onshore modules, piping systems and structures is increasing; however, our pursuit of large project opportunities has been impacted by the timing and delay of certain opportunities due in part to COVID-19, volatile oil prices and an ongoing competitive market environment. We also continue to believe that our strategic location in Houma, Louisiana and track record of quality and on-time completion of onshore modules position us well to compete in the onshore fabrication market. However, we do not expect large project opportunities to be awarded by customers until late 2021 or 2022. This timing may be impacted by ongoing uncertainty created by the volatility of oil prices and COVID-19. In the interim, we continue to strengthen our relationships with key customers and strategic partners and enhance our resources as discussed above.
+•
+Fabrication of newbuild marine vessels for the government and other non-oil and gas related customers - We continue to pursue newbuild marine vessel opportunities for customers unrelated to the offshore oil and gas sector. During the first quarter 2020, the U.S. Navy exercised its options for the construction of two additional towing, salvage and rescue ships. At December 31, 2020, nearly all of the backlog within our Shipyard Division was attributable to government and other customers unrelated to the offshore oil and gas sector, including the construction of three research vessels, five towing, salvage and rescue ships and three vehicle ferries. During 2020, we also made capital improvements to our facilities associated primarily with erection sites and warehouse storage to support our backlog and future new project awards.
+•
+Fabrication of offshore wind foundations, secondary steel components and support structures - We continue to believe that current initiatives, and potential future requirements, to provide electricity from renewable and green sources will result in growth of offshore wind projects. Furthermore, we believe that we possess the expertise to fabricate foundations, secondary steel components and support structures for this emerging market. This is demonstrated by our previous fabrication of wind turbine foundations for the first offshore wind project in the U.S. and the fabrication of a meteorological tower and platform for an offshore wind project. While we believe we have the capability to participate in this emerging market, we do not expect meaningful opportunities in the near term.
+•
+Fabricate structures in support of our customers as they make energy transitions away from fossil fuels - We believe that our expertise and capabilities provide us with the necessary foundation to fabricate steel structures in support of our customers as they transition away from fossil fuels to green energy end markets. Examples of these opportunities involve refiners who are looking to process biofuels and customers looking to embrace the growing hydrogen economy.
+Operating Outlook
+Our focus remains on securing profitable new project awards and backlog in the near-term and generating operating income and cash flows in the longer-term while ensuring the safety and well-being of our employees and contractors, which has been further challenged due to COVID-19. Our success, including achieving the aforementioned initiatives, will be determined by, among other things:
+•
+Oil and gas prices and the level of volatility in such prices, including the impact of environmental regulations that restrict the oil and gas industry under the Biden Administration;
+•
+COVID-19, for which the ultimate business and financial impacts cannot be reasonably estimated at this time;
+•
+The level of fabrication opportunities in our traditional offshore markets and the new markets we are pursuing, including refining, petrochemical, LNG and industrial facilities, offshore wind developments and green energy;
+•
+The level of new build marine vessel activity within, and outside of, the oil and gas sector;
+•
+Our ability to secure new project awards through competitive bidding and/or alliance and partnering arrangements;
+•
+Our ability to execute projects within our cost estimates and successfully manage them through completion;
+•
+Our ability to hire, motivate and retain key personnel and craft labor to execute our projects;
+•
+The successful integration of our Fabrication Division and Services Division; and
+•
+Our ability to resolve our dispute with a customer related to the construction of two MPSVs. See Note 8 of our Financial Statements in Item 8 and “Legal Proceedings” in Item 3 for further discussion of the dispute.
+In addition, in the near-term: (i) the utilization of our Shipyard Division will be adversely affected by temporary delays in construction activities for our three research vessel projects until engineering achieves further completion, (ii) the utilization of our Fabrication & Services Division will be impacted by the delay in timing of new project awards, and (iii) the utilization of both divisions and our projects will be impacted by inefficiencies and disruptions associated with COVID-19 related health and safety mitigation measures, employee absenteeism and turnover, craft labor hiring challenges, engineering delays, and supplier and subcontractor disruptions. Our near-term results may also be adversely affected by costs associated with investments in key personnel and process improvement efforts to support our aforementioned initiatives. In addition, our gross profit for both divisions will be impacted in the near-term as certain projects within our backlog are in a loss position and a majority of our remaining backlog is at, or near, break-even gross profit. Specifically, due to previous new project awards bid at competitive pricing (including the option exercises by our customer in the first quarter 2020 for two additional towing, salvage and rescue ships) and recent and previous project charges, approximately 30% of our backlog is in a loss position, 65% of our backlog is at, or near, break-even, and a majority of our remaining backlog is at a low gross profit margin. Accordingly, this backlog will result in future revenue with low or no gross profit; however, we continue to focus on improvements to our personnel, processes and procedures to improve project gross profit. Further, we have submitted a request for equitable adjustment to our customer, the U.S. Navy, to extend our project schedules and recover increased forecast costs associated with the impacts of COVID-19 on our five towing, salvage and rescue ship projects; however, we can provide no assurances that we will be successful in recovering these costs. Lastly, as discussed further within “New Awards and Backlog” below, during the first quarter 2021, the U.S. Navy determined it would not exercise the three remaining options under our contract, and accordingly, future new project awards are required to replace the previously anticipated U.S. Navy options for our Shipyard Division. See Note 2 of our Financial Statements in Item 8 and “Results of Operations” below for further discussion of our project charges and losses on projects.
+New Awards and Backlog
+New project awards represent expected revenue values of commitments received during a given period, including scope growth on existing commitments. A commitment represents authorization from our customer to begin work or purchase materials pursuant to a written agreement, letter of intent or other form of authorization. Backlog represents the unrecognized revenue for our new project awards and may differ from the value of future performance obligations for our contracts required to be disclosed under Topic 606 and presented in Note 2 of our Financial Statements in Item 8. In general, a performance obligation is a contractual obligation to construct and/or transfer a distinct good or service to a customer. The transaction price of a contract is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. We believe that backlog, a non-GAAP financial measure, provides useful information to investors as it represents work that we are contractually obligated to perform under our current contracts. New project awards and backlog may vary significantly each reporting period based on the timing of our major new contract commitments.
+Projects in our backlog are generally subject to delay, suspension, termination, or an increase or decrease in scope at the option of the customer; however, the customer is required to pay us for work performed and materials purchased through the date of termination, suspension, or decrease in scope. Depending on the size of the project, the delay, suspension, termination or increase or reduction in scope of any one contract could significantly impact our backlog and change the expected amount and timing of revenue recognized. New project awards by Division for 2020 and 2019, are as follows (in thousands):
+Backlog by Division at December 31, 2020 and 2019, is as follows (in thousands):
+Backlog at December 31, 2020, is expected to be recognized as revenue in the following periods (in thousands):
+(1)
+At December 31, 2020, seven customers represented approximately 98% of our backlog and at December 31, 2019, eleven customers represented approximately 96% of our backlog. At December 31, 2020, backlog from the seven customers consisted of:
+(i)
+Construction of three regional class research vessels within our Shipyard Division. We estimate completion of the vessels in 2022 and 2023, subject to potential schedule impacts discussed further in “Overview” above and Note 2 of our Financial Statements in Item 8;
+(ii)
+Construction of five towing, salvage and rescue ships within our Shipyard Division. We estimate completion of the vessels in 2022, 2023 and 2024, subject to the potential schedule impacts discussed further in “Overview” above and Note 2 of our Financial Statements in Item 8;
+(iii)
+Construction of two forty-vehicle ferries within our Shipyard Division. We estimate completion of the vessels in 2021 and 2022, subject to the potential schedule impacts discussed further in “Overview” above and Note 2 of our Financial Statements in Item 8;
+(iv)
+Construction of a seventy-vehicle ferry within our Shipyard Division. We estimate completion of the vessel in 2021;
+(v)
+Fabrication of modules for an offshore facility within our F&S Division. We estimate completion of the project in 2021;
+(vi)
+Material supply for an offshore jacket and deck within our F&S Division. We estimate completion of the project in 2021; and
+(vii)
+Fabrication of marine docking structures within our F&S Division. We estimate completion of the project in 2021.
+(2)
+In the first quarter 2020, our Fabrication and Services Divisions were operationally combined to form a new division called Fabrication & Services. Accordingly, backlog as of December 31, 2019 for our former Fabrication and Services Divisions has been combined to conform to the presentation of our reportable segments for 2020. In addition, in the first quarter 2020, management and project execution responsibility for our two forty-vehicle ferry projects were transferred from our former Fabrication Division to our Shipyard Division. Accordingly, $13.4 million of backlog and 0.1 million labor hours associated with these projects as of December 31, 2019 were reclassified from our former Fabrication Division to our Shipyard Division to conform to the presentation of these projects for 2020. See “Description of Operations” in Item 1 and Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+(3)
+Backlog at December 31, 2019 for our Shipyard Division was $21.9 million higher than our remaining performance obligations under Topic 606 (the most comparable GAAP measure as presented in Note 2 of our Financial Statements in Item 8), as it included contracts for the construction of two MPSVs that are subject to purported notices of termination by our customer. We dispute the purported terminations and disagree with the customer’s reasons for the same. However, given the prolonged nature of the dispute we have removed the contracts from our backlog at December 31, 2020, and accordingly, backlog at December 31, 2020 is comparable to our performance obligations under Topic 606. See Note 8 of our Financial Statements in Item 8 and “Legal Proceedings” in Item 3 for further discussion of the dispute.
+(4)
+The timing of recognition of the revenue presented in our backlog is based on our current estimates to complete the projects. Certain factors and circumstances could cause changes in the amounts ultimately recognized and the timing of recognition of revenue from our backlog. See “Risk Factors” in Item 1A for further discussion of our backlog.
+Our contract for the construction of five towing, salvage and rescue ships contains options which grant our customer, the U.S. Navy, the right, if exercised, for the construction of three additional vessels at contracted prices. During the first quarter 2021, the U.S. Navy determined it would not exercise the three remaining options under our contract. In connection therewith, we agreed to a change order with our customer to facilitate the transfer of technology, plans and know-how to the U.S. Navy to enable it to contract with other contractors for the construction of additional vessels.
+Critical Accounting Policies
+Our Financial Statements are prepared in accordance with generally accepted accounting principles in the U.S. (“GAAP”) which require us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses and related disclosure of contingent assets and liabilities. We continually evaluate our estimates and judgments based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. We also discuss the development and selection of our critical accounting policies with the Audit Committee of our Board of Directors. We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our Financial Statements.
+Revenue Recognition
+General - Our revenue is derived from customer contracts and agreements that are awarded on a competitively bid and negotiated basis using a range of contracting options, including fixed-price, unit-rate and T&M. Our contracts primarily relate to the fabrication and construction of steel structures, modules and marine vessels, and project management services and other service arrangements. We recognize revenue for our contracts in accordance with Accounting Standards Update (“ASU”) 2014-09, Topic 606 “Revenue from Contracts with Customers.”
+Fixed-Price and Unit-Rate Contracts - Revenue for our fixed-price and unit-rate contracts is recognized using the percentage-of-completion method (an input method), based on contract costs incurred to date compared to total estimated contract costs. Contract costs include direct costs, such as materials and labor, and indirect costs attributable to contract activity. Material costs that are significant to a contract and do not reflect an accurate measure of project completion are excluded from the determination of our contract progress. Revenue for such materials is only recognized to the extent of costs incurred. Revenue and gross profit for contracts accounted for using the percentage-of-completion method can be significantly affected by changes in estimated cost to complete such contracts. Significant estimates impacting the cost to complete a contract include: forecast costs of engineering, materials, equipment and subcontracts; forecast costs of labor and labor productivity; schedule durations, including subcontractor and supplier progress; contract disputes, including claims achievement of contractual performance requirements, and contingency, among others. Although our customers retain the right and ability to change, modify or discontinue further work at any stage of a contract, in the event our customers discontinue work, they are required to compensate us for the work performed to date. The cumulative impact of revisions in total cost estimates during the progress of work is reflected in the period in which these changes become known, including, to the extent required, the reversal of profit recognized in prior periods and the recognition of losses expected to be incurred on contracts. Due to the various estimates inherent in our contract accounting, actual results could differ from those estimates, which could result in material changes to our Financial Statements and related disclosures. See Note 2 of our Financial Statements in Item 8 for discussion of projects with significant changes in estimated margins during 2020, 2019 and 2018.
+T&M Contracts - Revenue for our T&M contracts is recognized at contracted rates when the work is performed, the costs are incurred and collection is reasonably assured. Our T&M contracts provide for labor and materials to be billed at rates specified within the contract. The consideration from the customer directly corresponds to the value of our performance completed at the time of invoicing.
+Variable Consideration - Revenue and gross profit for contracts can be significantly affected by variable consideration, which can be in the form of unapproved change orders, claims, incentives, and liquidated damages that may not be resolved until the later stages of the contract or after the contract has been completed. We estimate variable consideration based on the amount we expect to be entitled and include estimated amounts in transaction price to the extent it is probable that a significant future reversal of cumulative revenue recognized will not occur or when we conclude that any significant uncertainty associated with the variable consideration is resolved.
+See Note 1 and Note 2 of our Financial Statements in Item 8 for further discussion of our revenue recognition policy.
+Long-Lived Assets
+Property, plant and equipment are depreciated on a straight-line basis over estimated useful lives ranging from three to 25 years. Long-lived assets, which include property, plant and equipment and our lease assets included within other noncurrent assets, are reviewed for impairment when events or changes in circumstances indicate that the carrying amount may not be recoverable. If a recoverability assessment is required, we compare the estimated future undiscounted cash flow associated with the asset or asset group to its carrying amount to determine if an impairment exists. An asset group constitutes the minimum level for which identifiable cash flows are principally independent of the cash flows of other assets or asset groups. An impairment loss is measured by comparing the fair value of the asset or asset group to its carrying amount and the excess of the carrying amount of the asset or asset group over its fair value is recorded as an impairment charge. Fair value is determined based on discounted cash flows, appraised values or third-party indications of value, as appropriate. See Note 3 of our Financial Statements in Item 8 for discussion of impairments of our long-lived assets.
+Assets Held for Sale
+Assets held for sale are measured at the lower of their carrying amount or fair value less cost to sell. See Note 3 of our Financial Statements in Item 8 for discussion of impairments of our assets held for sale.
+Income Taxes
+Income taxes have been provided using the liability method. Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes using enacted rates expected to be in effect during the year in which the differences are expected to reverse. Due to changing tax laws, significant judgment is required to estimate the effective tax rate expected to apply to tax differences that are expected to reverse in the future.
+A valuation allowance is provided to reserve for deferred tax assets (“DTA(s)”) if, based upon the available evidence, it is more likely than not that some or all of the DTAs will not be realized. The realization of our DTAs depends on our ability to generate sufficient taxable income of the appropriate character and in the appropriate jurisdictions.
+Reserves for uncertain tax positions are recognized when we consider it more likely than not that additional tax will be due in excess of amounts reflected in our income tax returns, irrespective of whether or not we have received tax assessments. Interest and penalties on uncertain tax positions are recorded within income tax expense. See Note 6 of our Financial Statements in Item 8 for further discussion of our income taxes, DTAs, and valuation allowance.
+Stock-Based Compensation
+Awards under our stock-based compensation plans are calculated using a fair value-based measurement method. We use the straight-line method to recognize share-based compensation expense over the requisite service period of the award. We recognize the excess tax benefit or tax deficiency resulting from the difference between the deduction we receive for tax purposes and the stock-based compensation expense we recognize for financial reporting purposes created when common stock vests, as an income tax benefit or expense in our Statement of Operations. See Note 7 of our Financial Statements in Item 8 for further discussion of our stock-based and other compensation plans.
+Insurance
+We maintain insurance coverage for various aspects of our business and operations. However, we may be exposed to future losses through our use of deductibles and self-insured retentions for our exposures related to third party liability and workers’ compensation claims. We expect liabilities in excess of any deductibles and self-insured retentions to be covered by insurance. To the extent we are self-insured, reserves are recorded based upon our estimates, with input from legal and insurance advisors. Changes in assumptions, as well as changes in actual experience, could cause these estimates to change. See Note 2 of our Financial Statements in Item 8 for discussion of insurance deductibles incurred during 2020 associated with damage caused by Hurricane Laura.
+Fair Value Measurements
+Our fair value determinations for financial assets and liabilities are based on the particular facts and circumstances. Financial instruments are required to be categorized within a valuation hierarchy based upon the lowest level of input that is significant to the fair value measurement. The three levels of the valuation hierarchy are as follows:
+•
+Level 1 - inputs are based upon quoted prices for identical instruments traded in active markets.
+•
+Level 2 - inputs are based upon quoted prices for similar instruments in active markets and model-based valuation techniques for which all significant assumptions are observable in the market.
+•
+Level 3 - inputs are based upon model-based valuation techniques for which significant assumptions are generally not observable in the market and typically reflect estimates and assumptions that we believe market participants would use in pricing the asset or liability. These include discounted cash flow models and similar valuation techniques.
+See Note 1 of our Financial Statements in Item 8 for further discussion of our fair value measurements.
+Results of Operations
+Comparison of 2020 and 2019 (in thousands, except for percentages):
+In the comparative tables below, percentage changes that are not considered meaningful are shown below as “nm” (generally when the prior period amount is immaterial or when the percentage change is significantly greater than 100%).
+Consolidated
+New Project Awards - New project awards for 2020 and 2019 were $207.1 million and $384.1 million, respectively. Significant new project awards for 2020 include:
+•
+The exercise of options by the U.S. Navy for a fourth and fifth towing, salvage and rescue ship in the first quarter 2020 within our Shipyard Division,
+•
+Additional scopes of work for our research vessel projects in the fourth quarter 2020 within our Shipyard Division, and
+•
+A marine docking structures project and additional scopes of work for our offshore jacket and deck project in the second quarter 2020 within our Fabrication & Services Division.
+Significant new project awards for 2019 include:
+•
+The exercise of options by the U.S. Navy for a second and third towing, salvage and rescue ship in the second quarter 2019 within our Shipyard Division,
+•
+The exercise of an option by Oregon State University for a third research vessel in the second quarter 2019 within our Shipyard Division,
+•
+A seventy-vehicle ferry in the third quarter 2019 within our Shipyard Division,
+•
+An offshore jacket and deck project and subsea components project in the first quarter 2019 within our Fabrication & Services Division,
+•
+Additional scopes of work for an onshore maintenance project in the third quarter 2019 within our Fabrication & Services Division, and
+•
+A material supply project and offshore modules project in the fourth quarter 2019 within our Fabrication & Services Division.
+Revenue - Revenue for 2020 and 2019 was $251.0 million and $303.3 million, respectively, representing a decrease of $52.3 million. The decrease was primarily due to:
+Decreased revenue for our Fabrication & Services Division of $37.7 million, primarily attributable to:
+•
+Lower revenue for our paddlewheel river boat and subsea components projects that were completed in the first quarter 2020, and
+•
+Reduced offshore services activity and small fabrication project activity, offset partially by,
+•
+Higher revenue for our offshore jacket and deck project, and
+•
+Higher revenue for our marine docking structures project, material supply project and offshore modules project.
+Decreased revenue for our Shipyard Division of $14.8 million, primarily attributable to:
+•
+Lower revenue for our harbor tug projects as we had fewer vessels under construction,
+•
+Lower revenue for our ice-breaker tug project which was completed in the second quarter 2020 and towboat projects which were completed in 2019,
+•
+Lower revenue for our research vessel projects due to construction delays associated with the previously disclosed temporary suspension of construction activities on the projects until engineering achieves further completion, and
+•
+Lower revenue associated with less repair and maintenance activity, offset partially by,
+•
+Higher revenue for our towing, salvage and rescue ship projects associated with increased construction activities and procurement progress on engineered equipment, and
+•
+Higher revenue for our seventy-vehicle ferry project associated with increased construction activities and procurement progress on engineered equipment.
+Gross loss - Gross loss for 2020 and 2019 was $17.8 million (7.1% of revenue) and $17.0 million (5.6% of revenue), respectively. The gross loss for 2020 was primarily due to:
+•
+Project charges of $16.6 million for our Shipyard Division,
+•
+A low margin backlog for our Shipyard Division and low revenue for our Fabrication & Services Division,
+•
+The partial under-recovery of overhead costs, primarily associated with the under-utilization of our facilities and resources within our Fabrication & Services Division, and to a lesser extent within our Shipyard Division, including:
+−
+Costs associated with retaining salaried overhead and hourly craft employees to perform process improvements, special projects and facility maintenance and repairs, and
+−
+Lower utilization of our facilities and resources due to, and costs incurred to prepare for, Hurricane Laura, Hurricane Marco and Hurricane Sally in the third quarter 2020.
+•
+Holding costs of $0.7 million related to the two MPSV vessels which remain in our possession and are subject to dispute, and
+•
+Incremental direct costs associated with work-place monitoring, enhanced sanitization efforts and other measures related to COVID-19, offset partially by,
+•
+Project improvements of $2.7 million for our Fabrication & Services Division.
+The increase in gross loss for 2020 relative to 2019 was primarily due to:
+•
+The aforementioned project charges of $16.6 million for 2020 for our Shipyard Division,
+•
+Lower revenue and an increase in the under-recovery of overhead costs for our Fabrication & Services Division, and
+•
+A lower margin mix (excluding the aforementioned project charges) for our Shipyard Division, offset partially by,
+•
+Project charges of $12.3 million and $4.9 million for 2019 for our Shipyard Division and Fabrication & Services Division, respectively,
+•
+The aforementioned project improvements of $2.7 million for 2020 for our Fabrication & Services Division, and
+•
+A higher margin mix (excluding the aforementioned project improvements) for our Fabrication & Services Division.
+See “Operating Segments” below and Note 2 of our Financial Statements in Item 8 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2020 and 2019 was $13.9 million (5.5% of revenue) and $15.6 million (5.2% of revenue), respectively, representing a decrease of 11.3%. The decrease was primarily due to:
+•
+Cost reduction initiatives including combining our former Fabrication and Services Divisions,
+•
+Reduced professional fees associated with the evaluation of strategic alternatives, and
+•
+Other costs savings including reductions in board size and the salaries of our executives, offset partially by,
+•
+Higher incentive plan costs (due primarily to the 2019 period benefiting from the partial reversal of long-term incentives that were accrued in periods prior to 2019 but ultimately not earned), and
+•
+Higher legal and advisory fees and insurance costs.
+General and administrative expense includes legal and advisory fees related to a contract dispute for a completed project that was settled during the first quarter 2020 and a contract dispute associated with our MPSV projects which are subject to purported termination and for which construction has been suspended. Legal and advisory fees related to such disputes totaled $1.3 million and $1.4 million for 2020 and 2019, respectively, and are reflected within our Corporate Division. See Note 1 of our Financial Statements in Item 8 for further discussion of our settlement of the completed project dispute and Note 8 for further discussion of our MPSV dispute.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2020 and 2019 was loss of $4.1 million and $17.5 million, respectively. The loss for 2020 was primarily due to:
+•
+Impairments of $1.4 million associated with assets held for sale within our Fabrication & Services Division,
+•
+Impairments of $0.9 million for certain fixed assets associated with the relocation and consolidation of such assets to improve operational efficiency within our Fabrication & Services Division,
+•
+Impairments of $1.0 million for lease assets and fixed assets (primarily drydocks) attributable to the closure of our Lake Charles Yard in the fourth quarter 2020 within our Shipyard Division,
+•
+Costs of $0.6 million primarily associated with the closures of our Jennings Yard and Lake Charles Yard in the fourth quarter 2020 within our Shipyard Division, and
+•
+A loss of $0.2 million on the sale of a barge and other assets held for sale within our Fabrication & Services Division.
+The loss for 2019 was primarily due to:
+•
+Impairments of $9.3 million for assets held for sale, assets removed from held for sale and inventory within our Fabrication & Services Division,
+•
+Impairments of $4.6 million for lease assets and fixed assets attributable to our Jennings Yard within our Shipyard Division,
+•
+Impairments of $3.0 million for lease assets and fixed assets (primarily drydocks) attributable to our Lake Charles Yard within our Shipyard Division, and
+•
+An impairment of $0.3 million for an asset that was held for sale and sold within our Shipyard Division, offset partially by,
+•
+A gain of $0.4 million from the sale of assets held for sale within our Fabrication & Services Division.
+See Note 3 of our Financial Statements in Item 8 for further discussion of our impairments and assets held for sale and closures of the Jennings Yard and Lake Charles Yard.
+Other (income) expense, net - Other (income) expense, net for 2020 and 2019 was income of $8.6 million and $0.1 million, respectively. Other (income) expense, net generally represents recoveries or provisions for bad debts, gains or losses associated with the sale or disposition of property and equipment other than assets held for sale, and income or expense associated with certain nonrecurring items. Other income for 2020 was primarily due to:
+•
+A gain of $10.0 million associated with the settlement of a contract dispute for a project completed in 2015. See Note 1 of our Financial Statements in Item 8 for further discussion of our settlement of the completed project dispute. The gain was offset partially by,
+•
+Charges of $1.3 million associated with damage caused by Hurricane Laura to our drydocks, warehouses, bulkheads and ninth harbor tug project at our Lake Charles Yard in the third quarter 2020. The charges relate to deductibles associated with our insurance coverages and our estimates of cost associated with uninsurable damage. See Note 2 of our Financial Statements in Item 8 for further discussion of the impacts of Hurricane Laura.
+Other income for 2019 was primarily due to net gains on the sales of equipment.
+Interest (expense) income, net - Interest (expense) income, net for 2020 and 2019 was expense of $0.3 million and income $0.5 million, respectively. Interest (expense) income, net consists of interest earned on our cash and short-term investment balances, interest incurred on our PPP Loan and the unused portion of our LC Facility, and interest amortization associated with our long-term lease liability. The expense for 2020 relative to income for 2019 was primarily due to interest on our PPP Loan and lower interest rates and lower average cash and short-term investment balances for the 2020 period.
+Income tax (expense) benefit - Income tax (expense) benefit for 2020 and 2019 was a benefit of $0.1 million and $0.1 million, respectively. The tax benefits for 2020 and 2019 represent state income taxes. No federal income tax benefit was recorded for losses during 2020 or 2019 as a full valuation allowance was recorded against our net deferred tax assets generated during the periods. See Note 6 of our Financial Statements in Item 8 for further discussion of our NOLs, deferred tax assets and valuation allowance.
+Operating Segments
+Shipyard Division(1)
+(1)
+In the first quarter 2020, management and project execution responsibility for our two forty-vehicle ferry projects was transferred from our former Fabrication Division to our Shipyard Division. Accordingly, revenue of $9.2 million and gross loss and operating loss of $5.1 million associated with these projects for 2019 were reclassified from our former Fabrication Division to our Shipyard Division to conform to the presentation of these projects for 2020. See Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+New Project Awards - New project awards for 2020 and 2019 were $140.4 million and $251.4 million, respectively. Significant new project awards for 2020 include:
+•
+The exercise of options by the U.S. Navy for a fourth and fifth towing, salvage and rescue ship in the first quarter 2020, and
+•
+Additional scopes of work for our research vessel projects in the fourth quarter 2020.
+Significant new project awards for 2019 include:
+•
+The exercise of options by the U.S. Navy for a second and third towing, salvage and rescue ship in the second quarter 2019,
+•
+The exercise of an option by Oregon State University for a third research vessel in the second quarter 2019, and
+•
+A seventy-vehicle ferry in the third quarter 2019.
+Revenue - Revenue for 2020 and 2019 was $153.7 million and $168.5 million, respectively, representing a decrease of $14.8 million. The decrease was primarily due to:
+•
+Lower revenue for our harbor tug projects as we had fewer vessels under construction,
+•
+Lower revenue for our ice-breaker tug project which was completed in the second quarter 2020 and towboat projects which were completed in 2019,
+•
+Lower revenue for our research vessel projects due to construction delays associated with the previously disclosed temporary suspension of construction activities on the projects until engineering achieves further completion, and
+•
+Lower revenue associated with less repair and maintenance activity, offset partially by,
+•
+Higher revenue for our towing, salvage and rescue ship projects associated with increased construction activities and procurement progress on engineered equipment, and
+•
+Higher revenue for our seventy-vehicle ferry project associated with increased construction activities and procurement progress on engineered equipment.
+Gross loss - Gross loss for 2020 and 2019 was $19.3 million (12.5% of revenue) and $16.0 million (9.5% of revenue), respectively. The gross loss for 2020 was primarily due to:
+•
+Project charges of $7.3 million related to forecast cost increases on our towing, salvage and rescue ship projects,
+•
+Project charges of $7.2 million related to forecast cost increases and liquidated damages on our two forty-vehicle ferry projects,
+•
+Project charges of $1.0 million related to forecast cost increases on our final two harbor tug projects,
+•
+Project charges of $1.1 million related to forecast cost increases on our seventy-vehicle ferry project,
+•
+A low margin backlog as all of our Shipyard Division’s backlog is at, or near, break-even or is in a loss position, and accordingly, results in revenue with low or no gross profit,
+•
+The partial under-recovery of overhead costs primarily due to:
+−
+The under-utilization of our facilities and resources due to construction delays for our three research vessel projects,
+−
+The under-utilization of our Jennings Yard and Lake Charles Yard which were closed in the fourth quarter 2020, and
+−
+Lower utilization of our facilities and resources due to, and costs incurred to prepare for, Hurricane Laura, Hurricane Marco and Hurricane Sally in the third quarter 2020.
+•
+Holding costs of $0.7 million related to the two MPSV vessels which remain in our possession and are subject to dispute.
+The increase in gross loss for 2020 relative to 2019 was primarily due to:
+•
+The aforementioned project charges of $16.6 million for 2020, and
+•
+A lower margin mix (excluding the aforementioned project charges), offset partially by,
+•
+Project charges of $12.3 million for 2019 on our forty-vehicle ferry projects, harbor tug projects, ice-breaker tug project and research vessel projects.
+•
+See Note 2 of our Financial Statements in Item 8 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2020 and 2019 was $2.0 million (1.3% of revenue) and $2.4 million (1.5% of revenue), respectively, representing a decrease of 19.0%. The decrease was primarily due to our cost reduction initiatives.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2020 and 2019 was a loss of $1.6 million and $7.9 million respectively. The loss for 2020 was primarily due to:
+•
+Impairments of $1.0 million for lease assets and fixed assets (primarily drydocks) attributable to the closure of our Lake Charles Yard in the fourth quarter 2020, and
+•
+Costs of $0.6 million primarily associated with the closures of our Jennings Yard and Lake Charles Yard in the fourth quarter 2020.
+The loss for 2019 was primarily due to:
+•
+Impairments of $4.6 million for lease assets and fixed assets attributable to our Jennings Yard,
+•
+Impairments of $3.0 million for lease assets and fixed assets (primarily drydocks) attributable to our Lake Charles Yard, and
+•
+An impairment of $0.3 million for an asset that was held for sale and sold.
+See Note 3 of our Financial Statements in Item 8 for further discussion of our impairments and assets held for sale.
+Other (income) expense, net - Other (income) expense, net for 2020 was expense of $1.5 million, primarily due to charges of $1.3 million associated with damage caused by Hurricane Laura to our drydocks, warehouses, bulkheads and ninth harbor tug project at our Lake Charles Yard in the third quarter 2020. The charges relate to deductibles associated with our insurance coverages and our estimates of cost associated with uninsurable damage. See Note 2 of our Financial Statements in Item 8 for further discussion of the impacts of Hurricane Laura.
+Fabrication & Services Division(1)
+(1)
+In the first quarter 2020, our Fabrication and Services Divisions were operationally combined to form a new division called Fabrication & Services. Accordingly, segment results (including the effects of eliminations) for our Fabrication and Services Divisions for 2019 have been combined to conform to the presentation of our reportable segments for 2020. In addition, in the first quarter 2020, management and project execution responsibility for our two forty-vehicle ferry projects was transferred from our former Fabrication Division to our Shipyard Division. Accordingly, revenue of $9.2 million and gross loss and operating loss of $5.1 million associated with these projects for 2019 were reclassified from our former Fabrication Division to our Shipyard Division to conform to the presentation of these projects for 2020. See Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+New Project Awards - New project awards for 2020 and 2019 were $66.7 million and $132.7 million, respectively. Significant new project awards for 2020 include:
+•
+A marine docking structures project in the second quarter 2020, and
+•
+Additional scopes of work for our offshore jacket and deck project in the second quarter 2020.
+Significant new project awards for 2019 include:
+•
+An offshore jacket and deck project in the first quarter 2019,
+•
+A subsea components project in the first quarter 2019,
+•
+Additional scopes of work for an onshore maintenance project in the third quarter 2019, and
+•
+A material supply project and offshore modules project in the fourth quarter 2019.
+Revenue - Revenue for 2020 and 2019 was $99.5 million and $137.2 million, respectively, representing a decrease of $37.7 million. The decrease was primarily due to:
+•
+Lower revenue for our paddlewheel river boat and subsea components projects that were completed in the first quarter 2020, and
+•
+Reduced offshore services activity and small fabrication project activity, offset partially by,
+•
+Higher revenue for our offshore jacket and deck project, and
+•
+Higher revenue for our marine docking structures project, material supply project and offshore modules project.
+Gross profit (loss) - Gross profit for 2020 was $1.5 million (1.5% of revenue) and gross loss for 2019 was $0.7 million (0.5% of revenue), respectively. Gross profit for 2020 was primarily impacted by:
+•
+Project improvements of $1.2 million related to cost decreases, earned project incentives and the favorable resolution of change orders on our offshore jacket and deck project, and
+•
+Project improvements of $1.5 million related to cost decreases and the favorable resolution of change orders on our paddlewheel riverboat and subsea components projects, offset partially by,
+•
+Low revenue due to low backlog levels, and
+•
+The partial under-recovery of overhead costs primarily due to:
+−
+The under-utilization of our facilities and resources due to low workhours,
+−
+Higher overhead costs associated with retaining salaried overhead and hourly craft employees to perform process improvements, special projects and facility maintenance and repairs, and
+−
+Lower utilization of our facilities and resources due to, and costs incurred to prepare for, Hurricane Laura, Hurricane Marco and Hurricane Sally.
+Our Fabrication & Services Division utilization for 2020 and 2019 benefited by $1.2 million and $0.9 million, respectively, from providing resources and facilities to our Shipyard Division for our seventy-vehicle ferry project and two forty-vehicle ferry projects.
+The gross profit for 2020 relative to the gross loss for 2019 was primarily due to:
+•
+The aforementioned project improvements of $2.7 million for 2020,
+•
+A higher margin mix (excluding the aforementioned project improvements), and
+•
+Project charges of $4.9 million for 2019 on our offshore jacket and deck project, subsea components project and paddlewheel riverboat project, offset partially by,
+•
+Lower revenue and an increase in the under-recovery of overhead costs due to lower activity.
+See Note 2 of our Financial Statements in Item 8 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2020 and 2019 was $3.2 million (3.2% of revenue) and $4.3 million (3.1% of revenue), respectively, representing a decrease of 26.4%. The decrease was primarily due to our cost reduction initiatives including combining our former Fabrication and Services Divisions.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2020 and 2019 was a loss of $2.5 million and $8.9 million, respectively. The loss for 2020 was primarily due to:
+•
+Impairments of $1.4 million associated with assets held for sale,
+•
+Impairments of $0.9 million for certain fixed assets associated with the relocation and consolidation of such assets to improve operational efficiency, and
+•
+A loss of $0.2 million on the sale of a barge and other assets held for sale.
+The loss for 2019 was primarily due:
+•
+Impairments of $9.3 million for assets held for sale, assets removed from held for sale and inventory, offset partially by,
+•
+A gain of $0.4 million from the sale of assets held for sale.
+See Note 3 of our Financial Statements in Item 8 for further discussion of our impairments and assets held for sale.
+Other (income) expense, net - Other (income) expense, net for 2020 and 2019 was income of $10.0 million and $0.2 million, respectively. Other income for 2020 was primarily due to a gain of $10.0 million associated with the settlement of a contract dispute for a project completed in 2015. See Note 1 of our Financial Statements in Item 8 for further discussion of our settlement of the completed project dispute. Other income for 2019 was primarily due to net gains on the sales of equipment.
+Corporate Division
+(1)
+In the first quarter 2020, our Fabrication and Services Divisions were operationally combined to form a new division called Fabrication & Services. Accordingly, the effects of related eliminations on our Corporate Division for 2019 have been conformed to the presentation of our reportable segments for 2020. See Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+Gross loss - Gross loss for 2019 was $0.3 million and represents costs incurred by the Corporate Division to support our operating divisions. Such costs are reflected within the operating divisions in 2020.
+General and administrative expense - General and administrative expense for 2020 and 2019 was $8.7 million (3.5% of consolidated revenue) and $8.9 million (2.9% of consolidated revenue), respectively, representing a decrease of 1.9%. The decrease was primarily due to:
+•
+Reduced professional fees associated with the evaluation of strategic alternatives, and
+•
+Other cost savings including reductions in board size and the salaries of our executives, offset partially by,
+•
+Higher incentive plan costs (due primarily to the 2019 period benefiting from the partial reversal of long-term incentives that were accrued in periods prior to 2019 but ultimately not earned), and
+•
+Higher legal and advisory fees and insurance costs.
+General and administrative expense includes legal and advisory fees related to a contract dispute for a completed project that was settled during the first quarter 2020 and a contract dispute associated with our MPSV projects which are subject to purported termination and for which construction has been suspended. Legal and advisory fees related to such disputes totaled $1.3 million and $1.4 million for 2020 and 2019, respectively. See Note 1 of our Financial Statements in Item 8 for further discussion of our settlement of the completed project dispute and Note 8 for further discussion of our MPSV dispute.
+Comparison of 2019 and 2018 (in thousands, except for percentages):
+In the comparative tables below, percentage changes that are not considered meaningful are shown below as “nm” (generally when the prior period amount is immaterial or when the percentage change is significantly greater than 100%).
+Consolidated
+New Project Awards - New project awards for 2019 and 2018 were $384.1 million and $355.1 million, respectively. Significant new project awards for 2019 include:
+•
+The exercise of options by the U.S. Navy for a second and third towing, salvage and rescue ship in the second quarter 2019 within our Shipyard Division,
+•
+The exercise of an option by Oregon State University for a third research vessel in the second quarter 2019 within our Shipyard Division,
+•
+A seventy-vehicle ferry in the third quarter 2019 within our Shipyard Division,
+•
+An offshore jacket and deck project and a subsea components project in the first quarter 2019 within our Fabrication & Services Division,
+•
+Additional scopes of work for an onshore maintenance project in the third quarter 2019 within our Fabrication & Services Division, and
+•
+A material supply project and offshore modules project in the fourth quarter 2019 within our Fabrication & Services Division.
+Significant new project awards for 2018 include:
+•
+A towing, salvage and rescue ship for the U.S. Navy in the first quarter 2018 within our Shipyard Division,
+•
+The exercise of an option by Oregon State University for a second research vessel in the second quarter 2018 within our Shipyard Division,
+•
+The exercise of customer options for a ninth and tenth harbor tug in the second quarter 2018 within our Shipyard Division,
+•
+A towboat in the second quarter 2018 and the exercise of a customer option for a second towboat in the third quarter 2018 within our Shipyard Division,
+•
+Two forty-vehicle ferries in the fourth quarter 2018 within our Shipyard Division,
+•
+A meteorological tower and platform for an offshore wind project in the first quarter 2018 within our Fabrication & Services Division, and
+•
+The expansion of a paddlewheel riverboat in the third quarter 2018 within our Fabrication & Services Division.
+Revenue - Revenue for 2019 and 2018 was $303.3 million and $221.2 million, respectively, representing an increase of 37.1%. The increase was primarily due to:
+Increased revenue for our Shipyard Division of $62.8 million, primarily attributable to:
+•
+Progress on our research vessel projects, towing, salvage and rescue ship projects and forty-vehicle ferry projects, offset partially by,
+•
+Lower revenue for our harbor tug projects, and
+•
+No revenue for our two MPSV contracts which were suspended during the first quarter 2018.
+Increased revenue for our Fabrication & Services Division of $29.6 million, primarily attributable to:
+•
+Progress on our paddle wheel riverboat project and jacket and deck project, offset partially by,
+•
+No revenue for our petrochemical modules project which was completed in 2018.
+See Note 8 of our Financial Statements in Item 8 for further discussion of our MPSV dispute.
+Gross loss - Gross loss for 2019 and 2018 was $17.0 million (5.6% of revenue) and $7.2 million (3.3% of revenue), respectively. The gross loss for 2019 was primarily due to:
+•
+Project charges of $12.3 million and $4.9 million within our Shipyard Division and Fabrication & Services Division, respectively,
+•
+The partial under-recovery of overhead costs (primarily associated with the under-utilization of our facilities within our Fabrication & Services Division, and to a lesser extent within our Shipyard Division), and
+•
+Holding costs of $1.2 million related to the two MPSV vessels which remain in our possession and are subject to dispute.
+The increase in gross loss relative to 2018 was primarily due to:
+•
+The aforementioned project charges of $17.2 million for 2019,
+•
+A lower margin mix for our Shipyard Division (excluding the aforementioned project charges), offset partially by,
+•
+Higher revenue and a reduction in the under-recovery of overhead costs due to higher activity,
+•
+A higher margin mix for our Fabrication & Services Division (excluding the aforementioned project charges), and
+•
+Project charges of $6.7 million and $2.4 million for 2018 within our Shipyard Division and Fabrication & Services Division, respectively.
+See “Operating Segments” below and Note 2 of our Financial Statements in Item 8 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2019 and 2018 was $15.6 million (5.2% of revenue) and $19.0 million (8.6% of revenue), respectively, representing a decrease of 17.8%. The decrease was primarily due to:
+•
+Lower incentive plan costs and board of director compensation costs, and
+•
+Lower legal and advisory fees related to customer disputes and shareholder matters, offset partially by,
+•
+Higher professional fees and other costs associated with the evaluation of strategic alternatives and initiatives to diversify and enhance our business.
+General and administrative expense includes legal and advisory fees related to a contract dispute for a completed project that was settled during the first quarter 2020 and a contract dispute associated with our MPSV projects which are subject to purported termination and for which construction has been suspended. Legal and advisory fees related to such disputes totaled $1.4 million and $1.7 million for 2019 and 2018, respectively, and were reflected within our Corporate Division in 2019 and our operating divisions in 2018. See Note 1 of our Financial Statements in Item 8 for further discussion of our settlement of the completed project dispute and Note 8 for further discussion of our MPSV dispute.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2019 and 2018 was a loss of $17.5 million and a gain of $6.9 million, respectively.
+The loss for 2019 was primarily due to:
+•
+Impairments of $9.3 million for assets held for sale, assets removed from held for sale and inventory within our Fabrication & Services Division,
+•
+Impairments of $4.6 million for lease assets and fixed assets attributable to our Jennings Yard within our Shipyard Division,
+•
+Impairments of $3.0 million for lease assets and fixed assets (primarily drydocks) attributable to our Lake Charles Yard within our Shipyard Division, and
+•
+An impairment of $0.3 million for an asset that was held for sale and sold within our Shipyard Division, offset partially by,
+•
+A gain of $0.4 million from the sale of assets held for sale within our Fabrication & Services Division.
+The gain for 2018 was primarily due to:
+•
+A gain of $3.9 million from the sale of our Texas South Yard and a gain of $4.1 million from the sale of our Texas North Yard within our Fabrication & Services Division; and
+•
+A gain of $3.6 million from the settlement of an insurance claim related to Hurricane Harvey damage at our South Texas Properties incurred during 2017 within our Fabrication & Services Division; offset partially by,
+•
+Impairments of $4.4 million and a loss of $0.3 million related to inventory and assets held for sale and/or sold within our Fabrication & Services Division and Shipyard Division.
+See Note 3 of our Financial Statements in Item 8 for further discussion of our impairments and assets held for sale.
+Other (income) expense, net - Other (income) expense, net for 2019 and 2018 was income of $0.1 million and expense of $0.3 million, respectively. Other (income) expense, net generally represents recoveries or provisions for bad debts, gains or losses associated with the sale or disposition of property and equipment other than assets held for sale, and income or expense associated with certain nonrecurring items. The income for 2019 and expense for 2018 was primarily due to net gains and net losses, respectively, on the sales of equipment.
+Interest (expense) income, net - Interest (expense) income, net for 2019 and 2018 was income of $0.5 million and expense of $0.1 million, respectively. The net interest income for 2019 was primarily due to interest earned on our cash and short-term investment balances, offset partially by interest amortization associated with our long-term lease liability. The net interest expense for 2018 was primarily due to borrowings under our LC Facility during 2018.
+Income tax (expense) benefit - Income tax (expense) benefit for 2019 and 2018 was a benefit of $0.1 million and expense of $0.6 million, respectively. The tax benefit for 2019 and expense for 2018 represent state income taxes. No federal income tax benefit was recorded for losses during 2019 or 2018 as a full valuation allowance was recorded against our deferred tax assets generated during the periods. See Note 6 of our Financial Statements in Item 8 for further discussion of our NOLs, deferred tax assets and valuation allowance.
+Operating Segments
+Shipyard Division(1)
+(1)
+In the first quarter 2020, management and project execution responsibility for our two forty-vehicle ferry projects was transferred from our former Fabrication Division to our Shipyard Division. Accordingly, revenue of $9.2 million and gross loss and operating loss of $5.1 million associated with these projects for 2019 was reclassified from our former Fabrication Division to our Shipyard Division to conform to the presentation of these projects for 2020. See Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+New Project Awards - New project awards for 2019 and 2018 were $251.4 million and $216.8 million, respectively. Significant new project awards for 2019 include.
+•
+The exercise of options by the U.S. Navy for a second and third towing, salvage and rescue ship in the second quarter 2019,
+•
+The exercise of an option by Oregon State University for a third research vessel in the second quarter 2019, and
+•
+A seventy-vehicle ferry in the third quarter 2019.
+Significant new project awards for 2018 include:
+•
+A towing, salvage and rescue ship for the U.S. Navy in the first quarter 2018,
+•
+The exercise of an option by Oregon State University for a second research vessel in the second quarter 2018,
+•
+The exercise of customer options for a ninth and tenth harbor tug in the second quarter 2018,
+•
+A towboat in the second quarter 2018 and the exercise of a customer option for a second towboat in the third quarter 2018, and
+•
+Two forty-vehicle ferries in the fourth quarter 2018.
+Revenue - Revenue for 2019 and 2018 was $168.5 million and $96.4 million, respectively, representing an increase of 74.7%. The increase was primarily due to:
+•
+Progress on our research vessel projects, towing, salvage and rescue ship projects and forty-vehicle ferry projects, offset partially by,
+•
+Lower revenue for our harbor tug projects, and
+•
+No revenue for our two MPSV contracts which were suspended during the first quarter 2018.
+See Note 8 of our Financial Statements in Item 8 for further discussion of our MPSV dispute.
+Gross loss - Gross loss for 2019 and 2018 was $16.0 million (9.5% of revenue) and $10.5 million (10.9% of revenue), respectively. The gross loss for 2019 was primarily due to:
+•
+Project charges of $4.9 million related to forecast cost increases and liquidated damages on our harbor tug projects,
+•
+Project charges of $5.1 million related to forecast cost increases and liquidated damages on our forty-vehicle ferry projects,
+•
+Project charges of $1.5 million related to forecast cost increases on our ice-breaker tug project,
+•
+Project charges of $0.8 million related to the reversal of gross profit recognized prior to 2019 on our research vessel projects,
+•
+Holding costs of $1.2 million related to the two MPSV vessels which remain in our possession and are subject to dispute, and
+•
+The partial under-recovery of overhead costs.
+The increase in gross loss for 2019 relative to 2018 was primarily due to:
+•
+The aforementioned project charges of $12.3 million for 2019, and
+•
+A lower margin mix (excluding the aforementioned project charges) as project gross profit on our research vessel projects and towing, salvage and rescue ship projects was not material because the projects were approximately break-even, offset partially by,
+•
+Higher revenue and a reduction in the under-recovery of overhead costs due to higher activity, and
+•
+Project charges of $6.7 million for 2018 on our harbor tug projects.
+See Note 2 of our Financial Statements in Item 8 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2019 and 2018 was $2.4 million (1.5% of revenue) and $2.8 million (2.9% of revenue), respectively, representing a decrease of 12.7%. The decrease was primarily due to lower legal and advisory fees related to a customer dispute as the costs are reflected within the Corporate Division in 2019.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2019 and 2018 was a loss of $7.9 million and $1.0 million, respectively. The loss for 2019 was primarily due to:
+•
+Impairments of $4.6 million for lease assets and fixed assets attributable to our Jennings Yard,
+•
+Impairments of $3.0 million for lease assets and fixed assets (primarily drydocks) attributable to our Lake Charles Yard, and
+•
+An impairment of $0.3 million for an asset that was held for sale and sold.
+The loss for 2018 was primarily due to impairments of assets held for sale and/or sold.
+See Note 3 of our Financial Statements in Item 8 for further discussion of our impairments and assets held for sale.
+Fabrication & Services Division(1)
+(1)
+In the first quarter 2020, our Fabrication and Services Divisions were operationally combined to form a new division called Fabrication & Services. Accordingly, segment results (including the effects of eliminations) for our Fabrication and Services Divisions for 2019 have been combined to conform to the presentation of our reportable segments for 2020. In addition, in the first quarter 2020, management and project execution responsibility for our two forty-vehicle ferry projects was transferred from our former Fabrication Division to our Shipyard Division. Accordingly, revenue of $9.2 million and gross loss and operating loss of $5.1 million associated with these projects for 2019 was reclassified from our former Fabrication Division to our Shipyard Division to conform to the presentation of these projects for 2020. See Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+New Project Awards - New project awards for 2019 and 2018 were $132.7 million and $138.3 million, respectively. Significant new project awards for 2019 include:
+•
+An offshore jacket and deck project in the first quarter 2019,
+•
+A subsea components project in the first quarter 2019,
+•
+Additional scopes of work for an onshore maintenance project in the third quarter 2019, and
+•
+A material supply project and offshore modules project in the fourth quarter 2019 within our Fabrication & Services Division.
+Significant new project awards for 2018 include:
+•
+A meteorological tower and platform for an offshore wind project in the first quarter 2018, and
+•
+The expansion of a paddlewheel riverboat in the third quarter 2018.
+Revenue - Revenue for 2019 and 2018 was $137.2 million and $126.7 million, respectively, representing an increase of 8.3%. The increase was primarily due to:
+•
+Progress on our paddle wheel riverboat project and jacket and deck project, offset partially by,
+•
+No revenue for our petrochemical modules project which was completed in 2018.
+Gross loss (profit) - Gross loss for 2019 was $0.7 million (3.1% of revenue) and gross profit for 2018 was $4.6 million (6.3% of revenue), respectively. The gross loss for 2019 was primarily due to:
+•
+Project charges of $2.0 million related to forecast cost increases on our jacket and deck project,
+•
+Project charges of $1.3 million related to forecast cost increases on our paddle wheel riverboat project,
+•
+Project charges of $1.6 million related to forecast cost increases and liquidated damages on our subsea components project, and
+•
+The partial under-recovery of overhead costs.
+The gross loss for 2019 relative to the gross profit for 2018 was primarily due to:
+•
+The aforementioned project charges of $4.9 million for 2019 (with no gross profit recognized on these projects during 2019), and
+•
+A lower margin mix (excluding the aforementioned project charges), offset partially by,
+•
+Higher revenue and a reduction in the under-recovery of overhead costs due to higher activity, and
+•
+Project charges of $2.4 million for 2018 on our petrochemical modules project.
+See Note 2 of our Financial Statements in Item 8 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2019 and 2018 was $4.3 million (3.1% of revenue) and $8.0 million (6.3% of revenue), respectively, representing a decrease of 46%. The decrease was primarily due to:
+•
+Lower costs associated with our former EPC Division (which was combined with our Fabrication & Services Division in 2019),
+•
+Lower legal and advisory fees related to a customer dispute as the costs are reflected within the Corporate Division in 2019, and
+•
+Lower incentive plan costs and other cost reductions.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2019 and 2018 was a loss of $8.9 million and a gain of $7.8 million, respectively. The loss for 2019 was primarily due:
+•
+Impairments of $9.3 million for assets held for sale, assets removed from held for sale and inventory, offset partially by,
+•
+A gain of $0.4 million from the sale of assets held for sale.
+The gain for 2018 was primarily due to:
+•
+A gain of $3.9 million from the sale of our Texas South Yard and a gain of $4.1 million from the sale of our Texas North Yard, and
+•
+A gain of $3.6 million from the settlement of an insurance claim related to Hurricane Harvey damage at our South Texas Properties incurred during 2017, offset partially by,
+•
+Impairments of $3.5 million and a loss of $0.3 million related to inventory and assets held for sale and/or sold.
+See Note 3 of our Financial Statements in Item 8 for further discussion of our impairments and assets held for sale.
+Corporate Division
+(1)
+In the first quarter 2020, our Fabrication and Services Divisions were operationally combined to form a new division called Fabrication & Services. Accordingly, the effects of related eliminations on our Corporate Division for 2019 and 2018 have been conformed to the presentation of our reportable segments for 2020. See Note 10 of our Financial Statements in Item 8 for further discussion of our realigned operating divisions.
+Gross loss - Gross loss for 2019 and 2018 was $0.3 million and $1.3 million, respectively. The decrease in gross loss relative to the 2018 period was primarily due to lower costs associated with supporting our former EPC Division (which was combined with our Fabrication & Services Division in 2019).
+General and administrative expense - General and administrative expense for 2019 and 2018 was $8.9 million (2.9% of consolidated revenue) and $8.2 million (3.7% of consolidated revenue), respectively, representing an increase of 7.7%. The increase was primarily due to:
+•
+Increased legal and advisory fees related to customer disputes as the costs were reflected within the operating divisions in 2018, and
+•
+Higher professional fees and other cost associated with the evaluation of strategic alternatives and initiatives to diversify and enhance our business, offset partially by,
+•
+Lower incentive plan costs and board of director compensation costs.
+General and administrative expense for 2019 includes legal and advisory fees related to a contract dispute for a completed project that was settled during the first quarter 2020 and a contract dispute associated with our MPSV projects which are subject to purported termination and for which construction has been suspended. Legal and advisory fees related to such disputes were reflected within our Corporate Division in 2019 and our operating divisions in 2018. See Note 1 of our Financial Statements in Item 8 for further discussion of our settlement of the completed project dispute and Note 8 for further discussion of our MPSV dispute.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2019 was a loss of $0.7 million, primarily related to $0.5 million of amounts payable to our former chief executive officer in connection with his retirement during the fourth quarter 2019. Such amounts were paid during 2020 and did not require any future service.
+Liquidity and Capital Resources
+Available Liquidity
+Our primary sources of liquidity are our cash, cash equivalents and scheduled maturities of our short-term investments, which totaled $51.2 million at December 31, 2020. Our available liquidity is impacted by changes in our working capital and our capital expenditure requirements. At December 31, 2020, our working capital was $49.0 million and included $51.2 million of cash, cash equivalents and short-term investments, $8.2 million of assets held for sale and $5.5 million of current maturities of long-term debt. Excluding cash, cash equivalents, short-term investments, assets held for sale and current maturities of long-term debt, our working capital at December 31, 2020 was negative $4.9 million, and consisted of net contract assets and contract liabilities (collectively, “Contracts in Progress”) of $52.4 million; contract receivables and retainage of $15.4 million; inventory, prepaid expenses and other assets of $5.1 million; and accounts payable, accrued expenses and other liabilities of $77.8 million. The components of our working capital (excluding cash, cash equivalents, short-term investments, assets held for sale and current maturities of long-term debt) at December 31, 2020 and 2019, and changes in such amounts during 2020 and 2019, was as follows (in thousands):
+(1)
+Contract liabilities at December 31, 2020 and 2019, include accrued contract losses of $8.6 million and $6.4 million, respectively.
+(2)
+Represents our cash position relative to revenue recognized on projects, with contract assets representing unbilled amounts that reflect future cash inflows on projects, and contract liabilities representing (i) advance payments that reflect future cash expenditures and non-cash earnings on projects and (ii) accrued contract losses that represent future cash expenditures on projects.
+(3)
+Changes referenced in the cash flow activity section below may differ from the changes in this table due to non-cash reclassifications and due to certain changes in balance sheet accounts being reflected within other line items on the Statement of Cash Flows, including bad debt expense, gains and losses on sales of fixed assets and other assets, and accruals for capital expenditures.
+(4)
+Accounts payable includes progress accruals associated with engineered equipment manufactured by vendors, and services provided by subcontractors, that are not contractually billable or have not been billed by the vendors and subcontractors. Such accruals totaled $48.5 million and $34.7 million at December 31, 2020 and December 31, 2019, respectively, and result in an increase in percentage of completion on our projects and an increase in our contract assets.
+Fluctuations in our working capital, and its components, are not unusual in our business and are impacted by the size of our projects and the mix of our backlog. Our working capital is particularly impacted by the timing of new project awards and related payments in advance of performing work, and the subsequent achievement of billing milestones or project progress on backlog. Working capital is also impacted at period-end by the timing of contract receivables collections and accounts payable payments on our projects.
+Cash Flow Activity (in thousands):
+Operating Activities - Cash used in operating activities for 2020 and 2019 was $19.0 million and $7.1 million, respectively, and was primarily due to the net impacts of the following:
+2020 Activity
+•
+Operating loss excluding depreciation and amortization of $8.7 million, non-cash asset impairments of $3.3 million, net losses from asset sales of $0.2 million, and stock-based compensation expense of $1.1 million;
+•
+Increase in contract assets of $15.4 million related to the timing of billings on projects, primarily due to increased unbilled positions on our second and third towing, salvage and rescue ship projects and seventy-vehicle ferry project within our Shipyard Division, offset partially by decreased unbilled positions on our harbor tug projects within our Shipyard Division and paddlewheel riverboat project within our Fabrication & Services Division;
+•
+Decrease in contract liabilities of $11.1 million, primarily due to the unwind of advance payments on our third towing, salvage and rescue ship project and forty-vehicle ferry projects within our Shipyard Division and our offshore jacket and deck project and material supply project within our Fabrication & Services Division, offset partially by advance payments on our fifth towing, salvage and rescue ship project within our Shipyard Division;
+•
+Decrease in contract receivables and retainage of $10.7 million related to the timing of billings and collections on projects, primarily due to collections on our two forty-vehicle ferry projects within our Shipyard Division and our material supply project within our Fabrication & Services Division, offset partially by increased receivable positions on various other projects within our Fabrication & Services Division;
+•
+Decrease in prepaid expenses, inventory and other assets of $1.6 million, primarily due to prepaid expenses and the associated timing of certain prepayments;
+•
+Increase in accounts payable, accrued expenses and other current liabilities of $7.6 million, primarily due to increased procurement activity and progress accruals for engineered equipment manufactured by vendors for our three research vessel projects, fourth and fifth towing, salvage and rescue ship projects, and seventy-vehicle ferry project within our Shipyard Division, offset partially by decreased accounts payable positions for our two forty-vehicle ferry projects within our Shipyard Division and various other projects within our Fabrication & Services Division; and
+•
+Change in noncurrent assets and liabilities, net of $1.6 million, primarily due to the collection of long-term retention that was billed and collected during 2020.
+2019 Activity
+•
+Operating loss excluding depreciation and amortization expense of $9.6 million, bad debt expense of $0.1 million, non-cash asset impairments of $17.2 million, net gains from asset sales of $1.0 million, and stock-based compensation expense of $1.8 million;
+•
+Increase in contract assets of $22.1 million related to the timing of billings on projects, primarily due to increased unbilled positions on our three research vessel projects and first towing, salvage and rescue ship project within our Shipyard Division, offset partially by decreased unbilled positions on our harbor tug projects within our Shipyard Division;
+•
+Increase in contract liabilities of $9.4 million, primarily due to advance payments on our third towing, salvage and rescue ship project and advance payments and an increase in accrued contract losses on our forty-vehicle ferry projects within our Shipyard Division, and advance payments on two projects within our Fabrication & Services Division, offset partially by the unwind of advance payments on a project within our Fabrication & Services Division;
+•
+Increase in contract receivables and retainage of $3.7 million related to the timing of billings and collections on projects, primarily due to an increase in billings on two projects within our Fabrication & Services Division;
+•
+Decrease in prepaid expenses, inventory and other assets of $2.6 million, primarily due to lower inventory for our Fabrication & Services Division;
+•
+Increase in accounts payable, accrued expenses and other current liabilities of $29.9 million, primarily due to the timing of payments and increased procurement activities and progress accruals for engineered equipment manufactured by vendors, for our three research vessel projects and three towing, salvage and rescue ship projects within our Shipyard Division; and
+•
+Change in noncurrent assets and liabilities, net of $1.5 million.
+Investing Activities - Cash provided by investing activities for 2020 was $2.6 million, and cash used in investing activities for 2019 was $12.8 million. Cash provided by investing activities for 2020 was primarily due to the net maturities of short-term investments of $11.8 million and proceeds from the sale of fixed assets and assets held for sale of $2.0 million, offset partially by capital expenditures of $11.2 million. Cash used in investing activities for 2019 was primarily due to the net purchase of short-term investments of $11.2 million and capital expenditures of $3.8 million, offset partially by proceeds from the sale of fixed assets and assets held for sale of $2.2 million.
+Financing Activities - Cash provided by financing activities for 2020 was $9.9 million, and cash used in financing activities for 2019 was $0.8 million. Cash provided by financing activities for 2020 was due to our PPP Loan discussed further below. Cash used in financing activities for 2019 was primarily due to tax payments made on behalf of employees from vested stock withholdings.
+Credit Facilities
+LC Facility - On March 26, 2021, we amended our revolving credit facility with Hancock Whitney Bank (“Whitney Bank”). The facility previously provided for up to $40.0 million of borrowings or letters of credit and included certain quarterly financial covenants and restrictions on our ability to take certain actions. In connection with the amendment, the facility was modified to provide for up to $20.0 million of letters of credit, subject to our cash securitization of existing and future letters of credit, and the maturity date was extended to June 30, 2023. The amended letter of credit facility (“LC Facility”) removed all financial covenants and other restrictions. Commitment fees on the unused portion of the LC Facility are 0.4% per annum and interest on outstanding letters of credit is 2.0% per annum. At December 31, 2020, we had $10.7 million of outstanding letters of credit under the LC Facility. See “Risk Factors” in Item 1A and Note 5 and Note 8 of our Financial Statements in Item 8 for further discussion of our LC Facility.
+Loan Agreement - On April 17, 2020, we entered into an unsecured loan in the aggregate amount of $10.0 million (“PPP Loan”) with Whitney Bank pursuant to the Paycheck Protection Program (“PPP”), which is sponsored by the Small Business Administration (“SBA”), and is part of the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”), as amended by the Paycheck Protection Program Flexibility Act of 2020 (“Flexibility Act”). The PPP provides for loans to qualifying businesses, the proceeds of which may only be used for payroll costs, rent, utilities, mortgage interest, and interest on other pre-existing indebtedness (the “Permissible Expenses”). The PPP Loan may be prepaid at any time prior to maturity with no prepayment penalties. The PPP Loan, and accrued interest, may be forgiven partially or in full, if certain conditions are met. The most significant of the conditions are:
+•
+Only amounts expended for Permissible Expenses during the eight-week or 24-week period, as elected by us, following April 17, 2020 (the “Covered Period”) are eligible for loan forgiveness. We have elected an eight-week Covered Period;
+•
+Of the total amount of Permissible Expenses for which forgiveness can be granted, at least 60% must be for payroll costs, or a proportionate reduction of the maximum loan forgiveness amount will occur; and
+•
+If employee headcount is reduced, or employee compensation is reduced by more than 25%, during the Covered Period, a further reduction of the maximum loan forgiveness amount will occur, subject to certain safe harbors added by the Flexibility Act.
+The PPP Loan matures on April 17, 2022, bears interest at a fixed rate of 1.0 percent per annum and is payable in monthly installments commencing on the earlier of the date on which the amount of loan forgiveness is determined or March 17, 2021. During the Covered Period the PPP Loan proceeds were used only for Permissible Expenses, of which approximately 93% was related to payroll costs. On September 29, 2020, we submitted our application to Whitney Bank, requesting PPP Loan forgiveness of $8.9 million. Whitney Bank approved our application for forgiveness on December 14, 2020, and our application was forwarded to the SBA for review. As of the filing of this Report, we have not received an approval or denial of our application for forgiveness from the SBA; in the absence of such action and based on guidance we received from our external advisors, we have taken the position that the date for commencement of loan payments has not yet occurred, and we have made no loan payments. Because the amount borrowed exceeded $2.0 million, the PPP Loan and our loan forgiveness application is subject to audit by the SBA. Any portion of the PPP Loan that is not forgiven, together with accrued interest, will be repaid based on the terms and conditions of the PPP Loan and in accordance with the PPP as amended by the Flexibility Act, unless the SBA were to determine that we were not eligible to participate in the PPP, in which case the SBA could seek immediate repayment of the PPP Loan. While we believe we are a qualifying business and have met the eligibility requirements for the PPP Loan, and believe we have used the loan proceeds only for Permissible Expenses, we can provide no assurances that we will be eligible for forgiveness of the PPP Loan, in whole or in part. Accordingly, we have recorded the full amount of the PPP Loan as debt, which is included in long-term debt, current and long-term debt, noncurrent on our Balance Sheet at December 31, 2020. The current and noncurrent debt classification is based on the terms and conditions of the PPP Loan and in accordance with the PPP as amended by the Flexibility Act, and timing of required repayment absent any loan forgiveness. We intend to reflect the benefit of any loan forgiveness if, and when, our loan forgiveness application is approved by the SBA and after we have reasonable assurance from the SBA that we have met the eligibility and loan forgiveness requirements of the PPP. See Note 5 of our Financial Statements in Item 8 for further discussion of the PPP Loan.
+Surety Bonds - We issue surety bonds in the ordinary course of business to support our projects. At December 31, 2020, we had $291.2 million of outstanding surety bonds, of which $50.0 million relates to our MPSV projects which are subject to purported termination and for which construction has been suspended. It has been increasingly difficult to obtain additional bonding capacity and identify potential financing sources, due to, among other things, losses from our operations in recent years, including recent project charges, and given a majority of our backlog is at, or near, break-even or is in a loss position. We can provide no assurances that necessary bonding capacity will be available to support our future bonding requirements. See “Risk Factors” in Item 1A and Note 8 of our Financial Statements in Item 8 for further discussion of our surety bonds and MPSV dispute.
+Registration Statement
+We have a shelf registration statement that is effective with the SEC that expires on November 27, 2023. The shelf registration statement enables us to issue up to $200.0 million in either debt or equity securities, or a combination thereof, from time to time subsequent to the filing of a prospectus supplement, which among other things, identifies the sales agent, specifies the number and value of securities that may be sold, and provides a time frame over which the securities may be offered.
+Liquidity Outlook
+As discussed in our Overview, we continue to focus on securing profitable new project awards and backlog in the near-term and generating operating income and cash flows in the longer-term. We have made significant progress in our efforts to preserve and improve our liquidity, including cost reductions (including reducing the size of our board and reducing the compensation of our directors and executive officers), the sale of under-utilized assets and facilities and an improved overall cashflow position on our projects in backlog. In addition, at December 31, 2020, we continue to have $8.2 million of assets held for sale; however, we can provide no assurances that we will successfully sell these assets or that we will recover their carrying value. Further, as discussed above, we received the PPP Loan in the second quarter 2020, which provided funding necessary to offset the immediate and anticipated impacts of COVID-19. It also provided us important additional liquidity as a strong balance sheet is required to execute our backlog and compete for new projects awards, and we experience significant monthly fluctuations in our working capital. The primary uses of our liquidity for 2021 and the foreseeable future are to fund:
+•
+Overhead costs associated with the under-utilization of our facilities within our Fabrication & Services Division and Shipyard Division, until we secure and/or begin to execute sufficient backlog to fully recover our overhead costs;
+•
+Capital expenditures (including enhancements to our Shipyard Division facilities to execute our backlog);
+•
+Accrued contract losses recorded at December 31, 2020;
+•
+Working capital requirements for our projects (including the unwind of advance payments on projects);
+•
+Legal and other costs associated with our MPSV dispute; and
+•
+Corporate administrative expenses and initiatives to diversify and enhance our business.
+A significant portion of our capital expenditures of $11.2 million for 2020 represent capital investments required by our contract for our five towing, salvage and rescue ships, primarily for the construction of vessel erection sites and a warehouse for storage. While the capital investments were required by the contracts, the assets will benefit our construction operations going forward. In addition, $0.9 million of our capital expenditures for 2020 were associated with retaining hourly craft employees to perform capital improvements to our facilities and drydocks. We anticipate capital expenditures of $3.0 million to $5.0 million for 2021. Further investments in equipment and facilities may be required to win and execute potential new project awards, which are not included in these estimates.
+We believe that our cash, cash equivalents and short-term investments at December 31, 2020, will be sufficient to enable us to fund our operating expenses, meet our working capital and capital expenditure requirements, and satisfy any debt service obligations or other funding requirements, for at least twelve months from the date of this Report. Our evaluation of the sufficiency of our cash and liquidity is primarily based on our financial forecast for 2021 and 2022, which is impacted by our existing backlog and estimates of future new project awards and may be further impacted by COVID-19 and low and volatile oil prices. We can provide no assurances that our financial forecast will be achieved or that we will have sufficient cash and short-term investments to meet planned operating expenses and other unforeseen cash requirements. Accordingly, we may be required to obtain new or additional credit facilities, sell additional assets or conduct equity or debt offerings at a time when it is not beneficial to do so.
+Off-Balance Sheet Arrangements
+We are not a party to any contract or other obligation not included on our Balance Sheet that has, or is reasonably likely to have, a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.

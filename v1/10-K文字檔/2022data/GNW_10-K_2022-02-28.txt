@@ -1,0 +1,530 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our consolidated financial condition and results of operations should be read in conjunction with our audited consolidated financial statements and related notes included in “Item 8 - Financial Statements and Supplementary Data.”
+Item 7 of our Annual Report on Form 10-K
+generally discusses year-to-year
+comparisons between the years ended December 31, 2021 and 2020. Other than our “Consolidated Results of Operations-Executive Summary of Consolidated Financial Results” which includes comparative discussions between 2020 and 2019 that have been re-presented
+to report our former Australian mortgage insurance business as discontinued operations, discussions of information related to 2019 and year-to-year
+comparisons between 2020 and 2019 are not included in this Form 10-K.
+Other than the aforementioned section re-presented
+to reflect our former Australia mortgage insurance business reported as discontinued operations, comparative discussions between 2020 and 2019 can be found in “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K
+for the year ended December 31, 2020.
+Overview
+Our business
+Genworth Financial, through its principal insurance subsidiaries, offers mortgage and long-term care insurance products. Genworth Financial is the parent company of Enact Holdings, a leading provider of private mortgage insurance in the United States through its mortgage insurance subsidiaries. Genworth Financial’s U.S. life insurance subsidiaries offer long-term care insurance and also manage in-force
+blocks of life insurance and annuity products which are no longer sold. We report our business results through three operating business segments: Enact (formerly known as U.S. Mortgage Insurance); U.S. Life Insurance; and Runoff. We also have Corporate and Other activities. Our U.S. Life Insurance segment includes long-term care insurance, life insurance and fixed annuity products. The Runoff segment primarily includes variable annuity, variable life insurance and corporate-owned life insurance products, which have not been actively sold since 2011.
+Our financial information
+The financial information in this Annual Report on Form 10-K
+has been derived from our consolidated financial statements.
+Revenues and expenses
+Our revenues consist primarily of the following:
+•
+Premiums.
+Premiums consist primarily of premiums earned on insurance products for mortgage, long-term care and term life insurance.
+•
+Net investment income.
+Net investment income represents the income earned on our investments. For discussion of the change in net investment income, see the comparison for this line item under “-Investments and Derivative Instruments.”
+•
+Net investment gains (losses).
+Net investment gains (losses) consist primarily of realized gains and losses from the sale of our investments, credit losses, unrealized and realized gains and losses from our equity securities, limited partnership investments and derivative instruments. For discussion of the change in net investment gains (losses), see the comparison for this line item under “-Investments and Derivative Instruments.”
+•
+Policy fees and other income.
+Policy fees and other income consists primarily of fees assessed against policyholder and contractholder account values, surrender charges, cost of insurance assessed on universal and term universal life insurance policies, advisory and administration service fees assessed
+on investment contractholder account values, broker/dealer commission revenues, fee revenue from contract underwriting services and other fees.
+Our expenses consist primarily of the following:
+•
+Benefits and other changes in policy reserves.
+Benefits and other changes in policy reserves consist primarily of benefits paid and reserve activity related to current claims and future policy benefits on insurance and investment products for long-term care insurance, life insurance, accident and health insurance, structured settlements and single premium immediate annuities with life contingencies, and claim costs incurred related to mortgage insurance products.
+•
+Interest credited.
+Interest credited represents interest credited on behalf of policyholder and contractholder general account balances.
+•
+Acquisition and operating expenses, net of deferrals.
+Acquisition and operating expenses, net of deferrals, represent costs and expenses related to the acquisition and ongoing maintenance of insurance and investment contracts, including commissions, policy issuance expenses and other underwriting and general operating costs. These costs and expenses are net of amounts that are capitalized and deferred, which are costs and expenses that are related directly to the successful acquisition of new or renewal insurance policies and investment contracts, such as first-year commissions in excess of ultimate renewal commissions and other policy issuance expenses.
+•
+Amortization of deferred acquisition costs and intangibles.
+Amortization of DAC and intangibles consists primarily of the amortization of acquisition costs that are capitalized, PVFP and capitalized software.
+•
+Interest expense.
+Interest expense represents interest related to our borrowings that are incurred at Genworth Holdings or Enact Holdings and our non-recourse
+funding obligations, and interest expense related to the Tax Matters Agreement and certain reinsurance arrangements being accounted for as deposits.
+•
+Income taxes.
+We tax our businesses at the U.S. corporate federal income tax rate of 21%. Each segment is then adjusted to reflect the unique tax attributes of that segment, such as permanent differences between U.S. GAAP and tax law. The difference between the consolidated provision for income taxes and the sum of the provision for income taxes in each segment is reflected in Corporate and Other activities.
+The effective tax rates disclosed herein are calculated using rounded numbers. As a result, the percentages shown may differ from an effective tax rate calculated using whole numbers.
+We allocate corporate expenses to each of our operating segments using various methodologies, including based on the amount of capital allocated to each operating segment.
+Consolidated Results of Operations
+The following table sets forth the consolidated results of operations for the periods indicated:
+(1)
+We define “NM” as not meaningful for increases or decreases greater than 200%.
+Unless otherwise stated, all references to net income (loss), net income (loss) per share, adjusted operating income (loss) and adjusted operating income (loss) per share found in “Item 7 - Management’s Discussion and
+Analysis of Financial Condition and Results of Operations” should be read as net income (loss) available to Genworth Financial, Inc.’s common stockholders, net income (loss) available to Genworth Financial, Inc.’s common stockholders per share, adjusted operating income (loss) available to Genworth Financial, Inc.’s common stockholders and adjusted operating income (loss) available to Genworth Financial, Inc.’s common stockholders per share, respectively.
+Use of non-GAAP
+measures
+Reconciliation of net income (loss) to adjusted operating income (loss)
+We use non-GAAP
+financial measures entitled “adjusted operating income (loss)” and “adjusted operating income (loss) per share.” Adjusted operating income (loss) per share is derived from adjusted operating income (loss). Our chief operating decision maker evaluates segment performance and allocates resources on the basis of adjusted operating income (loss). We define adjusted operating income (loss) as income (loss) from continuing operations excluding the after-tax
+effects of income (loss) from continuing operations attributable to noncontrolling interests, net investment gains (losses), gains (losses) on the sale of businesses, gains (losses) on the early extinguishment of debt, initial gains (losses) on insurance block transactions, restructuring costs and infrequent or unusual non-operating
+items. Initial gains (losses) on insurance block transactions are defined as gains (losses) on the early extinguishment of non-recourse
+funding obligations, early termination fees for other financing restructuring and/or initial gains (losses) on reinsurance restructuring for certain blocks of business. We exclude net investment gains (losses) and infrequent or unusual non-operating
+items because we do not consider them to be related to the operating performance of our segments and Corporate and Other activities. A component of our net investment gains (losses) is the result of estimated future credit losses, the size and timing of which can vary significantly depending on market credit cycles. In addition, the size and timing of other investment gains (losses) can be subject to our discretion and are influenced by market opportunities, as well as asset-liability matching considerations. Gains (losses) on the sale of businesses, gains (losses) on the early extinguishment of debt, initial gains (losses) on insurance block transactions and restructuring costs are also excluded from adjusted operating income (loss) because, in our opinion, they are not indicative of overall operating trends. Infrequent or unusual non-operating
+items are also excluded from adjusted operating income (loss) if, in our opinion, they are not indicative of overall operating trends.
+While some of these items may be significant components of net income (loss) in accordance with U.S. GAAP, we believe that adjusted operating income (loss), and measures that are derived from or incorporate adjusted operating income (loss), including adjusted operating income (loss) per share on a basic and diluted basis, are appropriate measures that are useful to investors because they identify the income (loss) attributable to the ongoing operations of the business. Management also uses adjusted operating income (loss) as a basis for determining awards and compensation for senior management and to evaluate performance on a basis comparable to that used by analysts. However, the items excluded from adjusted operating income (loss) have occurred in the past and could, and in some cases will, recur in the future. Adjusted operating income (loss) and adjusted operating income (loss) per share on a basic and diluted basis are not substitutes for net income (loss) or net income (loss) per share on a basic and diluted basis determined in accordance with U.S. GAAP. In addition, our definition of adjusted operating income (loss) may differ from the definitions used by other companies.
+Adjustments to reconcile net income (loss) to adjusted operating income (loss) assume a 21% tax rate and are net of the portion attributable to noncontrolling interests. Net investment gains (losses) are also adjusted for DAC and other intangible amortization and certain benefit reserves.
+The following table presents a reconciliation of net income to adjusted operating income for the years ended December 31:
+(1)
+For the years ended December 31, 2021, 2020 and 2019, net investment (gains) losses were adjusted for DAC and other intangible amortization and certain benefit reserves of $(1) million, $(11) million and $(11) million, respectively.
+In 2021, we paid a pre-tax
+make-whole premium of $6 million and $20 million related to the early redemption of Genworth Holdings’ senior notes originally scheduled to mature in September 2021 and August 2023, respectively. We also repurchased $146 million principal amount of Genworth Holdings’ senior notes with 2021 maturity dates for a pre-tax
+loss of $4 million and repurchased $91 million and $118 million principal amount of Genworth Holdings’ senior notes due in 2023 and 2024, respectively, for a pre-tax
+loss of $15 million. During 2020, we repurchased $84 million principal amount of Genworth Holdings’ senior notes with 2021 maturity dates for a pre-tax
+gain of $4 million. In January 2020, we paid a pre-tax
+make-whole expense of $9 million related to the early redemption of Genworth Holdings’ senior notes originally scheduled to mature in June 2020 and Rivermont Life Insurance Company I (“Rivermont I”), our indirect wholly-owned special purpose consolidated captive insurance subsidiary, early redeemed all of its $315 million outstanding non-recourse
+funding obligations originally due in 2050 resulting in a pre-tax
+loss of $4 million from the write-off
+of deferred borrowing costs. These transactions were excluded from adjusted operating income as they relate to gains (losses) on the early extinguishment of debt.
+In the fourth quarter of 2021, we recorded a pre-tax
+loss of $92 million as a result of ceding certain term life insurance policies as part of a life block transaction.
+In 2021, 2020 and 2019, we recorded a pre-tax
+expense of $34 million, $3 million and $4 million, respectively, related to restructuring costs as we continue to evaluate and appropriately size our organizational
+needs and expenses. There were no infrequent or unusual items excluded from adjusted operating income during the periods presented.
+Earnings per share
+The following table provides basic and diluted earnings per common share for the years ended December 31:
+(1)
+We define “NM” as not meaningful for increases or decreases greater than 200%.
+Diluted weighted-average shares outstanding reflect the effects of potentially dilutive securities including stock options, restricted stock units and other equity-based compensation.
+The following table presents a summary of adjusted operating income (loss) for our segments and Corporate and Other activities for the years ended December 31:
+(1)
+We define “NM” as not meaningful for increases or decreases greater than 200%.
+Executive Summary of Consolidated Financial Results
+Below is an executive summary of our consolidated financial results for the periods indicated. Amounts included within this “Executive Summary of Consolidated Financial Results” are net of taxes, unless otherwise indicated.
+For a discussion of selected financial information and detailed descriptions of operating performance measures see “-Results of Operations and Selected Financial and Operating Performance Measures by Segment.”
+2021 compared to 2020
+•
+Net income for the years ended December 31, 2021 and 2020 was $904 million and $178 million, respectively, and adjusted operating income was $765 million and $310 million, respectively. Our Enact segment drove our December 31, 2021 consolidated financial results, reporting $520 million of adjusted operating income, an increase of 36% compared to the year ended December 31, 2020. Our U.S. Life Insurance segment reported adjusted operating income of $267 million in 2021 driven mostly by favorable long-term care insurance operating results, which reported adjusted operating income of $445 million for the year ended December 31, 2021, an increase of 88% compared to the year ended December 31, 2020. These improvements were partially offset by an adjusted operating loss of $269 million in our life insurance business. The following is a summary comparison of adjusted operating income (loss) for our segments and Corporate and Other activities:
+•
+Our Enact segment had adjusted operating income of $520 million and $381 million in 2021 and 2020, respectively.
+•
+The increase was primarily attributable to lower losses mainly from lower new delinquencies and net favorable reserve adjustments of $17 million in 2021 compared to unfavorable reserve adjustments of $51 million in 2020.
+•
+These improvements were partially offset by higher interest expense associated with Enact Holdings’ senior notes issued in August 2020, an increase in operating costs and the minority
+IPO of Enact Holdings that closed in September 2021, which reduced Genworth Financial’s ownership percentage to 81.6% and resulted in lower net income of $33 million in 2021.
+•
+Our U.S. Life Insurance segment had adjusted operating income of $267 million and $68 million in 2021 and 2020, respectively.
+•
+Long-term care insurance:
+•
+Adjusted operating income increased $208 million primarily from higher net investment income, as well as higher premiums and reduced benefits of $212 million in 2021 from in-force
+rate actions approved and implemented, which included a net favorable impact from policyholder benefit reduction elections made as part of a legal settlement.
+•
+The increase was also attributable to favorable development on incurred but not reported (“IBNR”) claims.
+•
+The year ended December 31, 2020 included higher claim reserves of $157 million associated with changes to incidence and mortality experience driven by COVID-19,
+which we believe are temporary.
+•
+Life insurance:
+•
+The adjusted operating loss increased $22 million mainly attributable to an unfavorable unlocking of $70 million in our universal and term universal life insurance products as part of our annual review of assumptions in the fourth quarter of 2021 compared to a favorable unlocking of $60 million in 2020 (see “-Critical Accounting Estimates” for additional information).
+•
+The higher loss was also attributable to higher mortality in 2021 compared to 2020 and higher DAC impairments of $42 million in 2021 in our universal and term universal life insurance products principally due to lower future estimated gross profits.
+•
+The higher loss was partially offset by lower lapses primarily associated with our large 20-year
+term life insurance block written at the end of 2000 as it entered its post-level premium period.
+•
+Fixed annuities:
+•
+Adjusted operating income increased $13 million mainly attributable to lower reserves and DAC amortization in our fixed indexed annuities driven by favorable changes in interest rates and equity markets.
+•
+These improvements were partially offset by lower net spreads in 2021.
+•
+Our Runoff segment had adjusted operating income of $54 million and $43 million in 2021 and 2020, respectively.
+•
+The increase was primarily due to favorable equity market and interest rate performance in 2021.
+•
+These improvements were partially offset by lower investment income in 2021.
+•
+The year ended December 31, 2020 included an unfavorable assumption update of $5 million.
+•
+Corporate and Other activities had an adjusted operating loss of $76 million and $182 million in 2021 and 2020, respectively.
+•
+The decrease in the loss was primarily related to lower interest expense, higher tax benefits of $21 million from a reduction in uncertain tax positions due to the expiration of certain statute of limitations and lower operating costs in 2021.
+2020 compared to 2019
+•
+Net income for the years ended December 31, 2020 and 2019 was $178 million and $343 million, respectively, and adjusted operating income was $310 million and $355 million, respectively. Our U.S. Life Insurance segment reported adjusted operating income of $68 million in 2020 driven mostly by favorable long-term care insurance operating results, which reported adjusted operating income of $237 million for the year ended December 31, 2020, an increase of $180 million compared to the year ended December 31, 2019. This improvement was more than offset by an adjusted operating loss of $247 million in our life insurance business and lower adjusted operating income of $187 million in our Enact segment in 2020 compared to 2019. The following is a summary comparison of adjusted operating income (loss) for our segments and Corporate and Other activities:
+•
+Our Enact segment had adjusted operating income of $381 million and $568 million in 2020 and 2019, respectively.
+•
+The decrease was primarily attributable to higher losses largely from new delinquencies driven in large part by a significant increase in borrower forbearance as a result of COVID-19,
+reserve strengthening of $51 million on existing delinquencies and from lower net benefits from cures and aging of existing delinquencies in 2020.
+•
+These decreases were partially offset by higher premiums largely driven by higher insurance in-force
+and an increase in single premium policy cancellations primarily due to higher mortgage refinancing in 2020.
+•
+The year ended December 31, 2019 included favorable reserve adjustments of $18 million mostly associated with lower expected claim rates and a favorable adjustment of $11 million related to our single premium earnings pattern review.
+•
+Our U.S. Life Insurance segment had adjusted operating income of $68 million in 2020 compared to an adjusted operating loss of $55 million in 2019.
+•
+Long-term care insurance:
+•
+Adjusted operating income increased $180 million primarily from an increase in claim terminations driven mostly by higher mortality, as well as favorable development on IBNR claims and higher investment income in 2020.
+•
+We also increased reserves by $157 million in 2020 to account for changes to incidence and mortality experience driven by COVID-19.
+•
+Life insurance:
+•
+The adjusted operating loss increased $66 million predominantly attributable to higher reserves in our 10-year
+term universal life insurance block as it entered its post-level premium period during the premium grace period, higher mortality in 2020 compared to 2019, higher lapses primarily associated with our large 20-year
+term life insurance block as it entered its post-level premium period and a DAC impairment of $50 million in 2020.
+•
+The higher loss was partially offset by a favorable unlocking of $60 million in our term universal and universal life insurance products as part of our annual review of assumptions in the fourth quarter of 2020 compared to unfavorable unlocking of $107 million in 2019 (see “-Critical Accounting Estimates” for additional information).
+•
+Fixed annuities:
+•
+Adjusted operating income increased $9 million predominantly from $39 million of unfavorable charges related to loss recognition testing in 2019 that did not recur (see
+“-Critical Accounting Estimates-Future policy benefits” for additional information) and lower interest credited due to block runoff.
+•
+These improvements were partially offset by lower net spreads in 2020.
+•
+Our Runoff segment had adjusted operating income of $43 million and $56 million in 2020 and 2019, respectively.
+•
+The decrease was predominantly due to less favorable equity market performance, an unfavorable assumption update of $5 million and a decline in interest rates in 2020.
+•
+These decreases were partially offset by higher net spreads in 2020.
+•
+Corporate and Other activities had an adjusted operating loss of $182 million and $214 million in 2020 and 2019, respectively.
+•
+The decrease in the loss was primarily related to lower interest expense in 2020.
+•
+This improvement was partially offset by lower income tax benefits in 2020.
+Significant Developments and Strategic Highlights
+The periods under review include, among others, the following significant developments and steps taken in the execution of our strategic priorities.
+Enact
+•
+PMIERs compliance:
+•
+Enact’s PMIERs sufficiency ratio was 165% or $2,003 million above the published PMIERs requirements as of December 31, 2021.
+•
+As of December 31, 2021, Enact had estimated available assets of $5,077 million against $3,074 million net required assets under PMIERs compared to available assets of $4,588 million against $3,359 million net required assets as of December 31, 2020 (PMIERs sufficiency is based on the published requirements applicable to private mortgage insurers and does not give effect to the GSE restrictions imposed on Enact Holdings).
+•
+The increase in the PMIERs sufficiency was driven by a higher volume of credit risk transfer transactions, elevated lapse driven by prevailing low interest rates, business cash flows and lower delinquencies, partially offset by elevated new insurance written.
+•
+As of December 31, 2021 and 2020, Enact’s PMIERs required assets benefited by $390 million and $1,046 million, respectively, from the application of a 0.30 multiplier applied to the risk-based required asset amount factor for certain non-performing
+loans.
+For additional information related to PMIERs, see “Item 1 - Business-Regulation-Enact-Mortgage Insurance Regulation-Other U.S. Regulation and Agency Qualification Requirements.”
+•
+Dividends:
+•
+Enact Holdings paid a dividend of $163 million to Genworth Holdings in the fourth quarter of 2021.
+•
+Enact Holdings intends to develop a formal dividend policy and initiate a regular common dividend during 2022.
+•
+Enact Holdings’ dividend policy is a critical piece in determining Genworth’s future cash flows, and once set, it could help pave the way for returning capital to Genworth Financial shareholders.
+U.S. Life Insurance
+•
+Cumulative economic benefit from in-force
+rate actions:
+•
+During 2021, we continued to make strong progress on our long-term care insurance in-force
+rate action plan.
+•
+We estimate that the cumulative economic benefit of our long-term care insurance multi-year in-force
+rate action plan through 2021 was approximately $19.6 billion, on a net present value basis, of the total expected amount required of $28.7 billion.
+•
+Completion of annual long-term care insurance assumption review:
+•
+In the fourth quarter of 2021, we completed a review of our assumptions and methodologies of our claim reserves and future policy benefits for our long-term care insurance business and completed loss recognition testing.
+•
+We made no changes to our existing claim reserves, as experience in the aggregate was in line with expectations.
+•
+The 2021 U.S. GAAP margins for our long-term care insurance business remained within the range of approximately $0.5 billion to $1.0 billion.
+•
+Completion of annual life insurance assumption review:
+•
+We also completed a review of our assumptions and methodologies of our life insurances business and completed loss recognition testing in the fourth quarter of 2021.
+•
+The loss recognition testing margin for our term life insurance products remained positive in 2021.
+•
+As part of our review in the fourth quarter of 2021, we recorded a $70 million after-tax
+expense to net income in our universal and term universal life insurance products primarily related to higher pre-COVID-19
+mortality experience.
+For additional information see “-Critical Accounting Estimates.”
+•
+Completion of a life block transaction:
+•
+In the fourth quarter of 2021, we recorded an after-tax
+loss of $73 million as a result of ceding certain term life insurance policies as part of a life block transaction.
+•
+This transaction generated statutory capital in excess of approximately $170 million for our U.S. life insurance subsidiaries.
+Liquidity and Capital Resources
+•
+Execution of strategic plan to reduce debt maturities:
+•
+We continue to focus on deleveraging with a goal of reducing debt at Genworth Holdings, the issuer of our outstanding public debt, to approximately $1.0 billion over time.
+•
+During 2021, Genworth Holdings repaid approximately $2.1 billion of debt and other obligations, including the repayment of the AXA promissory note.
+•
+As of December 31, 2021, Genworth Holdings had outstanding $1.2 billion of long-term debt, with no debt maturities until February 2024.
+•
+During the year ended December 31, 2021 and the first quarter of 2022, Genworth Holdings redeemed and repurchased the following:
+•
+Redemption and repurchase of Genworth Holdings’ August 2023 senior notes.
+On December 15, 2021, Genworth Holdings early redeemed its remaining 4.90% senior notes
+originally scheduled to mature in August 2023. The senior notes were fully redeemed with a cash payment of $334 million, including accrued interest and a make-whole premium. During the fourth quarter of 2021 and prior to the early redemption, Genworth Holdings repurchased $91 million of its August 2023 senior notes for a pre-tax
+loss of $9 million.
+•
+Repurchase of Genworth Holdings’ February 2024 senior notes.
+In the fourth quarter of 2021, Genworth Holdings repurchased $118 million principal amount of its 4.80% senior notes due in February 2024 for a pre-tax
+loss of $6 million. During the first quarter of 2022 and as of February 18, 2022, Genworth Holdings repurchased $33 million principal amount of its 4.80% senior notes due in February 2024.
+•
+Redemption and repurchase of Genworth Holdings’ September 2021 senior notes.
+On July 21, 2021, Genworth Holdings early redeemed its remaining 7.625% senior notes originally scheduled to mature in September 2021. The senior notes were fully redeemed with a cash payment of $532 million, including accrued interest and a make-whole premium. During the first half of 2021 and prior to the early redemption, Genworth Holdings repurchased $146 million principal amount of its September 2021 senior notes for a pre-tax
+loss of $4 million.
+•
+Redemption of Genworth Holdings’ February 2021 senior notes.
+On February 16, 2021, Genworth Holdings redeemed its 7.20% senior notes with a cash payment of $350 million, comprised of the outstanding principal balance and accrued interest.
+See note 12 in our consolidated financial statements under “Item 8 - Financial Statements and Supplementary Data” for additional information on our long-term borrowings.
+•
+Repayment of the AXA promissory note.
+In connection with the Genworth Australia sale, Genworth Holdings made a mandatory principal payment to AXA of approximately £176 million ($245 million) in March 2021. The mandatory payment fully repaid the first installment obligation originally due to AXA in June 2022 and partially prepaid the September 2022 installment payment. On September 21, 2021, Genworth Holdings used a portion of the net proceeds from the minority IPO of Enact Holdings to repay the remaining outstanding balance of the secured promissory note of approximately £215 million ($296 million). In addition, in February 2022, Genworth Holdings paid AXA the majority of the remaining unprocessed claims of approximately $30 million.
+See note 23 in our consolidated financial statements under “Item 8 - Financial Statements and Supplementary Data” for additional information.
+Completion of Enact Holdings IPO and Dispositions
+•
+Completion of minority IPO of Enact Holdings:
+•
+On September 20, 2021, we completed a minority IPO of Enact Holdings and received net proceeds of approximately $529 million.
+•
+Following the completion of the minority IPO, Genworth Financial beneficially owns through its subsidiaries approximately 81.6% of the common shares of Enact Holdings.
+See note 22 in our consolidated financial statements under “Item 8 - Financial Statements and Supplementary Data” for additional information.
+•
+Sale of our Australian mortgage insurance business:
+•
+On March 3, 2021, we completed the sale of our entire ownership interest of approximately 52% in Genworth Australia through an underwriting agreement.
+•
+We sold our approximately 214.3 million shares of Genworth Australia for AUD2.28 per share and received approximately AUD483 million ($370 million) in net cash proceeds.
+See note 23 in our consolidated financial statements under “Item 8 - Financial Statements and Supplementary Data” for additional information.
+Results of Operations and Selected Financial and Operating Performance Measures by Segment
+Our chief operating decision maker evaluates segment performance and allocates resources on the basis of adjusted operating income (loss).
+Management’s discussion and analysis by segment contains selected operating performance measures including “sales” and “insurance in-force”
+or “risk in-force”
+which are commonly used in the insurance industry as measures of operating performance.
+Management regularly monitors and reports sales metrics as a measure of volume of new business generated in a period. Sales refer to new insurance written for mortgage insurance products included in our Enact segment. We consider new insurance written to be a measure of our Enact segment’s operating performance because it represents a measure of new sales of insurance policies during a specified period, rather than a measure of revenues or profitability during that period.
+Management regularly monitors and reports insurance in-force
+and risk in-force
+for our Enact segment. Insurance in-force
+is a measure of the aggregate unpaid principal balance as of the respective reporting date for loans insured by our U.S. mortgage insurance subsidiaries. Risk in-force
+is based on the coverage percentage applied to the estimated current outstanding loan balance. We consider insurance in-force
+and risk in-force
+to be measures of our Enact segment’s operating performance because they represent measures of the size of its business at a specific date which will generate revenues and profits in a future period, rather than measures of its revenues or profitability during that period.
+Management regularly monitors and reports a loss ratio for our businesses. For our U.S. mortgage insurance businesses included in our Enact segment, the loss ratio is the ratio of benefits and other changes in policy reserves to net earned premiums. For our long-term care insurance business included in our U.S. Life Insurance segment, the loss ratio is the ratio of benefits and other changes in reserves less tabular interest on reserves less loss adjustment expenses to net earned premiums. We consider the loss ratio to be a measure of underwriting performance in these businesses and helps to enhance the understanding of the operating performance of our businesses.
+Management also regularly monitors and reports adjusted operating income available to Genworth Financial, Inc.’s common stockholders attributable to in-force
+rate actions in the long-term care insurance business included in our U.S. Life Insurance segment. In-force
+rate actions include premium rate increases and associated benefit reductions implemented since 2012, which are presented net of estimated premium taxes, commissions, and other expenses on an after-tax
+basis. Estimates for in-force
+rate actions reflect certain simplifying assumptions that may vary materially from actual historical results, including but not limited to, a uniform rate of coinsurance and premium taxes in addition to consistent policyholder behavior over time. Actual policyholder behavior may differ significantly from these assumptions. In addition, estimates exclude reserve updates resulting from profits followed by losses. Management considers adjusted operating income attributable to in-force
+rate actions to be a measure of its operating performance because it helps bring older generation long-term care insurance blocks closer to a break-even point over time and helps bring the loss ratios on newer long-term care insurance blocks back towards their original pricing.
+These operating performance measures enable us to compare our operating performance across periods without regard to revenues or profitability related to policies or contracts sold in prior periods or from investments or other sources.
+Enact segment
+Trends and conditions
+Results of our Enact segment are affected primarily by the following factors: competitor actions; unemployment or underemployment levels; other economic and housing market trends, including interest rates, home prices, the number of first-time homebuyers, and mortgage origination volume mix and practices; the levels and aging of mortgage delinquencies; the effect of seasonal variations; the inventory of unsold homes; loan modification and other servicing efforts; and litigation, among other items. References to “Enact” included herein “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations-Enact segment” are, unless the context otherwise requires, to our Enact segment.
+The United States economy and consumer confidence continued to improve during 2021 from the adverse economic impacts caused by COVID-19.
+The unemployment rate continued to decrease compared to the beginning of the pandemic and was 3.9% in December 2021. While this unemployment rate is slightly higher compared to the pre-pandemic
+level of 3.5% in February 2020, it is markedly lower than the peak of 14.8% in April 2020. Even after the continued recovery in 2021, the number of unemployed Americans stands at approximately six million, less than one million higher than in February 2020. Among the unemployed, those on temporary layoff continued to decrease to less than one million from a peak of 18 million in April 2020 and the number of permanent job losses decreased to approximately two million. In addition, the number of long term unemployed over 26 weeks has continued to decrease since March 2021, falling to approximately two million in December 2021.
+Mortgage origination activity remained robust, fueled by strong home sales and refinancing, and home prices continued to climb, increasing Enact’s average loan amount on new insurance written to $305,000 in 2021 from $276,000 in 2020. Interest rates remained low throughout 2021 but ended the year slightly higher than in 2020. Housing affordability declined as of November 2021 compared to November 2020 due to rising home prices, modestly offset by the low interest rate environment and an increase in median family income according to the National Association of Realtors Housing Affordability Index. Although median family income increased in 2021, it remains below a level that could afford a current median-priced home.
+In January 2022, the FHFA introduced new upfront fees charged to borrowers for some high balance and second home loans sold to Fannie Mae and Freddie Mac. Upfront fees for high balance loans will increase between 0.25% and 0.75%, tiered by loan-to-value
+ratio. For second home loans, the upfront fees will increase between 1.125% and 3.875%, also tiered by loan-to-value
+ratio. The new pricing framework will take effect April 1, 2022. Enact does not anticipate this will significantly impact the private mortgage insurance market or its results of operations, including future growth.
+The CARES Act requires mortgage servicers to provide up to 180 days of forbearance for borrowers with a federally backed mortgage loan who assert they have experienced a financial hardship related to COVID-19.
+Forbearance may be extended for an additional 180 days up to a year in total or shortened at the request of the borrower. In addition, on February 25, 2021, the FHFA announced that borrowers with a mortgage backed by the GSEs who are in an active COVID-19
+forbearance plan as of February 28, 2021 may request up to two additional forbearance extensions for a maximum of 18 months of total forbearance relief. The CARES Act also provides that furnishers of credit reporting information, including servicers, should continue to report a loan as current to credit reporting agencies if the loan is subject to a payment accommodation, such as forbearance, so long as the borrower abides by the terms of the accommodation. Servicer reported forbearance slowed meaningfully beginning in June 2020 and ended December 2021 with approximately 2% or 21,899 of Enact’s active primary policies reported in a forbearance plan, of which approximately 47% were reported as delinquent. It is difficult to predict the future level of reported forbearance and how many of the policies in a forbearance plan that remain current on their monthly mortgage payment will go delinquent.
+The foreclosure moratorium for mortgages that are purchased by the GSEs expired on July 31, 2021. However, on June 28, 2021 the CFPB issued a final rule to amend Regulation X of RESPA, which was aimed at
+assisting mortgage borrowers affected by the COVID-19
+emergency. The final rule established temporary procedural changes that require a loss mitigation review prior to a servicer’s first notice or foreclosure filing on certain mortgages. On June 29, 2021, the FHFA announced that servicers were immediately prohibited from making a first notice or foreclosure filing for mortgages backed by the GSEs before they were formally prohibited by the CFPB Regulation X Final Rule that took effect on August 31, 2021. These announcements generally prohibited servicers from starting foreclosures on mortgages purchased by the GSEs until after December 31, 2021.
+The pandemic continued to affect Enact’s financial results in 2021 but to a lesser extent than in 2020 as servicer reported forbearance remained elevated but declined compared to 2020. New delinquencies decreased during 2021 compared to 2020 and the annual 2021 new delinquency rate of 3.5% was consistent with Enact’s pre-pandemic
+levels. Despite continued economic recovery during 2021, the full impact of COVID-19
+and its adverse economic effects on Enact’s future business results are difficult to predict. Given the maximum length of forbearance plans, the resolution of a delinquency in a plan may not be known for several quarters. While Enact continues to monitor regulatory and government actions and the resolution of forbearance delinquencies, it is possible the pandemic could have a significant adverse impact on its future results of operations and financial condition.
+Market penetration and eventual market size are affected in part by actions that impact housing or housing finance policy taken by the GSEs and the U.S. government, including but not limited to, the FHA and the FHFA. In the past, these actions have included announced changes, or potential changes, to underwriting standards, including changes to the GSEs’ automated underwriting systems, FHA pricing, GSE guaranty fees, loan limits and alternative products. On December 17, 2020, the FHFA published the Enterprise Capital Framework, which includes significantly higher regulatory capital requirements for the GSEs over current requirements. However, on September 15, 2021, the FHFA announced a Notice of Proposed Rulemaking to amend the Enterprise Capital Framework, including technical corrections to provisions that were published on December 17, 2020. Higher GSE capital requirements could ultimately lead to increased costs to borrowers of GSE loans, which in turn could shift the market away from the GSEs to the FHA or lender portfolios. Such a shift could result in a smaller market for private mortgage insurance. In conjunction with preparing to release the GSEs from conservatorship, on January 14, 2021, the FHFA and the Treasury Department agreed to amend the PSPAs between the Treasury Department and each of the GSEs to increase the amount of capital each GSE may retain. Among other things, the amendments to the PSPAs limit the number of certain mortgages the GSEs may acquire with two or more prescribed risk factors, including certain mortgages with combined loan-to-value
+ratios above 90%. However, on September 14, 2021, the FHFA and Treasury Department suspended certain provisions of the amendments to the PSPAs, including the limit on the number of mortgages with two or more risk factors that the GSEs may acquire. Such suspensions terminate on the later of one year after September 14, 2021 or six months after the Treasury Department notifies the GSEs of termination. The limit on the number of mortgages with two or more risk factors was based on the market size at the time, and Enact does not expect any material impact to the private mortgage market in the near term.
+The CFPB’s QM regulations also include the QM Patch for mortgages that comply with certain prohibitions and limitations and meet the GSE underwriting and product guidelines. Mortgages that meet certain requirements are deemed to be QMs until the earlier of the time in which the GSEs exit the FHFA conservatorship or the mandatory compliance date of the final amendments to the QM Rule. On April 27, 2021, the CFPB promulgated a final rule delaying the mandatory compliance date of the amended QM Rule until October 1, 2022. As provided under the final rule, the prior 43% debt-to-income-based
+QM Rule definition, the new price-based APOR definition and the QM Patch will all remain available to lenders for loan applications received prior to October 1, 2022. However, on April 8, 2021, the GSEs issued notices stating that due to the requirements of the PSPAs they would only acquire loans that meet the new price-based APOR definition set forth under the amended QM Rule for applications received on or after July 1, 2021. Enact believes that loans which previously qualified under the 43% debt-to-income-based
+QM Rule definition and the QM Patch will continue to qualify under the new price-based APOR definition and therefore expects little impact from this change. For more information on this
+regulation, see “Item 1 - Business-Regulation-Enact-Mortgage Insurance Regulation.” For more information about the potential future impact, see “Item 1A - Risk Factors-Changes to the role of the GSEs or to the charters or business practices of the GSEs, including actions or decisions to decrease or discontinue the use of mortgage insurance, could adversely affect our business, financial condition and results of operations,” and “-Risk Factors-The amount of mortgage insurance written by Enact Holdings could decline significantly if alternatives to private mortgage insurance are used or lower coverage levels of mortgage insurance are selected.”
+New insurance written of $97.0 billion in 2021 decreased 3% compared to 2020 primarily due to a smaller estimated private mortgage insurance market. The decrease in the estimated private mortgage insurance available market was primarily driven by lower refinance originations.
+Enact’s primary persistency increased to 62% for the year ended December 31, 2021 compared to 59% for the year ended December 31, 2020 but remained below its historic levels of approximately 80%. The increase in persistency was primarily driven by a decline in the percentage of in-force
+policies with mortgage rates above current interest rates. Low persistency has impacted business performance trends in several ways including, but not limited to, offsetting insurance in-force
+growth from new insurance written, accelerating the recognition of earned premiums due to single premium policy cancellations, accelerating the amortization of existing reinsurance transactions reducing their associated PMIERs capital credit and shifting the concentration of Enact’s primary insurance in-force
+to more recent years of policy origination. As of December 31, 2021, Enact’s primary insurance in-force
+has approximately 5% concentration in 2014 and prior book years. More specifically, its 2005 through 2008 book year concentration is approximately 3%. In contrast, Enact’s 2020 book year represents 31% of its primary insurance in-force
+concentration, while its 2021 book year is 40% as of December 31, 2021.
+The U.S. private mortgage insurance industry is highly competitive. Enact Holdings’ market share is influenced by the execution of its go to market strategy, including but not limited to, pricing competitiveness relative to its peers and its selective participation in forward commitment transactions. Enact continues to manage the quality of new business through pricing and its underwriting guidelines, which are modified from time to time when circumstances warrant. The market and underwriting conditions, including the mortgage insurance pricing environment, are within Enact’s risk adjusted return appetite enabling it to write new business at returns it views as attractive.
+Net earned premiums increased in 2021 compared to 2020 primarily from insurance in-force
+growth, partially offset by the continued lapse of older higher priced policies, a decrease in single premium policy cancellations and higher ceded premiums due to a higher volume of credit risk transfer transactions in 2021. The total number of delinquent loans has declined from the COVID-19
+peak in the second quarter of 2020 but remains elevated compared to pre-COVID-19
+levels. During this time and consistent with prior years, servicers continued the practice of remitting premiums during the early stages of default. Additionally, Enact has a business practice of refunding the post-delinquent premiums to the insured party if the delinquent loan goes to claim. Enact records a liability and a reduction to net earned premiums for the post-delinquent premiums it expects to refund. The post-delinquent premium liability recorded since the beginning of COVID-19
+in the second quarter of 2020 through 2021 was not significant to the change in earned premiums for those periods as a result of the high concentration of new delinquencies being subject to a servicer reported forbearance plan and the lower estimated claim rate for these loans. As a result of COVID-19,
+certain state insurance regulators required or requested the provision of grace periods of varying lengths to insureds in the event of non-payment
+of premium. Regulators differed greatly in their approaches but generally focused on the avoidance of cancellation of coverage for non-payment.
+While most of these requirements and requests have lapsed, it is possible that some or all of them could be re-issued
+in the event of declarations of new states of emergency that might result from worsening pandemic conditions. Enact currently complies with all state regulatory requirements. If timely payment is not made, future premiums could decrease and the certificate of insurance could be subject to cancellation after 60 days or such longer time as required under applicable law.
+Enact’s loss reserves continue to be impacted by COVID-19.
+Borrowers who have experienced a financial hardship including, but not limited to, the loss of income due to the closing of a business or the loss of a job have
+taken advantage of available forbearance programs and payment deferral options. During the peak of the pandemic, Enact experienced elevated new delinquencies subject to forbearance plans which may ultimately cure at a higher rate than traditional delinquencies. Unlike a hurricane where the natural disaster occurs at a point in time and the rebuild starts soon after, COVID-19
+brought ongoing displacement to the mortgage insurance market, making it more difficult to determine the effectiveness of forbearance and the resulting claim rates for new delinquencies in forbearance plans. Given this difference, Enact initially leveraged its prior hurricane experience to estimate claim rates, and has recently added cure activity from COVID-19
+related delinquencies as an additional consideration in the establishment of an appropriate claim rate estimate for new delinquencies in forbearance plans that have emerged as a result of COVID-19.
+Approximately 42% of Enact’s primary new delinquencies in 2021 were subject to a forbearance plan as compared to 66% in 2020 and less than 5% in recent quarters prior to COVID-19.
+The severity of loss on loans that do go to claim may be negatively impacted by the extended forbearance timeline, the associated elevated expenses and the higher loan amount of the recent new delinquencies. These negative influences on loss severity could be mitigated in part by further home price appreciation. For loans insured on or after October 1, 2014, Enact’s mortgage insurance policies limit the number of months of unpaid interest and associated expenses that are included in the mortgage insurance claim amount to a maximum of 36 months.
+Enact’s loss ratio was 13% for the year ended December 31, 2021, compared to 39% for the year ended December 31, 2020. The decrease was largely from lower new delinquencies from the improving economy and net favorable reserve adjustments in 2021 compared to unfavorable reserve adjustments in 2020. New primary delinquencies were 32,624 in 2021 compared 85,074 in 2020. Enact decreased reserves by $22 million in 2021 primarily related to positive frequency and severity development on pre-COVID-19
+delinquencies. In 2020, Enact strengthened existing reserves by $65 million primarily driven by the deterioration of early cure emergence patterns impacting claim frequency along with a modest increase in claim severity. In determining the loss expense estimate during 2021, considerations were given to forbearance and non-forbearance
+delinquencies, recent cure and claim experience and the ongoing economic impact due to the pandemic.
+GMICO’s risk-to-capital
+ratio under the current regulatory framework as established under North Carolina law and enforced by the NCDOI, GMICO’s domestic insurance regulator, was approximately 12.3:1 as of December 31, 2021 and 2020. GMICO’s risk-to-capital
+ratio remains below the NCDOI’s maximum risk-to-capital
+ratio of 25:1. North Carolina’s calculation of risk-to-capital
+excludes the risk in-force
+for delinquent loans given the established loss reserves against all delinquencies. GMICO’s ongoing risk-to-capital
+ratio will depend principally on the magnitude of future losses incurred by GMICO, the effectiveness of ongoing loss mitigation activities, new business volume and profitability, the amount of policy lapses and the amount of additional capital that is generated or distributed by the business or capital support provided.
+Under PMIERs, Enact is subject to operational and financial requirements that private mortgage insurers must meet in order to remain eligible to insure loans that are purchased by the GSEs. During 2020, the GSEs issued several amendments to PMIERs. The December 4, 2020 version extended the application of reduced PMIERs capital factors to each non-performing
+loan that had an initial missed monthly payment occurring on or after March 1, 2020 and prior to April 1, 2021 and extended the capital preservation period from March 31, 2021 to June 30, 2021. On June 30, 2021, the GSEs issued a revised and restated version of the PMIERs Amendment that replaced the version issued on December 4, 2020. The June 30, 2021 version allows loans that enter a forbearance plan due to a COVID-19
+hardship on or after April 1, 2021 to remain eligible for extended application of the reduced PMIERs capital factor for as long as the loan remains in forbearance. The June 30, 2021 version also extended the capital preservation period through December 31, 2021 with certain exceptions.
+In addition, in September 2020, certain GSE Restrictions were imposed with respect to capital on Enact, which will remain in effect until the collective GSE Conditions are met. For additional details related to PMIERs, the PMIERs Amendment and the GSE Conditions and Restrictions, see “Item 1 - Regulation-Enact-Mortgage Insurance Regulation-Other U.S. Regulation and Agency Qualification Requirements.”
+As of December 31, 2021, Enact had estimated available assets of $5,077 million against $3,074 million net required assets under PMIERs compared to available assets of $5,126 million against $2,839 million net required assets as of September 30, 2021 and available assets of $4,588 million against $3,359 million net required assets as of December 31, 2020. The sufficiency ratio as of December 31, 2021 was 165% or $2,003 million above the published PMIERs requirements, compared to 181% or $2,287 million above the published PMIERs requirements as of September 30, 2021 and 137% or $1,229 million above the published PMIERs requirements as of December 31, 2020. PMIERs sufficiency is based on the published requirements applicable to private mortgage insurers and does not give effect to the GSE Restrictions imposed on Enact. The decrease in the PMIERs sufficiency compared to September 30, 2021 was primarily driven by a $200 million dividend paid in the fourth quarter of 2021, new insurance written and amortization of existing reinsurance transactions, partially offset by elevated lapse driven by prevailing low interest rates, business cash flows and lower delinquencies. Enact’s PMIERs required assets as of December 31, 2021, September 30, 2021 and December 31, 2020 benefited from the application of a 0.30 multiplier applied to the risk-based required asset amount factor for certain non-performing
+loans. The application of the 0.30 multiplier to all eligible delinquencies provided $390 million of benefit to Enact’s December 31, 2021 PMIERs required assets compared to $570 million and $1,046 million of benefit as of September 30, 2021 and December 31, 2020, respectively. These amounts are gross of any incremental reinsurance benefit from the elimination of the 0.30 multiplier.
+In January 2022, Enact executed an excess of loss reinsurance transaction with a panel of reinsurers, which will provide approximately $294 million of reinsurance coverage on a portion of current and expected new insurance written for the 2022 book year. Credit risk transfer transactions provided an aggregate of approximately $1,404 million of PMIERs capital credit as of December 31, 2021. Enact may execute future credit risk transfer transactions to maintain a prudent level of financial flexibility in excess of the PMIERs capital requirements in response to potential changes in performance and PMIERs requirements over time.
+Enact Holdings paid dividends of $200 million in December 2021, $163 million of which was paid to Genworth Holdings and the remainder to minority shareholders. Enact Holdings is currently in the process of evaluating its capital return objectives for 2022. Although not yet established, Enact Holdings intends to develop a formal dividend policy and initiate a regular common dividend during 2022. In addition to a regular common dividend, Enact Holdings will also evaluate the potential for an incremental return of capital, contingent upon economic and business performance, including the resolution of forbearance related delinquencies, among other considerations. Any future dividends will also be subject to market conditions, business and regulatory approvals and will include a proportionate dividend distribution to minority shareholders.
+Segment results of operations
+The following table sets forth the results of operations relating to our Enact segment for the periods indicated:
+(1)
+We define “NM” as not meaningful for increases or decreases greater than 200%.
+2021 compared to 2020
+Adjusted operating income available to Genworth Financial, Inc.’s common stockholders
+Adjusted operating income increased primarily attributable to lower losses mainly from lower new delinquencies and net favorable reserve adjustments of $17 million in 2021 compared to unfavorable reserve adjustments of $51 million in 2020, partially offset by higher interest expense associated with Enact Holdings’ senior notes issued in August 2020, an increase in operating costs and the minority IPO of Enact Holdings that closed in September 2021, which reduced Genworth Financial’s ownership percentage to 81.6% and resulted in lower net income of $33 million in 2021.
+Revenues
+Premiums increased mainly attributable to higher insurance in-force,
+partially offset by continued lapse of older higher priced policies due to the current low interest rate environment, lower single premium policy cancellations and higher ceded premiums in 2021.
+Net investment income increased primarily due to higher average invested assets and higher income from bond calls, partially offset by lower investment yields in 2021.
+Benefits and expenses
+Benefits and other changes in policy reserves decreased largely from lower new delinquencies and net favorable reserve adjustments in 2021 compared to unfavorable reserve adjustments in 2020. Losses from new delinquencies decreased $164 million compared to 2020 driven primarily by a significant increase in borrower forbearance in 2020 as a result of COVID-19
+that occurred to a lesser extent in 2021 as the economy began to improve. Enact decreased reserves by $22 million in 2021 primarily related to positive frequency and severity development on pre-COVID-19
+delinquencies. In 2020, Enact strengthened existing reserves by $65 million primarily driven by the deterioration of early cure emergence patterns impacting claim frequency along with a modest increase in claim severity.
+Acquisition and operating expenses, net of deferrals, increased primarily attributable to higher operating costs, expenses associated with strategic transaction preparations and restructuring costs in 2021.
+Amortization of deferred acquisition costs and intangibles decreased primarily due to accelerated DAC amortization of $6 million in 2020 driven by elevated lapses.
+Interest expense increased related to Enact Holdings’ senior notes issued in August 2020.
+Provision for income taxes.
+The effective tax rate was 21.3% and 21.2% for the years ended December 31, 2021 and 2020, respectively, consistent with the U.S. corporate federal income tax rate.
+Net income from continuing operations attributable to noncontrolling interests.
+The increase relates to the minority IPO of Enact Holdings on September 16, 2021, which reduced Genworth Financial’s ownership percentage to 81.6%, resulting in lower net income of $33 million in 2021.
+Enact selected operating performance measures
+The following table sets forth selected operating performance measures regarding Enact as of or for the dates indicated:
+(1)
+Primary insurance in-force
+represents the aggregate unpaid principal balance for loans Enact insures. Original loan balances are primarily used to determine premiums.
+2021 compared to 2020
+Primary insurance in-force
+and risk in-force
+Primary insurance in-force
+increased largely from new insurance written, partially offset by lapses and cancellations as Enact continues to experience persistency below its historic norms. Primary persistency was 62% and 59% for the years ended December 31, 2021 and 2020, respectively. Total risk in-force
+increased largely from higher primary insurance in-force.
+New insurance written
+New insurance written decreased principally due to a smaller private mortgage insurance available market in 2021.
+Loss and expense ratios
+The following table sets forth the loss and expense ratios for Enact for the dates indicated:
+The loss ratio is the ratio of benefits and other changes in policy reserves to net earned premiums. The expense ratio is the ratio of general expenses to net earned premiums. In Enact, general expenses consist of acquisition and operating expenses, net of deferrals, and amortization of DAC and intangibles.
+2021 compared to 2020
+The loss ratio decreased largely from lower new delinquencies and net favorable reserve adjustments in 2021 compared to unfavorable reserve adjustments in 2020. Losses from new delinquencies decreased $164 million compared to 2020 driven primarily by a significant increase in borrower forbearance in 2020 as a result of COVID-19
+that occurred to a lesser extent in 2021 as the economy began to improve. Enact decreased reserves by $22 million in 2021 primarily related to positive frequency and severity development on pre-COVID-19
+delinquencies. In 2020, Enact strengthened existing reserves by $65 million primarily driven by the deterioration of early cure emergence patterns impacting claim frequency along with a modest increase in claim severity.
+The expense ratio increased mainly driven by higher operating costs, expenses associated with strategic transaction preparations and restructuring costs, partially offset by lower DAC amortization in 2021.
+Mortgage insurance loan portfolio
+The following table sets forth selected financial information regarding Enact’s loan portfolio as of December 31:
+(1)
+Loans with unknown FICO scores are included in the 660-679
+category.
+The FICO credit score is one indicator of a borrower’s credit quality. Enact continues to underwrite predominantly prime loan new business. Based upon FICO at loan closing, the weighted average FICO score of Enact’s primary risk in-force
+was 741 as of December 31, 2021.
+Delinquent loans and claims
+Enact’s delinquency management process begins with notification by the loan servicer of a delinquency on an insured loan. “Delinquency” is defined in Enact’s master policies as the borrower’s failure to pay when due an amount equal to the scheduled monthly mortgage payment under the terms of the mortgage. Generally, the master policies require an insured to notify Enact of a delinquency if the borrower fails to make two consecutive monthly mortgage payments prior to the due date of the next mortgage payment. Enact generally considers a loan to be delinquent and establishes required reserves after the insured gives notification that the borrower has failed to make two scheduled mortgage payments. Borrowers default for a variety of reasons, including a reduction of income, unemployment, divorce, illness/death, inability to manage credit, falling home prices and interest rate levels. Borrowers may cure delinquencies by making all of the delinquent loan payments, agreeing to a loan modification, or by selling the property in full satisfaction of all amounts due under the mortgage. In most cases, delinquencies that are not cured result in a claim under Enact’s policy. The following table sets forth the number of loans insured, the number of delinquent loans and the delinquency rate for Enact’s loan portfolio as of December 31:
+The delinquency rate as of December 31, 2021 decreased compared to December 31, 2020 primarily from a decline in total delinquencies as the economy continues to recover from COVID-19
+and as cures outpaced new delinquencies. The delinquency rate increased compared to December 31, 2019 primarily as a result of the rise in unemployment and the increase in borrower forbearance driven by COVID-19.
+The following tables set forth primary delinquencies, direct primary case reserves and risk in-force
+by aged missed payment status in Enact’s loan portfolio as of December 31:
+(1)
+Direct primary case reserves exclude loss adjustment expenses, pool, IBNR and reinsurance reserves.
+The total increase in reserves as a percentage of risk in-force
+as of December 31, 2021 was primarily driven by higher reserves in relation to a decrease in delinquent risk in-force.
+Delinquent risk in-force
+decreased mainly from lower total delinquencies as cures outpaced new delinquencies in 2021, while reserves increased primarily from new delinquencies, partially offset by net favorable reserve adjustments related to positive frequency and severity development on pre-COVID-19
+delinquencies in 2021.
+As of December 31, 2021, Enact has experienced an increase in loans that are delinquent for 12 months or more due in large part to borrowers entering a forbearance plan over a year ago driven by COVID-19.
+The current reserve estimate assumes that remaining delinquencies will have a higher likelihood of going to claim given foreclosure moratoriums and the uncertainty around the lack of progression through the foreclosure process. Forbearance plans may be extended up to 18 months, therefore, it is possible Enact could experience elevated delinquencies in this aged category during 2022. Resolution of a delinquency in a forbearance plan, whether it ultimately results in a cure or a claim, is difficult to estimate and may not be known for several quarters, if not longer.
+Primary insurance delinquency rates differ from region to region in the United States at any one time depending upon economic conditions and cyclical growth patterns. The tables below set forth the dispersion of direct primary case reserves and primary delinquency rates for the 10 largest states and the 10 largest Metropolitan Statistical Areas (“MSA”) or Metro Divisions (“MD”) by Enact’s risk in-force
+as of the dates indicated. Delinquency rates are shown by region based upon the location of the underlying property, rather than the location of the lender.
+(1)
+Direct primary case reserves exclude loss adjustment expenses, pool, IBNR and reinsurance reserves.
+(2)
+Jurisdiction predominantly uses a judicial foreclosure process, which generally increases the amount of time it takes for a foreclosure to be completed.
+(1)
+Direct primary case reserves exclude loss adjustment expenses, pool, IBNR and reinsurance reserves.
+The frequency of delinquencies may not correlate directly with the number of claims received because delinquencies may cure. The rate at which delinquencies cure is influenced by borrowers’ financial resources and circumstances and regional economic differences. Whether a delinquency leads to a claim correlates highly with the borrower’s equity at the time of delinquency, as it influences the borrower’s willingness to continue to make payments, and the borrower’s or the insured’s ability to sell the home for an amount sufficient to satisfy all amounts due under the mortgage loan, as well as the borrower’s financial ability to continue making payments. When Enact receives notice of a delinquency, it uses its proprietary model to determine whether a delinquent loan is a candidate for a modification. When the model identifies such a candidate, Enact’s loan workout specialists prioritize cases for loss mitigation based upon the likelihood that the loan will result in a claim. Loss mitigation actions include loan modification, extension of credit to bring a loan current, foreclosure forbearance, pre-foreclosure
+sale and deed-in-lieu.
+These loss mitigation efforts often are an effective way to reduce Enact’s claim exposure and ultimate payouts.
+The following table sets forth the dispersion of Enact’s direct primary case reserves and primary insurance in-force
+and risk in-force
+by year of policy origination, weighted average mortgage interest rate and delinquency rate as of December 31, 2021:
+(1)
+Average annual mortgage interest rate weighted by insurance in-force.
+(2)
+Direct primary case reserves exclude loss adjustment expenses, pool, IBNR and reinsurance reserves.
+For policy years after 2008, the average annual mortgage interest rate has been consistently below 5%, with its lowest point at 3.08% for policy year 2021. Loss reserves in policy years 2005 through 2008 are outsized compared to their representation of risk in-force.
+The size of these policy years at origination combined with the significant decline in home prices led to significant losses in policy years prior to 2009. Although uncertainty remains with respect to the ultimate losses Enact will experience on these policy years, they have become a smaller percentage of its total mortgage insurance portfolio. The largest portion of loss reserves has shifted to newer book years as a result of COVID-19
+given their significant representation of risk in-force.
+As of December 31, 2021, Enact’s 2014 and newer policy years represented approximately 96% of primary risk in-force
+and 74% of total direct primary case reserves.
+The ratio of the claim paid to the current risk in-force
+for a loan is referred to as “claim severity.” The current risk in-force
+is equal to the unpaid principal amount multiplied by the coverage percentage. The main determinants of claim severity are the age of the mortgage loan, the value of the underlying property, accrued interest on the loan, expenses advanced by the insured and foreclosure expenses. These amounts depend partly upon the time required to complete foreclosure, which varies depending upon state laws. Pre-foreclosure
+sales, acquisitions and other early workout and claim administration actions help to reduce overall claim severity. Enact’s average primary mortgage insurance claim severity was 103%, 106% and 112% for the years ended December 31, 2021, 2020 and 2019, respectively. The average claim severities do not include the effects of agreements on non-performing
+loans.
+U.S. Life Insurance segment
+COVID-19
+The most significant impact in our U.S. life insurance businesses from COVID-19
+in 2021 and 2020 was related to continued elevated mortality. Our long-term care insurance operating results were favorably impacted by higher mortality in 2021 and 2020. Conversely, higher mortality rates had unfavorable impacts in our life insurance products and we have observed minimal impact from COVID-19
+in our fixed annuity products. Our products were also negatively impacted by the continued low interest rate environment, particularly as it related to loss recognition testing and asset adequacy analysis in 2021 and 2020.
+In our long-term care insurance products, we have experienced higher mortality during COVID-19
+which has had a favorable impact on claim reserves and our operating results. Although it is not our practice to track cause of death for policyholders and claimants, we believe the favorable results of our long-term care insurance business in 2021 and 2020 were likely impacted by COVID-19,
+but we expect the impacts to be temporary. We believe COVID-19
+has accelerated mortality on our most vulnerable claimants, which may reduce mortality rates in future periods as the impacts of the pandemic subside. Therefore, in the fourth quarter of 2020 and the first quarter of 2021, we strengthened our claim reserves to adjust the mortality assumption by $91 million and $67 million, respectively, to account for the lower future claim termination rates expected on remaining claims. However, during the second quarter of 2021, we experienced lower mortality as the impacts of COVID-19
+lessened and we did not establish any additional claim reserves but reduced a portion of the COVID-19
+mortality adjustment. As of December 31, 2021, the balance of our incremental claim reserves associated with COVID-19
+mortality was $134 million. As COVID-19
+continues to develop, short-term mortality experience may fluctuate, and we would decrease the COVID-19
+mortality adjustment if we experience lower mortality.
+We have also experienced lower new claims incidence in our long-term care insurance business during COVID-19;
+however, we do not expect this to be permanent but rather a temporary reduction while shelter-in-place
+and social distancing protocols are in effect and that claims incidence experience will ultimately resemble previous trends. As a result, we have strengthened our IBNR claim reserves during COVID-19
+by $75 million through December 31, 2021. New claims incidence remains below pre-pandemic
+levels and near-term incidence may continue to be impacted by COVID-19.
+We continue to utilize virtual assessments to assess eligibility for benefits while in-person
+assessments have been temporarily discontinued during COVID-19.
+We
+are reviewing the options to resume in-person
+assessments, with appropriate protocols in place, while having virtual assessments available for those policyholders who would prefer this option. For claimants without the technology to perform virtual assessments, we have alternate options for gathering information. Our long-term care insurance benefit utilization will be monitored for impact, although it is too early to tell the magnitude and/or direction of that impact.
+Additionally, our U.S. life insurance companies are dependent on the approval of actuarially justified in-force
+rate actions in our long-term care insurance business, including those rate actions which were previously filed and are currently pending review and approval. We have experienced some delays and could experience additional delays in receiving approvals of these rate actions during COVID-19;
+however, these delays did not have a significant impact on our financial results in 2021 or during 2020.
+We have continued to provide customer service to our policyholders during this uncertain time and are available to address questions or concerns regarding their policies. We are continually assessing our operational processes and monitoring potential impacts to morbidity due to COVID-19.
+We continue to actively monitor cash and highly liquid investment positions in each of our U.S. life insurance companies against operating targets that are designed to ensure that we will have the cash necessary to meet our obligations as they come due. The targets are set based on stress scenarios that have the effect of increasing our expected cash outflows and decreasing our expected cash inflows. Liquidity risk is assessed by comparing subsidiary cash to potential cash needs under a stressed liquidity scenario. The stressed scenario reflects potential policyholder surrenders, variability of normal operating cash flow and potential increases in collateral requirements under our cleared derivative program.
+While the ongoing impact of COVID-19
+is very difficult to predict, the related outcomes and impact on the U.S. life insurance business will depend on the length and severity of the pandemic and shape of the economic recovery. Further declines in interest rates as well as equity market volatility as a result of COVID-19
+would increase reserves and capital requirements in our U.S. life insurance business. For sensitivities related to interest rates, lapses and mortality on our U.S. life insurance products, see “- Critical Accounting Estimates.” We will continue to monitor COVID-19
+impacts and evaluate all of our assumptions that may need updating as a result of longer-term trends related to the pandemic. See “Item 1A - Risk Factors-COVID-19
+could materially adversely affect our financial condition and results of operations.”
+Trends and conditions
+Results of our U.S. life insurance businesses depend significantly upon the extent to which our actual future experience is consistent with assumptions and methodologies we have used in calculating our reserves. Many factors can affect the results of our U.S. life insurance businesses. Because these factors are not known in advance, change over time, are difficult to accurately predict and are inherently uncertain, we cannot determine with precision the ultimate amounts we will pay for actual claims or the timing of those payments. We will continue to monitor our experience and assumptions closely and make changes to our assumptions and methodologies, as appropriate, for our U.S. life insurance products. Even small changes in assumptions or small deviations of actual experience from assumptions can have, and in the past have had, material impacts on our DAC amortization, reserve levels, results of operations and financial condition.
+Our liability for policy and contract claims is reviewed quarterly and we completed a detailed review of our claim reserve assumptions and methodologies for our long-term care insurance business in the fourth quarter of 2021 as discussed further below. In the fourth quarter of 2021, we performed assumption reviews for our U.S. life insurance products, including our long-term care and life insurance products, and completed our loss recognition testing as discussed below. For our 2021 assumption updates, we are generally not including data from 2020 in setting any long-term assumptions, as we do not yet have sufficient information around longer term effects of the pandemic. Our review of assumptions, as part of our testing in the fourth quarter of 2021, included
+expected claim incidence and terminations, benefit utilization trend, mortality, persistency, interest rates and in-force
+rate actions, among other assumptions. In addition, we performed cash flow testing separately for each of our U.S. life insurance companies on a statutory accounting basis in the fourth quarter of 2021.
+Our U.S. life insurance subsidiaries are subject to the NAIC’s RBC standards and other minimum statutory capital and surplus requirements. The RBC of each of our U.S. life insurance subsidiaries exceeded the level of RBC that would require any of them to take or become subject to any corrective action in their respective domiciliary state as of December 31, 2021. The consolidated RBC ratio of our U.S. domiciled life insurance subsidiaries was approximately 289% and 229% as of December 31, 2021 and 2020, respectively. The increase was largely driven by higher statutory earnings in our long-term care insurance business mainly driven by claim experience, premium rate increases and benefit reductions, including policyholder benefit reduction elections made as part of a legal settlement, as well as in our variable annuity products from favorable interest rates and equity markets.
+We continue to face challenges in our principal life insurance subsidiaries, particularly those subsidiaries that rely heavily on long-term care insurance in-force
+rate actions as a source of earnings and capital. We may see variability in statutory results and a decline in the RBC ratios of these subsidiaries given the time lag between the approval of in-force
+rate actions versus when the benefits from the in-force
+rate actions (including increased premiums and associated benefit reductions) are fully realized in our financial results. Additionally, the RBC ratio of our U.S. life insurance subsidiaries would be negatively impacted by future increases in our statutory reserves, including results of Actuarial Guideline 38, cash flow testing and assumption reviews, particularly in our long-term care insurance business. Future declines in the RBC ratio of our life insurance subsidiaries could result in heightened supervision and regulatory action.
+Results of our U.S. life insurance businesses are also impacted by interest rates. Low interest rates put pressure on the profitability and returns of these businesses as higher yielding investments mature and are replaced with lower-yielding investments. We seek to manage the impact of low interest rates through asset-liability management, investment in alternative assets, including limited partnerships, as well as interest rate hedging strategies for a portion of our long-term care insurance product cash flows. Additionally, certain products have implicit and explicit rate guarantees or optionality that are significantly impacted by changes in interest rates. For a further discussion of the impact of interest rates on our U.S. life insurance businesses, see “

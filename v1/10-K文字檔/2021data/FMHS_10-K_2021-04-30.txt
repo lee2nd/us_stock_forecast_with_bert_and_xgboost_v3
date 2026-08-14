@@ -1,0 +1,82 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is designed to provide a reader of the financial statements with a narrative report on our financial condition, results of operations, and liquidity. We use United States GAAP financial measures in the MD&A, unless otherwise noted. All the GAAP financial measures used by us in this report relate to the inclusion of financial information. This MD&A should be read in conjunction with the audited Financial Statements and notes thereto for the year ended December 31, 2020 and 2019 included under Item 8 in this Report. The MD&A contains forward-looking statements that involve risks and uncertainties, such as statements of our plans, objectives, expectations, and intentions. Our actual results could differ materially from those discussed in the forward-looking statements. See the cautionary language at the beginning of this Report regarding forward-looking statements.
+Potential Impact of COVID-19
+In March 2020, the World Health Organization declared the outbreak of COVID-19 as a pandemic based on the rapid increase in global exposure. COVID-19 continues to spread throughout the world, including the United States. Our business operations, which commenced during this pandemic, continue to be operational and, to date, we have not seen any significant direct negative impact of COVID-19 to our newly commenced business. However, the COVID-19 pandemic continues to impact economic conditions, which could impact the short-term and long-term demand from our customers and, therefore, has the potential to negatively impact our results of operations, cash flows, and financial position in the future. Management is actively monitoring this situation and any impact on our financial condition, liquidity, and results of operations. However, we are not presently able to estimate the effects of the COVID-19 pandemic on our future results of operations, financial condition, or liquidity for the remainder of fiscal year 2021 and beyond.
+Liquidity and Capital Resources
+For the years ended December 31, 2020 and 2019, we generated revenues of $16,691 and $41,344, respectively, and we reported net losses of $1,045,479 and $563,072, respectively. We had negative cash flow from operating activities of $101,554 and $387,734, respectively. As of December 31, 2020, we had an accumulated deficit of $4,326,338 and a shareholders’ deficit of $1,135,712.
+Our auditors have raised substantial doubt regarding our ability to continue as a going concern as a result of our historical recurring losses and negative cash flows from operations as well as our dependence on private equity and financings. We anticipate that we will continue to report losses and negative cash flow. To date, we have financed our activities principally from the sale of common stock and loans from Company officers. We intend on financing our future working capital needs from these sources until such time that funds provided by our operations are sufficient to fund our working capital requirements. We believe that the current cash on hand, loans from Company officers and funds raised from the sale of our common stock allows us sufficient capital for operations and to continue as a going concern.
+In April 2021, we authorized an offering of up to 1,000,000 shares of common stock at $0.51 per share, providing proceeds of up to $510,000. This offering will be sold only to investors that qualify as “accredited investors,” as that term is defined in Regulation D, and terminates on June 30, 2021. A total of 46,020 shares of common stock have been sold under the Offering for proceeds of $25,000 as of the date of this Report. There is no assurance that we can raise money under this offering, but management believes the full proceeds of this offering will provide sufficient cash for 12 months’ operating expenses.
+Results of Operations
+Year Ended December 31, 2020, compared to the year ended December 31, 2019
+For the years ended December 31, 2020 and 2019, we generated revenues of $16,691 and $41,344, respectively, a decrease of $24,653. We generate five types of revenue, which generally
+consist of fees from subscriptions, affiliate advertising, event sales, referrals and consulting. Our revenues for the years ended December 31, 2020 and 2019 were as follows:
+December 31,
+Subscription fees
+$
+-
+$
+-
+Affiliate advertising
+2,671
+-
+Event Sales
+2,020
+-
+Referral fees
+11,250
+41,344
+Consulting and other
+-
+$
+16,691
+$
+41,344
+We generated revenues across most categories for the year ended December 31, 2020 versus all of our revenues from referrals for the year ended December 31, 2019. The negative impact of COVID-19 resulted in a significant decrease in our referral revenues, as we were able to hold one @420 virtual event this year with a limited number of company presenters. We expect to be able to resume our @420 networking events in person in the third quarter of 2021. In addition, in March 2021, we were able to secure a merchant account which will allow us to resume charging subscription fees for The WeedClub Platform® premium memberships.
+For the years ended December 31, 2020 and 2019, general and administrative expenses were $370,908 and $372,019, respectively, a slight overall decrease of approximately $1,100. For the year ended December 31, 2020, labor related expenses, including payroll and consulting, increased by approximately $12,700 and public company related expenses, including OTC listing and SEC filing fees, increased by approximately $10,500. These increases were offset by a decrease of approximately $24,300 in overall general and administrative expenses, including travel and entertainment.
+For the years ended December 31, 2020 and 2019, professional fees were $197,559 and $217,931, respectively, a decrease of approximately $20,400. Our professional fees the years ended December 31, 2020 and 2019 were comprised of the following:
+December 31,
+Legal
+$
+56,855
+$
+151,446
+Accounting and audit
+102,594
+57,050
+Other
+38,110
+9,435
+$
+197,559
+$
+217,931
+For the years ended December 31, 2020, legal expenses decreased by approximately $94,600 due to engaging a new “contingency-based” law firm in February 2020 to continue to pursue the litigation against LAFI. Reference is made to Note 9, Litigation, to the Consolidated Financial Statements included under Item 8 in this Report. Accounting and audit expenses increased by
+approximately $45,600 for the year ended December 31, 2020, which included increases in fees to our outside bookkeeping services by approximately $7,600, our independent public accounting firm by approximately $2,000, and our contracted CFO, Kevin Asher by approximately $36,000. Other professional fees increased by approximately $28,700 for the year ended December 31, 2020, comprised entirely of fees to our contracted software engineers and developers on The WeedClub Platform®.
+In accordance with generally accepted accounting principles related to Intangible Assets, we determined that the fair market value of our intangible assets to be zero as of December 31, 2020. Accordingly, we incurred a loss on impairment of intangible assets of $455,000 for the year ended December 31, 2020. Reference is made to Note 5, Intangible Assets, to the Consolidated Financial Statements included under Item 8 in this Report.
+Other (income) and expenses for the years ended December 31, 2020 and 2019 were as follows:
+December 31,
+Gain on extinguishment
+$
+(26,492)
+$
+(1,872)
+Interest expense
+63,280
+13,999
+$
+36,788
+$
+12,127
+For the years ended December 31, 2020, we were able to write-off several old accounts payable liabilities from 2018, which resulted in gain on extinguishment of approximately $26,500.
+For the year ended December 31, 2020, interest expense increased by approximately $49,300 compared to the year ended December 31, 2019. The increase in interest expense was entirely due to interest expense accrued on our unpaid liability to our predecessor law firm in the aforementioned litigation. This law firm resigned in April 2020 when we engaged a new “contingency-based” law firm and started accruing interest expense on their unpaid amount. The entire liability, plus accrued interest, is recorded as accrued legal fees on the accompanying balance sheet as of December 31, 2020.
+Overall, for the year ended December 31, 2020, we reported a net loss of $1,045,479 compared to a net loss of $563,072 for the year ended December 31, 2019. Without considering the $455,000 loss on impairment of our intangible assets, our comparative net loss for the year ended December 31, 2020 was $590,479, an overall increase of approximately $27,400 over the year ended December 31, 2019.
+Contractual Obligations
+We qualify as a smaller reporting company, as defined by Item 10 of Regulation S-K and, thus, are not required to provide the information required by this Item.
+Off Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources that is material to investors.
+Cash and Cash Equivalents
+We consider all highly liquid investments with an original maturity of three months or less when purchased to be cash equivalents. Cash and cash equivalents were $3,906 and $7,313 as of December 31, 2020 and 2019, respectively.
+Critical Accounting Policies and Estimates
+Reference is made to Note 2, Summary of Significant Accounting Policies, to the Consolidated Financial Statements included under Item 8 in this Report.
+Recently Adopted Accounting Pronouncements
+Reference is made to Note 2, Summary of Significant Accounting Policies, to the Consolidated Financial Statements included under Item 8 in this Report.

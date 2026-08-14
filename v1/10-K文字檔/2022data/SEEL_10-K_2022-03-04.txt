@@ -1,0 +1,249 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Overview
+We are a clinical-stage biopharmaceutical company focused on achieving efficient development of products that address significant unmet needs in Central Nervous System (“CNS”) disorders and other rare disorders.
+Impact of COVID-19
+In March 2020, we began taking precautionary measures to protect the health and safety of our employees and contractors and further assessing the actual and potential impact of the coronavirus (“COVID-19”) pandemic on our business, financial condition and operations. COVID-19 infections have been reported throughout the United States, along with other jurisdictions in which our suppliers, partners and collaborators operate. In addition, COVID-19 has caused disruption and volatility in the global capital markets, and has led to an economic slowdown. Certain national, provincial, state and local governmental authorities have issued proclamations and/or directives aimed at minimizing the spread of COVID-19 and additional, more restrictive proclamations and/or directives may be issued in the future. Before the COVID-19 outbreak, most of our employees worked remotely. Up until the fourth quarter of 2021, we had not experienced any significant delays with our past or ongoing clinical trials for SLS-002, nor our start up activities for clinical trials for SLS-005. During the fourth quarter of 2021 and through the issuance of this report, we have experienced a slowdown in patient enrollment primarily due to staffing issues at our study sites related to the spike in COVID-19 cases due to the Omicron variant. Additionally, the pandemic has not materially affected our liquidity as we maintain our resources in the form of cash.
+In addition, although we do not currently expect the preventative measures taken to date to have a material adverse impact on our business for the first quarter of 2022, the continued impact of the COVID-19 pandemic on our business, financial condition and results of operations is unknown and will depend on future developments and risks, which are highly uncertain and cannot be predicted. These developments and risks include, among others, the duration and severity of the COVID-19 pandemic, the emergence or spread of new COVID-19 variants, the impact on the capital markets, the impact on our partners and the regulatory agencies that oversee our sector and any additional preventative and protective actions that governmental authorities, or we, may implement, any of which may result in an extended period of business disruption, including potential delays in commencing future clinical trials, or in completing enrollment for any clinical trials we may commence or in the FDA or other regulatory agencies conducting in-person inspections or accommodations for alternatives to in-person inspections. Any resulting financial impact cannot be reasonably estimated at this time, but the COVID-19 pandemic may force us to make adjustments to our business, our plans and our timeline for developing assets, including our programs. In addition, the pandemic is currently not anticipated to have a material adverse impact on our business, financial condition and results of operations, including our ability to raise additional capital, although, if the pandemic continues at its current rate into the middle of 2022, it could have a material adverse impact on our business. See Part I, Item 1A, Risk Factors, for an additional discussion of risks related to COVID-19.
+On January 24, 2019, our company (which was formerly named “Apricus Biosciences, Inc.”), completed a business combination with Seelos Therapeutics, Inc., a Delaware corporation (“STI”), in accordance with the terms of the Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) entered into on July 30, 2018. Pursuant to the Merger Agreement, (i) a former subsidiary of ours merged with and into STI, with STI (renamed “Seelos Corporation”) continuing as a wholly-owned subsidiary of ours and the surviving corporation of the merger and (ii) our company was renamed “Seelos Therapeutics, Inc.” (the “Merger”).
+Our business model is to advance multiple late-stage therapeutic candidates with proven mechanisms of action that address large markets with unmet medical needs and for which there is a strong economic and scientific rationale for development.
+Our product development pipeline is as follows:
+Product
+Indication
+Development Phase
+Development Status
+SLS-002
+Intranasal Racemic Ketamine
+Acute Suicidal Ideation and Behavior (ASIB) in Major Depressive Disorder (MDD)
+Phase II
+Completed open-label patient enrollment and announced the initial topline data from Part 1 of the proof-of-concept study on May 17, 2021 and initiated enrollment of Part 2 of a registration directed study
+SLS-005
+IV Trehalose
+Amyotrophic Lateral Sclerosis (ALS)
+Phase II/III
+Startup activities completed; on February 28, 2022, we announced dosing of the first participants in the registrational study
+Spinocerebellar Ataxia (SCA)
+Phase IIb/III
+Startup activities initiated
+Sanfilippo Syndrome
+Phase II
+Obtaining natural history data
+SLS-004
+Parkinson's Disease (PD)
+Pre-IND
+Preclinical studies ongoing
+Gene Therapy
+SLS-006
+Parkinson's Disease (PD)
+Phase II/III
+Considering studies to advance into late stage trials
+Partial Dopamine Agonist
+SLS-007
+Parkinson's Disease (PD)
+Pre-IND
+Preclinical study ongoing
+Peptide Inhibitor
+Lead Programs
+Our lead programs are currently SLS-002 for the potential treatment of Acute Suicidal Ideation and Behavior (“ASIB”) in patients with Major Depressive Disorder (“MDD”) and SLS-005 for the potential treatment of Amyotrophic Lateral Sclerosis (“ALS”) and Spinocerebellar Ataxia (“SCA”). SLS-005 for the potential treatment of Sanfilippo Syndrome currently requires additional natural history data, which is being considered.
+SLS-002 is intranasal racemic ketamine with two investigational new drug applications (“INDs”). The lead program is focused on the treatment of ASIB in MDD. SLS-002 was originally derived from a Javelin Pharmaceuticals, Inc./Hospira, Inc. program with 16 clinical studies involving approximately 500 subjects. SLS-002 addresses an unmet need for an efficacious drug to treat suicidality in the United States. Traditionally, anti-depressants have been used in this setting but many of the existing treatments are known to contribute to an increased risk of suicidal thoughts in some circumstances, and if and when they are effective, it often takes weeks for the full therapeutic effect to be manifested. We believe there is a large opportunity in the United States and European markets for products in this space. Based on information gathered from the databases of the Agency for Healthcare Research and Quality, there were approximately 1,000,000 visits to emergency rooms for suicide attempts in 2013 in the United States alone. Experimental studies suggest ketamine has the potential to be a rapid, effective treatment for refractory depression and suicidality.
+The clinical development program for SLS-002 includes two parallel healthy volunteer studies (Phase I). We announced interim data from our Phase I study of SLS-002 during the quarterly period ended March 31, 2020. As a result, in March 2020, we completed a Type C meeting with the U.S. Food and Drug Administration (“FDA”) and received guidance to conduct a Phase II proof of concept (“PoC”) study of SLS-002 for ASIB in patients with MDD, to support the further clinical development of this product candidate, together with nonclinical data under development.
+As a result of the Type C meeting and the Fast Track designation for SLS-002 for the treatment of ASIB in patients with MDD, we believe we are well positioned to pursue the FDA's expedited programs for drug development and review.
+On June 23, 2020, we announced the final safety data from our Phase I pharmacokinetics/pharmacodynamics study of intranasal racemic ketamine (SLS-002) as well as the planned design of a Phase II double blind, placebo-controlled PoC study for ASIB in subjects with MDD. We initiated this PoC study in two parts: Part 1 was an open-label study of 17 subjects, and is being followed by Part 2, which is a double blind, placebo-controlled study of approximately 120 subjects. On January 15, 2021, we announced dosing of the first subjects in Part 1 of the PoC study. On March 5, 2021, we announced the completion of open-label enrollment of subjects in Part 1 of the PoC study. On May 17, 2021, we announced positive topline data from Part 1 of the POC study, the open-label cohort, of our study of SLS-002 (intranasal racemic ketamine), demonstrating a significant treatment effect and a well-tolerated safety profile for ASIB in patients with MDD. This study enrolled 17 subjects diagnosed with MDD requiring psychiatric hospitalization due to significant risk of suicide with a baseline score of ≥ 28 points on the Montgomery-Åsberg Depression Rating Scale ("MADRS"), a score of 5 or 6 on MADRS Item-10, a score of ≥ 15 points on the Sheehan-Suicidality Tracking Scale (S-STS) total score and a history of previous suicide attempt(s), as confirmed on the Columbia Suicide Severity Rating Scale (C-SSRS) with a history of at least one actual attempt, or if the attempt was interrupted or aborted, is judged to have been serious in intent. SLS-002 demonstrated a 76.5% response rate (response meaning 50% reduction from baseline) in the primary endpoint on MADRS twenty-four hours after first dose, with a mean reduction in total score from 39.4 to 14.5 points.
+On July 6, 2021, we announced dosing of the first subject in Part 2 of the planned registration directed study. Based on feedback from a Type C meeting with the FDA in June 2021, we are planning to increase the subjects in Part 2 to increase the sample size and power to support a potential marketing application.
+SLS-005 is IV trehalose, a protein stabilizer that crosses the blood-brain-barrier and activates autophagy and the lysosomal pathway. Based on preclinical and in vitro studies, there is a sound scientific rationale for developing trehalose for the treatment of ALS, SCA and other indications such as Sanfilippo Syndrome. Trehalose is a low molecular weight disaccharide (0.342 kDa) that protects against pathological processes in cells. It has been shown to penetrate muscle and cross the blood-brain-barrier. In animal models of several diseases associated with abnormal cellular protein aggregation, it has been shown to reduce pathological aggregation of misfolded proteins as well as to activate autophagy pathways through the activation of Transcription Factor EB ("TFEB"), a key factor in lysosomal and autophagy gene expression. Activation of TFEB is an emerging therapeutic target for a number of diseases with pathologic accumulation of storage material.
+Trehalose 90.5 mg/mL IV solution has demonstrated promising clinical potential in prior Phase II clinical development for oculopharyngeal muscular dystrophy ("OPMD") and spinocerebellar ataxia type 3 ("SCA3"), also known as Machado Joseph disease, with no significant safety signals to date and encouraging efficacy results. Pathological accumulation of protein aggregates within cells, whether in the CNS or in muscle, eventually leads to loss of function and ultimately cell death. Prior preclinical studies indicate that this platform has the potential to prevent mutant protein aggregation in other devastating PolyA/PolyQ diseases.
+We own three United States patents for parenteral administration of trehalose for patients with OPMD and SCA3, all of which are expected to expire in 2034. In addition, Orphan Drug Designation ("ODD") for OPMD and SCA3 has been secured in the United States and in the European Union ("EU"). In February 2019, we assumed a collaborative agreement, turned subsequently into a research grant, with Team Sanfilippo Foundation (“TSF”), a nonprofit medical research foundation founded by parents of children with Sanfilippo Syndrome. On April 30, 2020, we were granted ODD for SLS-005 in Sanfilippo Syndrome from the FDA. SLS-005 was previously granted ODD from the FDA and European Medicines Agency for SCA3 and OPMD as well as Fast Track designation for OPMD. On August 25, 2020, we were issued U.S. patent number 10,751,353 titled "COMPOSITIONS AND METHODS FOR TREATING AN AGGREGATION DISEASE OR DISORDER" which relates to trehalose (SLS-005). The issued patent covers the method of use for trehalose (SLS-005) formulation for treating a disease or disorder selected from any one of the following: spinal and bulbar muscular atrophy, dentatombral-pallidoluysian atrophy, Pick's disease, corticobasal degeneration, progressive supranuclear palsy, frontotemporal dementia or parkinsonism linked to chromosome 17. On May 15, 2020, we were granted Rare Pediatric Disease Designation ("RPDD") for SLS-005 in Sanfilippo Syndrome from the FDA. RPDD is an incentive program created under the Federal Food, Drug, and Cosmetic Act to encourage the development of new therapies for the prevention and treatment of certain rare pediatric diseases. On May 27, 2021, we announced that we were granted ODD for SLS-005 in ALS from the European Medicines Agency. In December 2020, we announced the selection of SLS-005 for the Healey ALS platform trial led by Harvard Medical School, Massachusetts. The Healey ALS platform trial is designed to study multiple potential treatments for ALS simultaneously. The platform trial model aims to greatly accelerate the study access, reduce costs and shorten development timelines. On February 28, 2022, we announced the dosing of the first participants in the Healey ALS platform trial. In November 2021, we announced the FDA acceptance of an IND and grant of Fast Track designation for SLS-005 for the treatment of SCA. We have begun the start up activities for a Phase IIb/III study for SCA.
+Additionally, we are developing several preclinical programs, most of which have well-defined mechanisms of action, including SLS-004, licensed from Duke University, and SLS-007, licensed from The Regents of the University of California, for the potential treatment of Parkinson’s Disease (“PD”), SLS-008, targeted at chronic inflammation in asthma, atopic dermatitis and orphan indications such as pediatric esophagitis, SLS-010 in narcolepsy and related disorders and SLS-012, an injectable therapy for post-operative pain management.
+Strategy and Ongoing Programs
+SLS-002: The clinical development program for SLS-002 includes two parallel healthy volunteer studies (Phase I). Following these Phase I studies, we completed a Type C meeting with the FDA in March 2020 and received guidance to conduct a Phase II PoC study of SLS-002 for ASIB in subjects with MDD. We released topline data for Part 1 of our open-label study on May 17, 2021. We initiated enrollment in Part 2 of the registration directed study on July 6, 2021.
+SLS-005 is undergoing startup activities for clinical studies in ALS and SCA. In December 2020, we announced the selection of SLS-005 for the Healey ALS platform trial led by Harvard Medical School, Massachusetts. The Healey ALS platform trial is designed to study multiple potential treatments for ALS simultaneously. The platform trial model aims to greatly accelerate the study access, reduce costs, and shorten development timelines. On February 28, 2022, we announced dosing of the first participants in the Healey ALS platform trial. In November 2021, we announced the FDA acceptance of an IND and grant of Fast Track designation for SLS-005 for the treatment of SCA. We have begun the start up activities for a Phase IIb/III study for SCA. We are continuing to consider trials in Sanfilippo Syndrome and are seeking more natural history data based on the guidance from regulatory agencies.
+SLS-004 is an all-in-one lentiviral vector, targeted for gene editing through DNA methylation within intron 1 of the synuclein alpha ("SNCA") gene responsible for expressing alpha-synuclein protein. SLS-004, when delivered to dopaminergic neurons derived from human induced pluripotent stem cells of a PD patient, modified the expression on alpha-synuclein ("α-synuclein") and exhibited reversal of the disease-related cellular-phenotype characteristics of the neurons. The role of mutated SNCA in PD pathogenesis and the need to maintain the normal physiological levels of α-synuclein protein emphasize the yet unmet need to develop new therapeutic strategies, such as SLS-004, targeting the regulatory mechanism of α-synuclein expression. On May 28, 2020, we announced the initiation of a preclinical study of SLS-004 in PD through an all-in-one lentiviral vector targeting the SNCA gene. We are constructing a bimodular viral system harboring an endogenous α-synuclein transgene and inducible regulated repressive CRISPR/Cas9-unit to achieve constitutive activation and inducible suppression of PD-related pathologies. On July 7, 2021, we announced positive in vivo data demonstrating down-regulation of SNCA mRNA and protein expression under this study.
+SLS-006 is a true partial dopamine agonist, originally developed by Wyeth Pharmaceuticals, Inc., with previous clinical studies on 340 subjects in various Phase I and Phase II studies. It is a potent D2/D3 agonist/antagonist that has shown promising efficacy with statistical significance in Phase II studies in early-stage PD patients and an attractive safety profile. Moreover, it has also shown synergistic effect with reduced doses of L-DOPA. We are considering studies to advance the product candidate into late-stage trials.
+SLS-007 is a rationally designed peptide-based approach, targeting the nonamyloid component core ("NACore") of α-synuclein to inhibit the protein from aggregation. Recent in vitro and cell culture research has shown that SLS-007 has the ability to stop the propagation and seeding of α-synuclein aggregates. We will evaluate the potential for in vivo delivery of SLS-007 in a PD transgenic mice model. The goal will be to establish in vivo pharmacokinetics/pharmacodynamics and target engagement parameters of SLS-007, a family of anti-α-synuclein peptidic inhibitors. On June 25, 2020, we announced the initiation of a preclinical study of SLS-007 in PD delivered through an adeno associated viral ("AAV") vector targeting the non-amyloid component core of α-synuclein. We have initiated an in vivo preclinical study of SLS-007 in rodents to assess the ability of two specific novel peptides, S62 and S71, delivered via AAV1/2 viral vector, to protect dopaminergic function in the preformed α-synuclein fibril rodent model of PD. Production of AAV1/2 vectors encoding each of the two novel peptides incorporating hemagglutinin tags has already been completed. This preclinical study is designed to establish the in vivo pharmacokinetic and pharmacodynamic profiles and target engagement parameters of SLS-007.
+We intend to become a leading biopharmaceutical company focused on neurological and psychiatric disorders, including orphan indications. Our business strategy includes:
+· advancing SLS-002 in ASIB in MDD and post-traumatic stress disorder;
+· advancing SLS-004 in PD;
+· advancing SLS-005 in ALS, SCA and Sanfilippo Syndrome;
+· advancing SLS-007 in PD as a monotherapy; and
+· acquiring synergistic assets in the CNS therapy space through licensing and partnerships.
+We also have two legacy product candidates: a product candidate in the United States for the treatment of erectile dysfunction, which we in-licensed from Warner Chilcott Company, Inc., now a subsidiary of Allergan plc; and a product candidate which has completed a Phase IIa clinical trial for the treatment of Raynaud’s Phenomenon, secondary to scleroderma, for which we own worldwide rights.
+Results of Operations
+Operating Expense
+Operating expense for the years ended December 31, 2021 and 2020 was as follows (in thousands, except percentages):
+Year Ended December 31,
+Year Ended December 31,
+2021 vs 2020
+$ Change
+% Change
+Operating expense
+Research and development
+$ 46,649
+$ 10,984
+$ 35,665
+325%
+General and administrative
+15,020
+7,775
+7,245
+93%
+Total operating expense
+$ 61,669
+$ 18,759
+$ 42,910
+229%
+Research and Development Expenses
+Research and development (“R&D”) costs are expensed as they are incurred and include the cost of compensation and related expenses, as well as expenses for third parties who conduct R&D on our behalf. The $35.7 million increase in R&D expense during the year ended December 31, 2021, as compared to the same period in 2020, is detailed as follows (in thousands, except percentages):
+Year Ended December 31,
+Year Ended December 31,
+2021 vs 2020
+$ Change
+% Change
+Research and development expenses
+License payments
+$ 18,140
+$
+$ 17,947
+n/a
+Clinical trial expenses
+17,382
+4,868
+12,514
+257%
+Manufacturing expenses
+5,592
+1,792
+3,800
+212%
+Employee compensation
+3,370
+1,828
+1,542
+84%
+Contract consulting expenses
+1,454
+1,837
+(383)
+-21%
+Other research and development expenses
+53%
+Total research and development expenses
+$ 46,649
+$ 10,984
+$ 35,665
+325%
+The $35.7 million increase in R&D expense during the year ended December 31, 2021, as compared to the same period in 2020, resulted primarily from an increase in license fees of approximately $17.9 million, clinical trial costs of approximately $12.5 million, and manufacturing costs to support increased clinical activity of $3.8 million. These increases were partially offset by a decrease in external consulting costs of approximately $0.4 million.
+General and Administrative Expenses
+General and administrative (“G&A”) costs include expenses for personnel, finance, legal, business development and investor relations. G&A expenses increased by $7.2 million during the year ended December 31, 2021, as compared to the same period in 2020. This increase was primarily due to non-cash stock-based compensation of approximately $6.0 million, of which $4.9 million relates to vesting of a performance stock unit award in the fourth quarter of 2021, and additional costs including, but not limited to, legal fees costs of approximately $0.5 million during the year ended December 31, 2021. This increase was partially offset by decreases in investor relations costs during the year ended December 31, 2021 of $0.1 million.
+Other Income and Expense
+Other income and expense for the years ended December 31, 2021 and 2020 was as follows (in thousands):
+Year Ended December 31,
+$ Change
+Other income (expense)
+Interest income
+$
+$
+$
+Interest expense
+(1,598)
+(164)
+(1,434)
+Change in fair value of derivative liability
+(369)
+-
+(369)
+Change in fair value of convertible notes
+-
+Net loss on extinguishment of debt
+(2,387)
+-
+(2,387)
+Gain on forgiveness of debt
+-
+Change in fair value of warrant liabilities
+(517)
+(223)
+(294)
+Total other income (expense)
+$ (4,379)
+$ (342)
+$ (4,037)
+Interest Income
+Interest income was $113,000 and $45,000 for the years ended December 31, 2021 and 2020, respectively. The increase in interest income was primarily related to higher average cash balances during the year ended December 31, 2021 compared to the year ended December 31, 2020.
+Interest Expense
+Interest expense was $1.6 million and $0.2 million for the years ended December 31, 2021 and 2020, respectively. The increase was due to the issuance of convertible notes in December 2020.
+Change in Fair Value of Derivative Liability
+Change in fair value of derivative liability was $0.4 million for the years ended December 31, 2021. This change is due to the revaluation of the embedded derivative resulting from our license agreement with iX Biopharma Europe Ltd., which is required to be revalued at each reporting period, with changes in fair value reflected in earnings.
+Change in Fair Value of Convertible Notes
+Change in fair value of convertible notes was $0.2 million and $0 for the years ended December 31, 2021 and 2020, respectively. This change is due to our 2021 convertible notes issued in November 2021 and December 2021, which have been accounted for under the fair value option and are revalued at each reporting period, with changes in fair value reflected in earnings.
+Net Loss on Extinguishment of Debt
+Net loss on extinguishment of debt was $2.4 million and $0 for the years ended December 31, 2021 and 2020, respectively. This loss was primarily due to the termination agreement with Lind Global Asset Management II, LLC (“Lind”), whereby we issued Lind 406,250 shares with a fair value of $1.4 million, as well as losses on extinguishments recognized on other principal payments on our 2020 convertible notes during the period.
+Gain on Forgiveness of Debt
+Gain on forgiveness of debt was $149,000 and $0 for the years ended December 31, 2021 and 2020, respectively. This gain was due to the forgiveness of our outstanding PPP loan, which we received in June 2021.
+Change in Fair Value of Warrant Liability
+The fair value of warrant liability was $0.4 million and $1.0 million at December 31, 2021 and 2020, respectively. The change in fair value of warrant liabilities of $0.5 million during the year ended December 31, 2021 is due to revaluation of the Series A warrants during such period. The change in fair value of warrant liabilities of $0.2 million during the year ended December 31, 2020 was due to revaluation of the Series A and Series B warrants during such period.
+Liquidity, Capital Resources and Financial Condition
+We have generated limited revenues, incurred operating losses since inception, and we expect to continue to incur significant operating losses for the foreseeable future and may never become profitable. As of December 31, 2021, we had $78.7 million in cash and an accumulated deficit of $141.2 million. We have historically funded our operations through the issuance of convertible notes (the “Notes”) (see Note 9 to our consolidated financial statements), the sale of common stock (see Note 6 to our consolidated financial statements) and the exercise of warrants (see Note 10 to our consolidated financial statements).
+On November 23, 2021, we entered into a Securities Purchase Agreement (the “Securities Purchase Agreement”) with Lind Global Asset Management V, LLC (“Lind V”) pursuant to which, among other things, on November 23, 2021 (the “Closing Date”), we issued and sold to Lind V, in a private placement transaction (the “Private Placement”), in exchange for the payment by Lind V of $20.0 million, (1) a convertible promissory note (the “2021 Note”) in an aggregate principal amount of $22.0 million (the “Principal Amount”), which will bear no interest until the first anniversary of the issuance of the First Note and will thereafter bear interest at a rate of 5% per annum, and mature on November 23, 2024 (the “Maturity Date”), and (2) 534,759 shares (the “2021 Closing Shares”) of our common stock.
+At the first anniversary of the Closing Date, we shall have the option, at our sole discretion, to issue to Lind V a convertible promissory note (the “Second Note”) in the principal amount of $11.0 million in exchange for the payment by Lind V of $10.0 million. At the earlier of (i) the two-year anniversary of the Closing Date, or (ii) the successful readout for SLS-005 in ALS, and subject to the mutual agreement of us and Lind V, we shall issue to Lind V a convertible promissory note (the “Third Note”) in the principal amount of $11.0 million in exchange for the payment by Lind V of $10.0 million. In the event of the filing of a new drug application with the U.S. Food & Drug Administration for either SLS-002 or SLS-005, and subject to the mutual agreement of us and Lind V, we shall issue to Lind a convertible promissory note (the “Fourth Note”) in the principal amount of $11.0 million in exchange for the payment by Lind V of $10.0 million. The Second Note, the Third Note and the Fourth Note, if issued, would be in substantially the same form as the 2021 Note. See Note 9 to our consolidated financial statements for further discussion.
+On December 2, 2021, we entered into two separate securities purchase agreements with certain accredited investors on substantially the same terms as the Securities Purchase Agreement, pursuant to which we sold, in private placement transactions, in exchange for the payment by the accredited investors of an aggregate of $201,534, (i) convertible promissory notes (the “December 2021 Notes”) in an aggregate principal amount of $221,688, which will bear no interest and mature on December 2, 2024, and (ii) an aggregate of 5,388 shares of our common stock. These notes have substantially the same terms as the 2021 Note.
+On May 24, 2021, we completed an underwritten public offering pursuant to which we sold 22,258,066 shares of our common stock at a price to the public of $3.10 per share, which included the exercise in full by the underwriter of its option to purchase up to 2,903,226 additional shares of common stock. The net proceeds to us from the offering were $64.5 million, after deducting underwriting discounts and commissions and other estimated offering expenses payable by us (see Note 6 to our consolidated financial statements). We used $7.3 million of the net proceeds from the offering for the partial repayment of the Notes (as defined below).
+On January 28, 2021, we completed an underwritten public offering pursuant to which we sold 17,530,488 shares of our common stock at a price to the public of $2.05 per share, which included the exercise in full by the underwriter of its option to purchase up to 2,286,585 additional shares of common stock. The net proceeds to us from the offering were approximately $33.5 million, after deducting underwriting discounts and commissions and other estimated offering expenses payable by us. We used $3.8 million of the net proceeds from the offering for the partial repayment of the Notes.
+On December 11, 2020, we entered into a Securities Purchase Agreement (the “Lind Securities Purchase Agreement”) with Lind Global Asset Management II, LLC (the "Investor") pursuant to which, among other things, on December 11, 2020, we issued and sold to the Investor, in a private placement transaction, in exchange for the payment by the Investor of $10,000,000, (1) a convertible promissory note (the "2020 Note") in an aggregate principal amount of $12,000,000 (the "Principal Amount"), which did not bear interest and was to mature on December 11, 2022 (the "Maturity Date"), and (2) 975,000 shares (the "2020 Closing Shares") of our common stock. At any time following June 11, 2021, and from time to time before the Maturity Date, the Investor had the option to convert any portion of the then-outstanding Principal Amount of the 2020 Note into shares of common stock at a price per share of $1.60, subject to adjustment for stock splits, reverse stock splits, stock dividends and similar transactions (the "Conversion Price"). Prior to June 11, 2021, we had the right to prepay up to sixty-six and two-thirds percent (662/3%) of the then-outstanding Principal Amount of the 2020 Note with no penalty. Subject to certain exceptions, we were required to direct proceeds from any subsequent debt financings (including subordinated debt, convertible debt or mandatorily redeemable preferred stock but other than purchase money debt or capital lease obligations or other indebtedness incurred in the ordinary course of business) to repay the 2020 Note, unless waived by the Investor in advance. The 2020 Note began amortizing in June 2021 and was to amortize in eighteen monthly installments equal to the quotient of (i) the then-outstanding Principal Amount of the 2020 Note, divided by (ii) the number of months remaining until the Maturity Date. All amortization payments were to be payable solely in cash, plus a 2% premium. On June 14, 2021, we and the Investor entered into an Acknowledgment and Termination Agreement, pursuant to which we agreed to issue to the Investor an aggregate of 406,250 additional shares of our common stock (the “Lind Shares”) and to pay the Investor the remaining principal amount of $790,804 (the “Final Payment”) in full satisfaction of our remaining obligations to the Investor under the 2020 Note. We issued the Lind Shares and made the Final Payment to the Investor, and the Lind Securities Purchase Agreement and the 2020 Note terminated, effective June 15, 2021.
+On December 17, 2020, we entered into three separate securities purchase agreements with certain accredited investors on substantially the same terms as the Lind Securities Purchase Agreement (the "December 17 SPAs"), pursuant to which we sold, in private placement transactions, in exchange for the payment by the accredited investors of an aggregate of $1,138,023, (1) convertible promissory notes (the "December 17 Notes") in an aggregate principal amount of $1,365,628, which did not bear interest and was to mature on December 17, 2022, and (2) an aggregate of 110,956 shares of our common stock. On December 18, 2020, we entered into an additional securities purchase agreement with an accredited investor on substantially the same terms as the Lind Securities Purchase Agreement (the "December 18 SPA" and, together with the December 17 SPAs, the "Subsequent Securities Purchase Agreements"), pursuant to which we sold, in a private placement transaction, in exchange for the payment by the accredited investor of $269,373, (1) a convertible promissory note (the "December 18 Note" and, together with the December 17 Notes, the "Subsequent Notes," and, together with the Note, the "Notes") in an aggregate principal amount of $323,247, which did not bear interest and was to mature on December 18, 2022, and (2) 26,263 shares of our common stock. The Subsequent Securities Purchase Agreements were entered into with certain accredited investors pursuant to the right to participate in future offerings provided to the accredited investors in connection with the registered direct offering we completed in September 2020. The Subsequent Securities Purchase Agreements had substantially the same terms as the Lind Securities Purchase Agreement, and the Subsequent Notes had substantially the same terms as the Note. In connection with the Subsequent Securities Purchase Agreements, we repaid $1.4 million of principal amount of the Note on January 8, 2021. On July 7, 2021, we and the holder of the December 18 Note (the “December 18 Note Holder”) entered into an Acknowledgement and Termination Agreement, pursuant to which: (i) the December 18 Note Holder agreed to return to us $42,777 in cash (the “Repayment”) previously paid by us to the December 18 Note Holder as a payment against our obligations under the December 18 Note, and (ii) we agreed to issue to the December 18 Note Holder an aggregate of 43,664 additional shares of our common stock (the “December 18 Note Shares”) in full satisfaction of our remaining obligations to the December 18 Note Holder under the December 18 Note. The December 18 Note Holder paid us the Repayment and we issued the December Note Shares, and the December 18 SPA and the December 18 Note terminated, effective July 7, 2021.
+On September 4, 2020, we entered into a Securities Purchase Agreement with certain institutional investors (the “September 2020 Securities Purchase Agreement”), pursuant to which we issued and sold an aggregate of 8,865,000 shares of common stock in a registered direct offering, resulting in total gross proceeds of approximately $6.4 million, after deducting the placement agent's fees and offering expenses (see Note 6 to our consolidated financial statements). We also agreed to issue to the investors unregistered warrants to purchase up to 6,648,750 shares of common stock in a concurrent private placement (the “September 2020 Warrants”). The September 2020 Warrants have an exercise price of $0.84 per share of common stock, will be exercisable six months from the date of issuance and will expire on March 9, 2026. The combined purchase price for one share and one warrant to purchase half of a share of common stock in the offerings was $0.79.
+On May 4, 2020, we qualified for and received a loan pursuant to the Paycheck Protection Program, a program implemented by the U.S. Small Business Administration under the Coronavirus Aid, Relief, and Economic Security Act, from a qualified lender (the "PPP Lender"), for an aggregate principal amount of approximately $147,000 (the "PPP Loan"). The PPP Loan bore interest at a fixed rate of 1.0% per annum, with the first six months of interest deferred, had a term of two years and was unsecured and guaranteed by the U.S. Small Business Administration. The principal amount of the PPP Loan was subject to forgiveness under the Paycheck Protection Program upon our request to the extent that the PPP Loan proceeds are used to pay expenses permitted by the Paycheck Protection Program, including payroll costs, covered rent and mortgage obligations and covered utility payments incurred by us. We applied for and received full forgiveness of the PPP Loan with respect to those covered expenses and recorded a gain on forgiveness of debt during the year ended December 31, 2021.
+On March 16, 2020, we completed an underwritten public offering pursuant to which we sold 7,500,000 shares of our common stock at a price to the public of $0.60 per share. The net proceeds to us from this offering were approximately $4.0 million, after deducting underwriting discounts and commissions and other offering expenses payable by us.
+On February 13, 2020, we completed an underwritten public offering, pursuant to which we sold 6,666,667 shares of our common stock at a price to the public of $0.75 per share. On February 19, 2020, we sold an additional 999,999 shares of our common stock at a price to the public of $0.75 per share pursuant to the full exercise of the underwriters’ option to cover over-allotments. The net proceeds to us from this offering were approximately $5.0 million, after deducting underwriting discounts and commissions and other offering expenses payable by us.
+During the years ended December 31, 2021 and 2020, we received approximately $7.3 million and $45 thousand, respectively, in proceeds from the exercise of warrants to purchase approximately 7.4 million and 154 thousand shares of our common stock, respectively.
+We expect to use the net proceeds from the above transactions primarily for general corporate purposes, which may include financing our normal business operations, developing new or existing product candidates, and funding capital expenditures, acquisitions and investments. In addition, pursuant to the amended and restated license agreement with Stuart Weg, M.D., we made an additional cash payment of $0.2 million to Stuart Weg in January 2022. We believe that in order for us to meet our obligations arising from normal business operations for the next twelve months, we will require additional capital in the form of equity, debt or both. Without additional capital, our ability to continue to operate will be limited. Our accompanying audited consolidated financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should we not be able to continue as a going concern.
+We currently have an effective shelf registration statement on Form S-3 filed with the SEC. We may use the shelf registration statement on Form S-3 to offer from time to time any combination of debt securities, common and preferred stock and warrants, and, as of the date hereof, a total of $95.1 million of securities remains available for issuance pursuant to the shelf registration statement.
+The accompanying audited consolidated financial statements have been prepared assuming we will continue to operate as a going concern, which contemplates the realization of assets and settlement of liabilities in the normal course of business, and do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classifications of liabilities that may result from uncertainty related to our ability to continue as a going concern.
+Our future liquidity and capital funding requirements will depend on numerous factors, including:
+• our ability to raise additional funds to finance our operations;
+• our ability to maintain compliance with the listing requirements of The Nasdaq Capital Market;
+• the outcome, costs and timing of any clinical trial results for our current or future product candidates;
+• potential litigation expenses;
+• the emergence and effect of competing or complementary products or product candidates;
+• our ability to maintain, expand and defend the scope of our intellectual property portfolio, including the amount and timing of any payments we may be required to make, or that we may receive, in connection with the licensing, filing, prosecution, defense and enforcement of any patents or other intellectual property rights;
+• our ability to retain our current employees and the need and ability to hire additional management and scientific and medical personnel;
+• the terms and timing of any collaborative, licensing or other arrangements that we have or may establish;
+• the trading price of our common stock;
+• our ability to secure a development partner for our product candidate in the United States for the treatment of ED; and
+• our ability to increase the number of authorized shares outstanding to facilitate future financing events.
+We may need to raise substantial additional funds, and if we do so, we may do so through one or more of the following: issuance of additional debt, equity, or both and/or the completion of a licensing or other commercial transaction for one or more of our product candidates. If we are unable to maintain sufficient financial resources, our business, financial condition and results of operations will be materially and adversely affected. This could adversely affect future development and business activities, operations and business plans, such as future clinical studies and/or other future ventures. There can be no assurance that we will be able to obtain the needed financing on acceptable terms or at all. Additionally, equity or convertible debt financings may have a dilutive effect on the holdings of our existing stockholders. No assurances can be given that we will be able to obtain additional financing.
+Cash Flow Summary
+The following table summarizes selected items in our consolidated statements of cash flows (in thousands):
+Year ended December 31,
+Net cash (used in) provided by operations
+Net cash used in operating activities
+$ (48,995)
+$ (20,913)
+Net cash provided by financing activities
+112,067
+26,314
+Net increase (decrease) in cash
+$ 63,072
+$ 5,401
+Operating Activities
+Cash used in operating activities of $49.0 million in the year ended December 31, 2021 was primarily due to the net loss of $66.0 million and changes in operating assets and liabilities of $1.4 million, which was partially offset by $8.3 million in stock compensation expense and $5.6 million in non-cash research and development expense of licenses acquired.
+Cash used in operating activities of $20.9 million in the year ended December 31, 2020 was primarily due to the net loss of $19.1 million and changes in operating assets and liabilities of $4.5 million, which was partially offset by $2.0 million in stock compensation expense.
+Investing Activities
+No cash was used in investing activities during the years ended December 31, 2021 or 2020.
+Financing Activities
+Cash provided by financing activities of $112.1 million in the year ended December 31, 2021 was primarily due to the proceeds from our May 2021 and January 2021 public offerings, as well as proceeds from the issuance and sale of the 2021 Note and the 2021 Closing Shares.
+Cash provided by financing activities of $26.3 million in the year ended December 31, 2020 was primarily due to the proceeds from the exercise of warrants, the proceeds from the issuance and sale of the 2020 Note and the 2020 Closing Shares, the issuance and sale of common stock pursuant to the September 2020 Securities Purchase Agreement, the PPP Loan, and proceeds from our February 2020 and March 2020 public offerings.
+Contractual Obligations
+We have entered into long-term agreements with certain manufacturers and suppliers that require us to make contractual payment to these organizations. Further, we have entered into certain material contracts with contract research organizations for our SLS-002, SLS-005, and other clinical programs, which include varying cancellation fees in the event we delay or cancel our studies with them. We expect to enter into additional collaborative research, contract research, manufacturing, and supplier agreements in the future, which may require up-front payments and long-term commitments of cash.
+Recent Accounting Pronouncements
+See Note 1 to our consolidated financial statements for a discussion of recent accounting pronouncements and their effect, if any, on us.
+Critical Accounting Estimates and Policies
+The preparation of financial statements in accordance with United States generally accepted accounting principles (“GAAP”) requires management to make estimates and assumptions that affect the amounts reported in our consolidated financial statements and accompanying notes. Management bases its estimates on historical experience, market and other conditions, and various other assumptions it believes to be reasonable. Although these estimates are based on management’s best knowledge of current events and actions that may impact us in the future, the estimation process is, by its nature, uncertain given that estimates depend on events over which we may not have control. If market and other conditions change from those that we anticipate, our consolidated financial statements may be materially affected. In addition, if our assumptions change, we may need to revise our estimates, or take other corrective actions, either of which may also have a material effect in our consolidated financial statements. We review our estimates, judgments, and assumptions used in our accounting practices periodically and reflect the effects of revisions in the period in which they are deemed to be necessary. We believe that these estimates are reasonable; however, our actual results may differ from these estimates.
+We believe that the following critical accounting policies and estimates have a higher degree of inherent uncertainty and require our most significant judgments:
+Accrual of Research and Development Expenses
+Research and development costs are expensed as incurred and include salaries and benefits; costs paid to third-party contractors to perform research, conduct clinical trials, develop and manufacture pre-approval drug materials and delivery devices. Clinical trial costs are a significant component of research and development expenses and include costs associated with third-party contractors. Invoicing from third-party contractors for services performed can lag several months. We accrue the costs of services rendered in connection with third-party contractor activities based on our estimate of management fees, site management and monitoring costs and data management costs. Differences between actual clinical trial costs from estimated clinical trial costs have not been material and are adjusted for in the period in which they become known.
+Stock Based Compensation
+Stock based compensation expense includes charges related to options awards to employees and directors. The estimated grant date fair value of stock options granted to employees and directors is calculated based upon the closing stock price of our common stock on the date of the grant and recognized as stock-based compensation expense over the expected service period, which is typically approximated by the vesting period.
+We estimate the fair value of each option award on the date of grant using the Black-Scholes option pricing model. The Black-Scholes option pricing model requires us to estimate our dividend yield rate, expected volatility and risk-free interest rate over the life of the option. The use of estimates on these factors may cause the fair value of the option to be under or overestimated (see Note 11 to our consolidated financial statements for the current estimates used in the Black-Scholes option pricing model).
+Valuation of Warrant Liability
+Our outstanding Series A Warrants are classified as liabilities in the accompanying consolidated balance sheets as they contain provisions that are considered outside of our control, such as requiring us to maintain active registration of the shares underlying such warrants. The warrants were recorded at fair value using the Black-Scholes option pricing model. The fair value of these warrants is re-measured at each financial reporting period with any changes in fair value being recognized as a component of other income (expense) in the accompanying consolidated statements of operations.
+Valuation of Convertible Notes
+Our outstanding Note and December 2021 Notes are accounted for under the fair value option in the accompanying consolidated balance sheets, as permitted under Accounting Standards Codification Topic 825, Financial Instruments. The convertible notes were recorded at fair value using a Monte-Carlo simulation model. The convertible notes are re-measured at each financial reporting period with any changes in fair value being recognized as a component of other income (expense) in the accompanying consolidated statements of operations.

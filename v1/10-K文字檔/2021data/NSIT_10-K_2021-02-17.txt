@@ -1,0 +1,323 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of our operations should be read in conjunction with the Consolidated Financial Statements and notes thereto included in Part II, Item 8 of this report. Our actual results could differ materially from those contained in forward-looking statements due to a number of factors, including those discussed in “Risk Factors” in Part I, Item 1A and elsewhere in this report.
+Overview
+Today, every business is a technology business. We empower organizations of all sizes with Intelligent Technology SolutionsTM and services to maximize the business value of information technology (“IT”) in North America; Europe, the Middle East and Africa (“EMEA”); and Asia-Pacific (“APAC”). As a Fortune 500-ranked global provider of digital innovation, cloud/data center transformation, connected workforce solutions, together with our supply chain optimization expertise, we help clients innovate and optimize their operations to run smarter. Our offerings in North America and certain countries in EMEA and APAC include hardware, software and services. Our offerings in the remainder of our EMEA and APAC segments are largely software and certain software-related services.
+Full year 2020 financial and operational highlights included the following:
+•
+We generated growth in earnings from operations on a consolidated basis in each of our reporting segments.
+•
+We grew our services net sales by 17% on a consolidated basis with growth in each of our reporting segments.
+•
+We generated cash flows from operations of $355.6 million.
+•
+The Company completed the integration of the PCM business, including onboarding PCM clients to its systems. The Company has aligned its go-to-market structure in North America and EMEA and believes it is well positioned to compete as a single brand in the marketplace. The Company also began to realize some benefits of its real estate consolidation efforts.
+On a consolidated basis, for the year ended December 31, 2020:
+•
+Net sales of $8.3 billion increased 8% compared to 2019.
+•
+Gross profit of $1.3 billion increased 14% compared to 2019, also up 14% year over year excluding the effects of fluctuating foreign currency exchange rates.
+•
+Consolidated gross margin improved approximately 90 basis points to 15.6% of net sales in 2020. This increase reflects growth in services net sales.
+•
+Earnings from operations increased to $271.6 million in 2020, up 13% compared to the prior year, which represented 3.3% of net sales.
+•
+Our effective tax rate in 2020 was 24.4%, which compares to our effective tax rate of 24.7% in 2019.
+•
+Net earnings and diluted net earnings per share were $172.6 million and $4.87, respectively, in 2020. In 2019, we reported net earnings of $159.4 million and diluted net earnings per share of $4.43.
+The results of operations for 2020 include the following items:
+•
+the results of the acquisition of PCM for the full year in 2020;
+•
+the results of the acquisition of vNext, effective February 28, 2020;
+•
+transaction costs totaling $2.2 million and $1.6 million net of tax, associated with the acquisition of PCM and vNext, respectively;
+•
+severance and restructuring expenses of $12.4 million, $9.3 million net of tax;
+•
+the repurchase of approximately 445,000 shares of the Company’s common stock for an aggregate of $25.0 million.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+The results of operations for 2019 include the following items:
+•
+the results of the acquisition of PCM, effective August 30, 2019;
+•
+transaction costs totaling $11.3 million, $9.9 million net of tax, associated with the acquisition of PCM;
+•
+severance and restructuring expenses of $5.4 million, $4.0 million net of tax;
+•
+the repurchase of approximately 541,000 shares of the Company’s common stock for an aggregate of $27.9 million; and
+•
+the impact of the adoption of FASB Topic 842 (“Topic 842”), effective January 1, 2019, resulting in the recording of net operating lease right-of-use assets and lease liabilities of $65.9 million and $70.5 million, respectively.
+The results of operations for 2018 include the following items:
+•
+the impact of the adoption of FASB Topic 606 (“Topic 606”);
+•
+the results of the acquisition of Cardinal, effective August 1, 2018;
+•
+transaction costs totaling $282,000 associated with the acquisition of Cardinal;
+•
+severance and restructuring expenses of $3.4 million, $2.7 million net of tax; and
+•
+the repurchase of approximately 641,000 shares of the Company’s common stock for an aggregate of $22.0 million.
+Impact of COVID-19 to our Business
+On March 11, 2020, the World Health Organization declared a new strain of the coronavirus (“COVID-19”) a pandemic. Throughout the pandemic, we have prioritized the safety and well-being of our teammates and have ensured that they feel supported during these uncertain times. When COVID-19 forced the closure of most of Insight’s workplaces in March 2020, we quickly enabled remote work for roughly 10,000 teammates. In an effort to protect the health and safety of our teammates, we took proactive action to adopt social distancing policies at our locations globally, limiting the number of teammates attending in-person meetings, reducing the number of people in our locations at any one time, and suspending most teammate travel. At various points throughout 2020, governments around the world also enacted various measures, including orders to close all businesses not deemed “essential,” isolate residents to their homes or places of residence, and practice social distancing when engaging in essential activities. While government actions have changed in certain countries, the measures taken by the Company to prioritize the safety and well-being of our teammates were in place for most of 2020 and remain in place to date.
+The COVID-19 pandemic has negatively impacted the global economy, disrupted global supply chains and workforce participation, and initially created significant volatility and disruption of financial markets. We observed a pronounced impact of COVID-19 on our 2020 financial results when compared to internal expectations and anticipate demand for our products and services may continue to be impacted going into 2021 as clients continue to evaluate the impact of COVID-19 on their businesses, their profitability and their liquidity. Although we exited 2020 with slightly elevated bookings going into the first quarter of 2021, continued impacts of COVID-19 and supply challenges could diminish the effect this has on our financial results.
+In the short run, we took steps to accelerate and complete our integration with PCM and to reduce discretionary operating expenditures, such as certain teammate benefits and variable compensation and travel related expenditures. We have also utilized various partner and government incentives available to us temporarily to help offset some of these business impacts. In the second half of 2020, we invested in our sales force, adding key technical talent across our solution areas and additional sales coverage to our geographic footprint. We plan to continue to invest in this area so that we are positioned well to compete in the marketplace in 2021, when we expect the IT market will start to recover.
+We paid down most of our debt under our ABL facility during the year and believe we have a strong balance sheet and healthy liquidity position. The Company had current capacity of up to $1.2 billion under our senior secured revolving credit facility (the “ABL facility”), of which $1.1 billion was available as of December 31, 2020.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+The ultimate extent of the impact of the COVID-19 pandemic on our business operations, financial performance and results of operations, including our ability to execute our business strategies and initiatives in the expected time frame, is currently unknown and will depend on future developments, which are highly uncertain, continuously evolving and cannot be predicted. This includes, but is not limited to, the duration and spread of the COVID-19 pandemic, its severity, the actions taken to contain the virus or treat its impact, such as restrictions on travel and transportation, and how quickly and to what extent normal economic and operating conditions resume.
+We will continue to actively monitor the COVID-19 situation and will take further actions as may be required by government authorities or that we determine are in the best interests of our teammates, clients and partners. It is not clear what the effects of any such potential alterations or modifications may have on our business, including the effects on our clients, teammates, and prospects, or on our financial results for 2021.
+Throughout the “Overview” and “Results of Operations” sections of “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” we refer to changes in net sales, gross profit, selling and administrative expenses and earnings from operations on a consolidated basis and in North America, EMEA and APAC excluding the effects of fluctuating foreign currency exchange rates. In computing these amounts and percentages, we compare the current period amount as translated into U.S. dollars under the applicable accounting standards to the prior period amount in local currency translated into U.S. dollars utilizing the weighted average translation rate for the current period.
+Net of tax amounts referenced above were computed using the statutory tax rate for the taxing jurisdictions in the operating segment in which the related expenses were recorded, adjusted for the effects of valuation allowances on net operating losses in certain jurisdictions.
+During 2020, we generated $355.6 million of cash from operating activities and primarily utilized cash to repay our debt. We repaid $431.4 million under our senior secured revolving credit facility (the “ABL facility”). We ended the year with $128.3 million of cash and cash equivalents and $436.4 million of debt outstanding under our long-term debt facilities.
+Details about segment results of operations can be found in Note 19 to the Consolidated Financial Statements in Part II, Item 8 of this report.
+Our discussion and analysis of financial condition and results of operations is intended to assist in the understanding of our consolidated financial statements, including the changes in certain key items in those consolidated financial statements from year to year and the primary factors that contributed to those changes, as well as how certain critical accounting estimates affect our consolidated financial statements.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+RESULTS OF OPERATIONS
+The COVID-19 pandemic has negatively impacted the global economy and has disrupted global supply chains and workforce participation. We observed an impact on our 2020 financial results and believe the ultimate extent of the impact of the COVID-19 pandemic on our future business operations, financial performance and results of operations, including our ability to execute our business strategies and initiatives in the expected time frame, is currently unknown and will depend on future developments, which are highly uncertain, continuously evolving and cannot be predicted.
+The following table sets forth certain financial data as a percentage of net sales for the years ended December 31, 2020, 2019 and 2018:
+Our gross profit across the business and related to product versus services sales are, and will continue to be, impacted by partner incentives, which can change significantly in the amounts made available and the related product or services sales being incentivized by the partner. These changes could impact our results of operations to the extent we are unable to shift our focus and respond to them. For a discussion of risks associated with our reliance on partners, see “Risk Factors - Risks related to Our Business, Operations and Industry - We rely on our partners for product availability, competitive products to sell and marketing funds and purchasing incentives, which can change significantly in the amounts made available and the requirements year over year,” in Part I, Item 1A of this report.
+2020 Compared to 2019
+Net Sales. Net sales increased 8%, or $609 million, in 2020 compared to 2019. Net sales of products (hardware and software) increased 7% and net sales of services increased 17% in 2020 compared to 2019. Our net sales by operating segment for 2020 and 2019 were as follows (dollars in thousands):
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+Our net sales by offering category for North America for 2020 and 2019, were as follows (dollars in thousands):
+Net sales in North America increased 10%, or $590.7 million, in 2020 compared to 2019. This increase reflects the inclusion of PCM for the full year in 2020, partially offset by a decline in net sales as a result of the negative impacts of COVID-19 on demand for hardware. Net sales of hardware and services increased 12% and 17%, respectively, year over year with net sales of software declining 1%, year to year. The net changes year over year were primarily the result of the following:
+•
+PCM largely accounted for the higher volume of hardware net sales in 2020 compared to 2019, reflecting a full year of net sales in 2020 compared to only four months in 2019. This was partially offset by lower volume of hardware net sales due to the impacts of COVID-19 on client demand and certain supply challenges.
+•
+The increase in services net sales was primarily due to higher volume of sales of Insight delivered services, reflecting the addition of PCM and the continued trend toward higher sales of cloud solution offerings. Increases in software maintenance, warranty and supplier reimbursements that are recorded on a net sales recognition basis within services net sales also contributed to the increase.
+•
+The decrease in software net sales was primarily due to the migration towards cloud solution offerings.
+Our net sales by offering category for EMEA for 2020 and 2019, were as follows (dollars in thousands):
+Net sales in EMEA increased 2% (increased 1% excluding the effects of fluctuating foreign currency exchange rates), or up $28.6 million, in 2020 compared to 2019. Net sales of services and software were up 18% and 1%, respectively, year over year, while net sales of hardware declined 1%, year to year. The net changes were primarily the result of the following:
+•
+Higher volume of net sales of cloud solution offerings and increased software referral fees that are recorded on a net sales recognition basis. In addition, there was an increase in the volume of Insight delivered services.
+•
+Higher volume of software net sales to public sector clients, partially offset by the continued trend toward higher sales of cloud solution offerings that are recorded on a net sales recognition basis in the services net sales category.
+•
+Lower volume of net sales of storage hardware, reflecting lower volume of net sales to large enterprise clients. This was partially offset by increases in net sales of devices, including higher net sales to public sector clients.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+Our net sales by offering category for APAC for 2020 and 2019, were as follows (dollars in thousands):
+Net sales in APAC decreased 6% (decreased 4% excluding the effects of fluctuating foreign currency rates), or $9.9 million, in 2020 compared to 2019. In APAC, decreases in software and hardware net sales of 11% and 9%, year to year, respectively were partially offset by an increase in services net sales of 6% during 2020 compared to 2019. The net changes were primarily the result of the following:
+•
+Lower volume of software net sales primarily due to the loss of a significant public sector client in 2020 and lower volume sales to large enterprise clients. The continued trend toward higher sales of cloud solution offerings that are recorded on a net sales recognition basis in the services net sales category also contributed to the decline in this sales category.
+•
+Lower volume of hardware net sales primarily as a result of decreased demand associated with client responses to COVID-19.
+•
+Higher volume of net sales of cloud solution offerings and software referral fees that are recorded on a net sales recognition basis positively impacted services net sales. Additionally, there were contributions from Insight delivered services from increased net sales of our digital innovation solutions offering.
+Net sales by category for North America, EMEA and APAC were as follows for 2020 and 2019:
+Gross Profit. Gross profit increased 14%, or $161.8 million, in 2020 compared to 2019, with gross margin increasing approximately 90 basis points to 15.6% of net sales. Our gross profit and gross profit as a percent of net sales by operating segment for 2020 and 2019 were as follows (dollars in thousands):
+North America’s gross profit in 2020 increased 17% compared to 2019, and as a percentage of net sales, gross margin increased by approximately 90 basis points year over year. The year over year net increase in gross margin was primarily attributable to the following:
+•
+A net increase in product margin, which includes partner funding and freight, of 34 basis points year over year. This increase was primarily due to improvements in hardware product margin.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+•
+Services margin improvement year over year of 64 basis points was generated from increased cloud solution offerings and an increase in Insight delivered services at higher margins than in the prior year.
+EMEA’s gross profit in 2020 increased 4% (increased 3% excluding the effects of fluctuating foreign currency exchange rates), compared to 2019. As a percentage of net sales, gross margin increased by approximately 30 basis points year over year. APAC’s gross profit in 2020 increased 7% (increased 8% excluding the effects of fluctuating foreign currency exchange rates), compared to 2019, with gross margin increasing to 25.0% in 2020 from 22.1% in 2019. The improvement in gross margin for both EMEA and APAC in 2020 compared to 2019 was due primarily to changes in sales mix to higher margin products and services.
+While we expanded gross margins in 2020 compared to 2019, we expect that in future periods our gross margin expansion will be muted as our product mix returns to previous levels, including a higher mix of hardware sales with our large enterprise clients which typically carry lower margins.
+Operating Expenses.
+Selling and Administrative Expenses. Selling and administrative expenses increased $133.0 million in 2020 compared to 2019. Our selling and administrative expenses by major expense type for 2020 and 2019 were as follows (dollars in thousands):
+Selling and administrative expenses increased approximately 80 basis points as a percentage of net sales in 2020 compared to 2019. The increase in expenses reflects the addition of PCM to our North America and EMEA segments, effective August 30, 2019. The addition of PCM and increased variable compensation resulting from increased sales and gross profit in 2020 compared to 2019 were the primary drivers for the $98.1 million increase in personnel costs. Depreciation and amortization expense also increased approximately $16.9 million year over year, primarily due to additional amortization expense on our newly acquired intangible assets. PCM was also the primary driver for year over year increases in other and facility expenses. Legal and professional fees increased as a result of one-time project costs incurred in 2020 with no comparable activity in 2019. These increased costs were partially offset by decreases in travel and entertainment and marketing costs reflecting cost control measures taken in response to COVID-19.
+Severance and Restructuring Expenses. During 2020, we recorded severance expense, net of adjustments, totaling $12.4 million. The charges in all three operating segments primarily related to a realignment of certain roles and responsibilities for North America and EMEA, and to the acquisition of PCM. During 2019, we recorded severance expense, net of adjustments, totaling $5.4 million.
+Acquisition-related Expenses. During 2020 and 2019, we incurred $2.2 million and $11.3 million, respectively, in direct third-party costs related to the acquisitions of PCM and vNext. See Note 20 to the Consolidated Financial Statements in Part II, Item 8 of this report for further discussion of acquisitions.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+Earnings from Operations. Earnings from operations increased 13%, or $31.0 million, year over year, in 2020 compared 2019. Our earnings from operations and earnings from operations as a percentage of net sales by operating segment were as follows for the year ended December 31, 2020 and 2019 (dollars in thousands):
+North America’s earnings from operations increased 15%, or $28.7 million, year over year, in 2020 compared to 2019. As a percentage of net sales, earnings from operations increased by approximately 10 basis points to 3.3%. The increase in earnings from operations was primarily driven by an increase in gross profit in excess of increases in selling and administrative expenses and severance and restructuring expenses. Acquisition and restructuring expenses also decreased $9.3 million in 2020 compared to 2019.
+EMEA’s earnings from operations increased 1%, or $576,000, year over year, in 2020 compared to 2019. As a percentage of net sales, earnings from operations remained flat with the prior year at 2.6%. The increase in earnings from operations was primarily driven by an increase in gross profit, partially offset by the increase in selling and administrative expenses and severance and restructuring expenses in 2020 compared to 2019.
+APAC’s earnings from operations increased 16% (increased 18% excluding the effects of fluctuating foreign currency exchange rates), or $1.7 million, year over year, in 2020 compared to 2019. As a percentage of net sales, earnings from operations increased by more than 100 basis points to 7.1%. The increase in earnings from operations reflects an increase in gross profit, partially offset by an increase in selling and administrative expenses in 2020 compared to 2019.
+Non-Operating (Income) Expense.
+Interest Expense, net. Interest expense, net primarily relates to borrowings under our financing facilities and imputed interest under our convertible notes and inventory financing facilities, partially offset by interest income generated from interest earned on cash and cash equivalent bank balances. Interest expense increased 46%, or $13.1 million, in 2020 compared to 2019 due primarily to imputed interest under our convertible senior notes, higher average daily balances under our ABL facility and convertible senior notes in comparison to our facilities in the prior year and higher imputed interest on our inventory financing facilities. Imputed interest under our convertible senior notes, which were issued in August 2019, was $10.2 million in 2020 compared to $3.7 million in 2019. The higher average daily balances under our ABL facility and convertible senior notes in comparison to our facilities in the prior year were largely the result of the PCM acquisition and were substantially paid down in the later part of 2020. Imputed interest under our inventory financing facilities increased $2.3 million due to higher average daily balances in 2020 compared to 2019. The increases were a result of expanded use of the facilities, including the addition of PCM, in part as a result of extended payment terms during 2020. For a description of our various financing facilities, see Notes 7 and 8 to our Consolidated Financial Statements in Part II, Item 8 of this report.
+Other Expense (Income), Net. Other expense (income), net, consists primarily of foreign currency exchange gains and losses. Foreign currency exchange gains and losses result from foreign currency transactions, including foreign currency derivative contracts and intercompany balances that are not considered long-term in nature. The change in net foreign currency exchange gains/losses is due primarily to the underlying changes in the applicable exchange rates, partially mitigated by our use of foreign exchange forward contracts to offset the effects of fluctuations in foreign currencies on certain of our non-functional currency assets and liabilities.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+Income Tax Expense. Our effective tax rate for 2020 was 24.4% compared to 24.7% in 2019. The decrease in the tax rate from 2019 to 2020 was primarily due to the remeasurement of certain state deferred tax liabilities as well as acquired net operating losses to be carried back to higher tax rate years under the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”), partially offset by reduced research and development tax credit benefits. The effective tax rate in 2020 was higher than the federal statutory rate of 21.0% primarily due to state income taxes, net of federal income tax benefits, higher taxes on earnings in foreign jurisdictions and non-deductible compensation. These increases to the federal statutory rate in 2020 were offset partially by the recognition of tax benefits, net of reserves, related to research and development activities and the remeasurement of acquired net operating losses to be carried back to higher tax rate years under the CARES Act. See Note 11 to the Consolidated Financial Statements in Part II, Item 8 of this report for further discussion of income tax expense.
+2019 Compared to 2018
+For a comparison of our results of operations for the fiscal years ended December 31, 2019 and 2018, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019 filed with the SEC on February 21, 2020.
+Liquidity and Capital Resources
+The following table sets forth certain consolidated cash flow information for 2020, 2019 and 2018 (in thousands):
+Cash and Cash Flow
+•
+Our primary uses of cash during 2020 were to pay down our debt balances.
+•
+Operating activities generated $355.6 million in cash in 2020.
+•
+We acquired vNext in February 2020 for $6.4 million and received proceeds from the sale of properties held for sale of $40.3 million in 2020.
+•
+We had net borrowings under our inventory financing facilities of $103.3 million in 2020 compared to net repayments of $50.5 million in 2019.
+•
+Net repayments under our ABL facility were $431.4 million in 2020. Net borrowings under our ABL facility and our prior senior revolving credit facility and ABS facility combined were $356.0 million in 2019.
+•
+Capital expenditures were $24.2 million in 2020, a significant decrease from 2019, which included our purchase of real estate for future use as our global corporate headquarters.
+•
+During 2020, we repurchased an aggregate of $25.0 million of our common stock, pursuant to a repurchase program approved in February 2020, compared to $27.9 million repurchased during 2019.
+We anticipate that cash flows from operations, together with the funds available under our financing facilities, will be adequate to support our cash and working capital requirements for operations as well as other strategic investments over the next 12 months. We expect existing cash
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+and cash flows from operations to continue to be sufficient to fund our operating cash activities and cash commitments for investing and financing activities, such as capital expenditures, repurchases of our common stock and debt repayments, for at least the next 12 months.
+Net cash provided by operating activities.
+•
+Cash flow from operating activities in 2020 was $355.6 million, a significant increase in cash generation compared to 2019. The increase in cash flow from operating activities was primarily driven by an increase in accounts payable compared to prior year.
+•
+The significant changes in both other assets and accrued expenses and other liabilities for 2019 compared to 2020 resulted from a single significant transaction in 2019 with no comparable activity in the current year.
+Our consolidated cash flow operating metrics for the quarters ended December 31, 2020, 2019 and 2018 were as follows:
+(a)
+Calculated as the balance of accounts receivable, net at the end of the period divided by daily net sales. Daily net sales is calculated as net sales for the quarter divided by 92 days.
+(b)
+Calculated as average inventories divided by daily costs of goods sold. Average inventories is calculated as the sum of the balances of inventories at the beginning of the period plus inventories at the end of the period divided by two. Daily costs of goods sold is calculated as costs of goods sold for the quarter divided by 92 days.
+(c)
+Calculated as the sum of the balances of accounts payable - trade and accounts payable - inventory financing facility at the end of the period divided by daily costs of goods sold. Daily costs of goods sold is calculated as costs of goods sold for the quarter divided by 92 days.
+(d)
+Calculated as DSOs plus DIOs, less DPOs.
+•
+Our cash conversion cycle was 30 days in the quarter ended December 31, 2020, compared to 38 days in the fourth quarter of 2019.
+•
+The decrease resulted from the net effect of an eight day increase in DSOs offset by a two day decrease in DIOs and a fourteen day increase in DPOs.
+•
+Excluding the impact of netting on DSOs and DPOs, the changes in our cash conversion cycle year over year were primarily the result of:
+•
+the benefit to DPOs of expanded use of our inventory financing facilities, including the effect of recently negotiated extended payment terms;
+•
+the benefit to DIOs of tight discipline around investments in inventory; and
+•
+the benefit to DSOs of improved aging performance of our accounts receivable as we deployed Insight’s collection practices to the PCM business.
+•
+We expect that cash flow from operations will be used, at least partially, to fund working capital as we typically pay our partners on average terms that are shorter than the average terms we grant to our clients in order to take advantage of supplier discounts.
+•
+We intend to use cash generated in 2021 in excess of working capital needs, given current market conditions, to pay down our ABL facility and our inventory financing facilities.
+•
+We expect that in 2021 our cash flows from operations will normalize as our business mix returns to previous levels.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+Net cash provided by/(used in) investing activities.
+•
+We acquired vNext in February 2020 for $6.4 million and received proceeds from the sale of properties held for sale of $40.3 million.
+•
+Capital expenditures of $24.2 million in 2020 were used primarily for technology-related upgrade projects and the integration of our prior acquisitions. During 2020 we decided to defer the buildout of our new global corporate headquarters until early 2021.
+•
+We expect total capital expenditures in 2021 to be in the range of $75.0 to $85.0 million, of which approximately $60.0 million will be used to ready our global corporate headquarters, and the remaining amount will be used primarily for technology-related upgrade projects.
+Net cash provided by/(used in) financing activities.
+•
+During 2020, we had net repayments on our long-term debt under our ABL facility of $431.4 million and had net borrowings under our inventory financing facilities of $103.3 million.
+•
+In 2020, we also funded $25.0 million of repurchases of our common stock, compared to $27.9 million purchased during 2019.
+•
+During 2019, we had net combined borrowing on our long-term debt under our revolving credit facility, our Term Loan A and ABS facility of $356.0 million and had net repayments under our inventory financing facility of $50.5 million.
+•
+During 2019 we issued convertible senior notes with an aggregate principal value of $350.0 million, receiving proceeds upon issuance of $341.3 million.
+•
+In connection with the issuance of our convertible senior notes, we entered into certain convertible note hedge and warrant transactions with respect to our common stock. We paid approximately $66.3 million for the convertible note hedge transaction using proceeds from the convertible senior notes offering.
+•
+In addition, we received aggregate proceeds of approximately $34.4 million for the sale of related warrants.
+2019 Compared to 2018
+For a comparison of our cash flows for the fiscal years ended December 31, 2019 and 2018, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019 filed with the SEC on February 21, 2020.
+Financing Facilities
+As of December 31, 2020, our long-term debt balance includes $140.0 million outstanding under our $1.2 billion ABL facility. As of December 31, 2020, the current portion of our long-term debt relates to our finance leases and other financing obligations.
+•
+Our objective is to pay our debt balances down while retaining adequate cash balances to meet overall business objectives.
+•
+Our convertible senior notes are subject to certain events of default and certain acceleration clauses. As of December 31, 2020, no such events have occurred.
+•
+Our ABL facility contains various covenants customary for transactions of this type, including complying with a minimum receivable and inventory requirement and meeting monthly, quarterly and annual reporting requirements.
+•
+The credit agreement contains customary affirmative and negative covenants and events of default.
+•
+At December 31, 2020, we were in compliance with all such covenants.
+•
+While the ABL facility has a stated maximum amount, the actual availability under the ABL facility is limited by a minimum accounts receivable and inventory requirement. As of December 31, 2020, eligible accounts receivables and inventory were sufficient to permit access to the full $1.2 billion under the ABL facility.
+We also have agreements with financial intermediaries to facilitate the purchase of inventory from certain suppliers under certain terms and conditions. These amounts are classified separately as accounts payable - inventory financing facilities in our consolidated balance sheets.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+Notes 7 and 8 to the Consolidated Financial Statements in Part II, Item 8 of this report also include: a description of our financing facilities; amounts outstanding; amounts available and weighted average borrowings and interest rates during the year.
+Undistributed Foreign Earnings
+Cash and cash equivalents held by foreign subsidiaries may be subject to U.S. income taxation upon repatriation to the United States. As a result of U.S. tax reform enacted in December 2017, all undistributed foreign earnings as of December 31, 2017 were deemed distributed and we provided for U.S. income and withholding taxes on those earnings. For years subsequent to 2017, we continue to assert indefinite reinvestment of foreign earnings for certain of our foreign subsidiaries. As of December 31, 2020, we had approximately $112.4 million in cash and cash equivalents in our foreign subsidiaries, the majority of which reside in the Netherlands and Australia. Certain of these cash balances will be remitted to the U.S. by paying down intercompany payables generated in the ordinary course of business or through actual dividend distributions.
+Off-Balance Sheet Arrangements
+We have entered into off-balance sheet arrangements, which include guarantees and indemnifications. These arrangements are discussed in Note 16 to the Consolidated Financial Statements in Part II, Item 8 of this report. We believe that none of our off-balance sheet arrangements have, or are reasonably likely to have, a material current or future effect on our financial condition, sales or expenses, results of operations, liquidity, capital expenditures or capital resources.
+Contractual Obligations
+At December 31, 2020, our contractual obligations for continuing operations were as follows (in thousands):
+(a)
+Reflects the $140.0 million outstanding at December 31, 2020 under our ABL facility due in August 2024, the date at which the facility matures, as well as $296.4 million outstanding at December 31, 2020 under our senior convertible notes due in August 2025. See further discussion in Note 8 to the Consolidated Financial Statements in Part II, Item 8 of this report.
+(b)
+The table above includes:
+I.
+Estimated interest payments of $2.0 million in each of 2021 through 2023, and $1.3 million in the first eight months of 2024, based on the current debt balance at December 31, 2020 of $140.0 million under our ABL facility, multiplied by the floating interest rate applicable at December 31, 2020 of 1.40% per annum.
+II.
+Estimated interest payments of $2.6 million in each of 2021 through 2024, and $1.8 million in the first eight months of 2025, based on the principal debt balance at December 31, 2020 of $350.0 million under our senior convertible notes, multiplied by the stated interest rate applicable at December 31, 2020 of 0.75% per annum.
+(c)
+As of December 31, 2020, this amount has been included in our contractual obligations table above as being due in less than 1 year due to the 30- to 120-day stated vendor terms. See further discussion in Note 7 to the Consolidated Financial Statements in Part II, Item 8 of this report.
+(d)
+Amounts in the table above exclude non-cancellable rental income.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+The table above excludes unrecognized tax benefits, which include accrued interest, as we are unable to reasonably estimate the ultimate amount or timing of settlement. See further discussion in Note 11 to the Consolidated Financial Statements in Part II, Item 8 of this report.
+Although we set purchase targets with our partners tied to the amount of supplier reimbursements we receive, we have no material contractual purchase obligations with our partners.
+Acquisitions
+Our strategy includes the possible acquisition of or investments in other businesses to expand or complement our operations or to add certain services capabilities. The magnitude, timing and nature of any future acquisitions or investments will depend on a number of factors, including the availability of suitable candidates, the negotiation of acceptable terms, our financial capabilities and general economic and business conditions. Financing for future transactions would result in the utilization of cash, incurrence of additional debt, issuance of stock or some combination of the three. See Note 20 to the Consolidated Financial Statements in Part II, Item 8 of this report for a discussion of our acquisition of PCM on August 30, 2019.
+Inflation
+We have historically not been adversely affected by inflation, as technological advances and competition within the IT industry have generally caused the prices of the products we sell to decline and product life cycles tend to be short. This requires our growth in unit sales to exceed the decline in prices in order to increase our net sales. We believe that most price increases could be passed on to our clients, as prices charged by us are not set by long-term contracts; however, as a result of competitive pressure, there can be no assurance that the full effect of any such price increases could be passed on to our clients.
+Critical Accounting Estimates
+General
+Our consolidated financial statements have been prepared in accordance with GAAP. For a summary of significant accounting policies, see Note 1 to the Consolidated Financial Statements in Part II, Item 8 of this report. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, net sales and expenses. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results, however, may differ from our estimates. Members of our senior management have discussed the critical accounting estimates and related disclosures with the Audit Committee of our Board of Directors.
+We consider the following to be our critical accounting estimates used in the preparation of our consolidated financial statements:
+Sales Recognition
+Description
+We sell hardware and software products on both a stand-alone basis without any services and as solutions bundled with services. When we provide a combination of hardware and software products with the provision of services, we separately identify our performance obligations under our contract with the client as the distinct goods (hardware and/or software products) or services that will be provided. For each of our product and services offerings, described in detail at Note 1 to the Consolidated Financial Statements in Part II, Item 8 of this report, the determination needs to be made as to whether we are the principal or the agent in the transaction. This determination leads to how the revenue for each offering is recognized, either gross, where we are the principal in the
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+transaction, or net, where we are the agent in the transaction. This determination is made by assessing whether or not we control the product or service prior to delivery to the client.
+Judgments and Uncertainties
+The total transaction price for an arrangement with multiple performance obligations is allocated at contract inception to each distinct performance obligation in proportion to its stand-alone selling price. The stand-alone selling price is the price at which we would sell a promised good or service separately to a client. We estimate the price based on observable inputs, including direct labor hours and allocable costs, or use observable stand-alone prices when they are available.
+With respect to recognition of transactions as a principal or agent, if we take control of the product or service prior to delivery to the client, then we are the principal in the transaction. If we do not take control of the product or service prior to delivery to the client, we are the agent in the transaction. The determination of whether we take control of products or services prior to delivery to the client is judgmental and depends upon the specific facts and circumstances for each transaction.
+Effect if actual results differ from assumptions
+We do not believe there is a reasonable likelihood there will be a material change in the estimates or assumptions used to recognize net sales. However, if actual results are not consistent with our estimates or assumptions, it could have a material effect on our reported net sales, timing of revenue recognition and our results of operations. We have not made any material changes in accounting methodology used to recognize net sales during the past three fiscal years.
+Partner Funding
+Description
+We receive payments and credits from partners, including consideration pursuant to volume sales incentive programs, volume purchase incentive programs and shared marketing expense programs. Partner funding received pursuant to volume sales incentive programs is recognized as it is earned as a reduction to costs of goods sold. Partner funding received pursuant to volume purchase incentive programs is allocated as a reduction to inventories based on the applicable incentives earned from each partner and is recorded in costs of goods sold as the related inventory is sold. Partner funding received pursuant to shared marketing expense programs is recorded as it is earned as a reduction of the related selling and administrative expenses in the period the program takes place if the consideration represents a reimbursement of specific, incremental, identifiable costs. Partner funding received pursuant to certain services delivered is recorded as services net sales. Consideration that exceeds the specific, incremental, identifiable costs is classified as a reduction of costs of goods sold.
+Judgements and Uncertainties
+We make period-end estimates about the anticipated achievement levels under the various partner programs in order to accrue amounts earned and establish reserves for any uncollectible amounts. These estimates and assumptions primarily include whether we have met key net sales targets under the various partner programs.
+Effect if actual results differ from assumptions
+We have not made any material changes in the methodology used to evaluate estimates of anticipated achievement levels under individual partner programs during the past three fiscal years. We believe that we have made reasonable estimates and assumptions to calculate the achievement levels. However, if our actual results are not consistent with our assumptions it could have a material effect on our results of operations and our cash flows.
+See Note 1 to the Consolidated Financial Statements in Part II, Item 8 of this report for further discussion of our accounting policies related to partner funding.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+Goodwill
+Description
+We perform an annual review of our goodwill in the fourth quarter of every year. We continually assess if an event occurs or circumstances change that would more likely than not reduce the fair value of the reporting unit below its carrying value and assess whether any indicators of impairment exist. Events or circumstances that could trigger an impairment review include a significant adverse change in legal factors or in the business climate, unanticipated competition, significant changes in the manner of our use of the acquired assets or the strategy for our overall business, significant negative industry or economic trends, significant declines in our stock price for a sustained period or significant underperformance relative to expected historical or projected future cash flows or results of operations. Any adverse change in these factors, among others, could have a significant effect on the recoverability of goodwill and could have a material effect on our consolidated financial statements.
+Judgements and Uncertainties
+We may first perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. If it is concluded that this is the case, it is necessary to perform a quantitative goodwill impairment test. Otherwise, the goodwill impairment test is not required. In completing a quantitative test for a potential impairment of goodwill, we compare the estimated fair value of each reporting unit in which the goodwill resides to its book value, including goodwill. Our reporting units are our operating segments. Management must apply judgment in determining the reporting units and in estimating the fair value of our reporting units. Multiple valuation techniques can be used to assess the fair value of the reporting unit, including the market and income approaches. All of these techniques include the use of estimates and assumptions that are inherently uncertain. Changes in these estimates and assumptions could materially impact the determination of fair value or goodwill impairment, or both. These estimates and assumptions primarily include, but are not limited to, an appropriate control premium in excess of the market capitalization of the Company, future market growth, forecasted sales and costs and appropriate discount rates. Due to the inherent uncertainty involved in making these estimates, actual results could differ from those estimates. Management evaluates the merits of each significant assumption, both individually and in the aggregate, used to determine the fair value of the reporting units. If the estimated fair value exceeds book value, goodwill is considered not to be impaired. If the carrying amount of the reporting unit exceeds its fair value, then an impairment charge is recognized for the amount by which the carrying value exceeds the fair value. To ensure the reasonableness of the estimated fair values of our reporting units, we perform a reconciliation of our total market capitalization to the estimated fair value of all of our reporting units.
+Effect if Actual Results Differ from Assumptions
+We have not made any material changes in the methodology used to evaluate impairment of goodwill during the past three fiscal years. Additionally, during the three years ended December 31, 2020, 2019 and 2018 we analyzed each of our reporting units and determined that no impairment charge was necessary.
+Income Taxes
+Description
+We record a provision for income taxes which reflects a mix of earnings in the jurisdictions in which we operate. Our provision for income taxes primarily reflects a combination of income earned and taxed in the various US federal and state, as well as foreign, jurisdictions. Our annual effective tax rate is based on our income, the jurisdiction(s) in which the income is earned and subjected to taxation, the tax laws in those various jurisdictions and any tax law changes which may occur, increases or decreases in permanent differences between book and tax items, and accruals or adjustments of accruals for unrecognized tax benefits or valuation allowances.
+INSIGHT ENTERPRISES, INC.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (continued)
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. We consider all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax-planning strategies and results of recent operations. If we were to determine that it is more likely than not that we would not be able to realize all or part of our net deferred tax assets in the future, an adjustment to the deferred tax assets would be charged to earnings in the period such determination is made.
+We record liabilities for potentially unfavorable outcomes associated with uncertain tax positions taken on specific tax matters using a two-step process. These liabilities are based on management’s assessment of whether a tax benefit is more likely than not to be sustained upon examination by tax authorities. There may be differences between the anticipated and actual outcomes of these matters that may result in subsequent recognition or derecognition of a tax position based on all the available information at the time. If material adjustments are warranted, it could affect our effective tax rate.
+Judgements and Uncertainties
+The determination of our provision and evaluation of our tax positions requires significant judgment, the use of estimates and the interpretation and application of complex tax laws. Changes in tax laws and rates could affect recorded assets and liabilities in the future. Changes in projected earnings could affect the recorded valuation allowances in the future. Our calculations related to income taxes contain uncertainties due to judgment used to calculate tax liabilities in the application of complex tax regulations across the tax jurisdictions where we operate. Our analysis of unrecognized tax benefits contains uncertainties based on judgment used to apply the more likely than not recognition and measurement thresholds.
+Effect if Actual Results Differ from Assumptions
+We do not believe there is a reasonable likelihood there will be a material change in the tax related balances or valuation allowances. However, due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from the current estimate of the tax liabilities. To the extent we prevail in matters for which unrecognized tax benefit liabilities have been established or are required to pay amounts in excess of recorded unrecognized tax benefit liabilities, our effective tax rate in a given financial statement period could be materially affected. An unfavorable tax settlement would require use of our cash and generally result in an increase in our effective tax rate in the period of resolution. A favorable tax settlement would generally be recognized as a reduction in our effective tax rate in the period of resolution.
+Additional information about the valuation allowance and uncertain tax positions can be found in Note 11 to the Consolidated Financial Statements in Part II, Item 8 of this report.
+Recently Issued Accounting Standards
+The information contained in Note 1 to the Consolidated Financial Statements in Part II, Item 8 of this report concerning a description of recent accounting pronouncements, including our expected dates of adoption and the estimated effects on our results of operations and financial condition, is incorporated by reference herein.

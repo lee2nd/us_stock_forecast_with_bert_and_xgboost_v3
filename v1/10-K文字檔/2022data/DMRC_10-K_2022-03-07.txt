@@ -1,0 +1,269 @@
+ITEM 7:
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements relating to future events or the future financial performance of Digimarc, which involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements. Please see the discussion regarding forward-looking statements included at the end of this discussion, under the caption “Forward-Looking Statements,” and Item 1A, “Risk Factors” for a discussion of some of the uncertainties, risks and assumptions associated with these statements.
+The following discussion should be read in conjunction with our consolidated financial statements and the related notes and other financial information appearing elsewhere in this Annual Report on Form 10-K.
+All dollar amounts are in thousands except per share amounts or unless otherwise noted. The percentages within the tables included in this section may not sum to 100% due to rounding.
+Overview
+Digimarc Corporation, an Oregon corporation incorporated in 2008, is a pioneer of digital watermarking solutions, which enable a more efficient, reliable and economical means of automatic identification. Our technology can be used to apply a unique digital identity to virtually all media objects, including product packaging, commercial print, audio and video. These digital identities can be automatically identified by an enabled ecosystem of industrial scanners, smartphones and other interfaces. The technology features:
+•
+Digimarc watermarks: a data carrier that can provide a unique digital identity to media objects and is generally visibly imperceptible to people and therefore can be repeated many times over the surface of media objects.
+•
+Digimarc Discover: a software program for computing devices and network interfaces that recognizes and decodes digital identities applied to media objects. These digital identities can be applied to media objects using Digimarc watermarks, quick response codes and universal product codes, among other types of codes.
+•
+Digimarc Verify: a suite of software tools used to inspect and verify that the digital identity applied via Digimarc watermarks to media objects are accurate and effective.
+Together, these core capabilities enable organizations, application developers, and other solution providers to build new and improve existing automatic identification solutions.
+Our growth strategy focuses on two markets we serve: Government and Commercial. Government includes the consortium of Central Banks (the “Central Banks”) and other government customers. Commercial includes retailers, brands, their suppliers and related solution providers, as well as media, entertainment, education, and other customers.
+We plan to continue investing in research and development and sales and marketing to develop and market our technology and to continue to expand our intellectual property portfolio. To protect our significant efforts in creating our technology, we have implemented an extensive intellectual property protection program that relies on a combination of patent, copyright, trademark and trade secret laws, and nondisclosure agreements and other contracts. As a result, we believe we have one of the world’s most extensive patent portfolios in digital watermarking and related fields, with approximately 1,000 U.S. and foreign patents granted and applications pending as of December 31, 2021. We continue to develop and broaden our portfolio of patented technology in the field of automatic identification and related applications and systems. We devote significant resources to developing and protecting our inventions and continuously seek to identify and evaluate potential licensees for our patents.
+COVID-19 Pandemic
+The coronavirus 2019 (“COVID-19”) pandemic continues to pose significant risks to our business. The ongoing public health actions attempting to reduce the spread of COVID-19 created and may continue to create significant disruptions to consumer demand, customer and supplier relationships, sales and support processes, and general economic conditions. Accordingly, our management continuously evaluates our business operations, communicates with and monitors the actions of our customers and partners, and reviews our near-term financial performance as we manage the Company through the uncertainty related to the COVID-19 pandemic. Some of our projects with retail customers and partners have been delayed as a result of the COVID-19 pandemic. Delays in these projects have affected the timing of closing new business. To help ensure adequate liquidity during this period and in light of uncertainties posed by the COVID-19 pandemic, we received a loan on April 16, 2020, under the
+Paycheck Protection Program (“PPP”). On September 15, 2020, we filed our application for 100% forgiveness of the loan. Our application was reviewed by The Loan Source, Inc. (the “Lender”), and submitted to the Small Business Administration (“SBA”) for approval on December 17, 2020. On September 29, 2021, we received confirmation from the Lender that our PPP loan had been 100% forgiven with respect to both the principal of $5,032 and accrued interest of $62, and that the funds had been received from the SBA to pay off the loan. The SBA reserves the right to audit any PPP loan.
+Critical Accounting Policies and Estimates
+The preparation of financial statements in accordance with accounting principles generally accepted in the U.S. (“U.S. GAAP”) requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to bad debts, contingencies, goodwill, income taxes, intangible assets, marketable securities, property and equipment and revenue recognition. We base our estimates on historical experience and on other assumptions we believe to be reasonable in the circumstances. Actual results may differ from these estimates under different assumptions or conditions.
+Some of our accounting policies require higher degrees of judgment than others in their application. We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our consolidated financial statements.
+Revenue recognition:
+Revenue is recognized in accordance with Accounting Standards Codification (“ASC”) 606 “Revenue from Contracts with Customers” by applying the following steps:
+Step 1: Identify the contract(s) with a customer.
+Step 2: Identify the performance obligation(s) in the contract.
+Step 3: Determine the transaction price.
+Step 4: Allocate the transaction price to the performance obligation(s) in the contract.
+Step 5: Recognize when (or as) the entity satisfies the performance obligation(s).
+We derive our revenue primarily from software development services and software subscriptions. Applicable revenue recognition criteria are considered separately for each performance obligation as follows:
+•
+Service revenue consists primarily of revenue earned from the performance of software development services and, to a lesser extent, professional services. The majority of software development contracts are structured as time and materials consulting agreements. Revenue for services is generally recognized as the services are performed. Billing for services rendered generally occurs within one month after the services are provided.
+•
+Subscription revenue consists primarily of revenue earned from the sale of software products and, to a lesser extent, the licensing or sale of intellectual property. The majority of subscription contracts are recurring, paid in advance and recognized over the term of the subscription, which is typically one to three years.
+Customer arrangements may contain multiple performance obligations such as software development services, software products, and maintenance and support fees. We account for individual products and services separately if they are distinct. To determine the transaction price, we consider the terms of the contract and our customary business practices. Some contracts may contain variable consideration. In those cases, we estimate the amount of variable consideration based on the sum of probability-weighted amounts in a range of possible consideration amounts. As part of this assessment, we will evaluate whether any of the variable consideration is constrained and if it is, we will not include it in the transaction price. The consideration is allocated between distinct products and services based on their stand-alone selling prices. For items that are not sold separately, we estimate the standalone selling price based on reasonably available information, including market conditions, specific factors affecting us, and information about the customer. For distinct products and services, we typically recognize the revenue associated with these performance obligations as they are delivered to the customer. Products and services that are not capable of being distinct are combined with other products or services until a distinct performance obligation is identified.
+All revenue recognized in the Consolidated Statements of Operations is considered to be revenue from contracts with customers.
+Results of Operations-the Years Ended December 31, 2021 and December 31, 2020
+The following tables present our consolidated statements of operations data for the periods indicated.
+Summary
+Total revenue increased $2.5 million, or 11%, to $26.5 million, primarily as a result of higher revenue from Commercial subscriptions and services, partially offset by lower revenue from Government subscriptions.
+Total operating expenses increased $8.7 million, or 18%, to $57.6 million, primarily as a result of $6.2 million of non-recurring costs incurred under the Separation Agreement and General Release (“Separation Agreement”) we entered into with our former chief executive officer in April 2021 upon his retirement. Excluding this non-recurring cost, operating expenses increased $2.5 million, or 5%, to $51.4 million, reflecting higher consulting, legal and recruiting costs, partially offset by lower compensation costs.
+Revenue
+Service. Service revenue consists primarily of revenue earned from the performance of software development services and, to a lesser extent, professional services. The majority of software development contracts are structured as time and materials agreements. Revenue for services is generally recognized as the services are performed. Billing for services rendered generally occurs within one month after the services are provided. Service contracts can range from days to several years in length. Our contract with the Central Banks, which accounts for the majority of service revenue, has a contract term through December 31, 2024, with the option to extend the term for an additional five years by mutual agreement. The contract is subject to work plans that are reviewed and agreed upon quarterly. The contract provides for predetermined billing rates, which are adjusted annually to account for cost of living variables, and provides for the reimbursement of third party costs incurred to support the work plans.
+The increase in service revenue was primarily due to growth in service revenue from Commercial customers, primarily resulting from increased HolyGrail 2.0 activities for the phase 2 semi-industrial trials.
+Subscription. Subscription revenue consists primarily of revenue earned from the sale of software products and, to a lesser extent, the licensing or sale of intellectual property. The majority of subscription contracts are recurring, paid in advance and recognized over the term of the subscription, which is typically one to three years.
+The increase in subscription revenue was primarily due to growth in subscription revenue from Commercial customers, primarily related to the sale of 10 non-core patents from our patent portfolio, and entering into a contract with a new Commercial customer in March 2021. Most of the minimum contract value for this new contract was recognized as revenue upon delivery of the software, instead of recognized ratably over the two-year term of the contract, because we had no continuing performance obligations after delivery of the software.
+Revenue by geography
+Domestic. The decrease in domestic revenue was due to lower subscription revenue from multiple domestic customers, and lower service revenue from domestic customers, primarily related to lower professional services work.
+International. The increase in international revenue was due to higher subscription revenue from international customers, primarily related to the sale of 10 non-core patents from our patent portfolio and entering into the contract with the new customer in March 2021 referenced above, and higher service revenue from international customers, primarily related to increased HolyGrail 2.0 activities.
+Revenue by market
+Government. The decrease in Government revenue was primarily due to lower subscription revenue from a Government customer.
+Commercial. The increase in Commercial revenue was primarily due to higher subscription revenue from our Commercial customers, primarily related to the sale of 10 non-core patents from our patent portfolio and entering into the contract with the new customer in March 2021 referenced above, and higher service revenue from our Commercial customers, primarily related to increased HolyGrail 2.0 activities.
+Cost of revenue
+Service. Cost of service revenue primarily includes:
+•
+compensation, benefits, incentive compensation in the form of stock-based compensation and related costs of our software developers, quality assurance personnel, professional services team and other personnel where we bill our customers for time and materials costs;
+•
+payments to outside contractors that are billed to customers;
+•
+charges for equipment directly used by customers;
+•
+depreciation for equipment and software directly used by customers; and
+•
+travel costs that are billed to customers.
+Subscription. Cost of subscription revenue primarily includes:
+•
+cost of outside contractors that provide operational support for our subscription products;
+•
+internet cloud hosting costs and image search data fees to support our subscription products;
+•
+license fees paid to technology solution providers when we sell a combined solution; and
+•
+amortization of capitalized patent costs and patent maintenance fees.
+Gross profit
+The increase in total gross profit was primarily due to higher subscription and service revenue, partially offset by higher costs.
+There was no change in service gross profit margin.
+The decrease in subscription gross profit margin was primarily due to higher license fees to a technology solution provider, partially offset by higher subscription revenue.
+Operating expenses
+Sales and marketing
+Sales and marketing expenses consist primarily of:
+•
+compensation, benefits, incentive compensation in the form of stock-based compensation and related costs of sales, marketing, product, operations and customer support personnel;
+•
+travel and market research costs, and costs associated with marketing programs, such as trade shows, public relations and new product launches;
+•
+professional services, consulting and outside contractor costs for sales and marketing and product initiatives; and
+•
+charges for infrastructure and centralized costs of facilities and information technology.
+The increase in sales and marketing expenses was primarily due to:
+•
+severance costs of $1.3 million related to organizational changes we made in June 2021;
+•
+increased consulting costs of $0.7 million related to 2021 sales and product initiatives; and
+•
+increased recruiting costs of $0.4 million; partially offset by
+•
+decreased compensation costs of $0.7 million reflecting the impact of prior organizational changes; and
+•
+severance costs of $0.2 million related to organizational changes we made in July 2020.
+Research, development and engineering
+Research, development and engineering expenses arise primarily from three areas that support our business model: fundamental research, platform development and product development.
+Research, development and engineering expenses consist primarily of:
+•
+compensation, benefits, incentive compensation in the form of stock-based compensation and related costs of software and hardware developers and quality assurance personnel;
+•
+payments to outside contractors;
+•
+the purchase of materials and services for product development; and
+•
+charges for infrastructure and centralized costs of facilities and information technology.
+The increase in research, development and engineering expenses was primarily due to:
+•
+increased compensation costs of $0.7 million reflecting compensation increases; and
+•
+increased recruiting costs of $0.2 million; partially offset by
+•
+severance costs of $0.6 million related to organizational changes we made in July 2020.
+General and administrative
+We incur general and administrative costs in the functional areas of finance, legal, human resources, intellectual property, executive and board of directors. Costs for facilities and information technology are also managed as part of the general and administrative processes and are allocated to this area as well as each of the areas in sales and marketing and research, development and engineering.
+General and administrative expenses consist primarily of:
+•
+compensation, benefits and incentive compensation in the form of stock-based compensation and related costs of general and administrative personnel;
+•
+third party and professional fees associated with legal, accounting and human resources functions;
+•
+costs associated with being a public company;
+•
+third party costs, including filing and governmental regulatory fees and outside legal fees and translation costs, related to the filing and maintenance of our intellectual property;
+•
+charges to write off previously capitalized patent costs for patent assets we abandon; and
+•
+charges for infrastructure and centralized costs of facilities and information technology.
+The increase in general and administrative expenses was primarily due to:
+•
+non-recurring costs of $6.2 million associated with the Separation Agreement we entered into with our former chief executive officer in April 2021 upon his retirement;
+•
+increased legal costs of $1.1 million, primarily related to the EVRYTHNG acquisition and related legal due diligence;
+•
+increased consulting costs of $0.6 million for 2021 executive and Board of Director initiatives; and
+•
+increased accounting costs of $0.2 million, primarily related to the accounting and tax due diligence associated with the EVRYTHNG acquisition; partially offset by
+•
+decreased compensation costs of $1.1 million, reflecting lower compensation for our current chief executive officer, partially offset by increased compensation costs related to higher headcount.
+Stock-based compensation
+The changes in stock-based compensation expense were primarily due to the expense recognized upon the acceleration of stock awards associated with the Separation Agreement we entered into with our former chief executive officer in April 2021 and organizational changes we made in sales and marketing in June 2021, partially offset by organizational changes we made in research, development and engineering in July 2020.
+We anticipate incurring an additional $11,301 in stock-based compensation expense through December 31, 2025 for awards outstanding as of December 31, 2021.
+Leases
+We lease our principal corporate office space, which is approximately 47,000 square feet in size and located in Beaverton, Oregon. In July 2015, we entered into an amendment with the landlord of this office space to extend the lease term through March 2024, with rent payments totaling $5.5 million plus operating expenses, payable in monthly installments.
+In February 2022, we entered into a sublease agreement and lease extension agreement on a facility in Beaverton, Oregon in order to move our principal corporate offices. The new facility is approximately 65,500 square feet in size. The term of the sublease and lease extension runs through September 2030, with rent payments totaling $8.8 million plus operating expenses, payable in monthly installments. The first 26 months of rent payments and operating expenses are abated to cover the remaining term of our existing corporate office lease.
+Other income, net
+The increase in other income, net was primarily due to the $5,094 gain on the forgiveness of our PPP loan in September 2021, partially offset by lower interest rates earned on investments, net of higher average investment balances.
+Provision for income taxes
+The provision for income taxes reflects current taxes, deferred taxes and withholding taxes in certain foreign jurisdictions.
+For the year ended December 31, 2021, our effective tax rate was 0%, reflecting a full valuation allowance recorded against our deferred tax assets. The valuation allowance against deferred tax assets as of December 31, 2021 was $64,273, an increase of $8,634 from $55,639 as of December 31, 2020. We continually assess the applicability of a valuation allowance against our deferred tax assets. Based upon the positive and negative evidence available as of December 31, 2021, and largely due to the cumulative loss incurred by us over the preceding three years, which is considered a significant piece of negative evidence when assessing the realizability of deferred tax assets, a full valuation allowance is recorded against our deferred tax assets. We will not record tax benefits on any future losses until it is determined that those tax benefits will be realized. All future reversals of the valuation allowance would result in a tax benefit in the period recognized.
+For the year ended December 31, 2020, our effective tax rate was 0%, reflecting a full valuation allowance recorded against our deferred tax assets. The valuation allowance against deferred tax assets as of December 31, 2020 was $55,639, an increase of $7,830 from $47,809 as of December 31, 2019.
+Liquidity and Capital Resources
+(1)
+The current (liquidity) ratio is calculated by dividing total current assets by total current liabilities.
+The $36,110 decrease in cash, cash equivalents and marketable securities at December 31, 2021, from December 31, 2020, resulted primarily from:
+•
+cash used in operations,
+•
+purchases of common stock related to tax withholding in connection with the vesting of restricted stock, restricted stock units, performance restricted stock units and exercise of stock options,
+•
+loan issued to EVRYTHNG, a related party, prior to closing the acquisition, and
+•
+purchases of property and equipment and capitalized patent costs.
+Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash and cash equivalents, marketable securities, and trade accounts receivable. We place our cash and cash equivalents with major banks and financial institutions and at times deposits may exceed insured limits. Marketable securities include commercial paper, corporate notes, federal agency notes and pre-refunded municipals. Our investment policy
+requires our portfolio to be invested to ensure that the greater of $3,000 or 7% of the invested funds will be available within 30 days’ notice.
+Other than cash used for operating needs, which may include short-term marketable securities, our investment policy limits our credit exposure to any one financial institution or type of financial instrument by limiting the maximum of 5% of our cash and cash equivalents and marketable securities or $1,000, whichever is greater, to be invested in any one issuer except for the U.S. government, U.S. federal agencies and U.S.-backed securities, which have no limits, at the time of purchase. Our investment policy also limits our credit exposure by limiting to a maximum of 40% of our cash and cash equivalents and marketable securities, or $15,000, whichever is greater, to be invested in any one industry category, (e.g., financial or energy industries), at the time of purchase. As a result, we believe our credit risk associated with cash and investments to be minimal. A decline in the market value of any security below cost that is deemed to be other-than-temporary results in a reduction in carrying amount to fair value. To determine whether an impairment is other-than-temporary, we consider whether we have the ability and intent to hold the investment until a market price recovery and evidence indicating that the cost of the investment is recoverable outweighs evidence to the contrary. There have been no other-than-temporary impairments identified or recorded by us in the years ended December 31, 2021 and 2020.
+Cash flows from operating activities
+Cash flows used in operating activities in 2021 compared to 2020 increased by $6,178, primarily as a result of a higher net loss, lower non-cash items and the impact of changes in operating assets and liabilities. The decrease in non-cash items was primarily due to the $5,032 gain on the forgiveness of the principal on our PPP loan, partially offset by higher stock-based compensation. The change in operating assets and liabilities was due to the timing of receipts from customers and payments to vendors.
+Cash flows from investing activities
+Cash flows from investing activities in 2021 compared to 2020 increased by $60,245, from $34,264 used to $25,981 provided, primarily as a result of higher net maturities of marketable securities, partially offset by a $2,000 loan issued to EVRYTHNG, a related party, prior to the closing of the acquisition.
+Cash flows from financing activities
+Cash flows from financing activities in 2021 compared to 2020 decreased by $68,457, from $62,685 provided to $5,772 used, primarily as a result of proceeds from the issuance of common stock and preferred stock related to the Subscription Agreement with TCM Strategic Partners L.P. in September 2020, lower proceeds from stock option exercises, proceeds from our PPP loan issued in April 2020, and higher purchases of common stock in 2021 in satisfaction of required withholding tax lability.
+Future cash expectations
+Under the rules of ASC Subtopic 205-40 “Presentation of Financial Statements-Going Concern” (“ASC 205-40”), companies are required to evaluate whether conditions and/or events raise substantial doubt about their ability to meet their future financial obligations as they become due within one year after the date that the financial statements are issued. This evaluation takes into account a company’s current available cash and projected cash needs over the one year evaluation period but may not consider things beyond its control, such as increasing revenue or the future exercise of outstanding financial assets. We have incurred operating losses and negative cash flows from operating activities during the last several years, and depending on future results, may continue to incur such losses and negative cash flows in the future. We believe our cash and marketable securities of $41,618 at December 31, 2021, will fund our projected operations for a period of less than 12 months, assuming we are not able to
+significantly grow revenues as currently expected, collect proceeds from the exercise of the EVRYTHNG warrants (see EVRYTHNG Acquisition section below for more information), or implement plans to contain operating costs. In this case, additional sources of capital will be needed by us to fund our operations. Under the rules of ASC 205-40, these factors raise substantial doubt about our ability to continue as a going concern.
+We plan, as necessary, to secure additional capital in the future through increased revenue, exercise of the EVRYTHNG warrants, partnerships, collaborations, equity or debt financings, or other sources to carry out our planned business activities. If additional capital is not available when required, we may need to take steps to contain costs until such funding is received.
+EVRYTHNG Acquisition
+On January 3, 2022, we closed our acquisition of EVRYTHNG pursuant to the Share Purchase Agreement (“Purchase Agreement”) entered into on November 15, 2021. Upon closing, EVRYTHNG became a wholly owned subsidiary of Digimarc.
+We acquired all outstanding shares of EVRYTHNG’s share capital in exchange for aggregate initial consideration consisting of 772 shares of our common stock and warrants to purchase 231 shares of our common stock. The number of warrants issued was determined based on there being approximately $8,500 of closing costs, which includes EVRYTHNG’s outstanding indebtedness, transaction expenses and certain other liabilities, net of EVRYTHNG’s cash on hand at closing. We paid $6,931 of the estimated closing costs in January 2022. A portion of the initial consideration was held back by us to secure any post-closing adjustments to the initial consideration and the indemnification obligations of the sellers.
+The warrants have a per share exercise price of $36.56 and may only be exercised by payment of the exercise price in cash. The number of shares of common stock underlying the warrants and the exercise price of the warrants are subject to adjustment upon the occurrence of certain specified events, including subdivisions and combinations of our common stock. The warrants will expire on March 27, 2022.
+Under the terms of the Purchase Agreement, we filed a Registration Statement on Form S-3 with the SEC on January 19, 2022, that became effective on January 28, 2022, covering the resale of the shares of the common stock issued and to be issued as consideration to the sellers.
+We granted replacement equity awards to the holders of unvested EVRYTHNG options, pursuant to the terms of the Purchase Agreement. The replacement equity awards have substantially equivalent economic value and vesting terms as the cancelled unvested options.
+The Purchase Agreement provides for additional shares of our common stock, subject to certain conditions, to be issued in September 2022. The number of additional common shares, before any downward adjustments, is equivalent to $50,000 of our common stock. The number of additional common shares will be adjusted downward if EVRYTHNG fails to meet its Product Annual Recurring Revenue (“Product ARR”) target of $10,000 by February 28, 2022, and/or if our average stock price during the applicable measurement period is higher than our stock price as of the closing of the EVRYTHNG acquisition. The number of additional shares that may be issued is described in more detail in Item 1.01 of the Current Report on Form 8-K that we filed with the SEC on November 15, 2021, describing the Purchase Agreement. Based on estimated Product ARR at February 28, 2022, which is preliminary and subject to audit, we do not anticipate any additional shares of our common stock will be issued in September 2022.
+Equity Distribution Agreement
+On May 16, 2019, we entered into an Equity Distribution Agreement, whereby we may sell from time to time through Wells Fargo Securities, LLC, as our sales agent, our common stock having an aggregate offering price of up to $30,000. Wells Fargo Securities, LLC will receive from us a commission equal to 2.50% of the gross sales price per share of common stock for shares having an aggregate offering price of up to $10,000, and a commission of 2.25% of the gross sales price per share of common stock thereafter, for shares sold under the Equity Distribution Agreement. As of December 31, 2021, we had sold 498 shares at an average price of $46.36 under this Equity Distribution Agreement, totaling $23,068 of cash proceeds, less $544 of commissions and $646 of stock issuance costs. As of December 31, 2021, $6,932 remains available for future issuance under the Equity Distribution Agreement.
+Shelf Registration
+On June 5, 2020, we filed a new shelf registration statement on Form S-3 that included $49,265 of unsold securities from our prior shelf registration statement filed on May 26, 2017 that expired in June 2020. Under the new shelf registration statement, we may sell securities in one or more offerings up to $100,000. As of December 31, 2021, $97,892 remains available under the shelf registration. The new shelf registration statement will expire in July 2023.
+We may sell shares under the shelf registration and/or use similar or other financing means to raise working capital in the future, if necessary, to support continued investment in our growth initiatives. We may also raise capital in the future to fund acquisitions and/or investments in complementary businesses, technologies or product lines. If it becomes necessary to obtain additional financing, we may not be able to do so, or if these funds are available, they may not be available on satisfactory terms. The COVID-19 pandemic has created substantial uncertainty and volatility in the stock market, particularly in the small-cap sector in which our stock is traded, and negatively impacted our share price. These factors may inhibit our near-term ability to obtain financing.
+Forward-Looking Statements
+This Annual Report on Form 10-K includes “forward-looking statements” within the meaning of Section 21E of the Securities Exchange Act of 1934 and Section 27A of the Securities Act of 1933. Words such as “may,” “might,” “plan,” “should,” “could,” “expect,” “anticipate,” “intend,” “believe,” “project,” “forecast,” “estimate,” “continue,” and variations of such terms or similar expressions are intended to identify such forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements, or other statements made by us, are made based on our expectations and beliefs concerning future events impacting us, and are subject to uncertainties and factors (including those specified below), which are difficult to predict and, in many instances, are beyond our control. As a result, our actual results could differ materially from those expressed in or implied by any such forward-looking statements, and investors are cautioned not to place undue reliance on such statements. We believe that the following factors, among others (including those described in Item 1A. “Risk Factors”), could affect our future performance and the liquidity and value of our securities and cause our actual results to differ materially from those expressed or implied by forward-looking statements made by us. Forward-looking statements include but are not limited to statements relating to:
+•
+our expectations regarding the acquisition of EVRYTHNG and its impact on our business, including our expectations regarding additional shares that may be issued in connection with the acquisition;
+•
+our beliefs regarding the possible effects of the COVID-19 pandemic on general economic conditions, public health, and consumer demand, and the Company’s results of operations, liquidity, capital resources, and general performance in the future;
+•
+the possible impact of COVID-19 on our ability to obtain financing through our Equity Distribution Agreement and the availability of any alternative sources of financing;
+•
+the possible impact of any audit or review related to our PPP loan;
+•
+the potential impact of COVID-19 on projects with our Commercial customers and partners;
+•
+the concentration of most of our revenue among few customers and the trends and sources of future revenue;
+•
+anticipated successful advocacy of our technology by our partners;
+•
+our belief regarding the global deployment of our products;
+•
+our beliefs regarding potential outcomes of participating in the HolyGrail 2.0 initiative and the utility of our products in the recycling industry;
+•
+our ESG projects and ESG Impact Report;
+•
+our future level of investment in our business, including investment in research, development and engineering of products and technology, development of our intellectual property, sales growth initiatives and development of new market opportunities;
+•
+anticipated expenses, costs, margins, provision for income taxes and investment activities in the foreseeable future;
+•
+our assumptions and expectations related to stock awards;
+•
+our belief that we have one of the world’s most extensive patent portfolios in digital watermarking and related fields;
+•
+anticipated effect of our adoption of accounting pronouncements;
+•
+our beliefs regarding our critical accounting policies;
+•
+our expectations regarding the impact of accounting pronouncements issued but not yet adopted;
+•
+anticipated revenue to be generated from current contracts, renewals, and as a result of new programs;
+•
+our estimates, judgments and assumptions related to impairment testing;
+•
+variability of contracted arrangements in response to changes in circumstances underlying the original contractual arrangements;
+•
+business opportunities that could require that we seek additional financing and our ability to do so;
+•
+the size and growth of our markets and our assumptions and beliefs related to those markets;
+•
+the existence of international growth opportunities and our future investment in such opportunities;
+•
+our expected short-term and long-term liquidity positions;
+•
+our capital expenditure and working capital requirements and our ability to fund our capital expenditure and working capital needs through cash flow from operations or financing;
+•
+our expectations regarding our ability to meet future financial obligations as they become due within the coming fiscal year;
+•
+the effect of computerized trading on our stock price;
+•
+capital market conditions, our expectations regarding credit risk exposure, interest rate volatility and other limitations on the availability of capital, which could have an impact on our cost of capital and our ability to access the capital markets;
+•
+our use of cash, cash equivalents and marketable securities in upcoming quarters and the possibility that our deposits of cash and cash equivalents with major banks and financial institutions may exceed insured limits;
+•
+the strength of our competitive position and our ability to innovate and enhance our competitive differentiation;
+•
+our beliefs related to our existing facilities;
+•
+protection, development and monetization of our intellectual property portfolio;
+•
+our beliefs related to our relationship with our employees and the effect of increasing diversity within our workforce;
+•
+our beliefs regarding cybersecurity incidents;
+•
+our beliefs related to certain provisions in our bylaws and articles of incorporation;
+•
+our beliefs related to legal proceedings and claims arising in the ordinary course of business; and
+•
+other risks detailed in our filings with the Securities and Exchange Commission, including the risk factors set forth in Item 1A. “Risk Factors.”
+We believe that the risk factors specified above and the risk factors contained in Item 1A, “Risk Factors,” among others, could affect our future performance and the liquidity and value of our securities and cause our actual results to differ materially from those expressed or implied by forward-looking statements made by us or on our behalf. Investors should understand that it is not possible to predict or identify all risk factors and that there may be other factors that may cause our actual results to differ materially from the forward-looking statements. All forward-looking statements made by us or by persons acting on our behalf apply only as of the date of this Annual Report on Form 10-K. We do not undertake any obligation to publicly update or revise any forward-looking statements to reflect future events, information or circumstances that arise after the date of the filing of this Annual Report on Form 10-K.

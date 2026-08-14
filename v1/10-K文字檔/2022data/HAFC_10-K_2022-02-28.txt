@@ -1,0 +1,1683 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+This discussion presents management’s analysis of the financial condition and results of operations as of and for the years ended December 31, 2021, 2020 and 2019. This discussion should be read in conjunction with our Consolidated Financial Statements and the Notes related thereto presented elsewhere in this Report. See also “Cautionary Note Regarding Forward-Looking Statements.”
+Critical Accounting Policies
+We have established various accounting policies that govern the application of GAAP in the preparation of our Consolidated Financial Statements. The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions to arrive at the carrying value of assets and liabilities and amounts reported for revenues and expenses. Our financial position and results of operations can be materially affected by these estimates and assumptions. Critical accounting policies are those policies that are most important to the determination of our financial condition and results of operations or that require management to make assumptions and estimates that are subjective or complex. Our significant accounting policies are discussed in the “Notes to Consolidated Financial Statements, Note 1 - Summary of Significant Accounting Policies.” Management believes that the following policy is critical.
+Allowance for credit losses and Allowance for credit losses related to off-balance sheet items
+Our allowance for credit losses methodologies incorporate a variety of risk considerations, both quantitative and qualitative, in establishing an allowance for credit losses that management believes is appropriate at each reporting date. Quantitative factors include our historical loss experiences on loan pools segmented by type, and considers risk rating, delinquency and charge-off trends, collateral values, changes in nonperforming loans, and other factors. Qualitative factors are used to adjust the allowance calculation for risks not considered by the quantitative calculations. Qualitative factors considered in our methodologies include the general economic forecast in our markets, concentrations of credit, changes in lending management and staff, quality of the loan review system, and changes in interest rates. See “- Allowance for Credit Losses”, “Financial Condition - Allowance for credit losses and Allowance for credit losses related to off-balance sheet items”, “Results of Operations -Credit Loss Expense” and “Notes to Consolidated Financial Statements, Note 1 - Summary of Significant Accounting Policies” for additional information on methodologies used to determine the allowance for credit losses and the allowance for credit losses related to off-balance sheet items.
+Executive Overview
+For the years ended December 31, 2021, 2020 and 2019, net income was $98.7 million, $42.2 million and $32.8 million, respectively. The increase of $56.5 million, or 133.9 percent, in net income for the year ended December 31, 2021 as compared with the year ended December 31, 2020, was primarily due to a decrease in credit loss expense of $69.9 million and lower interest expense on customer deposits of $22.3 million. These decreases were partially offset by higher income tax expense of $19.5 million, lower interest income securities of $4.3 million and lower interest on loans receivable of $3.2 million.
+The increase of $9.4 million, or 28.7 percent, in net income for the year ended December 31, 2020 as compared with the year ended December 31, 2019, was primarily due to lower interest expense on customer deposits of $29.1 million and higher noninterest income of $15.6 million primarily from higher gains on sale of securities. These increases were partially offset by lower interest income on loans receivable of $17.6 million and higher credit loss provisions of $15.3 million for loans receivable, off-balance sheet items and accrued interest receivable.
+Effective January 1, 2020, the Company adopted Accounting Standards Update (“ASU”) 2016-13, Financial Instruments - Credit Losses, which replaced the incurred loss methodology for estimating credit losses with a forward-looking current expected credit losses (“CECL”) methodology. The adoption resulted in a $17.4 million increase to the beginning balance of the allowance for credit losses, a $335,000 decrease to the beginning balance of the allowance for off-balance sheet-items and an after-tax charge of $12.2 million to the beginning balance of retained earnings.
+For the years ended December 31, 2021, 2020 and 2019, our earnings per diluted share were $3.22, $1.38 and $1.06, respectively.
+Additional significant financial highlights include:
+•
+Cash and due from banks increased $217.1 million to $609.0 million as of December 31, 2021 from $391.8 million at December 31, 2020, primarily from a higher volume of non-interest bearing deposits and the issuance of subordinated debt.
+•
+Loans receivable increased by $271.4 million, or 5.6 percent, to $5.15 billion as of December 31, 2021, compared with $4.88 billion as of December 31, 2020. The increase was due to strong demand in commercial real estate and commercial and industrial loans.
+•
+Securities increased $157.0 million to $910.8 million at December 31, 2021 from $753.8 million at December 31, 2020, primarily from excess liquidity, which was invested mainly in tax-exempt municipal bonds.
+•
+Deposits were $5.79 billion at December 31, 2021 compared with $5.28 billion at December 31, 2020 as noninterest-bearing deposits increased $675.8 million while interest-bearing deposits decreased by $164.5 million.
+•
+Cash dividends of $0.54 per share of common stock were paid for the year ended December 31, 2021 compared with $0.52 and $0.96 per share of common stock for the years ended December 31, 2020 and 2019, respectively.
+Results of Operations
+Net Interest Income
+Our primary source of revenue is net interest income, which is the difference between interest and fees derived from earning assets, and interest paid on liabilities obtained to fund those assets. Our net interest income is affected by changes in the level and mix of interest-earning assets and interest-bearing liabilities, referred to as volume changes. Net interest income is also affected by changes in the yields earned on assets and rates paid on liabilities, referred to as rate changes. Interest rates charged on loans are affected principally by changes to market interest rates, the demand for such loans, the supply of money available for lending purposes, and other competitive factors. Those factors are, in turn, affected by general economic conditions and other factors beyond our control, such as federal economic policies, the general supply of money in the economy, legislative tax policies, governmental budgetary matters, and the actions of the Federal Reserve.
+The following table shows the average balances of assets, liabilities and stockholders’ equity; the amount of interest income, on a tax equivalent basis and interest expense; the average yield or rate for each category of interest-earning assets and interest-bearing liabilities; and the net interest spread and the net interest margin for the periods indicated. All average balances are daily average balances.
+For the Year Ended
+December 31, 2021
+December 31, 2020
+December 31, 2019
+Interest
+Average
+Interest
+Average
+Interest
+Average
+Average
+Income /
+Yield /
+Average
+Income /
+Yield /
+Average
+Income /
+Yield /
+Balance
+Expense
+Rate
+Balance
+Expense
+Rate
+Balance
+Expense
+Rate
+Assets
+(dollars in thousands)
+Interest-earning assets:
+Loans receivable (1)
+$
+4,794,505
+$
+208,601
+4.35
+%
+$
+4,684,512
+$
+211,836
+4.52
+%
+$
+4,507,975
+$
+229,402
+5.09
+%
+Securities (2)
+845,437
+6,230
+0.75
+%
+663,700
+10,537
+1.59
+%
+618,610
+14,806
+2.39
+%
+FHLB stock
+16,385
+5.74
+%
+16,385
+5.51
+%
+16,385
+1,147
+7.00
+%
+Interest-bearing deposits in other banks
+684,442
+0.13
+%
+306,668
+0.19
+%
+73,906
+1,562
+2.11
+%
+Total interest-earning assets
+6,340,769
+216,675
+3.42
+%
+5,671,265
+223,867
+3.95
+%
+5,216,876
+246,917
+4.73
+%
+Noninterest-earning assets:
+Cash and due from banks
+62,401
+72,557
+103,475
+Allowance for credit losses
+(84,735
+)
+(75,250
+)
+(41,933
+)
+Other assets
+225,750
+228,131
+197,517
+Total assets
+$
+6,544,185
+$
+5,896,703
+$
+5,475,935
+Liabilities and stockholders' equity
+Interest-bearing liabilities:
+Deposits:
+Demand: interest-bearing
+$
+113,326
+$
+0.05
+%
+$
+94,167
+$
+0.07
+%
+$
+83,613
+$
+0.14
+%
+Money market and savings
+2,028,235
+5,199
+0.26
+%
+1,758,300
+11,016
+0.63
+%
+1,566,403
+23,556
+1.50
+%
+Time deposits
+1,111,857
+6,395
+0.58
+%
+1,412,951
+22,908
+1.62
+%
+1,752,642
+39,433
+2.25
+%
+Total interest-bearing deposits
+3,253,418
+11,655
+0.36
+%
+3,265,418
+33,994
+1.04
+%
+3,402,658
+63,105
+1.85
+%
+Borrowings
+145,297
+1,697
+1.17
+%
+196,397
+2,367
+1.21
+%
+40,374
+1.89
+%
+Subordinated debentures
+154,400
+8,273
+5.35
+%
+118,663
+6,607
+5.57
+%
+118,079
+7,032
+5.96
+%
+Total interest-bearing liabilities
+3,553,115
+21,625
+0.61
+%
+3,580,478
+42,968
+1.20
+%
+3,561,111
+70,900
+1.99
+%
+Noninterest-bearing liabilities and equity:
+Demand deposits: noninterest-bearing
+2,307,052
+1,680,882
+1,288,301
+Other liabilities
+77,637
+77,478
+61,209
+Stockholders' equity
+606,381
+557,865
+565,314
+Total liabilities and stockholders' equity
+$
+6,544,185
+$
+5,896,703
+$
+5,475,935
+Net interest income (taxable equivalent basis)
+$
+195,050
+$
+180,899
+$
+176,017
+Cost of deposits (3)
+0.21
+%
+0.69
+%
+1.35
+%
+Net interest spread (taxable equivalent basis) (4)
+2.81
+%
+2.75
+%
+2.74
+%
+Net interest margin (taxable equivalent basis)(5)
+3.08
+%
+3.19
+%
+3.37
+%
+(1)
+Loans receivable include loans held for sale and exclude the allowance for credit losses. Nonaccrual loans receivable are included in the average loans receivable balance.
+(2)
+Amounts calculated on a fully taxable equivalent basis using the current statutory federal tax rate of 21 percent.
+(3)
+Represents interest expense on deposits as a percentage of all interest-bearing and noninterest-bearing deposits.
+(4)
+Represents the average yield earned on interest-earning assets less the average rate paid on interest-bearing liabilities.
+(5)
+Represents net interest income as a percentage of average interest-earning assets.
+The table below shows changes in interest income and interest expense and the amounts attributable to variations in interest rates and volumes for the periods indicated. The variances attributable to simultaneous volume and rate changes have been allocated to the change due to volume and the change due to rate categories in proportion to the relationship of the absolute dollar amount attributable solely to the change in volume and to the change in rate.
+Year Ended December 31,
+2021 vs 2020
+2020 vs 2019
+Increases (Decreases) Due to Change In
+Increases (Decreases) Due to Change In
+Volume
+Rate
+Total
+Volume
+Rate
+Total
+(in thousands)
+Interest and dividend income:
+Loans receivable (1)
+$
+4,917
+$
+(8,152
+)
+$
+(3,235
+)
+$
+8,724
+$
+(26,290
+)
+$
+(17,566
+)
+Securities (2)
+2,327
+(6,634
+)
+(4,307
+)
+1,014
+(5,283
+)
+(4,269
+)
+FHLB stock
+-
+-
+(245
+)
+(245
+)
+Interest-bearing deposits in other banks
+(240
+)
+1,450
+(2,420
+)
+(970
+)
+Total interest and dividend income (taxable equivalent) (2)
+$
+7,795
+$
+(14,987
+)
+$
+(7,192
+)
+$
+11,188
+$
+(34,238
+)
+$
+(23,050
+)
+Interest expense:
+Demand: interest-bearing
+$
+$
+(23
+)
+$
+(9
+)
+$
+$
+(59
+)
+$
+(46
+)
+Money market and savings
+1,485
+(7,302
+)
+(5,817
+)
+2,594
+(15,134
+)
+(12,540
+)
+Time
+(4,114
+)
+(12,399
+)
+(16,513
+)
+(6,768
+)
+(9,757
+)
+(16,525
+)
+Borrowings
+(602
+)
+(68
+)
+(670
+)
+1,972
+(368
+)
+1,604
+Subordinated debentures
+1,932
+(266
+)
+1,666
+(460
+)
+(425
+)
+Total interest expense
+$
+(1,285
+)
+$
+(20,058
+)
+$
+(21,343
+)
+$
+(2,154
+)
+$
+(25,778
+)
+$
+(27,932
+)
+Change in net interest income (taxable equivalent) (2)
+$
+9,080
+$
+5,071
+$
+14,151
+$
+13,342
+$
+(8,460
+)
+$
+4,882
+(1)
+Loans receivable include loans held for sale and exclude the allowance for credit losses. Nonaccrual loans receivable are included in the average loans receivable balance.
+(2)
+Amounts calculated on a fully equivalent basis using the current statutory federal tax rate of 21 percent.
+2021 Compared to 2020
+Interest income, on a taxable equivalent basis, decreased $7.2 million, or 3.2 percent, to $216.7 million for the year ended December 31, 2021 from $223.9 million for the year ended December 31, 2020. Interest expense decreased $21.3 million or 49.7 percent, to $21.6 million for 2021 from $43.0 million in 2020. Net interest income, on a taxable equivalent basis, was $195.1 million and $180.9 million for 2021 and 2020, respectively. The increase in net interest income was primarily due to the decrease in interest expense on interest-bearing liabilities, partially offset by the decrease in interest income on interest-earning assets. Average loans were 75.6 percent of average interest earning assets for 2021, down from 82.6 percent for 2020. The net interest spread and net interest margin, on a taxable equivalent basis, for the year ended December 31, 2021 were 2.81 percent and 3.08 percent, respectively, compared with 2.75 percent and 3.19 percent, respectively, for 2020.
+The average balance of loans increased $110.0 million, or 2.3 percent, to $4.79 billion for 2021 from $4.68 billion for 2020. The average balance of securities increased $181.7 million, or 27.4 percent, to $845.4 million in 2021 from $663.7 million for 2020. The average balance of interest earning assets increased $669.5 million, or 11.8 percent, to $6.34 billion for the year ended December 31, 2021 from $5.67 billion for 2020. The increase in the average balance of loans was due mainly to new loan production in real estate loans. The average balance of interest-bearing liabilities decreased $27.4 million, or 0.8 percent, to $3.55 billion for 2021 compared to $3.58 billion in 2020. The decrease in average interest-bearing liabilities resulted primarily from lower time deposits and borrowings, offset by increases in money market and savings accounts and subordinated debentures.
+The average yield on loans decreased to 4.35 percent for the year ended December 31, 2021 from 4.52 percent for 2020, primarily due to the continued decrease in market interest rates in 2021, offset by the change in composition of the loan portfolio with a greater concentration of commercial real estate loans. The average yield on securities, on a taxable equivalent basis, decreased to 0.75 percent for 2021 from 1.59 percent for 2020, attributable primarily to the sale of securities during the second quarter of 2020 to take advantage of unrealized gains, the proceeds of which were reinvested into lower-yielding securities. The average yield on interest-earning assets, on a taxable equivalent basis, decreased 52 basis points to 3.42 percent in 2021 from 3.95 percent in 2020, due mainly to the decrease in the yields on the loan portfolio due to a decrease in market interest rates and the origination of $133.1 million of PPP loans at a rate of one percent. The average cost of interest-bearing liabilities decreased by 59 basis points to 0.61 percent for 2021 from 1.20 percent for 2020. The decrease was due to lower market interest rates and a shift away from time deposits to money market and savings deposits in the composition of the deposit accounts and lower borrowings, partially offset by an increase in subordinated debentures.
+2020 Compared to 2019
+Interest income, on a taxable equivalent basis, decreased $23.1 million, or 9.3 percent, to $223.9 million for the year ended December 31, 2020 from $246.9 million for the year ended December 31, 2019. Interest expense decreased $27.9 million or 39.4 percent, to $43.0 million in 2020 from $70.9 million in 2019. Net interest income, on a taxable equivalent basis, was $180.9 million and $176.0 million in 2020 and 2019, respectively. The increase in net interest income was primarily due to the decrease in interest expense on interest-bearing liabilities, partially offset by the decrease in interest income on interest-earning assets. Average loans were 82.6 percent of average interest earning assets for 2020, down from 86.4 percent for 2019. The net interest spread and net interest margin, on a taxable equivalent basis, for the year ended December 31, 2020 were 2.75 percent and 3.19 percent, respectively, compared with 2.74 percent and 3.37 percent, respectively, for 2019.
+The average balance of loans increased $176.5 million, or 3.9 percent, to $4.68 billion in 2020 from $4.51 billion for 2019. The average balance of securities increased $45.1 million, or 7.3 percent, to $663.7 million for 2020 from $618.6 million in 2019. The average balance of interest earning assets increased $454.4 million, or 8.7 percent, to $5.67 billion for the year ended December 31, 2020 from $5.22 billion for 2019. The increase in the average balance of loans was due mainly to new loan production driven by PPP loans. The average balance of interest-bearing liabilities increased $19.4 million, or 0.5 percent, to $3.58 billion in 2020 compared to $3.56 billion in 2019. The increase in average interest-bearing liabilities resulted primarily from higher money market and savings and borrowings balances, offset by a decrease in time deposits.
+The average yield on loans decreased to 4.52 percent for the year ended December 31, 2020 from 5.09 percent for 2019, primarily due to a decrease in market interest rates commencing in the first quarter of 2020 and the origination of $301.8 million of PPP loans at a rate of one percent during the second quarter of 2020, offset by the change in composition of the loan portfolio with a greater concentration of commercial and industrial loans receivable. The average yield on securities, on a taxable equivalent basis, decreased to 1.59 percent in 2020 from 2.39 percent in 2019, attributable primarily to the sale of securities during the second quarter of 2020 to take advantage of unrealized gains, the proceeds of which were reinvested into lower-yielding securities. The average yield on interest-earning assets, on a taxable equivalent basis, decreased 78 basis points to 3.95 percent in 2020 from 4.73 percent for 2019, due mainly to the decrease in the yields on the loan portfolio due to a decrease in market interest rates and the origination of $301.8 million of PPP loans at a rate of one percent. The average cost of interest-bearing liabilities decreased by 79 basis points to 1.20 percent in 2020 from 1.99 percent for 2019. The decrease was due to lower market interest rates and a shift away from time deposits to noninterest bearing demand deposits in the composition of the deposit accounts.
+Credit Loss Expense
+As a result of credit risks inherent in our lending business, we recognize an allowance for credit losses through charges to credit loss expense. These charges pertain not only to our outstanding loan portfolio, but also to off-balance sheet items, such as letters of credit and commitments to extend credit, and the allowance for uncollectible accrued interest receivable for loans modified under the CARES Act. Credit loss expense for our outstanding loan portfolio are recorded to the allowance for credit losses. The allowance for off-balance sheet items is included in accrued expenses and other liabilities and the allowance for uncollectible accrued interest receivable is included in accrued interest receivable.
+2021 Compared to 2020
+The credit loss expense recovery for 2021 was $24.4 million compared with a credit loss expense of $45.5 million for 2020. The credit loss expense recovery for 2021 was comprised of a $24.1 million negative provision for credit losses, a $0.2 million negative provision for off-balance sheet items and $1.7 million negative provision for accrued interest receivable for loans currently or previously modified under the CARES Act, offset by $1.6 from a SBA guarantee repair loss allowance. See “Financial Condition - Allowance for credit losses and Allowance for credit losses related to off-balance sheet items” for additional information. For the year ended December 31, 2020, credit loss expense was $45.5 million and included a $42.5 million provision for credit losses. Additionally, a $0.7 million provision for off-balance sheet items and a $2.3 million provision for losses on accrued interest receivable for loans currently or previously modified under the CARES Act, was recorded as credit loss expense during 2020.
+2020 Compared to 2019
+Credit loss expense for the full year 2020 was $45.5 million compared with $30.2 million for 2019. Credit loss expense for 2020 reflected the new accounting standard for determining the allowance for credit losses and included a $42.5 million provision for credit losses which primarily reflected the change to life of loan current expected credit losses, and the impact of the pandemic. Additionally, a $0.7 million provision for off-balance sheet items and a $2.3 million provision for losses on accrued interest receivable for loans currently or previously modified under the CARES Act, was recorded as credit loss expense during 2020. For the year ended December 31, 2019, under the former accounting standard for determining the allowance for credit losses, the provision for credit losses was $30.2 million, which primarily reflected specific allowance allocations related to a troubled loan relationship. The 2019 provision for off-balance sheet items, included in other operating expenses, was $1.0 million.
+Noninterest Income
+The following table sets forth the various components of noninterest income for the years indicated:
+Year Ended December 31,
+(in thousands)
+Service charges on deposit accounts
+$
+11,043
+$
+8,485
+$
+9,951
+Trade finance and other service charges and fees
+4,628
+4,033
+4,786
+Servicing income
+2,820
+2,481
+1,798
+Bank-owned life insurance income
+1,011
+1,113
+1,121
+All other operating income
+3,857
+4,625
+2,114
+Service charges, fees and other
+23,359
+20,737
+19,770
+Gain on sale of SBA loans
+17,266
+5,247
+5,252
+Net gain (loss) on sales of securities
+(499
+)
+15,712
+1,295
+Gain on sale of bank premises
+1,235
+Legal settlement
+1,000
+-
+Total noninterest income
+$
+40,496
+$
+43,104
+$
+27,552
+2021 Compared to 2020
+For the year ended December 31, 2021 noninterest income was $40.5 million, a decrease of $2.6 million, or 6.1 percent, compared with $43.1 million in 2020. The decrease was primarily attributable to a net loss of $0.5 million on the sale of securities for the year ended December 31, 2021 compared with $15.7 million of gains in 2020, partially offset by higher gain on the sale of SBA loans of $12.0 million and higher service charges on deposit accounts of $2.6 million.
+2020 Compared to 2019
+For the year ended December 31, 2020 noninterest income was $43.1 million, an increase of $15.6 million, or 56.4 percent, compared with $27.6 million in 2019. The increase was primarily attributable to a net gain of $15.7 million in the sale of securities for the year ended December 31, 2020 compared with $1.3 million in 2019 and a $1.0 million legal settlement from a failed bank acquisition, partially offset by lower service charges on deposit accounts of $1.5 million and lower gains of $0.8 million in the sale of bank premises.
+Noninterest Expense
+The following table sets forth various components of noninterest expense for the years indicated:
+Year Ended December 31,
+(in thousands)
+Salaries and employee benefits
+$
+72,561
+$
+66,988
+$
+67,900
+Occupancy and equipment
+19,075
+18,283
+17,064
+Data processing
+12,003
+11,222
+8,755
+Professional fees
+5,566
+6,771
+9,060
+Supplies and communications
+3,026
+3,096
+2,936
+Advertising and promotion
+2,649
+2,671
+3,797
+All other operating expenses
+9,870
+10,268
+14,221
+Subtotal
+124,750
+119,299
+123,732
+Other real estate owned expense
+Repossessed personal property expense (income)
+(492
+)
+(452
+)
+-
+Impairment loss on bank premises
+-
+1,734
+Total noninterest expense
+$
+124,455
+$
+119,053
+$
+125,906
+2021 Compared to 2020
+For the year ended December 31, 2021, noninterest expense was $124.5 million, an increase of $5.4 million, or 4.5 percent, compared with $119.1 million for 2020. The increase was due primarily to higher salaries and benefits of $5.6 million, stemming from increased compensation on higher loan production and a decrease of $1.2 million in professional fees.
+2020 Compared to 2019
+For the year ended December 31, 2020, noninterest expense was $119.1 million, a decrease of $6.9 million, or 5.4 percent, compared with $125.9 million in 2019. The decrease was due primarily to the capitalization of $3.1 million in cost for PPP originations, a $1.6 million decrease in repossessed personal property expense and a $1.5 million decrease in impairments on bank premises.
+Income Tax Expense
+For the years ended December 31, 2021, 2020 and 2019, income tax expense was $36.8 million, $17.3 million and $14.6 million, respectively. The effective tax rate for the years ended December 31, 2021, 2020 and 2019 was 27.2 percent, 29.1 percent and 30.8 percent, respectively. The lower effective tax rate in 2021 compared to 2020 and 2019 was due mainly to a reduction in the deferred tax asset valuation allowance required for state net operating loss carryforwards and state tax credits.
+Income taxes are discussed in more detail in “Notes to Consolidated Financial Statements, Note 1 - Summary of Significant Accounting Policies” and “Note 11 - Income Taxes” presented elsewhere herein.
+Financial Condition
+Securities Portfolio
+As of December 31, 2021, our securities portfolio was composed of mortgage-backed securities, collateralized mortgage obligations, debt securities issued by U.S. government agencies and sponsored agencies and tax-exempt municipal bonds. Most of the securities carried fixed interest rates. Other than holdings of U.S. government and agency securities, there were no securities of any one issuer exceeding 10 percent of stockholders’ equity as of December 31, 2021, 2020 and 2019.
+As of December 31, 2021, securities available for sale increased $157.0 million, or 20.8 percent, to $910.8 million from $753.8 million as of December 31, 2020. The increase was mainly due to purchases of U.S. government agency and sponsored agency securities and tax-exempt municipal bonds with excess liquidity.
+The following table summarizes the contractual maturity schedule for securities, at amortized cost, and their cost-weighted average yield, which is calculated using amortized cost as the weight, as of December 31, 2021:
+After One
+Year But
+After Five
+Years But
+Within One
+Year
+Within Five
+Years
+Within Ten
+Years
+After Ten
+Years
+Total
+Amount
+Yield
+Amount
+Yield
+Amount
+Yield
+Amount
+Yield
+Amount
+Yield
+(dollars in thousands)
+Securities available for sale:
+U.S. Treasury securities
+$
+-
+-
+%
+$
+15,457
+0.98
+%
+$
+-
+-
+%
+$
+-
+-
+%
+$
+15,457
+0.98
+%
+U.S. government agency and sponsored agency obligations:
+Mortgage-backed securities
+1.85
+%
+3,761
+0.89
+%
+1,502
+1.05
+%
+609,661
+1.06
+%
+615,393
+1.06
+%
+Collateralized mortgage obligations
+2.04
+%
+1.23
+%
+1,751
+2.00
+%
+93,139
+0.67
+%
+95,153
+0.70
+%
+Debt securities
+-
+-
+%
+105,040
+0.75
+%
+12,459
+1.01
+%
+-
+-
+%
+117,499
+0.78
+%
+Total U.S. government agency and sponsored agency obligations
+1.87
+%
+109,001
+0.75
+%
+15,712
+1.13
+%
+702,800
+1.01
+%
+828,045
+0.98
+%
+Municipal bonds-tax exempt
+-
+-
+%
+-
+-
+%
+-
+-
+%
+79,152
+1.33
+%
+79,152
+1.33
+%
+Total securities available for sale
+$
+1.87
+%
+$
+124,458
+0.78
+%
+$
+15,712
+1.13
+%
+$
+781,952
+1.04
+%
+$
+922,654
+1.01
+%
+Loan Portfolio
+As of December 31, 2021, 2020 and 2019, loans receivable (excluding loans held for sale), net of deferred loan costs, discounts and allowance for credit losses, were $5.08 billion, $4.79 billion and $4.55 billion, respectively, representing an increase of $289.2 million or 6.0 percent in 2021 and an increase of $241.0 million, or 5.3 percent in 2020. The $289.2 million increase in loans in 2021 was attributable to higher new loan production, mainly in commercial real estate and commercial and industrial loans, and enhanced asset quality due to the gradual improvement in the economic environment during the year.
+During the year ended December 31, 2021, total loan disbursements consisted of $795.1 million in commercial real estate loans, $272.4 million in leases receivable, $372.3 million in commercial and industrial loans, $292.1 million in SBA loans and $206.8 million in residential/consumer loans, offset by $1.66 billion in pay-offs and other net reductions.
+The table below shows the maturity distribution of outstanding loans (before the allowance for credit losses) as of December 31, 2021. In addition, the table shows the distribution of such loans between those with floating or variable interest rates and those with fixed or predetermined interest rates.
+Within One
+Year
+After One
+Year but
+Within Five
+Years
+After Five
+Years but
+Within
+Fifteen
+Years
+After
+Fifteen
+Years
+Total
+(in thousands)
+Real estate loans:
+Commercial property
+Retail
+$
+148,240
+$
+561,061
+$
+260,833
+$
+-
+$
+970,134
+Hospitality
+216,771
+444,829
+56,092
+-
+717,692
+Other
+272,725
+1,083,799
+454,124
+108,385
+1,919,033
+Total commercial property loans
+637,736
+2,089,689
+771,049
+108,385
+3,606,859
+Construction
+42,025
+52,981
+-
+-
+95,006
+Residential/consumer loans
+6,914
+5,423
+387,978
+400,546
+Total real estate loans
+686,675
+2,142,901
+776,472
+496,363
+4,102,411
+Commercial and industrial loans
+292,924
+190,661
+78,246
+-
+561,831
+Leases receivable
+19,874
+419,548
+47,877
+-
+487,299
+Loans receivable
+$
+999,473
+$
+2,753,110
+$
+902,595
+$
+496,363
+$
+5,151,541
+Loans with predetermined interest rates
+$
+395,860
+$
+2,010,497
+$
+224,073
+$
+128,813
+$
+2,759,243
+Loans with variable interest rates
+603,613
+742,613
+678,522
+367,550
+2,392,298
+The table below shows the maturity distribution of outstanding loans with fixed or predetermined interest rates due after one year, as of December 31, 2021.
+After One Year but Within Three Years
+After Three Years but Within Five Years
+After Five Years but Within Fifteen Years
+After Fifteen Years
+Total
+(in thousands)
+Real estate loans:
+Commercial property
+Retail
+$
+169,457
+$
+281,651
+$
+40,074
+$
+-
+$
+491,182
+Hospitality
+135,669
+51,510
+19,383
+-
+206,562
+Other
+269,599
+577,103
+99,054
+8,765
+954,521
+Total commercial property loans
+574,725
+910,264
+158,511
+8,765
+1,652,265
+Construction
+26,428
+-
+-
+-
+26,428
+Residential/consumer loans
+2,964
+120,048
+123,199
+Total real estate loans
+601,282
+910,322
+161,475
+128,813
+1,801,892
+Commercial and industrial loans
+20,543
+58,803
+14,720
+-
+94,066
+Leases receivable
+179,791
+239,756
+47,878
+-
+467,425
+Loans receivable
+$
+801,616
+$
+1,208,881
+$
+224,073
+$
+128,813
+$
+2,363,383
+The table below shows the maturity distribution of outstanding loans with floating or variable interest rates (including hybrids) due after one year, as of December 31, 2021.
+After One Year but Within Three Years
+After Three Years but Within Five Years
+After Five Years but Within Fifteen Years
+After Fifteen Years
+Total
+(in thousands)
+Real estate loans:
+Commercial property
+Retail
+$
+61,527
+$
+48,426
+$
+220,759
+$
+-
+$
+330,712
+Hospitality
+214,374
+43,275
+36,709
+-
+294,358
+Other
+117,221
+119,876
+355,069
+99,621
+691,787
+Total commercial property loans
+393,122
+211,577
+612,537
+99,621
+1,316,857
+Construction
+25,922
+-
+-
+26,553
+Residential/consumer loans
+-
+2,459
+267,929
+270,433
+Total real estate loans
+419,089
+212,208
+614,996
+367,550
+1,613,843
+Commercial and industrial loans
+49,895
+61,421
+63,526
+-
+174,842
+Leases receivable
+-
+-
+-
+-
+-
+Loans receivable
+$
+468,984
+$
+273,629
+$
+678,522
+$
+367,550
+$
+1,788,685
+As of December 31, 2021, the loan portfolio included the following concentrations of loans to one type of industry that were greater than 10 percent of loans receivable:
+Balance as of December 31, 2021
+Percentage
+of Loans
+Receivable
+Outstanding
+(in thousands)
+Lessor of nonresidential buildings
+$
+1,691,192
+32.8
+%
+Hospitality
+$
+770,353
+15.0
+%
+Loan Quality Indicators
+Delinquent loans (defined as 30 to 89 days past due and still accruing) were $5.9 million, $9.5 million and $10.3 million as of December 31, 2021, 2020 and 2019, respectively, representing a decrease of $3.6 million or 37.9 percent, in 2021 and a decrease of $777,000 or 7.6 percent, in 2020.
+Activity in criticized loans was as follows for the periods indicated:
+Special Mention
+Classified
+(in thousands)
+December 31, 2021
+Balance at beginning of period
+$
+76,978
+$
+140,169
+Additions
+146,226
+60,083
+Reductions
+(127,910
+)
+(139,619
+)
+Balance at end of period
+$
+95,294
+$
+60,633
+December 31, 2020
+Balance at beginning of period
+$
+26,632
+$
+94,025
+Additions
+94,672
+112,771
+Reductions
+(44,326
+)
+(66,627
+)
+Balance at end of period
+$
+76,978
+$
+140,169
+Special mention loans increased by $18.3 million, or 23.8 percent to $95.3 million at December 31, 2021 compared with $77.0 million as of December 31, 2020. Of such loans outstanding at December 31, 2021 and 2020, $32.8 million and $49.1 million, respectively, consisted of loans adversely affected by the pandemic.
+Classified loans decreased by $79.5 million, or 56.7 percent, to $60.6 million at December 31, 2021, from $140.2 million at December 31, 2020. Of such loans outstanding at December 31, 2021 and 2020, $41.1 million and $54.0 million, respectively, were adversely affected by the pandemic.
+Nonperforming Assets
+Nonperforming loans consist of loans on nonaccrual status and loans 90 days or more past due and still accruing interest. Nonperforming assets consist of nonperforming loans and OREO. Loans are placed on nonaccrual status when, in the opinion of management, the full timely collection of principal or interest is in doubt. Generally, the accrual of interest is discontinued when principal or interest payments become more than 90 days past due, unless management believes the loan is adequately collateralized and in the process of collection. However, in certain instances, we may place a particular loan on nonaccrual status earlier, depending upon the individual circumstances surrounding the delinquency of the loan. When a loan is placed on nonaccrual status, previously accrued but unpaid interest is reversed against current income. Subsequent collections of cash are applied as principal reductions when received, except when the ultimate collectability of principal is probable, in which case interest payments are credited to income. Nonaccrual loans may be restored to accrual status when principal and interest become current and full repayment is expected, which generally occurs after sustained payment of six months. Interest income is recognized on the accrual basis for impaired loans not meeting the criteria for nonaccrual. OREO consists of properties acquired by foreclosure or similar means or are vacant bank properties for which their usage for operations has ceased and management intends to offer for sale.
+Except for nonperforming loans discussed below, management is not aware of any loans as of December 31, 2021 for which known credit problems of the borrower would cause serious doubts as to the ability of such borrowers to comply with their present loan repayment terms, or any known events that would result in the loan being designated as nonperforming at some future date.
+Nonaccrual loans were $13.4 million, $83.0 million and $63.8 million as of December 31, 2021, 2020 and 2019, respectively, representing a decrease of $69.7 million, or 83.9 percent, in 2021 and an increase of $19.2 million, or 30.1 percent, in 2020. The decrease in nonaccrual loans in 2021 was primarily due to the payoffs, paydowns, note sales, or upgrades of $35.8 million for nine hospitality loans, $12.4 million for two film tax credit loans, $13.5 million for a troubled relationship, and $8.8 million for lease receivables. At December 31, 2021, $4.7 million of nonaccrual loans related to loans adversely affected by the COVID-19 pandemic. As of December 31, 2021 and 2020, all loans 90 days or more past due were classified as nonaccrual.
+The $13.4 million nonperforming loans as of December 31, 2021 were allocated with individually evaluated allowances of $2.8 million. The allowance for collateral-dependent loans is calculated as the difference between the outstanding loan balance and the value of the collateral as determined by recent appraisals less estimated costs to sell. The allowance for collateral-dependent loans varies based on the collateral coverage of the loan at the time of designation as nonperforming. We continue to monitor the collateral coverage on these loans on a quarterly basis, based on recent appraisals, and adjust the allowance accordingly.
+As of December 31, 2021, OREO consisted of one property with a carrying value of $675,000. As of December 31, 2020, there were four properties with a combined carrying value of $2.4 million in OREO.
+Individually Evaluated Loans
+The Company reviews all loans on an individual basis when they do not share similar risk characteristics with loan pools. Individually evaluated loans are measured for expected credit losses based on the present value of expected cash flows discounted at the effective interest rate, the observable market price, or the fair value of collateral. The allowance for collateral-dependent loans is calculated as the difference between the outstanding loan balance and the value of the collateral as determined by recent appraisals, less estimated costs to sell. The allowance for collateral-dependent loans varies based on the collateral coverage of the loan at the time of the designation as nonperforming.
+Individually evaluated loans were $13.4 million, $91.0 million and $64.8 million as of December 31, 2021, 2020 and 2019, respectively, representing a decrease of $77.6 million, or 85.3 percent, in 2021, and an increase of $26.2 million, or 40.4 percent, in 2020. Specific allowance allocations associated with individually evaluated loans decreased $11.2 million to $2.8 million as of December 31, 2021, compared with $14.0 million as of December 31, 2020.
+For the year ended December 31, 2021, no loans were restructured and subsequently classified as TDRs. For the year ended December 31, 2020, we restructured monthly payments for five loans, with a net carrying value of $4.5 million at the time of modification, which we subsequently classified as TDRs. Temporary payment structure modifications included, but were not limited to, extending the maturity date, reducing the amount of principal and/or interest due monthly, and/or allowing for interest only monthly payments for six months or less.
+At December 31, 2021, the Company assessed accruing TDRs along with performing and accruing loans on a collective basis. As of December 31, 2021, there were no outstanding accruing TDRs. As of December 31, 2020, TDRs on accrual status were $7.9 million, all of which were temporary interest rate and payment reductions or extensions of maturity, and a $5,000 allowance relating to these loans, was included in the allowance for credit losses. As of December 31, 2021 and 2020, TDRs on nonaccrual status were $2.9 million and $17.1 million, respectively, and a $4,000 and $12,000 allowance relating to these loans, respectively, was included in the allowance for credit losses.
+As of December 31, 2019, TDRs on accrual status were $0.8 million, all of which were temporary interest rate and payment reductions or extensions of maturity, and a $29,000 allowance relating to these loans was included in the allowance for credit losses. As of December 31, 2019, restructured loans on nonaccrual status were $55.5 million and a $22.7 million allowance relating to these loans, was included in the allowance for credit losses.
+Allowance for credit losses and Allowance for credit losses related to off-balance sheet items
+The Company’s estimate of the allowance for credit losses at December 31, 2021 reflects losses expected over the remaining contractual life of the assets based on historical, current, and forward-looking information. The contractual term does not consider extensions, renewals or modifications unless the Company has identified an expected troubled debt restructuring.
+Management selected three loss methodologies for the collective allowance estimation. At December 31, 2021, the Company used the discounted cash flow (“DCF”) method to estimate allowances for credit losses for the commercial and industrial loan portfolio, the Probability of Default/Loss Given Default (“PD/LGD”) method for the commercial property, construction and residential property portfolios, and the Weighted Average Remaining Maturity (“WARM”) method to estimate expected credit losses for equipment financing agreements (lease receivables portfolio). Loans that do not share similar risk characteristics are individually evaluated for allowances.
+For all loan pools utilizing the DCF method, the Company determined that four quarters represented a reasonable and supportable forecast period and reverted to a historical loss rate over twelve quarters on a straight-line basis. For each of these loan segments, the Company applied an annualized historical PD/LGD using all available historical periods. Since reasonable and supportable forecasts of economic conditions are imbedded directly into the DCF model, qualitative adjustments are considered but were minimal.
+For loan pools utilizing the PD/LGD method, the Company used historical periods that included an economic downturn to derive historical losses for better alignment in the estimation of expected losses under the PD/LGD method. The Company relied on Frye-Jacobs modeled LGD rates for loan segments with no historical losses. In addition, for those loans granted a loan modification due to COVID-19, the Company used the annualized PD/LGD as of March 31, 2020 to reflect the moratorium on TDRs under Section 4013 of the CARES Act. The PD/LGD method incorporates a forecast into loss estimates using a qualitative adjustment.
+The Company used the WARM method to estimate expected credit losses for equipment financing agreements or the equipment lease receivables portfolio. The Company applied an expected loss ratio based on internal historical losses adjusted as appropriate for qualitative factors.
+For the year ended December 31, 2021, the Company relied on the economic projections from Moody’s Analytics Economic Scenarios and Forecasts to inform its loss driver forecasts over the four-quarter forecast period. For all loan pools, the Company utilizes and forecasts the national unemployment rate as the primary loss driver.
+To adjust the historical and forecast periods to current conditions, the Company applies various qualitative factors derived from market, industry or business specific data, changes in the underlying portfolio composition, trends relating to credit quality, delinquency, nonperforming and adversely rated leases, and reasonable and supportable forecasts of economic conditions.
+The allowance for credit losses was $72.6 million at December 31, 2021 compared with $90.4 million at December 31, 2020. The allowance attributed to loans individually evaluated was $2.8 million at December 31, 2021 compared with $14.0 million at December 31, 2020. This decline primarily resulted from the payoff of two film tax credit loans for $6.2 million and charge-offs of $3.3 million for lease receivables. The allowance attributed to loans collectively evaluated was $69.8 million at December 31, 2021 compared with $76.4 million at December 31, 2020. This decrease principally reflected the improvement in macroeconomic conditions and assumptions during the year ended December 31, 2021, offset by increased loan production. The Company recognizes the inherent uncertainties in the estimate of the allowance for credit losses and the effect the COVID-19 pandemic may have on borrowers and the economy.
+The table below presents the allowance for credit losses by portfolio segment as a percentage of the total allowance for credit losses and loans by portfolio segment as a percentage of the aggregate investment of loans receivable for the periods presented:
+As of December 31,
+Allowance
+Amount
+Percentage of Total Allowance
+Total Loans
+Percentage of Total Loans
+Allowance
+Amount
+Percentage of Total Allowance
+Total Loans
+Percentage of Total Loans
+(dollars in thousands)
+Real estate loans:
+Commercial property
+Retail
+$
+6,579
+9.1
+%
+$
+970,134
+18.8
+%
+$
+4,855
+5.4
+%
+$
+824,606
+16.9
+%
+Hospitality
+22,670
+31.2
+%
+717,692
+13.9
+%
+28,801
+31.9
+%
+859,953
+17.6
+%
+Other
+15,065
+20.8
+%
+1,919,033
+37.3
+%
+13,991
+15.4
+%
+1,610,377
+33.0
+%
+Total commercial property loans
+44,314
+61.1
+%
+3,606,859
+70.0
+%
+47,647
+52.7
+%
+3,294,936
+67.5
+%
+Construction
+4,078
+5.6
+%
+95,006
+1.8
+%
+2,876
+3.2
+%
+58,882
+1.2
+%
+Residential/consumer loans
+0.7
+%
+400,546
+7.8
+%
+1,353
+1.5
+%
+345,831
+7.1
+%
+Total real estate loans
+48,890
+67.4
+%
+4,102,411
+79.6
+%
+51,876
+57.4
+%
+3,699,649
+75.8
+%
+Commercial and industrial loans
+12,418
+17.1
+%
+561,831
+10.9
+%
+21,410
+23.6
+%
+757,255
+15.5
+%
+Leases receivable
+11,249
+15.5
+%
+487,299
+9.5
+%
+17,140
+19.0
+%
+423,264
+8.7
+%
+Total
+$
+72,557
+100.0
+%
+$
+5,151,541
+100.0
+%
+$
+90,426
+100.0
+%
+$
+4,880,168
+100.0
+%
+The following table sets forth certain information regarding certain ratios related to our allowance for credit losses and allowance for credit losses related to off-balance sheet items for the periods presented. Allowance for credit losses related to off-balance sheet items is determined by applying loss factors according to loan pool and grade as well as actual current commitment usage figures by loan type to existing contingent liabilities:
+As of and for the Year Ended December 31,
+(dollars in thousands)
+Ratios:
+Allowance for credit losses to loans
+1.41
+%
+1.85
+%
+1.33
+%
+Nonaccrual loans to loans
+0.26
+%
+1.70
+%
+1.38
+%
+Allowance for credit losses to nonaccrual loans
+543.09
+%
+108.91
+%
+96.31
+%
+Balance:
+Nonaccrual loans at end of period
+$
+13,360
+$
+83,032
+$
+63,761
+Nonperforming loans at end of period
+$
+13,360
+$
+83,032
+$
+63,761
+The allowance for credit losses was $72.6 million, $90.4 million and $61.4 million, respectively, as of December 31, 2021, 2020 and 2019, representing a decrease of $17.8 million, or 19.7 percent, in 2021 and an increase of $29.0 million, or 47.3 percent, in 2020. The allowance for credit losses as a percentage of loans decreased to 1.41 percent as of December 31, 2021 from 1.85 percent as of December 31, 2020. The decrease in the allowance for credit losses was mainly due to the decline in the allowance attributable to loans individually evaluated resulting from loan pay-offs and the decline in the allowance attributed to loans collectively evaluated resulting from improvements in macroeconomic conditions and assumptions.
+The allowance for off-balance sheet exposure, primarily unfunded loan commitments, as of December 31, 2021, 2020 and 2019, was $2.6 million, $2.8 million and $2.4 million, respectively, representing a decrease of $206,000, or 7.4 percent, in 2021, and an increase of $395,000, or 16.5 percent, in 2020. The Bank closely monitors the borrower’s repayment capabilities, while funding existing commitments to ensure losses are minimized. Based on management’s evaluation and analysis of portfolio credit quality and prevailing economic conditions, we believe these allowances were adequate for losses inherent in the loan portfolio and off-balance sheet exposure as of December 31, 2021.
+The following table presents a summary of net charge-offs (recoveries) for the loan portfolio:
+For the year ended December 31,
+Average Loans
+Net Charge-offs (Recoveries)
+Net Charge-offs (Recoveries) to Average Loans
+Average Loans
+Net Charge-offs (Recoveries)
+Net Charge-offs (Recoveries) to Average Loans
+Average Loans
+Net Charge-offs (Recoveries)
+Net Charge-offs (Recoveries) to Average Loans
+(dollars in thousands)
+Commercial real estate loans
+$
+3,364,940
+$
+(420
+)
+(0.01
+)%
+$
+3,163,686
+$
+(34
+)
+-
+%
+$
+3,137,493
+$
+(2,058
+)
+(0.07
+)%
+Construction loans
+68,851
+(8,954
+)
+(13.00
+)%
+$
+68,110
+13,478
+19.79
+%
+$
+75,238
+-
+-
+%
+Residential/consumer loans
+344,698
+(6
+)
+-
+%
+374,789
+(1
+)
+-
+%
+472,082
+-
+-
+%
+Commercial and industrial loans
+580,220
+(351
+)
+(0.06
+)%
+615,423
+12,976
+2.11
+%
+537,211
+0.01
+%
+Leases receivable
+435,797
+3,454
+0.79
+%
+462,504
+4,470
+0.97
+%
+446,941
+2,741
+0.61
+%
+Total
+$
+4,794,506
+$
+(6,277
+)
+(0.13
+)%
+$
+4,684,512
+$
+30,889
+0.66
+%
+$
+4,668,965
+$
+0.02
+%
+For the year ended December 31, 2021, gross charge-offs were $6.4 million, a decrease of $27.6 million, or 81.2 percent, from $34.0 million for the same period in 2020, and gross recoveries were $12.7 million, an increase of $9.6 million, or 313.0 percent, from $3.1 million in 2020. Net loan recoveries were $6.3 million, or 0.13 percent of average loans, compared with net loan charge-offs of $30.9 million, or 0.66 percent of average loans and $0.7 million or 0.02 percent of average loans, respectively, for the years ended December 31, 2021, 2020 and 2019.
+Classified loans decreased by 56.7 percent, to $60.6 million for the year ended December 31, 2021 from $140.2 million for the year ended December 31, 2020. The decrease in classified loans was mainly attributable to various payoffs and upgrades of $85.8 million related to twenty commercial real estate hotel loans, $12.0 million for a troubled loan relationship, and $12.4 million for two film tax credit loans, offset by various downgrades of $29.8 million, of which $17.6 million were for two commercial real estate hotel loans.
+Deposits
+The following table shows the composition of deposits by type as of the dates indicated:
+As of December 31,
+Balance
+Percent
+Balance
+Percent
+Balance
+Percent
+(dollars in thousands)
+Demand - noninterest-bearing
+$
+2,574,517
+44.5
+%
+$
+1,898,766
+36.0
+%
+$
+1,391,624
+29.6
+%
+Interest-bearing:
+Demand
+125,183
+2.2
+%
+100,617
+1.9
+%
+84,323
+1.8
+%
+Money market and savings
+2,099,381
+36.2
+%
+1,991,926
+37.7
+%
+1,667,096
+35.5
+%
+Uninsured time deposits of more than $250,000:
+Three months or less
+69,464
+1.2
+%
+134,543
+2.6
+%
+91,313
+1.9
+%
+Over three months through six months
+73,808
+1.3
+%
+70,011
+1.3
+%
+97,360
+2.1
+%
+Over six months through twelve months
+29,706
+0.5
+%
+52,401
+1.0
+%
+44,751
+1.0
+%
+Over twelve months
+0.0
+%
+8,633
+0.2
+%
+4,490
+0.1
+%
+Other time deposits
+813,661
+14.1
+%
+1,018,111
+19.3
+%
+1,318,005
+28.0
+%
+Total deposits
+$
+5,786,269
+100.0
+%
+$
+5,275,008
+100.0
+%
+$
+4,698,962
+100.0
+%
+Total deposits were $5.79 billion, $5.28 billion and $4.70 billion as of December 31, 2021, 2020 and 2019, respectively, representing an increase of $511.3 million, or 9.7 percent, in 2021, and an increase of $576.0 million, or 12.3 percent, in 2020. The increase in total deposits for 2021 was mainly attributable to a $675.8 million increase in noninterest bearing demand accounts and an increase of $107.5 million in money market and savings accounts, offset by a decrease of $204.4 million in time deposits $250,000 or less. The increase in noninterest bearing business banking accounts reflected proceeds from PPP loans and other government assistance programs, as well as an increase in our marketing efforts.
+The average balance of deposits for the years ended December 31, 2021, 2020 and 2019 were $5.56 billion, $4.95 billion and $4.69 billion, respectively. The average balance of deposits increased 12.4 percent, 5.4 percent and 5.2 percent in 2021, 2020 and 2019, respectively.
+As of December 31, 2021, the aggregate amount of uninsured deposits (deposits in amounts greater than $250,000, which is the maximum amount for federal deposit insurance) was $2.63 billion. The aggregate amount of our uninsured time deposits was $173.5 million. In addition, other uninsured deposits, such as demand deposits and money market and savings deposits was $2.46 billion.
+Borrowings and Subordinated Debentures
+Borrowings mostly take the form of advances from the FHLB. At December 31, 2021, advances from the FHLB were $137.5 million, a decrease of $12.5 million from $150.0 million at December 31, 2020. At December 31, 2021, the Bank had $137.5 million in term advances and no overnight advances from the FHLB.
+The following is a summary of contractual maturities greater than twelve months of FHLB advances:
+December 31, 2021
+December 31, 2020
+FHLB of San Francisco
+Outstanding
+Balance
+Weighted
+Average
+Rate
+Outstanding
+Balance
+Weighted
+Average
+Rate
+(dollars in thousands)
+Advances due over 12 months through 24 months
+$
+50,000
+0.97
+%
+50,000
+1.62
+%
+Advances due over 24 months through 36 months
+37,500
+0.40
+%
+50,000
+0.97
+%
+Outstanding advances over 12 months
+$
+87,500
+0.73
+%
+$
+100,000
+1.30
+%
+The following is financial data pertaining to FHLB advances:
+As of December 31,
+(dollars in thousands)
+Weighted-average interest rate at end of year
+1.05
+%
+1.40
+%
+1.70
+%
+Weighted-average interest rate during the year
+1.17
+%
+1.42
+%
+1.89
+%
+Average balance of FHLB advances
+$
+145,277
+$
+156,601
+$
+40,374
+Maximum amount outstanding at any month-end
+$
+162,500
+$
+300,000
+$
+285,000
+Subordinated debentures were $215.0 million as of December 31, 2021 and $119.0 million as of December 31, 2020. The increase was due primarily to the issuance of 3.750% Fixed-to-Floating Subordinated Notes (“2021 Notes”) of $110.0 million on August 20, 2021. Subordinated debentures are comprised of fixed-to-floating subordinated notes of $194.2 million and $98.5 million as of December 31, 2021 and 2020, respectively, and junior subordinated deferrable interest debentures of $20.8 million and $20.4 million as of December 31, 2021 and 2020, respectively. See “Note 10 - Subordinated Debentures” to the consolidated financial statements for more details.
+Interest Rate Risk Management
+The spread between interest income on interest-earning assets and interest expense on interest-bearing liabilities is the principal component of net interest income, and interest rate changes substantially affect our financial performance. We emphasize capital protection through stable earnings rather than maximizing yield. In order to achieve stable earnings, we prudently manage our assets and liabilities and closely monitor the percentage changes in net interest income and equity value in relation to limits established within our guidelines.
+The Company performs simulation modeling to estimate the potential effects of interest rate changes. The following table summarizes as of December 31, 2021, one of the stress simulations performed to forecast the impact of changing interest rates on net interest income and the value of interest-earning assets and interest-bearing liabilities reflected on our balance sheet (i.e., an instantaneous parallel shift in the yield curve of the magnitude indicated below). This sensitivity analysis is compared to policy limits, which specify the maximum tolerance level for net interest income exposure over a 1- to 12-month and a 13- to 24-month horizon, given the basis point adjustment in interest rates reflected below.
+Net Interest Income Simulation
+Change in
+1- to 12-Month Horizon
+13- to 24-Month Horizon
+Interest
+Dollar
+Percentage
+Dollar
+Percentage
+Rate
+Change
+Change
+Change
+Change
+(dollars in thousands)
+300%
+$
+28,976
+13.77%
+$
+48,046
+23.14%
+200%
+$
+19,168
+9.11%
+$
+32,030
+15.43%
+100%
+$
+9,904
+4.70%
+$
+17,319
+8.34%
+(100%)
+$
+(10,120
+)
+(4.81)%
+$
+(19,646
+)
+(9.46)%
+Economic Value of Equity
+(EVE)
+Change in
+Interest
+Dollar
+Percentage
+Rate
+Change
+Change
+(dollars in thousands)
+300%
+$
+144,956
+25.11%
+200%
+$
+107,384
+18.60%
+100%
+$
+67,455
+11.69%
+(100%)
+$
+(147,703
+)
+(25.59)%
+The estimated sensitivity does not necessarily represent our forecast, and the results may not be indicative of actual changes to our net interest income. These estimates are based upon a number of assumptions including the nature and timing of interest rate levels including yield curve shape, prepayments on loans and securities, pricing strategies on loans and deposits, and replacement of asset and liability cash flows. While the assumptions used are based on current economic and local market conditions, there is no assurance as to the predictive nature of these conditions, including how customer preferences or competitor influences might change.
+Capital Resources and Liquidity
+Capital Resources
+Historically, our primary source of capital has been the retention of operating earnings. In order to ensure adequate levels of capital, management periodically assesses projected sources and uses of capital in conjunction with projected increases in assets and levels of risk. Management considers, among other things, earnings generated from operations, and access to capital from financial markets through the issuance of additional securities, including common stock or notes, to meet our capital needs.
+In response to the uncertainty surrounding the COVID-19 pandemic, the Board reduced the quarterly cash dividends paid on common stock beginning in the second quarter of 2020. For the third and fourth quarters of 2020, cash dividends paid were $0.08 per share, down from $0.12 per share and $0.24 per share in the second and first quarters of 2020, respectively. The Board believed these actions were the most prudent course of action as it continued to monitor the results of operations and financial condition of the Company. Due to the continued stabilization of Company results and financial condition, the Board authorized an increase in the quarterly cash dividend to $0.10 for the first quarter of 2021 and $0.12 per share for the second and third quarters of 2021. As the effects of the pandemic continue to subside and the Company’s results and financial condition improved, the Board again increased the dividend for the fourth quarter of 2021 to $0.20 per share. The Board expects to continue to re-evaluate the level of quarterly dividends in subsequent quarters.
+The Company’s ability to pay dividends to shareholders depends in part upon dividends it receives from the Bank. California law restricts the amount available for cash dividends to the lesser of a bank’s retained earnings or net income for its last three fiscal years (less any distributions to shareholders made during such period). Where the above test is not met, cash dividends may still be paid, with the prior approval of the DFPI, in an amount not exceeding the greatest of: (1) retained earnings of the bank; (2) net income of the bank for its last fiscal year; or (3) the net income of the bank for its current fiscal year. As of January 1, 2022, after giving effect to the 2022 first quarter dividend declared by the Company, the Bank has the ability to pay $98.0 million of dividends without the prior approval of the Commissioner of the DFPI.
+At December 31, 2021, the Bank’s total risk-based capital ratio of 14.72 percent, Tier 1 risk-based capital ratio of 13.61 percent, common equity Tier 1 capital ratio of 13.61 percent, and Tier 1 leverage capital ratio of 10.96 percent, placed the Bank in the “well capitalized” category, which is defined as institutions with total risk-based capital ratio equal to or greater than 10.0 percent, Tier 1 risk-based capital ratio equal to or greater than 8.0 percent, common equity Tier 1 capital ratio of 6.5 percent, and Tier 1 leverage capital ratio equal to or greater than 5.0 percent.
+At December 31, 2021, the Company’s total risk-based capital ratio, Tier 1 risk-based capital ratio, common equity Tier 1 capital ratio and Tier 1 leverage capital ratio were 16.61 percent, 11.97 percent, 11.59 percent, and 9.63 percent, respectively, all of which exceeded all of the Company’s regulatory capital ratio requirements.
+For a discussion of recently implemented changes to the capital adequacy framework prompted by Basel III and the Dodd-Frank Act, see “Note 13 - Regulatory Matters” of Notes to Consolidated Financial Statements in this Report.
+Liquidity
+The Bank has Contingency Funding Plans (“CFPs”) designed to ensure that liquidity sources are sufficient to meet its ongoing obligations and commitments, particularly in the event of a liquidity contraction. The CFPs are designed to examine and quantify its liquidity under various “stress” scenarios. Furthermore, the CFPs provide a framework for management and other critical personnel to follow in the event of a liquidity contraction or in anticipation of such an event. The CFPs address authority for activation and decision making, liquidity options and the responsibilities of key departments in the event of a liquidity contraction.
+For a discussion of our liquidity position, see “Note 22 - Liquidity” of Notes to Consolidated Financial Statements in this Report.
+Off-Balance Sheet Arrangements
+For a discussion of off-balance sheet arrangements, see “Note 19 - Off-Balance Sheet Commitments” of Notes to Consolidated Financial Statements and “Item 1. Business - Off-Balance Sheet Commitments” in this Report.
+Recently Issued Accounting Standards Not Yet Effective
+FASB ASU 2020-04, Reference Rate Reform (Topic 848): Facilitation of the Effects of Reference Rate Reform on Financial Reporting, On March 12, 2020, the FASB issued ASU 2020-04 to ease the potential burden in accounting for reference rate reform. The amendments in ASU 2020-04 are elective and apply to all entities that have contracts, hedging relationships, and other transactions that reference LIBOR or another reference rate expected to be discontinued due to reference rate reform.
+The new guidance provided several optional expedients that reduce costs and complexity of accounting for reference rate reform, including measures to simplify or modify accounting issues resulting from reference rate reform for contract modifications, hedges, and debt securities.
+The amendments are effective for all entities from the beginning of an interim period that includes the issuance date of ASU 2020-04. An entity may elect to apply the amendments prospectively through December 31, 2022.
+The adoption of this standard is not expected to have a material effect on the Company’s operating results or financial condition.

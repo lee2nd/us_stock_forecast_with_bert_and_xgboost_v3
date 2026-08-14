@@ -1,0 +1,413 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and the related notes included in Part II, Item 8 of this Annual Report on Form 10-K.
+This discussion and analysis contains forward-looking statements based upon our current beliefs, estimates, plans and expectations that involve risks, uncertainties and assumptions. Our actual results may differ materially from those contained in these forward-looking statements as a result of various factors, including those set forth under “Risk Factors” or in other parts of this Annual Report.
+Overview
+We are a medical device company dedicated to improving the quality of life of people with hearing loss. We developed the Eargo solution to create a hearing aid that consumers actually want to use. Our innovative product and go-to-market approach address the major challenges of traditional hearing aid adoption, including social stigma, accessibility and cost.
+We believe our Eargo hearing aids are the first and only virtually invisible, rechargeable, completely-in-canal, FDA regulated, exempt Class I or Class II devices for the treatment of hearing loss. Our rapid pace of innovation is enabled by our deep industry and technical expertise across mechanical engineering, product design, audio processing, clinical and hearing science, consumer electronics and embedded software design, and is supported by our strategic intellectual property portfolio.
+We market and sell our hearing aids direct to consumers with a personalized, consumer-centric approach. Our commercial organization consists of a talented marketing team with deep experience in consumer-focused brand and performance marketing, a team of inside sales consultants, and a dedicated customer support team of licensed hearing professionals. We generate revenue from orders processed primarily through our website and over the phone by our sales consultants.
+We believe that our differentiated hearing aids, consumer-oriented approach and strong brand have fueled the rapid adoption of our hearing aids and high customer satisfaction, as evidenced by over 60 thousand Eargo hearing aid systems sold, net of returns, as of December 31, 2020.
+On October 20, 2020, we completed our initial public offering, or IPO, pursuant to which we sold an aggregate of 9,029,629 shares of our common stock at a price of $18.00 per share, resulting in net proceeds of $148.5 million after deducting underwriting discounts, commissions and offering expenses. Upon the closing of our IPO, all outstanding shares of our convertible preferred stock automatically converted into 28,196,388 shares of our common stock.
+For the year ended December 31, 2020, we generated net revenue of $69.2 million, an increase of $36.4 million from the year ended December 31, 2019. To date, all our revenue has been generated from customers in the United States.
+Our net losses were $39.9 million, $44.5 million and $33.8 million for the years ended December 31, 2020, 2019 and 2018, respectively. As of December 31, 2020 and 2019, we had an accumulated deficit of $199.1 million and $159.2 million, respectively. We expect to continue to incur losses for the foreseeable future.
+Factors affecting our business
+We believe that our future performance will depend on many factors, including those described below and in the section titled “Risk Factors” included elsewhere in this Annual Report on Form 10-K.
+Efficient acquisition of new customers
+We have spent and expect to continue to spend significant amounts on sales and marketing designed to build a strong brand, achieve broad awareness of our Eargo solution, acquire new customers and convert sales leads. We
+have also invested and expect to continue investing in growing our teams of sales consultants and licensed hearing professionals to keep pace with increased demand, converting leads into satisfied customers and potentially growing our revenue.
+Sales return rate
+Our return policy allows our customers to return hearing aids for any reason within the first 45 days of delivery for a full refund, subject to a handling fee in certain states. The most commonly cited reason for returning our hearing aids is unsatisfactory fit, which we believe is a byproduct of our direct-to-consumer model and online distribution that results in nearly all of our customers ordering our product without trying it first. In addition to unsatisfactory fit, the next most cited reason for returns is that our hearing aids do not provide sufficient audio amplification. Customer return accrual rates were approximately 26% and 35% for the years ended December 31, 2020 and 2019, respectively. The decline in our sales return rate in 2020 and 2019 was a result of the growth in customers with health insurance coverage for hearing aids and repeat customers which have generally lower return rates than other customers, and our initiatives to improve customer service and enhance the quality of our pre-screening assessments. We report revenue net of expected returns, which is an estimate informed in part by historical return rates. As such, our return rate impacts our reported net revenue and profitability. If actual sales returns differ significantly from our estimates, an adjustment to revenue in the current or subsequent period is recorded.
+New product introductions
+Our technical capabilities and commitment to innovation have allowed us to deliver product enhancements on a rapid development timeline and support a compelling new product roadmap that we believe will continue to differentiate our competitive position over the next several years. With the launch of the Eargo Neo HiFi in January 2020, we have launched four generations of our hearing aids since 2017, with each iteration having improved audio performance, physical fit and/or comfort. We are focused on continuing to launch new versions of the Eargo hearing solution that further improve audio quality, fit, comfort and/or ease-of-use. We believe that the continued introduction of new products is critical to maintaining existing customers and increasing adoption of our solution, and as such, we expect to continue to invest in research and development to support new product introductions. In connection with our product innovation and iteration, we also need to successfully manage our product transitions to avoid delays in customer purchases, excess or obsolete inventory and increased returns as customers wait for our new products to become available. Our development priorities are focused, in part, on adding a refurbishment capability for returned hearing aids, which would allow us to refurbish and re-sell returned devices, which we anticipate would benefit our gross margin, although there is no guarantee that these efforts will succeed.
+COVID-19 pandemic
+We believe the COVID-19 pandemic thus far has largely resulted in favorable trends for our business. We believe that shelter-in-place restrictions and increased reluctance of consumers to be exposed to the virus, particularly among older consumers that comprise a majority of the population needing hearing aids, have increased customer interest to consider our vertically integrated telecare model. We believe our sales model can help consumers decrease their risk of potential exposure to COVID-19 by avoiding multiple trips to hearing aid clinics and close proximity to audiologists and other individuals at such clinics, which are part of the traditional hearing aid sales model.
+Although we believe the COVID-19 pandemic has largely resulted in favorable trends for our business, we have experienced business disruptions, particularly at our California headquarters, where a majority of our employees have been working remotely. Moreover, travel restrictions, factory closures and disruptions in our supply chain could happen and we may not be able to obtain adequate inventory to sell.
+The ongoing impact of COVID-19 depends on the duration and severity of the pandemic, which are difficult to assess or predict. While we have experienced growth in our sales volume during the COVID-19 pandemic, we cannot be certain whether we will maintain the current level of demand for our hearing aids. As a result, the impact of these or any future factors could be substantially different than what we have experienced to date. Please see the
+section titled “Risk Factors” for further discussion of the possible impact of the COVID-19 pandemic on our business.
+Key business metrics
+To analyze our business performance, determine financial forecasts and help develop long-term strategic plans, we review the following key business metrics, each of which is an important measure that represents the growth of our business:
+•
+Gross systems shipped. We define our gross systems shipped as the number of hearing aid systems shipped for which we recognized revenue during a reporting period.
+•
+Return accrual rates. Return accrual rates are determined by management at the end of each reporting period to estimate the percentage of returns made during a period. This determination is informed in part by historic actual return rates. Return accrual rates do not represent actual returns during a period as customers may return the product for a period of time that can extend beyond the period end, which can result in a hearing aid being returned after the period in which the revenue from its sale was recognized. If actual returns differ significantly from the return accrual rate determination made at period end, we may adjust revenue in subsequent periods to reflect the actual returns made. Such an adjustment to revenue will not result in an adjustment to the return accrual rate for the period.
+The following table details the number of gross systems shipped and return accrual rates for the periods presented below:
+We believe these key business metrics provide useful information to help investors understand and evaluate our business performance. Gross systems shipped is a key measure of sales volume, which drives potential revenue, while return accrual rates are an indicator of potential reductions to revenue and an indicator of change in customer mix.
+Components of our results of operations
+Revenue, net
+We generate revenue from the sale of Eargo hearing aid systems, accessories and extended warranties, with the majority of our revenue coming from sales of our Eargo hearing aid systems. We currently offer three versions of our hearing aid systems, the Eargo Max, the Eargo Neo and the Eargo Neo HiFi, at three different price points, and we periodically offer discounts and promotions. For product sales, control is transferred upon shipment to the customer. We report revenue net of expected returns, which is an estimate informed in part by historical return rates. Prior to January 2020, we also offered extended product warranties to our customers which covered the product for an additional year, commencing on the day after the initial one-year warranty expires. For extended warranty sales, control is transferred over time based on time elapsed throughout the extended warranty period.
+Cost of revenue and gross margin
+Cost of revenue consists of expenses associated with the cost of finished goods, freight, personnel costs, consumables, product warranty costs, transaction fees, reserves for excess and obsolete inventory, depreciation and amortization, and related overhead. We expect cost of revenue to increase in absolute terms as our revenue grows.
+Our gross margin has been and will continue to be affected by a variety of factors, including sales volumes, product mix, pricing strategies, return accrual rates, costs of finished goods, product warranty claim rates and refurbishment strategies. We expect our gross margin percentage to increase over the long term to the extent we are successful in decreasing our rate of returns and implementing refurbishment programs after new product launches. Any increase in gross margin will likely fluctuate from quarter to quarter as we continue to introduce new products and adopt new technologies.
+Research and development expenses
+Research and development, or R&D, expenses, consist primarily of engineering and product development costs to develop and support our products, regulatory expenses, non-recurring engineering and other costs associated with products and technologies that are in development, as well as related overhead costs. These expenses include personnel-related costs including salaries and stock-based compensation, supplies, consulting fees, prototyping, testing, materials, travel expenses, depreciation and allocated facility overhead costs. Additionally, R&D expenses include internal and external costs associated with our regulatory compliance and quality assurance functions, and related overhead costs. We expect R&D expenses, net of capitalized internal use software development costs, to increase in absolute dollars as we continue to develop new products and enhance existing products and technologies.
+Sales and marketing expenses
+Our sales and marketing expenses are the largest component of our operating expenses and consist primarily of personnel-related costs including salaries and stock-based compensation, direct marketing, advertising and promotional expenses, consulting fees, public relations costs and allocated facility overhead costs. Sales and marketing personnel include our inside sales consultants, licensed hearing professionals, marketing professionals and related support personnel. We expect our sales and marketing expenses to increase in absolute dollars, but decrease over time as a percentage of revenue, as we hire additional sales and marketing personnel, expand our sales support infrastructure and invest in our brand and product awareness to further penetrate the U.S. market and potentially expand into international markets.
+General and administrative expenses
+Our general and administrative expenses consist primarily of compensation for executive, finance, legal, information technology and administrative personnel, including stock-based compensation. Other significant expenses include professional fees for legal and accounting services, consulting fees, recruiting fees, information technology costs, corporate insurance, bad debt expense, general corporate expenses and allocated facility overhead costs.
+We expect to continue to incur additional general and administrative expenses as a result of operating as a public company, including expenses related to compliance with the rules and regulations of the SEC, and those of the Nasdaq Stock Market, additional insurance costs, investor relations activities and other administrative and professional services. As a result, we expect general and administrative expenses to increase in absolute dollars in future periods.
+Interest income
+Interest income consists of interest earned on cash and cash equivalents.
+Interest expense
+Interest expense consists of interest related to borrowings under our debt obligations and convertible promissory notes.
+Other income (expense), net
+Other income (expense), net consists primarily of adjustments to the fair value of embedded derivatives associated with certain redemption features of our convertible promissory notes and adjustments to the fair value of our convertible preferred stock warrant liabilities.
+Loss on extinguishment of debt
+The loss on extinguishment of debt arose on the redemption of our 2020 Notes into shares of our Series E convertible preferred stock in July 2020.
+Income tax provision
+We use the asset and liability method to account for income taxes. Under this method, deferred tax assets and liabilities are determined based on differences between the financial statement carrying amounts of existing assets and liabilities and their tax bases. Deferred tax assets and liabilities are measured using enacted tax rates applied to taxable income in the years in which those temporary differences are expected to be recovered or settled. A valuation allowance is established when necessary to reduce deferred tax assets to the amount expected to be realized. Due to our historical operating performance and our recorded cumulative net losses in prior fiscal periods, our net deferred tax assets have been fully offset by a valuation allowance.
+Financial statement effects of uncertain tax positions are recognized when it is more-likely-than-not, based on the technical merits of the position, that it will be sustained upon examination. Interest and penalties related to unrecognized tax benefits are included within the provision for income tax.
+Results of operations
+Comparison of the years ended December 31, 2020 and 2019
+* Not meaningful
+Revenue, net
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Revenue, net
+$
+69,154
+$
+32,790
+$
+36,364
+110.9
+%
+Revenue increased by $36.4 million, or 110.9%, from $32.8 million in 2019 to $69.2 million in 2020, primarily due to an increase in the volume of Eargo hearing aid systems shipped, the majority of which were Eargo Neo HiFi systems, which began shipping in January 2020. The increase in revenue was also attributable to a higher average selling price due to introduction of the Neo HiFi systems and a decrease in sales returns as a percentage of systems shipped, the latter of which was partially due to growth in sales to customers with health insurance coverage as such customers generally have lower return rates. Gross systems shipped during 2020 were 38,243, a 68% increase compared to the 22,787 gross systems shipped during 2019. The increase in volume was largely driven by expanded national marketing efforts in conjunction with the launch of Eargo Neo HiFi, growth in customers with health insurance coverage for hearing aids and increased customer adoption of our telecare model due to the COVID-19 pandemic.
+Cost of revenue, gross profit, and gross margin
+Cost of revenue increased by $6.1 million, or 38.5%, from $15.8 million in 2019 to $21.9 million in 2020. The change was primarily due to an increase in the volume of Eargo hearing aid systems shipped during the period. In addition, product warranty costs increased from $1.6 million in 2019 to $3.2 million in 2020 as a result of increased sales volume and the new two-year warranty coverage term associated with Neo HiFi, compared to one-year warranty coverage for prior generations of Eargo hearing aid systems.
+Gross margin increased to 68.4% in 2020, compared to 51.8% in 2019. The change in gross margin percentage was primarily due to an increase in the average selling price of systems shipped and a decrease in sales returns as a percentage of systems shipped.
+Research and development (R&D)
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Research and development
+$
+12,045
+$
+12,841
+$
+(796
+)
+(6.2
+)%
+R&D expenses decreased by $0.8 million, or 6.2%, from $12.8 million in 2019 to $12.0 million in 2020. The change was primarily due to a net decrease of $0.8 million in personnel and personnel-related costs resulting from increased capitalized costs associated with the development of internal use software and a decrease in travel costs due to the COVID-19 pandemic. We capitalized $2.1 million of personnel and personnel-related internal use software costs in 2020 compared to $1.1 million in 2019.
+Sales and marketing
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Sales and marketing
+$
+49,525
+$
+35,725
+$
+13,800
+38.6
+%
+Sales and marketing expenses increased by $13.8 million, or 38.6%, from $35.7 million in 2019 to $49.5 million in 2020. The change was primarily due to increases in personnel and personnel-related costs of $7.2 million and increases in direct marketing, advertising and promotional expenses of $6.6 million. The change in personnel and personnel-related costs was primarily due to increased commissions from increased sales and a net increase in salary-related costs, including an increase of $1.4 million in stock-based compensation.
+General and administrative
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+General and administrative
+$
+20,582
+$
+12,470
+$
+8,112
+65.1
+%
+General and administrative expenses increased by $8.1 million, or 65.1%, from $12.5 million in 2019 to $20.6 million in 2020. This change was primarily due to an increase in general corporate, personnel and personnel-related costs of $5.0 million, an increase in bad debt expense of $2.0 million directly related to the growth in our insurance payment channel and terminated IPO costs of $1.6 million, which were partially offset by a decrease in non-capitalizable IPO readiness costs of $0.5 million. The change in personnel and personnel-related costs includes an increase of $1.7 million in stock-based compensation.
+Terminated IPO costs consist of deferred offering costs expensed upon termination of our previously planned IPO in March 2020. The offering was terminated primarily because of the uncertainty in the public markets during the onset of the COVID-19 pandemic.
+Interest income
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Interest income
+$
+$
+$
+(590
+)
+(94.1
+)%
+Interest income decreased by $0.6 million, or 94.1%, from $0.6 million in 2019 to less than $0.1 million in 2020. The decrease in interest income was due to a lower average interest rate in 2020 compared to 2019.
+Interest expense
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Interest expense
+$
+(1,920
+)
+$
+(711
+)
+$
+(1,209
+)
+170.0
+%
+Interest expense increased by $1.2 million, or 170.0%, from $0.7 million during the year ended December 31, 2019 to $1.9 million during the year ended December 31, 2020. This increase was primarily attributable to interest expense on the 2020 Notes in 2020, for which there was no similar expense in 2019.
+Other income (expense), net
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Other income (expense), net
+$
+(1,474
+)
+$
+(366
+)
+$
+(1,108
+)
+302.7
+%
+Other expense increased by $1.1 million, or 302.7%, from $0.4 million during the year ended December 31, 2019 to $1.5 million during the year ended December 31, 2020. The expense recorded in each period is primarily related to the change in fair value of our convertible preferred stock warrant liability, which is based in part on the fair value of our common stock. Upon the closing of our IPO in October 2020, the convertible preferred stock
+warrants were converted into warrants to purchase common stock and the warrant liabilities were reclassified to additional paid in capital.
+Loss on extinguishment of debt
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Loss on extinguishment of debt
+$
+(1,627
+)
+$
+-
+$
+(1,627
+)
+*
+The loss on extinguishment of debt in 2020 was related to the redemption of our 2020 Notes in July 2020 in exchange for shares of Series E convertible preferred stock, which was accounted for as extinguishment of debt.
+Comparison of the years ended December 31, 2019 and 2018
+Revenue, net
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Revenue, net
+$
+32,790
+$
+23,163
+$
+9,627
+41.6
+%
+Revenue increased by $9.6 million, or 41.6%, from $23.2 million in 2018 to $32.8 million in 2019. The increase was primarily due to an increase in the volume of sales as a result of our product offerings being able to meet the needs of more consumers following the introduction of Eargo Neo hearing aid system, which provides improved physical fit and audio performance. Gross systems shipped in 2019 were 22,787, a 17.6% increase compared to the 19,371 gross systems shipped in 2018. The Eargo Neo hearing aid system represented the majority of the gross systems shipped in 2019 and shipped at a higher average selling price compared to Eargo Max and Eargo Plus. The increase in revenue is also attributable to a decrease in sales returns as a percentage of systems shipped.
+Cost of revenue, gross profit, and gross margin
+Cost of revenue increased by $4.4 million, or 38.2%, from $11.4 million in 2018 to $15.8 million in 2019. The change was primarily due to an increase in the volume of Eargo hearing aid systems shipped. Gross margin increased to 51.8% in 2019, compared to 50.7% in 2018. The change in gross margin percentage was primarily due to an increase in the average selling price of systems shipped and a decrease in sales returns as a percentage of systems shipped, offset by increased warranty costs of $1.5 million and increased provisions for slow-moving, excess or obsolete inventory primarily due to the discontinuation of Eargo Plus. Product warranty costs in 2019 were $1.6 million compared to $0.1 million in 2018. There were 9,730 product warranty claims in 2019 compared to 5,700 claims in 2018. The majority of the increase in product warranty costs in 2019 is attributable to product warranty claims for Eargo Neo in the first three quarters of 2019 being fulfilled using new Eargo Neo hearing aid systems at a higher cost per claim compared to product warranty claims for Eargo Plus and Eargo Max in 2018 and 2019, the majority of which were fulfilled with refurbished hearing aid components. This was due to the Eargo Neo hearing aid refurbishment program not being established until the second half of 2019.
+Research and development (R&D)
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Research and development
+$
+12,841
+$
+9,520
+$
+3,321
+34.9
+%
+R&D expenses increased by $3.3 million, or 34.9%, from $9.5 million in 2018 to $12.8 million in 2019. This change was primarily due to increases in personnel and related costs of $2.9 million due to increased headcount and increased investments in new product development of $0.3 million.
+Sales and marketing
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Sales and marketing
+$
+35,725
+$
+25,540
+$
+10,185
+39.9
+%
+Sales and marketing expenses increased by $10.2 million, or 39.9%, from $25.5 million in 2018 to $ 35.7 million in 2019. This change was primarily due to increases in direct marketing, advertising and promotional expenses of $6.0 million, as well as increases in personnel and personnel-related costs of $3.7 million due to increased headcount.
+General and administrative
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+General and administrative
+$
+12,470
+$
+8,251
+$
+4,219
+51.1
+%
+General and administrative expenses increased by $4.2 million, or 51.1% from $8.3 million in 2018 to $12.5 million in 2019. This change was primarily due to increases in personnel and personnel-related costs of $2.0 million due to increased headcount and increases in general corporate costs of $0.8 million. We also incurred non-capitalizable IPO readiness costs of $1.0 million in 2019, of which there were none in 2018.
+Interest income
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Interest income
+$
+$
+$
+282.3
+%
+Interest income increased by $0.5 million, or 282.3%, from $0.2 million in 2018 to $0.6 million in 2019. The increase in interest income was due to higher average cash and cash equivalents balances in 2019 resulting from the receipt of $52.0 million of net proceeds from our Series D convertible preferred stock issuances in December 2018 and February 2019.
+Interest expense
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Interest expense
+$
+(711
+)
+$
+(424
+)
+$
+(287
+)
+67.7
+%
+Interest expense increased by $0.3 million, or 67.7%, from $0.4 million in 2018 to $0.7 million in 2019. The increase in interest expense was primarily attributable to higher average term loan balances outstanding in 2019.
+Other income (expense), net
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Other income (expense), net
+$
+(366
+)
+$
+(1,403
+)
+$
+1,037
+(73.9
+)%
+Other expense decreased by $ 1.0 million, or 73.9%, from $1.4 million in 2018 to $0.4 million in 2019. The expense recorded in 2018 primarily related to the change in the fair value of our convertible preferred stock tranche liability, which was recognized until the closing of the second tranche of the Series C convertible preferred stock financing in March 2018, and an accrued amount for sales tax audit liability. The expense recorded in 2019 primarily related to the change in fair value of our convertible preferred stock warrant liability.
+Loss on extinguishment of debt
+Year ended December 31,
+Change
+(dollars in thousands)
+Amount
+%
+Loss on extinguishment of debt
+$
+-
+$
+(559
+)
+$
+(100.0
+)%
+The loss on extinguishment of debt in 2018 related to an early repayment of an outstanding loan in June 2018.
+Quarterly results of operations
+The following table sets forth our selected unaudited quarterly consolidated statements of operations data for each of the quarters indicated. The information for each of these quarters has been prepared in accordance with GAAP, on the same basis as our audited consolidated financial statements and includes, in the opinion of management, all adjustments, consisting of normal recurring adjustments, that are necessary for the fair presentation of the results of operations for these periods. These quarterly results of operations are not necessarily indicative of the results we may achieve in any future period. The following quarterly financial data should be read in conjunction with the consolidated financial statements and related notes included in Part II, Item 8 of this Annual Report on Form 10-K.
+Quarterly revenue trends
+The overall increase in quarterly revenue over the course of the periods presented was primarily due an increase in the volume of Eargo hearing aid systems shipped, an increase in the average selling price of systems shipped and a decrease in sales returns as a percentage of systems shipped. The increase in the volume of Eargo hearing aid systems shipped was generally driven by increased sales and marketing investments, growth in sales to customers with health insurance coverage and expanded product offerings with the introduction of the Eargo Neo hearing aids in January 2019 and Eargo Neo HiFi hearing aids in January 2020, as each introduction has allowed us to meet the needs of more consumers. We experience seasonality in our business, with revenue typically being higher in quarters when we launch new products and revenue in the fourth quarter typically being higher as a result of holiday promotional activity. Revenue increased in 2020 from continuing growth in customers with health
+insurance coverage for hearing aids and repeat customers, and increased customer adoption of our telecare model amid the COVID-19 pandemic.
+Quarterly cost of revenue and gross margins trends
+The overall increase in the quarterly cost of revenue over the periods presented was primarily the result of the growth in Eargo hearing aid systems shipped. Our quarterly gross margins increased from 47.6% to 70.6% over the periods presented. Sales returns as a percentage of systems shipped generally improved over the periods presented, resulting in increases in gross margins. The increase in gross margins in the quarter ended December 31, 2019, as compared to the prior quarter, was partially offset by an increase in the provisions for slow-moving, excess or obsolete inventory primarily due to the discontinuation of Eargo Plus. The increase in gross margins throughout 2020 was primarily due to an increase in the average selling prices of systems shipped as a result of the launch of Neo HiFi in January 2020 and decreases in sales returns as a percentage of systems shipped.
+Quarterly operating expenses trends
+The overall increase in quarterly operating expenses over the course of the periods presented was primarily due to increased headcount in connection with the expansion of our business, increased investments in new product development and increased direct marketing, advertising and promotional expenses to promote our products and increase brand awareness. We have experienced seasonality in our business, with operating expenses in the fourth quarter typically being higher as a result of holiday promotional activity. Furthermore, operating expenses also increased in the quarter ended March 31, 2020, as compared to the prior quarter due to the recording of previously deferred costs associated with the termination of our IPO process. Operating expenses decreased in the quarter ended June 30, 2020, as compared to the prior quarter due to measures taken to reduce net costs including, but not limited to, professional and legal fees, IPO readiness costs and personnel-related costs in response to the COVID-19 pandemic. Operating expenses increased in subsequent quarters due to the factors noted above as well as increased bad debt expense directly related to the growth in our insurance payment channel and increased stock-based compensation as compared to prior quarters.
+Liquidity and capital resources
+Sources of liquidity
+Since our inception, we have incurred net losses and negative cash flows from operations. We have funded our operations primarily from the net proceeds received from the sale of our equity securities, indebtedness and revenue from the sale of our products.
+On October 20, 2020, we completed our IPO, pursuant to which we sold an aggregate of 9,029,629 shares of our common stock at a price of $18.00 per share, resulting in net proceeds of $148.5 million after deducting underwriting discounts, commissions and offering expenses.
+Funding requirements
+As of December 31, 2020, we had cash and cash equivalents of $212.2 million, which are available to fund operations, and an accumulated deficit of $199.1 million. We expect to continue to incur significant expenses for the foreseeable future and to incur operating losses in the near term while we make investments to support our anticipated growth. We may raise additional capital through the issuance of additional equity financing, debt financings or other sources. If this financing is not available to us at adequate levels, we may need to reevaluate our operating plans. If we do raise additional capital through public or private equity offerings, the ownership interest of our existing stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect our existing stockholders’ rights. If we raise additional capital through debt financing, we may be subject to covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. We believe that our existing cash, cash equivalents and short-term investments, and cash generated from sales of our products, will be sufficient to meet our anticipated needs for at least the next 12 months from the date of this filing.
+Debt obligations
+2018 Loan
+In June 2018, we entered into the 2018 Loan with SVB. Under the 2018 Loan, SVB agreed to provide us access to term loans in an aggregate principal amount of up to $12.5 million. In connection with the 2018 Loan, we issued SVB a warrant to purchase 30,173 shares of Series C convertible preferred stock at an exercise price of $9.0201 per share, with a term of ten years, and authorized the issuance of an additional warrant to purchase 6,022 shares of Series C convertible preferred stock upon the funding of a term loan under the second tranche, or Tranche B. Term loans of $7.0 million were funded in October 2018 through December 2018 under the first tranche.
+In January 2019, we amended the 2018 Loan and in connection with this amendment, we authorized the issuance of a warrant to purchase 8,977 shares of our Series C convertible preferred stock upon the funding of a term loan under Tranche B. In June 2019, we borrowed an additional $5.0 million under Tranche B to increase the total outstanding principal balance to $12.0 million. In connection with this borrowing, we issued SVB a warrant to purchase 14,999 shares of our Series C convertible preferred stock at an exercise price of $9.0201 per share, with a term of ten years.
+Pursuant to the terms of the 2018 Loan, we made interest-only monthly payments on the term loans through December 31, 2019 and began making monthly payments of interest and amortized principal in January 2020.
+In May 2020, we executed an amendment to the 2018 Loan to defer the principal payments due in May 2020 through July 2020 such that the deferred amounts would be repaid in equal monthly payments starting in August 2020 through the maturity of the loan in June 2022.
+In September 2020, we executed an amendment to the 2018 Loan to (i) extend the interest-only period for all borrowings until December 31, 2021, which was extended to June 30, 2022 upon the closing of the IPO, (ii) extend the maturity date of the 2018 Loan to September 1, 2024 and (iii) increase the maximum aggregate principal amount of the term loans to $20.0 million, of which we borrowed $15.0 million in September 2020, a portion of which was used to repay all the previously outstanding indebtedness under the 2018 Loan. In connection with this borrowing, we issued SVB a warrant to purchase 53,487 shares of our Series E convertible preferred stock at an exercise price of $6.7836 per share, with a term of ten years. Our ability to borrow any additional principal pursuant to the 2018 Loan expired unused on December 31, 2020. As of December 31, 2020, we had $15.0 million in principal outstanding under the 2018 Loan.
+Interest on the 2018 Loan accrues at a per annum rate equal to the Wall Street Journal prime rate plus 1.0%, or 4.25% as of December 31, 2020. We are permitted to prepay the outstanding principal balance advanced under the 2018 Loan in whole but not in part, subject to a prepayment fee of 3.0%, which reduces to 2.0% in September 2021 and to 1.0% in September 2022. We are also required to pay a final payment fee equal to 6.25% of the total term loans advanced, which was $0.9 million as of December 31, 2020, due upon the earliest of maturity, acceleration, prepayment or termination of the 2018 Loan.
+Under the terms of the 2018 Loan, we granted SVB first priority liens and security interests in substantially all of our assets as collateral, excluding our intellectual property. The 2018 Loan also contains certain representations and warranties, indemnification provisions in favor of SVB, affirmative and negative covenants (including, among other things, limitations on other indebtedness, liens, encumbrances on our intellectual property, acquisitions, investments and dividends and requirements relating to financial reporting, inventory management, returns, insurance and protection of our intellectual property rights) and events of default (including payment defaults, breaches of covenants following any applicable cure period, investor abandonment, a material impairment in the perfection or priority of the lender’s security interest or in the collateral, and events relating to bankruptcy or insolvency).
+Paycheck Protection Program loan
+On May 3, 2020, we executed a promissory note with MidFirst Bank, which provided for an unsecured loan in an aggregate principal amount of $4.6 million, or the PPP Loan, pursuant to the Paycheck Protection Program, or
+PPP, under the Coronavirus Aid, Relief and Economic Security Act, or the CARES Act, that was signed into law on March 27, 2020.
+The PPP Loan provides for a fixed interest rate of 1.0% per year with a maturity date of May 3, 2022. Monthly principal and interest payments due on the PPP Loan are deferred for a six-month period beginning from the date of disbursement of the PPP Loan. The PPP Loan may be prepaid by us at any time prior to the maturity with no prepayment penalty. The PPP Loan contains customary event of default provisions.
+In August 2020, we repaid the PPP Loan in full in the amount of $4.6 million and terminated the related promissory note.
+2020 Notes
+We issued an aggregate of $8.9 million in convertible promissory notes in March 2020 and an additional aggregate of $1.2 million in April 2020 in a subsequent closing. The 2020 Notes accrued interest at a rate of 6.0% per annum with a maturity date in March 2021.
+The 2020 Notes contained redemption features, a conversion feature and a put option that were determined to be embedded derivatives requiring bifurcation as a single compound financial instrument. Upon the issuance of the 2020 Notes, we recorded the fair value of the derivative liability of $2.9 million as a debt discount on the 2020 Notes and as a single compound derivative instrument. The debt discount is being amortized to interest expense using the effective interest method over the term of the 2020 Notes.
+Pursuant to their terms, the 2020 Notes were redeemed in July 2020 in conjunction with our Series E convertible preferred stock financing, and the outstanding principal and accrued interest of $10.3 million were converted to 1,889,548 shares of our Series E convertible preferred stock at a conversion price of $5.427 per share, a price equal to 80% of the $6.7836 per share paid by the investors in the Series E convertible preferred stock financing.
+Cash flows
+The following table summarizes our cash flows for the periods indicated:
+Operating activities
+In 2020, cash used in operating activities was $26.0 million, attributable to a net loss of $39.9 million and a net change in our net operating assets and liabilities of $1.9 million, partially offset by non-cash charges of $15.7 million. Non-cash charges primarily consisted of $5.1 million in stock-based compensation, $2.5 million in depreciation and amortization, $2.4 million in bad debt expense related to our insurance payment channel, $1.6 million in loss on extinguishment of debt, $1.5 million in non-cash interest expense and amortization of debt discount, $1.5 million from the change in fair value of financial instruments primarily due to the change in fair value of our warrant liability and $1.1 million in non-cash operating lease expense. The change in our net operating assets and liabilities was primarily due to a $4.1 million increase in accounts receivable related to an increase sales volume and growth in customers with health insurance coverage, a $2.1 million increase in prepaid expenses and other current assets primarily related to an increase in prepaid insurance, a $1.2 million decrease in lease liabilities and a $0.4 million decrease in deferred revenue. These changes were partially offset by a $4.5 million increase in accrued expenses primarily related to an increase in accrued compensation, a $0.7 million increase in other current liabilities, a $0.5 million decrease in other assets and a $0.2 million increase in accounts payable.
+In 2019, cash used in operating activities was $39.1 million, attributable to a net loss of $44.5 million, partially offset by non-cash charges of $3.5 million and by a net change in our net operating assets and liabilities of $1.9 million. Non-cash charges primarily consisted of $1.5 million in depreciation and amortization, $1.3 million in stock-based compensation, $0.3 million in non-cash interest expense and amortization of debt discount and $0.3 million from the change in fair value of financial instruments due to the change in fair value of our warrant liability. The change in our net operating assets and liabilities was primarily due to a $3.7 million increase in accrued expenses, a $0.5 million increase in deferred revenue balance and a $0.2 million increase in accounts payable; the increase in accrued expenses was primarily due to increases in accrued vendor costs, accrued compensation and accrued warranty reserves, which were partially offset by a decrease in the allowance for sales returns. These changes were partially offset by a $1.1 million increase in accounts receivable, $0.7 million increase in inventories to support the growth in sales, $0.4 million increase in other assets, and $0.2 million increase in prepaid expenses and other current assets.
+In 2018, cash used in operating activities was $27.1 million, attributable to a net loss of $33.8 million, partially offset by a net change in our net operating assets and liabilities of $4.3 million, and by non-cash charges of $2.3 million. Non-cash charges primarily consisted of $0.7 million in depreciation and amortization, $0.6 million due to the loss on extinguishment of debt, $0.5 million from the change in fair value of financial instruments primarily due to the change in the fair value of our convertible preferred stock tranche liability, $0.4 million in stock-based compensation, and $0.1 million in non-cash interest expense and amortization of debt discount. The change in our net operating assets and liabilities was primarily due to a $2.8 million increase in accrued expense related to allowance for sales returns due to increased sales, accrued payroll and benefits as a result of increased headcount and amounts due to customers for returned products, $2.5 million increase in accounts payable due to timing of vendor payments, $1.5 million increase in other current liabilities, $0.2 million increase in other long-term liabilities and $0.2 million increase in deferred revenue balance. These changes were partially offset by a $1.8 million increase in inventories to support the growth in our business operations, $0.5 million increase in prepaid expenses and other current assets, $0.3 million increase in accounts receivable due to increased sales at year end and $0.3 million increase in other assets primarily related to security deposit for the new office in 2018.
+Investing activities
+In 2020, cash used in investing activities was $5.1 million, which consisted of $3.5 million in capitalized costs related to the development of internal use software and $1.6 million related to the purchase of property and equipment.
+In 2019, cash used in investing activities was $3.9 million, which consisted of $2.2 million related to the purchase of property and equipment and $1.7 million in capitalized costs related to the development of internal use software.
+In 2018, cash used in investing activities was $2.5 million, which consisted of $1.7 million related to the purchase of property and equipment and $0.8 million in capitalized costs related to the development of internal use software.
+Financing activities
+In 2020, cash provided by financing activities was $229.9 million, attributable to $148.5 million in net proceeds received in our IPO, $67.9 million in net proceeds from the issuance of our Series E convertible preferred stock, $19.6 million in borrowings under our term loan and PPP loan, $10.1 million in proceeds from the issuance of convertible notes, and $1.2 million from the exercise of stock options, partially offset by $17.3 million in debt repayments, which includes repayment of our PPP loan.
+In 2019, cash provided by financing activities was $5.2 million, attributable to gross proceeds of $5.0 million from borrowings on our 2018 Loan and net proceeds of $0.9 million from the issuance of our Series D convertible preferred stock, partially offset by $0.8 million in payments of deferred offering costs related to our planned IPO.
+In 2018, cash provided by financing activities was $71.7 million. This was attributable to the net proceeds of $72.4 million from the issuance of our Series C and Series D convertible preferred stock and gross proceeds of $7.0
+million from borrowings on our 2018 Loan, partially offset by $7.7 million in repayment of principal and related fees on a prior loan entered into in 2014.
+Contractual obligations and commitments
+The following table summarizes our contractual obligations and commitments as of December 31, 2020:
+1)
+We borrowed $15.0 million pursuant to a term loan under the 2018 Loan. Principal payments associated with the 2018 Loan are included in the above table. Interest expense is included in the above table based on obligations outstanding and rates effective as of December 31, 2020, including a final one-time payment of $0.9 million in September 2024.
+Off-balance sheet arrangements
+During the period presented, we did not have any off-balance sheet arrangements as defined in the rules and regulations of the SEC.
+Critical accounting policies and estimates
+Management’s discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these consolidated financial statements requires us to make estimates and assumptions regarding the reported amounts of assets, liabilities, revenue, expenses and related disclosures. Our estimates are based on our historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions and any such differences may be material.
+While our significant accounting policies are more fully described in the Note 2 to our audited consolidated financial statements appearing elsewhere in this Annual Report on Form 10-K, we believe the following discussion addresses our most critical accounting policies, which are those that are most important to our financial condition and results of operations and require our most difficult, subjective and complex judgments.
+Revenue recognition
+We generate revenue from the sale of Eargo hearing aid systems, accessories and extended warranties directly to consumers. Our products are primarily sold through our website and sales representatives. For product sales, control is transferred upon shipment to the customer. The extended warranties sold to consumers covers the product for an additional year, commencing on the day after the initial one-year warranty expires. For extended warranty sales, control is transferred over time based on time elapsed throughout the extended warranty period.
+Each product is sold with a 45-day right of return. We account for the estimated impact of any returns as a reduction of transaction price. To estimate product sales that will be returned (i.e., variable consideration), we analyze historical returns, current economic trends, and changes in customer demand. Based on this information, we reserve a percentage of each dollar of product sales that provide the customer with the right of return. The transaction price includes an estimate of variable consideration up to the amount for which it is probable that a significant reversal in the amount of cumulative revenue recorded will not occur once the uncertainties surrounding the variable consideration are resolved.
+Revenue is recognized when a customer obtains control of promised goods or services, in an amount that reflects the consideration which the entity expects to receive in exchange for those goods or services. To determine revenue recognition for arrangements that an entity determines are within the scope of ASC 606, we perform the following five steps: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) the entity satisfies a performance obligation.
+Stock-based compensation
+We recognize compensation costs related to stock-based awards granted, including stock options, purchase rights granted under the employee stock purchase plan and restricted stock units, based on the estimated fair value of the awards on the date of grant. The grant date fair value of the stock-based awards is generally recognized on a straight-line basis over the requisite service period, which is generally the vesting period of the respective awards. The valuation model used for calculating the estimated fair value of stock options and purchase rights granted under the employee stock purchase plan is the Black-Scholes option-pricing model. The Black-Scholes model requires us to make assumptions and judgments about the variables used in the calculations, including the expected term (weighted-average period of time that the stock-based awards are expected to be outstanding), the expected volatility of our common stock, the related risk-free interest rate and the expected dividend. We have elected to recognize forfeitures of stock options as they occur.
+For option awards issued to non-employees, we record expense related to stock options based on the fair value of the options calculated using the Black-Scholes option-pricing model over the service performance period.
+The Black-Scholes option-pricing model requires the use of highly subjective assumptions which determine the fair value of stock-based awards. These assumptions include:
+•
+Fair value of common stock. For grants prior to our IPO in October 2020, the fair value of our common stock underlying share-based awards was estimated on each grant date by our board of directors. In order to determine the fair value of our common stock underlying option grants, our board of directors considered, among other things, valuations of our common stock prepared by an unrelated third-party valuation firm in accordance with the guidance provided by the American Institute of Certified Public Accountants Practice Guide, Valuation of Privately-Held-Company Equity Securities Issued as Compensation. For all grants subsequent to our IPO in October 2020, the fair value of common stock was determined by using the closing price per share of common stock as reported on the Nasdaq Global Select Market.
+•
+Expected term. The expected term represents the period that share-based awards are expected to be outstanding. The expected term for option grants is determined using the simplified method. The simplified method deems the term to be the average of the time-to-vesting and the contractual life of the share-based awards.
+•
+Expected volatility. Since we had been privately held and did not have any trading history for our common stock and subsequent to our IPO have limited trading history for our common stock, the expected volatility was estimated based on the average volatility for comparable publicly traded companies over a period equal to the expected term of the stock option grants. The comparable companies were chosen based on their similar size, stage in the life cycle or area of specialty.
+•
+Risk-free interest rate. The risk-free interest rate is based on the U.S. Treasury zero coupon issues in effect at the time of grant for periods corresponding with the expected term of option.
+•
+Expected dividend. We have never paid dividends on our common stock and have no plans to pay dividends on our common stock. Therefore, we used an expected dividend yield of zero.
+Recent accounting pronouncements
+See Note 2 to our consolidated financial statements appearing under Part II, Item 8 for more information about recent accounting pronouncements, the timing of their adoption, and our assessment.
+JOBS Act accounting election
+We are an “emerging growth company,” as defined in the JOBS Act. Under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards issued subsequent to the enactment of the JOBS Act until such time as those standards apply to private companies.
+We have elected to use this extended transition period to enable us to comply with new or revised accounting standards that have different effective dates for public and private companies until the earlier of the date we (i) are no longer an emerging growth company or (ii) affirmatively and irrevocably opt out of the extended transition period provided in the JOBS Act. As a result, our consolidated financial statements may not be comparable to companies that comply with new or revised accounting pronouncements

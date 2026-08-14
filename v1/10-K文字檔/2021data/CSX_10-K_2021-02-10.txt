@@ -1,0 +1,395 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+TERMS USED BY CSX
+When used in this report, unless otherwise indicated by the context, these terms are used to mean the following:
+Car hire - A charge paid by one railroad for its use of cars belonging to another railroad or car owner.
+Class I freight railroad - One of the largest line haul freight railroads as determined based on operating revenue; the exact revenue required to be in each class is periodically adjusted for inflation by the Surface Transportation Board. Smaller railroads are classified as Class II or Class III.
+Common carrier mandate - A federal mandate that requires U.S. railroads to accommodate reasonable requests from shippers to carry any freight, including hazardous materials.
+Demurrage - A charge assessed by railroads for the use of rail cars by shippers or receivers of freight beyond a specified free time.
+Department of Transportation ("DOT") - A U.S. government agency with jurisdiction over matters of all modes of transportation.
+Depreciation study - Conducted by a third-party specialist and analyzed by management, a periodic statistical analysis of fixed asset service lives, salvage values, accumulated depreciation, and other factors for group assets along with a comparison of similar asset groups at other companies.
+Double-stack - Stacking containers two-high on specially equipped cars.
+Environmental Protection Agency (“EPA”) - A U.S. government agency that has regulatory authority with respect to environmental law.
+Federal Railroad Administration ("FRA") - The branch of the DOT that is responsible for developing and enforcing railroad safety regulations, including safety standards for rail infrastructure and equipment.
+Free cash flow - The calculation of a non-GAAP measure by using net cash provided by operating activities and adjusting for property additions and certain other investing activities. Free cash flow is a measure of cash available for paying dividends, share repurchases and principal reduction on outstanding debt.
+Group-life depreciation - A type of depreciation in which assets with similar useful lives and characteristics are aggregated into groups. Instead of calculating depreciation for individual assets, depreciation is calculated as a whole for each group.
+Incidental revenue - Revenue for switching, demurrage, storage, etc.
+Intermodal - A flexible way of transporting freight over highway, rail and water without being removed from the original transportation equipment, namely a container or trailer.
+Mainline - The main track thoroughfare, exclusive of terminals, yards, sidings and turnouts.
+CSX 2020 Form 10-K p.23
+CSX CORPORATION
+PART II
+Pipeline and Hazardous Materials Safety Administration (“PHMSA”) - An agency within the DOT that, together with the FRA, has broad jurisdiction over railroad operating standards and practices, including hazardous materials requirements.
+Positive Train Control ("PTC") - An interoperable train control system designed to prevent train-to-train collisions, over-speed derailments, incursions into established work-zone limits, and train diversions onto another set of tracks.
+Revenue adequacy - The achievement of a rate of return on investment at least equal to the industry cost of investment capital, as measured by the STB.
+Shipper - A customer shipping freight via rail.
+Siding - Track adjacent to the mainline used for passing trains.
+Staggers Act of 1980 - Congressional law that significantly deregulated the rail industry, replacing the regulatory structure in existence since the 1887 Interstate Commerce Act. Where previously rates were controlled by the Interstate Commerce Commission, the Staggers Act allowed railroads to establish their own rates for shipments, enhancing their ability to compete with other modes of transportation.
+Surface Transportation Board ("STB") - An independent governmental adjudicatory body administratively housed within the DOT, responsible for the economic regulation of interstate surface transportation within the United States.
+Switching - Putting cars in a specific order, placing cars for loading, retrieving empty cars or adding or removing cars from a train at an intermediate point.
+Terminal - A facility, typically owned by a railroad, for the handling of freight and for the breaking up, making up, forwarding and servicing of trains.
+Transportation Security Administration (“TSA”) - A component of the Department of Homeland Security with broad authority over railroad operating practices that may have homeland security implications.
+TTX Company ("TTX") - A company that provides its owner-railroads with standardized fleets of intermodal, automotive and general use railcars at time and mileage rates. CSX owns about 20 percent of TTX's common stock, and the remainder is owned by the other leading North American railroads and their affiliates.
+Turnout - A track that diverts trains from one track to another.
+Yard - A system of tracks, other than main tracks and sidings, used for making up trains, storing cars and other purposes.
+CSX 2020 Form 10-K p.24
+CSX CORPORATION
+PART II
+2020 HIGHLIGHTS
+• Revenue of $10.6 billion decreased $1.4 billion or 11% versus the prior year.
+• Expenses of $6.2 billion decreased $751 million or 11% year over year.
+• Operating income of $4.4 billion decreased $603 million or 12% year over year.
+• Operating ratio of 58.8% increased 40 basis points from 58.4%.
+• Earnings per diluted share of $3.60 decreased $0.57 or 14% year over year.
+RESULTS OF OPERATIONS
+2020 vs. 2019 Results of Operations
+Fiscal Years
+2020 2019 $
+Change %
+Change
+(Dollars in Millions)
+Revenue $ 10,583 $ 11,937 $ (1,354) (11) %
+Expense
+Labor and Fringe 2,275 2,616 341 13
+Materials, Supplies and Other 1,684 1,749 65 4
+Depreciation 1,383 1,349 (34) (3)
+Fuel 541 906 365 40
+Equipment and Other Rents 338 352 14 4
+Total Expense 6,221 6,972 751 11
+Operating Income 4,362 4,965 (603) (12)
+Interest Expense (754) (737) (17) (2)
+Other Income - Net 19 88 (69) (78)
+Income Tax Expense (862) (985) 123 12
+Net Earnings $ 2,765 $ 3,331 $ (566) (17)
+Earnings Per Diluted Share:
+Net Earnings $ 3.60 $ 4.17 $ (0.57) (14) %
+Operating Ratio 58.8 % 58.4 % (40) bps
+CSX 2020 Form 10-K p.25
+CSX CORPORATION
+PART II
+Global economic uncertainty, including the effects of COVID-19 global pandemic, continues to impact the Company's results of operations. Demand for rail services saw large and rapid declines in the first half of the year, followed by steep sequential increases in the second half, but the effects of the disruption of global manufacturing, supply chains and consumer spending as a result of the COVID-19 pandemic are ongoing. While operating cash flows have also been impacted by these economic conditions, the Company maintains a strong cash balance and access to committed funding sources and other sources of external liquidity if required. As this is a dynamic situation, it is difficult to determine the future impacts of the pandemic. The full implications of COVID-19, including the extent of its impact on the Company’s financial and operating results, will be determined by the length of time that the pandemic continues, its effect on the demand for the Company’s transportation services and the supply chain, as well as the effect of governmental regulations imposed in response to the pandemic. The duration of the pandemic is dependent on several factors, including the timing of vaccine production and distribution as well as the impacts of virus mutations and case resurgences across the country.
+CSX employees that provide efficient and reliable rail service are essential to keeping supply chains fluid in response to this challenge. Accordingly, business operations have been modified to ensure the safety of employees across the network while continuing to provide a high level of service to customers. A cross-functional task force monitors and coordinates the Company’s response to COVID-19. Policies and procedures established to protect the health and safety of employees and customers and to safeguard CSX operations include rigorous cleaning regimens for equipment and facilities, provision of sanitation supplies, distribution of disposable face coverings, facilitation of social distancing measures and administration of temperature testing at certain facilities. These precautions remain in place despite the easing of pandemic restrictions by state and local governments across the network. Additionally, remote work arrangements have been made where possible in order to reduce the density of employees in a single location, and alternative locations for key functions, such as dispatch, are being utilized as needed.
+In March 2020, the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”) was enacted to provide relief to businesses in response to the COVID-19 pandemic. The most significant remaining impact to the Company is the deferral of certain payroll tax payments to 2021 and 2022. The provisions of the CARES Act are not expected to have an impact on CSX’s results of operations or effective tax rate.
+CSX 2020 Form 10-K p.26
+CSX CORPORATION
+PART II
+Volume and Revenue (Unaudited)
+Volume (Thousands of units); Revenue (Dollars in Millions); Revenue Per Unit (Dollars)
+Volume Revenue Revenue Per Unit
+2020 2019 % Change 2020 2019 % Change 2020 2019 % Change
+Chemicals(a)
+664 670 (1) % $ 2,309 $ 2,349 (2) % $ 3,477 $ 3,506 (1) %
+Agricultural and Food Products 463 469 (1) % 1,386 1,410 (2) % 2,994 3,006 - %
+Automotive 344 456 (25) % 920 1,236 (26) % 2,674 2,711 (1) %
+Minerals(a)
+321 337 (5) % 538 559 (4) % 1,676 1,659 1 %
+Forest Products(a)
+270 283 (5) % 824 862 (4) % 3,052 3,046 - %
+Metals and Equipment(a)
+239 249 (4) % 675 742 (9) % 2,824 2,980 (5) %
+Fertilizers 234 243 (4) % 424 431 (2) % 1,812 1,774 2 %
+Total Merchandise 2,535 2,707 (6) % 7,076 7,589 (7) % 2,791 2,803 - %
+Intermodal 2,720 2,670 2 % 1,702 1,760 (3) % 626 659 (5) %
+Coal 637 843 (24) % 1,397 2,070 (33) % 2,193 2,456 (11) %
+Other - - - % 408 518 (21) % - - - %
+Total 5,892 6,220 (5) % $ 10,583 $ 11,937 (11) % $ 1,796 $ 1,919 (6) %
+(a) In first quarter 2020, changes were made in the categorization of certain lines of business, impacting Chemicals, Minerals, Forest Products, and Metals and Equipment. The impacts were not material and prior periods have been reclassified to conform to the current presentation.
+CSX 2020 Form 10-K p.27
+CSX CORPORATION
+PART II
+Revenue
+The COVID-19 pandemic significantly impacted overall volume in 2020. Total revenue decreased $1.4 billion, in 2020 or 11%, when compared to the previous year due to declines in coal, lower merchandise volumes, decreases in fuel recovery and lower other revenue. These decreases were partially offset by pricing increases in merchandise and volume and pricing increases in intermodal.
+Merchandise Volume
+Chemicals - Declined due to reduced frac sand and waste shipments, partially offset by growth in plastics shipments.
+Agricultural and Food Products - Decreased due to lower shipments of feed grain as well as food and consumer products, partially offset by growth in sweeteners and oils.
+Automotive - Declined due to lower North American vehicle production.
+Minerals - Decreased due to lower shipments for aggregates and other minerals.
+Forest Products - Declined due to lower shipments of printing paper and building products, partially offset by higher pulpboard shipments.
+Metals and Equipment - Declined due to lower metals shipments, primarily in the steel, construction and scrap markets, as well as reduced equipment shipments.
+Fertilizers - Declined due to reduced short-haul phosphate shipments.
+Intermodal Volume
+Increases in both domestic and international shipments resulted from tightening truck capacity and inventory replenishments in the second half of the year and growth in rail volumes from east coast ports.
+Coal Volume
+Domestic coal declined primarily due to lower shipments of utility coal as a result of continued competition from natural gas and reduced electrical demand, as well as lower steel and industrial shipments due to lower industrial production. Export coal declined due to reduced international shipments of thermal and metallurgical coal as a result of lower global benchmark prices.
+Other
+Other revenue decreased $110 million versus prior year primarily due to lower affiliate revenue, lower revenue for demurrage and a favorable contract settlement with a customer in the prior year.
+CSX 2020 Form 10-K p.28
+CSX CORPORATION
+PART II
+Expense
+In 2020, total expenses decreased $751 million, or 11%, compared to prior year. Descriptions of each expense category as well as significant year-over-year changes are described below.
+Labor and Fringe expenses include employee wages and related payroll taxes, health and welfare costs, pension, other post-retirement benefits and incentive compensation. These expenses decreased $341 million due to the following items:
+•Efficiency and volume savings of $288 million primarily resulted from structural changes to the train plan that resulted in reduced crew starts as well as lower headcount.
+•Incentive compensation decreased $86 million primarily due to lower expected annual incentive payouts as well as higher prior year accelerated stock compensation expense for certain retirement-eligible employees.
+•Other costs increased $33 million primarily due to inflation and several other non-significant items, including severance costs.
+Materials, Supplies and Other expenses consist primarily of contracted services to maintain infrastructure and equipment, terminal and pier services and professional services. This category also includes costs related to materials, travel, casualty claims, environmental remediation, train accidents, property and sales tax, utilities and other items including gains on property dispositions. Total materials, supplies and other expenses decreased $65 million driven by the following:
+•Efficiency and volume savings of $185 million primarily resulted from lower operating support costs, lower terminal costs as a result of record productivity levels at intermodal terminals, and reduced equipment maintenance expenses.
+•Gains from real estate and line sales were $35 million in 2020 compared to $151 million in 2019.
+•All other costs increased $4 million primarily due to inflation and other non-significant costs that were mostly offset by a $22 million non-railroad asset impairment in the prior year related to an intermodal terminal sale agreement.
+Depreciation expense primarily relates to recognizing the costs of capital assets, such as locomotives, railcars and track structure, over their respective useful lives, which are reviewed periodically as part of depreciation studies. This expense is impacted primarily by the capital expenditures made each year. Depreciation expense increased $34 million primarily due to the impacts of the 2019 equipment depreciation study as well as a larger net asset base.
+Fuel expense includes locomotive diesel fuel as well as non-locomotive fuel. This expense is largely driven by the market price and locomotive consumption of diesel fuel. Fuel expense decreased $365 million primarily due to a 31% price decrease that drove savings of $243 million, volume savings and a 5% improvement in fuel efficiency.
+Equipment and Other expenses include rent paid for freight cars owned by other railroads or private companies, net of rents received by CSXT for use of its equipment. This category of expenses also includes expenses for short-term and long-term leases of locomotives, railcars, containers and trailers, offices and other rentals. These expenses decreased $14 million primarily due to volume savings, partially offset by higher days per load for automotive and other merchandise markets that resulted in increased car hire costs.
+CSX 2020 Form 10-K p.29
+CSX CORPORATION
+PART II
+Interest Expense
+Interest Expense includes interest on long-term debt, equipment obligations and finance leases. Interest expense increased $17 million as higher average debt balances were partially offset by lower average rates.
+Other Income - Net
+Other Income - Net includes investment gains, losses and interest income, as well as components of net periodic pension and post-retirement benefit cost and other non-operating activities. Other income decreased $69 million primarily due to a $38 million increase in debt repurchase expense and decreased interest income driven by lower interest rates, partially offset by higher average cash and short-term investment balances.
+Income Tax Expense
+Income Tax Expense decreased $123 million primarily due to lower earnings before income taxes, partially offset by lower tax benefits from the impacts of stock option exercises and the vesting of other equity awards as well as prior year benefits from the resolution of certain state tax matters.
+Net Earnings and Earnings per Diluted Share
+Net Earnings decreased $566 million to $2.8 billion, and earnings per diluted share decreased $0.57 to $3.60, due to the factors mentioned above. Average shares outstanding was lower as a result of share repurchase activity during the year and had a favorable impact on earnings per diluted share.
+2019 vs. 2018 Results of Operations
+See discussion of 2019 results of operations compared to 2018 results of operations in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in the Company's Annual Report on Form 10-K for the year ended December 31, 2019.
+CSX 2020 Form 10-K p.30
+CSX CORPORATION
+PART II
+Non-GAAP Measures - Unaudited
+CSX reports its financial results in accordance with United States generally accepted accounting principles ("GAAP"). CSX also uses certain non-GAAP measures that fall within the meaning of Securities and Exchange Commission Regulation G and Regulation S-K Item 10(e), which may provide users of the financial information with additional meaningful comparison to prior reported results. Non-GAAP measures do not have standardized definitions and are not defined by GAAP. Therefore, CSX’s non-GAAP measures are unlikely to be comparable to similar measures presented by other companies. The presentation of these non-GAAP measures should not be considered in isolation from, as a substitute for, or as superior to the financial information presented in accordance with GAAP. Reconciliations of non-GAAP measures to corresponding GAAP measures are below.
+Free Cash Flow
+Management believes that free cash flow is useful to investors as it is important in evaluating the Company’s financial performance. More specifically, free cash flow measures cash generated by the business after reinvestment. This measure represents cash available for both equity and bond investors to be used for dividends, share repurchases or principal reduction on outstanding debt. Free cash flow is calculated by using net cash from operations and adjusting for property additions and certain other investing activities, which includes proceeds from property dispositions. This measure should be considered in addition to, rather than a substitute for, cash provided by operating activities. Free cash flow before dividends decreased $832 million year-over-year to $2.6 billion primarily due to lower net cash provided by operating activities and lower proceeds from property dispositions.
+The following table reconciles cash provided by operating activities (GAAP measure) to free cash flow and adjusted free cash flow (both non-GAAP measures).
+Fiscal Years
+2020 2019
+(Dollars in Millions)
+Net cash provided by operating activities (a)
+$ 4,263 $ 4,850
+Property additions (1,626) (1,657)
+Other investing activities (b)
+9 285
+Free Cash Flow, before dividends (non-GAAP) $ 2,646 $ 3,478
+(a) Net cash provided by operating activities for the year ended December 31, 2020, includes the impact of $21 million paid to settle a liability for non-controlling interest in an affiliate.
+(b) For the year ended December 31, 2020, certain other investing activities used in the calculation of free cash flow do not include the impact of a $30 million deposit paid by the Company related to its signed definitive agreement to acquire Pan Am Railways, Inc. This transaction remains subject to regulatory review and approval by the Surface Transportation Board. This deposit is included in the other investing activities total on the consolidated cash flow statement for the year ended December 31, 2020.
+CSX 2020 Form 10-K p.31
+CSX CORPORATION
+PART II
+Operating Statistics (Estimated)
+Fiscal Years
+2020 2019 Improvement/
+(Deterioration)
+Operations Performance
+Train Velocity (Miles per hour)(a)
+20.2 20.5 (1) %
+Dwell (Hours)(a)
+9.3 8.6 (8) %
+Cars Online 112,718 117,562 4 %
+Revenue Ton-Miles (Billions)
+Merchandise 124.4 128.0 (3) %
+Intermodal 28.1 26.9 4 %
+Coal 30.1 41.1 (27) %
+Total Revenue Ton-Miles 182.6 196.0 (7) %
+Total Gross Ton-Miles (Billions)
+358.3 388.3 (8) %
+On-Time Originations 87 % 89 % (2) %
+On-Time Arrivals 77 % 79 % (3) %
+Safety
+FRA Personal Injury Frequency Index 0.81 0.90 10 %
+FRA Train Accident Rate 2.76 2.35 (17) %
+(a) The methodologies for calculating train velocity, dwell and cars online differ from those prescribed by the STB as the Company believes these numbers more accurately reflect railroad performance. CSXT will continue to report these metrics, using the prescribed methodology, to the STB on a weekly basis. See additional discussion on the Company's website.
+Certain operating statistics are estimated and can continue to be updated as actuals settle.
+Key Performance Measures Definitions:
+Train Velocity - Average train speed between origin and destination in miles per hour (does not include locals, yard jobs, work trains or passenger trains). Train velocity measures the profiled schedule of trains (from departure to arrival and all interim time), and train profiles are periodically updated to align with a changing operation.
+Dwell - Average amount of time in hours between car arrival to and departure from the yard.
+Cars Online - Average number of active freight rail cars on lines operated by CSX, excluding rail cars that are being repaired, in storage, those that have been sold, or private cars dwelling at a customer location more than one day.
+Revenue Ton-Miles (RTM's) - The movement of one revenue-producing ton of freight over a distance of one mile.
+Gross Ton-Miles (GTM's) - The movement of one ton of train weight over one mile. GTM's are calculated by multiplying total train weight by distance the train moved. Total train weight is comprised of the weight of the freight cars and their contents.
+On-Time Originations - Percent of scheduled road trains that depart the origin yard on time or ahead of schedule.
+On-Time Arrivals - Percent of scheduled road trains that arrive at the destination yard on time to within two hours of scheduled arrival.
+FRA Personal Injury Frequency Index - Number of FRA-reportable injuries per 200,000 man-hours.
+FRA Train Accident Rate - Number of FRA-reportable train accidents per million train-miles.
+The Company is committed to continuous improvement in safety and service performance through training, innovation and investment. Training and safety programs are designed to prevent incidents that can adversely impact employees, customers and communities. Technological innovations that can detect and avoid many types of human factor incidents are designed to serve as an additional layer of protection for the Company's employees. Continued capital investment in the Company's assets, including track, bridges, signals, equipment and detection technology also supports safety performance.
+Despite operating challenges presented by the COVID-19 pandemic, the Company remained focused on safety, service and controlling costs. Train velocity was roughly in line with last year’s record performance, declining 1% relative to 2019. Dwell increased by 8% compared to last year, while cars online decreased by 4% in 2020.
+CSX 2020 Form 10-K p.32
+CSX CORPORATION
+PART II
+From a safety perspective, the FRA personal injury index improved 10% and train-accident rate increased 17% from the prior year. In 2020, the number of FRA reportable injuries reached a new all-time record low for the second consecutive year. The number of FRA reportable train accidents remained at a record-low level, but a reduction in train miles negatively impacted the FRA train accident rate. The Company is committed to operational and safety improvement, while remaining focused on reducing risk and enhancing the overall safety of its employees, customers and communities in which the Company operates.
+LIQUIDITY AND CAPITAL RESOURCES
+Liquidity is a company’s ability to generate adequate amounts of cash to meet both current and future needs for obligations as they mature and to provide for planned capital expenditures, including those to address regulatory and legislative requirements. To have a complete picture of a company’s liquidity, its sources and uses of cash, balance sheet and external factors should be reviewed.
+Significant Cash Flows
+The following charts highlight the components of the change in cash and cash equivalents for operating, investing and financing activities for full years 2020 and 2019.
+In 2020, the Company generated $4.3 billion of cash provided by operating activities, which was $587 million lower than prior year primarily driven by lower cash-generating income and unfavorable working capital activities. Net cash used in investing activities was $649 million, a decrease in net spend of $1.5 billion from the prior year primarily as a result of higher net sales of short-term investments, partially offset by lower proceeds from property dispositions. Net cash used in financing activities was $1.4 billion, which represents a decrease in net spend of $1.2 billion from the prior year primarily driven by lower share repurchases, partially offset by lower proceeds from debt issuances and higher debt repayments.
+Sources of Cash and Liquidity
+The Company has multiple sources of liquidity, including cash generated from operations and financing sources. The Company filed a shelf registration statement with the SEC in February 2019 which is unlimited as to amount and may be used to issue debt or equity securities at CSX’s discretion, subject to market conditions and CSX Board authorization. While CSX seeks to give itself flexibility with respect to cash requirements, there can be no assurance that market conditions would permit CSX to sell such securities on acceptable terms at any given time, or at all. In 2020, CSX issued a total of $1.0 billion of new long-term debt.
+CSX 2020 Form 10-K p.33
+CSX CORPORATION
+PART II
+CSX has access to a $1.2 billion five-year unsecured revolving credit facility backed by a diverse syndicate of banks that expires in March 2024. As of December 31, 2020, the Company had no outstanding balances under this facility. See Note 10, Debt and Credit Agreements for more information. The Company also has a commercial paper program, backed by the revolving credit facility, under which the Company may issue unsecured commercial paper notes up to a maximum aggregate principal amount of $1.0 billion outstanding at any one time. As of December 31, 2020, the Company had no outstanding debt under the commercial paper program.
+Uses of Cash
+CSX uses current cash balances for general corporate purposes, which may include working capital requirements, repayment of additional indebtedness outstanding from time to time, repurchases of CSX's common stock, capital investments, improvements in productivity and other cost reduction initiatives. The Company also uses cash for scheduled payments of debt and leases.
+In 2020, CSX continued to invest in its business to create long-term value for shareholders. The Company is committed to maintaining and improving its existing infrastructure and to positioning itself for long-term, profitable growth through optimizing network and terminal capacity. Funds used for property additions are further described below.
+Fiscal Years
+Capital Expenditures (Dollars in Millions)
+2020 2019
+Track $ 858 $ 860
+Bridges, Signals and Other 508 493
+Total Infrastructure 1,366 1,353
+Strategic Projects and Commercial Facilities 143 141
+Locomotives 57 55
+Regulatory (including PTC) 39 91
+Freight Cars 21 17
+Total Capital Expenditures $ 1,626 1,657
+Planned capital investments for 2021 are expected to be between $1.7 billion and $1.8 billion. Of the total 2021 investment, the majority will be used to sustain the core infrastructure and the remaining amounts will be allocated to projects supporting service enhancements, productivity initiatives and profitable growth. CSX intends to fund capital investments through cash generated from operations.
+PTC implementation is complete at a total cost of $2.4 billion, which included installing new equipment along tracks, upgrading locomotives, adding communication equipment and developing new technologies. While the Company expects ongoing PTC costs, future PTC implementation costs are not expected to be material.
+CSX is continually evaluating market and regulatory conditions that could affect the Company’s ability to generate sufficient returns on capital investments. CSX may revise its future estimates for capital spending as a result of changes in business conditions, tax legislation or the enactment of new laws or regulations, which could have a material adverse effect on the Company’s operations and financial performance in the future (see Risk Factors under Item 1A of this Form 10-K).
+CSX 2020 Form 10-K p.34
+CSX CORPORATION
+PART II
+CSX is committed to returning cash to shareholders. Capital structure, capital investments and cash distributions, including dividends and share repurchases, are reviewed at least annually by the Board of Directors. On February 10, 2021, the Company's Board of Directors authorized an 8% increase in the quarterly cash dividend to $0.28 per common share. Management's assessment of market conditions and other factors guides the timing and volume of repurchases. Future share repurchases are expected to be funded by cash on hand, cash generated from operations and debt issuances.
+Material Changes in the Consolidated Balance Sheets and Working Capital
+CSX's balance sheet reflects its strong capital base and the impact of CSX's balanced approach in deploying capital for the benefit of its shareholders, which includes investments in infrastructure, dividend payments and share repurchases. Further, CSX is well positioned from a liquidity standpoint. The Company ended the year with $3.1 billion of cash, cash equivalents and short-term investments.
+Total assets as well as total liabilities and shareholders' equity increased $1.5 billion from prior year end. The increase in assets was primarily due to the net increase of $1.2 billion in cash and short-term investments as well as $276 million in net property additions. The net increase in cash and short-term investments was driven by $4.3 billion in cash from operations and proceeds from the issuance of $1.0 billion of long-term debt. These increases were partially offset by property additions of $1.6 billion, share repurchases of $867 million, dividends paid of $797 million and long-term debt repayments of $745 million.
+Total liabilities increased $289 million from prior year end primarily due to the issuance of $1.0 billion of long-term debt and a $207 million increase in deferred tax liabilities primarily driven by accelerated tax depreciation. These increases were partially offset by debt repayments of $745 million and a $234 million decrease in accounts payable primarily due to the conversion of accounts payable to Conrail into notes payable. Total shareholders' equity increased $1.2 billion from prior year end primarily driven by net earnings of $2.8 billion, partially offset by share repurchases of $867 million and dividends paid of $797 million.
+Working capital is considered a measure of a company’s ability to meet its short-term needs. CSX had a working capital surplus of $2.4 billion at December 2020 and $1.1 billion at December 2019, an increase of $1.3 billion. The increase in current assets was primarily driven by the net increase in cash and short-term investments described above and the decrease in current liabilities was due to lower accounts payable partially offset by higher current maturities of long-term debt.
+The Company’s working capital balance varies due to factors such as the timing of scheduled debt payments and changes in cash and cash equivalent balances. Although the Company currently has a surplus, a working capital deficit is not unusual for CSX or other companies in the industry and does not indicate a lack of liquidity. The Company continues to maintain adequate current assets to satisfy current liabilities and maturing obligations when they come due. Furthermore, CSX has sufficient financial capacity, including its revolving credit facility, commercial paper program and shelf registration statement to manage its day-to-day cash requirements and any anticipated obligations. The Company from time to time accesses the credit markets for additional liquidity.
+CSX 2020 Form 10-K p.35
+CSX CORPORATION
+PART II
+Credit Ratings
+Credit ratings reflect an independent agency’s judgment on the likelihood that a borrower will repay a debt obligation at maturity. The ratings reflect many considerations, such as the nature of the borrower’s industry and its competitive position, the size of the company, its liquidity and access to capital and the sensitivity of a company’s cash flows to changes in the economy. The two largest rating agencies, Standard & Poor’s Ratings Services (“S&P”) and Moody’s Investors Service (“Moody’s”), use alphanumeric codes to designate their ratings. The highest quality rating for long-term credit obligations is AAA and Aaa for S&P and Moody’s, respectively. A credit rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time by the assigning rating agency.
+The cost and availability of unsecured financing are materially affected by CSX's long-term credit ratings. CSX's credit ratings remained stable during 2020. As of December 2020 and December 2019, S&P's long-term rating on CSX was BBB+ (Stable), and Moody's was Baa1 (Stable). Ratings of BBB- and Baa3 or better by S&P and Moody’s, respectively, reflect ratings on debt obligations that fall within a band of credit quality considered to be investment grade. If CSX's credit ratings were to decline to below investment-grade levels, the Company could experience significant increases in its interest cost for new debt. In addition, a decline in CSX’s credit ratings to below investment grade levels could adversely affect the market’s demand, and thus the Company’s ability to readily issue new debt. The Company is committed to maintaining an investment-grade credit profile.
+Guaranteed Notes Issued By CSXT
+In March 2020, the SEC adopted amendments to reduce and simplify the financial disclosure requirements for guarantors and issuers of guaranteed registered securities effective January 4, 2021, with early voluntary compliance permitted. CSX elected to comply with these amendments effective second quarter 2020. As a result, separate condensed consolidating financial information for wholly-owned subsidiaries who issued or guaranteed notes is no longer included in the footnotes to the financial statements in Quarterly and Annual Reports on Form 10-Q and Form 10-K. Also in accordance with the amendments, CSX is not required to present combined summary financial information regarding such subsidiary issuers and guarantors because the assets, liabilities and results of operations of the combined issuers and guarantors of the notes are not materially different from the corresponding amounts presented in the consolidated financial statements.
+In 2007, CSXT, a wholly-owned subsidiary of CSX Corporation, issued $381 million of secured equipment notes maturing in 2023 in a registered public offering. CSX Corporation has fully and unconditionally guaranteed the notes. At CSXT’s option, CSXT may redeem any or all of the notes, in whole or in part, at any time, at the redemption price including premium. In the case of loss or destruction of any item of equipment securing the notes, if CSXT does not substitute another item of equipment for the item suffering such loss or destruction, CSXT will be required to redeem the notes in part at par. The guarantee of the notes will rank equally in right of payment with all existing and future senior obligations of CSX Corporation and will be effectively subordinated to all future secured indebtedness of CSX Corporation to the extent of the assets securing such indebtedness. The guarantee is subject to release in limited circumstances only upon the occurrence of certain customary conditions. As of December 31, 2020, the principal balance of these secured equipment notes was $160 million.
+CSX 2020 Form 10-K p.36
+CSX CORPORATION
+PART II
+SCHEDULE OF CONTRACTUAL OBLIGATIONS AND COMMERCIAL COMMITMENTS
+The following tables set forth maturities of the Company's contractual obligations and other significant commitments:
+Type of Obligation 2021 2022 2023 2024 2025 Thereafter Total
+(Dollars in Millions) (Unaudited)
+Contractual Obligations
+Total Debt (See Note 10) $ 401 $ 162 $ 139 $ 551 $ 601 $ 14,851 $ 16,705
+Interest on Debt 712 698 684 680 661 10,805 14,240
+Purchase Obligations (See Note 8) 234 226 248 284 298 1,985 3,275
+Other Post-Employment Benefits (a)
+33 26 25 25 24 102 235
+Operating Leases - Net (See Note 7) 47 43 36 36 35 1,172 1,369
+Agreements with Conrail (See Note 15) 30 30 30 22 - - 112
+Total Contractual Obligations $ 1,457 $ 1,185 $ 1,162 $ 1,598 $ 1,619 $ 28,915 $ 35,936
+Other Commitments (b)
+$ 74 $ 2 $ - $ - $ - $ - $ 76
+(a) Other post-employment benefits include estimated other post-retirement medical and life insurance payments and payments under non-qualified pension plans that are unfunded. No amounts are included for funded pension obligations as no contributions are currently required. See Note 9, Employee Benefit Plans.
+(b) Other commitments of $76 million consisted of surety bonds, letters of credit, uncertain tax positions and public private partnerships. Surety bonds of $29 million and letters of credit of $27 million arise from assurances issued by a third-party that CSX will fulfill certain obligations and are typically a contract, state, federal or court requirement. Uncertain tax positions of $16 million, which include interest and penalties, are all included in year 2021 as the year of settlement cannot be reasonably estimated. Contractual commitments related to public-private partnerships are $4 million.
+CSX 2020 Form 10-K p.37
+CSX CORPORATION
+PART II
+OFF-BALANCE SHEET ARRANGEMENTS
+For detailed information about the Company’s guarantees, operating leases and purchase obligations, see Note 8, Commitments and Contingencies. There are no off-balance sheet arrangements that are reasonably likely to have a material effect on the Company’s financial condition, results of operations or liquidity.
+LABOR AGREEMENTS
+Approximately 15,700 of the Company's nearly 19,300 employees are members of a labor union. In November 2019, notices were served to the 13 rail unions that participate in national bargaining to begin negotiations for benefits, wages and work rules for the next labor bargaining round for 2020. Current agreements remain in place until modified by these negotiations. Typically, such negotiations take several years before agreements are reached.
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires that management make estimates in reporting the amounts of certain assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and certain revenues and expenses during the reporting period. Actual results may differ from those estimates. These estimates and assumptions are discussed with the Audit Committee of the Board of Directors on a regular basis. Significant estimates using management judgment are made for the following areas:
+•personal injury, environmental and legal reserves;
+•pension and post-retirement medical plan accounting; and
+•depreciation policies for assets under the group-life method.
+Personal Injury, Environmental and Legal Reserves
+Personal Injury
+Personal Injury reserves of $131 million and $129 million for 2020 and 2019, respectively, represent liabilities for employee work-related and third-party injuries. CSXT retains an independent actuary to assist management in assessing the value of personal injury claims. The methodology used by the actuary includes a development factor to reflect growth or reduction in the value of these personal injury claims. It is based largely on CSXT's historical claims and settlement experience. Actual results may vary from estimates due to the number, type and severity of the injury, costs of medical treatments and uncertainties in litigation. For additional details, including a description of our related accounting policies, see Note 5, Casualty, Environmental and Other Reserves in the consolidated financial statements.
+CSX 2020 Form 10-K p.38
+CSX CORPORATION
+PART II
+Critical Accounting Estimates, continued
+Environmental
+Environmental reserves were $76 million and $74 million in 2020 and 2019, respectively. The Company is a party to various proceedings related to environmental issues, including administrative and judicial proceedings involving private parties and regulatory agencies. The Company has been identified as a potentially responsible party at approximately 220 environmentally impaired sites. The Company reviews its potential liability with respect to each site identified, giving consideration to a number of factors such as:
+•type of clean-up required;
+•nature of the Company’s alleged connection to the location (e.g., generator of waste sent to the site or owner or operator of the site);
+•extent of the Company’s alleged connection (e.g., volume of waste sent to the location and other relevant factors); and
+•number, connection and financial viability of other named and unnamed potentially responsible parties at the location.
+Conditions that are currently unknown could, at any given location, result in additional exposure, the amount and materiality of which cannot presently be reasonably estimated. For additional details, including a description of our related accounting policies, see Note 5, Casualty, Environmental and Other Reserves in the consolidated financial statements.
+Legal
+The Company is involved in litigation incidental to its business and is a party to a number of legal actions and claims, various governmental proceedings and private civil lawsuits. The Company evaluates all exposures relating to legal liabilities at least quarterly and adjusts reserves when appropriate. The amount of a particular reserve may be influenced by factors that include official rulings, newly discovered or developed evidence, or changes in laws, regulations and evidentiary standards. An unexpected adverse resolution of one or more of these items could have a material adverse effect on the Company's financial condition, results of operations or liquidity in that particular period. For additional details, including a description of our related accounting policies, see Note 5, Casualty, Environmental and Other Reserves in the consolidated financial statements. Additionally, see Item 3. Legal Proceedings for further discussion of these items.
+Pension and Post-retirement Medical Plan Accounting
+The Company sponsors defined benefit pension plans principally for salaried, management personnel. For employees hired prior to 2003, the plans provide eligible employees with retirement benefits based predominantly on years of service and compensation rates near retirement. For employees hired between 2003 and 2019, benefits are determined based on a cash balance formula, which provides benefits by utilizing interest and pay credits based upon age, service and compensation. Beginning in 2020, the CSX Pension Plan was closed to new participants. As of December 2020, the projected benefit obligation for the Company’s pension plans was $3.3 billion.
+CSX 2020 Form 10-K p.39
+CSX CORPORATION
+PART II
+Critical Accounting Estimates, continued
+In addition to these plans, the Company sponsors a post-retirement medical plan and a life insurance plan that provide certain benefits to full-time, salaried, management employees hired prior to 2003 upon their retirement if certain eligibility requirements are met. Changes to the post-retirement medical and life insurance plans were communicated to participants in October 2018. Beginning in 2019, both the life insurance benefit for eligible active employees and health savings account contributions made by the Company to eligible retirees younger than 65 were eliminated. Beginning in 2020, the employer-funded health reimbursement arrangements for eligible retirees 65 years or older were eliminated. As a result of these plan amendments, the Company recognized a decrease of $102 million in the post-retirement benefit liability and a corresponding gain in other comprehensive income in 2018. As of December 2020, the projected benefit obligation for the Company’s other post-retirement benefit plans was $96 million.
+For information related to the funded status of the Company's pension and other post-retirement benefit plans, see Note 9, Employee Benefit Plans.
+The accounting for these plans is subject to the guidance provided in the Compensation-Retirement Benefits Topic in the ASC. This rule requires that management make certain assumptions relating to the following:
+•discount rates used to measure future obligations and interest expense;
+•long-term rate of return on plan assets;
+•salary scale inflation rates; and
+•other assumptions.
+The Company engages independent actuaries to compute the amounts of liabilities and expenses relating to these plans subject to the assumptions that the Company determines are appropriate based on historical trends, current market rates and future projections. These amounts are reviewed by management.
+Discount Rates
+Discount rates affect the amount of liability recorded and the service and interest cost components of pension and post-retirement expense. Discount rates reflect the rates at which pension and other post-retirement benefits could be effectively settled, or in other words, how much it would cost the Company to buy enough high quality bonds to generate cash flow equal to the Company's expected future benefit payments. The Company determines the discount rate based on the market yield as of year-end for high quality corporate bonds whose maturities match the plans' expected benefit payments.
+The Company measures the service and interest cost components of the net pension and post-retirement benefits expense by using individual spot rates matched with separate cash flows for each future year. Under the spot rate approach, individual spot discount rates along the same high quality corporate bonds yield curve used to measure the pension and post-retirement benefit liabilities are applied to the relevant projected cash flows at the relevant maturity.
+CSX 2020 Form 10-K p.40
+CSX CORPORATION
+PART II
+Critical Accounting Estimates, continued
+The weighted average discount rates used by the Company to value its 2020 pension and post-retirement obligations are 2.43 percent and 2.07 percent, respectively. For 2019, the weighted average discount rates used by the Company to value its pension and post-retirement obligations were 3.13 percent and 2.87 percent, respectively. Discount rates may differ for pension and post-retirement benefits due to varying duration of the liabilities for projected payments for each plan. As of December 2020, the estimated duration of pensions and post-retirement benefits is approximately 12 years and 8 years, respectively.
+Each year, these discount rates are reevaluated and adjusted using the current market interest rates for high quality corporate bonds to reflect the best estimate of the current effective settlement rates. In general, if interest rates decline or rise, the assumed discount rates will change.
+Long-term Rate of Return on Plan Assets
+The expected long-term average rate of return on plan assets reflects the average rate of earnings expected on the funds invested, or to be invested, to provide for benefits included in the projected benefit obligation. In estimating that rate, the Company gives appropriate consideration to the returns being earned by the plan assets in the funds and the rates of return expected to be available for reinvestment as well as the current and projected asset mix of the funds. Management, with the assistance of an outsourced investment manager, balances market expectations obtained from various investment managers with both market and actual plan historical returns to develop a reasonable estimate of the expected long-term rate of return on assets. As this assumption is long term, the annual review may result in less frequent adjustment than other assumptions used in pension accounting. The long-term rate of return on plan assets used by the Company to value its benefit cost for the subsequent plan year was 6.75 percent in both 2020 and 2019.
+Salary Scale Inflation Rates
+Salary scale inflation rates are based on current trends and historical data accumulated by the Company. The Company reviews recent wage increases and management incentive compensation payments over the past five years in its assessment of salary scale inflation rates. The Company used a salary scale rate of 4.60 percent in both 2020 and 2019 to value its pension obligations.
+Other Assumptions
+The calculations made by the actuaries also include assumptions relating to health care cost trend rates, mortality rates, turnover and retirement age. These assumptions are based upon historical data, recent plan experience and industry trends and are determined by management.
+2021 Estimated Pension and Post-retirement Expense
+Net periodic pension and post-retirement benefits expenses for 2021 are expected to be a $21 million credit and a $5 million credit, respectively. Net periodic pension and post-retirement benefits expenses for 2021 are expected to include service cost expense of $38 million and $1 million, respectively. Service cost expense is included in labor and fringe on the consolidated income statement and all other components of net pension expense and post-retirement benefits expense are included in other income - net. Net periodic pension expense and post-retirement benefits expense in 2020 were costs of $3 million and less than $1 million, respectively. The net decrease in the expected expense is primarily due to expected favorable pension asset experience.
+CSX 2020 Form 10-K p.41
+CSX CORPORATION
+PART II
+Critical Accounting Estimates, continued
+The following sensitivity analysis illustrates the effects of a one percent change in certain assumptions like discount rates, long-term rate of return and salaries on the 2021 estimated pension and post-retirement expense:
+(Dollars in Millions) Pension Expense Post-Retirement Expense
+Discount Rate $ 20 $ 1
+Long-term Rate of Return $ 28 N/A
+Salary Inflation $ 5 N/A
+Depreciation Policies for Assets Utilizing the Group-Life Method
+The depreciable assets of the Company are depreciated using either the group-life or straight-line method of accounting, which are both acceptable depreciation methods in accordance with GAAP. The Company depreciates its railroad assets, including main-line track, locomotives and freight cars, using the group-life method of accounting. Assets depreciated under the group-life method comprise 87% of total fixed assets of $45.5 billion on a gross basis at December 31, 2020. The remaining depreciable assets of the Company, including non-railroad assets and assets under finance leases, are depreciated using the straight-line method on a per asset basis. Land is not depreciated.
+Management performs a review of depreciation expense and useful lives on a regular basis. Under the group-life method, the service lives and salvage values for each group of assets are determined by completing periodic depreciation studies and applying management’s methods to determine the service lives of its properties. There are several factors taken into account during the depreciation study and they include:
+•statistical analysis of historical life and salvage data for each group of property;
+•statistical analysis of historical retirements for each group of property;
+•evaluation of current operations;
+•evaluation of technological advances and maintenance schedules;
+•previous assessment of the condition of the assets;
+•management's outlook on the future use of certain asset groups;
+•expected net salvage to be received upon retirement; and
+•comparison of assets to the same asset groups with other companies.
+The Company completed a depreciation study for its road and track assets in 2020 and for equipment assets in 2019, both of which resulted in changes to accumulated depreciation, service lives, salvage values, and other related factors for certain assets. Recent experience with depreciation studies has resulted in changes to accumulated depreciation and depreciation rates that did not materially affect the Company's depreciation expense of $1.4 billion, $1.3 billion and $1.3 billion for 2020, 2019 and 2018, respectively. A one percent change in the average estimated useful life of all group-life assets would result in an approximate $12 million change to the Company’s annual depreciation expense. For additional details, including a more detailed description of our related accounting policies, see Note 6, Properties in the consolidated financial statements.
+New Accounting Pronouncements and Changes in Accounting Policy
+See Note 1, Nature of Operations and Significant Accounting Policies under the caption “New Accounting Pronouncements and Changes in Accounting Policy.”
+CSX 2020 Form 10-K p.42
+CSX CORPORATION
+PART II
+FORWARD-LOOKING STATEMENTS
+Certain statements in this report and in other materials filed with the Securities and Exchange Commission, as well as information included in oral statements or other written statements made by the Company, are forward-looking statements. The Company intends for all such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and the provisions of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These forward-looking statements within the meaning of the Private Securities Litigation Reform Act may contain, among others, statements regarding:
+•projections and estimates of earnings, revenues, margins, volumes, rates, cost-savings, expenses, taxes or other financial items;
+•expectations as to results of operations and operational initiatives;
+•expectations as to the effect of claims, lawsuits, environmental costs, commitments, contingent liabilities, labor negotiations or agreements on the Company's financial condition, results of operations or liquidity;
+•management's plans, strategies and objectives for future operations, capital expenditures, workforce levels, dividends, share repurchases, safety and service performance, proposed new services and other matters that are not historical facts, and management's expectations as to future performance and operations and the time by which objectives will be achieved; and
+•future economic, industry or market conditions or performance and their effect on the Company's financial condition, results of operations or liquidity.
+Forward-looking statements are typically identified by words or phrases such as "will," "should," “believe,” “expect,” “anticipate,” “project,” “estimate,” “preliminary” and similar expressions. The Company cautions against placing undue reliance on forward-looking statements, which reflect its good faith beliefs with respect to future events and are based on information currently available to it as of the date the forward-looking statement is made. Forward-looking statements should not be read as a guarantee of future performance or results and will not necessarily be accurate indications of the timing when, or by which, such performance or results will be achieved.
+Forward-looking statements are subject to a number of risks and uncertainties and actual performance or results could differ materially from those anticipated by any forward-looking statements. The Company undertakes no obligation to update or revise any forward-looking statement. If the Company does update any forward-looking statement, no inference should be drawn that the Company will make additional updates with respect to that statement or any other forward-looking statements.
+The following important factors, in addition to those discussed in Part II, Item 1A. Risk Factors and elsewhere in this report, may cause actual results to differ materially from those contemplated by any forward-looking statements:
+•legislative, regulatory or legal developments involving transportation, including rail or intermodal transportation, the environment, hazardous materials, taxation, international trade and initiatives to further regulate the rail industry;
+•the outcome of litigation, claims and other contingent liabilities, including, but not limited to, those related to fuel surcharge, environmental matters, taxes, shipper and rate claims subject to adjudication, personal injuries and occupational illnesses;
+CSX 2020 Form 10-K p.43
+CSX CORPORATION
+PART II
+•changes in domestic or international economic, political or business conditions, including those affecting the transportation industry (such as the impact of industry competition, conditions, performance and consolidation, as well as the impact of international trade agreements and tariffs) and the level of demand for products carried by CSXT;
+•natural events such as severe weather conditions, including floods, fire, hurricanes and earthquakes, a pandemic crisis affecting the health of the Company's employees, its shippers or the consumers of goods, or other unforeseen disruptions of the Company's operations, systems, property, equipment or supply chain;
+•competition from other modes of freight transportation, such as trucking, and competition and consolidation or financial distress within the transportation industry generally;
+•the cost of compliance with laws and regulations that differ from expectations as well as costs, penalties and operational and liquidity impacts associated with noncompliance with applicable laws or regulations;
+•the impact of increased passenger activities in capacity-constrained areas, including potential effects of high speed rail initiatives, or regulatory changes affecting when CSXT can transport freight or service routes;
+•unanticipated conditions in the financial markets that may affect timely access to capital markets and the cost of capital, as well as management's decisions regarding share repurchases;
+•changes in fuel prices, surcharges for fuel and the availability of fuel;
+•the impact of natural gas prices on coal-fired electricity generation;
+•the impact of global supply and price of seaborne coal on CSX's export coal market;
+•availability of insurance coverage at commercially reasonable rates or insufficient insurance coverage to cover claims or damages;
+•the inherent business risks associated with safety and security, including the transportation of hazardous materials or a cybersecurity attack which would threaten the availability and vulnerability of information technology;
+•adverse economic or operational effects from actual or threatened war or terrorist activities and any governmental response;
+•loss of key personnel or the inability to hire and retain qualified employees;
+•labor and benefit costs and labor difficulties, including stoppages affecting either the Company's operations or customers' ability to deliver goods to the Company for shipment;
+•the Company's success in implementing its strategic, financial and operational initiatives;
+•the impact of conditions in the real estate market on the Company's ability to sell assets;
+•changes in operating conditions and costs or commodity concentrations;
+•the continued and uncertain impact of the COVID-19 pandemic; and
+•the inherent uncertainty associated with projecting economic and business conditions.
+Other important assumptions and factors that could cause actual results to differ materially from those in the forward-looking statements are specified elsewhere in this report and in CSX's other SEC reports, which are accessible on the SEC's website at www.sec.gov and the Company's website at www.csx.com. The information on the CSX website is not part of this annual report on Form 10-K.
+CSX 2020 Form 10-K p.44
+CSX CORPORATION
+PART II

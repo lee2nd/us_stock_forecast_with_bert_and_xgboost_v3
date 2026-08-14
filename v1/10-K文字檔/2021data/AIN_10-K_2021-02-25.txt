@@ -1,0 +1,527 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand the results of operations and financial condition of the Company. MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and the accompanying Notes included under Item 8 of this Form 10-K, which is incorporated herein.
+Business Environment Overview and Trends
+Our reportable segments, Machine Clothing (“MC”) and Albany Engineered Composites (“AEC”) draw on the same advanced textiles and materials processing capabilities, and compete on the basis of product-based advantage that is grounded in those core capabilities.
+The MC segment is the Company’s long-established core business and primary generator of cash. While it has been negatively impacted by well-documented declines in publication grades in the Company’s traditional markets, there has been some offsetting effect due to growth in demand for packaging and tissue grades, as well as the expansion of paper consumption and production in Asia and South America. We feel we are well-positioned in key markets, with high-quality, low-cost production in growth markets, substantially lower fixed costs in mature markets,
+Index
+and continued strength in new product development, technical product support, and manufacturing technology. Some of the markets in which our products are sold are expected to have low levels of growth and we face pricing pressures in all markets. Despite these market pressures on revenue, the MC business retains the potential for maintaining stable earnings in the future. MC has been a significant generator of cash, and we seek to maintain the cash-generating potential of this business by maintaining the low costs that we have achieved through continuous focus on cost-reduction initiatives, and competing vigorously by using our differentiated and technically superior products to reduce our customers’ total cost of operation and improve their paper quality.
+The AEC segment provides significant longer term growth potential for the Company. Our strategy is to grow by focusing our proprietary 3D-woven technology, as well as our non-3D technology capabilities, on high-value aerospace (both commercial and defense) applications, while at the same time performing successfully on our portfolio of growth programs. AEC (including Albany Safran Composites, LLC (“ASC”), in which our customer SAFRAN Group owns a 10 percent noncontrolling interest) supplies a number of customers in the aerospace industry. AEC’s largest aerospace customer is the SAFRAN Group and sales to SAFRAN, through ASC, (consisting primarily of fan blades and cases for CFM’s LEAP engine) accounted for approximately 11 percent of the Company’s consolidated Net sales in 2020. The LEAP engine is used on the Airbus A320neo and Boeing 737 MAX family of jets. AEC, through ASC, also supplies 3D-woven composite fan cases for the GE9X engine. AEC’s current portfolio of non-3D programs includes components for the, fuselage components for the Boeing 787, components for the CH-53K helicopter, vacuum waste tanks for Boeing 7-Series aircraft, and missile bodies for Lockheed Martin’s JASSM air-to-surface missiles. AEC is actively engaged in research to develop new applications in both commercial and defense aircraft engine and airframe markets.
+Consolidated Results of Operations
+Net sales
+The following table summarizes our Net sales by business segment:
+(in thousands, except percentages)
+Years ended December 31, 2020 2019 2018
+Machine Clothing
+$ 572,955 $ 601,254 $ 611,858
+Albany Engineered Composites
+327,655 452,878 370,621
+Total
+$ 900,610 $ 1,054,132 $ 982,479
+% change
+-14.6 % 7.3 % -
+2020 vs. 2019
+•Changes in currency translation rates had the effect of increasing 2020 Net sales by $2.9 million (0.3% of Net sales) compared to 2019. That currency translation effect was principally due to the stronger euro in 2020, as compared to 2019.
+•Excluding the effect of changes in currency translation rates:
+•Consolidated Net sales decreased 14.8%.
+•Net sales in MC decreased 5.1% compared to 2019, principally due to decreases in sales for publication grades.
+•Net sales in AEC decreased 27.8%, principally due to declines in sales for the LEAP program.
+2019 vs. 2018
+•Changes in currency translation rates had the effect of decreasing 2019 Net sales by $14.8 million (1.4% of Net sales) compared to 2018. That currency translation effect was principally due to the weaker euro and Chinese renminbi in 2019, as compared to 2018.
+Index
+•Excluding the effect of changes in currency translation rates:
+•Consolidated Net sales increased 8.8%.
+•Net sales in MC were flat compared to 2018, as increases in sales for tissue and packaging grades were offset by decreases in sales for publication grades.
+•Net sales in AEC increased 23.4%, driven by growth in the LEAP,, CH-53K and Boeing 787 programs.
+Backlog
+Backlog in the MC segment was $190 million at December 31, 2020, compared to $166 million at December 31, 2019. Backlog in the AEC segment decreased to $242 million at December 31, 2020, compared to $288 million at December 31, 2019. The decrease in AEC’s backlog was due to the longer-than-expected delays in the Boeing 737 MAX return to service, and effects of the COVID-19 pandemic on the aerospace industry. All of the backlog in MC and substantially all of the AEC backlog is expected to be invoiced during the next 12 months.
+Gross Profit
+The following table summarizes Gross profit by business segment:
+(in thousands, except percentages)
+Years ended December 31, 2020 2019 2018
+Machine Clothing
+$ 301,144 $ 309,641 $ 297,416
+Albany Engineered Composites
+69,928 88,060 52,550
+Corporate expenses
+- - (217)
+Total
+$ 371,072 $ 397,701 $ 349,749
+% of Net Sales
+41.2 % 37.7 % 35.6 %
+The decrease in 2020 Gross profit, as compared to 2019, was principally due to, in both segments, the effect of lower sales, partially offset by an increase in gross profit as a percentage of sales. Gross profit as a percentage of sales:
+•Increased from 51.5% in 2019 to 52.6% in 2020 in Machine Clothing, principally due to favorable foreign currency exchange rates (Brazilian real and Mexican peso), increased efficiencies, and product mix.
+•Increased from 19.4% in 2019 to 21.3% in 2020 in AEC, principally due to a favorable shift in the mix of program revenue, partially offset by a slightly lower net favorable change in the estimated profitability of long-term contracts.
+The increase in 2019 Gross profit, as compared to 2018, was principally due to the net effect of the following individually significant items:
+•Increased from 48.6% in 2018 to 51.5% in 2019 in Machine Clothing, principally due to a $9.0 million reduction in depreciation expense that resulted principally from significant investments made approximately ten years ago that have become fully depreciated.
+Index
+•Increased from 14.2% in 2018 to 19.4% in 2019 in AEC, principally due to Net sales increase impacting Gross profit by $12 million, and increased net favorable change in the estimated profitability of long-term contracts of $10.8 million in 2019, compared to a decrease of $2.0 million in 2018.
+Selling, Technical, General, and Research (STG&R)
+Selling, technical, general and research (STG&R) expenses include selling, general, administrative, technical, product engineering and research expenses.
+The following table summarizes STG&R by business segment:
+(in thousands, except percentages)
+Years ended December 31, 2020 2019 2018
+Machine Clothing
+$ 107,594 $ 116,546 $ 115,305
+Albany Engineered Composites
+35,571 30,707 32,855
+Corporate expenses
+56,091 53,967 48,611
+Total
+$ 199,256 $ 201,220 $ 196,771
+% of Net Sales
+22.1 % 19.1 % 20.0 %
+The decrease in STG&R expenses in 2020 compared to 2019, was principally due to the following individually significant items:
+•In MC, the following items impacted STG&R expenses:
+•Travel expenses were approximately $6 million lower in 2020, as a result of the COVID-19 pandemic.
+•Revaluation of nonfunctional currency assets and liabilities resulted in losses of $1.7 million in 2020 and $0.6 million in 2019.
+•Changes in currency translation rates had the effect of decreasing STG&R by $1.3 million.
+•The factors above were partially offset by a charge of $1.0 million in the first quarter of 2020 for additional estimated credit losses recognized in accordance with ASC 326.
+•In AEC, STG&R expenses increased $4.9 million principally due to expenses at CirComp, which the Company acquired in November 2019, and a charge of $0.5 million for additional estimated credit losses recognized in accordance with ASC 326.
+•Corporate STG&R expenses increased principally due to former CEO termination costs and higher incentive compensation expense partially offset by lower professional fees and travel expenses.
+The increase in STG&R expenses in 2019 compared to 2018, was principally due to the following individually significant items:
+•In MC, revaluation of nonfunctional currency assets and liabilities resulted in losses of $0.6 million in 2019 and gains of $0.8 million in 2018.
+•In AEC, STG&R expenses decreased $2.1 million principally due to lower spending on research and development in 2019, as compared to 2018.
+•Corporate STG&R expenses increased principally due to costs in 2019 for terminations and professional fees associated with various initiatives.
+Index
+Research and Development
+The following table is a subset of the STG&R table above and summarizes expenses associated with internally funded research and development by business segment:
+(in thousands)
+Years ended December 31, 2020 2019 2018
+Machine Clothing
+$ 15,922 $ 16,412 $ 17,474
+Albany Engineered Composites
+9,828 10,521 12,278
+Total
+$ 25,750 $ 26,933 $ 29,752
+Restructuring
+In addition to the items discussed above affecting gross profit and STG&R expenses, operating income was affected by restructuring costs of $5.7 million in 2020, $2.9 million in 2019, and $15.6 million in 2018.
+The following table summarizes Restructuring expense, net by business segment:
+(in thousands)
+Years ended December 31, 2020 2019 2018
+Machine Clothing
+$ 2,746 $ 1,129 $ 12,278
+Albany Engineered Composites
+2,821 1,833 3,048
+Corporate expenses
+169 (57) 244
+Total
+$ 5,736 $ 2,905 $ 15,570
+In 2020, AEC reduced its workforce at various locations, principally in the United States, leading to restructuring charges of $2.8 million.
+In 2017, the Company announced a proposal to close its MC production facility in Sélestat, France, and the proposal was approved by the French Labor Ministry in 2018. The restructuring program was driven by the Company’s need to balance manufacturing capacity with demand. We recorded restructuring expense of $10.7 million in 2018, $0.9 million in 2019, and $1.2 million in 2020, which included severance and outplacement costs for the approximately 50 positions that were terminated under this plan. To date, we have recorded $13.9 million of restructuring charges related to these actions. Annual cost savings associated with this action principally resulted in lower Cost of goods sold in 2019 and 2020.
+In 2018, the Company discontinued certain manufacturing processes at its AEC facility in Salt Lake City, Utah, which resulted in $1.9 million of restructuring in 2018, which included a non-cash restructuring charge of $1.7 million, and an additional $0.2 million for severance. The non-cash restructuring charge resulted from writing down manufacturing equipment used in that line of business to its estimated value. In 2019, the Company wrote off the remaining $1.2 million book value of that equipment as the Company was unable to sell it. To date, we have recorded $3.1 million of restructuring charges related to these actions.
+For more information on our restructuring charges, see Note 5 of the Consolidated Financial Statements, included under Item 8 of this Form 10-K, which is incorporated herein.
+Index
+Operating Income
+The following table summarizes operating income/(loss) by business segment:
+(in thousands)
+Years ended December 31, 2020 2019 2018
+Machine Clothing
+$ 190,805 $ 191,965 $ 169,836
+Albany Engineered Composites
+31,536 55,520 16,647
+Corporate expenses
+(56,261) (53,909) (49,075)
+Total
+$ 166,080 $ 193,576 $ 137,408
+Other Earnings Items
+(in thousands)
+Years ended December 31, 2020 2019 2018
+Interest expense, net
+$ 13,584 $ 16,921 $ 18,124
+Other (income)/expense, net
+13,422 (1,557) 4,037
+Income tax expense
+41,831 44,829 32,228
+Net income/(loss) attributable to the noncontrolling interest
+(1,346) 985 128
+Interest Expense
+Interest expense, net, decreased $3.3 million in 2020 principally due interest income of $0.9 million related to the Brazil tax refund noted below, and also the effect of lower debt balances. Lower interest rates on debt in 2020 were partially offset by a slightly higher interest rate spread under the amended and restated Revolving Credit Facility Agreement. See “Liquidity and Capital Resources” for further discussion of borrowings and interest rates.
+Other (income)/expense, net
+The change in Other (income)/expense, net included the following individually significant items:
+•In 2020 revaluation of foreign currency revaluations of cash and intercompany balances resulted in a loss of $13.6 million in 2020, compared to net gains of $4.5 million in 2019, and $0.1 million in 2018. The loss in 2020 principally resulted from intercompany demand loans payable by Mexican subsidiaries, combined with the effects of a weaker peso in 2020.
+•In 2020, the Company successfully resolved a claim for a rebate of foreign sales tax paid in previous years, resulting in a gain of $2.6 million.
+•In 2019, we recorded a $0.5 million charge related to the freezing of defined benefit plan accruals in the United Kingdom.
+•In 2018, we recorded a $2.2 million charge related to the settlement of a portion of our non-U.S. defined benefit pension plan liabilities and a curtailment gain of $0.7 million related to the restructuring in Sélestat, France.
+Income Taxes
+The Company has operations which constitute a taxable presence in 18 countries outside of the United States. The majority of these countries had income tax rates that are above the United States federal tax rate of 21% in 2020.
+Index
+The jurisdictional location of earnings is a significant component of our effective tax rate each year and, therefore, on our overall income tax expense.
+The Company’s effective tax rate for fiscal years 2020, 2019, and 2018 was 30.1%, 25.2%, and 28.0%, respectively.
+The tax rate is affected by recurring items, such as the income tax rate in the U.S. and in non-U.S. jurisdictions and the mix of income earned in those jurisdictions and discrete items that may occur in any given year but are not consistent from year to year.
+Significant items that impacted the effective tax rate in the years 2020, 2019 and 2018, included the following (percentages reflect the effect of each item as a percentage of income before income taxes):
+Year Ended December 31,
+2020 2019 2018
+(in thousands, except percentages) Tax Amount % Tax Amount % Tax Amount %
+Continuing Operations (Excluding Discrete Items) $ 39,544 28.4% $ 49,977 28.0% $ 36,046 31.3%
+Changes in uncertain tax positions 252 0.2 (2,874) (1.5) (696) (0.5)
+Resolution of tax audits, net 500 0.3 - - 1,981 1.7
+Tax effect of non-deductible foreign exchange loss on intercompany loan 3,801 2.7 - - - -
+Changes in opening valuation allowance - - (1,385) (0.8) (4,882) (4.3)
+Creation of valuation allowance 168 0.1 860 0.5 - -
+True-up of prior year estimated taxes (2,420) (1.8) (1,637) (1.0) (1,284) (1.1)
+Impact of mandatory repatriation - - - - (1,003) (0.9)
+Tax rate change - - (112) - 2,066 1.8
+Other tax adjustments (14) 0.2 - - - -
+Effective Tax Rate $ 41,831 30.1% $ 44,829 25.2% $ 32,228 28.0%
+For more information on income tax, see Note 7 to the Consolidated Statements in item 8, which is incorporated herein by reference.
+Segment Results of Operations
+Machine Clothing Segment
+Machine Clothing is our primary business segment and accounted for 64 percent of our consolidated revenues during 2020. MC products are purchased primarily by manufacturers of paper and paperboard. We feel we are well-positioned in these markets, with high-quality, low-cost production in growth markets, substantially lower fixed costs in mature markets, and continued strength in new product development, technical product support, and manufacturing technology. Recent technological advances in paper machine clothing, while contributing to the papermaking efficiency of customers, have lengthened the useful life of many of our products and had an adverse impact on overall paper machine clothing demand. Additionally, we face pricing pressures in all of our markets.
+The Company’s manufacturing and product platforms position us well to meet these shifting demands across product grades and geographic regions. Our strategy for meeting these challenges continues to be to grow share in all markets, with new products and technology, and to maintain our manufacturing footprint to align with global demand, while we offset the effects of inflation through continuous productivity improvement.
+Index
+We have incurred significant restructuring charges in recent periods as we reduced MC manufacturing capacity and administrative positions in various countries.
+Review of Operations
+(in thousands, except percentages)
+Years ended December 31, 2020 2019 2018
+Net sales
+$ 572,955 $ 601,254 $ 611,858
+% change from prior year
+-4.7 % -1.7 % -
+Gross profit
+301,144 309,641 297,416
+% of net sales
+52.6 % 51.5 % 48.6 %
+STG&R expenses
+107,594 116,546 115,305
+Operating income
+190,805 191,965 169,836
+Net Sales
+2020 vs. 2019
+•Net sales decreased 4.7%
+•Changes in currency translation rates had the effect of increasing 2020 sales by $2.3 million compared to 2019. That currency translation effect was principally due to the stronger euro as compared to 2019.
+•Excluding the effect of changes in currency translation rates, Net sales in MC decreased 5.1% compared to 2019, principally due to declines in sales for publication grades.
+2019 vs. 2018
+•Net sales decreased 1.7%
+•Changes in currency translation rates had the effect of decreasing 2019 sales by $10.5 million compared to 2018. That currency translation effect was principally due to the weaker euro and Chinese renminbi in 2019, compared to 2018.
+•Excluding the effect of changes in currency translation rates, Net sales in MC were flat compared to 2018, as increases in sales for tissue and packaging grades were offset by decreases in sales for publication grades.
+Gross Profit
+2020 vs. 2019
+•MC Gross profit decreased principally due to lower Net sales, partially offset by favorable foreign currency movements (a weaker Brazilian real and Mexican peso).
+2019 vs. 2018
+•MC Gross profit increased principally due to a reduction of $9.0 million in depreciation expense due primarily to a number of significant investments made approximately ten years ago, that have become fully depreciated.
+Index
+Operating Income
+2020 vs. 2019
+The decrease in Operating income was principally due to the net effect of the following individually significant items:
+•Gross profit decreased $8.5 million, principally due to lower Net sales as described above.
+•STG&R expenses decreased $8.9 million, principally due to lower travel expenses, partially offset by year-over-year changes in foreign currency revaluation gains and losses, as described above.
+•Restructuring charges were $2.7 million in 2020, compared to $1.1 million in 2019.
+2019 vs. 2018
+The increase in Operating income was principally due to the net effect of the following individually significant items:
+•Gross profit increased $12.2 million, principally due to lower depreciation expense as described above.
+•STG&R expenses increased $1.2 million, principally due to year-over-year changes in foreign currency revaluation gains and losses, as described above.
+•Restructuring charges were $1.1 million in 2019, compared to $12.3 million in 2018.
+Albany Engineered Composites Segment
+The Albany Engineered Composites (AEC) segment, including Albany Safran Composites, LLC (ASC), in which our customer SAFRAN Group owns a 10 percent noncontrolling interest, provides highly engineered advanced composite structures to customers primarily in the aerospace (both commercial and defense) industry. AEC’s largest program relates to CFM International’s LEAP engine. AEC, through ASC, is the exclusive supplier of advanced composite fan blades and cases for this program under a long-term supply contract. The LEAP engine is used on the Airbus A320neo and Boeing 737 MAX family of jets. Other significant AEC programs include components for the, fuselage frames for the Boeing 787, components for the CH-53K helicopter, and the fan case for the GE9X engine.
+Review of Operations
+(in thousands, except percentages)
+Years ended December 31, 2020 2019 2018
+Net sales
+$ 327,655 $ 452,878 $ 370,621
+% change from prior year
+-27.7 % 22.2 % -
+Gross profit
+69,928 88,060 52,550
+% of net sales
+21.3 % 19.4 % 14.2 %
+STG&R expenses
+35,571 30,707 32,855
+Operating income/(loss)
+31,536 55,520 16,647
+Net Sales
+2020 vs. 2019
+The decrease in Net sales was principally due to the net effect of the following individually significant items:
+•Excluding the effect of changes in currency translation rates, Net sales decreased 27.8%, primarily driven by lower sales for the LEAP program.
+Index
+2019 vs. 2018
+The increase in Net sales was principally due to the net effect of the following individually significant items:
+•Excluding the effect of changes in currency translation rates, Net sales increased 23.4%, primarily driven by growth in the LEAP,, CH-53K and Boeing 787 programs.
+Gross Profit
+2020 vs. 2019
+The decrease in AEC Gross profit in 2020 was principally due to the net effect of the following individually significant items:
+•The decrease in Net sales decrease for the LEAP program, reduced Gross profit by approximately $20 million, compared to 2019.
+•Favorable adjustments to the estimated profitability of long-term contracts increased Gross profit by $9.9 million in 2020, compared to $10.8 million in 2019.
+•AEC Gross profit was also increased in 2020 by favorable shift in the mix of program revenue.
+2019 vs. 2018
+The increase in AEC Gross profit in 2019 was principally due to the net effect of the following individually significant items:
+•Favorable adjustments to the estimated profitability of long-term contracts increased Gross profit by $10.8 million in 2019, compared to a decrease of $2.0 million in 2018.
+•The Net sales increase in 2019, as described above, increased Gross profit by approximately $12 million.
+•AEC Gross profit was also increased in 2019 by productivity improvements.
+Long-term contracts
+AEC has contracts with certain customers, including its contract for the LEAP program, where revenue is determined by a cost-plus-fee arrangement. Revenue earned under these arrangements accounted for approximately 29 percent of segment revenue in 2020 and 49 percent in 2019 and 2018. LEAP engines are currently used on the Boeing 737 MAX, Airbus A320neo and COMAC aircraft.
+In addition, AEC has long-term contracts in which the selling price is fixed. In accounting for those contracts, we estimate the profit margin expected at the completion for the contract and recognize a pro-rata share of that profit during the course of the contract using a cost-to-cost approach. Changes in estimated contract profitability will affect revenue and gross profit when the change occurs, which could have a significant favorable or unfavorable effect on revenue and gross profit in any reporting period. For contracts with anticipated losses, a provision for the entire amount of the estimated remaining loss is charged against income in the period in which the loss becomes known. Contract losses are determined considering all direct and indirect contract costs, exclusive of any selling, general or administrative cost allocations, which are treated as period expenses. Expected losses on projects include losses on contract options that are probable of exercise, excluding profitable options that often follow.
+The sum of net adjustments to the estimated profitability of long-term contracts increased AEC operating income by $9.9 million in 2020, $10.8 million in 2019, and decreased AEC operating income by $2.0 million in 2018. The
+Index
+favorable effects in 2020 and 2019 were largely attributable to efficiency improvements during the ramp-up of several programs.
+Operating Income/(Loss)
+2020 vs. 2019
+The decrease in Operating income of $23.9 million in 2020 was principally due to the net effect of the following individually significant items:
+•A decrease in Net sales, as described above.
+•An increase of $1.0 million in Restructuring expenses, as described above.
+2019 vs. 2018
+The increase in Operating income of $38.9 million in 2019 was principally due to the net effect of the following individually significant items:
+•An increase in Net sales and strong productivity, as described above.
+•A decrease of $1.2 million in Restructuring expenses, as described above.
+Liquidity and Capital Resources
+Cash Flow Summary
+(in thousands)
+For the years ended December 31,
+2020 2019 2018
+Net income
+$ 97,243 $ 133,383 $ 83,019
+Depreciation and amortization
+72,705 70,795 79,036
+Changes in working capital(a)
+(60,727) (15,713) (13,404)
+Changes in long-term liabilities, deferred taxes and other credits
+8,664 7,129 3,493
+Write-off of pension liability adjustment due to settlement/curtailment
+411 450 1,494
+Other operating items
+21,957 4,308 (21,153)
+Net cash provided by operating activities
+140,253 200,352 132,485
+Net cash used in investing activities
+(42,390) (98,748) (82,886)
+Net cash provided used in financing activities (60,669) (100,307) (27,258)
+Effect of exchange rate changes on cash flows
+8,582 (3,512) (8,313)
+Increase/(decrease) in cash and cash equivalents
+45,776 (2,215) 14,028
+Cash and cash equivalents at beginning of year
+195,540 197,755 183,727
+Cash and cash equivalents at end of year
+$ 241,316 $ 195,540 $ 197,755
+_________________________
+(a)Includes Accounts receivable, net, Contract assets, net, Inventories, Accounts payable and Accrued liabilities.
+Operating activities
+Cash provided by operating activities was $140.3 million in 2020, compared to $200.4 million in 2019, and $132.5 million in 2018. The net decrease in cash provided by operating activities in 2020 was due to lower net income and increased levels of working capital for the AEC segment. The net increase in cash provided by operating activities from 2018 to 2019 was principally due to increased profitability in both businesses. Cash flows for Contract assets
+Index
+and Inventories was a use of $72.8 million in 2020, and was driven by delays in the Boeing 737 MAX return to service and a challenging economic environment in 2020, which caused a slowdown in several key aerospace programs. The Noncurrent receivables held by AEC generated cash of $4.2 million in 2020, compared to a use of cash of $1.3 million in 2019 and $12.2 million in 2018. Changes in long-term liabilities, deferred taxes and other liabilities resulted in an increase to cash flows of $8.7 million in 2020, $7.1 million in 2019 and $3.5 million in 2018, principally due to the use of deferred tax assets. Cash paid for income taxes was $25.1 million, $25.9 million, and $28.1 million in 2020, 2019, and 2018, respectively.
+At December 31, 2020, the Company had $241.3 million of cash and cash equivalents, of which $201.4 million was held by subsidiaries outside of the United States. No income taxes have been provided on the indefinitely invested foreign earnings. The accumulated undistributed earnings of the Company’s foreign operations not targeted for repatriation to the U.S. were approximately $132.3 million at December 31, 2020, and are intended to remain indefinitely invested in foreign operations. If these earnings were distributed, the Company could be subject to income taxes and additional foreign withholding taxes. Our current plans do not anticipate that we will need funds generated from foreign operations to fund our domestic operations or satisfy debt obligations in the United States. In the event that such funds were repatriated to fund operations in the U.S., and if associated accruals for taxes have not already been provided, we would be required to record additional tax expense.
+Investing Activities
+On November 20, 2019, the Company acquired CirComp GmbH, a privately-held developer and manufacturer of high-performance composite components located in Kaiserslautern, Germany for net cash of $30.8 million. Total company capital expenditures for continuing operations, including purchased software, were $42.4 million in 2020, compared to $68.0 million in 2019 and $82.9 million in 2018. In the AEC segment, capital expenditures were $23.7 million in 2020, compared to $48.8 million in 2019 and $60.1 million in 2018.
+Financing Activities and Capital Resources
+We finance our business activities primarily with cash generated from operations and borrowings, largely through our revolving credit agreement as discussed below. Our subsidiaries outside of the United States may also maintain working capital lines with local banks, but borrowings under such local facilities tend not to be significant. The majority of our cash balance at December 31, 2020 was held by non-U.S. subsidiaries. Based on cash on hand and credit facilities, we anticipate that the Company has sufficient capital resources to operate for the foreseeable future. We were in compliance with all debt covenants as of December 31, 2020.
+On October 27, 2020, we entered into a $700 million unsecured Four-Year Revolving Credit Facility Agreement (the “Credit Agreement”) which amended and restated the prior amended and restated $685 million Five-Year Revolving Credit Facility Agreement, which we had entered into on November 7, 2017 (the “Prior Agreement”). Under the Credit Agreement, $398 million of borrowings were outstanding as of December 31, 2020. The applicable interest rate for borrowings was LIBOR plus a spread, based on our leverage ratio at the time of borrowing. At the time of the last borrowing on December 30, 2020, the spread was 1.625%. The spread was based on a pricing grid, which ranged from 1.500% to 2.000%, based on our leverage ratio. Based on our maximum leverage ratio and our Consolidated EBITDA, and without modification to any other credit agreements, as of December 31, 2020, we would have been able to borrow an additional $302 million under the Agreement.
+For more information, see Note 17 of the Consolidated Financial Statements, included under Item 8 of this Form 10-K, which is incorporated herein.
+Off-Balance Sheet Arrangements
+As of December 31, 2020, we have no off-balance sheet arrangements required to be disclosed pursuant to Item 303(a)(4) of Regulation S-K.
+Contractual Obligations
+As of December 31, 2020, we have the following cash flow obligations:
+Index
+Payments Due by Period
+(in millions) Total Less than one year One to three years Three to five years After five years
+Total debt $ 398.0 $ - $ - $ 398.0 $ -
+Interest payments(a)
+39.9 14.1 19.9 5.9 -
+Pension plan contributions(b)
+2.5 2.5 - - -
+Other postretirement benefits(c)
+31.0 3.7 6.9 6.4 14.0
+Restructuring accruals 2.2 1.9 0.3 - -
+Other noncurrent liabilities(d)
+- - - - -
+Operating leases 20.5 5.1 7.0 3.8 4.6
+Finance leases 24.1 2.8 5.8 6.0 9.5
+Totals $ 518.2 $ 30.1 $ 39.9 $ 420.1 $ 28.1
+(a)The terms of variable-rate debt arrangements, including interest rates and maturities, are included in Note 17 of the Consolidated Financial Statements, included under Item 8 of this Form 10-K, which is incorporated herein. The interest payments are based on the assumption that we maintain $48 million of variable rate debt until the October 2020 Credit Agreement matures on October 27, 2024, and the rate as of December 31, 2020 (3.50%) continues until October 17, 2022, then continues at 1.78% until maturity. Both rates include the effects of interest rate hedging transactions.
+(b)We estimate the total of pension benefits to be paid directly by the Company and pension contributions to be $2.5 million in 2021. However, that estimate is subject to revision based on many factors. The Company may also make voluntary contributions to pension trusts that exist in certain countries. The amount of contributions after 2021 is subject to many variables, including return of pension plan assets, interest rates, and tax and employee benefit laws. Therefore, contributions beyond 2021 are not included in this schedule.
+(c)Estimated cash outflows for other postretirement benefits is consistent with the expected benefit payments presented in Note 4 of Item 8 Financial Statements and Supplementary Data for the next five years. Beyond five years, expected benefit payments are not consistent with those presented in Note 4, due to the many variables associated with this estimate.
+(d)Estimated payments for deferred compensation, interest rate swap agreements, and other noncurrent liabilities are not included in this table due to the uncertain timing of the ultimate cash settlement. Also, this table does not reflect unrecognized tax benefits, the timing of which is uncertain. Refer to Note 7 of Item 8 Financial Statements and Supplementary Data for additional discussion on unrecognized tax benefits.
+The foregoing table should not be deemed to represent all of our future cash requirements, which will vary based on our future needs. While the cash required to satisfy the obligations set forth in the table is reasonably determinable in advance, many other cash needs, such as raw materials costs, payroll, and taxes, are dependent on future events and are harder to predict. In addition, while the contingencies described in Note 21 of Item 8 Financial Statements and Supplementary Data are not currently anticipated to have a material adverse effect on our Company, there can be no assurance that this may not change. Subject to the foregoing, we currently expect that cash from operations and the other sources of liquidity described above will be sufficient to enable us to meet the foregoing cash obligations, as well as to meet our other cash requirements.
+Recent Accounting Pronouncements
+A discussion of recent accounting pronouncements is set forth in Item 8 Financial Statements and Supplementary Data, Note 1, which is incorporated herein by reference.
+Critical Accounting Policies and Estimates
+For the discussion of our accounting policies, see Item 8 Financial Statements and Supplementary Data, Note 1, which is incorporated herein by reference. The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make assumptions and estimates that directly affect the amounts reported in the Consolidated Financial Statements. Each of these assumptions is subject to uncertainties and changes in those assumptions or judgments which can affect our results of operations. In addition to the accounting policies stated in Item 8, financial statement amounts and disclosures are significantly influenced by market factors, judgments and estimates as described below.
+Index
+Revenue Recognition
+Effective January 1, 2018, the Company adopted the provisions of ASC 606, Revenue from contracts with customers. The standard replaces numerous requirements in U.S. GAAP, including industry-specific requirements, and provides companies with a single model for recognizing revenue from contracts with customers. See additional information in Item 8.
+Contracts with customers in the Machine Clothing segment have various terms that can affect the point in time when revenue is recognized. The contractual terms are closely monitored in order to ensure revenue is recognized in the proper period.
+Products and services provided under long-term contracts represent a significant portion of sales in the Albany Engineered Composites segment. AEC’s largest source of revenue is derived from the LEAP contract under a cost-plus-fee agreement. Beginning in 2018, the fee is variable based on our success in achieving certain cost targets. Revenue is recognized over time as costs are incurred. Under this contract, there is significant judgment involved in determining applicable contract costs and the amount of revenue to be recognized.
+We also have fixed price long-term contracts, for which we use the percentage of completion (actual cost to estimated cost) method. That method requires significant judgment and estimation, which could be considerably different if the underlying circumstances were to change. When adjustments in estimated contract revenues or costs are required, any changes from prior estimates are included in earnings in the period the change occurs.
+The Albany Engineered Composites segment also has some long-term aerospace contracts under which there are two phases: a phase during which the production part is designed and tested, and a phase of supplying production parts. During the design and testing phases, we perform pre-production or nonrecurring engineering services, which are normally considered a fulfillment activity, rather than a performance obligation. Fulfillment activities that create resources that will be used in satisfying performance obligations in the future, and are expected to be recovered, are capitalized in Other assets. The capitalized costs are amortized into Cost of goods sold over the period which the asset is expected to contribute to future cash flows which includes anticipated renewal periods. Accumulated capitalized costs are written-off when those costs are determined to be unrecoverable.
+For contracts with anticipated losses, a provision for the entire amount of the estimated remaining loss is charged against income in the period in which the loss becomes known. Contract loss provisions include contract options that are probable of exercise, excluding any profitable options that might be expected to follow. Contract losses are determined considering all direct and indirect contract costs, exclusive of any selling, general or administrative cost allocations, which are treated as period expenses. We are required to limit our estimate of contract values to the period of the legally enforceable contract. While certain contracts are expected to be profitable over the course of the program life when including expected renewals, our estimate of contract revenues and costs is limited to the estimated value of enforceable rights and obligations, excluding anticipated renewals. In some cases the contract period may result in a loss contract provision at the inception of the contract. Also, refer to information under Long-term Contracts in Item 7, Management’s Discussion and Analysis of this Form 10-K, which is incorporated herein by reference.
+Pension and Postretirement Liabilities
+The Company has pension and postretirement benefit costs and liabilities that are developed from actuarial valuations. Inherent in these valuations are key assumptions, including discount rates and expected return on plan assets, which are updated on an annual basis. As of December 31, 2020, total liabilities under our defined benefit pension plans (including unfunded plans) exceeded plan assets by $6.7 million, of which $2.2 million was for plans outside of the U.S. Additionally, at December 31, 2020, other postretirement liabilities totaled $48.0 million, substantially all of which related to our U.S. plan. As of December 31, 2020, we have unrecognized pretax net losses of $53.4 million for pension plans and $7.8 million for other postretirement benefit plans that may be amortized into earnings in future periods.
+We are required to consider current market conditions, including changes in interest rates, in making these assumptions. For 2021, we anticipate pension contributions and direct payments to retirees to total $2.5 million, and payments for other postretirement benefit plans to be $3.7 million. Changes in the related pension and other postretirement benefit costs or credits may occur in the future due to changes in the assumptions. The amount of annual pension plan funding and annual expense is subject to many variables, including the investment return on pension plan assets and interest rates, and actual contributions could vary significantly. Assumptions used for
+Index
+determining pension and other postretirement plan liabilities and expenses are evaluated and updated at least annually.
+Income Taxes
+In the ordinary course of business, there is inherent uncertainty in determining assets and liabilities related to income tax balances. We exercise significant judgment in order to estimate taxes payable or receivable in future periods. Tax-related balances may also be impacted by organizational changes or changes in the tax laws of any country in which we operate. We assess our income tax positions and record tax assets and liabilities for all years subject to examination based upon management’s evaluation of the facts, circumstances, and information available at the reporting date. For those tax positions where it is more likely than not that a tax benefit will be sustained, we have determined the amount of the tax benefit to be recognized by estimating the largest amount of tax benefit that has a greater than 50 percent likelihood of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information.
+Deferred tax assets are expected to be realized through the reversal of existing temporary differences and future taxable income. A valuation allowance is established, as needed, to reduce net deferred tax assets to the amount expected to be realized. In the event it becomes more likely than not that some or all of the deferred tax asset valuation allowances will not be needed, the valuation allowance will be adjusted.
+Goodwill and Intangible assets
+Goodwill is not amortized, but is tested for impairment at least annually. Estimating the fair value of reporting units requires the use of estimates and significant judgments that are based on a number of factors including expected future operating results. It is possible that these judgments and estimates could change in future periods.
+The determination of the fair value of intangible assets acquired in a business acquisition, including the Company’s acquisition in 2019, is subject to many estimates and assumptions. We review amortizable intangible asset groups for impairment whenever events or changes in circumstances indicate that the related carrying amounts may not be recoverable.
+Non-GAAP Measures
+This Form 10-K contains certain non-GAAP metrics, including: Net sales, and percent change in Net sales, excluding the impact of currency translation effects (for each segment and on a consolidated basis); EBITDA, and Adjusted EBITDA (for each segment and on a consolidated basis, represented in dollars or as a percentage of net sales); Net debt; and Adjusted earnings per share (or Adjusted EPS). Such items are provided because management believes that they provide additional useful information to investors regarding the Company’s operational performance.
+Presenting Net sales and increases or decreases in Net sales, after currency effects are excluded, can give management and investors insight into underlying sales trends. EBITDA, Adjusted EBITDA and Adjusted EPS are performance measures that relate to the Company’s continuing operations. EBITDA, or net income with interest, taxes, depreciation, and amortization added back, is a common indicator of financial performance used, among other things, to analyze and compare core profitability between companies and industries because it eliminates effects due to differences in financing, asset bases and taxes. An understanding of the impact in a particular period of specific restructuring costs, former CEO severance costs, acquisition and integrations expenses, currency revaluation, pension settlement/curtailment charges, inventory write-offs associated with discontinued businesses, or other gains and losses, on net income (absolute as well as on a per-share basis), operating income or EBITDA can give management and investors additional insight into core financial performance, especially when compared to periods in which such items had a greater or lesser effect, or no effect. Restructuring expenses, while frequent in recent years, are reflective of significant reductions in manufacturing capacity and associated headcount in response to shifting markets, and not of the profitability of the business going forward as restructured. Net debt is, in the opinion of the Company, helpful to investors wishing to understand what the Company’s debt position would be if all available cash were applied to pay down indebtedness. The Company calculates Net debt by subtracting Cash and cash equivalents from Total debt. Total debt is calculated by adding Long-term debt, Current maturities of long-term debt, and Notes and loans payable, if any.
+Net sales, or percent changes in Net sales, excluding currency rate effects, are calculated by converting amounts reported in local currencies into U.S. dollars at the exchange rate of a prior period. These amounts are then
+Index
+compared to the U.S. dollar amount as reported in the current period. The Company calculates EBITDA by removing the following from Net income: Interest expense net, Income tax expense, and Depreciation and amortization expense. Adjusted EBITDA is calculated by: adding to EBITDA costs associated with restructuring, former CEO termination costs, and inventory write-offs associated with discontinued businesses; adding charges and credits related to pension plan settlements and curtailments; adding (or subtracting) revaluation losses (or gains); subtracting (or adding) gains (or losses) from the sale of buildings or investments; adding acquisition and integration expenses and subtracting (or adding) Income (or loss) attributable to the non-controlling interest in Albany Safran Composites (ASC). Adjusted EBITDA may also be presented as a percentage of net sales by dividing it by sales. Adjusted earnings per share (Adjusted EPS) is calculated by adding to (or subtracting from) net income attributable to the Company per share, on an after-tax basis: restructuring charges; former CEO severance costs; inventory write-offs associated with discontinued businesses; charges and credits related to pension settlements and curtailments; foreign currency revaluation losses (or gains); and acquisition-related expenses.
+EBITDA, Adjusted EBITDA, and Adjusted earnings per share, as defined by the Company, may not be similar to similarly named measures of other companies. Such measures are not considered measurements under GAAP, and should be considered in addition to, but not as substitutes for, the information contained in the Company’s statements of income.
+The following tables show the calculation of EBITDA and Adjusted EBITDA:
+Consolidated results
+(in thousands)
+Years ended December 31,
+2020 2019 2018
+Operating income (GAAP)
+$ 166,080 $ 193,576 $ 137,408
+Interest, taxes, other income/(expense)
+(68,837) (60,193) (54,389)
+Net income (GAAP)
+97,243 133,383 83,019
+Interest expense, net
+13,584 16,921 18,124
+Income tax expense
+41,831 44,829 32,228
+Depreciation and amortization expense
+72,705 70,795 79,036
+EBITDA (non-GAAP)
+225,363 265,928 212,407
+Restructuring expenses, net 5,736 2,905 15,570
+Foreign currency revaluation (gains)/losses
+15,444 (3,190) (341)
+Pension settlement/curtailment expense
+- 478 1,494
+Former CEO termination costs 2,742 - -
+Acquisition/integration costs 1,272 621 -
+Pre-tax (income)/loss attributable to noncontrolling interest 1,348 (1,308) (197)
+Adjusted EBITDA (non-GAAP)
+$ 251,905 $ 265,434 $ 228,933
+(in thousands)
+Year ended December 31, 2020 Machine Clothing
+Albany Engineered Composites
+Corporate expenses and other
+Total Company
+Operating income/(loss) (GAAP) $ 190,805 $ 31,536 $ (56,261) $166,080
+Interest, taxes, other income/(expense) - - (68,837) (68,837)
+Net income/(loss) (GAAP) 190,805 31,536 (125,098) 97,243
+Interest expense, net - - 13,584 13,584
+Income tax expense - - 41,831 41,831
+Depreciation and amortization expense 20,304 48,496 3,905 72,705
+EBITDA (non-GAAP) 211,109 80,032 (65,778) 225,363
+Restructuring expenses, net 2,746 2,821 169 5,736
+Foreign currency revaluation (gains)/losses 1,743 130 13,571 15,444
+Former CEO termination costs - - 2,742 2,742
+Acquisition/integration costs - 1,272 - 1,272
+Pre-tax loss attributable to noncontrolling interest - 1,348 - 1,348
+Adjusted EBITDA (non-GAAP) $ 215,598 $ 85,603 $ (49,296) $ 251,905
+Index
+(in thousands)
+Year ended December 31, 2019 Machine Clothing
+Albany Engineered Composites
+Corporate expenses and other
+Total Company
+Operating income/(loss) (GAAP) $ 191,965 $ 55,520 $ (53,909) $ 193,576
+Interest, taxes, other income/(expense) - - (60,193) (60,193)
+Net income/(loss) (GAAP) 191,965 55,520 (114,102) 133,383
+Interest expense, net - - 16,921 16,921
+Income tax expense - - 44,829 44,829
+Depreciation and amortization expense 21,876 44,670 4,249 70,795
+EBITDA (non-GAAP) 213,841 100,190 (48,103) 265,928
+Restructuring expenses, net 1,129 1,833 (57) 2,905
+Foreign currency revaluation (gains)/losses 630 643 (4,463) (3,190)
+Pension curtailment expense - - 478 478
+Acquisition/integration costs - 421 200 621
+Pre-tax (income) attributable to noncontrolling interest - (1,308) - (1,308)
+Adjusted EBITDA (non-GAAP) $ 215,600 $ 101,779 $ (51,945) $ 265,434
+(in thousands)
+Year ended December 31, 2018 Machine Clothing
+Albany Engineered Composites
+Corporate expenses and other
+Total Company
+Operating income/(loss) (GAAP)
+$ 169,836 $ 16,647 $ (49,075) $ 137,408
+Interest, taxes, other income/(expense)
+- - (54,389) (54,389)
+Net income/(loss) (GAAP)
+169,836 16,647 (103,464) 83,019
+Interest expense, net
+- - 18,124 18,124
+Income tax expense
+- - 32,228 32,228
+Depreciation and amortization expense
+30,813 43,205 5,018 79,036
+EBITDA (non-GAAP)
+200,649 59,852 (48,094) 212,407
+Restructuring expenses, net
+12,278 3,048 244 15,570
+Foreign currency revaluation (gains)/losses (826) 547 (62) (341)
+Pension settlement/curtailment expense - - 1,494 1,494
+Pre-tax (income) attributable to noncontrolling interest in ASC - (197) - (197)
+Adjusted EBITDA (non-GAAP)
+$ 212,101 $ 63,250 $ (46,418) $ 228,933
+The Company discloses certain income and expense items on a per-share basis. The Company believes that such disclosures provide important insight into the underlying earnings and are financial performance metrics commonly used by investors. The Company calculates the per-share amount for items included in continuing operations by using the income tax rate based on either the tax rates in specific countries or the estimated tax rate applied to total company results. The after-tax amount is then divided by the weighted-average number of shares outstanding for each period. Year-to-date earnings per-share effects are determined by adding the amounts calculated at each reporting period.
+Index
+The following tables show the earnings per share effect of certain income and expense items:
+(in thousands, except per share amounts)
+Year ended December 31, 2020 Pre tax
+Amounts
+Tax
+Effect
+After tax
+Effect
+Per Share
+Effect
+Restructuring expenses, net $ 5,736 $ 1,862 $ 3,874 $ 0.11
+Foreign currency revaluation (gains)/losses(a) 15,444 896 14,548 0.46
+Former CEO termination costs 2,742 713 2,029 0.06
+Acquisition/integration costs 1,272 380 892 0.04
+(a) In 2020, the company recorded losses of approximately $14 million in jurisdictions where it cannot record a tax benefit from the losses, which results in an unusual relationship between the pre-tax and after-tax amounts.
+(in thousands, except per share amounts)
+Year ended December 31, 2019 Pre tax
+Amounts
+Tax
+Effect
+After tax
+Effect
+Per Share
+Effect
+Restructuring expenses, net $ 2,905 $ 824 $ 2,081 $ 0.06
+Foreign currency revaluation (gains)/losses (3,190) (904) (2,286) (0.07)
+Pension curtailment charge 478 91 387 0.01
+Acquisition/integration costs 621 156 465 0.01
+(in thousands, except per share amounts)
+Year ended December 31, 2018 Pre tax
+Amounts
+Tax
+Effect
+After tax
+Effect
+Per Share
+Effect
+Restructuring expenses, net $ 15,570 $ 4,904 $ 10,666 $ 0.34
+Foreign currency revaluation (gains)/losses
+(341) 3 (344) (0.01)
+Pension settlement/curtailment charge 1,494 348 1,146 0.04
+The following table contains the calculation of full-year Adjusted EPS, excluding adjustments:
+Per share amounts (Basic)
+Years ended December 31,
+2020 2019 2018
+Earnings per share (GAAP)
+$ 3.05 $ 4.10 $ 2.57
+Adjustments, after tax:
+Restructuring expenses, net 0.11 0.06 0.34
+Foreign currency revaluation (gains)/losses
+0.46 (0.07) (0.01)
+Former CEO termination costs 0.06 - -
+Pension settlement/curtailment charge
+- 0.01 0.04
+Acquisition/integration costs 0.04 0.01 -
+Adjusted earnings per share (non-GAAP)
+$ 3.72 $ 4.11 $ 2.94
+The following table contains the calculation of net debt:
+(in thousands)
+As of December 31,
+2020 2019 2018
+Current maturities of long-term debt
+$ 9 $ 20 $ 1,224
+Long-term debt
+398,000 424,009 523,707
+Total debt
+398,009 424,029 524,931
+Cash and cash equivalents
+241,316 195,540 197,755
+Net debt
+$ 156,693 $ 228,489 $ 327,176

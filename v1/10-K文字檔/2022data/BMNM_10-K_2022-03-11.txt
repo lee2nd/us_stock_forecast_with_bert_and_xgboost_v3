@@ -1,0 +1,5074 @@
+ITEM 7. MANAGEMENT’S
+DISCUSSION
+AND ANALYSIS OF FINANCIAL
+CONDITION
+AND RESULTS OF
+OPERATIONS.
+The following discussion of our financial condition and results of operations should
+be read in conjunction with the financial
+statements and notes to those statements included in Item 8 of this Form 10-K.
+The discussion may contain certain forward-looking
+statements that involve risks and uncertainties. Forward-looking statements
+are those that are not historical in nature. As a result of
+many factors, such as those set forth under “Risk Factors” in this Form 10-K,
+our actual results may differ materially from those
+anticipated in such forward-looking statements.
+Overview
+Bimini Capital Management, Inc. ("Bimini Capital" or the "Company") is a holding
+company that was formed in September 2003.
+The Company’s principal wholly-owned operating subsidiary is Royal Palm Capital,
+LLC. We operate in two business segments: the
+asset management segment, which includes (a) the investment advisory services provided
+by Royal Palm’s wholly-owned subsidiary,
+Bimini Advisors Holdings, LLC, to Orchid, and (b) the investment portfolio segment, which
+includes the investment activities conducted
+by Royal Palm.
+Bimini Advisors Holdings, LLC and its wholly-owned subsidiary, Bimini Advisors, LLC (an investment advisor registered
+with the
+Securities and Exchange Commission), are collectively referred to as
+“Bimini Advisors.”
+Bimini Advisors serves as the external
+manager of the portfolio of Orchid Island Capital, Inc. ("Orchid"). From this arrangement,
+the Company receives management fees and
+expense reimbursements.
+As manager, Bimini Advisors is responsible for administering Orchid's business activities and
+day-to-day
+operations.
+Pursuant to the terms of the management agreement, Bimini Advisors
+provides Orchid with its management team,
+including its officers, along with appropriate support personnel. Bimini Advisors is at all times
+subject to the supervision and oversight of
+Orchid's board of directors and has only such functions and authority as delegated to
+it.
+Royal Palm Capital, LLC (collectively with its wholly-owned subsidiaries
+referred to as “Royal Palm”) maintains an investment
+portfolio, consisting primarily of residential mortgage-backed securities ("MBS")
+issued and guaranteed by a federally chartered
+corporation or agency ("Agency MBS"). We also invest in the common stock of Orchid. Our
+investment strategy focuses on, and our
+portfolio consists of, two categories of Agency MBS: (i) traditional pass-through Agency
+MBS, such as mortgage pass-through
+certificates issued by Fannie Mae, Freddie Mac or Ginnie Mae (the “GSEs”)
+and collateralized mortgage obligations (“CMOs”) issued
+by the GSEs (“PT MBS”) and (ii) structured Agency MBS, such as interest
+only securities ("IOs"), inverse interest only securities
+("IIOs") and principal only securities ("POs"), among other types of
+structured Agency MBS. In addition, Royal Palm receives dividends
+from its investment in Orchid common shares.
+Stock Repurchase
+Plans
+On March 26,
+2018, the
+Board of
+Directors
+of the Company
+approved
+a Stock Repurchase
+Plan the
+“2018 Repurchase
+Plan”).
+Pursuant
+to the 2018
+Repurchase
+Plan, we
+could purchase
+up to 500,000
+shares of
+the Company’s
+Class A Common
+Stock from
+time to
+time, subject
+to certain
+limitations
+imposed by
+Rule 10b-18
+of the Securities
+Exchange
+Act of 1934.
+The 2018
+Repurchase
+Plan was
+terminated
+on September
+16, 2021.
+During the
+period beginning
+January 1,
+2021 through
+September
+16, 2021,
+the Company
+repurchased
+a total of
+1,195 shares
+under
+the 2018
+Repurchase
+Plan at an
+aggregate
+cost of approximately
+$2,298, including
+commissions
+and fees,
+for a weighted
+average price
+of
+$1.92 per
+share. From
+commencement
+of the 2018
+Repurchase
+Plan, through
+its termination,
+the Company
+repurchased
+a total of
+71,598
+shares at
+an aggregate
+cost of approximately
+$169,243,
+including
+commissions
+and fees,
+for a weighted
+average price
+of $2.36
+per share.
+On September
+16, 2021,
+the Board
+authorized
+a share repurchase
+plan pursuant
+to Rule 10b5-1
+of the Securities
+Exchange
+Act of
+1934 (the
+“2021 Repurchase
+Plan”). Pursuant
+to the 2021
+Repurchase
+Plan, we
+may purchase
+shares of
+our Class
+A Common
+Stock from
+time to time
+for an aggregate
+purchase price
+not to exceed
+$2.5 million.
+Share repurchases
+may be executed
+through various
+means,
+- 38 -
+including,
+without limitation,
+open market
+transactions.
+The 2021
+Repurchase
+Plan does
+not obligate
+the Company
+to purchase
+any
+shares, and
+it expires
+on September
+16, 2023.
+The authorization
+for the 2021
+Repurchase
+Plan may be
+terminated,
+increased
+or
+decreased
+by the Company’s
+Board of
+Directors
+in its discretion
+at any time.
+From the
+commencement
+of the 2021
+Repurchase
+Plan,
+through December
+31, 2021,
+we repurchased
+a total of
+92,287 shares
+at an aggregate
+cost of approximately
+$192,905,
+including
+commissions
+and fees,
+for a weighted
+average price
+of $2.09
+per share.
+Subsequent
+to December
+31, 2021,
+and through
+March 10,
+2022,
+the Company
+repurchased
+a total of
+170,422 shares
+at an aggregate
+cost of approximately
+$343,732,
+including
+commissions
+and fees,
+for
+a weighted
+average price
+of $2.02
+per share.
+Tender Offer
+In July 2021,
+we completed
+a “modified
+Dutch auction”
+tender offer
+and paid
+$1.5 million,
+excluding
+fees and
+related expenses,
+to
+repurchase
+812,879 shares
+of our Class
+A common
+stock, which
+were retired,
+at a price
+of $1.85 per
+share.
+Factors that Affect our Results of Operations and Financial Condition
+A variety of industry and economic factors (in addition to those related to the COVID-19
+pandemic) may impact our results of
+operations and financial condition. These factors include:
+●
+interest rate trends;
+●
+increases in our cost of funds resulting from increases in the Federal Funds rate
+that are controlled by the Fed and are likely
+to occur in 2022;
+●
+the difference between Agency MBS yields and our funding and hedging costs;
+●
+competition for, and supply of, investments in Agency MBS;
+●
+actions taken by the U.S. government, including the presidential administration,
+the U.S. Federal Reserve (the “Fed”), the
+Federal Open Market Committee (the “FOMC”), The Federal Housing Finance
+Agency (the “FHFA”) and the U.S. Treasury;
+●
+prepayment rates on mortgages underlying our Agency MBS, and credit trends
+insofar as they affect prepayment rates;
+●
+the equity markets and the ability of Orchid to raise additional capital;
+●
+geo-political events that affect the U.S. and international economies, such as the current crisis
+in Ukraine; and
+●
+other market developments.
+In addition, a variety of factors relating to our business may also impact our results
+of operations and financial condition. These
+factors include:
+●
+our degree of leverage;
+●
+our access to funding and borrowing capacity;
+●
+our borrowing costs;
+●
+our hedging activities;
+●
+the market value of our investments;
+●
+the requirements to qualify for a registration exemption under the Investment Company Act;
+●
+our ability to use net operating loss carryforwards and net capital loss carryforwards
+to reduce our taxable income;
+●
+the impact of possible future changes in tax laws or tax rates; and
+●
+our ability to manage the portfolio of Orchid and maintain our role as manager.
+Results
+of Operations
+Described
+below are
+the Company’s
+results of
+operations
+for the
+year ended
+December
+31, 2021,
+as compared
+to the year
+ended
+December
+31, 2020.
+- 39 -
+Net Income
+(Loss) Summary
+Consolidated
+net income
+for the year
+ended December
+31, 2021
+was $0.3
+million, or
+$0.02 basic
+and diluted
+income per
+share of
+Class A Common
+Stock, as
+compared
+to consolidated
+net loss
+of $5.5 million,
+or $0.47
+basic and
+diluted loss
+per share
+of Class A
+Common Stock,
+for the year
+ended December
+31, 2020.
+The components
+of net income
+(loss) for
+the years
+ended December
+31, 2021
+and 2020,
+along with
+the changes
+in those components
+are presented
+in the table
+below:
+(in thousands)
+Change
+Advisory services revenue
+$
+9,788
+$
+6,795
+$
+2,993
+Interest and dividend income
+4,262
+5,517
+(1,255)
+Interest expense
+(1,113)
+(2,225)
+1,112
+Net revenues
+12,937
+10,087
+2,850
+Other expense
+(4,744)
+(10,279)
+5,535
+Expenses
+(8,286)
+(6,666)
+(1,620)
+Net loss before income tax benefit
+(93)
+(6,858)
+6,765
+Income tax benefit
+(368)
+(1,369)
+1,001
+Net income (loss)
+$
+$
+(5,489)
+$
+5,764
+GAAP and
+Non-GAAP
+Reconciliation
+Economic Interest
+Expense and
+Economic Net
+Interest
+Income
+We use derivative
+instruments,
+specifically
+Eurodollar
+and Treasury
+Note (“T-Note”)
+futures contracts
+and TBA
+short positions
+to
+hedge a portion
+of the interest
+rate risk
+on repurchase
+agreements
+in a rising
+rate environment.
+We have not
+designated
+our derivative
+financial
+instruments
+as hedge
+accounting
+relationships,
+but rather
+hold them
+for economic
+hedging purposes.
+Changes in
+fair value
+of these
+instruments
+are presented
+in a separate
+line item
+in our consolidated
+statements
+of
+operations
+and not included
+in interest
+expense. As
+such, for
+financial
+reporting
+purposes,
+interest
+expense and
+cost of funds
+are not
+impacted by
+the fluctuation
+in value
+of the derivative
+instruments.
+For the purpose
+of computing
+economic net
+interest
+income and
+ratios relating
+to cost of
+funds measures,
+GAAP interest
+expense has
+been adjusted
+to reflect
+the realized
+and unrealized
+gains or
+losses on
+certain derivative
+instruments
+the Company
+uses that
+pertain to
+each period
+presented.
+We believe
+that adjusting
+our interest
+expense for
+the periods
+presented
+by the gains
+or losses
+on these
+derivative
+instruments
+would not
+accurately
+reflect our
+economic interest
+expense for
+these periods.
+The reason
+is that these
+derivative
+instruments
+may cover
+periods that
+extend into
+the future,
+not just the
+current period.
+Any realized
+or unrealized
+gains or
+losses on
+the instruments
+reflect the
+change in
+market value
+of the instrument
+caused by
+changes in
+underlying
+interest
+rates applicable
+to the term
+covered by
+the
+instrument,
+not just the
+current period.
+For each
+period presented,
+we have combined
+the effects
+of the derivative
+financial
+instruments
+in place for
+the respective
+period with
+the actual
+interest
+expense incurred
+on our borrowings
+to reflect
+total economic
+interest
+expense for
+the applicable
+period. Interest
+expense, including
+the effect
+of derivative
+instruments
+for the period,
+is referred
+to as economic
+interest
+expense. Net
+interest income,
+when calculated
+to include
+the effect
+of derivative
+instruments
+for the period,
+is referred
+to as economic
+net interest
+income.
+We believe
+that economic
+interest
+expense and
+economic
+net interest
+income provide
+meaningful
+information
+to consider, in
+addition
+to the respective
+amounts prepared
+in accordance
+with GAAP. The non-GAAP
+measures help
+management
+to evaluate
+our financial
+position and
+performance
+without the
+effects of
+certain transactions
+and GAAP
+adjustments
+that are
+not necessarily
+indicative
+of our
+- 40 -
+current investment
+portfolio
+or operations.
+The gains
+or losses
+on derivative
+instruments
+presented
+in our consolidated
+statements
+of
+operations
+are not necessarily
+representative
+of the total
+interest
+rate expense
+that we will
+ultimately
+realize. This
+is because
+as interest
+rates move
+up or down
+in the future,
+the gains
+or losses
+we ultimately
+realize, and
+which will
+affect our
+total interest
+rate expense
+in future
+periods,
+may differ
+from the
+unrealized
+gains or
+losses recognized
+as of the
+reporting
+date.
+Our presentation
+of the economic
+value of our
+hedging strategy
+has important
+limitations.
+First, other
+market participants
+may
+calculate
+economic
+interest
+expense and
+economic net
+interest
+income differently
+than the
+way we calculate
+them. Second,
+while we
+believe that
+the calculation
+of the economic
+value of our
+hedging
+strategy
+described
+above helps
+to present
+our financial
+position
+and
+performance,
+it may be
+of limited
+usefulness
+as an analytical
+tool. Therefore,
+the economic
+value of
+our investment
+strategy should
+not be
+viewed in
+isolation
+and is not
+a substitute
+for interest
+expense and
+net interest
+income computed
+in accordance
+with GAAP.
+The tables
+below present
+a reconciliation
+of the adjustments
+to interest
+expense shown
+for each
+period relative
+to our derivative
+instruments,
+and the consolidated
+statements
+of operations
+line item,
+gains (losses)
+on derivative
+instruments,
+calculated
+in accordance
+with GAAP
+for the years
+ended December
+31, 2021
+and 2020
+and for each
+quarter during
+2021 and
+2020. As
+a result
+of the market
+turmoil
+during the
+first quarter
+of 2020 several
+hedge positions
+where closed.
+However, the
+hedges closed
+were hedges
+that covered
+periods well
+beyond the
+first quarter
+of 2020.
+Accordingly, the
+open equity
+at the time
+these hedges
+were closed
+will result
+in adjustments
+to economic
+interest
+expense through
+the balance
+of their respective
+original
+hedge periods.
+Since the
+Company’s portfolio
+was significantly
+reduced
+during the
+first quarter
+of 2020, the
+effect of applying
+the open
+equity at
+the time
+of closure
+of these
+hedge instruments
+to the current,
+and
+much smaller,
+repurchase
+agreement
+interest
+expense amounts
+has materially
+impacted
+the economic
+interest
+amounts reported
+below.
+Gains (Losses) on Derivative Instruments - Recognized in Consolidated Statement of Operations (GAAP)
+(in thousands)
+Recognized in
+Statement of
+TBA
+Operations
+Securities
+Futures
+Three Months Ended
+(GAAP)
+Income (Loss)
+Contracts
+December 31, 2021
+$
+-
+$
+-
+$
+-
+September 30, 2021
+-
+-
+-
+June 30, 2021
+-
+-
+-
+March 31, 2021
+-
+-
+-
+December 31, 2020
+-
+-
+-
+September 30, 2020
+-
+-
+-
+June 30, 2020
+(2)
+-
+(2)
+March 31, 2020
+(5,291)
+(1,441)
+(3,850)
+Years Ended
+December 31, 2021
+$
+-
+$
+-
+$
+-
+December 31, 2020
+(5,293)
+$
+(1,441)
+(3,852)
+Gains (Losses) on Futures Contracts
+(in thousands)
+Attributed to Current Period (Non-GAAP)
+Attributed to Future Periods (Non-GAAP)
+Junior
+Junior
+Statement
+Repurchase
+Subordinated
+Repurchase
+Subordinated
+of
+Three Months Ended
+Agreements
+Debt
+Total
+Agreements
+Debt
+Total
+Operations
+December 31, 2021
+$
+(707)
+$
+(60)
+$
+(767)
+$
+$
+$
+$
+-
+September 30, 2021
+(709)
+(57)
+(766)
+-
+June 30, 2021
+(708)
+(58)
+(766)
+-
+March 31, 2021
+(708)
+(58)
+(766)
+-
+December 31, 2020
+(615)
+(40)
+(655)
+-
+September 30, 2020
+(1,065)
+(40)
+(1,105)
+1,065
+1,105
+-
+June 30, 2020
+(456)
+(40)
+(496)
+(2)
+March 31, 2020
+(456)
+(40)
+(496)
+(2,879)
+(475)
+(3,354)
+(3,850)
+- 41 -
+Years Ended
+December 31, 2021
+$
+(2,832)
+$
+(233)
+$
+(3,065)
+$
+2,832
+$
+$
+3,065
+$
+-
+December 31, 2020
+(2,592)
+(160)
+(2,752)
+(743)
+(357)
+(1,100)
+(3,852)
+Economic Net Portfolio Interest Income
+(in thousands)
+Interest Expense on Repurchase Agreements
+Net Portfolio
+Effect of
+Interest Income
+Interest
+GAAP
+Non-GAAP
+Economic
+GAAP
+Economic
+Three Months Ended
+Income
+Basis
+Hedges
+(1)
+Basis
+(2)
+Basis
+Basis
+(3)
+December 31, 2021
+$
+$
+$
+(707)
+$
+$
+$
+(217)
+September 30, 2021
+(709)
+(196)
+June 30, 2021
+(708)
+(161)
+March 31, 2021
+(708)
+(137)
+December 31, 2020
+(615)
+(61)
+September 30, 2020
+(1,065)
+1,108
+(504)
+June 30, 2020
+(456)
+March 31, 2020
+2,040
+(456)
+1,384
+1,112
+Years Ended
+December 31, 2021
+$
+2,237
+$
+$
+(2,832)
+$
+2,948
+$
+2,121
+$
+(711)
+December 31, 2020
+3,764
+1,074
+(2,592)
+3,666
+2,690
+(1)
+Reflects the effect of derivative instrument hedges for only the period
+presented.
+(2)
+Calculated by subtracting the effect of derivative instrument hedges
+attributed to the period presented from GAAP interest expense.
+(3)
+Calculated by adding the effect of derivative instrument hedges attributed
+to the period presented to GAAP net portfolio interest income.
+Economic Net Interest Income
+(in thousands)
+Net Portfolio
+Interest Expense on Long-Term Debt
+Interest Income
+Effect of
+Net Interest Income
+GAAP
+Economic
+GAAP
+Non-GAAP
+Economic
+GAAP
+Economic
+Three Months Ended
+Basis
+Basis
+(1)
+Basis
+Hedges
+(2)
+Basis
+(3)
+Basis
+Basis
+(4)
+December 31, 2021
+$
+$
+(217)
+$
+$
+(60)
+$
+$
+$
+(526)
+September 30, 2021
+(196)
+(57)
+(501)
+June 30, 2021
+(161)
+(58)
+(469)
+March 31, 2021
+(137)
+(58)
+(445)
+December 31, 2020
+(61)
+(40)
+(358)
+September 30, 2020
+(504)
+(40)
+(805)
+June 30, 2020
+(40)
+(315)
+March 31, 2020
+1,112
+(40)
+Years Ended
+December 31, 2021
+$
+2,121
+$
+(711)
+$
+$
+(233)
+$
+1,230
+$
+1,124
+$
+(1,941)
+December 31, 2020
+2,690
+1,150
+(160)
+1,310
+1,540
+(1,212)
+(1)
+Calculated by adding the effect of derivative instrument hedges attributed
+to the period presented to GAAP net portfolio interest income.
+(2)
+Reflects the effect of derivative instrument hedges for only the period
+presented.
+(3)
+Calculated by subtracting the effect of derivative instrument hedges
+attributed to the period presented from GAAP interest expense.
+(4)
+Calculated by adding the effect of derivative instrument hedges
+attributed to the period presented to GAAP net interest income.
+Segment Information
+- 42 -
+We have two operating segments. The asset management segment includes the investment
+advisory services provided by Bimini
+Advisors to Orchid and Royal Palm. The investment portfolio segment includes the
+investment activities conducted by Royal Palm.
+Segment information for the years ended December 31, 2021 and 2020 is as follows:
+(in thousands)
+Asset
+Investment
+Management
+Portfolio
+Corporate
+Eliminations
+Total
+Advisory services, external customers
+$
+9,788
+$
+-
+$
+-
+$
+-
+$
+9,788
+Advisory services, other operating segments
+(1)
+-
+-
+(147)
+-
+Interest and dividend income
+-
+4,262
+-
+-
+4,262
+Interest expense
+-
+(116)
+(997)
+(2)
+-
+(1,113)
+Net revenues
+9,935
+4,146
+(997)
+(147)
+12,937
+Other (expense) income
+-
+(4,898)
+(3)
+-
+(4,744)
+Operating expenses
+(4)
+(5,676)
+(2,609)
+-
+-
+(8,285)
+Intercompany expenses
+(1)
+-
+(147)
+-
+-
+Income (loss) before income taxes
+$
+4,259
+$
+(3,508)
+$
+(843)
+$
+-
+$
+(92)
+Assets
+$
+1,901
+$
+111,022
+$
+9,162
+$
+-
+$
+122,085
+Asset
+Investment
+Management
+Portfolio
+Corporate
+Eliminations
+Total
+Advisory services, external customers
+$
+6,795
+$
+-
+$
+-
+$
+-
+$
+6,795
+Advisory services, other operating segments
+(1)
+-
+-
+(152)
+-
+Interest and dividend income
+-
+5,517
+-
+5,517
+Interest expense
+-
+(1,074)
+(1,151)
+(2)
+(2,225)
+Net revenues
+6,947
+4,443
+(1,151)
+(152)
+10,087
+Other expense
+-
+(9,825)
+(454)
+(3)
+(10,279)
+Operating expenses
+(4)
+(3,653)
+(3,014)
+-
+(6,667)
+Intercompany expenses
+(1)
+-
+(152)
+-
+-
+Income (loss) before income taxes
+$
+3,294
+$
+(8,548)
+$
+(1,605)
+$
+-
+$
+(6,859)
+Assets
+$
+1,469
+$
+113,764
+$
+13,468
+$
+-
+$
+128,701
+(1)
+Includes advisory services revenue received by Bimini Advisors from Royal Palm.
+(2)
+Includes interest on long-term debt.
+(3)
+Includes income recognized on the forgiveness of the PPP loan and gains (losses)
+on Eurodollar futures contracts entered into as a hedge on
+junior subordinated notes.
+(4)
+Corporate expenses are allocated based on each segment’s proportional
+share of total revenues.
+Asset Management
+Segment
+Advisory Services
+Revenue
+Advisory services
+revenue
+consists
+of management
+fees and
+overhead
+reimbursements
+charged
+to Orchid
+for the management
+of its
+portfolio
+pursuant
+to the terms
+of a management
+agreement.
+We receive a monthly management fee in the amount of:
+●
+One-twelfth of 1.5% of the first $250 million of Orchid’s month-end equity, as defined in the management agreement,
+●
+One-twelfth of 1.25% of Orchid’s month-end equity that is greater than $250 million
+and less than or equal to $500 million, and
+●
+One-twelfth of 1.00% of Orchid’s month-end equity that is greater than $500 million.
+In addition, Orchid is obligated to reimburse us for any direct expenses
+incurred on its behalf and to pay to us an amount equal to
+Orchid's pro rata portion of certain overhead costs set forth in the management
+agreement. The management agreement has been
+- 43 -
+renewed through February 2023 and provides for automatic one-year extension
+options. Should Orchid terminate the management
+agreement without cause, it will be obligated to pay to us a termination fee equal
+to three times the average annual management fee,
+as defined in the management agreement, before or on the last day of the automatic
+renewal term.
+The following table summarizes the advisory services revenue received from
+Orchid for the years ended December 31, 2021 and
+2020 and each quarter during 2021 and 2020.
+($ in thousands)
+Average
+Average
+Advisory Services
+Orchid
+Orchid
+Management
+Overhead
+Three Months Ended
+MBS
+Equity
+Fee
+Allocation
+Total
+December 31, 2021
+$
+6,056,259
+$
+806,382
+$
+2,587
+$
+$
+3,030
+September 30, 2021
+5,136,331
+672,384
+2,157
+2,547
+June 30, 2021
+4,504,887
+542,679
+1,791
+2,186
+March 31, 2021
+4,032,716
+456,687
+1,621
+2,025
+December 31, 2020
+3,633,631
+387,503
+1,384
+1,826
+September 30, 2020
+3,422,564
+368,588
+1,252
+1,629
+June 30, 2020
+3,126,779
+361,093
+1,268
+1,615
+March 31, 2020
+3,269,859
+376,673
+1,377
+1,725
+Years Ended
+December 31, 2021
+$
+4,932,548
+$
+619,533
+$
+8,156
+$
+1,632
+$
+9,788
+December 31, 2020
+3,363,208
+373,464
+5,281
+1,514
+6,795
+Investment Portfolio Segment
+Net Portfolio Interest Income
+We define
+net portfolio
+interest
+income as
+interest
+income on
+MBS less
+interest
+expense on
+repurchase
+agreement
+funding.
+During
+the year
+ended December
+31, 2021,
+we generated
+$2.1 million
+of net portfolio
+interest
+income, consisting
+of $2.2 million
+of interest
+income
+from MBS
+assets offset
+by $0.1 million
+of interest
+expense on
+repurchase
+liabilities.
+For the year
+ended December
+31, 2020,
+we
+generated
+$2.7 million
+of net portfolio
+interest
+income, consisting
+of $3.8 million
+of interest
+income from
+MBS assets
+offset by
+$1.1 million
+of interest
+expense on
+repurchase
+liabilities.
+The $1.5
+million
+decrease
+in interest
+income for
+the year
+ended December
+31, 2021
+was due
+to a $13.2
+million decrease
+in average
+MBS balances,
+combined
+with a 136
+basis point
+("bp") decrease
+in yields
+earned on
+the portfolio.
+The $1.0
+million decrease
+in interest
+expense for
+the year
+ended December
+31, 2021
+was due to
+a 121 bp
+decrease
+in cost of
+funds,
+combined with
+a $10.6 million
+decrease
+in average
+repurchase
+liabilities.
+Our economic
+interest
+expense
+on repurchase
+liabilities
+for the
+years ended
+December
+31, 2021
+and 2020
+was $2.9
+million and
+$3.7
+million, respectively,
+resulting
+in ($0.7)
+million and
+$0.1 million
+of economic
+net portfolio
+interest
+income, respectively.
+The tables
+below provide
+information
+on our portfolio
+average balances,
+interest
+income, yield
+on assets,
+average repurchase
+agreement
+balances,
+interest
+expense,
+cost of funds,
+net interest
+income and
+net interest
+rate spread
+for each
+quarter in
+2021 and
+and for the
+years ended
+December
+31, 2021
+and 2020
+on both a
+GAAP and
+economic basis.
+($ in thousands)
+Average
+Yield on
+Average
+Interest Expense
+Average Cost of Funds
+MBS
+Interest
+Average
+Repurchase
+GAAP
+Economic
+GAAP
+Economic
+Three Months Ended
+Held
+(1)
+Income
+(2)
+MBS
+Agreements
+(1)
+Basis
+Basis
+(2)
+Basis
+Basis
+(3)
+December 31, 2021
+$
+62,597
+$
+3.27%
+$
+61,019
+$
+$
+0.14%
+4.77%
+September 30, 2021
+66,692
+3.22%
+67,253
+0.14%
+4.36%
+June 30, 2021
+70,925
+3.26%
+72,241
+0.17%
+4.09%
+March 31, 2021
+69,017
+3.54%
+69,104
+0.23%
+4.33%
+- 44 -
+December 31, 2020
+69,161
+3.45%
+67,878
+0.25%
+3.88%
+September 30, 2020
+62,981
+3.84%
+61,151
+1,108
+0.28%
+7.25%
+June 30, 2020
+53,630
+3.90%
+51,987
+0.46%
+3.97%
+March 31, 2020
+136,142
+2,040
+5.99%
+131,156
+1,384
+2.83%
+4.22%
+Years Ended
+December
+31, 2021
+$
+67,308
+$
+2,237
+3.32%
+$
+67,404
+$
+$
+2,948
+0.17%
+4.37%
+December 31, 2020
+80,479
+3,764
+4.68%
+78,043
+1,074
+3,666
+1.38%
+4.70%
+($ in thousands)
+Net Portfolio
+Net Portfolio
+Interest Income
+Interest Spread
+GAAP
+Economic
+GAAP
+Economic
+Three Months Ended
+Basis
+Basis
+(2)
+Basis
+Basis
+(4)
+December 31, 2021
+$
+$
+(217)
+3.13%
+(1.50)%
+September 30, 2021
+(196)
+3.08%
+(1.14)%
+June 30, 2021
+(161)
+3.09%
+(0.83)%
+March 31, 2021
+(137)
+3.31%
+(0.79)%
+December 31, 2020
+(61)
+3.20%
+(0.43)%
+September 30, 2020
+(504)
+3.56%
+(3.41)%
+June 30, 2020
+3.44%
+(0.07)%
+March 31, 2020
+1,112
+3.16%
+1.77%
+Years Ended
+December 31, 2021
+$
+2,121
+$
+(711)
+3.15%
+(1.05)%
+December 31, 2020
+2,690
+3.30%
+(0.02)%
+(1)
+Portfolio yields and costs of borrowings presented in the tables above and the
+tables on pages 43 and 44 are calculated based on the
+average balances of the underlying investment portfolio/repurchase
+agreement balances and are annualized for the periods presented.
+(2)
+Economic interest expense and economic net interest income
+presented in the tables above and the tables on page 44 include the
+effect of derivative instrument hedges for only the period presented.
+(3)
+Represents interest cost of our borrowings and the effect of derivative
+instrument hedges attributed to the period related to hedging
+activities divided by average MBS held.
+(4)
+Economic net interest spread is calculated by subtracting average economic
+cost of funds from yield on average MBS.
+Interest Income and Average Earning Asset Yield
+Our interest
+income was
+$2.2 million
+for the year
+ended December
+31, 2021
+and $3.8
+million for
+year ended
+December
+31, 2020.
+Average MBS
+holdings were
+$67.3 million
+and $80.5
+million for
+the years
+ended December
+31, 2021
+and 2020,
+respectively. The
+$1.5
+million decrease
+in interest
+income was
+due to a
+$13.2 million
+decrease
+in average
+MBS holdings,
+combined with
+a 136 bp
+decrease
+in
+yields.
+The table
+below presents
+the average
+portfolio
+size, income
+and yields
+of our respective
+sub-portfolios,
+consisting
+of structured
+MBS
+and pass-through
+MBS (“PT
+MBS”) for
+the years
+ended December
+31, 2021
+and 2020
+and each
+quarter during
+2021 and
+2020.
+($ in thousands)
+Average MBS Held
+Interest Income
+Realized Yield on Average MBS
+PT
+Structured
+PT
+Structured
+PT
+Structured
+Three Months Ended
+MBS
+MBS
+Total
+MBS
+MBS
+Total
+MBS
+MBS
+Total
+December 31, 2021
+$
+59,701
+$
+2,896
+$
+62,597
+$
+$
+$
+3.35%
+1.55%
+3.27%
+September 30, 2021
+64,641
+2,051
+66,692
+3.30%
+0.91%
+3.22%
+June 30, 2021
+70,207
+70,925
+(1)
+3.30%
+(0.11)%
+3.26%
+March 31, 2021
+68,703
+69,017
+3.53%
+6.54%
+3.54%
+December 31, 2020
+68,842
+69,161
+(1)
+3.47%
+(1.20)%
+3.45%
+September 30, 2020
+62,564
+62,981
+3.76%
+15.35%
+3.84%
+- 45 -
+June 30, 2020
+53,101
+53,630
+3.78%
+16.12%
+3.90%
+March 31, 2020
+135,044
+1,098
+136,142
+2,029
+2,040
+6.01%
+3.93%
+5.99%
+Years Ended
+December 31, 2021
+$
+65,813
+$
+1,495
+$
+67,308
+$
+2,217
+$
+$
+2,237
+3.37%
+1.39%
+3.32%
+December 31, 2020
+79,888
+80,479
+3,717
+3,764
+4.65%
+7.98%
+4.68%
+Interest Expense on Repurchase Agreements and the Cost of Funds
+Our average
+outstanding
+repurchase
+agreements
+were $67.4
+million and
+$78.0 million,
+generating
+interest
+expense of
+$0.1 million
+and
+$1.1 million
+for the years
+ended December
+31, 2021
+and 2020,
+respectively.
+Our average
+cost of funds
+was 0.17%
+and 1.38%
+for the
+years ended
+December
+31, 2021 and
+2020, respectively.
+There was
+a 121 bp
+decrease
+in the average
+cost of funds
+and a $10.6
+million
+decrease
+in average
+outstanding
+repurchase
+agreements
+during the
+year ended
+December
+31, 2021 as
+compared
+to the year
+ended
+December
+31, 2020.
+Our economic
+interest
+expense
+was $2.9
+million
+and $3.7
+million
+for the
+years ended
+December
+31, 2021
+and 2020,
+respectively.
+There
+was a 33 bp
+decrease
+in the average
+economic cost
+of funds to
+4.37% for the
+year ended
+December
+31, 2021 from
+4.70% for
+the previous
+year. The $0.8 million
+decrease
+in economic
+interest
+expense was
+due to the
+decrease
+in interest
+expense on
+the repurchase
+agreements,
+partially
+offset by the
+negative
+performance
+of our hedging
+agreements
+attributed
+to the current
+period.
+Since all
+of our repurchase
+agreements
+are short-term,
+changes in
+market rates
+directly affect
+our interest
+expense.
+Our average
+cost
+of funds
+calculated
+on a GAAP
+basis was
+5 bps above
+average
+one-month
+LIBOR and
+9 bps below
+average six-month
+LIBOR for
+the
+quarter ended
+December
+31, 2021.
+Our average
+economic cost
+of funds
+was 468 bps
+above average
+one-month
+LIBOR and
+454 bps
+above average
+six-month LIBOR
+for the quarter
+ended December
+31, 2021.
+The average
+term to maturity
+of the outstanding
+repurchase
+agreements
+decreased
+from 33
+days at December
+31, 2020
+to 16 days
+at December
+31, 2021.
+The tables
+below present
+the average
+outstanding
+balance under
+all repurchase
+agreements,
+interest
+expense and
+average
+economic
+cost of funds,
+and average
+one-month
+and six-month
+LIBOR rates
+for each
+quarter in
+2021 and
+2020 and
+for the years
+ended December
+31, 2021
+and 2020
+on both a
+GAAP and
+economic basis.
+($ in thousands)
+Average
+Balance of
+Interest Expense
+Average Cost of Funds
+Repurchase
+GAAP
+Economic
+GAAP
+Economic
+Three Months Ended
+Agreements
+Basis
+Basis
+Basis
+Basis
+December 31, 2021
+$
+61,019
+$
+$
+0.14%
+4.77%
+September 30, 2021
+67,253
+0.14%
+4.36%
+June 30, 2021
+72,241
+0.17%
+4.09%
+March 31, 2021
+69,104
+0.23%
+4.33%
+December 31, 2020
+67,878
+0.25%
+3.88%
+September 30, 2020
+61,151
+1,108
+0.28%
+7.25%
+June 30, 2020
+51,987
+0.46%
+3.97%
+March 31, 2020
+131,156
+1,384
+2.83%
+4.22%
+Years Ended
+December 31, 2021
+$
+67,404
+$
+2,948
+0.17%
+4.37%
+December 31, 2020
+78,043
+1,074
+3,666
+1.38%
+4.70%
+Average GAAP Cost of Funds
+Average Economic Cost of Funds
+Relative to Average
+Relative to Average
+Average LIBOR
+One-Month
+Six-Month
+One-Month
+Six-Month
+Three Months Ended
+One-Month
+Six-Month
+LIBOR
+LIBOR
+LIBOR
+LIBOR
+December 31, 2021
+0.09%
+0.23%
+0.05%
+(0.09)%
+4.68%
+4.54%
+- 46 -
+September 30, 2021
+0.09%
+0.16%
+0.05%
+(0.02)%
+4.27%
+4.20%
+June 30, 2021
+0.10%
+0.18%
+0.07%
+(0.01)%
+3.99%
+3.91%
+March 31, 2021
+0.13%
+0.23%
+0.10%
+0.00%
+4.20%
+4.10%
+December 31, 2020
+0.15%
+0.27%
+0.10%
+(0.02)%
+3.73%
+3.61%
+September 30, 2020
+0.17%
+0.35%
+0.11%
+(0.07)%
+7.08%
+6.90%
+June 30, 2020
+0.55%
+0.70%
+(0.09)%
+(0.24)%
+3.42%
+3.27%
+March 31, 2020
+1.34%
+1.43%
+1.49%
+1.40%
+2.88%
+2.79%
+Average GAAP Cost of Funds
+Average Economic Cost of Funds
+Relative to Average
+Relative to Average
+Average LIBOR
+One-Month
+Six-Month
+One-Month
+Six-Month
+Years Ended
+One-Month
+Six-Month
+LIBOR
+LIBOR
+LIBOR
+LIBOR
+December 31, 2021
+0.10%
+0.20%
+0.07%
+(0.03)%
+4.27%
+4.17%
+December 31, 2020
+0.55%
+0.69%
+0.83%
+0.69%
+4.15%
+4.01%
+Dividend Income
+We owned 1,520,036 shares of Orchid common stock as of December 31, 2019. We acquired 1,075,321
+additional shares during
+the year ended December 31, 2020, bringing our total ownership to 2,595,357 shares
+as of December 31, 2021 and 2020. Orchid paid
+total dividends of $0.78 per share during 2021 and $0.79 per share during 2020.
+During the years ended December 31, 2021 and
+2020, we received dividends on this common stock investment of approximately
+$2.0 million and $1.8 million, respectively.
+Long-Term Debt
+Junior Subordinated
+Debt
+Interest
+expense on
+our junior
+subordinated
+debt securities
+was approximately
+$1.0 million
+and $1.1
+million for
+the years
+ended
+December
+31, 2021
+and 2020,
+respectively.
+The average
+rate of
+interest
+paid for
+the year
+ended December
+31, 2021
+was 3.66%
+compared
+to 4.22%
+for the year
+ended December
+31, 2020.
+The junior
+subordinated
+debt securities
+pay interest
+at a floating
+rate.
+The
+rate is adjusted
+quarterly
+and set
+at a spread
+of 3.50%
+over the
+prevailing
+three-month
+LIBOR rate
+on the determination
+date.
+As of
+December
+31, 2021,
+the interest
+rate was
+3.70%.
+Note Payable
+On October 30, 2019,
+the Company borrowed $680,000 from a bank. The note is payable in equal
+monthly principal and interest
+installments of approximately $4,500 through October 30, 2039. Interest accrues
+at 4.89% through October 30, 2024. Thereafter,
+interest accrues based on the weekly average yield to the United States Treasury securities adjusted to
+a constant maturity of 5 years,
+plus 3.25%.
+The note is secured by a mortgage on the Company’s office building.
+Paycheck Protection Plan Loan
+On April 13, 2020, the Company received approximately $152,000 through the Paycheck
+Protection Program (“PPP”) of the
+CARES Act in the form of a low interest loan.
+The Small Business Administration notified the Company that, effective as of April 22,
+2021, all principal and accrued interest under the PPP loan has been forgiven.
+Gains or Losses and Other Income
+The table
+below presents
+our gains
+or losses
+and other
+income for
+the years
+ended December
+31, 2021
+and 2020.
+(in thousands)
+- 47 -
+Change
+Realized gains (losses) on sales of MBS
+$
+$
+(5,745)
+$
+5,814
+Unrealized (losses) gains on MBS
+(3,099)
+(3,211)
+Total losses on
+MBS
+(3,030)
+(5,633)
+2,603
+Losses on derivative instruments
+-
+(5,293)
+5,293
+Gains on retained interests in securitizations
+-
+(59)
+Unrealized (losses) gains on Orchid Island Capital, Inc. common stock
+(1,869)
+(2,453)
+We invest in
+MBS with
+the intent
+to earn net
+income from
+the realized
+yield on those
+assets over
+their related
+funding and
+hedging
+costs, and
+not for the
+purpose of
+making short
+term gains
+from trading
+in these securities.
+However, we
+have sold,
+and may continue
+to
+sell, existing
+assets to
+acquire
+new assets,
+which our
+management
+believes might
+have higher
+risk-adjusted
+returns in
+light of current
+or
+anticipated
+interest
+rates, federal
+government
+programs
+or general
+economic conditions
+or to manage
+our balance
+sheet as
+part of our
+asset/liability
+management
+strategy.
+During the
+year ended
+December 31,
+2021, we
+received proceeds
+of $13.1
+million from
+the sales
+of
+MBS compared
+to $176.2
+million for
+the year
+ended December
+31, 2020.
+Most of the
+2020 sales
+occurred
+during the
+second half
+of March
+2020 as we
+sold assets
+in order
+to maintain
+our leverage
+ratio at
+prudent levels,
+maintain sufficient
+cash and liquidity
+and reduce
+risk
+associated
+with the
+market turmoil
+brought about
+by COVID-19.
+The fair
+value of our
+MBS portfolio
+and derivative
+instruments,
+and the gains
+(losses) reported
+on those
+financial
+instruments,
+are
+sensitive
+to changes
+in interest
+rates.
+The table
+below presents
+historical
+interest
+rate data
+as of each
+quarter end
+during
+2021 and
+2020.
+15 Year
+30 Year
+Three
+5 Year
+10 Year
+Fixed-Rate
+Fixed-Rate
+Month
+Treasury Rate
+(1)
+Treasury Rate
+(1)
+Mortgage Rate
+(2)
+Mortgage Rate
+(2)
+Libor
+(3)
+December 31, 2021
+1.26%
+1.51%
+2.35%
+3.10%
+0.21%
+September 30, 2021
+1.00%
+1.53%
+2.18%
+2.90%
+0.12%
+June 30, 2021
+0.87%
+1.44%
+2.27%
+2.98%
+0.13%
+March 31, 2021
+0.94%
+1.75%
+2.39%
+3.08%
+0.19%
+December 31, 2020
+0.36%
+0.92%
+2.22%
+2.68%
+0.23%
+September 30, 2020
+0.27%
+0.68%
+2.39%
+2.89%
+0.24%
+June 30, 2020
+0.29%
+0.65%
+2.60%
+3.16%
+0.31%
+March 31, 2020
+0.38%
+0.70%
+2.89%
+3.45%
+1.10%
+(1)
+Historical 5 Year and 10
+Year Treasury
+Rates are obtained from quoted end of day prices on the Chicago Board Options
+Exchange.
+(2)
+Historical 30 Year and
+15 Year Fixed
+Rate Mortgage Rates are obtained from Freddie Mac’s
+Primary Mortgage Market Survey.
+(3)
+Historical LIBOR are obtained from the Intercontinental Exchange Benchmark Administration
+Ltd.
+Operating Expenses
+For the year
+ended December
+31, 2021,
+our total
+operating
+expenses were
+approximately
+$8.3 million
+compared
+to approximately
+$6.7 million
+for the year
+ended December
+31, 2020.
+The table
+below presents
+a breakdown
+of operating
+expenses for
+the years
+ended
+December
+31, 2021
+and 2020.
+(in thousands)
+Change
+Compensation and benefits
+$
+5,721
+$
+4,235
+$
+1,486
+Legal fees
+(8)
+Accounting, auditing and other professional fees
+(54)
+Directors’ fees and liability insurance
+Administrative and other expenses
+1,287
+1,165
+$
+8,285
+$
+6,667
+$
+1,618
+- 48 -
+The increase
+in compensation
+and benefits
+in 2021 compared
+to 2020 reflects
+an evaluation
+performed
+by the Company’s
+Board of
+Directors
+of the performance
+of the Company’s
+executive
+officers,
+particularly
+the increase
+in advisory
+services
+revenue.
+Financial
+Condition:
+Mortgage-Backed Securities
+As of December
+31, 2021,
+our MBS portfolio
+consisted
+of $60.8
+million of
+agency or
+government
+MBS at fair
+value and
+had a
+weighted
+average coupon
+of 3.41%.
+During the
+year ended
+December 31,
+2021,
+we received
+principal
+repayments
+of $14.5
+million
+compared
+to $13.9
+million for
+the year
+ended December
+31, 2020.
+The average
+prepayment
+speeds for
+the quarters
+ended December
+31,
+2021 and
+2020 were
+21.1% and
+14.4%,
+respectively.
+The following
+table presents
+the three-month
+constant prepayment
+rate (“CPR”)
+experienced
+on our structured
+and PT MBS
+sub-
+portfolios,
+on an annualized
+basis, for
+the quarterly
+periods presented.
+CPR is a
+method of
+expressing
+the prepayment
+rate for
+a mortgage
+pool that
+assumes that
+a constant
+fraction
+of the remaining
+principal
+is prepaid
+each month
+or year. Specifically,
+the CPR
+in the chart
+below represents
+the three
+month prepayment
+rate of the
+securities
+in the respective
+asset category.
+Structured
+PT MBS
+MBS
+Total
+Three Months Ended
+Portfolio (%)
+Portfolio (%)
+Portfolio (%)
+December 31, 2021
+13.7
+35.2
+21.1
+September 30, 2021
+15.5
+26.9
+18.3
+June 30, 2021
+21.0
+31.3
+21.9
+March 31, 2021
+18.5
+16.4
+18.3
+December 31, 2020
+12.8
+24.5
+14.4
+September 30, 2020
+13.0
+32.0
+15.8
+June 30, 2020
+12.4
+25.0
+15.3
+March 31, 2020
+11.6
+18.1
+13.7
+The following
+tables summarize
+certain characteristics
+of our PT
+MBS and structured
+MBS as of
+December
+31, 2021
+and 2020:
+($ in thousands)
+Weighted
+Percentage
+Average
+of
+Weighted
+Maturity
+Fair
+Entire
+Average
+in
+Longest
+Asset Category
+Value
+Portfolio
+Coupon
+Months
+Maturity
+December 31, 2021
+Fixed Rate PT MBS
+$
+58,029
+95.4%
+3.69%
+1-Sep-51
+Interest-Only Securities
+2,759
+4.6%
+2.86%
+15-May-51
+Inverse Interest-Only Securities
+0.0%
+5.90%
+15-May-39
+Total Mortgage Assets
+$
+60,803
+100.0%
+3.41%
+1-Sep-51
+December 31, 2020
+Fixed Rate PT MBS
+$
+64,902
+99.6%
+3.89%
+1-Aug-50
+Interest-Only Securities
+0.4%
+3.56%
+15-Jul-48
+Inverse Interest-Only Securities
+0.0%
+5.84%
+15-May-39
+Total Mortgage Assets
+$
+65,178
+100.0%
+3.89%
+1-Aug-50
+($ in thousands)
+December 31, 2021
+December 31, 2020
+Percentage of
+Percentage of
+Agency
+Fair Value
+Entire Portfolio
+Fair Value
+Entire Portfolio
+- 49 -
+Fannie Mae
+$
+39,703
+65.3%
+$
+38,946
+59.8%
+Freddie Mac
+21,100
+34.7%
+26,232
+40.2%
+Total Portfolio
+$
+60,803
+100.0%
+$
+65,178
+100.0%
+December 31, 2021
+December 31, 2020
+Weighted Average Pass-through Purchase Price
+$
+109.33
+$
+109.51
+Weighted Average Structured Purchase Price
+$
+4.81
+$
+4.28
+Weighted Average Pass-through Current Price
+$
+109.30
+$
+112.67
+Weighted Average Structured Current Price
+$
+9.87
+$
+3.20
+Effective Duration
+(1)
+2.103
+3.309
+(1)
+Effective duration is the approximate percentage change in price
+for a 100 bp change in rates.
+An effective duration of 2.103 indicates that an
+interest rate increase of 1.0% would be expected to cause a 2.103% decrease in the value
+of the MBS in our investment portfolio at December
+31, 2021.
+An effective duration of 3.309 indicates that an interest rate increase
+of 1.0% would be expected to cause a 3.309% decrease in the
+value of the MBS in our investment portfolio at December 31, 2020. These figures
+include the structured securities in the portfolio but do include
+the effect of our funding cost hedges. Effective duration quotes
+for individual investments are obtained from The Yield
+Book, Inc.
+The following
+table presents
+a summary
+of our portfolio
+assets acquired
+during the
+years ended
+December
+31, 2021
+and 2020.
+($ in thousands)
+Total Cost
+Average
+Price
+Weighted
+Average
+Yield
+Total Cost
+Average
+Price
+Weighted
+Average
+Yield
+PT MBS
+$
+23,338
+$
+106.48
+1.41%
+$
+43,130
+$
+111.44
+1.99%
+Structured MBS
+2,852
+10.01
+3.44%
+-
+-
+0.00%
+Our portfolio
+of PT MBS
+is typically
+comprised
+of adjustable-rate
+MBS, fixed-rate
+MBS and hybrid
+adjustable-rate
+MBS. We generally
+seek to acquire
+low duration
+assets that
+offer high
+levels of
+protection
+from mortgage
+prepayments
+provided
+that they
+are reasonably
+priced by
+the market.
+The stated
+contractual
+final maturity
+of the mortgage
+loans underlying
+our portfolio
+of PT MBS
+generally ranges
+up
+to 30 years.
+However, the
+effect of prepayments
+of the underlying
+mortgage
+loans tends
+to shorten
+the resulting
+cash flows
+from our
+investments
+substantially.
+Prepayments
+occur for
+various reasons,
+including
+refinancing
+of underlying
+mortgages,
+loan payoffs
+in
+connection
+with home
+sales, and
+borrowers
+paying more
+than their
+scheduled
+loan payments,
+which accelerates
+the amortization
+of the
+loans.
+The duration
+of our IO
+and IIO portfolio
+will vary
+greatly depending
+on the structural
+features
+of the securities.
+While prepayment
+activity will
+always affect
+the cash
+flows associated
+with the
+securities,
+the interest
+only nature
+of IO’s may
+cause their
+durations
+to become
+extremely
+negative when
+prepayments
+are high,
+and less negative
+when prepayments
+are low. Prepayments
+affect the
+durations
+of IIO’s
+similarly, but the
+floating rate
+nature of
+the coupon
+of IIOs (which
+is inversely
+related to
+the level
+of one month
+LIBOR) cause
+their price
+movements
+- and model
+duration
+- to be affected
+by changes
+in both
+prepayments
+and one month
+LIBOR - both
+current and
+anticipated
+levels.
+As a result,
+the duration
+of IIO securities
+will also
+vary greatly.
+Prepayments
+on the loans
+underlying
+our MBS
+can alter
+the timing
+of the cash
+flows received
+by us. As
+a result,
+we gauge
+the interest
+rate sensitivity
+of its assets
+by measuring
+their effective
+duration.
+While modified
+duration
+measures
+the price
+sensitivity
+of a bond
+to
+movements
+in interest
+rates, effective
+duration
+captures
+both the
+movement in
+interest
+rates and
+the fact
+that cash
+flows to
+a mortgage
+related security
+are altered
+when interest
+rates move.
+Accordingly, when
+the contract
+interest
+rate on a
+mortgage
+loan is substantially
+above prevailing
+interest
+rates in
+the market,
+the effective
+duration
+of securities
+collateralized
+by such loans
+can be quite
+low because
+of
+expected prepayments.
+We face the
+risk that
+the market
+value of our
+PT MBS assets
+will increase
+or decrease
+at different
+rates than
+that of our
+structured
+- 50 -
+MBS or liabilities,
+including
+our hedging
+instruments.
+Accordingly, we
+assess our
+interest
+rate risk
+by estimating
+the duration
+of our assets
+and the duration
+of our liabilities.
+We generally
+calculate
+duration
+and effective
+duration
+using various
+third-party
+models or
+obtain these
+quotes from
+third-parties.
+However, empirical
+results and
+various third-party
+models may
+produce
+different duration
+numbers for
+the same
+securities.
+The following
+sensitivity
+analysis
+shows the
+estimated
+impact on
+the fair
+value of our
+interest
+rate-sensitive
+investments
+and hedge
+positions
+as of December
+31, 2021,
+assuming rates
+instantaneously
+fall 100 bps,
+rise 100
+bps and
+rise 200
+bps, adjusted
+to reflect
+the
+impact of
+convexity, which
+is the
+measure of
+the sensitivity
+of our hedge
+positions
+and Agency
+MBS’ effective
+duration to
+movements
+in
+interest
+rates.
+($ in thousands)
+Fair
+$ Change in Fair Value
+% Change in Fair Value
+MBS Portfolio
+Value
+-100BPS
++100BPS
++200BPS
+-100BPS
++100BPS
++200BPS
+Fixed Rate MBS
+$
+58,029
+$
+1,830
+$
+(2,594)
+$
+(5,654)
+3.15%
+(4.47)%
+(9.74)%
+Interest-Only MBS
+2,759
+(813)
+(29.48)%
+23.59%
+36.21%
+Inverse Interest-Only MBS
+(2)
+(4)
+5.51%
+(14.75)%
+(29.76)%
+Total MBS
+Portfolio
+$
+60,803
+$
+1,018
+$
+(1,945)
+$
+(4,659)
+1.67%
+(3.20)%
+(7.66)%
+In addition
+to changes
+in interest
+rates, other
+factors impact
+the fair
+value of our
+interest
+rate-sensitive
+investments
+and hedging
+instruments,
+such as the
+shape of
+the yield
+curve, market
+expectations
+as to future
+interest
+rate changes
+and other
+market conditions.
+Accordingly, in
+the event
+of changes
+in actual
+interest
+rates, the
+change in
+the fair
+value of our
+assets would
+likely differ
+from that
+shown
+above and
+such difference
+might be
+material and
+adverse to
+our stockholders.
+Repurchase Agreements
+As of December
+31, 2021,
+we had established
+borrowing
+facilities
+in the repurchase
+agreement
+market with
+a number
+of commercial
+banks and
+other financial
+institutions
+and had borrowings
+in place with
+five of these
+counterparties.
+We believe
+these facilities
+provide
+borrowing
+capacity in
+excess of
+our needs.
+None of these
+lenders are
+affiliated
+with the
+Company. These borrowings
+are secured
+by our
+MBS and cash.
+As of December
+31, 2021,
+we had obligations
+outstanding
+under the
+repurchase
+agreements
+of approximately
+$58.9 million
+with a net
+weighted
+average borrowing
+cost of 0.14%.
+The remaining
+maturity of
+our outstanding
+repurchase
+agreement
+obligations
+ranged from
+6 to
+45 days, with
+a weighted
+average maturity
+of 16 days.
+Securing
+the repurchase
+agreement
+obligation
+as of December
+31, 2021
+are MBS
+with an estimated
+fair value,
+including
+accrued interest,
+of $61.0 million
+and a weighted
+average maturity
+of 330 months,
+and cash
+posted
+as collateral
+of $1.4 million.
+Through
+March 11, 2022,
+we have been
+able to maintain
+our repurchase
+facilities
+with comparable
+terms to
+those that
+existed at
+December
+31, 2021
+with maturities
+through May
+16, 2022.
+The table below presents information about our period-end and average repurchase
+agreement obligations for each quarter in
+2021 and 2020.
+($ in thousands)
+Ending
+Maximum
+Average
+Difference Between Ending
+Balance
+Balance
+Balance
+Repurchase Agreements and
+of Repurchase
+of Repurchase
+of Repurchase
+Average Repurchase Agreements
+Three Months Ended
+Agreements
+Agreements
+Agreements
+Amount
+Percent
+December 31, 2021
+$
+58,878
+$
+62,139
+$
+61,019
+$
+(2,141)
+(3.51)%
+September 30, 2021
+63,160
+72,047
+67,253
+(4,093)
+(6.09)%
+June 30, 2021
+71,346
+72,372
+72,241
+(895)
+(1.24)%
+March 31, 2021
+73,136
+76,004
+69,104
+4,032
+5.83%
+December 31, 2020
+65,071
+70,684
+67,878
+(2,807)
+(4.14)%
+- 51 -
+September 30, 2020
+70,685
+70,794
+61,151
+9,534
+15.59%
+(1)
+June 30, 2020
+51,617
+52,068
+51,987
+(370)
+(0.71)%
+March 31, 2020
+52,357
+214,921
+131,156
+(78,799)
+(60.08)%
+(2)
+(1)
+The higher ending balance relative to the average balance during the quarter
+ended September 30, 2020 reflects the increase in the portfolio.
+During that quarter,
+the Company's investment in PT MBS increased $20.4 million.
+(2)
+The lower ending balance relative to the average balance during the quarter
+ended March 31, 2020 reflects the Company’s response to the
+COVID-19 pandemic. During that quarter,
+the Company's investment in PT MBS decreased $162.4 million.
+Liquidity and Capital Resources
+Liquidity is
+our ability
+to turn non-cash
+assets into
+cash, purchase
+additional
+investments,
+repay principal
+and interest
+on borrowings,
+fund overhead
+and fulfill
+margin calls.
+We have both
+internal
+and external
+sources of
+liquidity. However,
+our material
+unused sources
+of
+liquidity
+include cash
+balances,
+unencumbered
+assets and
+our ability
+to sell encumbered
+assets to
+raise cash.
+At the onset
+of the COVID-
+19 pandemic
+in the spring
+of 2020,
+the markets
+the Company
+operates
+in were severely
+disrupted
+and the Company
+was forced
+to rely on
+these sources
+of liquidity. Our
+balance sheet
+also generates
+liquidity
+on an on-going
+basis through
+payments of
+principal
+and interest
+we
+receive on
+our MBS
+portfolio
+and dividends
+we receive
+on our investment
+in Orchid
+common stock.
+Internal
+Sources of
+Liquidity
+Our internal
+sources of
+liquidity
+include our
+cash balances,
+unencumbered
+assets and
+our ability
+to liquidate
+our encumbered
+security
+holdings.
+Our balance
+sheet also
+generated
+liquidity
+on an ongoing
+basis through
+payments
+of principal
+and interest
+we receive
+on our
+MBS portfolio
+and dividends
+we receive
+on our investment
+in Orchid
+common stock.
+We have previously,
+and may
+again in the
+future, employ
+a hedging
+strategy
+that typically
+involves
+taking short
+positions
+in Eurodollar
+futures,
+T-Note futures,
+TBAs or other
+instruments.
+When the
+market causes
+these short
+positions
+to decline
+in value we
+are required
+to
+meet margin
+calls with
+cash.
+This can
+reduce our
+liquidity
+position
+to the extent
+other securities
+in our portfolio
+move in price
+in such a
+way
+that we do
+not receive
+enough cash
+through margin
+calls to offset
+the Eurodollar
+related margin
+calls. If
+this were
+to occur
+in sufficient
+magnitude,
+the loss of
+liquidity
+might force
+us to reduce
+the size
+of the levered
+portfolio,
+pledge additional
+structured
+securities
+to raise
+funds or
+risk operating
+the portfolio
+with less
+liquidity.
+External
+Sources of
+Liquidity
+Our primary
+external
+sources of
+liquidity
+are our ability
+to (i) borrow
+under master
+repurchase
+agreements
+and (ii)
+use the TBA
+security
+market. Our
+borrowing
+capacity will
+vary over
+time as the
+market value
+of our interest
+earning assets
+varies. Our
+master repurchase
+agreements
+have no stated
+expiration,
+but can be
+terminated
+at any time
+at our option
+or at the
+option of
+the counterparty.
+However, once
+a definitive
+repurchase
+agreement
+under a master
+repurchase
+agreement
+has been
+entered into,
+it generally
+may not be
+terminated
+by
+either party.
+A negotiated
+termination
+can occur, but
+may involve
+a fee to be
+paid by the
+party seeking
+to terminate
+the repurchase
+agreement
+transaction.
+Under our
+repurchase
+agreement
+funding arrangements,
+we are required
+to post margin
+at the initiation
+of the borrowing.
+The margin
+posted represents
+the haircut,
+which is a
+percentage
+of the market
+value of the
+collateral
+pledged.
+To the extent the
+market value
+of the
+asset collateralizing
+the financing
+transaction
+declines,
+the market
+value of our
+posted margin
+will be insufficient
+and we will
+be required
+to
+post additional
+collateral.
+Conversely, if
+the market
+value of the
+asset pledged
+increases
+in value,
+we would
+be over collateralized
+and we
+would be
+entitled to
+have excess
+margin returned
+to us by the
+counterparty.
+Our lenders
+typically
+value our
+pledged securities
+daily to
+ensure the
+adequacy of
+our margin
+and make margin
+calls as
+needed, as
+do we.
+Typically, but not always,
+the parties
+agree to
+a minimum
+threshold
+amount for
+margin calls
+so as to avoid
+the need
+for nuisance
+margin calls
+on a daily
+basis. Our
+master repurchase
+agreements
+do not specify
+the haircut;
+rather haircuts
+are determined
+on an individual
+repurchase
+transaction
+basis.
+- 52 -
+As discussed
+above, we
+invest a
+portion of
+our capital
+in structured
+MBS.
+We generally
+do not apply
+leverage
+to this portion
+of our
+portfolio.
+The leverage
+inherent
+in structured
+securities
+replaces
+the leverage
+obtained by
+acquiring
+PT securities
+and funding
+them in the
+repurchase
+market.
+This structured
+MBS strategy
+has been
+a core element
+of the Company’s
+overall investment
+strategy
+since 2008.
+However, we
+have and
+may continue
+to pledge
+a portion
+of our structured
+MBS in order
+to raise our
+cash levels,
+but generally
+will not
+pledge these
+securities
+in order
+to acquire
+additional
+assets.
+In future
+periods we
+expect to
+continue to
+finance our
+activities
+through repurchase
+agreements.
+As of December
+31, 2021,
+we had
+cash and cash
+equivalents
+of $8.4
+million.
+We generated
+cash flows
+of $16.7
+million from
+principal
+and interest
+payments on
+our MBS
+portfolio
+and had average
+repurchase
+agreements
+outstanding
+of $67.4
+million during
+the year
+ended December
+31, 2021.
+In addition,
+during the
+year ended
+December
+31, 2021,
+we received
+approximately
+$9.4 million
+in management
+fees and
+expense reimbursements
+as
+manager of
+Orchid and
+approximately
+$2.0 million
+in dividends
+from our
+investment
+in Orchid
+common stock.
+In order
+to generate
+additional
+cash to be
+invested in
+our MBS
+portfolio,
+on October
+30, 2019,
+we obtained
+a $680,000
+loan secured
+by a mortgage
+on the Company’s
+office property.
+The loan
+is payable
+in equal monthly
+principal
+and interest
+installments
+of approximately
+$4,500 through
+October 30,
+2039. Interest
+accrued at
+4.89%, through
+October 30,
+2024. Thereafter,
+interest
+accrued based
+on the weekly
+average yield
+to the United
+States Treasury
+securities
+adjusted
+to a constant
+maturity of
+five years,
+plus 3.25%.
+Net loan
+proceeds
+were
+approximately
+$651,000.
+In addition,
+during 2020,
+we completed
+the sale of
+real property
+that was
+not used
+in the Company’s
+business.
+The net proceeds
+from this
+sale were
+approximately
+$462,000 and
+were invested
+in our MBS
+portfolio.
+Outlook
+Orchid Island
+Capital Inc.
+To the extent Orchid
+is able to
+increase
+its capital
+base over
+time, we
+will benefit
+via increased
+management
+fees.
+In addition,
+Orchid
+is obligated
+to reimburse
+us for direct
+expenses paid
+on its behalf
+and to pay
+to us Orchid’s
+pro rata
+share of
+overhead
+as defined
+in the
+management
+agreement.
+As a stockholder
+of Orchid,
+we will also
+continue to
+share in
+distributions,
+if any, paid by
+Orchid to
+its
+stockholders.
+Our operating
+results are
+also impacted
+by changes
+in the market
+value of our
+holdings of
+Orchid common
+shares,
+although
+these market
+value changes
+do not impact
+our cash
+flows from
+Orchid.
+The independent
+Board of
+Directors
+of Orchid
+has the ability
+to terminate
+the management
+agreement
+and thus
+end our ability
+to
+collect management
+fees and
+share overhead
+costs.
+Should Orchid
+terminate
+the management
+agreement
+without cause,
+it will be
+obligated
+to pay us
+a termination
+fee equal
+to three
+times the
+average annual
+management
+fee, as
+defined in
+the management
+agreement,
+before or
+on the last
+day of the
+current automatic
+renewal term.
+Economic Summary
+COVID-19 continued to impact the United States and the rest of the world during
+the fourth quarter of 2021 and into the first
+quarter of 2022.
+The most recent variant, Omicron, spreads much more readily
+than past variants, but also tends to be much less
+severe.
+Instances of new cases spiked rapidly, starting in December of 2021 and peaked, in the U.S., the week ended January 16,
+2022 at 5.58 million.
+Since then, cases have declined fairly rapidly, as have hospitalizations, which have also tended to involve much
+shorter stays in the hospital, especially in comparison to the Delta variant.
+Despite the Omicron wave, the economy added 481,000
+jobs in January 2022, 678,000 jobs in February 2022 and January retail sales also
+rose well above estimates at 3.8%, causing the
+markets and the Fed to meaningfully revise expectations for the path of monetary
+policy in 2022 and beyond.
+The rationale for the shift in expectations for monetary policy was found
+in the economic data that was released during the fourth
+quarter of 2021.
+There were several economic indicators that reached milestone
+levels and made it clear the economy had more than
+recovered from the pandemic.
+The Fed focuses on two areas of economic performance - inflation and the labor market
+- tied to their
+dual mandates of stable prices and maximum employment.
+With respect to inflation, the year-over-year consumer price index reading
+- 53 -
+increased from the 4% increase reported in September of 2021 to 5.43%
+in December of 2021. Core personal consumption
+expenditures - the Fed’s preferred inflation measure - increased from 3.7% year-over-year
+to 4.85% between September and
+December of 2021. In the latter case, this was the highest reading since the
+early 1980s.
+The producer price index was also increasing
+rapidly - approaching 7% year over year in December of 2021.
+This led the Fed to formally declare that their assessment of inflation
+as “transitory” was no longer the case.
+Labor market indicators also reached new milestones. Initial claims for
+unemployment insurance breached the 200,000 level
+during the fourth quarter of 2021-
+the first time this happened since the late 1960s.
+Continuing claims for unemployment insurance
+reached levels even lower than the lows reached prior to the pandemic,
+and the unemployment rate reached 3.9% in December, still
+0.4% above the lowest level reached prior to the pandemic but
+below the Fed’s long-term target level and their proxy for full
+employment.
+The final piece of information was gross domestic product growth
+of 6.9% for the fourth quarter, released in January of
+2022.
+The Fed’s outlook for monetary policy pivoted materially beginning in November
+of 2021.
+The economic data has strengthened further in early 2022.
+In particular, measures of inflation have accelerated from the trend of
+late 2021 and are very broad based, as prices for essentially every category
+of goods and services are accelerating.
+The employment
+data has also been very strong, exhibiting little effect from the Omicron variant. The
+combination of accelerating inflation well above the
+Fed’s target level and a very tight labor market have led the market to anticipate the Fed will react
+aggressively soon. The Fed has
+signaled they are about to start an accelerated removal of the extreme monetary accommodation
+necessitated by the pandemic.
+In
+January of 2022 the FOMC announced they would end their asset purchases
+in March of 2022 and were likely to start decreasing the
+reinvestment of their U.S. Treasury and MBS assets as they matured or were repaid starting shortly after their
+first rate hike. The first
+rate hike is likely to be in March as well. Current pricing in the futures market
+indicates the Fed will increase the Fed Funds rate at least
+five times by January of 2023 and by approximately 75 basis points more in 2023.
+Based solely on domestic economic developments of late the Fed is likely to aggressively
+remove their accommodative monetary
+policy. However, a potentially significant geo-political development has unfolded in the Ukraine. Russia invaded Ukraine on February
+24, 2022. The United States and several NATO allies have imposed significant economic sanctions that are likely to cripple the
+Russian economy and currency, the Ruble. Should the situation deteriorate further and military action lead to a protracted
+war, there
+would likely be an economic impact on Europe and therefore indirectly in the U.S., potentially
+slowing economic activity at the margin
+and possibly lessening the need for the Fed to remove monetary policy
+as aggressively as expected otherwise.
+Legislative Response and the Federal Reserve
+Congress passed the CARES Act (described below) quickly in response to
+the pandemic’s emergence during the spring of 2020.
+As provisions of the CARES Act expired and the effects of the pandemic continued
+to adversely impact the country, the federal
+government passed an additional stimulus package in late December of 2020. Further, on March 11, 2021, President Biden signed into
+law an additional $1.9 trillion coronavirus aid package as part of the American
+Rescue Plan Act of 2021.
+This law provided for, among
+other things, direct payments to most Americans with a gross income of less
+than $75,000 a year, expansion of the child tax credit,
+extension of expanded unemployment benefits through September 6, 2021, funding
+for procurement of vaccines and health providers,
+loans to qualified businesses, funding for rental and mortgage assistance and
+funding for schools. The expanded federal
+unemployment benefits expired on September 6, 2021.
+In addition, the Fed provided as much support to the markets and the economy
+as it could within the constraints of its mandate.
+During the third quarter of 2020, the Fed unveiled a new monetary policy framework
+focused on average inflation rate targeting
+that allows the Fed Funds rate to remain quite low, even if inflation is expected to temporarily surpass the 2% target
+level. Further, the
+Fed stated they would look past the presence of very tight labor markets,
+should they be present at the time.
+This marks a significant
+shift from their prior policy framework, which was focused on the unemployment
+rate as a key indicator of impending inflation.
+Adherence to this policy could steepen the U.S. Treasury curve as short-term rates could remain low for a
+considerable period but
+longer-term rates could rise given the Fed’s intention to let inflation potentially run above
+2% in the future as the economy more fully
+- 54 -
+recovers.
+As mentioned above, this policy shift will not likely have an effect on current
+monetary policy as inflation is now running
+considerably higher than the Fed’s 2% target level and the Fed appears likely to move quickly
+to remove the extreme monetary
+accommodation they provided as the pandemic emerged in the U.S. in the
+spring of 2020.
+Interest Rates
+At the beginning of 2021, interest rates were still close to the lowest levels
+ever observed.
+As the country and economy emerged
+from the effects of the pandemic and the federal government and the Fed took unprecedented
+actions to buttress the economy from
+the effects of the pandemic, interest rates increased over the course of the year.
+Increases in interest rates were not uniform over the
+year as shorter maturity rates, typically more sensitive to anticipated increases in
+short term rates controlled by the Fed, increased
+more than longer term rates.
+As inflation accelerated in the fourth quarter of 2021, and even more so in early
+2022, this trend
+intensified and the spread between certain intermediate rates - such as 5-year
+and 7-year maturities - trade at yields only marginally
+below longer-term rates such as 10-year U.S. Treasuries.
+This flattening of the rates curve is typical as the economy strengthens
+and
+the market anticipates increases in short-term rates by the Fed. As economic and/or
+inflation data strengthen and the market
+anticipates progressively more increases in short-term rates, this flattening effect
+intensifies as well. Eventually the rates curve could
+actually invert, whereby the intermediate rates mentioned above actually yield
+more than longer-term rates.
+This would occur when the
+market anticipates the increases to short-term rates by the Fed will actually slow the
+economy too much in the future and a possible
+recession is on the horizon.
+However, recent developments in the Ukraine have reversed some of the compression in the treasury
+curve as shorter term rates have decreased more than longer-term rates, a sign of
+a “flight to quality” rally as investors across the
+globe seek the safety of short-term US treasury securities in times of duress.
+Given the unprecedented nature of the monetary and
+fiscal stimulus needed to combat the pandemic and the related supercharged
+effect on the economy, the current recovery and pending
+rate increase cycle will be even more difficult to manage by the Fed and we expect that such
+an outcome is more likely to occur than in
+past cycles.
+The Agency MBS Market
+As was anticipated, the Fed announced a tapering of their U.S.
+Treasury and Agency MBS asset purchases at their November
+2021 meeting.
+As described above, the forthcoming data was likely to necessitate an accelerated
+pace of accommodation removal
+and in December of 2021, and again in January of 2022, the Fed announced
+revised schedules for tapering.
+This means a material
+source of demand for Agency MBS is about to leave the market.
+Given Fed purchases are a source of reserves into the banking
+system, this also means banks, which have also been a material source
+for Agency MBS, may also be buying fewer securities.
+However, the securities that were the focus of the Fed and bank buying, namely production coupon securities, performed
+relatively well
+during the fourth quarter of 2021.
+Total
+returns for Agency MBS for the quarter and year ended December 31, 2021
+were -0.4% and -1.2%, respectively.
+Agency
+MBS returns generally trailed other major domestic fixed income categories.
+High yield debt returned 0.7% and 5.4% for the quarter
+and year ended December 31, 2021, respectively.
+Investment grade returns for the same two periods were 0.2% and -1.0%,
+respectively.
+Legacy non-Agency MBS returns were equal to or exceeded high yield returns.
+Relative to comparable duration U.S.
+Treasuries Agency MBS returns were -1.0% and -1.6%, respectively for the same two periods.
+Again, these returns trailed the same
+other major domestic fixed-income categories and by comparable amounts.
+Within the Agency MBS 30-year coupons, production
+coupons - 2.0% and 2.5% - outperformed higher, liquid securities - 3.0% and 3.5% - both on absolute
+terms and relative to
+comparable duration U.S. Treasuries for the fourth quarter of 2021.
+Recent Legislative and Regulatory Developments
+The Fed conducted large scale overnight repo operations from late 2019 until
+July 2020 to address disruptions in the U.S.
+Treasury, Agency debt and Agency MBS financing markets. These operations ceased in July 2020 after the central bank successfully
+tamed volatile funding costs that had threatened to cause disruption across the
+financial system.
+- 55 -
+The Fed has taken a number of other actions to stabilize markets as a result
+of the impacts of the COVID-19 pandemic. On March
+15, 2020, the Fed announced a $700 billion asset purchase program to provide
+liquidity to the U.S. Treasury and Agency MBS
+markets. Specifically, the Fed announced that it would purchase at least $500 billion of U.S. Treasuries and at least $200 billion of
+Agency MBS. The Fed also lowered the Fed Funds rate to a range of 0.0% - 0.25%,
+after having already lowered the Fed Funds rate
+by 50 bps on March 3, 2020. On June 30, 2020, Fed Chairman Powell announced
+expectations to maintain interest rates at this level
+until the Fed is confident that the economy has weathered recent events
+and is on track to achieve maximum employment and price
+stability goals. The Federal Open Market Committee (“FOMC”) continued to reaffirm this commitment
+at all subsequent meetings
+through December of 2021, as well as an intention to allow inflation to climb modestly
+above their 2% target and maintain that level for
+a period sufficient for inflation to average 2% long term. On January 26, 2022, the FOMC reiterated
+its goals of maximum employment
+and a 2% long-run inflation rate and stated that, with a strong labor market
+and inflation well above 2%, it expected it would soon be
+appropriate to raise the target federal funds rate.
+The COVID-19 pandemic and the actions taken to contain and minimize its
+impact resulted in the deterioration of the markets for
+U.S. Treasuries, Agency MBS and other mortgage and fixed income markets. As a result, investors liquidated
+significant holdings in
+these assets. In response, on March 23, 2020, the Fed announced a program
+to acquire U.S. Treasuries and Agency MBS in the
+amounts needed to support smooth market functioning. With these purchases, market
+conditions improved substantially, and in early
+April, the Fed began to gradually reduce the pace of these purchases. Through
+November of 2021, the Fed was committed to
+purchasing $80 billion of U.S. Treasuries and $40 billion of Agency MBS each month. In November of 2021,
+it began tapering its net
+asset purchases each month, reducing them to $70 billion, $60 billion and $40
+billion of U.S. Treasuries and $35 billion, $30 billion and
+$20 billion of Agency MBS in November of 2021, December of 2021 and January
+of 2022, respectively.
+On January 26, 2022, the
+FOMC announced that it would continue to increase its holdings of U.S. Treasuries by $20
+billion per month and its holdings of Agency
+MBS by $10 billion per month for February of 2022 and would end its net asset
+purchases entirely by early March of 2022.
+The CARES Act was passed by Congress and signed into law by President Trump on March 27, 2020.
+The CARES Act provided
+many forms of direct support to individuals and small businesses in order to stem the
+steep decline in economic activity.
+This over $2
+trillion COVID-19 relief bill, among other things, provided for direct payments to
+each American making up to $75,000 a year, increased
+unemployment benefits for up to four months (on top of state benefits), funding
+to hospitals and health providers, loans and
+investments to businesses, states and municipalities and grants to the airline
+industry. On April 24, 2020, President Trump signed an
+additional funding bill into law that provides an additional $484 billion of funding
+to individuals, small businesses, hospitals, health care
+providers and additional coronavirus testing efforts. Various provisions of the CARES Act began to expire in July 2020, including a
+moratorium on evictions (July 25, 2020), expanded unemployment benefits (July
+31, 2020), and a moratorium on foreclosures (August
+31, 2020). On August 8, 2020, President Trump issued Executive Order 13945, directing the Department
+of Health and Human
+Services, the Centers for Disease Control and Prevention (“CDC”),
+the Department of Housing and Urban Development, and
+Department of the Treasury to take measures to temporarily halt residential evictions and foreclosures,
+including through temporary
+financial assistance.
+On December 27, 2020, President Trump signed into law an additional $900 billion coronavirus aid package
+as part of the
+Consolidated Appropriations Act, 2021, providing for extensions of
+many of the CARES Act policies and programs as well as additional
+relief. The package provided for, among other things, direct payments to most Americans with a gross income of less
+than $75,000 a
+year, extension of unemployment benefits through March 14, 2021, funding for procurement of vaccines and health providers,
+loans to
+qualified businesses, funding for rental assistance and funding for schools.
+On January 29, 2021, the CDC issued guidance extending
+eviction moratoriums for covered persons through March 31, 2021. The FHFA subsequently extended the foreclosure
+moratorium
+begun under the CARES Act for loans backed by Fannie Mae and Freddie
+Mac and the eviction moratorium for real estate owned by
+Fannie Mae and Freddie Mac until July 31, 2021 and September 30, 2021, respectively. The U.S. Housing and Urban Development
+Department subsequently extended the FHA foreclosure and eviction moratoria
+to July 31, 2021 and September 30, 2021, respectively.
+Despite the expirations of these foreclosure moratoria, a final rule adopted by
+the CFPB on June 28, 2021 effectively prohibited
+servicers from initiating a foreclosure before January 1, 2022 in most instances.
+- 56 -
+On March 11, 2021, President Biden signed into law an additional $1.9 trillion coronavirus aid package as part of the American
+Rescue Plan Act of 2021.
+This law provided for, among other things, direct payments to most Americans with a gross income of less
+than $75,000 a year, expansion of the child tax credit, extension of expanded unemployment benefits through September
+6, 2021,
+funding for procurement of vaccines and health providers, loans to qualified businesses,
+funding for rental and mortgage assistance
+and funding for schools. The expanded federal unemployment benefits expired on September
+6, 2021.
+In January 2019, the Trump administration made statements of its plans to work with Congress
+to overhaul Fannie Mae and
+Freddie Mac and expectations to announce a framework for the development of
+a policy for comprehensive housing finance reform
+soon. On September 30, 2019, the FHFA announced that Fannie Mae and Freddie Mac were allowed
+to increase their capital buffers
+to $25 billion and $20 billion, respectively, from the prior limit of $3 billion each. This step could ultimately lead to Fannie Mae and
+Freddie Mac being privatized and represents the first concrete step on the road to
+GSE reform.
+On June 30, 2020, the FHFA released
+a proposed rule on a new regulatory framework for the GSEs which seeks to implement
+both a risk-based capital framework and
+minimum leverage capital requirements. The final rule on the new capital framework
+for the GSEs was published in the federal register
+in December 2020.
+On January 14, 2021, the U.S. Treasury and the FHFA executed letter agreements allowing the GSEs to continue
+to retain capital up to their regulatory minimums, including buffers, as prescribed in the December
+rule.
+These letter agreements
+provide, in part, (i) there will be no exit from conservatorship until all
+material litigation is settled and the GSE has common equity Tier 1
+capital of at least 3% of its assets, (ii) the GSEs will comply with
+the FHFA’s
+regulatory capital framework, (iii) higher-risk single-family
+mortgage acquisitions will be restricted to current levels, and (iv) the U.S. Treasury and the FHFA will establish a timeline and process
+for future GSE reform. However, no definitive proposals or legislation have been released or enacted with respect
+to ending the
+conservatorship, unwinding the GSEs, or materially reducing the roles of the GSEs
+in the U.S. mortgage market. On September 14,
+2021, the U.S. Treasury and the FHFA suspended certain policy provisions in the January agreement, including limits on loans
+acquired for cash consideration, multifamily loans, loans with higher risk
+characteristics and second homes and investment properties.
+On September 15, 2021, the FHFA announced a notice of proposed rulemaking for the purpose of amending the December
+rule to,
+among other things, reduce the Tier 1 capital and risk-weight floor requirements.
+In 2017, policymakers announced that LIBOR would be replaced by December
+31, 2021. The directive was spurred by the fact that
+banks are uncomfortable contributing to the LIBOR panel given the shortage of underlying
+transactions on which to base levels and the
+liability associated with submitting an unfounded level. However, the ICE Benchmark Administration, in its
+capacity as administrator of
+USD LIBOR, has announced that it intends to extend publication of USD LIBOR (other
+than one-week and two-month tenors) by 18
+months to June 2023.
+Notwithstanding this possible extension, a joint statement by key regulatory
+authorities calls on banks to cease
+entering into new contracts that use USD LIBOR as a reference rate by no
+later than December 31, 2021. The ARRC, a steering
+committee comprised of large U.S. financial institutions, has proposed replacing
+USD-LIBOR with a new SOFR, a rate based on U.S.
+repo trading. Many banks believe that it may take four to five years to complete
+the transition to SOFR, despite the December 31, 2021
+deadline. We will monitor the emergence of SOFR carefully as it appears likely to become
+the new benchmark for hedges and a range
+of interest rate investments. At this time, however, no consensus exists as to what rate or rates may become accepted alternatives
+to
+LIBOR.
+On December 7, 2021, the CFPB released a final rule that amends Regulation
+Z, which implemented the Truth in Lending Act,
+aimed at addressing cessation of LIBOR for both closed-end (e.g., home mortgage) and
+open-end (e.g., home equity line of credit)
+products. The rule, which mostly becomes effective in April of 2022, establishes requirements
+for the selection of replacement indices
+for existing LIBOR-linked consumer loans. Although the rule does not mandate
+the use of SOFR as the alternative rate, it identifies
+SOFR as a comparable rate for closed-end products and states that for open-end products,
+the CFPB has determined that ARRC’s
+recommended spread-adjusted indices based on SOFR for consumer products
+to replace the one-month, three-month, or six-month
+USD LIBOR index “have historical fluctuations that are substantially similar to
+those of the LIBOR indices that they are intended to
+replace.” The CFPB reserved judgment, however, on a SOFR-based spread-adjusted replacement
+index to replace the one-year USD
+LIBOR until it obtained additional information.
+- 57 -
+On December 8, 2021, the House of Representatives passed the Adjustable Interest
+Rate (LIBOR) Act of 2021 (H.R. 4616) (the
+“LIBOR Act”), which provides for a statutory replacement benchmark rate for contracts
+that use LIBOR as a benchmark and do not
+contain any fallback mechanism independent of LIBOR. Pursuant to the LIBOR
+Act, SOFR becomes the new benchmark rate by
+operation of law for any such contract. The LIBOR Act establishes a safe harbor from
+litigation for claims arising out of or related to the
+use of SOFR as the recommended benchmark replacement. The LIBOR Act
+makes clear that it should not be construed to disfavor the
+use of any benchmark on a prospective basis.
+The LIBOR Act also attempts to forestall challenges that it is impairing
+contracts. It provides that the discontinuance of LIBOR and
+the automatic statutory transition to a replacement rate neither impairs or
+affects the rights of a party to receive payment under such
+contracts, nor allows a party to discharge their performance obligations or to declare
+a breach of contract. It amends the Trust
+Indenture Act of 1939 to state that the “the right of any holder of any
+indenture security to receive payment of the principal of and
+interest on such indenture security shall not be deemed to be impaired or
+affected” by application of the LIBOR Act to any indenture
+security.
+On December 9, 2021, the United States Senate referred the LIBOR Act to
+the Committee on Banking, Housing and Urban
+Affairs.
+One-week and two-month U.S. dollar LIBOR rates phased out on December
+31, 2021, but other U.S. dollar tenors may continue
+until June 30, 2023. We will monitor the emergence of SOFR carefully as it appears likely
+to become the new benchmark for hedges
+and a range of interest rate investments. At this time, however, no consensus exists as to what rate or rates may
+become accepted
+alternatives to LIBOR.
+Effective January 1, 2021, Fannie Mae, in alignment with Freddie Mac, extended the timeframe for
+its delinquent loan buyout
+policy for Single-Family Uniform Mortgage-Backed Securities (UMBS)
+and Mortgage-Backed Securities (MBS) from four consecutively
+missed monthly payments to twenty-four consecutively missed monthly payments (i.e.,
+24 months past due). This new timeframe
+applied to outstanding single-family pools and newly issued single-family pools and was
+first reflected when January 2021 factors were
+released on the fourth business day in February 2021.
+For Agency MBS investors, when a delinquent loan is bought out of
+a pool of mortgage loans, the removal of the loan from the
+pool is the same as a total prepayment of the loan.
+The respective GSEs anticipated, however, that delinquent loans will be
+repurchased in most cases before the 24-month deadline under one of the following
+exceptions listed below.
+•
+a loan that is paid in full, or where the related lien is released and/or the
+note debt is satisfied or forgiven;
+•
+a loan repurchased by a seller/servicer under applicable selling and
+servicing requirements;
+•
+a loan entering a permanent modification, which generally requires it to
+be removed from the MBS. During any modification
+trial period, the loan will remain in the MBS until the trial period ends;
+•
+a loan subject to a short sale or deed-in-lieu of foreclosure; or
+•
+a loan referred to foreclosure.
+Because of these exceptions, the GSEs believe based on prevailing assumptions
+and market conditions this change will have only
+a marginal impact on prepayment speeds, in aggregate. Cohort level impacts
+may vary. For example, more than half of loans referred
+to foreclosure are historically referred within six months of delinquency. The degree to which speeds are affected depends on
+delinquency levels, borrower response, and referral to foreclosure timelines.
+The scope and nature of the actions the U.S. government or the Fed will
+ultimately undertake are unknown and will continue to
+evolve.
+Effect on Us
+Regulatory developments, movements in interest rates and prepayment rates affect us in
+many ways, including the following:
+- 58 -
+Effects on our Assets
+A change in or elimination of the guarantee structure of Agency MBS may increase our
+costs (if, for example, guarantee fees
+increase) or require us to change our investment strategy altogether. For example, the elimination of the guarantee structure
+of Agency
+MBS may cause us to change our investment strategy to focus on non-Agency
+MBS, which in turn would require us to significantly
+increase our monitoring of the credit risks of our investments in addition to interest rate
+and prepayment risks.
+Lower long-term interest rates can affect the value of our Agency MBS in a number of ways.
+If prepayment rates are relatively low
+(due, in part, to the refinancing problems described above), lower long-term
+interest rates can increase the value of higher-coupon
+Agency MBS. This is because investors typically place a premium on assets with yields
+that are higher than market yields. Although
+lower long-term interest rates may increase asset values in our portfolio, we
+may not be able to invest new funds in similarly-yielding
+assets.
+If prepayment levels increase, the value of our Agency MBS affected by such prepayments
+may decline. This is because a
+principal prepayment accelerates the effective term of an Agency MBS, which would shorten the period
+during which an investor would
+receive above-market returns (assuming the yield on the prepaid asset is higher than
+market yields). Also, prepayment proceeds may
+not be able to be reinvested in similar-yielding assets. Agency MBS backed
+by mortgages with high interest rates are more susceptible
+to prepayment risk because holders of those mortgages are most likely to refinance
+to a lower rate. IOs and IIOs, however, may be the
+types of Agency MBS most sensitive to increased prepayment rates. Because the
+holder of an IO or IIO receives no principal
+payments, the values of IOs and IIOs are entirely dependent on the existence of a principal
+balance on the underlying mortgages. If the
+principal balance is eliminated due to prepayment, IOs and IIOs essentially become
+worthless. Although increased prepayment rates
+can negatively affect the value of our IOs and IIOs, they have the opposite effect on POs. Because POs
+act like zero-coupon bonds,
+meaning they are purchased at a discount to their par value and have an effective
+interest rate based on the discount and the term of
+the underlying loan, an increase in prepayment rates would reduce the effective term
+of our POs and accelerate the yields earned on
+those assets, which would increase our net income.
+Higher long-term rates can also affect the value of our Agency MBS.
+As long-term rates rise, rates available to borrowers also
+rise.
+This tends to cause prepayment activity to slow and extend the expected
+average life of mortgage cash flows.
+As the expected
+average life of the mortgage cash flows increases, coupled with higher discount
+rates, the value of Agency MBS declines.
+Some of the
+instruments the Company may use to hedge our Agency MBS assets, such as interest rate
+futures, swaps and swaptions, are stable
+average life instruments.
+This means that to the extent we use such instruments to hedge
+our Agency MBS assets, our hedges may
+not adequately protect us from price declines, and therefore may negatively impact our
+book value.
+It is for this reason we use interest
+only securities in our portfolio. As interest rates rise, the expected average
+life of these securities increases, causing generally positive
+price movements as the number and size of the cash flows increase the
+longer the underlying mortgages remain outstanding. This
+makes interest only securities desirable hedge instruments for pass-through
+Agency MBS.
+As described above, the Agency MBS market began to experience severe
+dislocations in mid-March 2020 as a result of the
+economic, health and market turmoil brought about by COVID-19. On March 23, 2020,
+the Fed announced that it would purchase
+Agency MBS and U.S. Treasuries in the amounts needed to support smooth market functioning, which largely
+stabilized the Agency
+MBS market. However, in November 2021 the Fed announced a tapering of these purchases. The Fed’s reduction of these purchases
+could negatively impact our investment portfolio. Further, the moratoriums on foreclosures and evictions
+described above will likely
+delay potential defaults on loans that would otherwise be bought out of Agency MBS
+pools as described above.
+Depending on the
+ultimate resolution of the foreclosures
+or evictions, when and if they occur, these loans may be removed from the pool into which they
+were securitized. If this were to occur, it would have the effect of delaying a prepayment on the Company’s securities until such time.
+As the majority of the Company’s Agency MBS assets were acquired at a premium to
+par, this will tend to increase the realized yield on
+the asset in question.
+- 59 -
+Because we base our investment decisions on risk management principles
+rather than anticipated movements in interest rates, in
+a volatile interest rate environment we may allocate more capital to structured Agency
+MBS with shorter durations. We believe these
+securities have a lower sensitivity to changes in long-term interest rates than other
+asset classes. We may attempt to mitigate our
+exposure to changes in long-term interest rates by investing in IOs and
+IIOs, which typically have different sensitivities to changes in
+long-term interest rates than PT MBS, particularly PT MBS backed
+by fixed-rate mortgages.
+Effects on our borrowing costs
+We leverage our PT MBS portfolio and a portion of our structured Agency MBS with principal balances
+through the use of short-
+term repurchase agreement transactions. The interest rates on our debt
+are determined by the short term interest rate markets. An
+increase in the Fed Funds rate or LIBOR would increase our borrowing costs, which
+could affect our interest rate spread if there is no
+corresponding increase in the interest we earn on our assets. This would be
+most prevalent with respect to our Agency MBS backed by
+fixed rate mortgage loans because the interest rate on a fixed-rate mortgage loan does not
+change even though market rates may
+change.
+In order to protect our net interest margin against increases in short-term interest rates, we
+may enter into interest rate swaps,
+which economically convert our floating-rate repurchase
+agreement debt to fixed-rate debt, or utilize other hedging instruments
+such as
+Eurodollar, Fed Funds and T-Note futures contracts or interest rate swaptions.
+Summary
+The country and economy currently appear to be on the verge of recovering from
+the COVID-19 pandemic.
+While the virus
+continues to infect people and often results in hospitalizations and deaths,
+the effect on economic activity has decreased materially.
+Coupled with unprecedented monetary and fiscal policy, the most significant combination of the two since the Second World War, the
+fading effect of the pandemic is clearly causing the economy to run at unsustainable
+levels, resulting in very tight labor markets and the
+highest levels of inflation in decades. The Fed has begun the rapid transformation
+from accommodation to constraint and will likely
+begin raising short-term rates at their meeting in March of 2022.
+Currently the market anticipates the Fed will continue to raise rates
+throughout the year and into 2023, possibly by as much as 200 basis points.
+Further, they are rapidly winding down their asset
+purchases and will likely stop asset purchases altogether - possibly by the
+end of the year - as they begin the process of “normalizing”
+the size of their balance sheet.
+Market experts estimate the Fed may have to shrink the size of their balance
+sheet by up to $4 trillion,
+and over a much shorter time frame than the last time they did so over the
+period from 2017 to 2019.
+The effect of these developments
+on the level of interest rates has been a material flattening of the U.S.
+Treasury curve, whereby short and intermediate term rates rise
+and more so relative to longer maturity U.S. Treasuries.
+For the Company, this means our funding costs are likely to rise materially over the course of 2022 and possibly into 2023.
+While
+longer-term maturities have not risen as much as short and intermediate term rates,
+they have risen and refinancing and purchase
+activity in the residential housing market is likely to slow. If this occurs, it would slow premium amortization on the Company’s Agency
+MBS securities. The net effect of higher funding costs and slower premium amortization
+will depend on the extent and timing of both,
+but may reduce the Company’s net interest income, and perhaps materially
+so, over this period.
+These developments will likely impact Orchid Island Capital in a similar manner. In particular, Orchid’s ability to grow or maintain its
+capital base at its current level could be adversely affected if these developments continue to
+pressure Orchid’s MBS assets.
+This
+could slow the growth of or reduce the Company’s advisory service revenues and could reduce
+the amount of dividends paid by Orchid
+on its common stock.
+All of the above developments are being impacted by the geo-political events in
+the Ukraine which may cause the Fed to alter their
+monetary policy decisions over the course of 2022 and beyond.
+However, given the level of inflation and strength of the economy at
+- 60 -
+present, such developments would likely have to be severe in order to meaningfully
+impact the path of monetary policy over the near-
+term.
+Critical Accounting Estimates
+Our consolidated
+financial
+statements
+are prepared
+in accordance
+with GAAP. GAAP requires
+our management
+to make some
+complex and
+subjective
+decisions
+and assessments.
+Our most
+critical accounting
+policies
+involve decisions
+and assessments
+which could
+significantly
+affect reported
+assets, liabilities,
+revenues
+and expenses.
+Management
+has identified
+the following
+as its most
+critical
+accounting
+estimates:
+Mortgage-Backed
+Securities
+Our investments
+in MBS are
+accounted
+for at fair
+value. We acquire
+our MBS
+for the purpose
+of generating
+long-term
+returns,
+and not
+for the short-term
+investment
+of idle capital.
+As discussed
+in Note 14
+to the financial
+statements,
+our MBS
+are valued
+using Level
+2 valuations,
+and such valuations
+currently
+are
+determined
+based on
+independent
+pricing sources
+and/or third
+party broker
+quotes, when
+available.
+Because the
+price estimates
+may vary,
+management
+must make
+certain
+judgments
+and assumptions
+about the
+appropriate
+price to
+use to calculate
+the fair
+values. Alternatively,
+the Company
+could opt
+to have the
+value of all
+of our positions
+in MBS determined
+by either
+an independent
+third-party
+or do so
+internally.
+In managing
+our portfolio,
+the Company
+employs the
+following
+four-step
+process at
+each valuation
+date to determine
+the fair
+value of our
+MBS.
+●
+First, the
+Company obtains
+fair values
+from subscription-based
+independent
+pricing services.
+●
+Second, the
+Company requests
+non-binding
+quotes from
+one to four
+broker-dealers
+for certain
+MBS in order
+to validate
+the
+values obtained
+by the pricing
+service. The
+Company requests
+these quotes
+from broker-dealers
+that actively
+trade and
+make
+markets in
+the respective
+asset class
+for which
+the quote
+is requested.
+●
+Third, the
+Company reviews
+the values
+obtained
+by the pricing
+source and
+the broker-dealers
+for consistency
+across similar
+assets.
+●
+Finally, if the
+data from
+the pricing
+services and
+broker-dealers
+is not homogenous
+or if the
+data obtained
+is inconsistent
+with
+management’s
+market observations,
+the Company
+makes a judgment
+to determine
+which price
+appears the
+most consistent
+with
+observed
+prices from
+similar assets
+and selects
+that price.
+To the extent management
+believes
+that none
+of the prices
+are
+consistent
+with observed
+prices for
+similar assets,
+which is typically
+the case for
+only an immaterial
+portion of
+our portfolio
+each
+quarter, the
+Company may
+use a third
+price that
+is consistent
+with observed
+prices for
+identical
+or similar
+assets. In
+the case
+of
+assets that
+have quoted
+prices such
+as Agency
+MBS backed
+by fixed-rate
+mortgages,
+the Company
+generally
+uses the quoted
+or
+observed
+market price.
+For assets
+such as Agency
+MBS backed
+by ARMs or
+structured
+Agency MBS,
+the Company
+may
+determine
+the price
+based on
+the yield
+or spread
+that is identical
+to an observed
+transaction
+or a similar
+asset for
+which a dealer
+mark or subscription-based
+price has
+been obtained.
+Management
+believes its
+pricing methodology
+to be consistent
+with the
+definition
+of fair value
+described
+in Financial
+Accounting
+Standards
+Board (the
+“FASB”) Accounting
+Standards
+Codification
+(“ASC”)
+Topic 820, Fair Value Measurements.
+Income Recognition
+All of our
+MBS are
+either PT
+MBS or structured
+MBS, including
+CMOs, IOs,
+IIOs or POs.
+Income on
+PT MBS,
+POs and CMOs
+that
+contain principal
+balances
+is based
+on the stated
+interest
+rate of the
+security. As a
+result of
+accounting
+for our MBS
+under the fair
+value
+option, premium
+or discount
+present
+at the date
+of purchase
+is not amortized.
+For IOs,
+IIOs and
+CMOs that
+do not contain
+principal
+balances,
+income is
+accrued based
+on the carrying
+value and
+the effective
+yield. As
+cash is received
+it is first
+applied to
+accrued interest
+and then
+to reduce
+the carrying
+value of the
+security. At each
+reporting
+date, the
+effective yield
+is adjusted
+prospectively
+from the
+reporting
+- 61 -
+period based
+on the new
+estimate of
+prepayments,
+current interest
+rates and
+current asset
+prices. The
+new effective
+yield is
+calculated
+based on
+the carrying
+value at the
+end of the
+previous reporting
+period, the
+new prepayment
+estimates
+and the contractual
+terms of
+the
+security. Changes
+in fair value
+of all of
+our MBS
+during the
+period are
+recorded in
+earnings
+and reported
+as unrealized
+gains or
+losses on
+mortgage-backed
+securities
+in the accompanying
+consolidated
+statements
+of operations.
+For IIO securities,
+effective yield
+and income
+recognition
+calculations
+also take
+into account
+the index
+value applicable
+to the security.
+Income Taxes
+Income
+taxes are
+provided
+for using
+the
+asset
+and liability
+method.
+Deferred tax
+assets and
+liabilities
+represent the
+differences
+between the financial
+statement and income
+tax bases of assets
+and liabilities using enacted
+tax rates. The measurement
+of net deferred
+tax assets
+is adjusted
+by a
+valuation allowance
+if, based
+on the
+Company’s evaluation,
+it is
+more likely
+than not
+that they
+will not
+be
+realized. A
+majority of
+the Company’s
+net deferred
+tax assets,
+which consist
+primarily of
+NOLs, are
+expected to
+be realized
+over an
+extended number
+of years.
+Management’s conclusion
+is supported
+by taxable
+income projections
+which include
+forecasts of
+management
+fees, Orchid
+dividends and
+net interest
+income, and
+the subsequent
+reinvestment of
+those amounts
+into the
+MBS portfolio.
+However,
+management reassesses its valuation allowance conclusions whenever there is a material
+change in taxable income projections.
+Capital Expenditures
+At December 31, 2021, we had no material commitments for capital expenditures.

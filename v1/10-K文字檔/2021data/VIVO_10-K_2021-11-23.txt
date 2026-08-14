@@ -1,0 +1,247 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+Refer to “Note About Forward-Looking Statements” following the Index in front of this Form 10-K
+and Item 1A “Risk Factors” on pages 11 through 24 of this Annual Report.
+In the discussion that follows, all dollar amounts are in thousands (both tables and text), except per share data.
+The purpose of Management’s Discussion and Analysis is to provide an understanding of the financial condition, changes in consolidated financial condition and results of operations of Meridian Bioscience, Inc. (“Meridian”, the “Company”, “We”). This discussion should be read in conjunction with the Consolidated Financial Statements and notes. It should be noted that the terms revenue and/or revenues are utilized throughout the Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) to indicate net revenue and/or net revenues. In addition, throughout the MD&A, we refer to certain product tradenames and trademarks, which are protected under applicable intellectual property laws and are our property. Solely for convenience, these tradenames and trademarks are referred to without the ®
+or ™
+symbols, but such references are not intended to indicate in any way that we will not assert, to the fullest extent of the law, our rights to these tradenames and trademarks.
+- 26 -
+Our reportable segments are Diagnostics and Life Science. The Diagnostics segment consists of manufacturing operations for infectious disease products in Cincinnati, Ohio; Quebec City, Canada; and Modi’in, Israel; and manufacturing operations for blood chemistry products in Billerica, Massachusetts (near Boston). These diagnostic test products are sold and distributed in the countries comprising North and Latin America (the “Americas”); Europe, Middle East and Africa (“EMEA”); and other countries outside of the Americas and EMEA (rest of the world, or “ROW”). The Life Science segment consists of manufacturing operations in Memphis, Tennessee; Boca Raton, Florida; London, England; and Luckenwalde, Germany, and the sale and distribution of bulk antigens, antibodies, immunoassay blocking reagents, specialized Polymerase Chain Reaction (“PCR”) master mixes, isothermal mixes, enzymes, nucleotides, and bioresearch reagents domestically and abroad, including a sales and business development facility, with outsourced distribution capabilities, in Beijing, China to further pursue growing revenue opportunities in Asia.
+Recent Developments
+Impact of COVID-19
+Pandemic
+During the latter half of fiscal 2020 and throughout fiscal 2021, the COVID-19
+pandemic has had both positive and negative effects on our business.
+Our Life Science segment’s products have been well positioned to respond to in vitro device (“IVD”) manufacturers’ needs for reagents for molecular, rapid antigen and serology tests. Consequently, our Life Science segment grew its revenues over 100% in fiscal 2020 and delivered record operating income and margin, demonstrating what this segment could achieve at a much larger scale. This higher-than-historical level of growth in the Life Science segment continued in fiscal 2021, with full year revenues, operating income and operating margin increasing 43%, 67% and nine percentage points, respectively.
+Our Diagnostics segment, on the other hand, has been negatively impacted by the health systems’ increased focus on COVID-19
+testing over traditional infectious disease testing. The impacts of the COVID-19
+pandemic are most dramatically evident in the 34% year-over-year decline in revenues from respiratory illness assays in fiscal 2021, following flat year-over-year revenue levels being experienced in fiscal 2020.
+Despite these recent COVID-19
+pandemic related trends, due to the many uncertainties surrounding the COVID-19
+pandemic, we can provide no assurances with respect to our views of the longevity, severity or impacts to our consolidated financial condition of the ongoing COVID-19
+pandemic.
+Employee Safety
+While our employee base in the U.S. has returned to working on-site
+at our facilities, we have recently implemented a hybrid work-from-home program for certain personnel, and we continue to utilize a work-from-home process as needed on a site-by-site
+basis outside the U.S. for those employees whose on-site
+presence has been deemed to be non-essential.
+We have also implemented enhanced cleaning and sanitizing procedures and provided additional personal hygiene supplies at all our sites. We have implemented policies for employees to adhere to Centers for Disease Control and Prevention (“CDC”) guidelines on social distancing, and similar guidelines by authorities outside the U.S. To date, we have been able to manufacture and distribute products globally, and all our sites have continued to operate with little, if any, impact on shipments to customers to date. As the COVID-19
+pandemic continues, along with continuing governmental restrictions which vary by locale and jurisdiction, there is an increased risk of employee absenteeism, which could materially impact our operations at one or more sites. To date, the steps we have taken, including our work-from-home processes, have not materially impacted the Company’s financial reporting systems, internal controls over financial reporting or disclosure controls.
+Supply Chains
+Supply chains supporting our products have generally remained intact, providing access to sufficient inventory of the key materials needed for manufacturing. To date, delays and allocations for raw materials have been limited and have not had a material impact on our results of operations. From time to time, we identify alternative suppliers to address the risk of a current supplier’s inability to deliver materials in volumes sufficient to meet our manufacturing needs; or we may choose to purchase certain materials in bulk volumes where we have supply chain scarcity concerns. It remains possible that we may experience some sort of interruption to our supply chains, and such an interruption could materially affect our ability to timely manufacture and distribute our products and unfavorably impact our results of operations. See LeadCare product recall discussion beginning on page 29.
+- 27 -
+Product Development and Clinical Trials
+Our Diagnostics segment’s new product development programs are progressing at a slower pace than normal, in part, as the prevalence of certain infectious diseases has been much lower than normal during the COVID-19
+pandemic. For example, the relative lack of a respiratory illness season in 2020-2021 has significantly impacted the availability of influenza samples, thereby affecting the pace of development of our molecular respiratory panel for the Revogene system. These matters continue to impact our timing for filing applications for product clearances with the U.S. Food and Drug Administration (“FDA”), as well as related timing of FDA clearances of such filings. Additionally, the ongoing COVID-19
+pandemic has slowed and could continue to slow down our efforts to expand our product portfolio through acquisitions and distribution opportunities, impacting the speed with which we are able to bring additional products to market.
+Product Demand
+Our Life Science segment manufactures, markets and sells a number of molecular and immunological reagents to IVD customers, including those who are making both molecular and immunoassay COVID-19
+tests. Since late in the second quarter of fiscal 2020, we have generally experienced unprecedented demand for certain of our molecular reagents (e.g., ribonucleic acid (“RNA”) master mixes and nucleotides), including a resurgence in such demand during our fiscal 2021 fourth quarter. While we are expecting a continuation of this trend for the foreseeable future, this expectation will certainly be impacted by infection rates and the responses to such levels of infection varying by country based on their individual COVID-19
+case statistics, infection rates and vaccine programs. We believe that our reagent products for COVID-19
+have applications in many alternative, non-hospital-based
+channels (e.g., airports, schools, etc.). Our products are used in over 200 regulatory agency approved COVID-19
+related assays around the world. COVID-19
+related reagent revenues totaled approximately $111,900 and $71,500 for the years ended September 30, 2021 and 2020, respectively.
+Our Diagnostics segment manufactures, markets and sells a number of molecular, immunoassay, blood chemistry and urea breath tests
+for various infectious diseases and blood-lead levels. Sales volumes for a number of these assays have been adversely affected by the COVID-19
+pandemic over the past year and half, as such assays are often used in non-critical
+care settings. However, we have seen indications of a return to more normal pre-pandemic levels, including with respect to our respiratory illness assays during the fourth quarter of 2021. The COVID-19
+pandemic also has depressed instrument orders and placements for our BreathID, Curian and Revogene platforms. Order activity for our Revogene platform was affected by the delay in obtaining emergency use authorization (“EUA”) for our SARS-CoV-2
+assay, as we believe customers have taken a “wait and see” approach throughout our entire EUA application process, which culminated in receipt of the EUA on November 9, 2021. This follows our voluntary withdrawal of the application on February 23, 2021 and its resubmission on June 25, 2021. Despite the situation encountered with our EUA application for the SARS-CoV-2
+assay, we have proceeded with the process of increasing our capacity to produce these tests, as well as other tests on the Revogene system, at our facilities in Quebec and Cincinnati. Specifically, we are: (i) adding a second production line at our Quebec manufacturing facility; and (ii) installing two additional production lines in a leased facility near our corporate headquarters in Cincinnati. With approximately $10,900 expended in the year ended September 30, 2021, it is expected that these expansion efforts will be completed during calendar 2021 at a total cost of approximately $19,600, which is expected to be partially offset by the $5,500 National Institutes of Health Rapid Acceleration of Diagnostics (“RADx”) initiative grant entered into on February 1, 2021, $1,500 of which had been received as of September 30, 2021 (see Note 14, “National Institutes of Health Contracts”
+of the Consolidated Financial Statements).
+Impact of Brexit
+The United Kingdom (“U.K.”) left the European Union (“EU”) on January 31, 2020. While all EU rules and laws continued to apply to the U.K. through the transition period, which ended December 31, 2020, the U.K. and the EU reached a free trade agreement on December 24, 2020, which was ratified on April 28, 2021 and went into effect on May 1, 2021. The agreement includes regulatory and customs cooperation mechanisms, as well as provisions supporting open and fair competition. Under the trade agreement, the U.K. is free to set its own trade policy and can negotiate with other countries that do not currently have free trade deals with the EU. Although the full impact of the trade agreement is uncertain, it is possible that the recent changes to the trading relationship between the U.K. and the EU due to the trade agreement could result in increased cost of goods imported into and exported from the U.K., which may decrease the profitability of our operations. Additional currency volatility could drive a weaker British pound, which could increase the cost of goods imported into the U.K. and may decrease the profitability of our operations. A weaker British pound versus the U.S. dollar may also cause local currency results of our operations to be translated into fewer U.S. dollars during a reporting period. Given the lack of comparable precedent, it is unclear what financial, trade, regulatory and legal implications the trade agreement will have on our business; however, Brexit and its related effects could potentially have an adverse impact on our consolidated financial position and results of operations.
+- 28 -
+The U.K.’s withdrawal from the EU could also adversely impact the operations of our vendors and of our other partners. Our management team has identified areas of concern and implemented strategies to help mitigate these concerns. It is possible that these strategies may not be adequate to mitigate any adverse impacts of Brexit, and that these impacts could further adversely affect our business and results of operations.
+Lead Testing Matters
+On September 1, 2021, the Company’s wholly owned subsidiary Magellan announced the expansion of the Class I voluntary recall of its LeadCare test kits for the detection of lead in blood, which it had initiated in May 2021 after identifying an ongoing issue with the testing controls included in certain manufactured lots of its LeadCare test kits. As a result of the identified issue, impacted test kit lots could potentially underestimate blood lead levels when processing patient blood samples. The Company is working closely with the FDA in its execution of the recall activities, which include Magellan notifying customers and distributors affected by the recall and providing instructions for the return of impacted test kits. Although evaluation of the recall and the related notification process is ongoing, approximately $5,100 has been estimated and accrued as of September 30, 2021, to cover the currently anticipated costs of the recall. In total, approximately $5,600 of recall-related expense has been included within the Consolidated Statement of Operations for the year ended September 30, 2021. Anticipated recall-related costs primarily include product replacement and/or refund costs, mailing/shipping costs, attorneys’ fees and other miscellaneous costs.
+As described in Item 3. “Legal Proceedings”, on April 17, 2018, the Company’s wholly owned subsidiary Magellan received a subpoena from the U.S. Department of Justice (“DOJ”) regarding its LeadCare product line. The subpoena outlines documents to be produced, and the Company is cooperating with the DOJ in this matter. The Company maintains rigorous policies and procedures to promote compliance with applicable regulatory agencies and requirements and is working with the DOJ to promptly respond to the subpoena, including responding to additional information requests that have followed receipt of the subpoena in April 2018. The Company has executed tolling agreements to extend the statute of limitations. In March and April 2021, DOJ issued two subpoenas calling for witnesses to testify before a federal grand jury related to this matter. The March 2021 subpoena was issued to a former employee of Magellan, and the April subpoena was issued to a current employee of Magellan. In September and October 2021, DOJ issued additional subpoenas to individuals seeking testimony and documents in connection with its ongoing investigation. The Company cannot predict when the investigation will be resolved, the outcome of the investigation, or its potential impact on the Company. Approximately $2,803, $2,035 and $1,585 of expense for attorneys’ fees related to this matter is included within the Consolidated Statements of Operations for the years ended September 30, 2021, 2020 and 2019, respectively.
+Magellan submitted 510(k) applications in December 2018, seeking to reinstate venous blood sample-types for its LeadCare II, LeadCare Plus and LeadCare Ultra testing systems. In the second fiscal quarter of 2019 the FDA informed Magellan that each of these 510(k) applications had been put on Additional Information hold. On July 15, 2019, we provided responses to the FDA’s requests for Additional Information. These 510(k) applications have since expired and are no longer under FDA review. Further, while Magellan’s LeadCare testing systems remain cleared for marketing by the FDA and permitted for use with capillary blood samples, the FDA advised that it has commissioned a third-party study of the Company’s LeadCare testing systems using both venous and capillary blood samples. According to the FDA, the results of the field study will be used in conjunction with other information to determine whether further action by the FDA or the CDC is necessary to protect the public health. The Company intends to fully cooperate with the FDA or CDC on any follow-up
+based on the third-party study.
+During October 2019, the FDA performed a follow-up
+inspection of Magellan’s manufacturing facility. The FDA issued five Form FDA 483 observations. On March 18, 2020, we participated in a regulatory meeting with the FDA at the FDA’s request to further discuss the Form FDA 483 observations and our remediation efforts. Since the inspection, we have submitted a number of written responses to the FDA regarding the five Form FDA 483 observations issued in the October 2019 inspection, and have worked diligently to execute a remediation plan. During October 2020, the FDA issued Establishment Inspection Reports which closed out the inspections from June 2017 and October 2019 under 21 C.F.R.20.64(d)(3).
+- 29 -
+During June 2021, the FDA performed an inspection of Magellan’s manufacturing facility. As a result of this inspection, the FDA issued one Form 483 observation. On August 3, 2021, FDA sent Magellan a close-out
+letter for the Warning Letter that FDA issued to Magellan on October 23, 2017. FDA’s close-out
+letter notified Magellan that FDA has completed an evaluation of Magellan’s corrective actions in response to FDA’s Warning Letter, and based on FDA’s evaluation, Magellan has addressed the issues identified in the Warning Letter. FDA’s close-out
+letter also stated that future FDA inspections of Magellan and regulatory activities will further assess the adequacy and sustainability of Magellan’s corrections.
+Results of Operations
+Fourth Quarter
+Net earnings for the fourth quarter of fiscal 2021 increased 3% to $6,657, or $0.15 per diluted share, from net earnings for the fourth quarter of fiscal 2020 of $6,493, or $0.15 per diluted share. The level of net earnings in the fourth quarter of fiscal 2021 was adversely affected by approximately $5,600, or $0.10 per diluted share, of LeadCare product recall expenses and a $4,596, or $0.08 per diluted share, upward adjustment to the fair value of acquisition consideration related to GenePOC, offsetting the impact of higher revenues and resulting gross profit. Other key events occurring in the fourth quarter of 2021 include the acquisition of the BreathTek business in July 2021 and the August 2021 settlement of the contingent acquisition consideration related to GenePOC (see Note 4, “Business Combinations”
+and Note 3, “Fair Value Measurements”
+of the Consolidated Financial Statements, respectively).
+Consolidated revenues for the fourth quarter of fiscal 2021 totaled $76,204, an increase of 19% compared to the fourth quarter of fiscal 2020 (17% increase on a constant-currency basis).
+Revenues from the Diagnostics segment for the fourth quarter of fiscal 2021 increased 15% to $34,301, compared to the fourth quarter of fiscal 2020 (also 15% increase on a constant-currency basis), comprised of a 22% increase in molecular assay products and a 14% increase in non-molecular
+assay products. The fourth quarter of fiscal 2021 represents the second consecutive quarter our Diagnostics segment has shown positive revenue growth versus the same quarter of fiscal 2020, an achievement not experienced since the early stages of the COVID-19
+pandemic. Our Diagnostics segment generated an $11,900 operating loss for the fourth quarter of fiscal 2021, a $7,700 larger operating loss than the fourth quarter of fiscal 2020, largely due to the aforementioned $5,600 of LeadCare product recall expenses and $4,596 upward adjustment to the fair value of acquisition consideration related to GenePOC.
+With a 16% increase in revenues from molecular reagents products and a 33% increase in revenues from immunological reagents products, revenues for our Life Science segment increased 22% to $41,903 during the fourth quarter of fiscal 2021 compared to the fourth quarter of fiscal 2020. On a constant-currency basis, revenues for the Life Science segment increased 19%. Life Science segment revenues reflect an increase in demand from diagnostic test manufacturers for the reagents utilized in COVID-19
+related tests. Revenue from sales of our core Life Science segment products (other than COVID-19
+related contributions) experienced growth of approximately $1,800, or 11%, compared to the fourth quarter of fiscal 2020. This growth resulted in large part from obtaining business from COVID-19
+customers who are now using our products for other non-COVID-19
+related purposes, as well as a rebound in volumes of core immunological products. Our Life Science segment generated $23,200 of operating income, or a margin of 55%, for the fourth quarter of fiscal 2021, an increase of $6,000 from the fourth quarter of fiscal 2020.
+Fiscal Year
+Net earnings for fiscal 2021 increased 55% to $71,407, or $1.62 per diluted share, from net earnings for fiscal 2020 of $46,186, or $1.07 per diluted share. The level of net earnings in fiscal 2021 was affected predominantly by the strong increase in revenues and operating income in our Life Science segment, stemming primarily from the demand for reagents used in COVID-19
+related tests.
+Consolidated revenues for fiscal 2021 totaled $317,896, an increase of 25% compared to fiscal 2020 (22% increase on a constant-currency basis).
+- 30 -
+Diagnostics segment revenues increased 5% to $127,760 in fiscal 2021 (4% increase on a constant-currency basis), comprised of a 13% decrease in molecular assay products and a 10% increase in non-molecular
+assay products. Our Diagnostics segment generated an $8,100 operating loss in fiscal 2021, compared to operating income of $3,900 in fiscal 2020. This year over year decline in operating income resulted primarily from the combined effects of: (i) lower gross profit margins, as detailed in the “Gross Profit” section below; (ii) the aforementioned $5,600 of LeadCare product recall expenses in fiscal 2021; and (iii) the $6,293 decrease in the fair value of contingent acquisition consideration related to GenePOC included in fiscal 2020 and settled in fiscal 2021 (as discussed above). These factors contributing to the decline in operating margin were partially offset by the decrease in acquisition costs resulting from the Exalenz transaction in fiscal 2020.
+With a 66% increase in revenues from molecular reagents products and a 10% increase in revenues from immunological reagents products, revenues for our Life Science segment increased 43% to $190,136 during fiscal 2021 compared to fiscal 2020. On a constant-currency basis, revenues for the Life Science segment increased 38%. Fiscal 2021 Life Science segment revenues reflect a significant increase in sales of key molecular components such as RNA master mixes and deoxyribonucleotide triphosphates (“dNTPs”) to diagnostic test manufacturers for use in COVID-19
+related PCR tests. Also contributing to the increased revenue levels during fiscal 2021 were sales of monoclonal antibody pairs used in COVID-19
+antigen tests and, to a lesser degree, recombinant antigens used in COVID-19
+antibody tests. In addition, revenue from sales of our core Life Science segment products (other than COVID-19
+contributions) experienced growth of approximately $16,100, or approximately 26%. This growth resulted in large part from obtaining business from COVID-19
+customers who are now using our products for other non-COVID-19
+related purposes, as well as a rebound in volumes in core immunological products. Our Life Science segment generated $115,300 of operating income in fiscal 2021, an increase of $46,400 over fiscal 2020.
+REVENUE OVERVIEW
+Below are analyses of the Company’s revenue, by reportable segment, provided for each of the following:
+- By Geographic Region
+- By Product Platform/Type
+Revenue Overview - By Reportable Segment & Geographic Region
+Revenues for the Diagnostics segment, in the normal course of business, may be affected from year to year by buying patterns of major distributors and reference laboratories, seasonality and severity of seasonal diseases and outbreaks (including the COVID-19
+pandemic), and foreign currency exchange rates. Revenues for the Life Science segment, in the normal course of business, may be affected from year to year by buying patterns of major IVD manufacturing customers, severity of disease outbreaks (including the COVID-19
+pandemic), and foreign currency exchange rates. The COVID-19
+pandemic contributed $111,900 of new revenue for our Life Science segment during fiscal 2021, and $71,500 during fiscal 2020.
+See Note 2, “Revenue Recognition”
+of the Consolidated Financial Statements for detailed revenue disaggregation information.
+Following is a discussion of the revenues generated by these product platforms/types and/or disease states:
+Diagnostics Segment Products
+The Diagnostics segment’s overall 5% growth in revenue during fiscal 2021 primarily results from the combined effects of the following:
+•
+Volume growth in the gastrointestinal product family benefitting from: (i) a full year of revenue from sales of BreathID instruments and tests, acquired in the April 2020 Exalenz acquisition; and (ii) two months of revenue from sales of the BreathTek product, acquired in late July 2021;
+•
+Ongoing pricing pressure on our H. pylori
+stool antigen tests, which contributed approximately $2,700 of unfavorable price variance from customers in the U.S.;
+- 31 -
+•
+Volume declines from sales of respiratory illness products, comprised of tests for Group A Strep, Mycoplasma pneumonia, Influenza, and Pertussis, among others, reflecting the decreased focus on testing for these illnesses throughout the COVID-19
+pandemic; and
+•
+Volume declines from sales of blood chemistry products due to the ongoing LeadCare product recall, which commenced in May 2021 ($2,136 decrease in revenue in fiscal 2021, compared to fiscal 2020).
+Life Science Segment Products
+The tripling of the Life Science segment’s revenues since fiscal 2019, including the 43% year-over-year growth in revenue during fiscal 2021, primarily results from the combined effects of the following:
+•
+Unprecedented demand for the Life Science segment’s products by diagnostic test manufacturers for use in COVID-19
+related tests, resulting in COVID-19-related
+reagent revenues totaling $111,900 in fiscal 2021, compared to approximately $71,500 in fiscal 2020; and
+•
+Revenue from core Life Science products increasing approximately 26% over fiscal 2020, due in large part from obtaining business from COVID-19
+customers who are now using our products for non-COVID-19
+related purposes, as well as a rebound in volumes of core immunological product sales.
+Foreign Currency
+Fluctuations in foreign currency exchange rates in fiscal 2021 compared to fiscal 2020 had an approximate $9,200 favorable impact on fiscal 2021 consolidated net revenues; $1,300 within the Diagnostics segment and $7,900 within the Life Science segment. This compares to year-to-year
+currency exchange rates having an approximate $1,250 unfavorable impact on consolidated net revenues in fiscal 2020; $150 within the Diagnostics segment and $1,100 within the Life Science segment.
+Significant Customers
+Revenue concentrations related to certain customers within our Diagnostics and Life Science segments are set forth in Note 15, “Reportable Segments and Major Concentration Data”
+of the Consolidated Financial Statements.
+Gross Profit:
+Overall gross profit margins during both fiscal 2021 and 2020 have been favorably impacted by greater contributions from our Life Science segment’s molecular reagent products, which are some of our highest margin products. During fiscal 2021, which included the peak of the COVID-19
+pandemic, approximately 41% of consolidated revenues related to sales of molecular reagent products, compared to approximately 31% during fiscal 2020.
+Overall gross profit margins in fiscal 2021 have been unfavorably impacted in our Diagnostics segment by production capacity ramp-up
+and scrap costs in our Quebec facility, where Revogene instruments and test devices are made, inventory reserve provisions for short-dated products stemming from depressed sales levels during the COVID-19
+pandemic, and the impacts of the previously discussed LeadCare product recall (see “Lead Testing Matters” above).
+- 32 -
+Operating Expenses -
+Segment Detail and Corporate
+(1) Diagnostics segment fiscal 2020 reflects negative expense amount due to $6,293 adjustment to fair value of the acquisition consideration related to GenePOC.
+(2) LeadCare product recall expenses are included within the Diagnostics segment’s fiscal 2021 Other expenses.
+Operating expenses in fiscal 2021 increased $13,190 to $108,114. Major components of this increase were as follows:
+•
+$5,600 in LeadCare product recall expenses within our Diagnostics segment;
+•
+$1,400 increase in purchase accounting amortization within our Diagnostics segment, stemming from both the Exalenz and BreathTek acquisitions;
+•
+a full year of administrative expenses within our Diagnostics segment related to the Exalenz acquisition completed in April 2020;
+•
+higher commercial insurance costs for Directors & Officers and Property & Casualty coverages within Corporate; and
+•
+the adjustment to the fair value of the acquisition consideration as the result of the settlement in fiscal 2021 resulting in a $5,384 year-over-year increase in expense within our Diagnostics segment.
+Offsetting these increases was lower spending for acquisition transaction costs, stemming from the Exalenz acquisition.
+Operating Income
+Operating income increased 52% in fiscal 2021, following an 88% increase in fiscal 2020, as a result of the factors discussed above.
+Other Expense
+Other expense, net primarily includes interest costs on the Company’s long-term borrowings and contingent grant obligations due to the Israel Innovation Authority, currency gains and losses, and in fiscal 2021, grant income under the RADx initiative (see Note 14, “National Institutes of Health Contracts”
+of the Consolidated Financial Statements). Interest costs related to the revolving credit facility with a commercial bank were $1,420 and $2,464 in fiscal 2021 and 2020, respectively. The varying levels of interest costs on the revolving credit facility reflect the following approximate levels of average debt outstanding, as detailed in Note 10, “Bank Credit Arrangements”
+of the Consolidated Financial Statements: (i) fiscal 2021 - $56,505; and (ii) fiscal 2020 - $74,560.
+- 33 -
+Income Taxes
+The effective rate for income taxes was 21% and 22% for fiscal 2021 and 2020, respectively. The decline in effective tax rates relates primarily to the increasing allocations of taxable income in certain foreign jurisdictions with tax rates lower than the U.S., particularly the U.K. Additionally, the fiscal 2021 effective rate was favorably impacted by a larger-than-prior-year effect of current year restricted share unit lapses and stock option exercises occurring on dates when the share price of Company stock was significantly higher than the share price on the date such equity awards were granted.
+Impact of Inflation
+To the extent feasible, we have consistently followed the practice of reviewing our prices to consider the impacts of inflation on salaries and fringe benefits for employees and the cost of purchased materials and services. Inflation and changing prices did not have a material adverse impact on our gross margin, revenues or operating income in fiscal 2021 or 2020.
+Liquidity and Capital Resources
+:
+Liquidity
+Our cash flow and financing requirements are determined by analyses of operating and capital spending budgets and debt service. We have historically maintained a credit facility to augment working capital requirements and to respond quickly to acquisition opportunities.
+We have an investment policy that guides the holdings of our investment portfolio, which presently consists of bank savings accounts and institutional money market mutual funds. Our objectives in managing the investment portfolio are to: (i) preserve capital; (ii) provide sufficient liquidity to meet working capital requirements and fund strategic objectives such as acquisitions; and (iii) capture a market rate of return commensurate with market conditions and our policy’s investment eligibility criteria. As we look forward, we will continue to manage the holdings of our investment portfolio with preservation of capital being the primary objective.
+We intend to continue to fund our working capital requirements from current cash flows from operating activities and cash on hand, and such sources are anticipated to be adequate to fund working capital requirements, capital expenditures and debt service during the next twelve months. However, if needed, we also have an additional source of liquidity through the amount remaining available on our $160,000 bank revolving credit facility, which totaled $100,000 as of September 30, 2021. The Company also maintains a shelf registration statement on file with the SEC. Our liquidity needs may change if overall economic conditions worsen and/or liquidity and credit within the financial markets tightens for an extended period, and such conditions impact the collectability of our customer accounts receivable, impact credit terms with our vendors, or disrupt the supply of raw materials and services.
+As of September 30, 2021, our cash and cash equivalents balance was $49,771 or $3,743 lower than at the end of fiscal 2020. This modest decrease primarily results from generating $66,865 of cash flow from operations, an increase of 39% over fiscal 2020, and the use of cash to fund certain rather significant uses of cash during the year, most notably the following:
+(i) payment of consideration holdback and contingent consideration settlement related to the fiscal 2019 GenePOC acquisition ($25,000);
+(ii) acquisition of the BreathTek business, net of $1,000 holdback ($18,585);
+(iii) funding of capital expenditures, which were primarily comprised of manufacturing expansion related to Revogene, net of $1,500 RADx grant monies received ($16,812); and
+(iv) net paydown on revolving credit facility and Israeli government grant obligations ($8,824 and $5,297, respectively).
+Considering these factors, our balance of net debt (defined as bank debt, government grant obligations and total contingent obligations related to acquisitions, net of cash and cash equivalents on-hand)
+decreased approximately $36,300 to approximately $17,000 at September 30, 2021.
+- 34 -
+Capital Resources
+As described in Note 10, “Bank Credit Arrangements”
+of the Consolidated Financial Statements, the Company maintains a $160,000 credit facility, which is secured by substantially all our U.S. assets and includes certain restrictive financial covenants. This credit facility was amended in October 2021 to increase its capacity to $200,000 and extend its term to October 25, 2026. The Company also maintains a shelf registration statement on file with the SEC.
+Our capital expenditures totaled $18,312 for fiscal 2021, $1,500 of which was offset by receipts under the RADx grant initiative (see Note 14, “National Institutes of Health Contracts”
+of the Consolidated Financial Statements), and which largely related to expanding manufacturing capacity. During fiscal 2022 our capital expenditures are estimated to total approximately $15,000, comprised of approximately $12,000 and $3,000 in the Diagnostics and Life Science segments, respectively. Included within the Diagnostics segment capital expenditures estimate is approximately $8,700 related to completion of the manufacturing capacity scale-up
+and automation initiatives for Revogene assay production. Such expenditures may be funded with cash and cash equivalents on hand, operating cash flows, and/or availability under the $200,000 revolving credit facility discussed above. In addition, a portion of the Diagnostics segment expansion may be funded by $4,000 remaining under the previously noted RADx grant entered into on February 1, 2021 (see Note 14, “National Institutes of Health Contracts”
+of the Consolidated Financial Statements).
+Contractual Obligations
+:
+In addition to the obligations related to the above-noted revolving credit facility and the contingent government grant obligations detailed in Note 10, “Bank Credit Arrangements”
+and Note 13, “Contingent Obligations and Non-Current
+Liabilities”
+of the Consolidated Financial Statements, respectively, the Company’s contractual obligations and their related due dates were as follows as of September 30, 2021:
+(1) Meridian and its subsidiaries are parties to a number of operating lease agreements around the world, the majority of which relate to office and warehouse building leases expiring at various dates.
+(2) Purchase obligations relate primarily to outstanding purchase orders for machinery and equipment, inventory, including instruments, service items, and research and development activities. These contractual commitments are not in excess of expected production requirements over the next twelve months.
+(3) Pursuant to the purchase agreement related to the July 31, 2021 acquisition of the BreathTek business, Meridian’s remaining consideration to be paid totals $1,000 and is comprised solely of a purchase price holdback.
+(4) Due to inherent uncertainties in the timing of settlement of tax positions, we are unable to estimate the timing of the effective settlement of these obligations.
+- 35 -
+Other Commitments and Off-Balance
+Sheet Arrangements
+:
+License Agreements
+Meridian has entered into various license agreements that require payment of royalties based on a specified percentage of sales of related products, with such percentages generally ranging from approximately 3% to 10%. During fiscal 2021, royalty expense totaled approximately $5,200, with 25% and 75% of such expense relating to our Diagnostics and Life Science segments, respectively. This compares to a total of approximately $1,850 of royalty expense in fiscal 2020, with 81% and 19% relating to our Diagnostics and Life Science segments, respectively. Meridian expects that payments under these agreements will amount to approximately $3,000 in fiscal 2022.
+Off-Balance
+Sheet Arrangements
+We utilize foreign currency exchange forward contracts to limit exposure to volatility in foreign currency gains and losses related to financial assets denominated in other than the holding subsidiary’s functional currency. These contracts are generally settled within a 30-day
+time frame and are not formally designated or accounted for as accounting hedges. We also utilize interest rate swap agreements to limit exposure to volatility in the LIBOR interest rate in connection with the revolving credit facility. The interest rate swap agreements are designated and accounted for as accounting hedges (see Note 3, “Fair Value Measurements”
+of the Consolidated Financial Statements). Aside from these instruments, we do not utilize special-purpose financing vehicles or have any material undisclosed off-balance
+sheet arrangements.
+Market Risk Exposure
+:
+Foreign Currency Risk
+We have market risk exposure related to foreign currency transactions from our operations outside the U.S., as well as certain suppliers to our domestic businesses located outside the U.S. The foreign currencies where we have market risk exposure are the Australian dollar, British pound, Canadian dollar, Chinese yuan, Euro, and New Israeli shekel. Assessing foreign currency exposures is a component of our overall ongoing risk management process, with such currency risks managed as we deem appropriate.
+Concentration of Customers/Products Risk
+Our Diagnostics segment’s revenues from sales to three customers were 33% and 32% of the Diagnostics segment’s total net revenues for fiscal 2021 and 2020, respectively, or 13% and 15% of consolidated net revenues in each fiscal year. Additionally, our three major Diagnostics segment product families - gastrointestinal, respiratory illnesses and blood chemistry - accounted for 80% and 82% of our Diagnostics segment’s net revenues during fiscal 2021 and 2020, respectively, or 32% and 39% of each year’s consolidated net revenues.
+Our Life Science segment’s revenues from sales to three diagnostics manufacturing customers were 22% and 30% of the Life Science segment’s total net revenues for fiscal 2021 and 2020, respectively or 13% and 16% of consolidated net revenues in each fiscal year. Additionally, sales of products related to COVID-19
+accounted for 59% and 54% of our Life Science segment’s net revenues during fiscal 2021 and 2020, respectively, or 35% and 28% of each year’s consolidated net revenues.
+Critical Accounting Policies
+:
+The Consolidated Financial Statements included in this Form 10-K
+have been prepared in accordance with U.S. generally accepted accounting principles. Such accounting principles require management to make judgments about estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses and related disclosures. Listed below are the accounting policies management believes to be critical to understanding the Consolidated Financial Statements, along with reference to location of the policy discussion within the Consolidated Financial Statements. The listed policies are considered critical due to the fact that application of such polices requires the use of significant estimates and assumptions, and the carrying values of related assets and liabilities are material.
+- 36 -
+Accounting Policy
+Location
+Within Consolidated
+Financial Statements
+Examples of Key Estimate Assumptions
+Goodwill
+Note 1(h)
+Discounted cash flow assumptions (e.g., long-term growth rates, discount rate, EBITDA)
+Revenue Recognition
+Note 1(i)
+Distributor price adjustments and fee accruals
+Income Taxes
+Note 1(l) and Note 11
+Uncertain positions and state apportionment factors
+Recent Accounting Pronouncements
+:
+A description of accounting pronouncements recently adopted by the Company, as well as accounting pronouncements issued but not yet adopted by the Company, are set forth in Note 1(s), “Summary of Significant Accounting Policies- Recent Accounting Pronouncements”
+of the Consolidated Financial Statements.

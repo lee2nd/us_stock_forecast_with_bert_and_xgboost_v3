@@ -1,0 +1,890 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+CERTAIN STATEMENTS IN THIS ANNUAL REPORT ON FORM 10-K ARE FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED, AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. THESE FORWARD-LOOKING STATEMENTS MAY CONTAIN THE WORDS “BELIEVE,” “ANTICIPATE,” “EXPECT,” “PLAN,” “PREDICT,” “ESTIMATE,” “PROJECT,” “WILL BE,” “WILL CONTINUE,” “WILL LIKELY RESULT,” OR OTHER SIMILAR WORDS AND PHRASES.
+RISKS AND UNCERTAINTIES EXIST THAT MAY CAUSE RESULTS TO DIFFER MATERIALLY FROM THOSE SET FORTH IN THESE FORWARD-LOOKING STATEMENTS. FACTORS THAT COULD CAUSE THE ANTICIPATED RESULTS TO DIFFER FROM THOSE DESCRIBED IN THE FORWARD-LOOKING STATEMENTS INCLUDE THE FACTORS SET FORTH ON PAGES 3-4 OF THIS ANNUAL REPORT. THE FORWARD-LOOKING STATEMENTS SPEAK ONLY AS OF THE DATE THEY ARE MADE. THE COMPANY DOES NOT UNDERTAKE TO UPDATE FORWARD-LOOKING STATEMENTS TO REFLECT CIRCUMSTANCES OR EVENTS THAT OCCUR AFTER THE DATE THE FORWARD-LOOKING STATEMENTS ARE MADE.
+This Management’s Discussion and Analysis contains the financial measure adjusted debt to capitalization ratio that is not presented in accordance with generally accepted accounting principles (“GAAP”), as it excludes the effect of secured financings payable. The Company is presenting this non-GAAP financial measure because it provides the Company’s management and readers of this Annual Report on Form 10-K with additional insight into the financial leverage of the Company. The Company does not intend for this non-GAAP financial measure to be a substitute for any GAAP financial information. In this Annual Report on Form 10-K, this non-GAAP financial measure has been presented with, and reconciled to, the most directly comparable GAAP financial measure. Readers of this Annual Report on Form 10-K should use this non-GAAP financial measure only in conjunction with the comparable GAAP financial measure.
+Principles of Consolidation
+The consolidated financial statements have been prepared in accordance with GAAP and reflect the consolidated operations of the Company. The consolidated financial statements include the accounts of First American Financial Corporation and all controlled subsidiaries. All significant intercompany transactions and balances have been eliminated. Equity investments in which the Company exercises significant influence but does not control and is not the primary beneficiary, are accounted for using the equity method of accounting. Equity investments in which the Company does not exercise significant influence over the investee and without readily determinable fair values are accounted for at cost, less impairment, and are adjusted up or down for any observable price changes.
+Reportable Segments
+The Company consists of the following reportable segments and a corporate function:
+•
+The Company’s title insurance and services segment issues title insurance policies on residential and commercial property in the United States and offers similar or related products and services internationally. This segment also provides closing and/or escrow services; accommodates tax-deferred exchanges of real estate; provides products, services and solutions designed to mitigate risk or otherwise facilitate real estate transactions; maintains, manages and provides access to title plant data and records; provides appraisals and other valuation-related products and services; provides lien release, document custodial and default-related products and services; and provides warehouse lending services and banking, trust and wealth management services. The Company, through its principal title insurance subsidiary and such subsidiary’s affiliates, transacts its title insurance business through a network of direct operations and agents. Through this network, the Company issues policies in the 49 states that permit the issuance of title insurance policies, the District of Columbia and certain United States territories. The Company also offers title insurance, closing services and similar or related products and services, either directly or through third parties in other countries, including Canada, the United Kingdom, Australia, South Korea and various other established and emerging markets.
+•
+The Company’s specialty insurance segment issues property and casualty insurance policies and sells home warranty products. The property and casualty insurance business provides insurance coverage to residential homeowners and renters for liability losses and typical hazards such as fire, theft, vandalism and other types of property damage. This business is licensed to issue policies in all 50 states and the District of Columbia. The majority of policy liability is in the western United States, including approximately 59% in California. The home warranty business provides residential service contracts that cover residential systems, such as heating and air conditioning systems, and certain appliances against failures that occur as the result of normal usage during the coverage period. This business currently operates in 35 states and the District of Columbia.
+In the third quarter of 2020, the Company initiated a plan to sell the property and casualty insurance business. In the fourth quarter of 2020, the Company, as a result of the sale process, determined to pursue a book transfer rather than a sale. In January 2021, the Company entered into book transfer agreements with two third-party insurers, which will provide qualifying agents and customers of the Company an opportunity to transfer their policies. The Company expects the transfers to be completed by the end of the third quarter of 2022. The Company will seek to non-renew policies that are not transferred.
+The corporate function consists primarily of certain financing facilities as well as the corporate services that support the Company’s business operations.
+Critical Accounting Estimates
+The preparation of financial statements in accordance with GAAP requires the application of accounting policies that often involve a significant degree of judgment. The Company’s management considers the accounting policies described below to be the most dependent on the application of estimates and assumptions in preparing the Company’s consolidated financial statements. See Note 1 Basis of Presentation and Significant Accounting Policies to the consolidated financial statements for a more detailed description of the Company’s significant accounting policies.
+Provision for policy losses. The Company provides for title insurance losses through a charge to expense when the related premium revenue is recognized. The amount charged to expense is generally determined by applying a rate (the loss provision rate) to total title insurance premiums and escrow fees. The Company’s management estimates the loss provision rate at the beginning of each year and reassesses the rate quarterly to ensure that the resulting incurred but not reported (“IBNR”) loss reserve and known claims reserve included in the Company’s consolidated balance sheets together reflect management’s best estimate of the total costs required to settle all IBNR and known claims. If the ending IBNR reserve is not considered adequate, an adjustment is recorded.
+The process of assessing the loss provision rate and the resulting IBNR reserve involves an evaluation of the results of an in-house actuarial review. The Company’s in-house actuary performs a reserve analysis utilizing generally accepted actuarial methods that incorporate cumulative historical claims experience and information provided by in-house claims and operations personnel. Current economic and business trends are also reviewed and used in the reserve analysis. These include conditions in the real estate and mortgage markets, changes in residential and commercial real estate values, and changes in the levels of defaults and foreclosures that may affect claims levels and patterns of emergence, as well as any company-specific factors that may be relevant to past and future claims experience. Results from the analysis include, but are not limited to, a range of IBNR reserve estimates and a single point estimate for IBNR as of the balance sheet date.
+For recent policy years at early stages of development (generally the last three years), IBNR is generally estimated using a combination of expected loss rate and multiplicative loss development factor calculations. For more mature policy years, IBNR generally is estimated using multiplicative loss development factor calculations. The expected loss rate method estimates IBNR by applying an expected loss rate to total title insurance premiums and escrow fees and by adjusting for policy year maturity using estimated loss development patterns. Multiplicative loss development factor calculations estimate IBNR by applying factors derived from loss development patterns to losses realized to date. The expected loss rate and loss development patterns are based on historical experience and the relationship of the history to the applicable policy years.
+The Company’s management uses the IBNR point estimate from the in-house actuary’s analysis and other relevant information concerning claims to determine what it considers to be the best estimate of the total amount required for the IBNR reserve.
+The volume and timing of title insurance claims are subject to cyclical influences from both the real estate and mortgage markets. Title policies issued to lenders constitute a large portion of the Company’s title insurance volume. These policies insure lenders against losses on mortgage loans due to title defects in the collateral property. Even if an underlying title defect exists that could result in a claim, often the lender must realize an actual loss, or at least be likely to realize an actual loss, for a title insurance liability to exist. As a result, title insurance claims exposure is sensitive to lenders’ losses on mortgage loans and is affected in turn by external factors that affect mortgage loan losses, particularly macroeconomic factors.
+A general decline in real estate prices can expose lenders to greater risk of losses on mortgage loans, as loan-to-value ratios increase and defaults and foreclosures increase. Title insurance claims exposure for a given policy year is also affected by the quality of mortgage loan underwriting during the corresponding origination year. The Company believes that the sensitivity of claims to external conditions in the real estate and mortgage markets is an inherent feature of title insurance’s business economics that applies broadly to the title insurance industry.
+Title insurance policies are long-duration contracts with the majority of the claims reported to the Company within the first few years following the issuance of the policy. Generally, 70% to 80% of claim amounts become known in the first six years of the policy life, and the majority of IBNR reserves relate to the six most recent policy years. Changes in expected ultimate losses and corresponding loss rates for recent policy years are considered likely and could result in a material adjustment to the IBNR reserves. Based on historical experience, management believes a 50 basis point change to the loss rates for recent policy years, positive or negative, is reasonably likely given the long duration nature of a title insurance policy. In uncertain economic times, such as those currently being experienced as a result of the coronavirus pandemic, an even larger change is more likely. As examples, if the expected ultimate losses for each of the last six policy years increased or decreased by 50 basis points, the resulting impact on the Company’s IBNR reserve would be an increase or decrease, as the case may be, of $134.3 million, and if expected ultimate losses for those same years were to fluctuate by 100 basis points, the resulting impact would be $268.5 million. A material change in expected ultimate losses and corresponding loss rates for older policy years is also possible, particularly for policy years with loss ratios exceeding historical norms. The estimates made by management in determining the appropriate level of IBNR reserves could ultimately prove to be materially different from actual claims experience.
+The reserve for property and casualty insurance losses reflects management’s best estimate of the amount necessary to settle all reported and unreported claims for the ultimate cost of insured losses based upon the facts of each case and the Company’s experience with similar cases. The Company also utilizes the services of an independent actuary as part of its reserve analysis. Because the establishment of appropriate reserves, including reserves for catastrophes, is an inherently uncertain and complex process, the ultimate cost of insured losses may be more or less than the reserve amount. Reserve estimates are regularly analyzed and updated to reflect the most current information available.
+The Company provides for claims losses relating to its home warranty business based on the average cost per claim and historical loss experience as applied to the total of current claims incurred. The average cost per home warranty claim is calculated using the average of the most recent 12 months of claims experience adjusted for estimated future increases in costs.
+A summary of the Company’s loss reserves is as follows:
+(in thousands, except percentages)
+December 31, 2020
+December 31, 2019
+Known title claims
+$
+64,601
+5.5
+%
+$
+83,382
+7.8
+%
+IBNR title claims
+1,025,761
+87.1
+%
+903,994
+85.1
+%
+Total title claims
+1,090,362
+92.6
+%
+987,376
+92.9
+%
+Non-title claims
+87,642
+7.4
+%
+75,668
+7.1
+%
+Total loss reserves
+$
+1,178,004
+100.0
+%
+$
+1,063,044
+100.0
+%
+Activity in the reserve for known title claims is summarized as follows:
+December 31,
+(in thousands)
+Balance at beginning of year
+$
+83,382
+$
+80,306
+$
+83,094
+Provision transferred from IBNR title claims related to:
+Current year
+19,843
+19,783
+17,770
+Prior years
+125,227
+143,372
+147,271
+145,070
+163,155
+165,041
+Payments, net of recoveries, related to:
+Current year
+17,582
+16,297
+14,338
+Prior years
+146,522
+145,910
+151,433
+164,104
+162,207
+165,771
+Other
+2,128
+(2,058
+)
+Balance at end of year
+$
+64,601
+$
+83,382
+$
+80,306
+The provision transferred from IBNR title claims related to current year increased by $0.1 million in 2020 from 2019 and increased by $2.0 million in 2019 from 2018 and payments, net of recoveries, related to current year increased by $1.3 million in 2020 from 2019 and increased by $2.0 million in 2019 from 2018, reflecting variability in claims volumes characteristic of a policy year during its first year of development.
+The provision transferred from IBNR title claims related to prior years decreased by $18.1 million, or 12.7%, in 2020 from 2019 and decreased by $3.9 million, or 2.6%, in 2019 from 2018. Payments, net of recoveries, related to prior years increased by $0.6 million, or 0.4%, in 2020 from 2019 and decreased by $5.5 million, or 3.6%, in 2019 from 2018. Generally, the provision transferred from IBNR title claims and payments are expected to decline with the runoff of older policy years that have higher expected ultimate losses, particularly policy years 2005 through 2008.
+Activity in the reserve for IBNR title claims is summarized as follows:
+December 31,
+(in thousands)
+Balance at beginning of year
+$
+903,994
+$
+877,134
+$
+875,724
+Provision related to:
+Current year
+236,225
+182,450
+173,520
+Prior years
+26,231
+-
+-
+262,456
+182,450
+173,520
+Provision transferred to known title claims related to:
+Current year
+19,843
+19,783
+17,770
+Prior years
+125,227
+143,372
+147,271
+145,070
+163,155
+165,041
+Other
+4,381
+7,565
+(7,069
+)
+Balance at end of year
+$
+1,025,761
+$
+903,994
+$
+877,134
+“Other” activity primarily includes foreign currency translation gains and losses and ceded reinsurance claims.
+The provision for title insurance losses, expressed as a percentage of title insurance premiums and escrow fees, was 5.0% for the year ended December 31, 2020 and 4.0% for the years ended December 31, 2019 and 2018, respectively. The current year rate of 5.0% reflects an ultimate loss rate of 4.5% for the current policy year and a net increase in the loss reserve estimates for prior policy years of 0.5% or $26.2 million.
+The provision related to current year increased by $53.8 million, or 29.5%, in 2020 from 2019 as a result of a higher current year provision of 4.5% in 2020 compared to 4.0% in 2019 and increases in title premiums and escrow fees in 2020 from 2019. The provision related to current year increased by $8.9 million, or 5.1%, in 2019 from 2018, as a result of increases in title premiums and escrow fees in 2019 from 2018.
+For further discussion of title provision recorded in 2020, 2019 and 2018, see Results of Operations, page 42.
+Fair value of investment portfolio. The Company categorizes the fair values of its debt and equity securities using a three-level hierarchy for fair value measurements that distinguishes between market participant assumptions developed based on market data obtained from sources independent of the Company (observable inputs) and the Company’s own assumptions about market participant assumptions developed based on the best information available in the circumstances (unobservable inputs). The hierarchy for inputs used in determining fair value maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that observable inputs be used when available. The hierarchy level assigned to each security in the Company’s investment portfolio was based on management’s assessment of the transparency and reliability of the inputs used to estimate the fair values at the measurement date. See Note 17 Fair Value Measurements to the consolidated financial statements for a more detailed description of the three-level hierarchy and a description for each level.
+The valuation techniques and inputs used to estimate the fair values of the Company’s debt and equity securities are summarized as follows:
+Fair value of debt securities
+The fair values of debt securities were based on the market values obtained from independent pricing services that were evaluated using pricing models that vary by asset class and incorporate available trade, bid and other market information and price quotes from well-established, independent broker-dealers. The independent pricing services monitor market indicators, industry and economic events, and for broker-quoted only securities, obtain quotes from market makers or broker-dealers that they recognize to be market participants. The pricing services utilize the market approach in determining the fair values of the debt securities held by the Company. The Company obtains an understanding of the valuation models and assumptions utilized by the services and has controls in place to determine that the values provided represent fair values. The Company’s validation procedures include comparing prices received from the pricing services to quotes received from other third-party sources for certain securities with market prices that are readily verifiable. If the price comparison results in differences over a predefined threshold, the Company will assess the reasonableness of the changes relative to prior periods given the prevailing market conditions and assess changes in the issuers’ credit worthiness, performance of any underlying collateral and prices of the instrument relative to similar issuances. To date, the Company has not made any material adjustments to the fair value measurements provided by the pricing services.
+Typical inputs and assumptions to pricing models used to value the Company’s debt securities include, but are not limited to, benchmark yields, reported trades, broker-dealer quotes, credit spreads, credit ratings, bond insurance (if applicable), benchmark securities, bids, offers, reference data and industry and economic events. For mortgage-backed securities, inputs and assumptions may also include the structure of issuance, characteristics of the issuer, collateral attributes and prepayment speeds.
+Credit losses on debt securities
+On January 1, 2020, the Company adopted updated accounting guidance that changed the impairment methodology for available-for-sale debt securities. Under the new guidance, when the fair value of an available-for-sale debt security falls below its amortized cost, entities must determine whether the decline in fair value is due to credit-related factors or noncredit-related factors. Declines in fair value that are credit-related are now recorded on the balance sheet through an allowance for credit losses with a corresponding adjustment to earnings and declines that are noncredit-related are recognized through other comprehensive income/loss.
+If the Company intends to sell a debt security in an unrealized loss position or determines that it is more likely than not that the Company will be required to sell a debt security before it recovers its amortized cost basis, the debt security is impaired and it is written down to fair value with all losses recognized in earnings. As of December 31, 2020, the Company did not intend to sell any debt securities in an unrealized loss position and it is not more likely than not that the Company will be required to sell any debt securities before recovery of their amortized cost basis.
+For debt securities in an unrealized loss position for which the Company does not intend to sell the debt security and it is not more likely than not that the Company will be required to sell the debt security, the Company determines whether the loss is due to credit-related factors or noncredit-related factors. For debt securities in an unrealized loss position for which the losses are primarily due to credit-related factors, the Company’s policy is to recognize the entire loss in earnings. For debt securities in an unrealized loss position for which the losses are determined to be the result of both credit-related and noncredit-related factors, the credit loss is determined as the difference between the present value of the cash flows expected to be collected and the amortized cost basis of the debt security. The cash flows expected to be collected are discounted using the effective interest rate (i.e., purchase yield) and for variable rate securities the interest rate is fixed at the rate in effect at the credit loss measurement date.
+Expected future cash flows for debt securities are based on qualitative and quantitative factors specific to each security, including the probability of default and the estimated timing and amount of recovery. The detailed inputs used to project expected future cash flows may be different depending on the nature of the individual debt security.
+The Company recognized impairment losses, net of reversals, of $3.2 million resulting from credit-related factors during 2020. The Company did not recognize any impairment losses related to its debt securities for 2019 and 2018.
+Fair value of equity securities
+The fair values of equity securities, including preferred and common stocks, were based on quoted market prices for identical assets that are readily and regularly available in an active market.
+Litigation and regulatory contingencies. The Company and its subsidiaries are parties to a number of ongoing routine and non-ordinary course legal proceedings. For those lawsuits where the Company has determined that a loss is both probable and reasonably estimable, a liability representing the best estimate of the Company’s financial exposure based on known facts has been recorded. Actual losses may materially differ from the amounts recorded. For a substantial majority of the non-ordinary course lawsuits it is not possible to assess the probability of loss. Most of these non-ordinary course lawsuits are putative class actions which require a plaintiff to satisfy a number of procedural requirements before proceeding to trial. As a result of, among other factors, ambiguities and inconsistencies in the laws applicable to the Company’s business and the uniqueness of the factual issues presented in any given lawsuit, the Company often cannot determine the probability of loss until a court has finally determined that a plaintiff has satisfied applicable procedural requirements. Furthermore, because most of these non-ordinary course lawsuits are putative class actions, it is often impossible to estimate the possible loss or a range of loss, even where the Company has determined that a loss is reasonably possible. In addition, many of the Company’s businesses are regulated by various federal, state, local and foreign governmental agencies and are subject to numerous statutory guidelines. These regulations and statutory guidelines often are complex, inconsistent or ambiguous, which results in additional uncertainty as to the outcome of a given lawsuit-including the amount of damages a plaintiff might be afforded-or makes it difficult to analogize experience in one case or jurisdiction to another case or jurisdiction.
+Business combinations. The Company allocates the fair value of purchase consideration to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. When determining the fair values of assets acquired and liabilities assumed, management makes estimates and assumptions, especially with respect to intangible assets.
+Critical estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows, useful lives and discount rates. Management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, may differ from actual results. Other estimates associated with the accounting for acquisitions may change as additional information becomes available regarding the assets acquired and liabilities assumed.
+Impairment assessment for goodwill. The Company is required to perform an annual goodwill impairment assessment for each reporting unit for which goodwill has been allocated. Those reporting units include title insurance, home warranty and property and casualty insurance. The Company’s trust and other services reporting unit has no allocated goodwill and is, therefore, not assessed for impairment. The Company has elected to perform this annual assessment in the fourth quarter of each fiscal year or sooner if circumstances indicate possible impairment. Based on accounting guidance, the Company has the option to perform a qualitative assessment to determine if the fair value is more likely than not (i.e., a likelihood of greater than 50%) less than the carrying amount as a basis for determining whether it is necessary to perform a quantitative impairment test, or may choose to forego a qualitative assessment and perform a quantitative impairment test. The qualitative factors considered in this assessment may include macroeconomic conditions, industry and market considerations, overall financial performance as well as other relevant events and circumstances as determined by the Company. The Company evaluates the weight of each factor to determine whether it is more likely than not that impairment may exist. If the results of a qualitative assessment indicate the more likely than not threshold was not met, the Company may choose not to perform a quantitative impairment test. If, however, the more likely than not threshold is met, the Company will perform a quantitative test as required and discussed below.
+Management’s quantitative impairment testing compares the fair value of each reporting unit to its carrying amount. The fair value of each reporting unit is determined by using discounted cash flow analysis and, where appropriate, market approach valuations. If the fair value of the reporting unit exceeds its carrying amount, the goodwill is not considered impaired and no additional analysis is required. However, if the carrying amount is greater than the fair value, an impairment charge is recognized for the amount by which the carrying amount exceeds the reporting unit’s fair value, with the loss recognized limited to the total amount of goodwill allocated to that reporting unit.
+The quantitative impairment test for goodwill utilizes a variety of valuation techniques, all of which require the Company to make estimates and judgments. Fair value is determined by employing an expected present value technique, which utilizes expected cash flows and an appropriate discount rate. The use of comparative market multiples (the “market approach”) compares the reporting unit to other comparable companies (if such comparables are present in the marketplace) based on valuation multiples to arrive at a fair value. In assessing the fair value, the Company utilizes the results of the valuations (including the market approach to the extent comparables are available) and considers the range of fair values determined under all methods and the extent to which the fair value exceeds the carrying amount of the reporting unit.
+The valuation of each reporting unit includes the use of assumptions and estimates of many critical factors, including revenue growth rates and operating margins, discount rates and future market conditions, determination of market multiples and the establishment of a control premium, among others. Forecasts of future operations are based, in part, on operating results and the Company’s expectations as to future market conditions. These types of analyses contain uncertainties because they require the Company to make assumptions and to apply judgments to estimate industry economic factors and the profitability of future business strategies. However, if actual results are not consistent with the Company’s estimates and assumptions, the Company may be exposed to future impairment losses that could be material.
+In the third quarter of 2020, the Company initiated a plan to sell its property and casualty insurance business, which triggered a goodwill impairment test for the property and casualty insurance reporting unit. Based on the results of the goodwill impairment test, the Company determined that the fair value of the property and casualty insurance reporting unit was less than its carrying amount. As a result, the Company recorded an impairment loss to goodwill of $34.2 million for 2020. See Note 2 Disposition of the Property and Casualty Insurance Business to the consolidated financial statements for further information on the disposition of the business. For 2019 and 2018, the Company performed quantitative impairment tests and determined that the fair value of its property and casualty insurance reporting unit exceeded the carrying amount and, therefore, no additional analysis was required.
+The Company chose to forego qualitative assessments for its title insurance and home warranty reporting units for 2020 and performed quantitative impairment tests. Based on the results of these tests, the Company determined that the fair values for both reporting units exceeded their carrying amounts and, therefore, no additional analysis was required. The results of the Company’s qualitative assessments in 2019 and 2018 for its title insurance and home warranty reporting units supported the conclusion that their fair values were not more likely than not less than their carrying amounts and, therefore, a quantitative impairment test was not considered necessary. As a result of the Company’s annual goodwill impairment assessments for the title insurance and home warranty reporting units, the Company did not record any goodwill impairment losses for 2020, 2019 or 2018.
+Impairment of property and equipment. Management uses estimated future cash flows (undiscounted and excluding interest) to measure the recoverability of property and equipment whenever events or changes in circumstances indicate that the carrying value may not be fully recoverable. If the undiscounted cash flow analysis indicates that the carrying amount is not recoverable, an impairment loss is recorded for the excess of the carrying amount over its fair value. In connection with the Company’s decision in the third quarter of 2020 to sell the property and casualty insurance business, it recognized impairment losses on its software of $17.6 million for 2020. See Note 2 Disposition of the Property and Casualty Insurance Business to the consolidated financial statements for further information on the disposition of the business. Impairment losses on property and equipment for 2019 primarily related to impairments of $6.0 million on internally developed software. Impairment losses on property and equipment for 2018 were insignificant.
+Impairment of lease assets. Management recognizes an impairment loss when the carrying amount of a lease asset is not recoverable and exceeds its fair value. The carrying amount is considered not recoverable if it exceeds the sum of the undiscounted future cash flows that are directly associated with, and that are expected to arise as a result of, the use and eventual disposition of the lease asset. An impairment loss is measured as the amount by which the carrying amount of a lease asset exceeds its fair value. Impairment losses related to the Company’s commercial real estate may occur if the Company ceased using all, or a portion of, a leased property while a contractual obligation remains. Impairment losses related to commercial real estate leases were $1.0 million and $7.5 million for 2020 and 2019, respectively. Prior to 2019, operating lease commitments were not recognized as assets on the balance sheet. For further information on the Company’s leasing arrangements see Note 1 Basis of Presentation and Significant Accounting Policies and Note 7 Leases to the consolidated financial statements.
+Income taxes. The Company accounts for income taxes under the asset and liability method, whereby deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. The Company evaluates the need to establish a valuation allowance for deferred tax assets based upon the amount of existing temporary differences, the period in which they are expected to be recovered and expected levels of taxable income. A valuation allowance to reduce deferred tax assets is established when it is considered more likely than not that some or all of the deferred tax assets will not be realized.
+The Company recognizes the effect of income tax positions only if sustaining those positions is considered more likely than not. Changes in recognition or measurement of uncertain tax positions are reflected in the period in which a change in judgment occurs. The Company recognizes interest and penalties, if any, related to uncertain tax positions in income tax expense.
+Recently Adopted Accounting Pronouncements:
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued updated guidance intended to reduce potential diversity in practice in accounting for the costs of implementing cloud computing arrangements (i.e., hosting arrangements) that are service contracts. The updated guidance aligns the requirements for capitalizing implementation costs for these arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019. The adoption of this guidance on a prospective basis, effective January 1, 2020, did not have a material impact on the Company’s consolidated financial statements.
+In August 2018, the FASB issued updated guidance as part of its disclosure framework project intended to improve the effectiveness of disclosures in the notes to the financial statements. The updated guidance eliminates, adds and modifies certain disclosure requirements related to fair value measurements. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019. Except for the disclosure requirements, the adoption of this guidance, effective January 1, 2020, did not have a material impact on the Company’s consolidated financial statements.
+In January 2017, the FASB issued updated guidance intended to simplify how an entity tests goodwill for impairment by eliminating Step 2 from the goodwill impairment test. Under the updated guidance, an entity will perform its goodwill impairment test by comparing the fair value of a reporting unit with its carrying amount and will recognize an impairment loss for the amount by which the carrying amount exceeds the reporting unit’s fair value, with the loss recognized limited to the total amount of goodwill allocated to that reporting unit. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019. The adoption of this guidance, effective January 1, 2020, did not have a material impact on the Company’s consolidated financial statements.
+In June 2016, the FASB issued updated guidance intended to provide financial statement users with more decision-useful information about the expected credit losses on financial instruments and other commitments to extend credit held by a reporting entity at each reporting date. The updated guidance replaces the current incurred loss impairment methodology with a methodology that reflects expected credit losses and requires the consideration of a broader range of reasonable and supportable information to inform credit loss estimates. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019. The adoption of this guidance on a modified-retrospective basis, effective January 1, 2020, did not have a material impact, except for the disclosure requirements, on the Company’s consolidated financial statements. See Note 1 Basis of Presentation and Significant Accounting Policies, Note 4 Debt and Equity Securities and Note 5 Allowance for Credit Losses - Accounts Receivable to the consolidated financial statements for further information on the Company’s credit losses.
+Pending Accounting Pronouncements:
+In December 2019, the FASB issued updated guidance intended to simplify and improve the accounting for income taxes. The updated guidance eliminates certain exceptions and clarifies and amends certain areas of the guidance. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2020, with early adoption permitted. The Company does not expect the adoption of this guidance to have a material impact on its consolidated financial statements.
+Results of Operations
+Overview
+A substantial portion of the revenues for the Company’s title insurance and services segment results from the sale and refinancing of residential and commercial real estate. In the Company’s specialty insurance segment, revenues associated with the initial year of coverage in both the home warranty and property and casualty operations are impacted by volatility in residential purchase transactions. Traditionally, the greatest volume of real estate activity, particularly residential purchase activity, has occurred in the spring and summer months. However, changes in interest rates, as well as other changes in general economic conditions in the United States and abroad, can cause fluctuations in the traditional pattern of real estate activity.
+The Company’s total revenues for 2020 were $7.1 billion, which reflected an increase of $884.6 million, or 14.3%, when compared with $6.2 billion for 2019. This increase was primarily attributable to increases in direct premiums and escrow fees of $328.3 million, or 12.3%, agent premiums of $386.3 million, or 16.3%, and information and other revenue of $225.5 million, or 28.6%, offset by a decline in investment income of $94.1 million, or 29.8%. The Company’s total revenues for 2020 also included $105.0 million of net realized investment gains compared to $66.4 million for the prior year. The increase in direct premiums and escrow fees attributable to the title insurance and services segment was $301.9 million, or 13.8%. Direct premiums and escrow fees in the title insurance and services segment from domestic residential refinance and residential purchase transactions increased $340.5 million, or 113.2%, and $98.2 million, or 10.4%, respectively, in 2020 when compared to 2019. Direct premiums and escrow fees in the title insurance and services segment from commercial transactions decreased $128.9 million, or 16.8%, when compared to 2019.
+According to the Mortgage Bankers Association’s January 20, 2021 Mortgage Finance Forecast (the “MBA Forecast”), residential mortgage originations in the United States (based on the total dollar value of the transactions) increased 58.6% in 2020 when compared with 2019. According to the MBA Forecast, the dollar amount of purchase originations increased 16.2% and refinance originations increased 109.0%. This volume of domestic residential mortgage origination activity contributed to increases in direct premiums and escrow fees for the Company’s direct title operations of 10.4% from domestic residential purchase transactions and 113.2% from domestic refinance transactions in 2020 when compared to 2019.
+During 2020, the level of domestic title orders opened per day by the Company’s direct title operations increased 34.0% when compared to 2019. Residential refinance opened orders per day increased by 103.1%, residential purchase opened orders per day increased by 4.2%, and commercial opened orders per day decreased 9.1% in 2020 when compared to 2019.
+In the third quarter of 2020, the Company initiated a plan to sell its property and casualty insurance business. As a result of this decision, the Company remeasured the assets and liabilities of its property and casualty insurance business at estimated fair value, less costs to sell, and recorded impairment losses to goodwill, other intangible assets, property and equipment and other assets totaling $54.9 million in 2020. The impairment losses are included in impairments on disposal of business on the consolidated statements of income and in the operating results of the specialty insurance segment. In the fourth quarter of 2020, the Company, as a result of the sale process, determined to pursue a book transfer rather than a sale. In January 2021, the Company entered into book transfer agreements with two third-party insurers, which will provide qualifying agents and customers of the Company an opportunity to transfer their policies. The Company expects the transfers to be completed by the end of the third quarter of 2022. The Company will seek to non-renew policies that are not transferred.
+The Company is increasingly utilizing innovative technologies, processes and techniques to speed the delivery of its products, increase efficiency, improve quality, improve the customer experience and decrease risk. These efforts include streamlining the closing process by converting certain manual processes into automated ones, in an endeavor to improve the customer experience by simplifying and reducing the time it takes to close a transaction, reducing risk and improving communication. The Company increasingly is employing advanced technologies to automate various processes, including various processes related to the building, maintaining and updating of title plants and other data assets, as well as the search and examination of information in connection with the issuance of title insurance policies. As a result of the reduction in interest rates in connection with the coronavirus pandemic, the Company has experienced a significant increase in refinance orders. To facilitate the processing of these orders, the Company has expanded the use of certain of these advanced technologies. While many of these initiatives are also designed to decrease risk, they present risks of their own. The degree to which these innovative efforts will be successful, and their ultimate impact on the Company’s results of operations, is uncertain.
+In addition to the Company’s innovative activities, other participants in the real estate industry are seeking to innovate in ways that could impact the Company’s businesses. These participants include certain of the Company’s sources of business, competitors and ultimate customers. Innovations by these participants may change the demand for the Company’s products and services, the manner in which the Company’s products and services are ordered or fulfilled and the revenue or profitability derived from the products and services. The Company has made and will likely continue to make high-risk, illiquid investments in some of these participants, typically during their early- and growth-stages. If any of these companies do not succeed, the Company could lose and/or be required to impair all or part of its investment in the unsuccessful company. While the risk of failure or impairment for these investments is greater during periods of economic uncertainty, such as that currently being experienced in the United States, the Company is aware of certain circumstances involving one or more of these investments and currently expects that within the next several quarters it will realize a gain on one or more of these investments and those gain(s), either individually or in the aggregate, could be material to the Company’s financial results in any particular period. Whether the Company realizes such future gain(s), and the amount and, consequently, the materiality of such gain(s), is dependent upon a number of factors in addition to the condition of the general economy, including the general availability of capital, the performance of and volatility in the public markets, changes in the condition of the real estate industry, changes in the competitive environment for such participants and changes in the operational and financial performance of such participants. These investments could also facilitate efforts that ultimately disrupt the Company’s business or enable competitors. Accordingly, the Company’s efforts to anticipate and participate in these transformations could require significant additional investment and management attention and may not succeed. Subject to the foregoing, the ultimate degree to which these and other innovations in the real estate industry will impact the Company’s business and results of operations is uncertain.
+Additionally, the Company continues to monitor developments in its regulatory environment. Federal officials are discussing various potential changes to laws and regulations that could impact the Company’s businesses, including the reform of government-sponsored enterprises such as the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) and data privacy regulations, among others. Changes in these areas, and more generally in the regulatory environment in which the Company and its customers operate, could impact the volume of mortgage originations in the United States and the Company’s competitive position and results of operations.
+Coronavirus Pandemic Update
+The coronavirus pandemic and responses to it have created significant volatility, uncertainty and disruption in the broader economy. The extent to which the coronavirus pandemic impacts the Company’s business, operations and financial results will depend on numerous factors that the Company may not be able to accurately predict, including: the duration and scope of the pandemic and restrictions and responses to it; governmental, business and individual actions that have been and continue to be taken in response to the pandemic; the ongoing impact of the pandemic on economic activity and actions taken in response, including the efficacy of governmental relief efforts; the availability and efficacy of vaccines; the effect on participants in real estate transactions and the demand for the Company’s products and services, including as a result of higher unemployment, business closures and economic uncertainty; and the Company’s ability to sell and provide its services and solutions, including as a result of illness, travel restrictions, governmental closure orders and partial or full closures of business and government offices.
+The Company’s residential purchase business experienced a decline in April 2020 with purchase orders opened by the Company’s direct title operations down significantly compared to April 2019. Government responses to the pandemic, however, resulted in low mortgage interest rates that stimulated residential refinance activity and improved housing affordability, leading to an elevated number of closed orders for both residential refinance and purchase transactions later in 2020. The Company expects this elevated level of activity to continue well into 2021.
+The Company’s commercial business experienced a more persistent decline in order volumes beginning in April 2020, however, in the fourth quarter activity returned to historical levels with the recovery varying by asset class.
+Title Insurance and Services
+2020 vs. 2019
+2019 vs. 2018
+$ Change
+% Change
+$ Change
+% Change
+(in thousands, except percentages)
+Revenues
+Direct premiums and escrow fees
+$
+2,489,992
+$
+2,188,056
+$
+2,052,951
+$
+301,936
+13.8
+$
+135,105
+6.6
+Agent premiums
+2,759,455
+2,373,140
+2,284,906
+386,315
+16.3
+88,234
+3.9
+Information and other
+1,000,805
+776,124
+770,725
+224,681
+28.9
+5,399
+0.7
+Net investment income
+199,228
+282,910
+223,318
+(83,682
+)
+(29.6
+)
+59,592
+26.7
+Net realized investment
+gains (losses)
+86,194
+55,722
+(49,119
+)
+30,472
+54.7
+104,841
+213.4
+6,535,674
+5,675,952
+5,282,781
+859,722
+15.1
+393,171
+7.4
+Expenses
+Personnel costs
+1,834,832
+1,701,742
+1,671,846
+133,090
+7.8
+29,896
+1.8
+Premiums retained by agents
+2,184,420
+1,874,266
+1,799,836
+310,154
+16.5
+74,430
+4.1
+Other operating expenses
+999,701
+805,480
+793,364
+194,221
+24.1
+12,116
+1.5
+Provision for policy losses and
+other claims
+262,456
+182,450
+173,520
+80,006
+43.9
+8,930
+5.1
+Depreciation and amortization
+141,292
+121,643
+119,053
+19,649
+16.2
+2,590
+2.2
+Premium taxes
+69,256
+62,938
+62,646
+6,318
+10.0
+0.5
+Interest
+18,211
+15,220
+7,513
+2,991
+19.7
+7,707
+102.6
+5,510,168
+4,763,739
+4,627,778
+746,429
+15.7
+135,961
+2.9
+Income before income taxes
+$
+1,025,506
+$
+912,213
+$
+655,003
+$
+113,293
+12.4
+$
+257,210
+39.3
+Margins
+15.7
+%
+16.1
+%
+12.4
+%
+(0.4
+)%
+(2.5
+)
+3.7
+%
+29.8
+Direct premiums and escrow fees increased $301.9 million, or 13.8%, in 2020 from 2019 and $135.1 million, or 6.6%, in 2019 from 2018. The increase in direct premiums and escrow fees in 2020 from 2019 was primarily due to increases in the number of domestic title orders closed by the Company’s direct title operations, partially offset by decreases in the average domestic revenues per order closed. The increase in direct premiums and escrow fees in 2019 from 2018 was primarily due to an increase in the domestic title orders closed by the Company’s direct title operations, partially offset by a decrease in domestic average revenues per order closed. The domestic average revenues per order closed were $2,232, $2,558 and $2,600 for 2020, 2019 and 2018, respectively. The 12.7% decrease in average revenues per order closed in 2020 from 2019 was primarily due to a shift in the mix of direct revenues generated from higher premium commercial products to lower premium residential refinance products. The 1.6% decrease in average revenues per order closed in 2019 from 2018 was primarily due to a shift in the mix of direct revenues generated from higher premium commercial products to lower premium residential refinance products, partially offset by higher revenues per order from commercial transactions and higher residential real estate values. The Company’s direct title operations closed 1,043,800, 795,800 and 730,800 domestic title orders during 2020, 2019 and 2018, respectively. The 31.2% increase in orders closed in 2020 from 2019 and the 8.9% increase in orders closed in 2019 from 2018 were generally consistent with the changes in residential mortgage origination activity in the United States as reported in the MBA Forecast.
+Agent premiums increased $386.3 million, or 16.3%, in 2020 from 2019 and $88.2 million, or 3.9%, in 2019 from 2018. Agent premiums are recorded when notice of issuance is received from the agent, which is generally when cash payment is received by the Company. As a result, there is generally a delay between the agent’s issuance of a title policy and the Company’s recognition of agent premiums. Therefore, full year agent premiums typically reflect mortgage origination activity from the fourth quarter of the prior year through the third quarter of the current year. The increase in agent premiums in 2020 from 2019 was generally consistent with the 11.4% increase in the Company’s direct premiums and escrow fees in the twelve months ended September 30, 2020 as compared with the twelve months ended September 30, 2019. The increase in agent premiums in 2019 from 2018 was generally consistent with the 2.6% increase in the Company’s direct premiums and escrow fees in the twelve months ended September 30, 2019 as compared with the twelve months ended September 30, 2018.
+Information and other revenues primarily consist of revenues generated from fees associated with title search and related reports, title and other real property records and images, other non-insured settlement services, and risk mitigation products and services. These revenues generally trend with direct premiums and escrow fees but are typically less volatile since a portion of the revenues are subscription based and do not fluctuate with transaction volumes.
+Information and other revenues increased $224.7 million, or 28.9%, in 2020 from 2019 and $5.4 million, or 0.7%, in 2019 from 2018. The increase in information and other revenues in 2020 from 2019 was primarily attributable to revenues from recent acquisitions of $80.1 million for 2020; growth in mortgage origination activity that led to higher demand for the Company’s title information products; and revenues from services provided to support a temporary government program related to the coronavirus pandemic in Canada. The increase in information and other revenues in 2019 from 2018 was primarily attributable to the growth in real estate transactions and mortgage origination activity that led to higher demand for the Company’s title information products, partially offset by changes in certain contractual arrangements that require the netting of production related costs against related revenues and lower demand for the Company’s default information products due to a decrease in loss mitigation activities.
+Net investment income decreased $83.7 million, or 29.6%, in 2020 from 2019 and increased $59.6 million, or 26.7%, in 2019 from 2018. The decrease in 2020 from 2019 was primarily attributable to lower short-term interest rates, which drove lower income from the Company’s cash and investment portfolio, escrow balances and tax-deferred property exchange business. The increase in 2019 from 2018 was primarily attributable to higher average balances due primarily to strength in the Company’s commercial business and higher short-term interest rates, which drove higher income from the Company’s cash and investment portfolio, tax-deferred property exchange business and escrow balances.
+Net realized investment gains totaled $86.2 million for 2020 and were primarily from increases in the fair values of equity securities of $38.7 million and gains from the sales of debt securities. Net realized investment gains for 2020 also include gains recognized on certain non-marketable investments. Net realized investment gains were $55.7 million for 2019 and were primarily from an increase in the fair values of equity securities of $56.3 million. Net realized investment losses were $49.1 million for 2018 and were primarily from a decrease in the fair values of equity securities of $32.6 million and losses from the sales of debt securities. Net realized investment gains for 2020, 2019 and 2018 included impairment losses of $0.6 million, $7.8 million and $1.1 million, respectively. The impairment losses in 2020, 2019 and 2018 primarily related to internally developed software and the retirement of a trade name, respectively.
+The title insurance and services segment (primarily direct operations) is labor intensive; accordingly, a major expense component is personnel costs. This expense component is affected by two primary factors: the need to monitor personnel changes to match the level of corresponding or anticipated new orders and the need to provide quality service.
+Personnel costs increased $133.1 million, or 7.8%, in 2020 from 2019 and $29.9 million, or 1.8%, in 2019 from 2018. The increase in personnel costs in 2020 from 2019 was primarily attributable to the impact of new acquisitions, which totaled $37.0 million for 2020, and higher incentive compensation, salary, overtime and temporary labor expenses, partially offset by lower employee benefit expense. The increase in incentive compensation expense were due to higher revenue and profitability. The increases in salary expense were due to higher average salaries and higher headcount. The increases in overtime and temporary labor expenses were driven by higher volumes. The decreases in employee benefit expense were primarily due to the impact of lower expense related to the Company’s expected 401(k) saving plan match. The increase in personnel costs was also partially attributable to increased share-based compensation expense due to a higher dollar value of restricted stock units granted in the first quarter of 2020 related to 2019 performance. The increase in personnel costs in 2019 from 2018 was primarily attributable to higher incentive compensation, employee benefit and overtime expenses, partially offset by lower salary, payroll tax and severance expenses. The increase in incentive compensation expense was due to the Company’s higher profitability. The increase in employee benefit costs was due to a higher expected 401(k) savings plan match driven by improved financial results. The decrease in salary and payroll tax expense was driven by lower average headcount in 2019 when compared with 2018. Personnel costs included severance expenses of $5.6 million, $6.5 million and $15.2 million for 2020, 2019 and 2018, respectively.
+The Company continues to closely monitor order volumes and related staffing levels and intends to adjust staffing levels as considered necessary. The Company’s direct title operations opened 1,470,900, 1,093,000 and 981,800 domestic title orders in 2020, 2019 and 2018, respectively, representing an increase of 34.6% in 2020 from 2019 and an increase of 11.3% in 2019 from 2018.
+A summary of premiums retained by agents and agent premiums is as follows:
+(in thousands, except percentages)
+Premiums retained by agents
+$
+2,184,420
+$
+1,874,266
+$
+1,799,836
+Agent premiums
+$
+2,759,455
+$
+2,373,140
+$
+2,284,906
+% retained by agents
+79.2
+%
+79.0
+%
+78.8
+%
+The premium split between underwriter and agents is in accordance with the respective agency contracts and can vary from region to region due to divergences in real estate closing practices and state regulations. As a result, the percentage of title premiums retained by agents can vary due to the geographic mix of revenues from agency operations. The changes in the percentage of title premiums retained by agents in 2020 from 2019 and in 2019 from 2018 were primarily due to changes in the geographic mix of agency revenues.
+Other operating expenses (principally related to direct operations) increased $194.2 million, or 24.1%, in 2020 from 2019 and $12.1 million, or 1.5%, in 2019 from 2018. The increase in 2020 from 2019 in other operating expenses was primarily attributable to higher production related costs due to increased transaction volumes; the impact of new acquisitions, which totaled $33.3 million for 2020; professional services expense, software expense, and computer hardware related costs, partially offset by lower travel and entertainment expenses. The increase in 2019 from 2018 in other operating expenses was primarily attributable to higher software expense, higher production related costs driven by the growth in transaction activity, and impairments related to certain leases that were impacted by the consolidation of office locations from a previous acquisition. These increases were partially offset by lower foreign currency exchange losses, lower computer hardware related costs and lower regulatory costs due to the recording of a reserve related to a legacy regulatory matter during the third quarter of 2018. The increase in other operating expenses in 2019 from 2018 was also partially offset by changes in certain contractual arrangements that require the netting of production related costs against related revenues.
+The provision for policy losses and other claims, expressed as a percentage of title insurance premiums and escrow fees, was 5.0% for the year ended December 31, 2020 and 4.0% for the years ended December 31, 2019 and 2018, respectively.
+The current year rate of 5.0% reflects an ultimate loss rate of 4.5% for the current policy year and a net increase in the loss reserve estimates for prior policy years of 0.5%, or $26.2 million.
+As of December 31, 2020, the IBNR claims reserve for the title insurance and services segment was $1,025.8 million, which reflected management’s best estimate. The Company’s internal actuary determined a range of reasonable estimates of $811.1 million to $1,054.1 million. The range limits are $214.7 million below and $28.3 million above management’s best estimate, respectively, and represent an estimate of the range of variation among reasonable estimates of the IBNR reserve. Actuarial estimates are sensitive to assumptions used in models, as well as the structures of the models themselves, and to changes in claims payment and incurral patterns, which can vary materially due to economic conditions, among other factors.
+The 2019 rate of 4.0% reflected the ultimate loss rate for policy year 2019 and no change in the loss reserve estimates for prior policy years.
+The 2018 rate of 4.0% reflected the ultimate loss rate for policy year 2018 and no change in the loss reserve estimates for prior policy years.
+Depreciation and amortization expense increased $19.6 million, or 16.2%, in 2020 from 2019 and $2.6 million, or 2.2%, in 2019 from 2018. The increase in depreciation and amortization expense in 2020 from 2019 was primarily attributable to amortization of software and other intangible assets from new acquisitions of $22.0 million for 2020. The increase in depreciation and amortization expense in 2019 from 2018 was primarily attributable to higher amortization expense associated with internally developed software.
+Insurers generally are not subject to state income or franchise taxes. However, in lieu thereof, a premium tax is imposed on certain operating revenues, as defined by statute. Tax rates and bases vary from state to state; accordingly, the total premium tax burden is dependent upon the geographical mix of operating revenues. The Company’s noninsurance subsidiaries are subject to state income tax and do not pay premium tax. Accordingly, the Company’s total tax burden at the state level for the title insurance and services segment is composed of a combination of premium taxes and state income taxes. Premium taxes as a percentage of title insurance premiums and escrow fees were 1.3% for 2020 and 1.4% for 2019 and 2018, respectively.
+Interest expense increased $3.0 million, or 19.7%, in 2020 from 2019 and $7.7 million, or 102.6%, in 2019 from 2018. The increases were primarily attributable to higher interest paid on secured financings payable due to higher average balances outstanding. The increase in 2020 from 2019 was partially offset by lower interest paid related to customer deposits at the Company’s banking subsidiary, First American Trust, FSB, due to lower interest rates. The increase in 2019 from 2018 was also impacted by higher interest paid related to customer deposits at the Company’s banking subsidiary, First American Trust, FSB due to increases in average balances and higher interest rates paid.
+The profit margins for the title insurance business reflect the high cost of performing the essential services required before insuring title, whereas the corresponding revenues are subject to regulatory and competitive pricing restraints. Due to the relatively high proportion of fixed costs, title insurance profit margins generally improve as closed order volumes increase. Title insurance profit margins are also impacted by the segment’s net investment income and net realized investment gains or losses, which may not move in the same direction as closed order volumes. Title insurance profit margins are affected by the composition (residential or commercial) and type (resale, refinancing or new construction) of real estate activity. Title insurance profit margins are also affected by the percentage of title insurance premiums generated by agency operations. Profit margins from direct operations are generally higher than from agency operations due primarily to the large portion of the premium that is retained by the agent. The pretax margins were 15.7%, 16.1% and 12.4% for 2020, 2019 and 2018, respectively.
+Specialty Insurance
+2020 vs. 2019
+2019 vs. 2018
+$ Change
+% Change
+$ Change
+% Change
+(in thousands, except percentages)
+Revenues
+Direct premiums
+$
+497,533
+$
+471,217
+$
+454,718
+$
+26,316
+5.6
+$
+16,499
+3.6
+Information and other
+13,439
+12,742
+11,802
+5.5
+8.0
+Net investment income
+9,123
+11,249
+10,190
+(2,126
+)
+(18.9
+)
+1,059
+10.4
+Net realized investment gains (losses)
+12,328
+10,682
+(7,368
+)
+1,646
+15.4
+18,050
+245.0
+532,423
+505,890
+469,342
+26,533
+5.2
+36,548
+7.8
+Expenses
+Personnel costs
+86,834
+80,120
+75,355
+6,714
+8.4
+4,765
+6.3
+Other operating expenses
+83,104
+80,705
+74,025
+2,399
+3.0
+6,680
+9.0
+Provision for policy losses and other claims
+317,051
+263,590
+279,113
+53,461
+20.3
+(15,523
+)
+(5.6
+)
+Depreciation and amortization
+7,535
+7,225
+6,721
+4.3
+7.5
+Impairments on disposition of business
+54,935
+-
+-
+54,935
+-
+-
+-
+Premium taxes
+8,248
+7,674
+7,129
+7.5
+7.6
+557,707
+439,314
+442,343
+118,393
+26.9
+(3,029
+)
+(0.7
+)
+Income before income taxes
+$
+(25,284
+)
+$
+66,576
+$
+26,999
+$
+(91,860
+)
+(138.0
+)
+$
+39,577
+146.6
+Margins
+(4.7
+)%
+13.2
+%
+5.8
+%
+(17.9
+)%
+(135.6
+)
+7.4
+%
+127.6
+Direct premiums increased $26.3 million, or 5.6%, in 2020 from 2019 and $16.5 million, or 3.6%, in 2019 from 2018. The increases were primarily attributable to higher premiums earned in the home warranty business driven by an increase in the number of home warranty residential service contracts issued and an increase in the average price charged per contract.
+Net realized investment gains for the specialty insurance segment were $12.3 million for 2020 and were primarily from the increase in the fair values of equity securities of $6.8 million. Net realized investment gains for 2020 also included a gain recognized from the sale of real estate. Net realized investment gains for the specialty insurance segment were $10.7 million for 2019 and were primarily from the increase in the fair values of equity securities of $10.4 million. Net realized investment losses were $7.4 million for 2018 and were primarily from a decrease in the fair values of equity securities of $6.1 million and losses from the sales of debt securities.
+Personnel costs and other operating expenses increased $9.1 million, or 5.7%, in 2020 from 2019 and $11.4 million, or 7.7%, in 2019 from 2018. The increase in 2020 from 2019 was primarily attributable to increased salary expense, due to higher average headcount, and higher advertising expense related to the home warranty business. The increase in 2019 from 2018 was primarily attributable to increases in professional services, salary, advertising and employee benefit expenses. The increase in salary expense was due to higher average salaries.
+The provision for home warranty claims, expressed as a percentage of home warranty premiums, was 53.2% in 2020, 49.8% in 2019 and 53.8% in 2018. The increase in the claims rate in 2020 from 2019 was primarily attributable to higher claims frequency driven by claims in the appliance and plumbing trades likely due to the coronavirus pandemic. The decrease in rate in 2019 from 2018 was attributable to a decrease in the severity and frequency of claims. The decrease in the severity of home warranty claims was due to more efficient claims management, which was mainly driven by improved rates with contractors and more efficient allocation of claims to contractors.
+The provision for property and casualty claims, expressed as a percentage of property and casualty insurance premiums, was 94.7% in 2020, 73.7% in 2019 and 82.3% in 2018. The increase in rate in 2020 from 2019 was primarily attributable to higher claim severity. The decrease in rate in 2019 from 2018 was primarily attributable to a decrease in the severity of claims, which was partially due to the wildfires that occurred in 2018. The 2019 provision also benefitted from recoveries received during 2019 related to wildfires that occurred in 2018.
+In connection with the Company’s decision to sell its property and casualty insurance business it recorded impairment losses to goodwill, other intangible assets, property and equipment and other assets totaling $54.9 million in 2020.
+Premium taxes as a percentage of specialty insurance segment premiums were 1.7% in 2020 and 1.6% in 2019 and 2018.
+A large part of the revenues for the specialty insurance businesses are generated by renewals and are not dependent on the level of real estate activity in the year of renewal. However, in January 2021, the Company entered into book transfer agreements with two third-party insurers related to its property and casualty insurance business and will seek to non-renew policies that are not transferred. With the exception of loss expense, the majority of the expenses for this segment are variable in nature and therefore generally fluctuate consistent with revenue fluctuations. Accordingly, profit margins for this segment (before loss expense) are relatively constant, although as a result of some fixed expenses, profit margins (before loss expense) should nominally improve as premium revenues increase. Specialty insurance profit margins are also impacted by the segment’s net investment income and net realized investment gains or losses, which may not move in the same direction as premium revenues. The pretax margin loss was 4.7% for 2020 and the pretax margins were 13.2% and 5.8% for 2019 and 2018, respectively.
+Corporate
+2020 vs. 2019
+2019 vs. 2018
+$ Change
+% Change
+$ Change
+% Change
+(in thousands, except percentages)
+Revenues
+Net investment income (losses)
+$
+14,245
+$
+21,896
+$
+(3,115
+)
+$
+(7,651
+)
+(34.9
+)
+$
+25,011
+NM
+Net realized investment
+gains
+6,515
+-
+-
+6,515
+-
+-
+-
+20,760
+21,896
+(3,115
+)
+(1,136
+)
+(5.2
+)
+25,011
+NM
+Expenses
+Personnel costs
+19,811
+24,143
+1,748
+(4,332
+)
+(17.9
+)
+22,395
+NM
+Other operating expenses
+37,187
+38,148
+33,879
+(961
+)
+(2.5
+)
+4,269
+12.6
+Depreciation and amortization
+(1
+)
+(0.7
+)
+-
+-
+Interest
+40,562
+33,223
+33,569
+7,339
+22.1
+(346
+)
+(1.0
+)
+97,712
+95,667
+69,349
+2,045
+2.1
+26,318
+38.0
+Loss before income taxes
+$
+(76,952
+)
+$
+(73,771
+)
+$
+(72,464
+)
+$
+(3,181
+)
+(4.3
+)
+$
+(1,307
+)
+(1.8
+)
+(1)
+Not meaningful
+Net investment income totaled $14.2 million and $21.9 million in 2020 and 2019, respectively, and net investment losses totaled $3.1 million in 2018. The change in net investment income for all three years was primarily attributable to fluctuations in earnings on investments associated with the Company’s deferred compensation plan.
+Net realized investment gains for the corporate segment totaled $6.5 million for 2020 and were primarily from the sale of real estate. There were no realized investment gains or losses for the corporate segment for 2019 and 2018.
+Corporate personnel costs and other operating expenses were $57.0 million, $62.3 million and $35.6 million in 2020, 2019 and 2018, respectively. The decrease in 2020 when compared to 2019 was primarily attributable to lower expenses related to the Company’s deferred compensation plan. The increase in 2019 when compared to 2018 was primarily attributable to higher expenses related to the Company’s deferred compensation plan.
+Interest expense increased $7.3 million, or 22.1%, in 2020 from 2019 and decreased $0.3 million, or 1.0%, in 2019 from 2018. The increase in 2020 from 2019 was due to the interest accrued on the $450.0 million of 4.00% senior unsecured notes that the Company issued in May 2020.
+Eliminations
+The Company’s inter-segment eliminations were not material for 2020, 2019 and 2018.
+Income Taxes
+Income taxes differ from the amounts computed by applying the federal income tax rate of 21%. A reconciliation of these differences is as follows:
+Year ended December 31,
+(in thousands, except percentages)
+Taxes calculated at federal rate
+$
+193,887
+21.0
+%
+$
+190,054
+21.0
+%
+$
+128,003
+21.0
+%
+State taxes, net of federal benefit
+22,317
+2.4
+18,028
+2.0
+9,941
+1.6
+Change in liability for tax positions
+-
+(13,563
+)
+(1.5
+)
+0.1
+Foreign income taxed at different rates
+5,162
+0.6
+0.1
+7,287
+1.2
+Tax reform impact
+-
+-
+-
+-
+(6,804
+)
+(1.1
+)
+Unremitted foreign earnings
+(2,183
+)
+(0.2
+)
+2,588
+0.3
+(146
+)
+-
+Other items, net
+3,339
+0.3
+(2,719
+)
+(0.3
+)
+(5,516
+)
+(0.9
+)
+$
+222,774
+24.1
+%
+$
+195,170
+21.6
+%
+$
+133,640
+21.9
+%
+The Company’s effective income tax rates (income tax expense as a percentage of income before income taxes) were 24.1% for 2020, 21.6% for 2019 and 21.9% for 2018. The differences in the effective tax rates year over year are typically due to changes in state and foreign income taxes resulting from fluctuations in the Company’s noninsurance and foreign subsidiaries’ contributions to pretax income and changes in the ratio of permanent differences to income before income taxes. In addition, the tax rate for 2020 reflected the impairment of nondeductible goodwill related to the Company’s Specialty Insurance segment and a benefit from foreign tax law changes. The tax rate for 2019 also reflected the resolution of state tax matters from prior years. The Company’s effective tax rate for 2018 also reflected an adjustment made to its initial 2017 estimates for the comprehensive tax reform legislation known as the Tax Cuts and Jobs Act.
+Net Income and Net Income Attributable to the Company
+Net income and per share information are summarized as follows:
+Year ended December 31,
+(in thousands, except per share amounts)
+Net income attributable to the Company
+$
+696,429
+$
+707,410
+$
+474,496
+Net income per share attributable to the Company’s stockholders:
+Basic
+$
+6.18
+$
+6.26
+$
+4.21
+Diluted
+$
+6.16
+$
+6.22
+$
+4.19
+Weighted-average common shares outstanding:
+Basic
+112,746
+113,080
+112,613
+Diluted
+113,020
+113,655
+113,279
+See Note 15 Earnings Per Share to the consolidated financial statements for further discussion of earnings per share.
+Liquidity and Capital Resources
+Cash requirements. The Company generates cash primarily from the sale of its products and services and investment income. The Company’s current cash requirements include operating expenses, taxes, payments of principal and interest on its debt, capital expenditures, dividends on its common stock, and may include business acquisitions, investments in unconsolidated entities and repurchases of its common stock. Management forecasts the cash needs of the holding company and its primary subsidiaries and regularly reviews their short-term and long-term projected sources and uses of funds, as well as the asset, liability, investment and cash flow assumptions underlying such forecasts. Based on the Company’s ability to generate cash flows from operations, its liquid-asset position and amounts available on its revolving credit facility, management believes that its resources are sufficient to satisfy its anticipated operational cash requirements and obligations for at least the next twelve months. In making this assessment, management considered the impact that the coronavirus pandemic and related responses has had, or is expected to have, on the Company’s liquidity and capital resources, such as uncertainty related to cash flows from operations and potential volatility in the Company’s investment portfolio, among other factors.
+The substantial majority of the Company’s business is dependent upon activity in the real estate and mortgage markets, which are cyclical and seasonal. Periods of increasing interest rates and reduced mortgage financing availability generally have an adverse effect on residential real estate activity and therefore typically decrease the Company’s revenues. In contrast, periods of declining interest rates and increased mortgage financing availability generally have a positive effect on residential real estate activity, which typically increases the Company’s revenues. Residential purchase activity is typically slower in the winter months with increased volumes in the spring and summer months. Residential refinance activity is typically more volatile than purchase activity and is highly impacted by changes in interest rates. Commercial real estate volumes are less sensitive to changes in interest rates but fluctuate based on local supply and demand conditions for space and mortgage financing availability.
+Cash provided by operating activities totaled $1.1 billion, $913.1 million and $793.2 million for 2020, 2019 and 2018, respectively, after claim payments, net of recoveries, of $471.3 million, $415.3 million and $450.8 million, respectively. The principal nonoperating uses of cash and cash equivalents for 2020, 2019 and 2018 were purchases of debt and equity securities, advances and repayments under secured financing agreements, dividends to common stockholders, capital expenditures and for 2020, acquisitions and repurchases of company shares. The most significant nonoperating sources of cash and cash equivalents for 2020, 2019 and 2018 were proceeds from the sales and maturities of debt and equity securities, borrowings and collections under secured financing agreements, and for 2020, proceeds from issuance of unsecured senior notes. In addition, the decrease in deposits at the Company’s banking operations for 2019 reflected a nonoperating use of cash and cash equivalents, and the increases in deposits for 2018 reflected nonoperating sources of cash and cash equivalents. The net effect of all activities on total cash and cash equivalents were decreases of $210.5 million for 2020 and increases of $18.8 million and $79.9 million for 2019 and 2018, respectively.
+The Company continually assesses its capital allocation strategy, including decisions relating to dividends, stock repurchases, capital expenditures, acquisitions and investments. During 2020, the Company’s board of directors approved two increases in the Company’s quarterly cash dividend. In January 2020, the quarterly cash dividend was increased to 44 cents per common share, representing a 5% increase from the prior level of 42 cents per common share. In November 2020, the quarterly cash dividend was increased to 46 cents per common share, representing another 5% increase. The dividend increase was effective beginning with the December 2020 dividend. Management expects that the Company will continue to pay quarterly cash dividends at or above the current level. The timing, declaration and payment of future dividends, however, falls within the discretion of the Company’s board of directors and will depend upon many factors, including the Company’s financial condition and earnings, the capital requirements of the Company’s businesses, restrictions imposed by applicable law and any other factors the board of directors deems relevant from time to time.
+In November 2020, the Company announced that its board of directors had approved a new share repurchase plan, which authorizes the repurchase of up to $300.0 million of the Company’s common stock and of which $242.0 million remained as of December 31, 2020. Purchases may be made from time to time by the Company in the open market at prevailing market prices or in privately negotiated transactions. Also, in November 2020, the Company terminated its prior share repurchase plan which authorized the repurchase of up to $250.0 million of the Company’s common stock. Cumulatively, during the year ended December 31, 2020, the Company repurchased and retired, under both the current and prior authorizations, 3.2 million shares of its common stock for a total purchase price of $138.6 million.
+During the year ended December 31, 2020, the Company completed acquisitions for an aggregate purchase price of $397.6 million, which were funded through cash on hand and additional borrowings of $120.0 million under the Company’s credit facility.
+Holding company. First American Financial Corporation is a holding company that conducts all of its operations through its subsidiaries. The holding company’s current cash requirements include payments of principal and interest on its debt, taxes, payments in connection with employee benefit plans, dividends on its common stock and other expenses. The holding company is dependent upon dividends and other payments from its operating subsidiaries to meet its cash requirements. The Company’s target is to maintain a cash balance at the holding company equal to at least twelve months of estimated cash requirements. At certain points in time, the actual cash balance at the holding company may vary from this target due to, among other factors, the timing and amount of cash payments made and dividend payments received. Pursuant to insurance and other regulations under which the Company’s insurance subsidiaries operate, the amount of dividends, loans and advances available to the holding company is limited, principally for the protection of policyholders. As of December 31, 2020, under such regulations, the maximum amount available to the holding company from its insurance subsidiaries in 2021, without prior approval from applicable regulators, was dividends of $555.4 million and loans and advances of $115.6 million. However, the timing and amount of dividends paid by the Company’s insurance subsidiaries to the holding company falls within the discretion of each insurance subsidiary’s board of directors and will depend upon many factors, including the level of total statutory capital and surplus required to support minimum financial strength ratings by certain rating agencies. Such restrictions have not had, nor are they expected to have, an impact on the holding company’s ability to meet its cash obligations.
+As of December 31, 2020, the holding company’s sources of liquidity included $206.9 million of cash and cash equivalents and $700.0 million available on the Company’s revolving credit facility. Management believes that liquidity at the holding company is sufficient to satisfy anticipated cash requirements and obligations for at least the next twelve months.
+Financing. In May 2020, the Company issued $450.0 million of 4.00% senior unsecured notes due in 2030. Interest is due semi-annually on May 15 and November 15, beginning November 15, 2020. The Company used a portion of the net proceeds from the sale to repay all borrowings outstanding under its credit facility, increasing the unused capacity thereunder to the full $700.0 million size of the facility.
+The Company maintains a credit agreement with JPMorgan Chase Bank, N.A. in its capacity as administrative agent and the lenders party thereto. The credit agreement, which is comprised of a $700.0 million revolving credit facility, includes an expansion option that permits the Company, subject to satisfaction of certain conditions, to increase the revolving commitments and/or add term loan tranches in an aggregate amount not to exceed $350.0 million. Unless terminated earlier, the credit agreement will terminate on April 30, 2024. The obligations of the Company under the credit agreement are neither secured nor guaranteed. Proceeds under the credit agreement may be used for general corporate purposes. At December 31, 2020, the Company had no outstanding borrowings under the facility.
+At the Company’s election, borrowings of revolving loans under the credit agreement bear interest at (a) the Alternate Base Rate plus the applicable spread or (b) the Adjusted LIBOR rate plus the applicable spread (in each case as defined in the credit agreement). The Company may select interest periods of one, two, three or six months or (if agreed to by all lenders) such other number of months for Eurodollar borrowings of loans. The applicable spread varies depending upon the debt rating assigned by Moody’s Investor Service, Inc., Standard & Poor’s Rating Services and/or Fitch Ratings Inc. The minimum applicable spread for Alternate Base Rate borrowings is 0.25% and the maximum is 1.00%. The minimum applicable spread for Adjusted LIBOR rate borrowings is 1.25% and the maximum is 2.00%. The rate of interest on any term loans incurred in connection with the expansion option will be established at or about the time such loans are made and may differ from the rate of interest on revolving loans.
+The credit agreement includes representations and warranties, reporting covenants, affirmative covenants, negative covenants, financial covenants and events of default customary for financings of this type. Upon the occurrence of an event of default the lenders may accelerate the loans. Upon the occurrence of certain insolvency and bankruptcy events of default the loans will automatically accelerate. As of December 31, 2020, the Company was in compliance with the financial covenants under the credit agreement.
+In addition to amounts available under its credit facility, certain subsidiaries of the Company maintain separate financing arrangements. The primary financing arrangements maintained by subsidiaries of the Company are as follows:
+•
+FirstFunding, Inc., a specialized warehouse lender to correspondent mortgage lenders, maintains secured warehouse lending facilities with several banking institutions. At December 31, 2020, outstanding borrowings under these facilities totaled $516.2 million.
+•
+First American Trust, FSB, a federal savings bank, maintains a secured line of credit with the Federal Home Loan Bank and federal funds lines of credit with certain correspondent institutions. In addition, First American Trust, FSB is a party to master repurchase agreements under which securities may be loaned or sold. At December 31, 2020, no amounts were outstanding under any of these facilities.
+•
+First Canadian Title Company Limited, a Canadian title insurance and services company, maintains credit facilities with certain Canadian banking institutions. At December 31, 2020, no amounts were outstanding under these facilities.
+The Company’s debt to capitalization ratios were 23.7% and 18.5% at December 31, 2020 and December 31, 2019, respectively. The Company’s adjusted debt to capitalization ratios, excluding secured financings payable of $516.2 million and $278.4 million at December 31, 2020 and December 31, 2019, were 17.0% and 14.1%, respectively.
+Investment portfolio. The Company maintains a high quality, liquid investment portfolio that is primarily held at its insurance and banking subsidiaries. As of December 31, 2020, 93% of the Company’s investment portfolio consisted of debt securities, of which 64% were either United States government-backed or rated AAA and 98% were either rated or classified as investment grade. Percentages are based on the estimated fair values of the securities. Credit ratings reflect published ratings obtained from globally recognized securities rating agencies. If a security was rated differently among the rating agencies, the lowest rating was selected. For further information on the credit quality of the Company’s investment portfolio at December 31, 2019, see Note 4 Debt and Equity Securities to the consolidated financial statements.
+In addition to its debt and equity securities portfolio, the Company maintains certain money-market and other short-term investments.
+Capital expenditures. Capital expenditures, which are primarily related to software development costs and purchases of property and equipment and software licenses, totaled $120.6 million, $110.5 million and $125.5 million for 2020, 2019 and 2018, respectively.
+Contractual obligations. A summary of the Company’s contractual obligations at December 31, 2020, due by period, is as follows:
+Total
+Less than 1
+year
+1-3 years
+3-5 years
+More than
+5 years
+(in thousands)
+Notes and contracts payable (1)
+$
+1,018,239
+$
+6,367
+$
+261,640
+$
+300,232
+$
+450,000
+Interest on notes and contracts payable
+246,854
+43,299
+75,802
+47,503
+80,250
+Secured financings payable
+516,155
+516,155
+-
+-
+-
+Operating leases
+324,069
+86,695
+127,780
+69,972
+39,622
+Deposits
+3,276,949
+3,276,949
+-
+-
+-
+Claims losses
+1,178,004
+254,506
+264,153
+170,241
+489,104
+Employee benefit plans
+381,981
+15,417
+33,617
+34,143
+298,804
+$
+6,942,251
+$
+4,199,388
+$
+762,992
+$
+622,091
+$
+1,357,780
+(1)
+The amounts presented exclude debt issuance costs and discounts on senior unsecured notes.
+The timing of payments related to claims losses is estimated and is not set contractually. Nonetheless, based on historical claims experience, the Company anticipates the above payment patterns. Changes in future claims settlement patterns, judicial decisions, legislation, economic conditions and other factors could affect the timing and amount of actual claims payments. The timing and amount of payments in connection with employee benefit plans are based on the Company’s current estimates and require the use of assumptions. Changes in assumptions could affect the amount and timing of employee benefit plan payments.
+Off-balance sheet arrangements. The Company administers escrow deposits and trust assets as a service to its customers. Escrow deposits totaled $7.1 billion and $7.3 billion at December 31, 2020 and 2019, respectively, of which $3.1 billion and $3.2 billion, respectively, were held at First American Trust, FSB. The escrow deposits held at First American Trust, FSB are temporarily invested in cash and cash equivalents and debt securities, with offsetting liabilities included in deposits in the accompanying consolidated balance sheets. The remaining escrow deposits were held at third-party financial institutions.
+Trust assets held or managed by First American Trust, FSB totaled $4.4 billion and $4.2 billion at December 31, 2020 and 2019, respectively. Escrow deposits held at third-party financial institutions and trust assets are not considered assets of the Company and, therefore, are not included in the accompanying consolidated balance sheets. All such amounts are placed in deposit accounts insured, up to applicable limits, by the Federal Deposit Insurance Corporation. The Company could be held contingently liable for the disposition of these assets.
+In conducting its operations, the Company often holds customers’ assets in escrow, pending completion of real estate transactions and, as a result, the Company has ongoing programs for realizing economic benefits with various financial institutions. The results from these programs are included as income or a reduction in expense, as appropriate, in the consolidated statements of income based on the nature of the arrangement and benefit received.
+The Company facilitates tax-deferred property exchanges for customers pursuant to Section 1031 of the Internal Revenue Code and tax-deferred reverse exchanges pursuant to Revenue Procedure 2000-37. As a facilitator and intermediary, the Company holds the proceeds from sales transactions and takes temporary title to property identified by the customer to be acquired with such proceeds. Upon the completion of each such exchange, the identified property is transferred to the customer or, if the exchange does not take place, an amount equal to the sales proceeds or, in the case of a reverse exchange, title to the property held by the Company is transferred to the customer. Like-kind exchange funds held by the Company totaled $2.9 billion and $3.0 billion at December 31, 2020 and 2019, respectively. The like-kind exchange deposits are held at third-party financial institutions and, due to the structure utilized to facilitate these transactions, the proceeds and property are not considered assets of the Company and, therefore, are not included in the accompanying consolidated balance sheets. All such amounts are placed in deposit accounts insured, up to applicable limits, by the Federal Deposit Insurance Corporation. The Company could be held contingently liable to the customer for the transfers of property, disbursements of proceeds and the returns on such proceeds.

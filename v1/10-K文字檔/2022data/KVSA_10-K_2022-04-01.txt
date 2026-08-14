@@ -1,0 +1,749 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Overview
+We are a blank check company formed under the laws of the State of Delaware on January 15, 2021 for the purpose of effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization or other similar business combination with one or more businesses. We intend to effectuate our initial business combination using cash from the proceeds of the IPO and the sale of the private placement shares, and forward-purchase shares, our capital stock, debt or a combination of cash, stock and debt. We are an emerging growth company and, as such, we are subject to all of the risks associated with emerging growth companies.
+Our sponsor is Khosla Ventures SPAC Sponsor LLC, a Delaware limited liability company. The registration statement for our IPO was declared effective on March 3, 2021. On March 8, 2021, we consummated our IPO of 34,500,000 Public Shares at $10.00 per share, generating gross proceeds of $345,000,000, and incurring offering costs of $19,660,260, inclusive of $12,075,000 in deferred underwriting fees payable.
+Simultaneously with the closing of the IPO, we consummated the private placement of 990,000 private placement shares at a price of $10.00 per private placement share to the sponsor, generating proceeds of $9,900,000.
+Upon the closing of the IPO and the private placement, the $345,000,000 of net proceeds from the IPO and certain of the proceeds of the private placement were placed in a Trust Account (“Trust Account”) located in the United States with Continental Stock Transfer & Trust Company acting as trustee, and invested only in United States “government securities” within the meaning of Section 2(a)(16) of the Investment Company Act having a maturity of 180 days or less or in money market funds meeting certain conditions under Rule 2a-7
+promulgated under the Investment Company Act that invest only in direct U.S. government treasury obligations, as determined by us, until the earlier of: (i) the completion of a business combination and (ii) the distribution of the Trust Account.
+If we are unable to complete a business combination by March 8, 2023 (24 months from the closing of the IPO), or June 8, 2023 (27 months from the closing of our IPO), if we have executed a letter of intent, agreement in principle or definitive agreement for an initial business combination by March 8, 2023, and our stockholders have not amended the certificate of incorporation to extend such period, we will (i) cease all operations except for the purpose of winding up; (ii) as promptly as reasonably possible but no more than ten business days thereafter subject to lawfully available funds therefor, redeem the public shares, at a per-share
+price, payable in cash, equal to the aggregate amount then on deposit in the Trust Account, including interest earned on the funds held in the Trust Account and not previously released to us to pay our taxes as well as expenses relating to the administration of the Trust Account (less up to $100,000 of interest to pay dissolution expenses) divided by the number of the then outstanding public shares, which redemption will completely extinguish public stockholders’ rights as stockholders (including the right to receive further liquidation distributions, if any), subject to applicable law; and (iii) as promptly as reasonably possible following such redemption, subject to the approval of the remaining stockholders and the board of directors, liquidate and dissolve, subject in each case to our obligations under Delaware law to provide for claims of creditors and the requirements of other applicable law.
+On June 9, 2021, we entered into an agreement for a proposed initial business combination with Valo Health, a technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process. Concurrently with such an agreement, we also entered into subscription agreements (the “PIPE I Subscription Agreements”) with certain investors (collectively, the “PIPE I Investors”), pursuant to, and on the terms and subject to the conditions of which, the PIPE I Investors collectively subscribed for 16,855,000 shares of Class A common stock for an aggregate purchase price equal to $168,550,000
+(the “PIPE I Investment”). On July 30, 2021, we entered into additional subscription agreements (the “PIPE II Subscription Agreements”) with certain investors (collectively, the “PIPE II Investors”), pursuant to, and on the terms and subject to the conditions of which, the PIPE II Investors collectively subscribed for an additional 3,231,250 shares of KVSA Common Stock for an aggregate purchase price equal to $32,312,500 (the “PIPE II Investment”).
+On November 15, 2021, we and Valo Health mutually agreed to terminate the proposed initial business combination based on market conditions, particularly in the biotechnology area. As such, we continue to search for a potential initial business combination target. The PIPE I Investment and PIPE II Investment were also both terminated upon the termination of the proposed initial business combination with Valo Health.
+Results of Operations and Known Trends or Future Events
+We have neither engaged in any operations (other than searching for a business combination after our IPO) nor generated any revenues to date. Our only activities from January 15, 2021 (inception) through December 31, 2021 were organizational activities and those necessary to prepare for the IPO and the proposed initial business combination. We do not expect to generate any operating revenues until after the completion of our business combination. We expect to generate non-operating
+income in the form of interest income on marketable securities held after the IPO. We incur expenses as a result of being a public company (for legal, financial reporting, accounting and auditing compliance), as well as for due diligence expenses.
+For the period from January 15, 2021 (inception) through December 31, 2021, we had a loss from operations of $5,565,939, which consisted of $30,000 in formation costs, $5,335,939 in general administrative expenses, and $200,000 in franchise tax expenses. We also incurred $12,137,500 in financing expenses on derivative classified instrument, offset by the change in fair value of derivative liabilities of $12,000,000 and gains on marketable securities (net), dividends and interest, held in Trust Account of $17,029, resulting in a net loss of $5,686,410 for the period from January 15, 2021 (inception) through December 31, 2021.
+Liquidity and Capital Resources
+As of December 31, 2021, the Company had $202,245 in its operating bank account, $345,017,029 in securities held in the Trust Account to be used for a business combination or to repurchase or redeem its common stock in connection therewith and a working capital deficit of $3,338,984. As of December 31, 2021, $17,029 of the amount on deposit in the Trust Account represented interest income, which is available for payment of franchise taxes and expenses in connection with the liquidation of the Trust Account.
+If the Company is unable to raise additional capital, it may be required to take additional measures to conserve liquidity, which could include, but not necessarily be limited to, suspending the pursuit of a business combination. The Company cannot provide any assurance that new financing will be available to it on commercially acceptable terms, if at all.
+As a result of the above, in connection with the Company’s assessment of going concern considerations in accordance with Accounting Standards Update (“ASU”) 2014-15,
+“Disclosures of Uncertainties about an Entity’s Ability to Continue as a Going Concern,” management has determined that the liquidity conditions raise substantial doubt about the Company’s ability to continue as a going concern through approximately one year from the date of filing. These financial statements do not include any adjustments relating to the recovery of the recorded assets or the classification of the liabilities that might be necessary should the Company be unable to continue as a going concern.
+Contractual Obligations
+We do not have any long-term debt, capital lease obligations, operating lease obligations or long-term liabilities.
+The underwriters are entitled to a deferred fee of $0.35 per public share, or $12,075,000 in the aggregate. The deferred fee will be waived by the underwriters in the event that the Company does not complete a business combination, subject to the terms of the underwriting agreement.
+On March 3, 2021, we entered into a forward-purchase agreement pursuant to which the sponsor (together with any permitted transferees under the forward-purchase agreement, the “Khosla Entities”) have agreed to purchase an aggregate of up to 2,500,000 forward-purchase shares for $10.00 per share, or an aggregate maximum amount of $25,000,000, in a private placement that will close simultaneously with the closing of the initial business combination. The Khosla Entities will purchase a number of forward-purchase shares that will result in gross proceeds to us necessary to enable us to consummate our initial business combination and pay related fees and expenses, after first applying amounts available to us from the Trust Account (after paying the underwriting fees payable and giving effect to any redemptions of Public Shares) and any other financing source obtained by us for such purpose at or prior to the consummation of our initial business combination, plus any additional amounts mutually agreed by us and the Khosla Entities to be retained by the post-business combination company for working capital or other purposes. The Khosla Entities’ obligation to purchase forward-purchase shares will, among other things, be conditioned on the business combination (including the target assets or business, and the terms of the business combination) being reasonably acceptable to the Khosla Entities and on a requirement that such initial business combination is approved by a unanimous vote of our board of directors. In determining whether a target is reasonably acceptable to the Khosla Entities, we expect that the Khosla Entities would consider many of the same criteria as we will consider but will also consider whether the investment is an appropriate investment for the Khosla Entities.
+Critical Accounting Policies
+The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and income and expenses during the periods reported. Actual results could materially differ from those estimates. We have not identified any critical accounting policies other than the following.
+Class K Founder Shares Derivative Liabilities
+Class K founder shares are accounted for as a liability in accordance with ASC Topic 815, “Derivatives and Hedging”, and presented as derivative liability on the December 31, 2021 balance sheet. The derivative liability was measured at fair value at inception and on a recurring basis, which changes in fair value presented within change in fair value of derivative liability in the statement of operations. In order to capture the market conditions associated with the Class K founder shares derivative liabilities, the Company applied an approach that incorporated a Monte Carlo simulation, which involved random iterations of future stock-price paths over the contractual life of the Class K founder shares. Based on assumptions regarding potential changes in control of the Company, and the probability distribution of outcomes, the payoff to the holder was determined based on the achievement of the various market thresholds within each simulated path. The present value of the payoff in each simulated trial is calculated, and the fair value of the liability is determined by taking the average of all present values.
+The inputs used as of December 31, 2021 were as follow: risk free rate: 1.54%; term to business combination: 0.5 years; expected volatility: 10.5% and stock price: $9.70.
+Recent Accounting Standards
+Management does not believe that any recently issued, but not yet effective, accounting standards, if currently adopted, would have a material effect on our financial statements.
+Item 7.A.
+Quantitative and Qualitative Disclosures About Market Risk.
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information otherwise required under this item.
+Item 8.
+Financial Statements and Supplementary Data.
+Reference is made to pages
+through
+comprising a portion of this Annual Report on Form 10-K.
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+None.
+Item 9A.
+Controls and Procedures.
+Evaluation of disclosure controls and procedures
+Disclosure controls and procedures are designed to ensure that information required to be disclosed by us in our Exchange Act reports is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure.
+Under the supervision and with the participation of our management, including our principal executive officer and principal financial and accounting officer, we conducted an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the fiscal year ended December 31, 2021, as such term is defined in Rules 13a-15(e)
+and 15d-15(e)
+under the Exchange Act.
+Based on this evaluation, our principal executive officer and principal financial and accounting officer have concluded that during the period covered by this report, our disclosure controls and procedures were not effective due to material weaknesses in internal controls over financial reporting related to inaccurate accounting. Management identified errors in its historical financial statements related to the accounting for the Class A common stock and the Class K founder shares. Because the Class A common stock issued in the IPO can be redeemed or become redeemable subject to the occurrence of future events considered outside of the Company’s control, the Company should have classified all of these redeemable shares in temporary equity and remeasured these redeemable shares to their redemption value (i.e., $10.00 per share) as of the end of the first reporting period after the date of the Company’s IPO. Management also concluded that it incorrectly accounted for the Class K founder shares as permanent equity versus a derivative liability.
+To address these material weaknesses, management has devoted, and plans to continue to devote, significant effort and resources to the remediation and improvement of its internal control over financial reporting and to provide processes and controls over the internal communications within the Company, financial advisors and independent registered public accounting firm. While we have processes to identify and appropriately apply applicable accounting requirements, we plan to enhance these processes to better evaluate our research and understanding of the nuances of the complex accounting standards that apply to our financial statements. We plan to include providing enhanced access to accounting literature, research materials and documents and increased communication among our personnel and third-party professionals with whom we consult regarding complex accounting applications. The elements of our remediation plan can only be accomplished over time, and we can offer no assurance that these initiatives will ultimately have the intended effects. Other than this issue, our disclosure controls and procedures were effective at a reasonable assurance level and, accordingly, provided reasonable assurance that the information required to be disclosed by us in reports filed under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms.
+Management’s annual report on internal control over financial reporting
+This Annual Report on Form 10-K
+does not include a report of management’s assessment regarding our internal control over financial reporting (as defined in Rules 13a-15(f)
+and 15d-15(f)
+under the Exchange Act) or an attestation report of our independent registered accounting firm due to a transition period established by rules of the SEC for newly public companies. Additionally, our independent registered accounting firm will not be required to opine on the effectiveness of our internal control over financial reporting pursuant to Section 404 until we are no longer an “emerging growth company” as defined in the JOBS Act.
+Changes in internal control over financial reporting
+For the period from January 15, 2021 (inception) through December 31, 2021, there has been no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting, as the circumstances that led to the material weakness described above had not yet been identified. We are in the process of implementing changes to our internal control over financial reporting to remediate such material weaknesses, as more fully described above. The elements of our remediation plan can only be accomplished over time, and we can offer no assurance that these initiatives will ultimately have the intended effects.
+Item 9B.
+Other Information.
+None.
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+Not Applicable.
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance.
+The following table provides information regarding our executive officers and members of our board of directors (ages as of the date of this Annual Report on Form 10-K):
+The experience of our directors and executive officers is as follows:
+Executive Officers
+Samir Kaul
+Mr. Kaul has served as our Chief Executive Officer since inception and a member of our board of directors since January 2021. Mr. Kaul has been a General Partner at Khosla Ventures, a venture capital firm, since February 2006 and currently serves on the boards of directors of several private and public companies, including Guardant Health and Jack Creek Investment Corp. Additionally, Mr. Kaul has served as President, Chief Executive Officer and Director of KV Acquisition I and KV Acquisition III since their inceptions in January 2021. Mr. Kaul holds a B.S. degree in Biology from the University of Michigan, an M.S. degree in Biochemistry from the University of Maryland and an M.B.A. degree from Harvard Business School. We believe that Mr. Kaul is qualified to serve as a member of our Board due to his wide-ranging experience in technology companies and insight in the management of startup companies and the building of companies from early stage to commercial scale.
+Peter Buckland
+Mr. Buckland has served as our Chief Operating Officer, Chief Financial Officer, Treasurer and Secretary since January 2021. Mr. Buckland has been a Partner, Managing Director and COO at Khosla Ventures since October 2019. Prior to joining Khosla Ventures, Mr. Buckland was a Partner at WilmerHale LLP, where he was Vice Chair of its Corporate Group and led the firm’s emerging growth technology practice. Additionally, Mr. Buckland has served as the Chief Operating Officer, Chief Financial Officer, Treasurer and Secretary of KV Acquisition I and KV Acquisition III since their inceptions in January 2021. Mr. Buckland received his bachelor’s degrees from the University of California Santa Barbara and his JD from the University of San Francisco School of Law.
+Non-Employee
+Directors
+Rajiv J. Shah
+Dr. Shah has served as President of the Rockefeller Foundation, a private foundation with a mission to promote the well-being of humanity around the world, since 2017. Prior to joining the Rockefeller Foundation, Dr. Shah was appointed USAID Administrator by President Barack H. Obama in 2009. Prior to his appointment at USAID, Dr. Shah served as Chief Scientist and Undersecretary for Research, Education and Economics at the United States Department of Agriculture where he created the National Institute for Food and Agriculture. Dr. Shah founded Latitude Capital in 2015, a private equity firm focused on power and infrastructure projects in Africa and
+Asia, and he served as a Distinguished Fellow in Residence at Georgetown University. Previously, he served at the Bill & Melinda Gates Foundation. Dr. Shah holds a B.S. in Economics from the University of Michigan, a Medical Doctorate from the University of Pennsylvania School of Medicine, and a M.S.C. in Health Economics from the Wharton School of Business.
+Derek Anthony West
+Mr. West has served as Uber’s (NYSE: UBER) Chief Legal Officer and Corporate Secretary since November 2017. Prior to joining Uber, Mr. West served as Executive Vice President, Government Affairs, General Counsel and Corporate Secretary from November 2014 to November 2017 at PepsiCo Inc. (NASDAQ: PEP), a food and beverage company. Prior to joining PepsiCo, Mr. West served as Associate Attorney General of the United States from March 2012 to September 2014, after previously serving as the Assistant Attorney General for the Civil Division in the U.S. Department of Justice from April 2009 to March 2012. From November 2001 to April 2009, Mr. West was a partner at Morrison & Foerster LLP. He also served as Special Assistant Attorney General at the California Department of Justice from 1999 to 2001 and, prior to that, as an Assistant United States Attorney in the Northern District of California.
+Molly Coye
+Ms. Coye is the Executive in Residence at AVIA Health, the nation’s leading digital transformation partner for healthcare organizations, since 2016. Prior to joining AVIA Health, Ms. Coye served as a Senior Advisor at the Network for Excellence in Health Innovation (NEHI) from 2015 until 2017. Ms. Coye also served as an Advisor at the Massachusetts Health Policy Commission from 2016 to 2017. Ms. Coye holds a Doctor of Medicine from The Johns Hopkins University School of Medicine and a Master of Public Health from The Johns Hopkins Bloomberg School of Public Health.
+Mario Schlosser
+Mr. Schlosser founded Oscar Insurance, a technology-driven health insurance company, and has served as their Chief Executive Officer since their incorporation in 2012. Prior to founding Oscar, Mr. Schlosser co-founded
+Votsu in 2006, a video game development company, where he led their analytics and game design practices. Prior to co-founding
+Votsu, Mr. Schlosser worked as a Senior Investment Associate at Bridgewater Associates and as a consultant for McKinsey & Company. In 2002, he was a visiting scholar at Stanford University. Mr. Schlosser holds a Masters in Electrical Engineering from the University of Hannover and an MBA from Harvard Business School.
+Dmitri Shklovsky
+Mr. Shklovsky is the founder and managing partner of Bullingham Capital, a New York based private investment firm. Prior to 2019, Mr. Shkolvsky was a co-founder
+and managing partner of Atreaus Capital, a multi-billion dollar global macro and commodities hedge fund with offices in New York and London. Before co-founding
+Atreaus Capital in 2011, he served as a proprietary trader at both J.P. Morgan and Barclays. Mr. Shklovsky was also with Tudor Investment Corporation, a leading multi-strategy hedge fund, and he began his career in 1998 at Long Term Capital Management, a Greenwich CT based hedge fund. Mr. Shklovsky is a trustee and a board member of the U.S. Olympic and Paralympic Foundation and serves on the Cornell University Engineering College Council. He received his B.S. in Computer Science and M.Eng. in Operations Research and Financial Engineering from Cornell University.
+Family Relationships
+There are no family relationships among any of our directors or executive officers.
+Number and Terms of Office of Officers and Directors
+Our board of directors is divided into three classes, with only one class of directors being elected in each year and with each class (except for those directors appointed prior to our first annual meeting of stockholders) serving a three-year term. In accordance with the Nasdaq corporate governance requirements, we are not required to hold an annual meeting until one year after our first fiscal year end following our listing on Nasdaq. The term of office of the first class of directors, consisting of Rajiv Sah and Derek Anthony West, and a vacant seat following the resignation of Jagdeep Singh, will expire at our first annual meeting of stockholders. The term of office of the second class of directors, consisting of Molly Coye and Dmitri Shklovsky, will expire at our second annual meeting of the stockholders. The term of office of the third class of directors, consisting of Samir Kaul and Mario Schlosser, will expire at our third annual meeting of stockholders. We may not hold an annual meeting of stockholders until after we complete our initial business combination.
+Prior to the completion of an initial business combination, any vacancy on the board of directors may be filled by a nominee chosen by holders of a majority of our founder shares. In addition, prior to the completion of an initial business combination, holders of a majority of our founder shares may remove a member of the board of directors for any reason.
+Pursuant to an agreement entered into concurrently with the issuance and sale of the securities in our IPO, our sponsor, upon completion of an initial business combination, will be entitled to nominate individuals for election to our board of directors, as long as our sponsor holds any securities covered by the registration rights agreement.
+Our officers are appointed by the board of directors and serve at the discretion of the board of directors, rather than for specific terms of office. Our board of directors is authorized to nominate persons to the offices set forth in our amended and restated certificate of incorporation as it deems appropriate. Our amended and restated certificate of incorporation provides that our officers may consist of one or more chairman of the board of directors, chief executive officer, president, chief financial officer, vice presidents, secretary, treasurer and such other offices as may be determined by the board of directors.
+Director Independence
+Nasdaq listing standards require that a majority of our board of directors be independent within one year of our IPO. An “independent director” is defined generally as a person other than an officer or employee of the company or its subsidiaries or any other individual having a relationship which in the opinion of the company’s board of directors, would interfere with the director’s exercise of independent judgment in carrying out the responsibilities of a director. Our board of directors has determined that Mr. Shah, Mr. West, Ms. Coye, Mr. Schlosser and Mr. Shklovsky are “independent directors” as defined in Nasdaq listing standards and applicable SEC rules. Our independent directors will have regularly scheduled meetings at which only independent directors are present.
+Committees of the Board of Directors
+Our board of directors has three standing committees:
+an audit committee, a compensation committee and a corporate governance and nominating committee. Subject to phase-in
+rules and a limited exception, the rules of Nasdaq and Rule 10A of the Exchange Act require that the audit committee of a listed company be comprised solely of independent directors. Subject to phase-in
+rules and a limited exception, the rules of Nasdaq require that the compensation committee of a listed company be comprised solely of independent directors.
+Subject to phase-in
+rules and a limited exception, the rules of Nasdaq require that the corporate governance and nominating committee of a listed company be comprised solely of independent directors.
+Audit Committee
+Mr. Shklovsky and Mr. Shah serve as members of our audit committee, with one seat currently empty following the resignation of Jagdeep Singh. We are within the cure period under Nasdaq listing standards and are working diligently to appoint a third member per Nasdaq audit committee requirements. Our board of directors has determined that each of Mr. Shklovsky and Mr. Shah is independent under Nasdaq listing standards and
+applicable SEC rules. Mr. Shklovsky serves as the chairman of the audit committee. Each member of the audit committee is financially literate and our board of directors has determined that Mr. Shklovsky qualifies as an “audit committee financial expert” as defined in applicable SEC rules. The principal functions of the audit committee include:
+•
+appointing, compensating and overseeing our independent registered public accounting firm;
+•
+reviewing and approving the annual audit plan for the company;
+•
+overseeing the integrity of our financial statements and our compliance with legal and regulatory requirements;
+•
+discussing the annual audited financial statements and unaudited quarterly financial statements with management and the independent registered public accounting firm;
+•
+pre-approving
+all audit services and permitted non-audit
+services to be performed by our independent registered public accounting firm, including the fees and terms of the services to be performed;
+•
+appointing or replacing the independent registered public accounting firm;
+•
+establishing procedures for the receipt, retention and treatment of complaints (including anonymous complaints) we receive concerning accounting, internal accounting controls, auditing matters or potential violations of law;
+•
+monitoring our environmental sustainability and governance practices;
+•
+establishing procedures for the receipt, retention and treatment of complaints received by us regarding accounting, internal accounting controls or reports which raise material issues regarding our financial statements or accounting policies;
+•
+approving audit and non-audit
+services provided by our independent registered public accounting firm;
+•
+discussing earnings press releases and financial information provided to analysts and rating agencies;
+•
+discussing with management our policies and practices with respect to risk assessment and risk management;
+•
+reviewing any material transaction between our Chief Financial Officer that has been approved in accordance with our Code of Ethics for our officers, and providing prior written approval of any material transaction between us and our President; and
+•
+producing an annual report for inclusion in our proxy statement, in accordance with applicable rules and regulations.
+The audit committee is a separately designated standing committee established in accordance with Section 3(a)(58)(A) of the Exchange Act.
+Compensation Committee
+Mr. West and Mr. Schlosser serve as members of our compensation committee and Mr. West serves as chairman of the compensation committee.
+Under Nasdaq listing standards and applicable SEC rules, we are required to have a compensation committee composed entirely of independent directors. Our board of directors has determined that each of Mr. West and Mr. Schlosser is independent. In connection with our IPO, we adopted a compensation committee charter, which details the principal functions of the compensation committee, including:
+•
+reviewing and approving corporate goals and objectives relevant to our President’s compensation, evaluating our President’s performance in light of those goals and objectives, and setting our President’s compensation level based on this evaluation;
+•
+setting salaries and approving incentive compensation and equity awards, as well as compensation policies, for all other officers who file reports of their ownership, and changes in ownership, of the company’s common stock under Section 16(a) of the Exchange Act (the “Section 16 Officers”), as designated by our board of directors;
+•
+making recommendations to the board of directors with respect to incentive compensation programs and equity-based plans that are subject to board approval;
+•
+approving any employment or severance agreements with our Section 16 Officers;
+•
+granting any awards under equity compensation plans and annual bonus plans to our President and the Section 16 Officers;
+•
+approving the compensation of our directors; and
+•
+producing an annual report on executive compensation for inclusion in our proxy statement, in accordance with applicable rules and regulations.
+The charter also provides that the compensation committee may, in its sole discretion, retain or obtain the advice of a compensation consultant, legal counsel or other adviser and will be directly responsible for the appointment, compensation and oversight of the work of any such adviser. However, before engaging or receiving advice from a compensation consultant, external legal counsel or any other adviser, the compensation committee will consider the independence of each such adviser, including the factors required by Nasdaq and the SEC.
+Compensation Committee Interlocks and Insider Participation
+None of our executive officers currently serves, and in the past year has not served, as a member of the compensation committee of any entity that has one or more executive officers serving on our board of directors.
+Corporate Governance and Nominating Committee
+Ms. Coye serves as the sole member of our corporate governance and nominating committee, with one seat empty following the resignation of Jagdeep Singh. A chairman of the corporate governance and nominating committee has not yet been appointed. Under the Nasdaq listing standards, we are required to have a corporate governance and nominating committee composed entirely of independent directors. Our board of directors has determined that Ms. Coye is independent.
+The primary functions of the corporate governance and nominating committee include:
+•
+identifying individuals qualified to become members of the board of directors and making recommendations to the board of directors regarding nominees for election;
+•
+reviewing the independence of each director and making a recommendation to the board of directors with respect to each director’s independence;
+•
+developing and recommending to the board of directors the corporate governance principles applicable to us and reviewing our corporate governance guidelines at least annually;
+•
+making recommendations to the board of directors with respect to the membership of the audit, compensation and corporate governance and nominating committees;
+•
+overseeing the evaluation of the performance of the board of directors and its committees on a continuing basis, including an annual self-evaluation of the performance of the corporate governance and nominating committee;
+•
+considering the adequacy of our governance structures and policies, including as they relate to our environmental sustainability and governance practices;
+•
+considering director nominees recommended by stockholders; and
+•
+reviewing our overall corporate governance and reporting to the board of directors on its findings and any recommendations.
+Guidelines for Selecting Director Nominees
+The guidelines for selecting nominees to our board of directors, as specified in a charter we adopted in connection with our IPO, generally provide that persons to be nominated:
+•
+should possess personal qualities and characteristics, accomplishments and reputation in the business community;
+•
+should have current knowledge and contacts in the communities in which we do business and in our industry or other industries relevant to our business;
+•
+should have the ability and willingness to commit adequate time to the board of directors and committee matters;
+•
+should demonstrate ability and willingness to commit adequate time to the board of directors and committee matters;
+•
+should possess the fit of the individual’s skills and personality with those of other directors and potential directors in building a board of directors that is effective, collegial and responsive to our needs; and
+•
+should demonstrate diversity of viewpoints, background, experience, and other demographics, and all aspects of diversity in order to enable the board of directors to perform its duties and responsibilities effectively, including candidates with a diversity of age, gender, nationality, race, ethnicity, and sexual orientation.
+Each year in connection with the nomination of candidates for election to the board of directors, the corporate governance and nominating committee will evaluate the background of each candidate, including candidates that may be submitted by our stockholders.
+Conflicts of Interest
+In general, officers and directors of a corporation incorporated under the laws of the State of Delaware are required to present business opportunities to a corporation if:
+•
+the corporation could financially undertake the opportunity;
+•
+the opportunity is within the corporation’s line of business; and
+•
+it would not be fair to our company and its stockholders for the opportunity not to be brought to the attention of the corporation.
+Certain of our officers and directors presently have, and any of them in the future may have additional, fiduciary or contractual obligations to other entities, including entities that are affiliates of our sponsor, pursuant to which such officer or director is or will be required to present a business combination opportunity to such entity. Accordingly, if any of our officers or directors becomes aware of a business combination opportunity which is suitable for an entity to which he or she has then-current fiduciary or contractual obligations, he or she will honor his or her fiduciary or contractual obligations to present such business combination opportunity to such entity, subject to their fiduciary duties under Delaware law. We do not believe, however, that the fiduciary duties or contractual obligations of our officers or directors will materially affect our ability to identify and pursue business combination opportunities or to complete our initial business combination.
+In addition, our sponsor, officers and directors may participate in the formation of, or become an officer or director of, any other blank check company prior to completion of our initial business combination. As a result, our sponsor, officers or directors could have conflicts of interest in determining whether to present business combination opportunities to us or to any other blank check company with which they may become involved. In particular, affiliates of our sponsor are currently sponsoring another blank check company, KV Acquisition III. KV Acquisition III may seek to complete a business combination in any location and is not focusing on any particular industry for business combinations. Further, Mr. Khosla, our Founder; Mr. Kaul, our, President, Chief Executive Officer and director; and Mr. Buckland, our Chief Operating Officer, Chief Financial Officer, Treasurer and Secretary, serve in the same capacities for KV Acquisition III. Any such companies, including KV Acquisition III, may present additional conflicts of interest in pursuing an acquisition target. However, we do not believe that any potential conflicts with KV Acquisition III would materially affect our ability to complete our initial business combination because our management team has significant experience in identifying and executing multiple acquisition opportunities simultaneously and we are not limited by industry or geography in terms of the acquisition opportunities we can pursue. Although we have no formal policy in place for vetting potential conflicts of interest, our board of directors will review any potential conflicts of interest on a case-by-case
+basis.
+Below is a table summarizing the entities to which our founder, executive officers, directors and director nominees currently have fiduciary duties, contractual obligations or other material management relationships:
+Individual
+Entity
+Entity’s Business
+Affiliation
+Vinod Khosla
+Khosla Ventures(1)
+Technology
+Founder
+KV Acquisition III(2)
+Blank Check Company
+Founder
+Samir Kaul
+Khosla Ventures(1)
+Technology
+Managing Director, General Partner
+KV Acquisition III(2)
+Blank Check Company
+President, Chief Executive Officer and Director
+Jack Creek Investment Corp.
+Blank Check Company
+Director
+Peter Buckland
+Khosla Ventures(1)
+Technology
+Managing Director, General Partner and Chief Operating Officer
+KV Acquisition III(2)
+Blank Check Company
+Chief Operating Officer, Chief Financial Officer, Treasurer and Secretary
+Rajiv Shah
+Omeros Corporation
+Healthcare
+Director
+Rockefeller Foundation
+Non Profit
+President
+Derek Anthony West
+Uber
+Technology
+Chief Legal Officer
+Molly Coye
+Amedisys
+Healthcare
+Director
+AVIA Health
+Healthcare
+Executive in Residence
+Mario Schlosser
+Oscar(3)
+Insurance
+Chief Executive Officer
+Dmitri Shklovsky
+Bullingham Capital
+Venture Capital
+Founder
+(1) Includes Khosla Ventures and certain of its funds and other affiliates including affiliated portfolio companies.
+(2) These entities’ amended and restated certificates of incorporation contain a waiver of the corporate opportunity doctrine. Accordingly, there are no conflicting obligations to bring opportunities to these entities before the Company.
+(3) Includes Oscar Insurance Corporation and other affiliates.
+Potential investors should also be aware of the following other potential conflicts of interest:
+•
+Our officers and directors are not required to, and will not, commit their full time to our affairs, which may result in a conflict of interest in allocating their time between our operations and our search for a business combination and their other businesses. We do not intend to have any full-time employees prior to the completion of our initial business combination. Each of our officers and directors is engaged in several other business endeavors for which he may be entitled to substantial compensation, and our executive officers and directors are not obligated to contribute any specific number of hours per week to our affairs.
+•
+Our sponsor, directors and each member of our management team have entered into agreements with us, pursuant to which they have agreed to waive their redemption rights with respect to their founder shares and any public shares held by them in connection with (i) the completion of our initial business combination and (ii) a stockholder vote to approve an amendment to our amended and restated certificate of incorporation that would affect the substance or timing of our obligation to allow redemption in connection with our initial business combination or to redeem 100% of our public shares if we have not completed an initial business combination within the combination period. Additionally, our sponsor has agreed to waive their rights to liquidating distributions from the trust account with respect to their founder shares if we do not complete our initial business combination within the prescribed time frame. Except as described herein, our sponsor and our directors and executive officers have agreed not to transfer, assign or sell (i) any of their Class B founder shares (and any shares of our Class A common stock issuable upon conversion thereof) until the earlier to occur of: (A) one year after the completion of our initial business combination or (B) subsequent to our initial business combination, (x) if the last sale price of our Class A common stock equals or exceeds $12.00 per share (as adjusted for stock splits, stock dividends, reorganizations, recapitalizations and the like) for any 20 trading days within any 30-trading
+day period commencing at least 150 days after our initial business combination, or (y) the date on which we complete a liquidation, merger, capital stock exchange, reorganization or other similar transaction that results in all of our stockholders having the right to exchange their shares of common stock for cash, securities or other property and (ii) any of their shares of Class K common stock for any reason, other than to specified permitted transferees or subsequent to our initial business combination in connection with a liquidation, merger, capital stock exchange, reorganization or other similar transaction that results in all of our stockholders having the right to exchange their shares of common stock for cash, securities or other property; provided, that any shares of Class A commons stock issued upon conversion of any shares of Class K common stock will not be subject to such restrictions on transfer.
+•
+The private placement shares acquired by our sponsor will not be transferable until 30 days following the completion of our initial business combination. Because certain of our executive officers and directors will own common stock directly or indirectly, they may have a conflict of interest in determining whether a particular target business is an appropriate business with which to effectuate our initial business combination.
+•
+Our officers and directors may have a conflict of interest with respect to evaluating a particular business combination if the retention or resignation of any such officers and directors is included by a target business as a condition to any agreement with respect to our initial business combination.
+We are not prohibited from pursuing an initial business combination with a business that is affiliated with our sponsor, officers or directors. In the event we seek to complete our initial business combination with a business that is affiliated with our sponsor, officers or directors, we, or a committee of independent directors, will obtain an opinion from either an independent investment banking firm that is a member of FINRA or from an independent accounting firm that such initial business combination is fair to our company from a financial point of view. Furthermore, in the event that we seek such a business combination, we expect that the independent members of our board of directors would be involved in the process for considering, and approving the transaction. Furthermore, in no event will our sponsor or any of our existing officers or directors, or any of their respective affiliates, be paid by the company any finder’s fee, consulting fee or other compensation prior to, or for any services they render in order to effectuate, the completion of our initial business combination.
+We cannot assure you that any of the above mentioned conflicts will be resolved in our favor.
+In the event that we submit our initial business combination to our public stockholders for a vote, our sponsor, officers and directors have agreed to vote their founder shares, and our sponsor and the members of our management team have agreed to vote any shares purchased during or after the offering, in favor of our initial business combination.
+Limitation on Liability and Indemnification of Officers and Directors
+Our amended and restated certificate of incorporation provides that our officers and directors will be indemnified by us to the fullest extent authorized by Delaware law, as it now exists or may in the future be amended. In addition, our amended and restated certificate of incorporation provides that our directors will not be personally liable for monetary damages to us or our stockholders for breaches of their fiduciary duty as directors, unless they violated their duty of loyalty to us or our stockholders, acted in bad faith, knowingly or intentionally violated the law, authorized unlawful payments of dividends, unlawful stock purchases or unlawful redemptions, or derived an improper personal benefit from their actions as directors.
+We have entered into agreements with our officers and directors to provide contractual indemnification in addition to the indemnification provided for in our amended and restated certificate of incorporation. Our bylaws also permit us to secure insurance on behalf of any officer, director or employee for any liability arising out of his or her actions, regardless of whether Delaware law would permit such indemnification.
+We have purchased a policy of directors’ and officers’ liability insurance that insures our officers and directors against the cost of defense, settlement or payment of a judgment in some circumstances and insures us against our obligations to indemnify our officers and directors. Our officers and directors have agreed to waive any right, title, interest or claim of any kind in or to any monies in the trust account, and have agreed to waive any right, title, interest or claim of any kind they may have in the future as a result of, or arising out of, any services provided to us and will not seek recourse against the trust account for any reason whatsoever (except to the extent they are entitled to funds from the trust account due to their ownership of public shares). Accordingly, any indemnification provided will only be able to be satisfied by us if (i) we have sufficient funds outside of the trust account or (ii) we complete an initial business combination.
+Our indemnification obligations may discourage stockholders from bringing a lawsuit against our officers or directors for breach of their fiduciary duty. These provisions also may have the effect of reducing the likelihood of derivative litigation against our officers and directors, even though such an action, if successful, might otherwise benefit us and our stockholders. Furthermore, a stockholder’s investment may be adversely affected to the extent we pay the costs of settlement and damage awards against our officers and directors pursuant to these indemnification provisions.
+We believe that these provisions, the insurance and the indemnity agreements are necessary to attract and retain talented and experienced officers and directors.
+Code of Ethics and Business Conduct
+We have adopted a Code of Ethics and Business Conduct applicable to our directors, officers and employees, including our principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions. A copy of the Code of Ethics and Business Conduct will be provided without charge upon request from us. We intend to disclose any amendments to or waivers of certain provisions of our Code of Ethics and Business Conduct and in a Current Report on Form 8-K.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires our officers, directors and persons who beneficially own more than ten percent of our common stock to file reports of ownership and changes in ownership with the SEC. These reporting persons are also required to furnish us with copies of all Section 16(a) forms they file. Based solely upon a review of such forms, we believe that during the year ended December 31, 2021 there were no delinquent filers.
+Item 11.
+Executive Compensation.
+None of our officers or directors have received any cash compensation for services rendered to us. Our sponsor, officers and directors, or any of their respective affiliates will be reimbursed for any out-of-pocket
+expenses incurred in connection with activities on our behalf such as identifying potential target businesses and performing due diligence on suitable business combinations. Our audit committee reviews on a quarterly basis all payments made to our sponsor, officers or directors, or our or their respective affiliates. Any such payments prior to an initial business combination are made using funds held outside the trust account. Other than quarterly audit committee review of such reimbursements, we do not have any additional controls in place governing our reimbursement payments to our directors and officers for their out-of-pocket
+expenses incurred in connection with our activities on our behalf in connection with identifying and completing an initial business combination. In addition, in connection with our IPO, our sponsor transferred 40,000 Class B founder shares to each of our initial independent directors at their original purchase price. The founder shares will be worthless if we do not complete an initial business combination. Other than these payments and reimbursements, no compensation of any kind, including finder’s and consulting fees, have been or will be paid by the company to our sponsor, officers and directors, or any of their respective affiliates, prior to completion of our initial business combination.
+After the completion of our initial business combination, members of our management team who remain with us may be paid consulting or management fees from the combined company. All of these fees will be fully disclosed to stockholders, to the extent then known, in the proxy solicitation materials or tender offer materials furnished to our stockholders in connection with a proposed business combination. We have not established any limit on the amount of such fees that may be paid by the combined company to our members of management. It is unlikely the amount of such compensation will be known at the time of the proposed business combination, because the directors of the post-combination business will be responsible for determining officer and director compensation. Any compensation to be paid to our officers will be determined, or recommended to the board of directors for determination, either by a compensation committee constituted solely by independent directors or by a majority of the independent directors on our board of directors.
+We do not intend to take any action to ensure that members of our management team maintain their positions with us after the completion of our initial business combination, although it is possible that some or all of our officers and directors may negotiate employment or consulting arrangements to remain with us after our initial
+business combination. The existence or terms of any such employment or consulting arrangements to retain their positions with us may influence our management’s motivation in identifying or selecting a target business but we do not believe that the ability of our management to remain with us after the completion of our initial business combination will be a determining factor in our decision to proceed with any potential business combination. We are not party to any agreements with our officers and directors that provide for benefits upon termination of employment.
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+The following table sets forth information regarding the beneficial ownership of our Class A common stock as of March 28, 2022 based on information obtained from the persons named below, with respect to the beneficial ownership of Class A common stock, by:
+•
+each person known by us to be the beneficial owner of more than 5% of our outstanding shares of Class A common stock;
+•
+each of our executive officers and directors that beneficially owns shares of Class A common stock; and
+•
+all our executive officers and directors as a group.
+In the table below, percentage ownership is based on 34,500,000 shares of our Class A common stock, issued and outstanding as of March 28, 2022. Unless otherwise indicated, we believe that all persons named in the table have sole voting and investment power with respect to all Class A common stock beneficially owned by them.
+* less than 1%.
+(1) Unless otherwise noted, the business address of each of the following entities or individuals is c/o Khosla Ventures Acquisition Co., 2128 Sand Hill Road, Menlo Park, CA 94025.
+(2) Our sponsor holds 990,000 shares of Class A common stock purchased in the private placement at the time of our IPO and 4,760,000 shares of Class B common stock purchased from us prior to our IPO. Each of our independent directors, Mr. Shah, Mr. West, Ms. Coye and Mr. Shklovsky, holds 40,000 shares of Class B common stock transferred to him or her by our sponsor prior to our IPO at the original purchase price. On the first day following the completion of our business combination, the Class B founder shares will automatically convert into a number of shares of our Class A common stock equal to 15% of the sum of (i) the total number of all shares of Class A common stock issued and outstanding upon completion of our IPO, plus (ii) the total number of shares of Class A common stock issued or deemed issued or issuable upon conversion of the Class B founder shares plus (iii) unless waived, the total number of shares of Class A common stock issued or deemed issued or issuable upon conversion or exercise of any equity-linked securities (as defined herein) or rights issued or deemed issued, by the Company in connection with or in relation to the consummation of the initial business combination, excluding (x) any shares of Class A common stock or equity-linked securities exercisable for or convertible into shares of Class A common stock issued, deemed issued, or to be issued, to any seller in the initial business combination, (y) any shares of Class A common stock issuable upon conversion of the Class K founder shares and (z) any private placement shares. If calculated based on the public shares outstanding as of immediately after our IPO the shares of Class B common stock would be convertible (on the first day following the completion of our business combination) into an aggregate of 6,088,235 shares of Class A common stock, of which 5,796,999 would be held by our sponsor and 48,706 would be held by each of our initial independent directors.
+(3) Does not include shares of Class A common stock that may be issuable upon conversion of the 5,000,000 shares of Class K common stock, which amount would be up to 8,697,479 shares of Class A common stock as of immediately after our IPO. The Class K founder shares are non-voting
+and will convert into shares of Class A common stock after our initial business combination, subject to adjustment pursuant to certain anti-dilution rights, as described herein, but only to the extent certain triggering events occur prior to the 10th anniversary of our initial business combination including three equal triggering events based on our stock trading at $30.00, $40.00 and $50.00 per share following the first anniversary of the closing of our initial business combination and also upon specified strategic transactions. Notwithstanding the foregoing, all shares of Class K common stock that are issued and outstanding on the 10th anniversary of our initial business combination will be automatically forfeited.
+(4) Khosla Ventures SPAC Sponsor Services LLC is the owner of Khosla Ventures SPAC Sponsor LLC. Vinod Khosla and Samir Kaul are the joint managers of Khosla Ventures SPAC Sponsor Services LLC, and indirectly own equity interests in Khosla Ventures SPAC Sponsor Services LLC through VK Services LLC and SK SPAC Services, LLC, respectively. As such, each of VK Services LLC, SK SPAC Services, LLC and Messrs. Khosla and Kaul may be deemed to share beneficial ownership of the shares held directly by our sponsor.
+(5) Citadel Advisors LLC is the portfolio manager for Citadel Multi-Strategy Equities Master Fund Ltd. Citadel Advisors Holdings LP is the sole member of Citadel Advisors LLC. Citadel GP LLC is the general partner of Citadel Advisors Holdings LP. Kenneth Griffin is the President and Chief Executive Officer of, and owns a controlling interest in, Citadel GP LLC. The address of these beneficial owners is 131 S. Dearborn Street, 32nd
+Floor, Chicago, Illinois 60603. Information with respect these beneficial holders is based solely on a Schedule 13G/A filed by them on February 14, 2022.
+(6) Sculptor Capital LP and Sculptor Capital II LP serve as the principal investment managers to the private funds and discretionary accounts in which the common stock is held, and thus may be deemed beneficial owners of the common stock in the accounts managed by Sculptor Capital LP and Sculptor Capital II LP. Sculptor Capital Holding II LLC serves as the sole general partner of Sculptor Capital II LP and is wholly owned by Sculptor Capital LP. Sculptor Capital Holding Corporation serves as the sole general partner of Sculptor Capital LP. As such, Sculptor Capital Holding Corporation and Sculptor Capital Holding II LLC may be deemed to control Sculptor Capital LP as well as Sculptor Capital II LP and, therefore, may be deemed to be the beneficial owners of the common stock. Sculptor Capital Management, Inc. is the sole shareholder of Sculptor Capital Holding Corporation, and may be deemed a beneficial owner of the common stock. The address of these beneficial holders is 9 West 57th
+Street, New York, NY 10019. Information with respect to these beneficial holders is based solely on a Schedule 13G filed by them on February 2, 2022.
+Holders of our public shares do not have the right to appoint any directors to our board of directors prior to our initial business combination. Because of this ownership block, our initial stockholders may be able to effectively influence the outcome of all other matters requiring approval by our stockholders, including amendments to our amended and restated certificate of incorporation and approval of significant corporate transactions including our initial business combination.
+The holders of the founder shares have agreed (a) to vote any founder shares owned by it in favor of any proposed business combination and (b) not to redeem any founder shares in connection with a stockholder vote to approve a proposed initial business combination.
+Our sponsor and our officers and directors are deemed to be our “promoters” as such term is defined under the federal securities laws.
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence.
+Prior to our IPO, our sponsor paid an aggregate of $25,000, or approximately $0.0025 per share, in exchange for the issuance of 5,000,000 Class B founder shares, par value $0.0001, and 5,000,000 Class K founder shares, par value $0.0001.
+The founder shares (including the shares of our Class A common stock issuable upon exercise thereof) may not, subject to certain limited exceptions, be transferred, assigned or sold by the holder. Prior to the completion of our IPO, our sponsor transferred 40,000 shares of Class B common stock to each of our six initial independent directors at their original purchase price.
+Our sponsor has agreed to purchase an aggregate of up to 2,500,000 shares of Class A common stock (the “forward-purchase shares”) for $10.00 per share, or an aggregate maximum amount of $25,000,000, in a private placement that will close simultaneously with the closing of our initial business combination. The forward-purchase shares will be identical to our public shares, except the forward-purchase shares will be subject to transfer restrictions and certain registration rights.
+Our sponsor purchased an aggregate of 990,000 shares of Class A common stock for a purchase price of $10.00 per share in a private placement that occurred simultaneously with the closing of our IPO. The private placement shares may not, subject to certain limited exceptions, be transferred, assigned or sold by the holder.
+If any of our officers or directors becomes aware of a business combination opportunity that falls within the line of business of any entity to which he or she has then-current fiduciary or contractual obligations, he or she will honor his or her fiduciary or contractual obligations to present such opportunity to such entity. Our officers and directors currently have certain relevant fiduciary duties or contractual obligations that may take priority over their duties to us.
+Other than equity provided to our independent directors, no compensation of any kind, including finder’s and consulting fees, will be paid to our sponsor, officers and directors, or any of their respective affiliates, for services rendered prior to or in connection with the completion of an initial business combination. However, these individuals will be reimbursed for any out-of-pocket
+expenses incurred in connection with activities on our behalf such as identifying potential target businesses and performing due diligence on suitable business combinations. Our audit committee will review on a quarterly basis all payments that were made to our sponsor, officers, directors or our or their respective affiliates and will determine which expenses and the amount of expenses that will be reimbursed. There is no cap or ceiling on the reimbursement of out-of-pocket
+expenses incurred by such persons in connection with activities on our behalf.
+Our sponsor agreed to loan us up to $300,000 for a portion of the expenses of our IPO. As of December 31, 2021, we had borrowed $73,540 under the promissory note with our sponsor and repaid after the consummation of the IPO. This loan was non-interest
+bearing, unsecured and due at the closing of our IPO. The loan was repaid upon the closing of our IPO out of the offering proceeds that were allocated to the payment of offering expenses (other than underwriting fees payable).
+In order to finance transaction costs in connection with an intended initial business combination, our sponsor or an affiliate of our sponsor or certain of our officers and directors may, but are not obligated to, loan us funds as may be required. If we complete an initial business combination, we would repay such loaned amounts. In the event that the initial business combination does not close, we may use a portion of the working capital held outside the trust account to repay such loaned amounts but no proceeds from our trust account would be used for such repayment. The terms of such loans by our officers and directors, if any, have not been determined and no written agreements exist with respect to such loans. We do not expect to seek loans from parties other than our sponsor or an affiliate of our sponsor, as we do not believe third parties will be willing to loan such funds and provide a waiver against any and all rights to seek access to funds in our trust account.
+After our initial business combination, members of our management team who remain with us may be paid consulting, management or other fees from the combined company with any and all amounts being fully disclosed to our stockholders, to the extent then known, in the tender offer or proxy solicitation materials, as applicable, furnished to our stockholders. It is unlikely the amount of such compensation will be known at the time of distribution of such tender offer materials or at the time of a stockholder meeting held to consider our initial business combination, as applicable, as it will be up to the directors of the post-combination business to determine executive and director compensation.
+We entered into a registration rights agreement pursuant to which our sponsor is entitled to certain registration rights with respect to the private placement shares, the forward-purchase shares and the shares of our Class A common stock issuable upon conversion of the founder shares. The registration rights agreement is filed as an exhibit to this Annual Report on Form 10-K.
+Policy for Approval of Related Party Transactions
+The audit committee of our board of directors has adopted a charter providing for the review, approval and/or ratification of “related party transactions,” which are those transactions required to be disclosed pursuant to Item 404 of Regulation S-K
+as promulgated by the SEC, by the audit committee. At its meetings, the audit committee shall be provided with the details of each new, existing or proposed related party transaction, including the terms of the transaction, any contractual restrictions that the company has already committed to, the business purpose of the transaction and the benefits of the transaction to the company and to the relevant related party. Any member of the committee who has an interest in the related party transaction under review by the committee shall abstain from voting on the approval of the related party transaction, but may, if so requested by the chairman of the committee, participate in some or all of the committee’s discussions of the related party transaction. Upon completion of its review of the related party transaction, the committee may determine to permit or to prohibit the related party transaction. An affirmative vote of a majority of the members of the audit committee present at a meeting at which a quorum is present will be required in order to approve a related party transaction. A majority of the members of the entire audit committee will constitute a quorum. Without a meeting, the unanimous written consent of all of the members of the audit committee will be required to approve a related party transaction. Our audit committee will review on a quarterly basis all payments that were made by us to our sponsor, officers or directors, or our or any of their affiliates.
+These procedures are intended to determine whether any such related party transaction impairs the independence of a director or presents a conflict of interest on the part of a director, employee or officer.
+To further minimize conflicts of interest, we have agreed not to consummate an initial business combination with an entity that is affiliated with any of our sponsor, officers or directors unless we, or a committee of independent directors, have obtained an opinion from either an independent investment banking firm that is a member of FINRA or an independent accounting firm that our initial business combination is fair to our company from a financial point of view.
+Sponsor Indemnity
+Our sponsor has agreed that it will be liable to us if and to the extent any claims by a third party (other than our independent registered public accounting firm) for services rendered or products sold to us, or a prospective
+target business with which we have discussed entering into a transaction agreement, reduce the amounts in the trust account to below the lesser of (i) $10.00 per public share and (ii) the actual amount per share held in the trust account as of the date of the liquidation of the trust account if less than $10.00 per share due to reductions in the value of the trust assets, in each case net of the interest that may be withdrawn to pay our taxes, if any, provided that such liability will not apply to any claims by a third party or prospective target business that executed a waiver of any and all rights to seek access to the trust account nor will it apply to any claims under our indemnity of the underwriters of our IPO against certain liabilities, including liabilities under the Securities Act. Moreover, in the event that an executed waiver is deemed to be unenforceable against a third party, our sponsor will not be responsible to the extent of any liability for such third party claims. However, we have not asked our sponsor to reserve for such indemnification obligations, nor have we independently verified whether our sponsor has sufficient funds to satisfy their indemnity obligations and we believe that our sponsor’s only assets are securities of our company. Therefore, we cannot assure you that our sponsor would be able to satisfy those obligations. None of our officers or directors will indemnify us for claims by third parties including, without limitation, claims by vendors and prospective target businesses.
+Item 14.
+Principal Accountant Fees and Services.
+The following is a summary of the fees of Marcum, LLP (“Marcum”) and BDO USA, LLP (“BDO”) for services rendered billed to the Company during 2021, the year of our formation:
+Audit Fees.
+Audit fees consist of fees for professional services rendered for the audit of our year-end
+financial statements and services that are normally provided by Marcum and BDO in connection with regulatory filings. The aggregate fees of Marcum and BDO for professional services rendered for the audit of our annual financial statements and other required filings with the SEC for the year ended December 31, 2021 totaled $144,615. The aggregate fees of Marcum and BDO related to audit services in connection with our IPO totaled $46,654. The above amounts include interim procedures and audit fees, as well as attendance at audit committee meetings.
+Audit-Related Fees
+. Audit-related fees consist of fees billed for assurance and related services that are reasonably related to performance of the audit or review of our financial statements and are not reported under “Audit Fees.” These services include attest services that are not required by statute or regulation and consultations concerning financial accounting and reporting standards. During the year ended December 31, 2021 we did not pay BDO any audit-related fees.
+Tax Fees.
+We did not pay BDO for tax services, planning or advice for the year ended December 31, 2021.
+All Other Fees
+. We did not pay BDO for any other services for the year ended December 31, 2021.
+Pre-Approval
+Policy
+Our audit committee was formed upon the consummation of our IPO. As a result, the audit committee did not pre-approve
+all of the foregoing services, although any services rendered prior to the formation of our audit committee were approved by our board of directors. Since the formation of our audit committee, and on a going-forward basis, the audit committee has and will pre-approve
+all auditing services and permitted non-audit
+services to be performed for us by our auditors, including the fees and terms thereof (subject to the de minimis exceptions for non-audit
+services described in the Exchange Act which are approved by the audit committee prior to the completion of the audit).
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules
+(a)(1) Financial Statements.
+The following documents are included on pages
+through
+attached hereto and are filed as part of this Annual Report on Form 10-K.
+(a)(2) Financial Statement Schedules.
+All financial statement schedules are omitted because they are not applicable or the amounts are immaterial and not required, or the required information is presented in the financial statements and notes beginning on page
+of this Report.
+(a)(3) Exhibits.
+The following is a list of exhibits filed as part of this Annual Report on Form 10-K.
+Incorporated by Reference
+Filed/
+Furnished
+Herewith
+Exhibit
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing
+Date
+1.1
+Underwriting Agreement, dated March 3, 2021, among the Company and Goldman Sachs & Co. LLC, as representative of the several underwriters
+8-K
+001-40131
+1.1
+3/9/21
+3.1
+Second Amended and Restated Certificate of Incorporation, dated March 4, 2021
+8-K
+001-40131
+3.1
+3/9/21
+3.3
+Bylaws
+S-1
+333-253096
+3.3
+2/12/21
+4.1
+Specimen Class A Common Stock Certificate
+S-1
+333-253096
+4.1
+2/12/21
+4.2
+Description of Capital Stock.
+*
+10.1
+Investment Management Trust Agreement, dated March 3, 2021, between the Company and Continental Stock Transfer & Trust Company, as trustee
+8-K
+001-40131
+10.1
+3/9/21
+10.2
+Private Placement Shares Agreement, dated March 3, 2021, between the Company and the Sponsor
+8-K
+001-40131
+10.2
+3/9/21
+10.3
+Registration Rights Agreement, dated March 3, 2021, among the Company and certain security holders named therein
+8-K
+001-40131
+10.3
+3/9/21
+10.4
+Forward Purchase Agreement, dated March 3, 2021, among the Company and the Sponsor
+8-K
+001-40131
+10.4
+3/9/21
+10.5
+Letter Agreement, dated March 3, 2021, among the Company, the Sponsor, Vinod Khosla, Samir Kaul, Peter Buckland, Jagdeep Singh, Derek Anthony West, Rajiv Shah, Molly Coye, Mario Schlosser and Dmitri Shklovsky
+8-K
+001-40131
+10.5
+3/9/21
+10.6
+Form of Indemnity Agreement, dated March 3, 2021, between the Company and each of its officers and directors
+8-K
+001-40131
+10.6
+3/9/21
+10.7
+Voting Agreement, dated as of March 26, 2021
+8-K
+001-40131
+10.1
+3/26/21
+10.8
+Promissory Note, dated as of January 19, 2021, issued to the sponsor
+S-1
+333-253096
+10.5
+2/12/21
+10.9
+Securities Subscription Agreement, dated January 22, 2021, between the Registrant and the sponsor
+S-1
+333-253096
+10.6
+2/12/21
+Incorporated by Reference
+Filed/
+Furnished
+Herewith
+Exhibit
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing
+Date
+31.1
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a).
+*
+31.2
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a).
+*
+32.1
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350.
+**
+32.2
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350.
+**
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+*
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+*
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+*
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+*
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+*
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+*
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*
+* Filed herewith.
+** Furnished herewith.
+Item 16.
+Form 10-K
+Summary.
+None.
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+KHOSLA VENTURES ACQUISITION CO.
+Date: March 31, 2022
+By:
+/s/ Samir Kaul
+Samir Kaul
+Chief Executive Officer and President
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant in the capacities and on the dates indicated.
+Name
+Title
+Date
+/s/ Samir Kaul
+Chief Executive Officer, President and Director
+March 31, 2022
+Samir Kaul
+(Principal Executive Officer
+)
+/s/ Peter Buckland
+Chief Operating Officer, Chief Financial Officer, Treasurer and Secretary
+(Principal Financial Officer and Principal Accounting Officer)
+March 31, 2022
+Peter Buckland
+/s/ Rajiv J. Shah
+Director
+March 29, 2022
+Rajiv J. Shah
+/s/ Derek Anthony West
+Director
+March 28, 2022
+Derek Anthony West
+/s/ Molly Coye
+Director
+March 29, 2022
+Molly Coye
+/s/ Mario Schlosser
+Director
+March 29, 2022
+Mario Schlosser
+/s/ Dmitri Shklovsky
+Director
+March 31, 2022
+Dimitri Shklovsky
+KHOSLA VENTURES ACQUISITION CO.
+Page
+Report of Independent Registered Public Accounting Firm (BDO USA, LLP, McLean, Virginia, PCAOB ID #243)
+Balance Sheet as of December 31, 2021
+Statement of Operations for the period from January 15, 2021 (Inception) to December 31, 2021
+Statement of Changes in Common Stock Subject to Possible Redemption and Stockholders’ Deficit for the period from January 15, 2021 (Inception) to December 31, 2021
+Statement of Cash Flows for the period from January 15, 2021 (Inception) to December 31, 2021
+Notes to Financial Statements
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Stockholders and Board of Directors
+Khosla Ventures Acquisition Co.
+Opinion on the Financial Statements
+We have audited the accompanying balance sheet of Khosla Ventures Acquisition Co. (the “Company”) as of December 31, 2021, the related statements of operations, changes in common stock subject to possible redemption and stockholders’ deficit, and cash flows for the period from January 15, 2021 (inception) through December 31, 2021, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021, and the results of its operations and its cash flows for the period from January 15, 2021 (inception) through December 31, 2021, in conformity with accounting principles generally accepted in the United States of America.
+Going Concern Uncertainty
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, as of December 31, 2021, the Company does not have sufficient cash and working capital to sustain its operations. These conditions raise substantial doubt about the Company’s ability to continue as a going concern. Management’s plans in regard to these matters are also described in Notes 1. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Basis for Opinion
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of financial statements. We believe that our audit provides a reasonable basis for our opinion.
+/S/ BDO USA, LLP
+We have served as the Company’s auditor since 2021.
+McLean, Virginia
+March 31
+, 2022
+KHOSLA VENTURES ACQUISITION CO.
+BALANCE SHEET
+DECEMBER 31, 2021
+The accompanying notes are an integral part of these financial statements.
+KHOSLA VENTURES ACQUISITION CO.
+STATEMENT OF OPERATIONS
+FOR THE PERIOD FROM JANUARY 15, 2021 (INCEPTION) THROUGH DECEMBER 31, 2021
+The accompanying notes are an integral part of these financial statements.
+KHOSLA VENTURES ACQUISITION CO.
+STATEMENT OF CHANGES IN COMMON STOCK SUBJECT TO POSSIBLE REDEMPTION AND
+STOCKHOLDERS’ DEFICIT
+FOR THE PERIOD FROM JANUARY 15, 2021 (INCEPTION) THROUGH DECEMBER 31, 2021
+The accompanying notes are an integral part of these financial statements.
+KHOSLA VENTURES ACQUISITION CO.
+STATEMENT OF CASH FLOWS
+FOR THE PERIOD FROM JANUARY 15, 2021 (INCEPTION) THROUGH DECEMBER 31, 2021
+The accompanying notes are an integral part of these financial statements.
+KHOSLA VENTURES ACQUISITION CO.
+NOTES TO FINANCIAL STATEMENTS
+Note 1-Description of Organization, Business Operations and Going Concern
+Khosla Ventures Acquisition Co. (the “Company”) is a blank check company formed as a Delaware corporation on January 15, 2021. The Company was incorporated for the purpose of effecting a merger, stock exchange, asset acquisition, stock purchase, reorganization or similar business combination with one or more businesses (“Business Combination”).
+As of December 31, 2021, the Company had not commenced any operations. All activity for the period from January 15, 2021 (inception) through December 31, 2021 relates to the Company’s formation and the Initial Public Offering, which is described below. The Company will not generate any operating revenues until after the completion of its initial Business Combination, at the earliest. The Company generates non-operating
+income in the form of interest income on cash and cash equivalents from the proceeds derived from the Initial Public Offering. The Company has selected December 31 as its fiscal year end.
+The Company’s sponsor is Khosla Ventures SPAC Sponsor LLC (the “Sponsor”). The Company’s ability to commence operations is contingent upon obtaining adequate financial resources. On March 8, 2021, the Company consummated its initial public offering (the “IPO”) of 30,000,000 shares of Class A common stock of the Company, par value $0.0001 per share (each, a “Public Share”), excluding additional Public Shares sold pursuant to the full exercise of the underwriters’ option to purchase additional Public Shares to cover over-allotments. The Public Shares were sold at a price of $10.00 per Public Share, generating gross proceeds to the Company of $300,000,000. On March 8, 2021, the Company’s underwriters exercised in full their option to purchase additional Public Shares in connection with the IPO. The underwriters exercised their option to purchase an additional 4,500,000 Public Shares from the Company at a price of $10.00 per share less the underwriting fees payable. In total, the Company sold
+34,500,000 Public Shares in connection with its IPO for gross proceeds of $345,000,000. The underwriters designate March 8, 2021 as the settlement date for such additional Public Shares pursuant to the Underwriting Agreement.
+Simultaneously with the closing of the IPO, the Company completed the private sale of 990,000 shares of Class A common stock of the Company, par value $0.0001 per share (the “Private Placement Shares”) at a purchase price of $10.00 per Private Placement Shares, to the Sponsor, generating aggregate gross proceeds to the Company of $9,900,000.
+Following the closing of the Initial Public Offering on March 8, 2021, and the full exercise of the underwriters’ overallotment option on March 8, 2021, an amount of $345,000,000 ($10.00 per Public Share) of the proceeds from the IPO, including $12,075,000 of the underwriting fees payable was placed in a U.S.-based Trust Account at Goldman Sachs, maintained by Continental Stock Transfer & Trust Company, LLC, acting as trustee (“Trust Account”). Except
+with respect to interest earned on the funds in the Trust Account that may be released to the Company to pay its franchise and income taxes and expenses relating to the administration of the Trust Account, the proceeds from the IPO, including proceeds from the sale of Private Placement Shares and forward purchase shares, which are held in the Trust Account will not be released until the earliest of (a) the completion of the Company’s initial business combination, (b) the redemption of any public shares properly tendered in connection with a stockholder vote to amend the Company’s Amended and Restated Certificate of Incorporation (i) to modify the substance or timing of its obligation to redeem 100% of its public shares if the Company does not complete its initial business combination within 24 months from the closing of the IPO or (ii) with respect to any other provisions relating to stockholders’ rights or pre-initial
+business combination activity, and (c) the redemption of all of the Company’s public shares if it is unable to complete its business combination within 24 months from the closing of the IPO, subject to applicable law.
+On June 9, 2021, the Company entered into an agreement for a proposed initial business combination with Valo Health, a technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process. Concurrently with such an agreement, the Company also entered into subscription agreements (the “PIPE I Subscription Agreements”) with certain investors (collectively,
+the “PIPE I Investors”), pursuant to, and on the terms and subject to the conditions of which, the PIPE I Investors collectively subscribed for 16,855,000 shares of Class A common stock for an aggregate purchase price equal to $168,550,000 (the “PIPE I Investment”). On July 30, 2021, the Company entered into additional subscription agreements (the “PIPE II Subscription Agreements”) with certain investors (collectively, the “PIPE II Investors”), pursuant to, and on the terms and subject to the conditions of which, the PIPE II Investors collectively subscribed for an additional 3,231,250 shares of KVSA Common Stock for an aggregate purchase price equal to $32,312,500 (the “PIPE II Investment”). However, on November 15, 2021, the Company and Valo Health mutually agreed to terminate the proposed initial business combination based on market conditions, particularly in the biotechnology area. The PIPE I Investment and PIPE II Investment were also both terminated upon the termination of the proposed initial business combination with Valo Health.
+The Company’s management has broad discretion with respect to the specific application of the net proceeds of its Initial Public Offering and the sale of Private Placement Shares, although substantially all of the net proceeds are intended to be applied generally toward consummating a Business Combination. The Company’s initial business combination must be with one or more operating businesses or assets that together have an aggregate fair market value equal to at least 80% of the net assets held in the Trust Account (excluding the deferred underwriting fees payable and taxes payable on the interest earned on the Trust Account) at the time the Company signs a definitive agreement in connection with the initial business combination. However, the Company will only complete a Business Combination if the post-transaction company owns or acquires
+50% or more of the outstanding voting securities of the target or otherwise is not required to register as an investment company under the Investment Company Act 1940, as amended (the “Investment Company Act”). There is no assurance that the Company will be able to successfully effect a Business Combination. Upon the closing of the IPO, management has agreed that an amount equal to at least $10.00 per Public Share sold in the IPO, including the proceeds from the sale of the private placement shares and the sale of forward purchase shares, will be held in a Trust Account (“Trust Account”) located in the United States with Continental Stock Transfer & Trust Company acting as trustee, and invested only in United States “government securities” within the meaning of Section 2(a)(16) of the Investment Company Act having a maturity of 180 days or less or in money market funds meeting certain conditions under Rule 2a-7
+promulgated under the Investment Company Act which invest only in direct U.S. government treasury obligations.
+The Company will provide its holders of the Public Shares (the “Public Stockholders”) with the opportunity to redeem all or a portion of their Public Shares upon the completion of a Business Combination either (i) in connection with a stockholder meeting called to approve the Business Combination or (ii) by means of a tender offer. The decision as to whether the Company will seek stockholder approval of a Business Combination or conduct a tender offer will be made by the Company, solely in its discretion. The Public Stockholders will be entitled to redeem their Public Shares for a pro rata portion of the amount then in the Trust Account (initially anticipated to be $10.00 per share, plus any pro rata interest earned on the funds held in the Trust Account and not previously released to the Company to pay its tax obligations). The per-share amount to be distributed to Public Stockholders who redeem their Public Shares will not be reduced by the deferred underwriting fees payable the Company will pay to the underwriters. These Public Shares were recorded at a redemption value and classified as temporary equity upon the completion of the Initial Public Offering, in accordance with Accounting Standards Codification (“ASC”) Topic 480, “Distinguishing Liabilities from Equity.” In such case, the Company will proceed with a Business Combination if the Company has net tangible assets of at least
+$5,000,001 upon such consummation of a Business Combination and a majority of the shares voted are voted in favor of the Business Combination. If a stockholder vote is not required by law and the Company does not decide to hold a stockholder vote for business or other legal reasons, the Company will, pursuant to the amended and restated certificate of incorporation, which was adopted by the Company upon the consummation of the Initial Public Offering (the “Amended and Restated Certificate of Incorporation”), conduct the redemptions pursuant to the tender offer rules of the U.S. Securities and Exchange Commission (the “SEC”), and file tender offer documents with the SEC prior to completing a Business Combination. If, however, a stockholder approval of the transactions is required by law, or the Company decides to obtain stockholder approval for business or legal reasons, the Company will offer to redeem shares in conjunction with a proxy solicitation pursuant to the proxy rules and not pursuant to the tender offer rules. Additionally, each Public Stockholder may elect to redeem their Public Shares irrespective of whether they vote for or against the transaction. If the Company seeks stockholder approval in connection with a Business Combination, the holders of the Founder Shares prior to this Initial Public Offering (the “Initial Stockholders”) have agreed to vote their Founder Shares and any Public Shares purchased during or after the Initial Public Offering in favor of a Business Combination. In addition, the Initial Stockholders have agreed to waive their redemption rights with respect to their Founder Shares and Public Shares in connection with the completion of a Business Combination.
+Notwithstanding the foregoing, the Company’s Amended and Restated Certificate of Incorporation provides that a Public Stockholder, together with any affiliate of such stockholder or any other person with whom such stockholder is acting in concert or as a “group” (as defined under Section 13 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”)), will be restricted from redeeming its shares with respect to more than an aggregate of 15% or more of the Class A common stock sold in the Initial Public Offering, without the prior consent of the Company.
+The holders of the Founder Shares (the “Initial Stockholders”) have agreed not to propose an amendment to the Company’s Amended and Restated Certificate of Incorporation (A) to modify the substance or timing of the Company’s obligation to allow redemption in connection with a Business Combination or to redeem 100% of its Public Shares if the Company does not complete a Business Combination within the Combination Period or (B) with respect to any other provision relating to stockholders’ rights or pre-initial
+business combination activity, unless the Company provides the Public Stockholders with the opportunity to redeem their Public Shares in conjunction with any such amendment.
+If the Company is unable to complete a Business Combination within 24 months from the closing of the Initial Public Offering (the “Combination Period”), the Company will (i) cease all operations except for the purpose of winding up; (ii) as promptly as reasonably possible but not more than ten business days thereafter, redeem the Public Shares, at a per-share
+price, payable in cash, equal to the aggregate amount then on deposit in the Trust Account, including interest earned on the funds held in the Trust Account and not previously released to the Company to pay its taxes, if any (less up to $100,000 of interest to pay dissolution expenses) divided by the number of the then-outstanding Public Shares, which redemption will completely extinguish Public Stockholders’ rights as stockholders (including the right to receive further liquidation distributions, if any); and (iii) as promptly as reasonably possible following such redemption, subject to the approval of the remaining stockholders and the board of directors, liquidate and dissolve, subject in each case to the Company’s obligations under Delaware law to provide for claims of creditors and the requirements of other applicable law.
+The Initial Stockholders’ have agreed to waive their liquidation rights with respect to the Founder Shares if the Company fails to complete a Business Combination within the Combination Period. However, if the Initial Stockholders should acquire Public Shares in or after the Initial Public Offering, they will be entitled to liquidating distributions from the Trust Account with respect to such Public Shares if the Company fails to complete a Business Combination within the Combination Period. The underwriters have agreed to waive their rights to their deferred underwriting fees payable held in the Trust Account in the event the Company does not complete a Business Combination within the Combination Period and, in such event, such amounts will be included with the funds held in the Trust Account that will be available to fund the redemption of the Company’s Public Shares. In the event of such distribution, it is possible that the per share value of the residual assets remaining available for distribution (including Trust Account assets) will be only
+$10.00 per share initially held in the Trust Account. In order to protect the amounts held in the Trust Account, the Sponsor has agreed that it will be liable to the Company if and to the extent any claims by a third party for services rendered or products sold to the Company, or a prospective target business with which the Company has entered into a written letter of intent, confidentiality or other similar agreement or business combination agreement, reduce the amount of funds in the Trust Account to below the lesser of (i) $10.00 per public share and (ii) the actual amount per public share held in the Trust Account as of the date of the liquidation of the Trust Account, if less than $10.00 per share due to reductions in the value of the trust assets, less taxes payable, provided that such liability will not apply to any claims by a third party or prospective target business who executed a waiver of any and all rights to the monies held in the Trust Account (whether or not such waiver is enforceable) nor will it apply to any claims under the Company’s indemnity of the underwriters of the Initial Public Offering against certain liabilities, including liabilities under the Securities Act of 1933, as amended (the “Securities Act”). In the event that an executed waiver is deemed to be unenforceable against a third party, the Sponsor will not be responsible to the extent of any liability for such third-party claims. The Company will seek to reduce the possibility that the Sponsor will have to indemnify the Trust Account due to claims of creditors by endeavoring to have vendors, service providers (except the Company’s independent registered public accounting firm), prospective target businesses or other entities with which the Company does business, execute agreements with the Company waiving any right, title, interest or claim of any kind in or to monies held in the Trust Account.
+Going Concern and Liquidity
+As of December 31, 2021, the Company had $202,245 in its operating bank accounts, $345,017,029 in securities held in the Trust Account to be used for a Business Combination or to repurchase or redeem its common stock in connection therewith and working capital deficit of $3,338,984. As of December 31, 2021, $17,029 of the amount on deposit in the Trust Account represented interest income, which is available for payment of franchise taxes and expenses in connection with the liquidation of the Trust Account.
+If the Company is unable to raise additional capital, it may be required to take additional measures to conserve liquidity, which could include, but not necessarily be limited to, suspending the pursuit of a Business Combination. The Company cannot provide any assurance that new financing will be available to it on commercially acceptable terms, if at all.
+As a result of the above, in connection with the Company’s assessment of going concern considerations in accordance with Accounting Standards Update (“ASU”) 2014-15, “Disclosures
+of Uncertainties about an Entity’s Ability to Continue as a Going Concern,” management has determined that the liquidity conditions raise substantial doubt about the Company’s ability to continue as a going concern through approximately one year from the date of filing. These financial statements do not include any adjustments relating to the recovery of the recorded assets or the classification of the liabilities that might be necessary should the Company be unable to continue as a going concern.
+Risks and Uncertainties
+Management continues to evaluate the impact of the COVID-19
+pandemic and has concluded that while it is reasonably possible that the virus could have a negative effect on the Company’s financial position and results of its operations, the specific impact is not readily determinable as of the date of the financial statements. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Note 2-Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying financial statements are presented in U.S. dollars in conformity with accounting principles generally accepted in the United States of America (“GAAP”) for financial information and pursuant to the rules and regulations of the SEC.
+Emerging Growth Company
+The Company is an “emerging growth company,” as defined in Section 2(a) of the Securities Act, as modified by the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”), and it may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies including, but not limited to, not being required to comply with the independent registered public accounting firm attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, reduced disclosure obligations regarding executive compensation in its periodic reports and proxy statements, and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and shareholder approval of any golden parachute payments not previously approved.
+Further, Section 102(b)(1) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies (that is, those that have not had a Securities Act registration statement declared effective or do not have a class of securities registered under the Exchange Act) are required to comply with the new or revised financial accounting standards. The JOBS Act provides that an emerging growth company can elect to opt out of the extended transition period and comply with the requirements that apply to non-emerging
+growth companies but any such an election to opt out is irrevocable.
+The Company has elected not to opt out of such extended transition period, which means that when a standard is issued or revised and it has different application dates for public or private companies, the Company, as an emerging growth company, can adopt the new or revised standard at the time private companies adopt the new or revised standard. This may make comparison of the Company’s financial statements with another public company that is neither an emerging growth company nor an emerging growth company that has opted out of using the extended transition period difficult or impossible because of the potential differences in accounting standards used.
+Cash and Cash Equivalents
+The Company considers all short-term investments with an original maturity of three months or less when purchased to be cash equivalents. The Company had $202,245 in cash and no cash equivalents as of December 31, 2021.
+Marketable Securities Held in Trust Account
+T
+he Company’s portfolio of investments held in the Trust Account are comprised solely of U.S. government securities, within the meaning set forth in Section 2(a)(16) of the Investment Company Act, with a maturity of 180 days or less, classified as trading securities. Trading securities are presented on the balance sheet at fair value at the end of each reporting period. Gains and losses resulting from the change in fair value of these securities is included in gain on marketable securities, dividends and interest held in the Trust Account in the accompanying statement of operations. The fair value for trading securities is determined using quoted market prices in active markets.
+Common Stock Subject to Possible Redemption
+The Company accounts for its Class A common stock subject to possible redemption in accordance with the guidance in ASC Topic 480.
+Conditionally redeemable common stock (including common stock that feature redemption rights that are either within the control of the holder or subject to redemption upon the occurrence of uncertain events not solely within the Company’s control) are classified as temporary equity. At all other times, common stock is classified as stockholders’ equity. The Company’s Class A common stock feature contains certain redemption rights that are considered to be outside of the Company’s control and subject to occurrence of uncertain future events. Accordingly, Class A common stock subject to possible redemption are classified as temporary equity, outside of the stockholders’ equity section of the Company’s balance sheet. Accordingly, as of December 31, 2021, 34,500,000 shares of Class A common stock subject to possible redemption is presented at redemption value as temporary equity, outside of the stockholders’ equity section of the Company’s balance sheet.
+The Class A common stock subject to possible redemption are subject to the subsequent measurement guidance in ASC Topic 480-10-S99.
+Under such guidance, the Company must subsequently measure the shares to their redemption amount because, as a result of the allocation of net proceeds to transaction costs, the initial carrying amount of the common stock is less than $10.00 per share. In accordance with the guidance, the Company has elected to measure the common stock subject to possible redemption to their redemption amount (i.e., $10.00 per share) immediately as if the end of the first reporting period after the Initial Public Offering, March 8, 2021, was the redemption date. Such changes are reflected in additional paid-in
+capital, or in the absence of additional paid-in
+capital, in accumulated deficit. For the period from January 15, 2021 (inception) through December 31, 2021, the Company recorded an accretion of $19,677,289, of which $9,911,901 was recorded in additional paid-in
+capital and $9,765,388 was recorded in accumulated deficit.
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to concentration of credit risk consist of a cash account in a financial institution which, at times may exceed the Federal depository insurance coverage. As of December 31, 2021, the Company had not experienced losses on this account and management believes the Company is not exposed to significant risks on such account.
+Derivative Financial Instruments
+The Company accounts for derivative financial instruments in accordance with ASC Topic 815, “Derivatives and Hedging.” For derivative financial instruments that are accounted for as liabilities, the derivative instrument is initially recorded at its fair value upon issuance and remeasured at each reporting date, with changes in the fair value reported in the statement of operations. The classification of derivative financial instruments is evaluated at the end of each reporting period.
+Fair Value Measurements
+The fair value of the Company’s assets and liabilities, which qualify as financial instruments under the ASC Topic 820 approximates the carrying amounts represented in the balance sheet.
+The fair value hierarchy is categorized into three levels based on the inputs as follows:
+•
+Level 1: Quoted prices in active markets for identical assets or liabilities. An active market for an asset or liability is a market in which transactions for the asset or liability occur with sufficient frequency and volume to provide pricing information on an ongoing basis.
+•
+Level 2: Observable inputs other than Level 1 inputs. Example of Level 2 inputs include quoted prices in active markets for similar assets or liabilities and quoted prices for identical assets or liabilities in markets that are not active.
+•
+Level 3: Unobservable inputs based on our assessment of the assumptions that market participants would use in pricing the asset or liability.
+The fair value of the Company’s financial assets and liabilities, approximates the carrying amounts represented in the balance sheet, primarily due to their short-term nature.
+Use of Estimates
+The preparation of financial statements in conformity with GAAP requires the Company’s management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities during the reporting period. Actual results could differ from those estimates.
+Making estimates requires management to exercise significant judgment. It is at least reasonably possible that the estimate of the effect of a condition, situation or set of circumstances that existed at the date of the financial statements, which management considered in formulating its estimate, could change in the near term due to one or more future confirming events. Accordingly, the actual results could differ significantly from those estimates.
+Offering Costs
+Offering costs consist of legal, accounting, and other costs incurred through the balance sheet date that are directly related to the Initial Public Offering and were charged to temporary equity upon the completion of the Initial Public Offering. Offering costs were $19,660,260 for the period from January 15, 2021 (inception) through December 31, 2021.
+Income Taxes
+The Company complies with the accounting and reporting requirements of ASC Topic 740, “Income Taxes,” which requires an asset and liability approach to financial accounting and reporting for income taxes. Deferred income tax assets and liabilities are computed for differences between the financial statement and tax bases of assets and liabilities that will result in future taxable or deductible amounts, based on enacted tax laws and rates applicable to the periods in which the differences are expected to affect taxable income. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amount expected to be realized.
+ASC Topic 740 prescribes a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more-likely-than-not
+to be sustained upon examination by taxing authorities. The Company’s management determined that the United States is the Company’s only major tax jurisdiction.
+The Company recognizes accrued interest and penalties related to unrecognized tax benefits as income tax expense. There were no unrecognized tax benefits and no amounts accrued for interest and penalties as of December 31, 2021. The Company is currently not aware of any issues under review that could result in significant payments, accruals or material deviation from its position. The Company is subject to income tax examinations by major taxing authorities since inception.
+Net Income (Loss) Per Share of Common Stock
+Net income (loss) per share is computed by dividing net income (loss) by the weighted average number of common stock outstanding during the period, excluding common stock shares subject to forfeiture.
+Class K common stock will convert into Class A common stock after the initial business combination only to the extent certain triggering events occur prior to the 10th anniversary of the initial business combination, including three equal triggering events based on the Company’s stock trading at $30.00, $40.00 and $50.00 per share following the first anniversary of the closing of the initial Business Combination and also upon specified strategic transactions. The Company has not considered the effect of the Class K common stock in the calculation of diluted income (loss) per share since the conversion of Class K common stock into Class A common stock is contingent upon the occurrence of future events.
+Class B Founder Shares and Private Placement Shares are included in the calculation of non-redeemable
+loss per share.
+The Company’s statement of operations include a presentation of loss per share for shares of common stock subject to possible redemption in a manner similar to the two-class
+method of loss per share. With respect to the accretion of the Class A common stock subject to possible redemption and consistent with ASC Topic 480-10-S99-3A,
+the Company has treated the accretion in excess of fair value in the same manner as a dividend, to the extent the redemption value exceeds the fair value, in the calculation of the net income/(loss) per common stock. As of December 31, 2021, the Company did not have any dilutive securities and other contracts that could, potentially, be exercised or converted into common stock and then share in the earnings of the Company. As a result, diluted income (loss) per share is the same as basic loss per share for the period presented.
+A reconciliation of net loss per common stock is as follows:
+Recent Accounting Pronouncements
+Management does not believe that any recently issued, but not yet effective, accounting pronouncements, if currently adopted, would have a material effect on the accompanying financial statements.
+Note 3-Initial Public Offering
+Pursuant to the Initial Public Offering, the Company sold 34,500,000 Public Shares at a purchase price of $10.00 per Public Share, including 4,500,000 Public Shares sold pursuant to the full exercise of the underwriters’ option to purchase additional Public Shares to cover over-allotments.
+Simultaneously with the closing of the IPO, the Company completed the private sale of 990,000 shares of Class A common stock of the Company, par value $0.0001 per share (the “Private Placement Shares”) at a purchase price of $10.00 per Private Placement Shares, to the Company’s Sponsor generating aggregate gross proceeds to the Company of $9,900,000.
+Note 4-Related Party Transactions
+Promissory Note - Related Party
+On January 19, 2021, the Company issued a promissory note (the “Promissory Note”) to the Sponsor and an affiliate of the Sponsor, pursuant to which the Company could borrow up to an aggregate principal amount of $300,000. The Promissory Note was non-interest
+bearing and payable on the earlier of (i) December 31, 2021 and (ii) the completion of the IPO. The outstanding balance under the promissory note was repaid upon consummation of the IPO. The Company can no longer borrow under the Promissory Note.
+Due to Related Party
+An affiliate of the Sponsor paid certain operating costs on behalf of the Company. These advances are due on demand and non-interest
+bearing. During the period from January 29, 2021 (inception) through December 31, 2021, the related party paid $30,000 of operating costs on behalf of the Company. As of December 31, 2021, the amount due to the related party was $600.
+Founder Shares
+On January 19, 2021, the Sponsor acquired 10,000,000 Founder Shares (the “Founder Shares”) for an aggregate purchase price of $25,000, consisting of 5,000,000 Class B Founder Shares (also known as “Class B common stock”) and 5,000,000 Class K Founder Shares (also known as “Class K common stock”). Prior to the initial investment in the Company of $25,000 by the Sponsor, the Company had no assets, tangible or intangible. The per share purchase price of the Founder Shares was determined by dividing the amount of cash contributed to the Company by the aggregate number of Founder Shares issued. On February 28, 2021, the Sponsor entered into a security assignment agreement with six of the Company’s independent directors and assigned 240,000 shares of Class B Founder Shares at an aggregate price of $600.
+Class B Founder Shares
+The Class B Founder Shares will automatically convert into shares of Class A common stock on the first business day following the completion of our initial business combination, at a ratio such that the number of shares of Class A common stock issuable upon conversion of all Class B Founder Shares will equal, in the aggregate on an as-converted
+basis, 15% of the sum of (i) the total number of all shares of Class A common stock issued and outstanding upon completion of this offering (including any over-allotment shares if the underwriters exercise their overallotment option), plus (ii) the total number of shares of Class A common stock issued or deemed issued or issuable upon conversion of the Class B Founder Shares plus (iii) unless waived, the total number of shares of Class A common stock issued or deemed issued or issuable upon conversion or exercise of any equity-linked securities or rights issued or deemed issued, by the Company in connection with or in relation to the consummation of the initial business combination, excluding (x) any shares of Class A common stock or equity-linked securities exercisable for or convertible into shares of Class A common stock issued, deemed issued, or to be issued, to any seller in the initial business combination, (y) any shares of Class A common stock issuable upon conversion of the Class K Founder Shares and (z) any Private Placement Shares. Prior to our initial business combination, only holders of shares of our Class B common stock will be entitled to vote on the appointment of directors.
+Class K Founder Shares
+The Class K Founder Shares will convert into shares of Class A common stock after the initial business combination only to the extent certain triggering events occur prior to the 10th anniversary of the initial business combination, including three equal triggering events based on our stock trading at $30.00, $40.00 and $50.00 per share following the first anniversary of the closing of our initial business combination and also upon specified strategic transactions, in each case, as described in this prospectus. The Class K Founder Shares will be convertible into shares of Class A common stock at a ratio such that the number of shares of Class A common stock issuable upon conversion of all Founder Shares (including both Class B Founder Shares and Class K Founder Shares) will equal, in the aggregate on an as-converted
+basis, 30% of the sum of (i) the total number of all shares of Class A common stock issued and outstanding upon completion of this offering (including any over-allotment shares if the underwriters exercise their overallotment option), plus (ii) the total number of shares of Class A common stock issued or deemed issued or issuable upon conversion of the Class B Founder Shares and Class K Founder Shares plus (iii) unless waived, the total number of shares of Class A common stock issued or deemed issued or issuable upon conversion or exercise of any equity-linked securities or rights issued or deemed issued, by the Company in connection with or in relation to the consummation of the initial business combination, excluding (x) any shares of Class A common stock or equity-linked securities exercisable for or convertible into shares of Class A common stock issued, deemed issued, or to be issued, to any seller in the initial business combination and (y) any Private Placement Shares. Prior to our initial business combination, only holders of shares of our Class B common stock were entitled to vote on the appointment of directors.
+The Company accounts for the Class K Founder Shares as equity linked instruments. Based on the guidance in ASC Topic 815, certain adjustments to the settlement amount of the Class K Founder Shares are based on a variable that is not an input to the fair value of a “fixed-for-fixed”
+option as defined under ASC Topic 815-40.
+The Class K Founder Shares are recorded as liabilities as these shares are not considered indexed to the Company’s own stock and not eligible for an exception from derivative accounting.
+Working Capital Loans
+In addition, in order to finance transaction costs in connection with a Business Combination, the Sponsor or an affiliate of the Sponsor, or certain of the Company’s officers and directors may, but are not obligated to, loan the Company funds as may be required (“Working Capital Loans”). If the Company completes a Business Combination, the Company will repay the Working Capital Loans out of the proceeds of the Trust Account released to the Company. Otherwise, the Working Capital Loans would be repaid only out of funds held outside the Trust Account. In the event that a Business Combination does not close, the Company may use a portion of proceeds held outside the Trust Account to repay the Working Capital Loans but no proceeds held in the Trust Account would be used to repay the Working Capital Loans. Except for the foregoing, the terms of such Working Capital Loans, if any, have not been determined and no written agreements exist with respect to such loans. To date, the Company had no borrowings under the Working Capital Loans.
+Private Placement Shares
+Simultaneously with the closing of the Initial Public Offering, the Sponsor has purchased 990,000 Class A common stock at a price of $10.00 per share in a private placement for an aggregate purchase price of $9,900,000. The Private Placement Shares are identical to the shares of Class A common stock shares sold in this offering, subject to certain limited exceptions. The Private Placement Shares holders do not have the option to redeem their Class A common stock and as a result, the proceeds received in connection with the Initial Public Offering are excluded from temporary equity. The par value of these shares and related additional paid in capital are classified as permanent equity in the Company’s financial statements.
+The initial stockholders agreed, subject to limited exceptions, not to transfer, assign or sell any of their Private Placement Shares until 30 days after the completion of the initial business combination.
+Forward Purchase Agreement
+The Company has entered into a forward-purchase agreement pursuant to which the Sponsor agreed to purchase an aggregate of up to 2,500,000 shares of our Class A common stock (the “forward-purchase shares”) for $10.00 per share, or an aggregate maximum amount of $25,000,000, in a private placement that would close simultaneously with the closing of the initial business combination. The proceeds from the sale of these forward- purchase shares, together with the amounts available to the Company from the Trust Account (after giving effect to any redemptions of public shares) and any other equity or debt financing obtained by the Company in connection with the business combination, will be used to satisfy the cash requirements of the business combination, including funding the purchase price and paying expenses and retaining specified amounts to be used by the post-business combination company for working capital or other purposes. To the extent that the amounts available from the Trust Account and other financing are sufficient for such cash requirements, the Khosla Entities may purchase less than 2,500,000 forward-purchase shares. The forward-purchase shares would be identical to the public shares being sold in this offering, except the forward-purchase shares would be subject to transfer restrictions and certain registration rights, as described herein. The Company performed an assessment in accordance with ASC Topic 480 and ASC Topic 815, to conclude whether the forward-purchase shares constitute a liability and a derivative such that it will be fair valued separately from the Company’s common stock. The Company concludes that the forward-purchase shares should be equity-classified and its embedded features should not be bifurcated.
+Note 5-Commitments & Contingencies
+Registration Rights
+The holders of the Founder Shares and Private Placement Shares are entitled to registration rights pursuant to the registration agreement signed prior to the consummation of the IPO. The holders are entitled to certain demand and “piggyback” registration rights. However, the registration rights agreement provides that the Company will not be required to effect or permit any registration or cause any registration statements to become effective until termination of the applicable lock-up
+period.
+Underwriting Agreement
+The Company granted the underwriters an option to cover over-allotments and for market stabilization purposes. The over-allotment option entitled the underwriters to purchase on a pro rata basis up to 4,500,000 additional Public Shares at the Initial Public Offering price, less the underwriting fees payable. On March 8, 2021, the Company’s underwriters exercised in full their option to purchase additional Public Shares in connection with the IPO. The underwriters exercised their option to purchase
+4,500,000 Public Shares from the Company at a price of $10.00 per share less the underwriting fees payable. This transaction settled on March 8, 2021.
+Note 6-Stockholders’ Deficit
+Preferred Stock - The Company is authorized to issue 1,000,000 shares of preferred stock with a par value of $0.0001 per share. As of December 31, 2021, there were no shares of preferred stock issued or outstanding.
+Class A Common Stock - The Company is authorized to issue 200,000,000 shares of Class A common stock with a par value of $0.0001 per share. Holders of the Company’s Class A common stock are entitled to one vote for each share. As of December 31, 2021, there were 990,000 shares of Class A common stock issued or outstanding, excluding 34,500,000 shares of common stock subject to possible redemption.
+Class B Common Stock - The Company is authorized to issue 30,000,000 shares of Class B common stock with a par value of $0.0001 per share. As of December 31, 2021 there were 5,000,000 shares of Class B common stock issued and outstanding.
+Common stockholders of record are entitled to one vote for each share held on all matters to be voted on by stockholders. Holders of Class A common stock and holders of Class B common stock will vote together as a single class on all matters submitted to a vote of the stockholders except as required by law.
+Note 7-Fair Value Measurements
+The following table presents information about the Company’s assets that are measured at fair value on a recurring basis as of December 31, 2021 including the fair value hierarchy of the valuation inputs that the Company utilized to determine such fair value.
+Class K Founder Shares Derivative Liabilities
+Class K Founder Shares is accounted for as a liability in accordance with ASC Topic 815 and presented as a derivative liability on the accompanying December 31, 2021 balance sheet. The derivative liability was measured at fair value at inception and on a recurring basis, with changes in fair value presented within change in fair value of derivative liability in the statement of operations. In order to capture the market conditions associated with the Class K Founder Shares derivative liabilities, the Company applied an approach that incorporated a Monte Carlo simulation, which involved random iterations of future stock-price paths over the contractual life of the Class K Founder Shares. Based on assumptions regarding potential changes in control of the Company, and the probability distribution of outcomes, the payoff to the holder was determined based on the achievement of the various market thresholds within each simulated path. The present value of the payoff in each simulated trial is calculated, and the fair value of the liability is determined by taking the average of all present values.
+The key inputs into the Monte-Carlo simulation model for the Class K Founder Shares derivative liabilities were as follows on the date of issuance and as of December 31, 2021:
+The following table presents a summary of the changes in the fair value of the Class K Founder Shares derivative liabilities, a Level 3 liability, measured on a recurring basis, as of December 31, 2021:
+There were no transfers to and from Levels 1, 2, and 3 for the period from January 15, 2021 (inception) through December 31, 2021.
+Note 8-Income Taxes
+The Company’s taxable income primarily consists of interest income on the Trust Account, less any franchise taxes. The Company’s formation costs are generally considered start-up
+costs and are not currently deductible.
+The income tax provision (benefit) for the period from January 15, 2021 (inception) to December 31, 2021 consists of the following:
+The Company’s net deferred tax assets as of December 31, 2021 are as follows:
+As of December 31, 2021, the Company had $182,971 of U.S. federal net operating loss carryovers available to offset future taxable income. The federal net operating losses can be carried forward indefinitely.
+In assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which temporary differences representing net future deductible amounts become deductible. Management considers the scheduled reversal of deferred tax assets, projected future taxable income and tax planning strategies in making this assessment. After consideration of all of the information available, management believes that significant uncertainty exists with respect to future realization of the deferred tax assets and has therefore established a full valuation allowance. For the period from January 15, 2021 (inception) to December 31, 2021, the change in the valuation allowance was $1,165,271.
+A reconciliation of the statutory federal income tax rate (benefit) to the Company’s effective tax rate for the period from January 15, 2021 (inception) to December 31, 2021 is as follows:
+The Company’s effective tax rates for the periods presented differ from the expected (statutory) rates due to the recording of full valuation allowances on deferred tax assets.
+The Company files income tax returns in the U.S. federal jurisdiction and is subject to examination by the various taxing authorities. There were no unrecognized tax benefits as of December 31, 2021. No amounts were accrued for the payment of interest and penalties as of December 31, 2021. The Company is currently not aware of any issues under review that could result in significant payments, accruals or material deviation from its position. The Company is subject to income tax examinations by major taxing authorities since inception.

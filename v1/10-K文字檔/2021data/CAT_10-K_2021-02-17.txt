@@ -1,0 +1,892 @@
+Item 7.Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with our discussion of cautionary statements and significant risks to the company’s business under Item 1A. Risk Factors of the 2020 Form 10-K.
+OVERVIEW
+Our sales and revenues for 2020 were $41.748 billion, a decrease of $12.052 billion, or 22 percent, compared with $53.800 billion in 2019. The decline was due to lower sales volume driven by lower end-user demand for equipment and services and the impact from changes in dealer inventories across the three primary segments. Sales were lower across all regions and in the three primary segments. Profit per share was $5.46 in 2020, compared with profit per share of $10.74 in 2019. Profit was $2.998 billion in 2020, compared with $6.093 billion in 2019. The decrease was primarily due to lower sales volume, unfavorable price realization, lower profit from Financial Products and higher restructuring costs, partially offset by lower selling, general and administrative (SG&A) and research and development (R&D) expenses and favorable manufacturing costs.
+Fourth-quarter 2020 sales and revenues were $11.235 billion, down $1.909 billion, or 15 percent, from $13.144 billion in the fourth quarter of 2019. Fourth-quarter 2020 profit was $1.42 per share, compared with $1.97 per share in the fourth quarter of 2019. Fourth-quarter 2020 profit was $780 million, compared with $1.098 billion in 2019.
+Highlights for 2020 include:
+•Sales and revenues for 2020 were $41.748 billion, a decrease of 22 percent from 2019. Sales were lower across all regions and in the three primary segments.
+•Operating profit as a percent of sales and revenues was 10.9 percent in 2020, compared with 15.4 percent in 2019.
+•Profit was $5.46 per share for 2020, and excluding the items in the table below, adjusted profit per share was $6.56. For 2019 profit was $10.74 per share, and excluding the items in the table below, adjusted profit per share was $11.40.
+•In order for our results to be more meaningful to our readers, we have separately quantified the impact of several significant items. A detailed reconciliation of GAAP to non-GAAP financial measures is included on page 56.
+Full Year 2020 Full Year 2019
+(Dollars in millions except per share data) Profit Before Taxes Profit
+Per Share Profit Before Taxes Profit
+Per Share
+Profit............................................................. $ 3,995 $ 5.46 $ 7,812 $ 10.74
+Mark-to-market losses1 ...............................
+383 0.55 468 0.64
+Restructuring costs1......................................
+354 0.55 236 0.34
+U.S. tax reform impact................................. - - - (0.31)
+Adjusted profit.............................................. $ 4,732 $ 6.56 $ 8,516 $ 11.40
+1At statutory tax rates.
+Certain amounts may not add due to rounding.
+•Enterprise operating cash flow was $6.3 billion in 2020. Caterpillar ended 2020 with $9.4 billion of enterprise cash and more than $14 billion of available liquidity sources.
+Response to COVID-19 and Global Business Conditions
+We continue to implement safeguards in our facilities to protect team members, including increased frequency of cleaning and disinfecting, social distancing practices and other measures consistent with specific governmental requirements and guidance from health authorities. At the end of 2020, globally and across our three primary segments, nearly all of our primary production facilities continued to operate. This continues to fluctuate as conditions warrant, including the pace of economic recovery and the potential for additional COVID-related temporary shutdowns. We have continued to take actions to reduce costs and prioritize our spending to provide for investment in services and expanded offerings, key elements of our strategy for profitable growth, which was introduced in 2017.
+Notes:
+•Glossary of terms included on pages 41-43; first occurrence of terms shown in bold italics.
+•Information on non-GAAP financial measures is included on page 56.
+•Some amounts within this report are rounded to the millions or billions and may not add. In addition, the sum of the components reported across periods may not equal the total amount reported year-to-date due to rounding.
+2020 COMPARED WITH 2019
+CONSOLIDATED SALES AND REVENUES
+The chart above graphically illustrates reasons for the change in consolidated sales and revenues between 2019 (at left) and 2020 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees.
+Total sales and revenues for 2020 were $41.748 billion, a decrease of $12.052 billion, or 22 percent, compared with $53.800 billion in 2019. The decline was due to lower sales volume driven by lower end-user demand for equipment and services and the impact from changes in dealer inventories across the three primary segments. Dealers decreased machine and engine inventories about $2.9 billion during 2020, compared with an increase of about $800 million during 2019.
+Sales were lower across all regions and in the three primary segments.
+North America sales declined 31 percent driven by lower end-user demand and the impact from changes in dealer inventories. Dealers decreased inventories during 2020, compared with an increase during 2019.
+Sales decreased 28 percent in Latin America due to lower sales volume across the region, driven by lower end-user demand and the impact from changes in dealer inventories. In addition, sales were lower due to unfavorable currency impacts from a weaker Brazilian real. Dealers decreased inventories during 2020 and increased inventories during 2019.
+EAME sales decreased 12 percent due to lower sales volume in most countries across the region, driven by lower end-user demand and the impact from changes in dealer inventories. Dealers decreased inventories more during 2020 than 2019.
+Asia/Pacific sales decreased 16 percent due to lower demand across the region. Lower demand was driven by the impact from changes in dealer inventories and lower end-user demand. Dealers decreased inventories during 2020 and increased inventories during 2019.
+Dealers decreased machine and engine inventories about $2.9 billion during 2020, compared with an increase of about $800 million during 2019. Dealers are independent, and the reasons for changes in their inventory levels vary, including their expectations of future demand and product delivery times. Dealers’ demand expectations take into account seasonal changes, macroeconomic conditions, machine rental rates and other factors. Delivery times can vary based on availability of product from Caterpillar factories and product distribution centers. We do not expect a significant dealer inventory reduction in 2021.
+Sales and Revenues by Segment
+(Millions of dollars) 2019 Sales
+Volume Price
+Realization Currency Inter-Segment / Other 2020 $
+Change %
+Change
+Construction Industries $ 22,649 $ (5,154) $ (399) $ (127) $ (51) $ 16,918 $ (5,731) (25 %)
+Resource Industries 10,276 (2,204) (81) (82) (3) 7,906 (2,370) (23 %)
+Energy & Transportation 22,097 (3,827) 43 (37) (806) 17,470 (4,627) (21 %)
+All Other Segment 500 (14) - - (19) 467 (33) (7 %)
+Corporate Items and Eliminations (4,767) 146 2 1 879 (3,739) 1,028
+Machinery, Energy & Transportation 50,755 (11,053) (435) (245) - 39,022 (11,733) (23 %)
+Financial Products Segment 3,434 - - - (390) 3,044 (390) (11 %)
+Corporate Items and Eliminations (389) - - - 71 (318) 71
+Financial Products Revenues 3,045 - - - (319) 2,726 (319) (10 %)
+Consolidated Sales and Revenues $ 53,800 $ (11,053) $ (435) $ (245) $ (319) $ 41,748 $ (12,052) (22 %)
+Sales and Revenues by Geographic Region
+North America Latin America EAME Asia/Pacific External Sales and Revenues Inter-Segment Total Sales and Revenues
+(Millions of dollars) $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg
+Construction Industries $ 7,365 (36%) $ 1,031 (33%) $ 3,466 (14%) $ 5,014 (10%) $ 16,876 (25%) $ 42 (55%) $ 16,918 (25 %)
+Resource Industries 2,286 (37%) 1,253 (18%) 1,570 (14%) 2,337 (17%) 7,446 (24%) 460 (1%) 7,906 (23 %)
+Energy & Transportation 6,843 (23%) 932 (33%) 4,448 (11%) 2,441 (25%) 14,664 (21%) 2,806 (22%) 17,470 (21 %)
+All Other Segment 27 8% 4 (43%) 26 (7%) 56 (16%) 113 (11%) 354 (5%) 467 (7 %)
+Corporate Items and Eliminations (62) (4) (6) (5) (77) (3,662) (3,739)
+Machinery, Energy & Transportation 16,459 (31%) 3,216 (28%) 9,504 (12%) 9,843 (16%) 39,022 (23%) - -% 39,022 (23 %)
+Financial Products Segment 1,930 (14%) 257 (14%) 392 (4%) 465 (5%) 3,044 1
+(11%) - -% 3,044 (11 %)
+Corporate Items and Eliminations (175) (41) (38) (64) (318) - (318)
+Financial Products Revenues 1,755 (12%) 216 (13%) 354 (5%) 401 (5%) 2,726 (10%) - -% 2,726 (10 %)
+Consolidated Sales and Revenues $ 18,214 (29%) $ 3,432 (27%) $ 9,858 (12%) $ 10,244 (15%) $ 41,748 (22%) $ - -% $ 41,748 (22 %)
+Construction Industries $ 11,455 $ 1,533 $ 4,012 $ 5,556 $ 22,556 $ 93 $ 22,649
+Resource Industries 3,632 1,533 1,836 2,812 9,813 463 10,276
+Energy & Transportation 8,864 1,389 4,994 3,238 18,485 3,612 22,097
+All Other Segment 25 7 28 67 127 373 500
+Corporate Items and Eliminations (192) - (20) (14) (226) (4,541) (4,767)
+Machinery, Energy & Transportation 23,784 4,462 10,850 11,659 50,755 - 50,755
+Financial Products Segment 2,235 299 408 492 3,434 1
+- 3,434
+Corporate Items and Eliminations (234) (51) (35) (69) (389) - (389)
+Financial Products Revenues 2,001 248 373 423 3,045 - 3,045
+Consolidated Sales and Revenues $ 25,785 $ 4,710 $ 11,223 $ 12,082 $ 53,800 $ - $ 53,800
+1 Includes revenues from Machinery, Energy & Transportation of $362 million and $524 million in 2020 and 2019, respectively.
+CONSOLIDATED OPERATING PROFIT
+The chart above graphically illustrates reasons for the change in consolidated operating profit between 2019 (at left) and 2020 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees. The bar entitled Other includes consolidating adjustments and Machinery, Energy & Transportation other operating (income) expenses.
+Operating profit was $4.553 billion in 2020, a decrease of $3.737 billion, or 45 percent, compared with $8.290 billion in 2019. The decrease was due to lower sales volume and unfavorable price realization, partially offset by lower SG&A/R&D expenses and favorable manufacturing costs.
+Lower SG&A/R&D expenses reflected reduced short-term incentive compensation expense and other cost reductions related to lower sales volumes.
+Favorable manufacturing costs were mostly driven by lower period manufacturing costs and material costs, partially offset by higher warranty expense. Period manufacturing costs declined primarily due to a reduction in short-term incentive compensation expense and other cost reductions related to lower sales volumes.
+Short-term incentive compensation expense is directly related to financial and operational performance, measured against targets set annually. In the first quarter, in response to the continued global economic uncertainty due to the COVID-19 pandemic, Caterpillar suspended 2020 short-term incentive compensation plans for many employees and all senior executives. As a result, no short-term incentive compensation expense was recognized during 2020, compared with about $700 million during 2019.
+For 2021, we expect short-term incentive compensation expense will be about $900 million.
+Operating profit margin was 10.9 percent in 2020, compared with 15.4 percent in 2019.
+Profit by Segment
+(Millions of dollars) 2020 2019 $
+Change %
+Change
+Construction Industries $ 2,373 $ 3,931 $ (1,558) (40 %)
+Resource Industries 896 1,629 (733) (45 %)
+Energy & Transportation 2,405 3,910 (1,505) (38 %)
+All Other Segment 28 4 24 600 %
+Corporate Items and Eliminations (1,381) (1,504) 123
+Machinery, Energy & Transportation 4,321 7,970 (3,649) (46 %)
+Financial Products Segment 590 832 (242) (29 %)
+Corporate Items and Eliminations (53) (81) 28
+Financial Products 537 751 (214) (28 %)
+Consolidating Adjustments (305) (431) 126
+Consolidated Operating Profit $ 4,553 $ 8,290 $ (3,737) (45 %)
+Other Profit/Loss and Tax Items
+•Interest expense excluding Financial Products in 2020 was $514 million, compared with $421 million in 2019. The increase was due to higher average debt outstanding during 2020, compared with 2019.
+Other income/expense in 2020 was expense of $44 million, compared with expense of $57 million in 2019. The change was due to a higher expected return on pension and other postretirement benefit (OPEB) costs that include lower mark-to-market losses for remeasurement of pension and OPEB plans, partially offset by unfavorable impacts from foreign currency exchange gains (losses); lower investment and interest income; and the absence of realized gains that occurred in 2019.
+•The provision for income taxes for 2020 reflected an annual effective tax rate of 27.8 percent compared with 25 percent for 2019, excluding the discrete items discussed in the following paragraph. The increase from 2019 primarily related to changes in the geographic mix of profits from a tax perspective.
+The provision for income taxes for 2020 also included the following:
+◦A tax benefit of $80 million to adjust prior year U.S. taxes including the impact of regulations received in 2020 compared to $178 million in 2019.
+◦A tax benefit of $82 million related to $383 million of pension and OPEB mark-to-market losses in 2020, compared to a $105 million tax benefit related to $468 million of mark-to-market losses in 2019.
+◦A tax benefit of $49 million in 2020, compared with $41 million in 2019, for the settlement of stock-based compensation awards with associated tax deductions in excess of cumulative U.S. GAAP compensation expense.
+Construction Industries
+Construction Industries’ total sales were $16.918 billion in 2020, a decrease of $5.731 billion, or 25 percent, compared with $22.649 billion in 2019. The decrease was due to lower sales volume, driven by lower end-user demand and the impact from changes in dealer inventories. Dealers decreased inventories during 2020, compared with an increase during 2019.
+•In North America, sales decreased mostly due to lower sales volume driven by lower end-user demand and the impact from changes in dealer inventories. Dealers decreased inventories during 2020, compared with an increase during 2019.
+•Sales declined in Latin America primarily due to the impact from changes in dealer inventories and unfavorable currency impacts from a weaker Brazilian real. Dealers decreased inventories during 2020, compared with a slight increase during 2019.
+•In EAME, sales decreased mostly due to lower end-user demand and the impact from changes in dealer inventories across most countries in the region. Dealers decreased inventories more in 2020 than in 2019.
+•Sales declined in Asia/Pacific primarily due to lower sales volume driven by the impact of changes in dealer inventories, lower end-user demand across most of the region and unfavorable price realization due to competitive market conditions in China.
+Construction Industries’ profit was $2.373 billion in 2020, a decrease of $1.558 billion, or 40 percent, compared with $3.931 billion in 2019. The decrease was mainly due to lower sales volume and unfavorable price realization primarily due to the geographic mix of sales, partially offset by favorable manufacturing costs and lower SG&A/R&D expenses. Favorable manufacturing costs were primarily due to lower period manufacturing costs, material costs and favorable cost absorption, partially offset by higher warranty expense. Cost absorption was favorable as inventory decreased in 2019, compared with inventory that was about flat in 2020. Lower SG&A/R&D expenses and period manufacturing costs both reflected a reduction in short-term incentive compensation expense and other cost reductions related to lower sales volumes.
+Construction Industries’ profit as a percent of total sales was 14.0 percent in 2020, compared with 17.4 percent in 2019.
+Resource Industries
+Resource Industries’ total sales were $7.906 billion in 2020, a decrease of $2.370 billion, or 23 percent, compared with $10.276 billion in 2019. The decrease was due to lower sales volume, driven by lower end-user demand for equipment and aftermarket parts and the impact from changes in dealer inventories. Dealers decreased inventories during 2020, compared with an increase during 2019. Lower end-user demand was primarily driven by equipment supporting heavy construction and quarry and aggregates. Mining equipment end-user demand and aftermarket parts demand were also down in 2020, though to a lesser extent. Mining equipment sales were impacted by mining company delays in capital expenditures due to pricing in certain commodities and overall economic uncertainty.
+Resource Industries’ profit was $896 million in 2020, a decrease of $733 million, or 45 percent, compared with $1.629 billion in 2019. The decrease was mainly due to lower sales volume, partially offset by favorable manufacturing costs. Favorable manufacturing costs were mostly due to lower period manufacturing costs and material costs, partially offset by the unfavorable impact of cost absorption. Lower period manufacturing costs were driven by lower short-term incentive compensation expense, other cost-reduction actions implemented in response to lower sales volumes and the benefits of prior restructuring programs. Cost absorption was unfavorable as inventory increased during 2019, compared with inventory levels that were about flat during 2020.
+Resource Industries’ profit as a percent of total sales was 11.3 percent for 2020, compared with 15.9 percent for 2019.
+Energy & Transportation
+Sales by Application
+(Millions of dollars) 2020 2019 $
+Change %
+Change
+Oil and Gas $ 3,701 $ 5,205 $ (1,504) (29 %)
+Power Generation 3,963 4,474 (511) (11 %)
+Industrial 2,945 3,749 (804) (21 %)
+Transportation 4,055 5,057 (1,002) (20 %)
+External Sales 14,664 18,485 (3,821) (21 %)
+Inter-Segment 2,806 3,612 (806) (22 %)
+Total Sales $ 17,470 $ 22,097 $ (4,627) (21 %)
+Energy & Transportation’s total sales were $17.470 billion in 2020, a decrease of $4.627 billion, or 21 percent, compared with $22.097 billion in 2019. Sales declined across all applications and inter-segment engine sales.
+•Oil and Gas - Sales decreased mainly due to lower demand in North America for reciprocating engines used in gas compression and decreased sales of engine aftermarket parts and lower sales of turbines and turbine-related services across most regions.
+•Power Generation - Sales decreased primarily due to lower sales volume for reciprocating engines and aftermarket parts, as well as lower sales in turbines and turbine-related services.
+•Industrial - Sales decreased due to lower demand across all regions.
+•Transportation - Sales declined in rail due to lower rail services and deliveries of locomotives, primarily in North America, and in marine applications primarily in EAME and Asia/Pacific.
+Energy & Transportation’s profit was $2.405 billion in 2020, a decrease of $1.505 billion, or 38 percent, compared with $3.910 billion in 2019. The decrease was due to lower sales volume, partially offset by lower SG&A/R&D expenses and manufacturing costs. SG&A/R&D expenses and manufacturing costs were both impacted by a reduction in short-term incentive compensation expense and other cost reductions related to lower sales volumes. In addition, segment profit was unfavorably impacted by increased restructuring costs and certain asset impairments.
+Energy & Transportation’s profit as a percent of total sales was 13.8 percent in 2020, compared with 17.7 percent in 2019.
+Financial Products Segment
+Financial Products’ segment revenues were $3.044 billion in 2020, a decrease of $390 million, or 11 percent, from 2019. The decrease was primarily because of lower average financing rates across all regions and lower average earning assets in North America.
+Financial Products’ segment profit was $590 million in 2020, compared with $832 million in 2019. The decrease was due to higher provision for credit losses at Cat Financial, lower average earning assets, an unfavorable impact from equity securities in Insurance Services, lower net yield on average earning assets and an unfavorable impact from returned or repossessed equipment. These unfavorable impacts were partially offset by a reduction in SG&A expenses primarily due to lower incentive compensation.
+At the end of 2020, past dues at Cat Financial were 3.49 percent, compared with 3.14 percent at the end of 2019. Past dues increased primarily due to the impact of the COVID-19 pandemic, partially offset by decreases in the Caterpillar Power Finance, EAME and Latin American portfolios. Write-offs, net of recoveries, were $222 million for 2020, compared with $237 million for 2019. As of December 31, 2020, Cat Financial's allowance for credit losses totaled $479 million, or 1.77 percent of finance receivables, compared with $424 million, or 1.50 percent of finance receivables at December 31, 2019.
+Corporate Items and Eliminations
+Expense for corporate items and eliminations was $1.434 billion in 2020, a decrease of $151 million from 2019. The decrease was primarily due to segment reporting methodology differences and lower corporate costs, partially offset by increased pension and OPEB costs.
+FOURTH QUARTER 2020 COMPARED WITH FOURTH QUARTER 2019
+CONSOLIDATED SALES AND REVENUES
+The chart above graphically illustrates reasons for the change in consolidated sales and revenues between the fourth quarter of 2019 (at left) and the fourth quarter of 2020 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees.
+Total sales and revenues for the fourth quarter of 2020 were $11.235 billion, a decrease of $1.909 billion, or 15 percent, compared with $13.144 billion in the fourth quarter of 2019. The decline was mostly due to lower sales volume driven by lower end-user demand for equipment and services and the impact from changes in dealer inventories. Dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2019.
+Sales were lower across the three primary segments, with the largest decline in Energy & Transportation.
+The largest sales decrease was in North America, which declined 22 percent due to lower sales volume driven by lower end-user demand and the impact from changes in dealer inventories. Dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2019.
+Sales decreased 9 percent in Latin America primarily due to the unfavorable currency impacts from a weaker Brazilian real.
+EAME sales decreased 11 percent primarily due to lower end-user demand for equipment and aftermarket parts, partially offset by favorable currency impacts from a stronger euro and price realization.
+Asia/Pacific sales decreased 8 percent primarily due to lower sales volume and unfavorable price realization, partially offset by favorable currency impacts from a stronger Australian dollar and Chinese yuan. Sales volume declined due to lower end-user demand and the impact from changes in dealer inventories. Dealers decreased inventories during the fourth quarter of 2020, compared with dealer inventories that were about flat during the fourth quarter of 2019.
+Dealers decreased machine and engine inventories about $1.100 billion during the fourth quarter of 2020, compared with a decrease of about $700 million during the fourth quarter of 2019. Dealers are independent, and the reasons for changes in their inventory levels vary, including their expectations of future demand and product delivery times. Dealers’ demand expectations take into account seasonal changes, macroeconomic conditions, machine rental rates and other factors. Delivery times can vary based on availability of product from Caterpillar factories and product distribution centers.
+Sales and Revenues by Segment
+(Millions of dollars) Fourth Quarter 2019 Sales
+Volume Price
+Realization Currency Inter-Segment / Other Fourth Quarter 2020 $
+Change %
+Change
+Construction Industries $ 5,020 $ (526) $ (3) $ 30 $ (13) $ 4,508 $ (512) (10 %)
+Resource Industries 2,395 (237) 7 7 8 2,180 (215) (9 %)
+Energy & Transportation 5,949 (1,197) 12 49 (2) 4,811 (1,138) (19 %)
+All Other Segment 143 3 (1) 1 (9) 137 (6) (4 %)
+Corporate Items and Eliminations (1,121) 36 2 1 16 (1,066) 55
+Machinery, Energy & Transportation 12,386 (1,921) 17 88 - 10,570 (1,816) (15 %)
+Financial Products Segment 846 - - - (103) 743 (103) (12 %)
+Corporate Items and Eliminations (88) - - - 10 (78) 10
+Financial Products Revenues 758 - - - (93) 665 (93) (12 %)
+Consolidated Sales and Revenues $ 13,144 $ (1,921) $ 17 $ 88 $ (93) $ 11,235 $ (1,909) (15 %)
+Sales and Revenues by Geographic Region
+North America Latin America EAME Asia/Pacific External Sales and Revenues Inter-Segment Total Sales and Revenues
+(Millions of dollars) $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg $ % Chg
+Fourth Quarter 2020
+Construction Industries $ 1,895 (16%) $ 324 (21%) $ 848 -% $ 1,417 (4%) $ 4,484 (10%) $ 24 (35%) $ 4,508 (10 %)
+Resource Industries 596 (29%) 394 26% 412 (22%) 651 8% 2,053 (10%) 127 7% 2,180 (9 %)
+Energy & Transportation 1,705 (25%) 265 (25%) 1,353 (14%) 707 (25%) 4,030 (22%) 781 -% 4,811 (19 %)
+All Other Segment 5 150% - -% 9 80% 18 (18%) 32 10% 105 (8%) 137 (4 %)
+Corporate Items and Eliminations (27) 1 (2) (1) (29) (1,037) (1,066)
+Machinery, Energy & Transportation 4,174 (22%) 984 (9%) 2,620 (11%) 2,792 (8%) 10,570 (15%) - -% 10,570 (15 %)
+Financial Products Segment 464 (16%) 64 (14%) 94 (8%) 121 4% 743 1
+(12%) - -% 743 (12 %)
+Corporate Items and Eliminations (41) (10) (10) (17) (78) - (78)
+Financial Products Revenues 423 (16%) 54 (10%) 84 (10%) 104 3% 665 (12%) - -% 665 (12 %)
+Consolidated Sales and Revenues $ 4,597 (21%) $ 1,038 (9%) $ 2,704 (11%) $ 2,896 (8%) $ 11,235 (15%) $ - -% $ 11,235 (15 %)
+Fourth Quarter 2019
+Construction Industries $ 2,249 $ 409 $ 850 $ 1,475 $ 4,983 $ 37 $ 5,020
+Resource Industries 834 313 526 603 2,276 119 2,395
+Energy & Transportation 2,287 354 1,578 947 5,166 783 5,949
+All Other Segment 2 - 5 22 29 114 143
+Corporate Items and Eliminations (50) - (5) (13) (68) (1,053) (1,121)
+Machinery, Energy & Transportation 5,322 1,076 2,954 3,034 12,386 - 12,386
+Financial Products Segment 554 74 102 116 846 1
+- 846
+Corporate Items and Eliminations (50) (14) (9) (15) (88) - (88)
+Financial Products Revenues 504 60 93 101 758 - 758
+Consolidated Sales and Revenues $ 5,826 $ 1,136 $ 3,047 $ 3,135 $ 13,144 $ - $ 13,144
+1 Includes revenues from Machinery, Energy & Transportation of $88 million and $126 million in the three months ended December 31, 2020 and 2019, respectively.
+CONSOLIDATED OPERATING PROFIT
+The chart above graphically illustrates reasons for the change in consolidated operating profit between the fourth quarter of 2019 (at left) and the fourth quarter of 2020 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s Board of Directors and employees. The bar entitled Other includes consolidating adjustments and Machinery, Energy & Transportation other operating (income) expenses.
+Operating profit for the fourth quarter of 2020 was $1.380 billion, a decrease of $470 million, or 25 percent, compared with $1.850 billion in the fourth quarter of 2019. The decrease was primarily the result of lower sales volume partially offset by lower manufacturing costs and SG&A/R&D expenses. In addition, operating profit declined due to lower profit from Financial Products.
+Manufacturing costs were lower due to favorable impact from cost absorption, lower material and period manufacturing costs, partially offset by higher warranty expense. Cost absorption was favorable as inventory decreased more in the fourth quarter of 2019 than in the fourth quarter of 2020.
+SG&A/R&D expenses and period manufacturing costs benefited from reduced short-term incentive compensation expense and other cost reductions related to lower sales volumes, partially offset by higher labor and benefits costs.
+Short-term incentive compensation expense is directly related to financial and operational performance, measured against targets set annually. In the first quarter, in response to the continued global economic uncertainty due to the COVID-19 pandemic, Caterpillar suspended 2020 short-term incentive compensation plans for many employees and all senior executives. As a result, no short-term incentive compensation expense was recognized in the fourth quarter of 2020, compared with about $120 million in the fourth quarter of 2019.
+Operating profit margin was 12.3 percent for the fourth quarter of 2020, compared with 14.1 percent for the fourth quarter of 2019.
+Profit (Loss) by Segment
+(Millions of dollars) Fourth Quarter 2020 Fourth Quarter 2019 $
+Change %
+Change
+Construction Industries $ 630 $ 659 $ (29) (4 %)
+Resource Industries 273 261 12 5 %
+Energy & Transportation 687 1,165 (478) (41 %)
+All Other Segment (3) (11) 8 73 %
+Corporate Items and Eliminations (281) (325) 44
+Machinery, Energy & Transportation 1,306 1,749 (443) (25 %)
+Financial Products Segment 195 210 (15) (7 %)
+Corporate Items and Eliminations (47) (6) (41)
+Financial Products 148 204 (56) (27 %)
+Consolidating Adjustments (74) (103) 29
+Consolidated Operating Profit $ 1,380 $ 1,850 $ (470) (25 %)
+Other Profit/Loss and Tax Items
+•Interest expense excluding Financial Products in the fourth quarter of 2020 was $130 million, compared with $112 million in the fourth quarter of 2019.
+•Other income (expense) in the fourth quarter of 2020 was an expense of $309 million, compared with an expense of $373 million in the fourth quarter of 2019. The change was primarily driven by lower pension and OPEB costs including lower mark-to-market losses for remeasurement of pension and OPEB plans and impacts from gains (losses) on marketable securities at Insurance Services, partially offset by unfavorable impacts from foreign currency exchange gains (losses). The favorable impact of gains (losses) on marketable securities reflected unrealized gains in the fourth quarter of 2020, compared with unrealized losses in the fourth quarter of 2019 and the absence of realized gains that occurred in the fourth quarter of 2019.
+•The provision for income taxes for the fourth quarter of 2020 reflected an annual effective tax rate of 27.8 percent, compared with 25 percent for the fourth quarter of 2019, excluding the discrete items discussed in the following paragraph. The increase from 2019 was primarily related to changes in the geographic mix of profits from a tax perspective.
+The provision for income taxes for the fourth quarter of 2020 also included the following:
+◦A tax benefit of $96 million for the change from the third-quarter estimated annual tax rate of 31 percent, compared to a $64 million tax benefit for the reduction in the annual effective tax rate in the fourth quarter of 2019.
+◦A tax benefit of $92 million related to $438 million of pension and OPEB mark-to-market losses in the fourth quarter of 2020, compared to a $105 million tax benefit related to $468 million of mark-to-market losses in the fourth quarter of 2019.
+◦A tax benefit of $28 million in the fourth quarter of 2020, compared to $13 million in the fourth quarter of 2019, for the settlement of stock-based compensation awards with associated tax deductions in excess of cumulative U.S. GAAP compensation expense.
+Construction Industries
+Construction Industries’ total sales were $4.508 billion in the fourth quarter of 2020, a decrease of $512 million, or 10 percent, compared with $5.020 billion in the fourth quarter of 2019. The decrease was due to lower sales volume, driven by the impact from changes in dealer inventories and slightly lower end-user demand. Dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2019.
+▪In North America, sales decreased mostly due to lower sales volume driven by the impact from changes in dealer inventories and lower end-user demand. The lower end-user demand was primarily the result of weaker pipeline and road construction. Dealers decreased inventories more during the fourth quarter of 2020 than during the fourth quarter of 2019.
+▪Sales declined in Latin America primarily due to the unfavorable currency impacts from a weaker Brazilian real and lower sales volume.
+▪In EAME, sales were about flat as lower sales volume across several countries in the region was offset by favorable price realization and favorable currency impacts from a stronger euro. Lower sales volume was driven by lower end-user demand, partially offset by the impact of changes in dealer inventories. Dealers decreased inventories more during the fourth quarter of 2019 than during the fourth quarter of 2020.
+▪Sales decreased in Asia/Pacific primarily due to lower sales volume and unfavorable price realization, partially offset by favorable currency impacts from both a stronger Chinese yuan and Australian dollar. The decrease in sales was mainly driven by China, where higher end-user demand was more than offset by unfavorable impacts from changes in dealer inventories. This was partially offset by higher demand in several other countries.
+Construction Industries’ profit was $630 million in the fourth quarter of 2020, a decrease of $29 million, or 4 percent, compared with $659 million in the fourth quarter of 2019. The decrease was mainly due to lower sales volume and higher warranty expense, partially offset by favorable impact of cost absorption and lower SG&A/R&D expenses. Cost absorption was favorable as inventory increased during the fourth quarter of 2020, compared with a decrease during the fourth quarter of 2019. SG&A/R&D expenses benefited from reduced short-term incentive compensation expense and other cost reductions related to lower sales volumes.
+Construction Industries’ profit as a percent of total sales was 14.0 percent in the fourth quarter of 2020, compared with 13.1 percent in the fourth quarter of 2019.
+Resource Industries
+Resource Industries’ total sales were $2.180 billion in the fourth quarter of 2020, a decrease of $215 million, or 9 percent, compared with $2.395 billion in the fourth quarter of 2019. The decrease was due to lower end-user demand for equipment and aftermarket parts. End-user demand was lower for heavy construction and quarry and aggregates and was also lower in mining, but to a lesser extent.
+Resource Industries’ profit was $273 million in the fourth quarter of 2020, an increase of $12 million, or 5 percent, compared with $261 million in the fourth quarter of 2019. The increase was mainly due to favorable manufacturing costs and lower SG&A/R&D expenses which was mostly offset by lower sales volume. Favorable manufacturing costs reflected favorable variable labor and burden, impact of cost absorption, period manufacturing costs and material costs. Cost absorption was favorable as inventory decreased in the fourth quarter of 2019 compared with being about flat in the fourth quarter of 2020. SG&A/R&D expenses, along with period manufacturing costs, benefited from lower short-term incentive compensation expense, other cost-reduction actions implemented and benefits from prior restructuring programs.
+Resource Industries’ profit as a percent of total sales was 12.5 percent in the fourth quarter of 2020, compared with 10.9 percent in the fourth quarter of 2019.
+Energy & Transportation
+Sales by Application
+(Millions of dollars) Fourth Quarter 2020 Fourth Quarter 2019 $
+Change %
+Change
+Oil and Gas $ 1,079 $ 1,523 $ (444) (29 %)
+Power Generation 1,180 1,294 (114) (9 %)
+Industrial 736 908 (172) (19 %)
+Transportation 1,035 1,441 (406) (28 %)
+External Sales 4,030 5,166 (1,136) (22 %)
+Inter-Segment 781 783 (2) - %
+Total Sales $ 4,811 $ 5,949 $ (1,138) (19 %)
+Energy & Transportation’s total sales were $4.811 billion in the fourth quarter of 2020, a decrease of $1.138 billion, or 19 percent, compared with $5.949 billion in the fourth quarter of 2019. Sales declined across all applications.
+▪Oil and Gas - Sales decreased mainly due to lower demand in North America for reciprocating engines used in gas compression and well servicing. In addition, sales were lower for turbines and turbine-related services.
+▪Power Generation - Sales decreased primarily due to lower sales volume in small reciprocating engines, turbines and turbine-related services and engine aftermarket parts.
+▪Industrial - Sales decreased due to lower demand across all regions.
+▪Transportation - Sales declined in rail due to lower rail services and locomotives deliveries, primarily in North America. Marine sales were also lower.
+Energy & Transportation’s profit was $687 million in the fourth quarter of 2020, a decrease of $478 million, or 41 percent, compared with $1.165 billion in the fourth quarter of 2019. The decrease was due to lower sales volume, partially offset by lower SG&A/R&D expenses and period manufacturing costs. SG&A/R&D expenses and period manufacturing costs were mostly impacted by a reduction in short-term incentive compensation expense and other cost-reduction actions implemented in response to lower sales volumes.
+Energy & Transportation’s profit as a percent of total sales was 14.3 percent in the fourth quarter of 2020, compared with 19.6 percent in the fourth quarter of 2019.
+Financial Products Segment
+Financial Products’ segment revenues were $743 million in the fourth quarter of 2020, a decrease of $103 million, or 12 percent, from the fourth quarter of 2019. The decrease was primarily because of lower average financing rates across all regions and lower average earning assets in North America.
+Financial Products’ segment profit was $195 million in the fourth quarter of 2020, compared with $210 million in the fourth quarter of 2019. The decrease was primarily due to higher provision for credit losses, an unfavorable impact from returned or repossessed equipment and lower average earning assets at Cat Financial. These unfavorable impacts were partially offset by a reduction in SG&A expenses primarily due to lower short-term incentive compensation and a favorable impact from equity securities in Insurance Services.
+Corporate Items and Eliminations
+Expense for corporate items and eliminations was $328 million in the fourth quarter of 2020, a decrease of $3 million from the fourth quarter of 2019.
+2019 COMPARED WITH 2018
+For discussions related to the consolidated sales and revenue and consolidated operating profit between 2019 and 2018, refer to Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2019, which was filed with the United States Securities and Exchange Commission on February 19, 2020.
+RESTRUCTURING COSTS
+We expect to incur about $400 million of restructuring costs in 2021. We expect that prior restructuring actions will result in an incremental benefit to operating costs, primarily Costs of goods sold and SG&A expenses of about $150 million in 2021 compared with 2020.
+Additional information related to restructuring costs is included in Note 24 - "Restructuring Costs" of Part II, Item 8 "Financial Statements and Supplemental Data."
+GLOSSARY OF TERMS
+1.Adjusted Profit Per Share - Profit per share excluding pension and OPEB mark-to-market losses and restructuring costs. In 2019, adjusted profit per share also excludes a discrete tax benefit related to U.S. tax reform.
+2.All Other Segment - Primarily includes activities such as: business strategy; product management and development; manufacturing and sourcing of filters and fluids, undercarriage, ground engaging tools, fluid transfer products, precision seals, rubber sealing and connecting components primarily for Cat® products; parts distribution; integrated logistics solutions; distribution services responsible for dealer development and administration, including a wholly owned dealer in Japan; dealer portfolio management and ensuring the most efficient and effective distribution of machines, engines and parts; brand management and marketing strategy; and digital investments for new customer and dealer solutions that integrate data analytics with state-of-the-art digital technologies while transforming the buying experience.
+3.Consolidating Adjustments - Elimination of transactions between Machinery, Energy & Transportation and Financial Products.
+4.Construction Industries - A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes asphalt pavers; backhoe loaders; compactors; cold planers; compact track and multi-terrain loaders; mini, small, medium and large track excavators; motor graders; pipelayers; road reclaimers; skid steer loaders; telehandlers; small and medium track-type tractors; track-type loaders; utility vehicles; wheel excavators; compact, small and medium wheel loaders; and related parts and work tools.
+5.Corporate Items and Eliminations - Includes corporate-level expenses, timing differences (as some expenses are reported in segment profit on a cash basis), methodology differences between segment and consolidated external reporting, certain restructuring costs, and inter-segment eliminations.
+6.Currency - With respect to sales and revenues, currency represents the translation impact on sales resulting from changes in foreign currency exchange rates versus the U.S. dollar. With respect to operating profit, currency represents the net translation impact on sales and operating costs resulting from changes in foreign currency exchange rates versus the U.S. dollar. Currency only includes the impact on sales and operating profit for the Machinery, Energy & Transportation lines of business; currency impacts on Financial Products revenues and operating profit are included in the Financial Products portions of the respective analyses. With respect to other income/expense, currency represents the effects of forward and option contracts entered into by the company to reduce the risk of fluctuations in exchange rates (hedging) and the net effect of changes in foreign currency exchange rates on our foreign currency assets and liabilities for consolidated results (translation).
+7.Dealer Inventories - Represents dealer machine and engine inventories, excluding aftermarket parts.
+8.EAME - A geographic region including Europe, Africa, the Middle East and the Commonwealth of Independent States (CIS).
+9.Earning Assets - Assets consisting primarily of total finance receivables net of unearned income, plus equipment on operating leases, less accumulated depreciation at Cat Financial.
+10.Energy & Transportation - A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related parts across industries serving Oil and Gas, Power Generation, Industrial and Transportation applications, including marine- and rail-related businesses. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales, and product support. The product portfolio includes turbine machinery and integrated systems and solutions and turbine-related services, reciprocating engine-powered generator sets, integrated systems used in the electric power generation industry, reciprocating engines and integrated systems and solutions for the marine and oil and gas industries, and reciprocating engines supplied to the industrial industry as well as Cat machinery. Responsibilities also include the remanufacturing of Caterpillar engines and components and remanufacturing services for other companies; the business strategy, product design, product management and development, manufacturing, remanufacturing, leasing and service of diesel-electric locomotives and components and other rail-related products and services; and product support of on-highway vocational trucks for North America.
+11.Financial Products - The company defines Financial Products as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Caterpillar Insurance Holdings Inc. (Insurance Services). Financial Products’ information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+12.Financial Products Segment - Provides financing alternatives to customers and dealers around the world for Caterpillar products, as well as financing for vehicles, power generation facilities and marine vessels that, in most cases, incorporate Caterpillar products. Financing plans include operating and finance leases, installment sale contracts, working capital loans and wholesale financing plans. The segment also provides insurance and risk management products and services that help customers and dealers manage their business risk. Insurance and risk management products offered include physical damage insurance, inventory protection plans, extended service coverage for machines and engines, and dealer property and casualty insurance. The various forms of financing, insurance and risk management products offered to customers and dealers help support the purchase and lease of Caterpillar equipment. The segment also earns revenues from Machinery, Energy & Transportation, but the related costs are not allocated to operating segments. Financial Products’ segment profit is determined on a pretax basis and includes other income/expense items.
+13.Latin America - A geographic region including Central and South American countries and Mexico.
+14.Machinery, Energy & Transportation (ME&T) - The company defines ME&T as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T’s information relates to the design, manufacturing and marketing of its products.
+15.Machinery, Energy & Transportation Other Operating (Income) Expenses - Comprised primarily of gains/losses on disposal of long-lived assets, gains/losses on divestitures and legal settlements, and accruals.
+16.Manufacturing Costs - Manufacturing costs exclude the impacts of currency and represent the volume-adjusted change for variable costs and the absolute dollar change for period manufacturing costs. Variable manufacturing costs are defined as having a direct relationship with the volume of production. This includes material costs, direct labor and other costs that vary directly with production volume, such as freight, power to operate machines and supplies that are consumed in the manufacturing process. Period manufacturing costs support production but are defined as generally not having a direct relationship to short-term changes in volume. Examples include machinery and equipment repair, depreciation on manufacturing assets, facility support, procurement, factory scheduling, manufacturing planning and operations management.
+17.Mark-to-market gains/losses - Represents the net gain or loss of actual results differing from the company’s assumptions and the effects of changing assumptions for our defined benefit pension and OPEB plans. These gains and losses are immediately recognized through earnings upon the annual remeasurement in the fourth quarter, or on an interim basis as triggering events warrant remeasurement.
+18.Pension and Other Postemployment Benefit (OPEB) - The company’s defined-benefit pension and postretirement benefit plans.
+19.Price Realization - The impact of net price changes excluding currency and new product introductions. Price realization includes geographic mix of sales, which is the impact of changes in the relative weighting of sales prices between geographic regions.
+20.Resource Industries - A segment primarily responsible for supporting customers using machinery in mining, heavy construction, quarry and aggregates, waste and material handling applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales, and product support. The product portfolio includes large track-type tractors, large mining trucks, hard rock vehicles, longwall miners, electric rope shovels, draglines, hydraulic shovels, rotary drills, large wheel loaders, off-highway trucks, articulated trucks, wheel tractor scrapers, wheel dozers, landfill compactors, soil compactors, select work tools, machinery components, electronics and control systems, and related parts. In addition to equipment, Resource Industries also develops and sells technology products and services to provide customers fleet management, equipment management analytics and autonomous machine capabilities. Resource Industries also manages areas that provide services to other parts of the company, including integrated manufacturing and research and development.
+21.Restructuring Costs - May include costs for employee separation, long-lived asset impairments and contract terminations. These costs are included in Other operating (income) expenses except for defined-benefit plan curtailment losses and special termination benefits, which are included in Other income (expense). Restructuring costs also include other exit-related costs, which may consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and project management costs and LIFO inventory decrement benefits from inventory liquidations at closed facilities, all of which are primarily included in Cost of goods sold.
+22.Sales Volume - With respect to sales and revenues, sales volume represents the impact of changes in the quantities sold for Machinery, Energy & Transportation as well as the incremental sales impact of new product introductions, including emissions-related product updates. With respect to operating profit, sales volume represents the impact of changes in the quantities sold for Machinery, Energy & Transportation combined with product mix as well as the net operating profit impact of new product introductions, including emissions-related product updates. Product mix represents the net operating profit impact of changes in the relative weighting of Machinery, Energy & Transportation sales with respect to total sales. The impact of sales volume on segment profit includes inter-segment sales.
+23.Services - Enterprise services include, but are not limited to, aftermarket parts, Financial Products revenues and other service-related revenues. Machinery, Energy & Transportation segments exclude most Financial Products revenues.
+LIQUIDITY AND CAPITAL RESOURCES
+Sources of funds
+We generate significant capital resources from operating activities, which are the primary source of funding for our ME&T operations. Funding for these businesses is also available from commercial paper and long-term debt issuances. Financial Products’ operations are funded primarily from commercial paper, term debt issuances and collections from its existing portfolio. During 2020, we experienced favorable liquidity conditions globally in both our ME&T and Financial Products' operations. On a consolidated basis, we ended 2020 with $9.35 billion of cash, an increase of $1.07 billion from year-end 2019. We intend to maintain a strong cash and liquidity position.
+Consolidated operating cash flow for 2020 was $6.33 billion, down $585 million compared to 2019. The decrease was primarily due to profit adjusted for non-cash items, including lower accruals for short-term incentive compensation and postretirement benefits. Partially offsetting lower profit were the absence of a discretionary pension contribution, reduced working capital requirements and lower payments for short-term incentive compensation during 2020. Within working capital, changes to accounts receivable and accounts payable favorably impacted cash flow, but were partially offset by unfavorable changes in accrued expenses, inventories and customer advances. See further discussion of operating cash flow under ME&T and Financial Products.
+Total debt as of December 31, 2020 was $37.16 billion, a decrease of $494 million from year-end 2019. Debt related to Financial Products decreased $2.51 billion, while debt related to ME&T increased $2.02 billion in 2020. The increase was due to the issuance of new debt to maintain our strong financial position and increase liquidity. In April 2020, we issued $800 million of ten-year bonds at 2.6 percent and $1.2 billion of 30-year bonds at 3.25 percent.
+We have three global credit facilities with a syndicate of banks totaling $10.50 billion (Credit Facility) available in the aggregate to both Caterpillar and Cat Financial for general liquidity purposes. Based on management’s allocation decision, which can be revised from time to time, the portion of the Credit Facility available to ME&T as of December 31, 2020 was $2.75 billion. Information on our Credit Facility is as follows:
+•The 364-day facility of $3.15 billion (of which $0.82 billion is available to ME&T) expires in September 2021.
+•The three-year facility, as amended and restated in September 2019, of $2.73 billion (of which $0.72 billion is available to ME&T) expires in September 2022.
+•The five-year facility, as amended and restated in September 2019, of $4.62 billion (of which $1.21 billion is available to ME&T) expires in September 2024.
+At December 31, 2020, Caterpillar’s consolidated net worth was $15.41 billion, which was above the $9.00 billion required under the Credit Facility. The consolidated net worth is defined as the consolidated shareholder’s equity including preferred stock but excluding the pension and other postretirement benefits balance within Accumulated other comprehensive income (loss).
+At December 31, 2020, Cat Financial’s covenant interest coverage ratio was 1.72 to 1. This is above the 1.15 to 1 minimum ratio, calculated as (1) profit excluding income taxes, interest expense and net gain/(loss) from interest rate derivatives to (2) interest expense calculated at the end of each calendar quarter for the rolling four quarter period then most recently ended, required by the Credit Facility.
+In addition, at December 31, 2020, Cat Financial’s six-month covenant leverage ratio was 6.74 to 1 and year-end covenant leverage ratio was 6.95 to 1. This is below the maximum ratio of debt to net worth of 10 to 1, calculated (1) on a monthly basis as the average of the leverage ratios determined on the last day of each of the six preceding calendar months and (2) at each December 31, required by the Credit Facility.
+In the event Caterpillar or Cat Financial does not meet one or more of their respective financial covenants under the Credit Facility in the future (and are unable to obtain a consent or waiver), the syndicate of banks may terminate the commitments allocated to the party that does not meet its covenants. Additionally, in such event, certain of Cat Financial's other lenders under other loan agreements where similar financial covenants or cross default provisions are applicable, may, at their election, choose to pursue remedies under those loan agreements, including accelerating the repayment of outstanding borrowings. At December 31, 2020, there were no borrowings under the Credit Facility.
+Our total credit commitments and available credit as of December 31, 2020 were:
+December 31, 2020
+(Millions of dollars) Consolidated Machinery,
+Energy &
+Transportation Financial
+Products
+Credit lines available:
+Global credit facilities $ 10,500 $ 2,750 $ 7,750
+Other external 3,178 146 3,032
+Total credit lines available 13,678 2,896 10,782
+Less: Commercial paper outstanding (1,321) - (1,321)
+Less: Utilized credit (744) (10) (734)
+Available credit $ 11,613 $ 2,886 $ 8,727
+The other consolidated credit lines with banks as of December 31, 2020 totaled $3.18 billion. These committed and uncommitted credit lines, which may be eligible for renewal at various future dates or have no specified expiration date, are used primarily by our subsidiaries for local funding requirements. Caterpillar or Cat Financial may guarantee subsidiary borrowings under these lines.
+Since the outbreak of the COVID-19 global pandemic, Caterpillar has taken actions to maintain our strong financial position and increase liquidity. During 2020, we raised $2.0 billion of incremental cash by issuing $800 million of ten-year bonds at 2.6 percent and $1.2 billion of 30-year bonds at 3.25 percent. We also entered into an incremental $3.9 billion short-term credit facility that was set to expire on December 31, 2020 and registered for $4.2 billion in commercial paper support programs available in the United States and Canada. In addition, Cat Financial issued $3.25 billion of medium-term notes to refinance maturing medium-term notes and supplement its liquidity position. Due to our strong liquidity position, we chose to early terminate the $3.9 billion short-term credit facility on September 2, 2020. We also do not have any outstanding borrowings under either commercial paper support program as of the date of this filing.
+We receive debt ratings from the major credit rating agencies. Moody’s rates our debt as “low-A”, while Fitch and S&P maintain a “mid-A” debt rating. This split rating has not had a material impact on our borrowing costs or our overall financial health. However, a downgrade of our credit ratings by any of the major credit rating agencies would result in increased borrowing costs and could make access to certain credit markets more difficult. In the event economic conditions deteriorate such that access to debt markets becomes unavailable, ME&T’s operations would rely on cash flow from operations, use of existing cash balances, borrowings from Cat Financial and access to our Credit Facility. Our Financial Products’ operations would rely on cash flow from its existing portfolio, existing cash balances, access to our Credit Facility and other credit line facilities of Cat Financial and potential borrowings from Caterpillar. In addition, we maintain a support agreement with Cat Financial, which requires Caterpillar to remain the sole owner of Cat Financial and may, under certain circumstances, require Caterpillar to make payments to Cat Financial should Cat Financial fail to maintain certain financial ratios.
+We facilitate voluntary supply chain finance programs (the “Programs”) through participating financial institutions. The Programs are available to a wide range of suppliers and allows them the option to manage their cash flow. We are not a party to the agreements between the participating financial institutions and the suppliers in connection with the Programs. The range of payment terms we negotiate with our suppliers is consistent, irrespective of whether a supplier participates in the Programs. The amounts payable to participating financial institutions for suppliers who voluntarily participate in the Programs and included in accounts payable in the Consolidated Statement of Financial Position were $533 million and $575 million at December 31, 2020 and December 31, 2019, respectively. The amounts settled through the Programs and paid to participating financial institutions were $3.2 billion and $4.1 billion in 2020 and 2019, respectively. We account for payments made under the Programs, the same as our other accounts payable, as a reduction to our cash flows from operations. We do not believe that changes in the availability of supply chain financing will have a significant impact on our liquidity.
+Machinery, Energy & Transportation
+Net cash provided by operating activities was $4.05 billion in 2020, compared with $4.87 billion in 2019. The decrease was primarily due to lower profit in 2020 adjusted for non-cash items, which included lower accruals for short-term compensation payments and postretirement benefits. Partially offsetting lower profit were the absence of a discretionary pension contribution, lower payments for short-term incentive compensation and reduced working capital requirements. Within working capital, changes to accounts payable and accounts receivable favorably impacted cash flow, but were partially offset by changes in accrued expenses, inventories and customer advances.
+Net cash used for investing activities in 2020 was $1.34 billion, compared with net cash used of $48 million in 2019. The change was primarily due to increased intercompany lending with Financial Products during 2020.
+Net cash used for financing activities during 2020 was $1.18 billion, compared with net cash used of $4.48 billion in 2019. The change was primarily due to a decrease in share repurchases of $2.92 billion and greater proceeds from the issuance of debt of $512 million compared to 2019.
+While our short-term priorities for the use of cash may vary from time to time as business needs and conditions dictate, our long-term cash deployment strategy is focused on the following priorities. Our top priority is to maintain a strong financial position in support of a Mid-A rating. Next, we intend to fund operational requirements and commitments. Then, we intend to fund priorities that profitably grow the company and return capital to shareholders through dividend growth and share repurchases. Additional information on cash deployment is as follows:
+Strong financial position - Our top priority is to maintain a strong financial position in support of a mid-A rating. We track a diverse group of financial metrics that focus on liquidity, leverage, cash flow and margins which align with our cash deployment actions and the various methodologies used by the major credit rating agencies.
+Operational excellence and commitments - Capital expenditures were $994 million during 2020, compared to $1.07 billion in 2019. We expect ME&T’s capital expenditures in 2021 to be between $1.0 billion and $1.2 billion. We made $262 million of contributions to our pension and other postretirement benefit plans during 2020. By comparison, we made $1.81 billion of contributions to our pension and other postretirement plans in 2019, including a $1.5 billion discretionary contribution made to our U.S. pension plans. We expect to make approximately $310 million of contributions to our pension and OPEB plans in 2021.
+Fund strategic growth initiatives and return capital to shareholders - We intend to utilize our liquidity and debt capacity to fund targeted investments that drive long-term profitable growth focused in the areas of expanded offerings and services, including acquisitions.
+As part of our capital allocation strategy, ME&T free cash flow is a liquidity measure we use to determine the cash generated and available for financing activities including debt repayments, dividends and share repurchases. We define ME&T free cash flow as cash from ME&T operations excluding discretionary pension and other postretirement benefit plan contributions less capital expenditures. A goal of our capital allocation strategy is to return substantially all ME&T free cash flow to shareholders through the cycles in the form of dividends and share repurchases, while maintaining our mid-A rating.
+Our share repurchase plans are subject to the company’s cash deployment priorities and are evaluated on an ongoing basis considering the financial condition of the company and the economic outlook, corporate cash flow, the company's liquidity needs and the health and stability of global credit markets. The timing and amount of future repurchases may vary depending on market conditions and investing priorities. In July 2018, the Board of Directors approved an authorization to repurchase up to $10 billion of Caterpillar common stock (the 2018 Authorization) effective January 1, 2019, with no expiration. In 2020, we repurchased $1.13 billion of Caterpillar common stock, with $4.82 billion remaining under the 2018 Authorization as of December 31, 2020. Caterpillar's basic shares outstanding as of December 31, 2020 were approximately 545 million. Due to current economic uncertainty, we have temporarily suspended our share repurchase program in 2020. The existing share repurchase program remains authorized by the Board, and we may resume share repurchases in the future at any time depending upon market conditions, our capital needs and other factors.
+Each quarter, our Board of Directors reviews the company's dividend for the applicable quarter. The Board evaluates the financial condition of the company and considers the economic outlook, corporate cash flow, the company's liquidity needs, and the health and stability of global credit markets to determine whether to maintain or change the quarterly dividend. In December 2020, the Board of Directors approved maintaining our quarterly dividend representing $1.03 per share and we continue to expect our strong financial position to support the dividend. Dividends paid totaled $2.24 billion in 2020.
+Financial Products
+Financial Products operating cash flow was $1.27 billion in 2020, compared with $1.50 billion in 2019. Net cash provided by investing activities was $791 million in 2020, compared with net cash used for investing activities of $414 million in 2019. The change was primarily due to lower additions to finance receivables and other portfolio related activity. Net cash used for financing activities was $2.50 billion in 2020, compared with $991 million in 2019. The change was primarily due to lower portfolio funding requirements, partially offset by the increase in intercompany borrowings from ME&T.
+Contractual obligations
+The company has committed cash outflow related to long-term debt, operating lease agreements, postretirement benefit obligations, purchase obligations, interest on long-term debt and other long-term contractual obligations. As of December 31, 2020, minimum payments for these obligations were:
+(Millions of dollars) 2021 2022-2023 2024-2025 After 2025 Total
+Long-term debt:
+Machinery, Energy & Transportation $ 1,420 $ 620 $ 1,021 $ 8,699 $ 11,760
+Financial Products 7,738 10,866 4,298 1,063 23,965
+Total long-term debt 1
+9,158 11,486 5,319 9,762 35,725
+Operating leases 174 206 117 182 679
+Postretirement benefit obligations 2
+310 695 729 1,778 3,512
+Purchase obligations:
+Accounts payable 3
+6,128 - - - 6,128
+Purchase orders 4
+5,554 5 - - 5,559
+Other contractual obligations 5
+106 145 57 1 309
+Total purchase obligations 11,788 150 57 1 11,996
+Interest on long-term debt 6
+830 1,228 862 7,109 10,029
+Other long-term obligations 7
+560 506 196 87 1,349
+Total contractual obligations $ 22,820 $ 14,271 $ 7,280 $ 18,919 $ 63,290
+1Amounts exclude unamortized discounts, debt issuance costs, and fair value adjustments.
+2Amounts represent expected contributions to our pension and other postretirement benefit plans through 2030, offset by expected Medicare Part D subsidy receipts.
+3Amount represents invoices received and recorded as liabilities in 2020, but scheduled for payment in 2021. These represent short-term obligations made in the ordinary course of business.
+4Amounts represent contractual obligations for material and services on order at December 31, 2020 but not yet delivered. These represent short-term obligations made in the ordinary course of business.
+5Amounts represent long-term commitments entered into with key suppliers for minimum purchases quantities.
+6Amounts represent estimated contractual interest payments on long-term debt, including finance lease interest payments.
+7Amounts represent contractual obligations primarily for logistics services agreements related to our former third party logistics business, software license and development contracts and IT consulting contracts and outsourcing contracts for benefit plan administration and software system support.
+The total amount of gross unrecognized tax benefits for uncertain tax positions, including positions impacting only the timing of tax benefits, was $1,759 million at December 31, 2020. Payment of these obligations would result from settlements with taxing authorities. Due to the difficulty in determining the timing of settlements, these obligations are not included in the table above. We do not expect to make a tax payment related to these obligations within the next year that would significantly impact liquidity.
+Off-balance sheet arrangements
+We are a party to certain off-balance sheet arrangements, primarily in the form of guarantees. Information related to guarantees appears in Note 21 - “Guarantees and product warranty” of Part II, Item 8 “Financial Statements and Supplementary Data”.
+RECENT ACCOUNTING PRONOUNCEMENTS
+For a discussion of recent accounting pronouncements, see Note 1J - “New accounting guidance” of Part II, Item 8 “Financial Statements and Supplementary Data.”
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect reported amounts. The more significant estimates include: residual values for leased assets, fair values for goodwill impairment tests, warranty liability, reserves for product liability and insurance losses, postretirement benefits, post-sale discounts, credit losses and income taxes. We have incorporated many years of data into the determination of each of these estimates and we have not historically experienced significant adjustments. We review these assumptions at least annually with the Audit Committee of the Board of Directors. Following are the methods and assumptions used in determining our estimates and an indication of the risks inherent in each.
+Residual values for leased assets - We determine the residual value of Cat Financial’s leased equipment based on its estimated end-of-term market value. We estimate the residual value of leased equipment at the inception of the lease based on a number of factors, including historical wholesale market sales prices, past remarketing experience and any known significant market/product trends. We also consider the following critical factors in our residual value estimates: lease term, market size and demand, total expected hours of usage, machine configuration, application, location, model changes, quantities, third-party residual guarantees and contractual customer purchase options.
+Upon termination of the lease, the equipment is either purchased by the lessee or sold to a third party, in which case we may record a gain or a loss for the difference between the estimated residual value and the sale price.
+During the term of our leases, we monitor residual values. For operating leases, we record adjustments to depreciation expense reflecting changes in residual value estimates prospectively on a straight-line basis. For finance leases, we recognize residual value adjustments through a reduction of finance revenue over the remaining lease term.
+We evaluate the carrying value of equipment on operating leases for potential impairment when we determine a triggering event has occurred. When a triggering event occurs, we perform a test for recoverability by comparing projected undiscounted future cash flows to the carrying value of the equipment on operating leases. If the test for recoverability identifies a possible impairment, we measure the fair value of the equipment on operating leases in accordance with the fair value measurement framework. We recognize an impairment charge for the amount by which the carrying value of the equipment on operating leases exceeds its estimated fair value.
+At December 31, 2020, the aggregate residual value of equipment on operating leases was $2.07 billion. Without consideration of other factors such as third-party residual guarantees or contractual customer purchase options, a 10 percent non-temporary decrease in the market value of our equipment subject to operating leases would reduce residual value estimates and result in the recognition of approximately $95 million of additional annual depreciation expense.
+Fair values for goodwill impairment tests - We test goodwill for impairment annually, at the reporting unit level, and whenever events or circumstances make it more likely than not that an impairment may have occurred, such as a significant adverse change in the business climate or a decision to sell all or a portion of a reporting unit. We perform our annual goodwill impairment test as of October 1 and monitor for interim triggering events on an ongoing basis.
+We review goodwill for impairment utilizing either a qualitative assessment or a quantitative goodwill impairment test. If we choose to perform a qualitative assessment and determine the fair value more likely than not exceeds the carrying value, no further evaluation is necessary. For reporting units where we perform the quantitative goodwill impairment test, we compare the fair value of each reporting unit, which we primarily determine using an income approach based on the present value of discounted cash flows, to the respective carrying value, which includes goodwill. If the fair value of the reporting unit exceeds its carrying value, we do not consider the goodwill impaired. If the carrying value is higher than the fair value, we recognize the difference as an impairment loss.
+The impairment test process requires valuation of the respective reporting unit, which we primarily determine using an income approach based on a discounted five year forecasted cash flow with a year-five residual value. We compute the residual value using the constant growth method, which values the forecasted cash flows in perpetuity. We support the income approach by a reconciliation of our calculated fair value for Caterpillar to the company’s market capitalization. The assumptions about future cash flows and growth rates are based on each reporting unit's long-term forecast and are subject to review and approval by senior management. A reporting unit’s discount rate is a risk-adjusted weighted average cost of capital, which we believe approximates the rate from a market participant’s perspective. The estimated fair value could be impacted by changes in market conditions, interest rates, growth rates, tax rates, costs, pricing and capital expenditures. We categorize the fair value determination as Level 3 in the fair value hierarchy due to its use of internal projections and unobservable measurement inputs.
+Our annual impairment tests completed in the fourth quarter of 2020 indicated the fair value of each reporting unit was substantially above its respective carrying value, including goodwill. Caterpillar’s market capitalization has remained significantly above the net book value of the Company.
+An unfavorable change in our expectations for the financial performance of our reporting units, particularly long-term growth and profitability, would reduce the fair value of our reporting units. The demand for our equipment and related parts is highly cyclical and significantly impacted by commodity prices, although the impact may vary by reporting unit. The energy and mining industries are major users of our products, including the coal, iron ore, gold, copper, oil and natural gas industries. Decisions to purchase our products are dependent upon the performance of those industries, which in turn are dependent in part on commodity prices. Lower commodity prices or industry specific circumstances that have a negative impact to the valuation assumptions may reduce the fair value of our reporting units. Should such events occur and it becomes more likely than not that a reporting unit’s fair value has fallen below its carrying value, we will perform an interim goodwill impairment test(s), in addition to the annual impairment test. Future impairment tests may result in a goodwill impairment, depending on the outcome of the quantitative impairment test. We would report a goodwill impairment as a non-cash charge to earnings.
+Warranty liability - At the time we recognize a sale, we record estimated future warranty costs. We determine the warranty liability by applying historical claim rate experience to the current field population and dealer inventory. Generally, we base historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America). We develop specific rates for each product shipment month and update them monthly based on actual warranty claim experience. Warranty costs may differ from those estimated if actual claim rates are higher or lower than our historical rates.
+Product liability and insurance loss reserve - We determine these reserves based upon reported claims in process of settlement and actuarial estimates for losses incurred but not reported. Loss reserves, including incurred but not reported reserves, are based on estimates and ultimate settlements may vary significantly from such estimates due to increased claims frequency or severity over historical levels. The amount of these reserves totaled $1.2 billion and $1.1 billion as of December 31, 2020 and 2019, respectively. The majority of the balance in both 2020 and 2019 consisted of unearned insurance premiums.
+Postretirement benefits - We sponsor defined benefit pension plans and/or other postretirement benefit plans (retirement healthcare and life insurance) to employees in many of our locations throughout the world. There are assumptions used in the accounting for these defined benefit plans that include discount rate, expected return on plan assets, expected rate of compensation increase, the future health care trend rate, mortality and other economic and demographic assumptions. The actuarial assumptions we use may change or differ significantly from actual results, which may result in a material impact to our consolidated financial statements.
+The effects of actual results differing from our assumptions and the effects of changing assumptions are considered actuarial gains or losses. We utilize a mark-to-market approach in recognizing actuarial gains or losses immediately through earnings upon the annual remeasurement in the fourth quarter, or on an interim basis as triggering events warrant remeasurement.
+Primary actuarial assumptions were determined as follows:
+•We use the assumed discount rate to discount future benefit obligations back to today’s dollars. The U.S. discount rate is based on a benefit cash flow-matching approach and represents the rate at which our benefit obligations could effectively be settled as of our measurement date, December 31. The benefit cash flow-matching approach involves analyzing Caterpillar’s projected cash flows against a high quality bond yield curve, calculated using a wide population of corporate Aa bonds available on the measurement date. We use a similar approach to determine the assumed discount rate for our most significant non-U.S. plans. In estimating the service and interest cost components of net periodic benefit cost, we utilize a full yield curve approach in determining a discount rate. This approach applies the specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows.
+Discount rates are sensitive to changes in interest rates. A decrease in the discount rate would increase our obligation and future expense.
+•The expected long-term rate of return on plan assets is based on our estimate of long-term passive returns for equities and fixed income securities weighted by the allocation of our plan assets. Based on historical performance, we increase the passive returns due to our active management of the plan assets. This rate is impacted by changes in general market conditions, but because it represents a long-term rate, it is not significantly impacted by short-term market swings. Changes in our allocation of plan assets would also impact this rate. For example, a shift to more fixed income securities would lower the rate. A decrease in the rate would increase our expense. The expected return on plan assets is calculated using the fair value of plan assets as of our measurement date, December 31.
+•We use the expected rate of compensation increase to develop benefit obligations using projected pay at retirement. It represents average long-term salary increases. This rate is influenced by our long-term compensation policies. An increase in the rate would increase our obligation and expense.
+•The assumed health care trend rate represents the rate at which health care costs are assumed to increase and is based on historical and expected experience. Changes in our projections of future health care costs due to general economic conditions and those specific to health care (e.g., technology driven cost changes) will impact this trend rate. An increase in the trend rate would increase our obligation and expense.
+•We use the mortality assumption to estimate the life expectancy of plan participants. An increase in the life expectancy of plan participants will result in an increase in our obligation and expense.
+Postretirement Benefit Plan Actuarial Assumptions Sensitivity
+The effects of a one percentage-point change in certain actuarial assumptions on 2020 pension and OPEB costs and obligations are as follows:
+2020 Benefit Cost Increase (Decrease) Year-end Benefit Obligation Increase (Decrease)
+(Millions of dollars) One percentage-
+point increase One percentage-
+point decrease One percentage-
+point increase One percentage-
+point decrease
+U.S. Pension benefits:
+Assumed discount rate $ 93 $ (121) $ (2,091) $ 2,551
+Expected rate of compensation increase 1
+- - - -
+Expected long-term rate of return on plan assets (155) 155 - -
+Non-U.S. Pension benefits:
+Assumed discount rate 18 (26) (662) 847
+Expected rate of compensation increase 5 (4) 43 (37)
+Expected long-term rate of return on plan assets (42) 42 - -
+Other postretirement benefits:
+Assumed discount rate 10 (12) (381) 458
+Expected rate of compensation increase - - 1 (1)
+Expected long-term rate of return on plan assets (2) 2 - -
+1 Effective December 31, 2019, all U.S. pension benefits were frozen, and accordingly this assumption is no longer applicable.
+Actuarial Assumptions
+U.S. Pension Benefits Non-U.S. Pension Benefits Other Postretirement Benefits
+2020 2019 2018 2020 2019 2018 2020 2019 2018
+Weighted-average assumptions used to determine benefit obligation, end of year:
+Discount rate 2.4 % 3.2 % 4.2 % 1.4 % 1.9 % 2.5 % 2.3 % 3.2 % 4.2 %
+Rate of compensation increase 1
+- % - % 4.0 % 2.0 % 2.0 % 3.0 % 4.0 % 4.0 % 4.0 %
+Weighted-average assumptions used to determine net periodic benefit cost:
+Discount rate used to measure service cost 1
+- % 4.3 % 3.7 % 1.5 % 2.5 % 2.3 % 3.2 % 4.1 % 3.5 %
+Discount rate used to measure interest cost 2.8 % 3.9 % 3.2 % 1.7 % 2.3 % 2.2 % 2.8 % 3.9 % 3.2 %
+Expected rate of return on plan assets 5.1 % 5.9 % 6.3 % 3.3 % 3.8 % 5.2 % 7.0 % 7.2 % 7.5 %
+Rate of compensation increase 1
+- % 4.0 % 4.0 % 2.0 % 3.0 % 4.0 % 4.0 % 4.1 % 4.0 %
+Health care cost trend rates at year-end:
+Health care trend rate assumed for next year 5.8 % 6.1 % 6.1 %
+Rate that the cost trend rate gradually declines to 5.0 % 5.0 % 5.0 %
+Year that the cost trend rate reaches ultimate rate 2025 2025 2025
+1 Effective December 31, 2019, all U.S. pension benefits were frozen, and accordingly this assumption is no longer applicable.
+See Note 12 - “Postemployment benefit plans” of Part II, Item 8 “Financial Statement and Supplemental Data” for further information regarding the accounting for postretirement benefits.
+Post-sale discount reserve - We provide discounts to dealers through merchandising programs. We have numerous programs that are designed to promote the sale of our products. The most common dealer programs provide a discount when the dealer sells a product to a targeted end user. The amount of accrued post-sale discounts was $1.4 billion and $1.7 billion as of December 31, 2020 and 2019, respectively. The reserve represents discounts that we expect to pay on previously sold units and is reviewed at least quarterly. We adjust the reserve if discounts paid differ from those estimated. Historically, those adjustments have not been material.
+Allowance for credit losses - The allowance for credit losses is management’s estimate of expected losses over the life of our finance receivable portfolio calculated using loss forecast models that take into consideration historical credit loss experience, current economic conditions and forecasts and scenarios that capture country and industry-specific economic factors. In addition, we consider qualitative factors not able to be fully captured in our loss forecast models, including borrower-specific and company-specific factors. These qualitative factors are subjective and require a degree of management judgment.
+We measure the allowance for credit losses on a collective (pool) basis when similar risk characteristics exist and on an individual basis when we determine that similar risk characteristics do not exist. We identify finance receivables for individual evaluation based on past-due status and information available about the customer, such as financial statements, news reports and published credit ratings, as well as general information regarding industry trends and the economic environment in which our customers operate. The allowance for credit losses attributable to finance receivables that are individually evaluated is based on the present value of expected future cash flows discounted at the receivables' effective interest rate, the fair value of the collateral for collateral-dependent receivables or the observable market price of the receivable. In determining collateral value, we estimate the current fair market value of the collateral less selling costs. We also consider credit enhancements such as additional collateral and contractual third-party guarantees.
+While management believes it has exercised prudent judgment and applied reasonable assumptions, there can be no assurance that in the future, changes in economic conditions or other factors would not cause changes in the financial health of our customers. If the financial health of our customers deteriorates, the timing and level of payments received could be impacted and therefore, could result in a change to our estimated losses.
+Income taxes - We are subject to the income tax laws of the many jurisdictions in which we operate. These tax laws are complex, and the manner in which they apply to our facts is sometimes open to interpretation. In establishing the provision for income taxes, we must make judgments about the application of these inherently complex tax laws. Our income tax positions and analysis are based on currently enacted tax law. Future changes in tax law or related interpretations could significantly impact the provision for income taxes, the amount of taxes payable, and the deferred tax asset and liability balances. Changes in tax law are reflected in the period of enactment with related interpretations considered in the period received.
+Despite our belief that our tax return positions are consistent with applicable tax laws, we believe that taxing authorities could challenge certain positions. Settlement of any challenge can result in no change, a complete disallowance, or some partial adjustment reached through negotiations or litigation. We record tax benefits for uncertain tax positions based upon management’s evaluation of the information available at the reporting date. To be recognized in the financial statements, a tax benefit must be at least more likely than not of being sustained based on technical merits. The benefit for positions meeting the recognition threshold is measured as the largest benefit more likely than not of being realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. Significant judgment is required in making these determinations and adjustments to unrecognized tax benefits may be necessary to reflect actual taxes payable upon settlement. Adjustments related to positions impacting the effective tax rate affect the provision for income taxes. Adjustments related to positions impacting the timing of deductions impact deferred tax assets and liabilities. For tax years 2007 to 2012 including the impact of a loss carryback to 2005, the IRS has proposed to tax in the United States profits earned from certain parts transactions by Caterpillar SARL (CSARL), based on the IRS examination team’s application of “substance-over-form” or “assignment-of-income” judicial doctrines. CSARL is primarily taxable locally in Switzerland. We are vigorously contesting the proposed increases to tax and penalties for these years of approximately $2.3 billion. We believe that the relevant transactions complied with applicable tax laws and did not violate judicial doctrines. The purchase of parts by CSARL from unrelated parties and the subsequent sale of those parts to unrelated dealers outside the United States have substantial legal, commercial, and economic consequences for the parties involved. Therefore, we have concluded that the largest amount of benefit that is more likely than not to be sustained related to this position is the entire benefit. As a result, no amount related to these IRS adjustments is reflected in unrecognized tax benefits. We have filed U.S. income tax returns on this same basis for years after 2012. We currently believe the ultimate disposition of this matter will not have a material adverse effect on our consolidated financial position, liquidity or results of operations.
+Deferred tax assets generally represent tax benefits for tax deductions or credits available in future tax returns. Certain estimates and assumptions are required to determine whether it is more likely than not that all or some portion of the benefit of a deferred tax asset will not be realized. In making this assessment, management analyzes the trend of U.S. GAAP earnings and estimates the impact of future taxable income, reversing temporary differences and available prudent and feasible tax planning strategies. We give less weight in this analysis to mark-to-market adjustments to remeasure our pension and OPEB plans as we do not consider these adjustments indicative of ongoing earnings trends. Should a change in facts or circumstances lead to a change in judgment about the ultimate realizability of a deferred tax asset, we record or adjust the related valuation allowance in the period that the change in facts and circumstances occurs, along with a corresponding increase or decrease in the provision for income taxes.
+Additional information related to income taxes is included in Note 6 - “Income taxes” of Part II, Item 8 “Financial statements and Supplementary Data.”
+OTHER MATTERS
+Information related to legal proceedings appears in Note 22-Environmental and Legal Matters of Part II, Item 8 “Financial Statements and Supplementary Data.”
+RETIREMENT BENEFITS
+We recognize mark-to-market gains and losses immediately through earnings upon the remeasurement of our pension and OPEB plans. Mark-to-market gains and losses represent the effects of actual results differing from our assumptions and the effects of changing assumptions. Changes in discount rates and differences between the actual return on plan assets and the expected return on plan assets generally have the largest impact on mark-to-market gains and losses.
+The table below summarizes the amounts of net periodic benefit cost recognized for 2020, 2019 and 2018, respectively, and includes expected cost for 2021.
+(Millions of dollars) 2021 Expected 2020 2019 2018
+U.S. Pension Benefits $ (388) $ (309) $ (7) $ (149)
+Non-U.S. Pension Benefits (18) 18 19 (69)
+Other Postretirement Benefits 117 147 158 138
+Mark-to-market loss (gain) - 1 383 468 495
+Total net periodic benefit cost (benefit) $ (289) $ 239 $ 638 $ 415
+1 Expected net periodic benefit cost (benefit) does not include an estimate for mark-to-market gains or losses.
+•Expected decrease in expense in 2021 compared to 2020 - Excluding the impact of mark-to-market gains and losses, our net periodic benefit cost is expected to decrease $145 million in 2021. This expected decrease is primarily due to lower interest cost in 2021 as a result of lower discount rates at year-end 2020 partially offset by lower expected return on plan assets in 2021 (U.S. pension plans expected return on plans assets is 4.2 percent for 2021 compared to 5.1 percent in 2020).
+•Decrease in expense in 2020 compared to 2019 - Primarily due to lower interest cost in 2020 as a result of lower discount rates at year-end 2019, the elimination of service cost for our U.S. pension plans freezing benefit accruals and lower mark-to-market losses in 2020 compared to 2019.
+•Increase in expense in 2019 compared to 2018 - Primarily due to lower expected return on plan assets (U.S. pension plans had an expected rate of return of 5.9 percent in 2019 compared to 6.3 percent in 2018) and higher interest costs due to higher discount rates at year-end 2018.
+The primary factors that resulted in mark-to-market losses for 2020, 2019 and 2018 are described below. We include the net mark-to-market losses in Other income (expense) in the Results of Operations.
+•2020 net mark-to-market loss of $383 million - Primarily due to lower discount rates at the end of 2020 compared to the end of 2019. This was partially offset by a higher actual return on plan assets compared to the expected return on plan
+assets (U.S. pension plans had an actual rate of return of 16.7 percent compared to an expected rate of return of 5.1 percent).
+•2019 net mark-to-market loss of $468 million - Primarily due to lower discount rates at the end of 2019 compared to the end of 2018. This was partially offset by a higher actual return on plan assets compared to the expected return on plan assets (U.S. pension plans had an actual rate of return of 22.3 percent compared to an expected rate of return of 5.9 percent).
+•2018 net mark-to-market loss of $495 million - Primarily due to the difference between the actual return on plan assets compared to the expected return on plan assets (U.S. pension plans had an actual rate of return of negative 5.4 percent compared to an expected rate of return of 6.3 percent). This was partially offset by higher discount rates at the end of 2018 compared to the end of 2017.
+SENSITIVITY
+Foreign Exchange Rate Sensitivity
+ME&T operations use foreign currency forward and option contracts to manage unmatched foreign currency cash inflow and outflow. Our objective is to minimize the risk of exchange rate movements that would reduce the U.S. dollar value of our foreign currency cash flow. Our policy allows for managing anticipated foreign currency cash flow for up to approximately five years. Based on the anticipated and firmly committed cash inflow and outflow for our ME&T operations for the next 12 months and the foreign currency derivative instruments in place at year-end, a hypothetical 10 percent weakening of the U.S. dollar relative to all other currencies would adversely affect our expected 2021 cash flow for our ME&T operations by approximately $126 million. Last year similar assumptions and calculations yielded a potential $225 million adverse impact on 2020 cash flow. We determine our net exposures by calculating the difference in cash inflow and outflow by currency and adding or subtracting outstanding foreign currency derivative instruments. We multiply these net amounts by 10 percent to determine the sensitivity.
+In managing foreign currency risk for our Financial Products operations, our objective is to minimize earnings volatility resulting from conversion and the remeasurement of net foreign currency balance sheet positions and future transactions denominated in foreign currencies. Since our policy allows the use of foreign currency forward, option and cross currency contracts to offset the risk of currency mismatch between our assets and liabilities and exchange rate risk associated with future transactions denominated in foreign currencies, a 10 percent change in the value of the U.S. dollar relative to all other currencies would not have a material effect on our consolidated financial position, results of operations or cash flow. Neither our policy nor the effect of a 10 percent change in the value of the U.S. dollar has changed from that reported at the end of last year.
+The effect of the hypothetical change in exchange rates ignores the effect this movement may have on other variables, including competitive risk. If it were possible to quantify this competitive impact, the results would probably be different from the sensitivity effects shown above. In addition, it is unlikely that all currencies would uniformly strengthen or weaken relative to the U.S. dollar. In reality, some currencies may weaken while others may strengthen. Our primary exposure (excluding competitive risk) is to exchange rate movements in the Australian dollar, Chinese yuan, Japanese yen, Euro, and Swiss franc.
+Interest Rate Sensitivity
+For our ME&T operations, we have the option to use interest rate contracts to lower the cost of borrowed funds by attaching fixed-to-floating interest rate contracts to fixed-rate debt, and by entering into forward rate agreements on future debt issuances. A hypothetical 100 basis point adverse move in interest rates along the entire interest rate yield curve would have a minimal impact to the 2021 pre-tax earnings of ME&T. Last year, similar assumptions and calculations yielded a minimal impact to 2020 pre-tax earnings.
+For our Financial Products operations, we use interest rate derivative instruments primarily to meet our match-funding objectives and strategies. We have a match-funding policy that addresses the interest rate risk by aligning the interest rate profile (fixed or floating rate and duration) of our debt portfolio with the interest rate profile of our finance receivable portfolio within a predetermined range on an ongoing basis. In connection with that policy, we use interest rate derivative instruments to modify the debt structure to match assets within the finance receivable portfolio. Match funding reduces the volatility of margins between interest-bearing assets and interest-bearing liabilities, regardless of which direction interest rates move.
+In order to properly manage sensitivity to changes in interest rates, Financial Products measures the potential impact of different interest rate assumptions on pre-tax earnings. All on-balance sheet positions, including derivative financial instruments, are included in the analysis. The primary assumptions included in the analysis are that there are no new fixed rate assets or liabilities, the proportion of fixed rate debt to fixed rate assets remains unchanged and the level of floating rate assets and debt remain constant. An analysis of the December 31, 2020 balance sheet, using these assumptions, estimates the impact of a 100 basis point immediate and sustained adverse change in interest rates to have a minimal impact on 2021 pre-tax earnings. Last year, similar assumptions and calculations yielded a minimal impact to 2020 pre-tax earnings.
+This analysis does not necessarily represent our current outlook of future market interest rate movement, nor does it consider any actions management could undertake in response to changes in interest rates. Accordingly, no assurance can be given that actual results would be consistent with the results of our estimate.
+NON-GAAP FINANCIAL MEASURES
+We provide the following definitions for the non-GAAP financial measures used in this report. These non-GAAP financial measures have no standardized meaning prescribed by U.S. GAAP and therefore are unlikely to be comparable to the calculation of similar measures for other companies. Management does not intend these items to be considered in isolation or as a substitute for the related GAAP measures.
+We believe it is important to separately quantify the profit impact of three significant items in order for our results to be meaningful to our readers. These items consist of (i) pension and OPEB mark-to-market losses resulting from plan remeasurements, (ii) restructuring costs, which were incurred to generate longer-term benefits, and (iii) U.S. tax reform impact in 2019. We do not consider these items indicative of earnings from ongoing business activities and believe the non-GAAP measures will provide investors with useful perspective on underlying business results and trends and aid with assessing our period-over-period results. In addition, we provide a calculation of ME&T free cash flow as we believe it is an important measure for investors to determine the cash generation available for financing activities including debt repayments, dividends and share repurchases.
+Reconciliations of adjusted results to the most directly comparable GAAP measures are as follows:
+Reconciliations of ME&T free cash flow to the most directly comparable GAAP measure, net cash provided by operating activities are as follows:
+Millions of dollars Twelves Months Ended December 31,
+2020 2019
+ME&T net cash provided by operating activities 1
+$ 4,054 $ 4,871
+ME&T discretionary pension contributions $ - $ 1,500
+ME&T capital expenditures $ (994) $ (1,074)
+ME&T free cash flow $ 3,060 $ 5,297
+1 See reconciliation of ME&T net cash provided by operating activities to consolidated net cash provided by operating activities on page 60.
+Supplemental Consolidating Data
+We are providing supplemental consolidating data for the purpose of additional analysis. We have grouped the data as follows:
+Consolidated - Caterpillar Inc. and its subsidiaries.
+Machinery, Energy & Transportation - We define ME&T as it is presented in the supplemental data as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T's information relates to the design, manufacturing and marketing of our products.
+Financial Products - We define Financial Products as it is presented in the supplemental data as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Cat Insurance Holdings Inc. (Insurance Services). Financial Products' information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+Consolidating Adjustments - Eliminations of transactions between ME&T and Financial Products.
+The nature of the ME&T and Financial Products businesses is different, especially with regard to the financial position and cash flow items. Caterpillar management utilizes this presentation internally to highlight these differences. We believe this presentation will assist readers in understanding our business.
+Pages 58 to 65 reconcile ME&T and Financial Products to Caterpillar Inc. consolidated financial information. Certain amounts for prior periods have been reclassified to conform to current year presentation.
+Supplemental Data for Results of Operations
+For The Years Ended December 31
+Supplemental consolidating data
+Consolidated Machinery,
+Energy & Transportation Financial
+Products Consolidating
+Adjustments
+(Millions of dollars) 2020 2019 2018 2020 2019 2018 2020 2019 2018 2020 2019 2018
+Sales and revenues:
+Sales of Machinery, Energy & Transportation $ 39,022 $ 50,755 $ 51,822 $ 39,022 $ 50,755 $ 51,822 $ - $ - $ - $ - $ - $ -
+Revenues of Financial Products 2,726 3,045 2,900 - - - 3,110 3,571 3,362 (384) 1 (526) 1 (462) 1
+Total sales and revenues 41,748 53,800 54,722 39,022 50,755 51,822 3,110 3,571 3,362 (384) (526) (462)
+Operating costs:
+Cost of goods sold 29,082 36,630 36,997 29,088 36,634 36,998 - - - (6) 2 (4) 2 (1) 2
+Selling, general and administrative expenses 4,642 5,162 5,478 3,915 4,444 4,675 746 737 825 (19) 2 (19) 2 (22) 2
+Research and development expenses 1,415 1,693 1,850 1,415 1,693 1,850 - - - - - -
+Interest expense of Financial Products 589 754 722 - - - 591 786 756 (2) 3 (32) 3 (34) 3
+Other operating (income) expenses 1,467 1,271 1,382 283 14 144 1,236 1,297 1,259 (52) 2 (40) 2 (21) 2
+Total operating costs 37,195 45,510 46,429 34,701 42,785 43,667 2,573 2,820 2,840 (79) (95) (78)
+Operating profit 4,553 8,290 8,293 4,321 7,970 8,155 537 751 522 (305) (431) (384)
+Interest expense excluding Financial Products 514 421 404 513 429 448 - - - 1 3 (8) 3 (44) 3
+Other income (expense) (44) (57) (67) (62) (535) 28 32 80 (16) (14) 4 398 4 (79) 4
+Consolidated profit before taxes 3,995 7,812 7,822 3,746 7,006 7,735 569 831 506 (320) (25) (419)
+Provision (benefit) for income taxes 1,006 1,746 1,698 853 1,512 1,574 153 234 124 - - -
+Profit of consolidated companies 2,989 6,066 6,124 2,893 5,494 6,161 416 597 382 (320) (25) (419)
+Equity in profit (loss) of unconsolidated affiliated companies 14 28 24 29 49 41 - - - (15) 5 (21) 5 (17) 5
+Profit of consolidated and affiliated companies 3,003 6,094 6,148 2,922 5,543 6,202 416 597 382 (335) (46) (436)
+Less: Profit (loss) attributable to noncontrolling interests 5 1 1 5 - (2) 15 22 20 (15) 6 (21) 6 (17) 6
+Profit 7
+$ 2,998 $ 6,093 $ 6,147 $ 2,917 $ 5,543 $ 6,204 $ 401 $ 575 $ 362 $ (320) $ (25) $ (419)
+1Elimination of Financial Products' revenues earned from ME&T.
+2Elimination of net expenses recorded by ME&T paid to Financial Products.
+3Elimination of interest expense recorded between Financial Products and ME&T.
+4Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as dividends paid by Financial Products to ME&T.
+5Elimination of equity profit (loss) earned from Financial Products’ subsidiaries partially owned by ME&T subsidiaries.
+6Elimination of noncontrolling interest profit (loss) recorded by Financial Products for subsidiaries partially owned by ME&T subsidiaries.
+7Profit attributable to common shareholders.
+Supplemental Data for Financial Position
+At December 31 Supplemental consolidating data
+Consolidated Machinery,
+Energy & Transportation Financial
+Products Consolidating
+Adjustments
+(Millions of dollars) 2020 2019 2020 2019 2020 2019 2020 2019
+Assets
+Current assets:
+Cash and short-term investments $ 9,352 $ 8,284 $ 8,822 $ 7,299 $ 530 $ 985 $ - $ -
+Receivables - trade and other 7,317 8,568 3,846 3,737 397 451 3,074 1,2
+4,380 1,2
+Receivables - finance 9,463 9,336 - - 13,681 14,489 (4,218) 2 (5,153) 2
+Prepaid expenses and other current assets 1,930 1,739 1,376 1,290 624 529 (70) 3 (80) 3
+Inventories 11,402 11,266 11,402 11,266 - - -
+-
+Total current assets 39,464 39,193 25,446 23,592 15,232 16,454 (1,214) (853)
+Property, plant and equipment - net 12,401 12,904 8,309 8,606 4,092 4,298 -
+-
+Long-term receivables - trade and other 1,185 1,193 363 348 164 152 658 1,2
+693 1,2
+Long-term receivables - finance 12,222 12,651 - - 12,895 13,354 (673) 2 (703) 2
+Noncurrent deferred and refundable income taxes 1,523 1,411 2,058 2,002 110 117 (645) 4 (708) 4
+Intangible assets 1,308 1,565 1,308 1,565 - - - -
+Goodwill 6,394 6,196 6,394 6,196 - - - -
+Other assets 3,827 3,340 3,158 2,953 1,871 1,572 (1,202) 5 (1,185) 5
+Total assets $ 78,324 $ 78,453 $ 47,036 $ 45,262 $ 34,364 $ 35,947 $ (3,076) $ (2,756)
+Liabilities
+Current liabilities:
+Short-term borrowings $ 2,015 $ 5,166 $ 10 $ 5 $ 2,005 $ 5,161 $ - $ -
+Short-term borrowings with consolidated companies - - - - 1,000 600 (1,000) 6 (600) 6
+Accounts payable 6,128 5,957 6,060 5,918 212 212 (144) 7 (173) 7
+Accrued expenses 3,642 3,750 3,099 3,415 543 335 - -
+Accrued wages, salaries and employee benefits 1,096 1,629 1,081 1,580 15 49 -
+-
+Customer advances 1,108 1,187 1,108 1,187 - - -
+-
+Dividends payable 562 567 562 567 - - -
+-
+Other current liabilities 2,017 2,155 1,530 1,689 580 566 (93) 4,8
+(100) 4,8
+Long-term debt due within one year 9,149 6,210 1,420 16 7,729 6,194 -
+-
+Total current liabilities 25,717 26,621 14,870 14,377 12,084 13,117 (1,237) (873)
+Long-term debt due after one year 25,999 26,281 9,764 9,151 16,250 17,140 (15) 6 (10) 6
+Liability for postemployment benefits 6,872 6,599 6,872 6,599 - - -
+-
+Other liabilities 4,358 4,323 3,691 3,681 1,385 1,430 (718) 4 (788) 4
+Total liabilities 62,946 63,824 35,197 33,808 29,719 31,687 (1,970) (1,671)
+Commitments and contingencies
+Shareholders’ equity
+Common stock 6,230 5,935 6,230 5,935 919 919 (919) 9 (919) 9
+Treasury stock (25,178) (24,217) (25,178) (24,217) - - -
+-
+Profit employed in the business 35,167 34,437 31,091 30,434 4,065 3,997 11 9 6 9
+Accumulated other comprehensive income (loss) (888) (1,567) (352) (739) (536) (828) - -
+Noncontrolling interests 47 41 48 41 197 172 (198) 9 (172) 9
+Total shareholders’ equity 15,378 14,629 11,839 11,454 4,645 4,260 (1,106) (1,085)
+Total liabilities and shareholders’ equity $ 78,324 $ 78,453 $ 47,036 $ 45,262 $ 34,364 $ 35,947 $ (3,076) $ (2,756)
+1Elimination of receivables between ME&T and Financial Products.
+2Reclassification of ME&T’s trade receivables purchased by Financial Products and Financial Products’ wholesale inventory receivables.
+3Elimination of ME&T's insurance premiums that are prepaid to Financial Products.
+4Reclassification reflecting required netting of deferred tax assets/liabilities by taxing jurisdiction.
+5Elimination of other intercompany assets between ME&T and Financial Products.
+6Elimination of debt between ME&T and Financial Products.
+7Elimination of payables between ME&T and Financial Products.
+8Elimination of prepaid insurance in Financial Products’ other liabilities.
+9Eliminations associated with ME&T’s investments in Financial Products’ subsidiaries.
+Supplemental Data for Statement of Cash Flow
+For the Years Ended December 31 Supplemental consolidating data
+Consolidated Machinery,
+Energy & Transportation Financial
+Products Consolidating
+Adjustments
+(Millions of dollars) 2020 2019 2020 2019 2020 2019 2020 2019
+Cash flow from operating activities:
+Profit (loss) of consolidated and affiliated companies $ 3,003 $ 6,094 $ 2,922 $ 5,543 $ 416 $ 597 $ (335) 1,5
+$ (46) 1,5
+Adjustments for non-cash items:
+Depreciation and amortization 2,432 2,577 1,630 1,713 802 864 -
+-
+Actuarial (gain) loss on pension and postretirement benefits 383 468 384 468 (1) - - -
+Provision (benefit) for deferred income taxes (74) 28 (85) 15 11 13 - -
+Other 1,000 675 613 435 98 (215) 289 2
+455 2
+Changes in assets and liabilities, net of acquisitions and divestitures:
+Receivables - trade and other 1,442 171 395 4 50 15 997 2,3
+152 2,3
+Inventories (34) 274 (29) 250 - - (5) 2
+24 2
+Accounts payable 98 (1,025) 51 (983) 18 20 29 2
+(62) 2
+Accrued expenses (366) 172 (364) 187 (2) (13) - (2) 2
+Accrued wages, salaries and employee benefits (544) (757) (510) (772) (34) 15 -
+-
+Customer advances (126) (10) (126) (8) - - - (2) 2
+Other assets-net (201) (93) (133) (166) (71) 38 3 2
+35 2
+Other liabilities-net (686) (1,662) (694) (1,815) (22) 169 30 2
+(16) 2
+Net cash provided by (used for) operating activities 6,327 6,912 4,054 4,871 1,265 1,503 1,008 538
+Cash flow from investing activities:
+Capital expenditures-excluding equipment leased to others (978) (1,056) (976) (1,036) (14) (20) 12 2
+-
+Expenditures for equipment leased to others (1,137) (1,613) (18) (38) (1,139) (1,616) 20 2
+41 2
+Proceeds from disposals of leased assets and property, plant and equipment 772 1,153 147 164 651 1,092 (26) 2
+(103) 2
+Additions to finance receivables (12,385) (12,777) - - (13,525) (14,270) 1,140 3
+1,493 3
+Collections of finance receivables 12,646 12,183 - - 14,077 13,537 (1,431) 3
+(1,354) 3
+Net intercompany purchased receivables - - - - 1,043 640 (1,043) 3
+(640) 3
+Proceeds from sale of finance receivables 42 235 - - 42 235 - -
+Net intercompany borrowings - - (401) 900 7 3 394 4
+(903) 4
+Investments and acquisitions (net of cash acquired) (111) (47) (111) (47) - - - -
+Proceeds from sale of businesses and investments (net of cash sold) 25 41 25 3 - 38 - -
+Proceeds from sale of securities 345 529 24 32 321 497 -
+-
+Investments in securities (638) (552) (21) (27) (617) (525) -
+-
+Other-net (66) (24) (11) 1 (55) (25) - -
+Net cash provided by (used for) investing activities (1,485) (1,928) (1,342) (48) 791 (414) (934)
+(1,466)
+Cash flow from financing activities:
+Dividends paid (2,243) (2,132) (2,243) (2,132) (320) (25) 320 5
+25 5
+Common stock issued, including treasury shares reissued 229 238 229 238 - - - -
+Common shares repurchased (1,130) (4,047) (1,130) (4,047) - - - -
+Net intercompany borrowings - - (7) (3) 401 (900) (394) 4
+903 4
+Proceeds from debt issued (original maturities greater than three months) 10,431 9,841 1,991 1,479 8,440 8,362 -
+-
+Payments on debt (original maturities greater than three months) (8,237) (8,297) (26) (12) (8,211) (8,285) -
+-
+Short-term borrowings - net (original maturities three months or less) (2,804) (138) 5 5 (2,809) (143) -
+-
+Other-net (1) (3) (1) (3) - - -
+-
+Net cash provided by (used for) financing activities (3,755) (4,538) (1,182) (4,475) (2,499) (991) (74) 928
+Effect of exchange rate changes on cash (13) (44) (10) (40) (3) (4) -
+-
+Increase (decrease) in cash and short-term investments and restricted cash 1,074 402 1,520 308 (446) 94 -
+-
+Cash and short-term investments and restricted cash at beginning of period 8,292 7,890 7,302 6,994 990 896 -
+-
+Cash and short-term investments and restricted cash at end of period 9,366 8,292 8,822 7,302 544 990 -
+-
+1Elimination of equity profit earned from Financial Products’ subsidiaries partially owned by ME&T subsidiaries.
+2Elimination of non-cash adjustments and changes in assets and liabilities related to consolidated reporting.
+3Reclassification of Financial Products’ cash flow activity from investing to operating for receivables that arose from the sale of inventory.
+4Elimination of net proceeds and payments to/from ME&T and Financial Products.
+5Elimination of dividend activity between Financial Products and ME&T.
+Reconciliation of Consolidated profit before taxes
+For The Years Ended December 31 Consolidated
+Total Machinery,
+Energy &
+Transportation Financial
+Products Consolidating Adjustments
+(Millions of dollars)
+Profit from reportable segments:
+Construction Industries $ 2,373 $ 2,373 $ - $ -
+Resource Industries 896 896 - -
+Energy & Transportation 2,405 2,405 - -
+Financial Products Segment 590 - 590 -
+Total profit from reportable segments 6,264 5,674 590 -
+Profit from all other operating segment 28 28 - -
+Cost centers (4) (4) - -
+Corporate costs (517) (511) (6) -
+Timing (106) (106) - -
+Restructuring costs (241) (241) - -
+Methodology differences:
+Inventory/cost of sales 4 4 - -
+Postretirement benefit expense (173) (173) - -
+Stock-based compensation expense (202) (194) (8) -
+Financing costs (444) (444) - -
+Currency (266) (266) - -
+Other income/expense methodology differences (322) (2) - (320)
+Other methodology differences (26) (19) (7) -
+Total consolidated profit before taxes $ 3,995 $ 3,746 $ 569 $ (320)
+Profit from reportable segments:
+Construction Industries $ 3,931 $ 3,931 $ - $ -
+Resource Industries 1,629 1,629 - -
+Energy & Transportation 3,910 3,910 - -
+Financial Products Segment 832 - 832 -
+Total profit from reportable segments 10,302 9,470 832 -
+Profit from all other operating segment 4 4 - -
+Cost centers (6) (6) - -
+Corporate costs (607) (602) (5) -
+Timing (93) (93) - -
+Restructuring costs (207) (163) (44) -
+Methodology differences:
+Inventory/cost of sales (19) (19) - -
+Postretirement benefit expense (401) (401) - -
+Stock-based compensation expense (205) (198) (7) -
+Financing costs (248) (248) - -
+Currency (175) (175) - -
+Other income/expense methodology differences (481) (456) - (25)
+Other methodology differences (52) (107) 55 -
+Total consolidated profit before taxes $ 7,812 $ 7,006 $ 831 $ (25)
+Reconciliation of Consolidated profit before taxes
+For The Years Ended December 31 Consolidated
+Total Machinery,
+Energy &
+Transportation Financial
+Products Consolidating Adjustments
+(Millions of dollars)
+Profit from reportable segments:
+Construction Industries $ 4,174 $ 4,174 $ - $ -
+Resource Industries 1,603 1,603 - -
+Energy & Transportation 3,938 3,938 - -
+Financial Products Segment 505 - 505 -
+Total profit from reportable segments 10,220 9,715 505 -
+Profit from all other operating segment 23 23 - -
+Cost centers 2 2 - -
+Corporate costs (610) (610) - -
+Timing (257) (257) - -
+Restructuring costs (386) (370) (16) -
+Methodology differences:
+Inventory/cost of sales 51 51 - -
+Postretirement benefit expense (124) (124) - -
+Stock-based compensation expense (198) (190) (8) -
+Financing costs (257) (257) - -
+Currency (219) (219) - -
+Other income/expense methodology differences (362) 57 - (419)
+Other methodology differences (61) (86) 25 -
+Total consolidated profit before taxes $ 7,822 $ 7,735 $ 506 $ (419)
+Reconciliation of Assets:
+(Millions of dollars) Consolidated Total Machinery,
+Energy &
+Transportation Financial
+Products Consolidating
+Adjustments
+December 31, 2020
+Assets from reportable segments:
+Construction Industries $ 4,259 $ 4,259 $ - $ -
+Resource Industries 6,035 6,035 - -
+Energy & Transportation 8,582 8,582 - -
+Financial Products Segment 34,278 - 34,278 -
+Total assets from reportable segments 53,154 18,876 34,278 -
+Assets from All Other operating segment 1,717 1,717 - -
+Items not included in segment assets:
+Cash and short-term investments 8,822 8,822 - -
+Intercompany receivables - 1,101 - (1,101)
+Deferred income taxes 1,413 2,058 - (645)
+Goodwill and intangible assets 4,847 4,847 - -
+Property, plant and equipment - net and other assets 2,833 3,955 - (1,122)
+Inventory methodology differences (2,536) (2,536) - -
+Liabilities included in segment assets 8,466 8,466 - -
+Other (392) (270) 86 (208)
+Total assets $ 78,324 $ 47,036 $ 34,364 $ (3,076)
+December 31, 2019
+Assets from reportable segments:
+Construction Industries $ 4,601 $ 4,601 $ - $ -
+Resource Industries 6,505 6,505 - -
+Energy & Transportation 8,548 8,548 - -
+Financial Products Segment 35,813 - 35,813 -
+Total assets from reportable segments 55,467 19,654 35,813 -
+Assets from All Other operating segment 1,728 1,728 - -
+Items not included in segment assets:
+Cash and short-term investments 7,299 7,299 - -
+Intercompany receivables - 758 - (758)
+Deferred income taxes 1,294 2,002 - (708)
+Goodwill and intangible assets 4,435 4,435 - -
+Property, plant and equipment - net and other assets 2,529 3,614 - (1,085)
+Inventory methodology differences (2,426) (2,426) - -
+Liabilities included in segment assets 8,541 8,541 - -
+Other (414) (343) 134 (205)
+Total assets $ 78,453 $ 45,262 $ 35,947 $ (2,756)
+Reconciliation of Depreciation and amortization
+For The Years Ended December 31
+(Millions of dollars) Consolidated Total Machinery,
+Energy &
+Transportation Financial
+Products
+Depreciation and amortization from reportable segments:
+Construction Industries $ 245 $ 245 $ -
+Resource Industries 418 418 -
+Energy & Transportation 593 593 -
+Financial Products Segment 773 - 773
+Total depreciation and amortization from reportable segments 2,029 1,256 773
+Items not included in segment depreciation and amortization:
+All Other operating segment 267 267 -
+Cost centers 126 126 -
+Other 10 (19) 29
+Total depreciation and amortization $ 2,432 $ 1,630 $ 802
+Depreciation and amortization from reportable segments:
+Construction Industries $ 302 $ 302 $ -
+Resource Industries 450 450 -
+Energy & Transportation 624 624 -
+Financial Products Segment 829 - 829
+Total depreciation and amortization from reportable segments 2,205 1,376 829
+Items not included in segment depreciation and amortization:
+All Other operating segment 210 210 -
+Cost centers 135 135 -
+Other 27 (8) 35
+Total depreciation and amortization $ 2,577 $ 1,713 $ 864
+Depreciation and amortization from reportable segments:
+Construction Industries $ 367 $ 367 $ -
+Resource Industries 462 462 -
+Energy & Transportation 640 640 -
+Financial Products Segment 834 - 834
+Total depreciation and amortization from reportable segments 2,303 1,469 834
+Items not included in segment depreciation and amortization: 0 0
+All Other operating segment 225 225 -
+Cost centers 130 130 -
+Other 108 71 37
+Total depreciation and amortization $ 2,766 $ 1,895 $ 871
+Reconciliation of Capital expenditures
+For The Years Ended December 31
+(Millions of dollars) Consolidated Total Machinery,
+Energy &
+Transportation Financial
+Products Consolidating
+Adjustments
+Capital expenditures from reportable segments:
+Construction Industries $ 213 $ 213 $ - $ -
+Resource Industries 125 125 - -
+Energy & Transportation 495 495 - -
+Financial Products Segment 1,100 - 1,100 -
+Total capital expenditures from reportable segments 1,933 833 1,100 -
+Items not included in segment capital expenditures:
+All Other operating segment 156 156 - -
+Cost centers 47 47 - -
+Timing 19 19 - -
+Other (40) (61) 53 (32)
+Total capital expenditures $ 2,115 $ 994 $ 1,153 $ (32)
+Capital expenditures from reportable segments:
+Construction Industries $ 201 $ 201 $ - $ -
+Resource Industries 168 168 - -
+Energy & Transportation 613 613 - -
+Financial Products Segment 1,534 - 1,534 -
+Total capital expenditures from reportable segments 2,516 982 1,534 -
+Items not included in segment capital expenditures:
+All Other operating segment 131 131 - -
+Cost centers 101 101 - -
+Timing (11) (11) - -
+Other (68) (129) 102 (41)
+Total capital expenditures $ 2,669 $ 1,074 $ 1,636 $ (41)
+Capital expenditures from reportable segments:
+Construction Industries $ 266 $ 266 $ - $ -
+Resource Industries 188 188 - -
+Energy & Transportation 742 742 - -
+Financial Products Segment 1,559 - 1,559 -
+Total capital expenditures from reportable segments 2,755 1,196 1,559 -
+Items not included in segment capital expenditures:
+All Other operating segment 170 170 - -
+Cost centers 100 100 - -
+Timing 42 42 - -
+Other (151) (287) 216 (80)
+Total capital expenditures $ 2,916 $ 1,221 $ 1,775 $ (80)

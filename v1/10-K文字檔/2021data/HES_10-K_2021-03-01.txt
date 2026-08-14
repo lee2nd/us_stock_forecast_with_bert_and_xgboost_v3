@@ -1,0 +1,470 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read together with the Consolidated Financial Statements and the Notes to Consolidated Financial Statements, which are included in this Form 10-K in Item 8, and the information set forth in Risk Factors under Item 1A.
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations omits certain discussions of our financial condition and results of operations for the year ended December 31, 2018 compared with the year ended December 31, 2019, which can be found in Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our 2019 Annual Report on Form 10-K, which was filed with the Securities and Exchange Commission on February 20, 2020, and such comparisons are incorporated herein by reference.
+Index
+Overview
+Consolidated Results of Operations
+Liquidity and Capital Resources
+Critical Accounting Policies and Estimates
+Overview
+Hess Corporation is a global E&P company engaged in exploration, development, production, transportation, purchase and sale of crude oil, natural gas liquids, and natural gas with production operations located primarily in the United States (U.S.), Guyana, the Malaysia/Thailand Joint Development Area (JDA), Malaysia, and Denmark. We conduct exploration activities primarily offshore Guyana, in the U.S. Gulf of Mexico, and offshore Suriname and Canada. At the Stabroek Block (Hess 30%), offshore Guyana, we have announced eighteen significant discoveries. The Liza Phase 1 development achieved first production in December 2019, and reached its nameplate production capacity of approximately 120,000 gross bopd in December 2020. The Liza Phase 2 development was sanctioned in the second quarter of 2019 and is expected to achieve first production by early 2022, with production capacity of approximately 220,000 gross bopd. A third development, Payara, was sanctioned in the third quarter of 2020 and is expected to achieve first production in 2024, with production capacity of approximately 220,000 gross bopd. The discovered resources to date on the Stabroek Block are expected to underpin up to ten FPSOs with the first five FPSOs producing more than 750,000 gross bopd by 2026.
+Our Midstream operating segment, which is comprised of Hess Corporation’s 47% consolidated ownership interest in Hess Midstream LP at December 31, 2020, provides fee-based services, including gathering, compressing and processing natural gas and fractionating NGL; gathering, terminaling, loading and transporting crude oil and NGL; storing and terminaling propane, and water handling services primarily in the Bakken shale play in the Williston Basin area of North Dakota.
+Hess Response to COVID-19 and Market Conditions
+COVID-19 continues to have a profound impact on society and industry. The Corporation’s first priority in the midst of the pandemic has been the health and safety of the Hess workforce and local communities where the Corporation operates. A multidisciplinary Hess emergency response team has been overseeing plans and precautions to reduce the risks of COVID-19 in the work environment while maintaining business continuity based on the most current recommendations by government and public health agencies. The Corporation has implemented a variety of health and safety measures including enhanced cleaning procedures and modified work practices such as travel restrictions, health screenings, reduced personnel at offshore platforms and onshore work sites wherever this can be done safely, and remote working arrangements for office workers. In July 2020, Hess Midstream LP announced that the planned maintenance turnaround at the Tioga Gas Plant originally scheduled for the third quarter of 2020 will be deferred until 2021 to ensure safe execution in light of COVID-19.
+In addition to the global health concerns of COVID-19, the pandemic has severely impacted demand for oil. Our realized crude oil selling prices, including hedging, were $44.28 per barrel in 2020 (2019: $56.77; 2018: $60.77). In response to the resulting sharp decline in oil prices, the Corporation’s focus is on preserving cash and capability, while protecting the long-term value of its assets. In the first quarter of 2020, we reduced our E&P capital and exploratory budget of $3.0 billion for 2020 to $1.9 billion, and we ended the year with actual capital and exploratory expenditures of $1.8 billion. This reduction was achieved primarily by shifting from a six rig program to one rig in the Bakken, which was accomplished in May, deferral of some 2020 development activities on the Stabroek Block, offshore Guyana, and deferring discretionary spending across the portfolio. In March 2020, Hess entered into a $1.0 billion three year term loan agreement, and in November, we sold our 28% working interest in the Shenzi Field for net proceeds of $482 million, after closing adjustments.
+2021 Outlook
+Our E&P capital and exploratory expenditures are projected to be approximately $1.9 billion in 2021. Capital investment for our Midstream operations is expected to be approximately $160 million. Oil and gas net production in 2021 is forecast to be approximately 310,000 boepd excluding Libya. For 2021, we have WTI put options with an average monthly floor price of $50 per barrel for 120,000 bopd, and Brent put options with an average monthly floor price of $55 per barrel for 30,000 bopd.
+Net cash provided by operating activities was $1,333 million in 2020, compared with $1,642 million in 2019, while net cash provided by operating activities before changes in operating assets and liabilities was $1,803 million in 2020 and $2,237 million in 2019. Capital expenditures for 2020 and 2019 were $1,931 million and $2,992 million, respectively. In 2021, based on current forward strip crude oil prices, we expect cash flow from operating activities, proceeds from the first quarter 2021 sale of 4.2 million barrels of crude oil stored on two VLCCs at year-end, and cash and cash equivalents existing at December 31, 2020 of $1.74 billion will be sufficient to fund our capital investment program and dividends. Due to the volatile commodity price environment, we may take any of the following steps, or a combination thereof, to improve our liquidity and financial position: reduce the planned capital program and other cash outlays, including dividends, pursue asset sales, borrow against our committed revolving credit facility, or issue debt or equity securities.
+Consolidated Results
+Net loss attributable to Hess Corporation was $3,093 million in 2020 (2019: $408 million). Excluding items affecting comparability of earnings between periods summarized on page 33, the adjusted net loss was $894 million in 2020 (2019: $281 million). Annual net production averaged 331,000 boepd in 2020 (2019: 311,000 boepd). Total proved reserves were 1,170 million boe at December 31, 2020 (2019: 1,197 million boe).
+Significant 2020 Activities
+The following is an update of significant E&P activities during 2020:
+E&P assets:
+•In North Dakota, net production from the Bakken shale play averaged 193,000 boepd in 2020 (2019: 152,000 boepd), with net oil production up 15% to 107,000 bopd from 93,000 bopd primarily due to increased wells online and improved well performance. Natural gas and NGL production also increased from higher wells online, additional natural gas captured and processed, and approximately 7,000 boepd of additional volumes received under percentage of proceeds contracts resulting from lower prices. During the year, we operated six rigs in the Bakken through May, before reducing to one rig for the remainder of 2020 in response to the sharp decline in oil prices resulting from the COVID-19 pandemic. We drilled 71 wells and brought 111 wells on production, bringing the total operated production wells to 1,686 by year-end. We reduced the average cost of a plug and perf well in 2020 to $6.2 million per well from $6.8 million per well in 2019. We forecast net production from the Bakken to average approximately 170,000 boepd in 2021.
+In the second quarter, we chartered three VLCCs and loaded a total of 6.3 million barrels of oil for sale in Asian markets to enhance cash flow and maximize value from our Bakken production. The first VLCC cargo of 2.1 million barrels was sold in China in September. We have agreements in place to sell the remaining two VLCC cargos totaling 4.2 million barrels in the first quarter of 2021. We expect to recognize net income of approximately $60 million in the first quarter of 2021 from these sales, including associated hedging gains and costs.
+•In the Gulf of Mexico, net production averaged 56,000 boepd (2019: 66,000 boepd) reflecting the effect of increased hurricane-related downtime, higher planned maintenance and lower production from the Shenzi Field, which was sold in November 2020, partially offset by initial production from the Esox-1 well, which commenced in February of 2020. Net production from the Shenzi Field was 9,000 boepd in 2020 (2019: 12,000 boepd). We forecast Gulf of Mexico net production for 2021 to average approximately 45,000 boepd.
+We participated in two outside operated exploration wells that were completed in 2020, the Oldfield-1 well and the Galapagos Deep well, both located in the Mississippi Canyon area. Both wells were unsuccessful.
+•At the Stabroek Block (Hess 30%), offshore Guyana, net production from the Liza Phase 1 development averaged 20,000 bopd in 2020 following first production in December 2019 from the Liza Destiny FPSO. During the fourth quarter, the operator Esso Exploration and Production Guyana Limited, reached its nameplate capacity of 120,000 gross bopd. For 2021, net production from Guyana is expected to average approximately 30,000 bopd.
+The Liza Phase 2 development was sanctioned in 2019 and will utilize the Liza Unity FPSO to produce up to 220,000 gross bopd, with first production expected by early 2022. A total of 30 wells are planned at six drill centers, including 15 production wells, nine water injection wells and six gas injection wells. In 2021, the operator plans to continue development
+drilling, complete installation of subsea flow lines and equipment, complete installation of topside facilities on the FPSO and sail the Liza Unity FPSO from Singapore to the Liza Field.
+On September 30, 2020, we announced the final investment decision to proceed with development of the Payara Field on the Stabroek Block after the development plan received approval from the government of Guyana. Payara will utilize the Prosperity FPSO, which will have the capacity to produce up to 220,000 gross bopd, with first production expected in 2024. Ten drill centers with a total of 41 wells are planned, including 20 production wells and 21 injection wells. Excluding pre-sanction costs and FPSO purchase cost, our net share of development costs is forecast to be approximately $1.8 billion.
+In addition to the first three developments, planning is underway for additional FPSOs. The ultimate sizing and timing of these potential developments will be a function of further exploration and appraisal drilling.
+In 2020, two successful exploration wells and one successful appraisal well were drilled on the Stabroek Block. For 2021, the operator plans to bring in a fifth drillship in March and a sixth drillship in April and drill 12 to 15 exploration and appraisal wells during the year.
+•At the Kaieteur Block (Hess 15%), offshore Guyana, the operator, Esso Exploration and Production Guyana Limited, completed drilling of the Tanager-1 exploration well. The well did encounter hydrocarbons but was not a commercial success on a stand-alone basis.
+•In the Gulf of Thailand, net production from Block A-18 of the JDA averaged 29,000 boepd for the year (2019: 35,000 boepd), including contribution from unitized acreage in Malaysia, while net production from North Malay Basin averaged 23,000 boepd for the year (2019: 28,000 boepd). During 2020, we drilled seven production wells at North Malay Basin, and plan to continue the drilling program and development activities in 2021. We also expect to commence a multi-year drilling program in the first half of 2021 at the JDA. Combined net production from our JDA and North Malay Basin assets is forecast to average approximately 60,000 boepd in 2021.
+The following is an update of significant Midstream activities during 2020:
+•In 2019, Hess Midstream LP announced plans to expand processing capacity at the Tioga Gas Plant by 150 mmcfd for total processing capacity of 400 mmcfd. In 2020, the facility construction was completed for the expansion. The incremental gas processing capacity is expected to be available in 2021 upon completion of a scheduled plant maintenance turnaround, during which the expansion and residue and NGL takeaway pipelines will be tied in. The plant maintenance turnaround was originally planned to occur in the third quarter of 2020 but was deferred to 2021 to ensure safe execution in light of the COVID-19 pandemic.
+•On December 30, 2020, Hess Midstream LP exercised its renewal options to extend the terms of certain gas gathering, crude oil gathering, gas processing and fractionation, storage, and terminal and export commercial agreements for the secondary term through December 31, 2033. There were no changes to any provisions of the existing commercial agreements as a result of the exercise of the renewal options.
+Liquidity and Capital and Exploratory Expenditures
+In 2020, net cash provided by operating activities was $1,333 million (2019: $1,642 million). At December 31, 2020, cash and cash equivalents were $1,739 million (2019: $1,545 million), consolidated debt was $8,296 million (2019: $7,142 million), and our debt to capitalization ratio (as defined in the credit agreement for our revolving credit facility and the term loan agreement) was 47.5% (2019: 39.6%). Hess Midstream debt, which is nonrecourse to Hess Corporation, was $1,910 million at December 31, 2020 (2019: $1,753 million).
+Capital and exploratory expenditures were as follows (in millions):
+2020 2019 2018
+E&P Capital and Exploratory Expenditures:
+United States
+North Dakota $ 661 $ 1,312 $ 967
+Offshore and other 258 471 411
+Total United States 919 1,783 1,378
+Guyana 743 783 383
+Malaysia and JDA 99 109 123
+Other (a) 25 68 185
+E&P Capital and Exploratory Expenditures $ 1,786 $ 2,743 $ 2,069
+Exploration Expenses Charged to Income Included Above:
+United States $ 91 $ 105 $ 106
+International 17 62 54
+Total Exploration Expenses Charged to Income included above $ 108 $ 167 $ 160
+Midstream Capital Expenditures:
+Midstream Capital Expenditures (b) $ 253 $ 416 $ 271
+(a)Other includes our interests in Denmark, Libya and other non-producing countries.
+(b)Excludes equity investments of $33 million in 2019 and $67 million in 2018.
+In 2021, we project our E&P capital and exploratory expenditures will be approximately $1.9 billion and Midstream capital expenditures to be approximately $160 million.
+Consolidated Results of Operations
+Results by Segment:
+The after-tax income (loss) by major operating activity is summarized below:
+2020 2019 2018
+(In millions, except per share amounts)
+Net Income (Loss) Attributable to Hess Corporation:
+Exploration and Production $ (2,841) $ 53 $ 51
+Midstream 230 144 120
+Corporate, Interest and Other (482) (605) (453)
+Total $ (3,093) $ (408) $ (282)
+Net Income (Loss) Attributable to Hess Corporation Per Common Share - Diluted (a) $ (10.15) $ (1.37) $ (1.10)
+(a)Calculated as net income (loss) attributable to Hess Corporation less preferred stock dividends, divided by weighted average number of diluted shares.
+In the following discussion and elsewhere in this report, the financial effects of certain transactions are disclosed on an after-tax basis. Management reviews segment earnings on an after-tax basis and uses after-tax amounts in its review of variances in segment earnings. Management believes that after-tax amounts are a preferable method of explaining variances in earnings, since they show the entire effect of a transaction rather than only the pre-tax amount. After-tax amounts are determined by applying the income tax rate in each tax jurisdiction to pre-tax amounts.
+Items Affecting Comparability of Earnings Between Periods:
+The following table summarizes items of income (expense) that are included in net income (loss) and affect comparability of earnings between periods. The items in the table below are explained on pages 38 through 41.
+2020 2019 2018
+(In millions)
+Items Affecting Comparability of Earnings Between Periods, After Income Taxes:
+Exploration and Production $ (2,198) $ 63 $ (86)
+Midstream - (16) -
+Corporate, Interest and Other (1) (174) (20)
+Total $ (2,199) $ (127) $ (106)
+The following table presents the pre-tax amount of items affecting comparability of income (expense) by financial statement line item in the Statement of Consolidated Income on page 57. The items in the table below are explained on pages 38 through 41.
+Before Income Taxes
+2020 2019 2018
+(In millions)
+Gains on asset sales, net $ 79 $ 22 $ 24
+Other, net - (88) -
+Marketing, including purchased oil and gas (53) (21) -
+Operating costs and expenses (20) - (19)
+Exploration expenses, including dry holes and lease impairment (153) - (3)
+General and administrative expenses (6) (30) (130)
+Loss on debt extinguishment - - (53)
+Depreciation, depletion and amortization - - (16)
+Impairment (2,126) - -
+Total Items Affecting Comparability of Earnings Between Periods, Pre-Tax $ (2,279) $ (117) $ (197)
+Reconciliations of GAAP and Non-GAAP Measures:
+The following table reconciles reported net income (loss) attributable to Hess Corporation and adjusted net income (loss) attributable to Hess Corporation:
+2020 2019 2018
+(In millions)
+Adjusted Net Income (Loss) Attributable to Hess Corporation:
+Net income (loss) attributable to Hess Corporation $ (3,093) $ (408) $ (282)
+Less: Total items affecting comparability of earnings between periods, after-tax (2,199) (127) (106)
+Adjusted Net Income (Loss) Attributable to Hess Corporation $ (894) $ (281) $ (176)
+The following table reconciles reported net cash provided by (used in) operating activities and net cash provided by (used in) operating activities before changes in operating assets and liabilities:
+2020 2019 2018
+(In millions)
+Net cash provided by operating activities before changes in operating assets and liabilities:
+Net cash provided by (used in) operating activities $ 1,333 $ 1,642 $ 1,939
+Changes in operating assets and liabilities 470 595 190
+Net cash provided by (used in) operating activities before changes in operating assets and liabilities $ 1,803 $ 2,237 $ 2,129
+Adjusted net income (loss) attributable to Hess Corporation is a non-GAAP financial measure, which we define as reported net income (loss) attributable to Hess Corporation excluding items identified as affecting comparability of earnings between periods, which are summarized on pages 38 through 41. Management uses adjusted net income (loss) to evaluate the Corporation’s operating performance and believes that investors’ understanding of our performance is enhanced by disclosing this measure, which excludes certain items that management believes are not directly related to ongoing operations and are not indicative of future business trends and operations.
+Net cash provided by (used in) operating activities before changes in operating assets and liabilities presented in this report is a non-GAAP measure, which we define as reported net cash provided by (used in) operating activities excluding changes in operating assets and liabilities. Management uses net cash provided by (used in) operating activities before changes in operating assets and
+liabilities to evaluate the Corporation’s ability to internally fund capital expenditures, pay dividends and service debt and believes that investors’ understanding of our ability to generate cash to fund these items is enhanced by disclosing this measure, which excludes working capital and other movements that may distort assessment of our performance between periods.
+These measures are not, and should not be viewed as, substitutes for U.S. GAAP net income (loss) and net cash provided by (used in) operating activities.
+Comparison of Results
+Exploration and Production
+Following is a summarized statement of income for our E&P operations:
+2020 2019 2018
+(In millions)
+Revenues and Non-Operating Income
+Sales and other operating revenues $ 4,667 $ 6,495 $ 6,323
+Gains on asset sales, net 79 22 27
+Other, net 31 51 53
+Total revenues and non-operating income 4,777 6,568 6,403
+Costs and Expenses
+Marketing, including purchased oil and gas 1,067 1,849 1,833
+Operating costs and expenses 895 971 941
+Production and severance taxes 124 184 171
+Midstream tariffs 946 722 648
+Exploration expenses, including dry holes and lease impairment 351 233 362
+General and administrative expenses 206 204 258
+Depreciation, depletion and amortization 1,915 1,977 1,748
+Impairment 2,126 - -
+Total costs and expenses 7,630 6,140 5,961
+Results of Operations Before Income Taxes (2,853) 428 442
+Provision (benefit) for income taxes (a) (12) 375 391
+Net Income (Loss) Attributable to Hess Corporation $ (2,841) $ 53 $ 51
+(a)Commencing January 1, 2019, management changed its measurement of segment earnings to reflect income taxes on a post U.S. tax consolidation and valuation allowance assessment basis. See footnote (a) in the table on page 87 for further details.
+Excluding the E&P items affecting comparability of earnings between periods in the table on page 38, the changes in E&P results are primarily attributable to changes in selling prices, production and sales volumes, marketing expenses, cash operating costs, Midstream tariffs, DD&A, exploration expenses and income taxes, as discussed below.
+Selling Prices: Average worldwide realized crude oil selling prices, including hedging, were 22% lower in 2020 compared with the prior year, primarily due to the decrease in Brent and WTI crude oil prices. In addition, realized worldwide selling prices for NGL decreased in 2020 by 16% and worldwide natural gas prices decreased in 2020 by 24%, compared with the prior year. In total, lower realized selling prices decreased financial results by approximately $780 million after income taxes, compared with 2019. Our average selling prices were as follows:
+2020 2019 2018
+Average Selling Prices (a)
+Crude Oil - Per Barrel (Including Hedging)
+United States
+North Dakota $ 42.63 $ 53.19 $ 56.90
+Offshore 45.92 59.18 62.02
+Total United States 43.56 55.15 58.69
+Guyana 46.41 - -
+Malaysia and JDA 37.91 61.81 70.42
+Other (b) 51.37 65.22 69.76
+Worldwide 44.28 56.77 60.77
+Crude Oil - Per Barrel (Excluding Hedging)
+United States
+North Dakota $ 33.87 $ 53.18 $ 60.64
+Offshore 36.55 59.17 65.73
+Total United States 34.63 55.14 62.41
+Guyana 37.40 - -
+Malaysia and JDA 37.91 61.81 70.42
+Other (b) 43.42 65.22 69.76
+Worldwide 35.52 56.76 63.80
+Natural Gas Liquids - Per Barrel
+United States
+North Dakota $ 11.29 $ 13.20 $ 21.48
+Other Onshore (c) - - 18.55
+Offshore 8.94 13.31 25.58
+Worldwide 11.10 13.21 21.81
+Natural Gas - Per Mcf
+United States
+North Dakota $ 1.27 $ 1.59 $ 2.42
+Other Onshore (c) - - 2.02
+Offshore 1.23 2.12 2.68
+Total United States 1.26 1.83 2.43
+Malaysia and JDA 4.47 5.04 5.07
+Other (b) 3.41 4.63 4.41
+Worldwide 2.98 3.90 4.18
+(a)Selling prices in the United States are adjusted for certain processing and distribution fees included in Marketing expenses. Excluding these fees worldwide selling prices for 2020 would be $47.54 per barrel for crude oil (including hedging) (2019: $59.95; 2018: $63.77), $38.78 per barrel for crude oil (excluding hedging) (2019: $59.94; 2018: $66.80), $11.29 per barrel for NGL (2019: $13.40; 2018: $22.00) and $3.11 per mcf for natural gas (2019: $3.97; 2018: $4.25).
+(b)Other includes our interests in Denmark and Libya.
+(c)In August 2018, we sold our interests in the Utica shale play, onshore U.S.
+Crude oil hedging activities in 2020 were a net gain of $547 million before and after income taxes, and a net gain of $1 million before and after income taxes in 2019. For 2021, we have WTI put options with an average monthly floor price of $50 per barrel for 120,000 bopd, and Brent put options with an average monthly floor price of $55 per barrel for 30,000 bopd. We expect put option premium amortization, which will be reflected in realized selling prices, to reduce our 2021 results by approximately $205 million.
+Production Volumes: Our daily worldwide net production was as follows:
+2020 2019 2018
+(In thousands)
+Crude Oil - Barrels
+United States
+North Dakota 107 94 77
+Offshore (a) 38 46 41
+Total United States 145 140 118
+Guyana 20 - -
+Malaysia and JDA 4 4 4
+Other (b) 9 25 24
+Total 178 169 146
+Natural Gas Liquids - Barrels
+United States
+North Dakota 56 42 31
+Other Onshore (c) - - 3
+Total Onshore 56 42 34
+Offshore (a) 5 5 5
+Total United States 61 47 39
+Natural Gas - Mcf
+United States
+North Dakota 180 110 76
+Other Onshore (c) - - 38
+Total Onshore 180 110 114
+Offshore (a) 76 91 67
+Total United States 256 201 181
+Malaysia and JDA 291 351 352
+Other (b) 7 20 20
+Total 554 572 553
+Barrels of Oil Equivalent 331 311 277
+Crude oil and natural gas liquids as a share of total production 72 % 69 % 67 %
+(a)In November 2020, we sold our working interest in the Shenzi Field in the deepwater Gulf of Mexico. Net production from the Shenzi Field was 9,000 boepd for the year ended December 31, 2020 (2019: 12,000 boepd; 2018: 16,000 boepd).
+(b)Other includes our interests in Denmark and Libya. Net production from Libya was 4,000 boepd for 2020 (2019: 21,000 boepd; 2018: 20,000 boepd). Net production from Denmark was 6,000 boepd for 2020 (2019: 7,000 boepd; 2018: 7,000 boepd).
+(c)In August 2018, we sold our interests in the Utica shale play, onshore U.S. Production was 9,000 boepd for the year ended December 31, 2018.
+In 2021, we expect net production, excluding Libya, to be approximately 310,000 boepd, compared with 2020 net production, excluding Libya and assets sold, of 318,000 boepd.
+Net production variances related to 2020 and 2019 are summarized as follows:
+United States: North Dakota net oil production was higher in 2020, primarily due to increased wells online and improved well performance. North Dakota net natural gas and NGL production was higher in 2020, due to increased wells online and improved well performance, additional natural gas captured and processed, and additional volumes received under percentage of proceeds contracts resulting from lower prices. Offshore net production was down in 2020 compared to 2019 due to the effect of increased hurricane-related downtime and higher planned maintenance in 2020 and lower production from the Shenzi Field, which was sold in November 2020, partially offset by initial production from the Esox-1 well, which commenced in February of 2020.
+International: Net crude oil production from Guyana was higher in 2020, due to the start-up of the Liza Phase 1 development in December 2019, while net crude oil production in Libya was largely shut in during 2020 due to force majeure caused by civil unrest. Net natural gas production was lower from Malaysia and JDA due to COVID-19 impacts on economic activity in Malaysia and Thailand which reduced natural gas nominations from the buyers.
+Sales Volumes: Higher sales volumes from our net production in 2020 improved after-tax results by approximately $130 million, compared with 2019. Net worldwide sales volumes from Hess net production, which excludes sales volumes of crude oil, NGL and natural gas purchased from third parties, were as follows:
+2020 2019 2018
+(In thousands)
+Crude oil - barrels (a)
+60,924 61,061 52,742
+Natural gas liquids - barrels
+22,397 17,067 14,019
+Natural gas - mcf
+202,917 208,665 202,041
+Barrels of Oil Equivalent 117,141 112,906 100,435
+Crude oil - barrels per day
+167 167 144
+Natural gas liquids - barrels per day
+61 47 39
+Natural gas - mcf per day
+554 572 553
+Barrels of Oil Equivalent Per Day 320 309 275
+(a)In 2020, 6.3 million barrels of Bakken crude oil were loaded on VLCCs for sale in Asian markets. The first VLCC cargo of 2.1 million barrels was sold during the third quarter of 2020 and the remaining two VLCC cargos totaling 4.2 million barrels have been sold for delivery in the first quarter of 2021.
+Marketing, including purchased oil and gas (Marketing expense): Marketing expense is mainly comprised of costs to purchase crude oil, NGL and natural gas from our partners in Hess operated wells or other third parties, primarily in the U.S., and transportation and other distribution costs for U.S. marketing activities. Marketing expense was lower in 2020 compared to 2019 primarily due to lower crude oil prices paid for purchased volumes from third parties.
+Cash Operating Costs: Cash operating costs consist of operating costs and expenses, production and severance taxes and E&P general and administrative expenses. Excluding items affecting comparability described in Items Affecting Comparability of Earnings Between Periods below, cash operating costs decreased $159 million, or 12%, in 2020 compared to 2019 primarily from the impact of cost reduction initiatives and lower production and severance taxes associated with lower crude oil prices. On a per-unit basis, cash operating costs improved 17% from 2019 reflecting lower costs and the impact of higher production volumes.
+Midstream Tariffs Expense: Tariffs expense increased from 2019, primarily due to higher throughput volumes and tariff rates in 2020. In 2021, we estimate Midstream tariffs expense to be in the range of $1,090 million to $1,115 million.
+DD&A: DD&A expenses decreased by $62 million from 2019, primarily due to a lower portfolio average DD&A rate, due in part to impairment charges in the first quarter of 2020, partially offset by higher production volumes. DD&A expense on a per-unit basis was lower in 2020, compared to 2019, primarily due to the year-over-year mix of production and the impact of reduced DD&A rates for assets impaired in the first quarter of 2020.
+Unit costs: Unit cost per boe information is based on total E&P net production volumes and excludes items affecting comparability of earnings as disclosed below. Actual and forecast unit costs are as follows:
+Actual Forecast range (a)
+2020 2019 2018 2021
+Cash operating costs (b) $ 9.91 $ 11.99 $ 12.66 $10.50 - $11.50
+DD&A (c) 15.80 17.43 17.14 12.00 - 13.00
+Total Production Unit Costs $ 25.71 $ 29.42 $ 29.80 $22.50 - $24.50
+(a)Forecast information excludes any contribution from Libya.
+(b)Cash operating costs per boe, excluding Libya, was $9.85 in 2020 (2019: $12.54; 2018: $13.32).
+(c)DD&A per boe, excluding Libya, was $15.98 in 2020 (2019: $18.52; 2018: $18.29).
+Exploration Expenses: Exploration expenses, including items affecting comparability of earnings described below, were as follows:
+2020 2019 2018
+(In millions)
+Exploratory dry hole costs (a) $ 192 $ 49 $ 165
+Exploration lease and other impairment (b) 51 17 37
+Geological and geophysical expense and exploration overhead 108 167 160
+$ 351 $ 233 $ 362
+(a)In 2020, dry hole costs primarily related to the Tanager-1 well in the Kaieteur Block, offshore Guyana, the Galapagos Deep and Oldfield-1 wells in the Gulf of Mexico and the write-off of previously capitalized exploratory wells (see Items Affecting Comparability of Earnings Between Periods below). In 2019, dry hole costs primarily related to the Jill-1 well on License 6/16 in Denmark and the Oldfield-1 well in the Gulf of Mexico. Dry hole expense for the Oldfield-1 well was $15 million in 2019 and $12 million in 2020.
+(b)In 2020, exploration lease and other impairment included impaired leasehold costs due to a reprioritization of the Corporation’s forward capital program (see Items Affecting Comparability of Earnings Between Periods below).
+In 2021, we estimate exploration expenses, excluding dry hole expense, to be in the range of $170 million to $180 million.
+Income Taxes: In 2020, income tax benefit was $12 million compared with expense of $375 million in 2019, primarily due to reduced activity in Libya resulting from force majeure on operations for the majority of the year. We are generally not recognizing deferred tax benefit or expense in certain countries, primarily the U.S., Denmark, and Malaysia, while we maintain valuation allowances against net deferred tax assets in these jurisdictions in accordance with the requirements of U.S. accounting standards. The valuation allowance established against the net deferred tax asset in Guyana for the Stabroek Block was released as a result of the positive evidence from first production in December 2019, and the significant forecasted pre-tax income from operations. The cumulative pre-tax losses in Guyana were driven by pre-production activities. See E&P Items Affecting Comparability of Earnings Between Periods below.
+Actual effective tax rates are as follows:
+2020 2019 2018
+% % %
+Effective income tax benefit (expense) rate 0 (88) (88)
+Adjusted effective income tax benefit (expense) rate (a) (5) (36) 60
+(a)Excludes any contribution from Libya and items affecting comparability of earnings.
+In 2021, we estimate income tax expense, excluding Libya and items affecting comparability of earnings between periods, to be in the range of $80 million to $90 million.
+Items Affecting Comparability of Earnings Between Periods: Reported E&P earnings include the following items affecting comparability of income (expense):
+Before Income Taxes After Income Taxes
+2020 2019 2018 2020 2019 2018
+(In millions)
+Impairment $ (2,126) $ - $ - $ (2,049) $ - $ -
+Dry hole and lease impairment expenses (152) - - (150) - -
+Crude oil inventories write-down (53) - - (52) - -
+Exit costs and other (26) - (110) (26) - (110)
+Cost recovery settlement - (21) - - (19) -
+Reversal of deferred tax asset valuation allowance - - - - 60 -
+Gains on asset sales, net 79 22 24 79 22 24
+$ (2,278) $ 1 $ (86) $ (2,198) $ 63 $ (86)
+The pre-tax amounts of E&P items affecting comparability of income (expense) as presented in the Statement of Consolidated Income are as follows:
+Before Income Taxes
+2020 2019 2018
+(In millions)
+Gains on asset sales, net $ 79 $ 22 $ 24
+Marketing, including purchased oil and gas (53) (21) -
+Operating costs and expenses (20) - (19)
+Exploration expenses, including dry holes and lease impairment (153) - (3)
+General and administrative expenses (5) - (72)
+Depreciation, depletion and amortization - - (16)
+Impairment (2,126) - -
+$ (2,278) $ 1 $ (86)
+2020:
+•Impairment: We recorded noncash impairment charges totaling $2.1 billion ($2.0 billion after income taxes) related to our oil and gas properties at North Malay Basin in Malaysia, the South Arne Field in Denmark, and the Stampede and Tubular Bells fields in the Gulf of Mexico, primarily as a result of a lower long-term crude oil price outlook. Other charges totaling $21 million pre-tax ($20 million after income taxes) related to drilling rig right-of-use assets in the Bakken and surplus materials and supplies. See Note 12, Impairment in the Notes to Consolidated Financial Statements.
+•Dry hole and lease impairment expenses: We incurred pre-tax charges totaling $152 million ($150 million after income taxes) in the first quarter to write-off previously capitalized exploratory well costs of $125 million ($123 million after income taxes) primarily related to the northern portion of the Shenzi Field in the Gulf of Mexico and to impair certain exploration leasehold costs by $27 million ($27 million after income taxes) due to a reprioritization of our capital program.
+•Crude oil inventories write-down: We incurred a pre-tax charge of $53 million ($52 million after income taxes) to adjust crude oil inventories to their net realizable value at the end of the first quarter following the significant decline in crude oil prices.
+•Exit costs and other: We recorded a pre-tax charge of $26 million ($26 million after income taxes) for employee termination benefits incurred related to cost reduction initiatives.
+•Gains on asset sales, net: We recorded a pre-tax gain of $79 million ($79 million after income taxes) associated with the sale of our 28% working interest in the Shenzi Field in the deepwater Gulf of Mexico.
+2019:
+•Cost recovery settlement: We recorded a pre-tax charge of $21 million ($19 million after income taxes) related to a settlement on historical cost recovery balances in the JDA that was paid in cash.
+•Reversal of deferred tax asset valuation allowance: We recorded a noncash income tax benefit of $60 million, which resulted from the reversal of a valuation allowance against net deferred tax assets in Guyana upon achieving first production from the Liza Phase 1 development.
+•Gains on asset sales, net: We recorded a pre-tax gain of $22 million ($22 million after income taxes) associated with the sale of our remaining acreage in the Utica shale play.
+2018:
+•Exit costs and other: We incurred noncash pre-tax charges of $73 million ($73 million after income taxes) in connection with vacated office space. In addition, we recorded a pre-tax charge of $37 million ($37 million after income taxes) for employee termination benefits related to a cost reduction program undertaken to reflect the reduced scale of our business following significant asset sales in 2017.
+•Gains on asset sales, net: We recorded a pre-tax gain of $14 million ($14 million after income taxes) associated with the sale of our joint venture interests in the Utica shale play in eastern Ohio and a pre-tax gain of $10 million ($10 million after income taxes) associated with the sale of our interests in Ghana.
+Midstream
+Following is a summarized statement of income for our Midstream operations:
+2020 2019 2018
+(In millions)
+Revenues and Non-Operating Income
+Sales and other operating revenues $ 1,092 $ 848 $ 713
+Other, net 10 4 6
+Total revenues and non-operating income 1,102 852 719
+Costs and Expenses
+Operating costs and expenses 338 279 193
+General and administrative expenses 21 56 14
+Depreciation, depletion and amortization 157 142 127
+Interest expense 95 63 60
+Total costs and expenses 611 540 394
+Results of Operations Before Income Taxes 491 312 325
+Provision (benefit) for income taxes (a) 7 - 38
+Net income (loss) 484 312 287
+Less: Net income (loss) attributable to noncontrolling interests 254 168 167
+Net Income (Loss) Attributable to Hess Corporation $ 230 $ 144 $ 120
+(a)Commencing January 1, 2019, management changed its measurement of segment earnings to reflect income taxes on a post U.S. tax consolidation and valuation allowance assessment basis. See footnote (a) in the table on page 87 for further details.
+Sales and other operating revenues increased from 2019 primarily due to higher throughput volumes and tariff rates. Operating costs and expenses increased from 2019 primarily due to increased operating and maintenance expenditures on expanded infrastructure and initial costs incurred related to the Tioga Gas Plant turnaround planned for 2021. General and administrative expenses decreased from 2019 as a result of expenditures incurred from Hess Midstream LP’s acquisition of HIP and its corporate restructuring. See Items Affecting Comparability of Earnings below. DD&A expenses increased from 2019 primarily due to additional assets placed in service. The increase in interest expense from 2019 reflects higher borrowings by the Midstream business.
+In 2021, we estimate net income attributable to Hess Corporation from the Midstream segment to be in the range of $280 million to $290 million.
+Items Affecting Comparability of Earnings Between Periods: In 2019, we recognized a pre-tax charge of $30 million ($16 million after income taxes and noncontrolling interests) in General and Administrative Expenses for transaction related costs for Hess Midstream Partners LP’s acquisition of HIP and the associated corporate restructuring. See Note 4, Hess Midstream LP in the Notes to Consolidated Financial Statements.
+Corporate, Interest and Other
+The following table summarizes Corporate, Interest and Other expenses:
+2020 2019 2018
+(In millions)
+Corporate and other expenses (excluding items affecting comparability) $ 114 $ 114 $ 97
+Interest expense 373 355 359
+Less: Capitalized interest - (38) (20)
+Interest expense, net 373 317 339
+Corporate, Interest and Other expenses before income taxes 487 431 436
+Provision (benefit) for income taxes (6) - (3)
+Net Corporate, Interest and Other expenses after income taxes 481 431 433
+Items affecting comparability of earnings between periods, after income taxes 1 174 20
+Total Corporate, Interest and Other Expenses After Income Taxes $ 482 $ 605 $ 453
+Corporate and other expenses, excluding items affecting comparability, were comparable in 2020 compared to the corresponding period in 2019. In 2021, after-tax Corporate and other expenses, excluding items affecting comparability of earnings between periods, are estimated to be in the range of $130 million to $140 million.
+Interest expense, net was higher in 2020 due to interest incurred on the $1.0 billion three year term loan entered into in March 2020 and lower capitalized interest. In 2021, after-tax interest expense, net is estimated to be in the range of $380 million to $390 million.
+Items Affecting Comparability of Earnings Between Periods: Corporate, Interest and Other results included the following items affecting comparability of income (expense):
+2020:
+•Exit costs and other: We included a pre-tax charge of $1 million ($1 million after income taxes) for employee termination benefits related to cost reduction initiatives.
+2019:
+•Pension settlement: We recorded a noncash pension settlement charge of $88 million ($88 million after income taxes) associated with the purchase of a single premium annuity contract by the Hess Corporation Employees’ Pension Plan to settle and transfer certain of its obligations to a third party. The charge is included in Other, net in the Statement of Consolidated Income.
+•Income tax: We recorded an allocation of noncash income tax expense of $86 million that was previously a component of accumulated other comprehensive income related to our 2019 crude oil hedge contracts.
+2018:
+•Loss on debt extinguishment: We recorded a pre-tax charge of $53 million ($53 million after income taxes) related to the premium paid for debt repurchases.
+•Exit costs and other: We recorded a pre-tax charge of $58 million ($58 million after income taxes) resulting from the settlement of legal claims related to former downstream interests.
+•Income tax: We recorded an allocation of noncash income tax benefit of $91 million to offset the recognition of a noncash income tax expense recorded in other comprehensive income resulting primarily from changes in fair value of our 2019 crude oil hedge contracts.
+Liquidity and Capital Resources
+The following table sets forth certain relevant measures of our liquidity and capital resources at December 31:
+2020 2019
+(In millions, except ratio)
+Cash and cash equivalents (a) $ 1,739 $ 1,545
+Current maturities of long-term debt 10 -
+Total debt (b) 8,296 7,142
+Total equity 6,335 9,706
+Debt to capitalization ratio for debt covenants (c) 47.5 % 39.6 %
+(a)Includes $4 million of cash attributable to our Midstream Segment at December 31, 2020 (2019: $3 million).
+(b)Includes $1,910 million of debt outstanding from our Midstream Segment at December 31, 2020 (2019: $1,753 million) that is non-recourse to Hess Corporation.
+(c)Total Consolidated Debt of Hess Corporation (including finance leases and excluding Midstream non-recourse debt) as a percentage of Total Capitalization of Hess Corporation as defined under Hess Corporation's term loan and revolving credit facility financial covenants. Total Capitalization excludes the impact of noncash impairment charges and non-controlling interests. See Note 7 in the Notes to Consolidated Financial Statements.
+Cash Flows
+The following table sets forth a summary of our cash flows:
+2020 2019 2018
+(In millions)
+Net cash provided by (used in):
+Operating activities $ 1,333 $ 1,642 $ 1,939
+Investing activities (1,707) (2,843) (1,566)
+Financing activities 568 52 (2,526)
+Net Increase (Decrease) in Cash and Cash Equivalents $ 194 $ (1,149) $ (2,153)
+Operating Activities: Net cash provided by operating activities was $1,333 million in 2020 (2019: $1,642 million), while net cash provided by operating activities before changes in operating assets and liabilities was $1,803 million in 2020 (2019: $2,237 million). Net cash provided by operating activities before changes in operating assets and liabilities decreased from 2019 primarily due to lower realized selling prices. Changes in operating assets and liabilities in 2020 reduced net cash provided by operating activities by $470 million, primarily from a decrease in accounts payable and accrued liabilities, an increase in crude oil inventory resulting from our VLCC transactions, and abandonment expenditures, partially offset by lower receivables. Changes in operating
+assets and liabilities in 2019 reduced net cash provided by operating activities by $595 million primarily related to premiums on crude oil hedge contracts, abandonment expenditures, pension contributions and an increase in accounts receivable.
+Investing Activities: Total Additions to Property, Plant and Equipment were $2,197 million in 2020 (2019: $2,829 million). The decrease primarily reflects lower drilling activity in the Bakken, partially offset by payments in the first quarter of 2020 to settle capital expenditures accrued in the fourth quarter of 2019. In 2019, Midstream equity investments in its 50/50 joint venture with Targa Resources were $33 million. Proceeds from asset sales were $493 million in 2020 (2019: $22 million).
+Financing Activities: Borrowings in 2020 related to our $1.0 billion three year term loan while borrowings in 2019 related to our Midstream operating segment. Repayments of debt were $8 million in 2019. Net borrowings (repayments) of debt with maturities of 90 days or less related to our Midstream operating segment revolving credit facilities. Common stock dividends paid were $309 million in 2020 compared to common and preferred dividends of $316 million in 2019. Net cash outflows to noncontrolling interests were $261 million in 2020 (2019: $353 million).
+Future Capital Requirements and Resources
+At December 31, 2020, Hess Corporation, had $1.74 billion in cash and cash equivalents, excluding Midstream, and total liquidity, including available committed credit facilities, of approximately $5.4 billion. Our fully undrawn $3.5 billion committed revolving credit facility matures in May 2023, and we have no debt maturities until 2023 when the three year term loan matures.
+Net production in 2021 is forecast to be approximately 310,000 boepd, excluding Libya, and we expect our 2021 E&P capital and exploratory expenditures will be approximately $1.9 billion. For 2021, we have WTI put options with an average monthly floor price of $50 per barrel for 120,000 bopd, and Brent put options with an average monthly floor price of $55 per barrel for 30,000 bopd.
+In 2021, based on current forward strip crude oil prices, we expect cash flow from operating activities, proceeds from the first quarter 2021 sale of 4.2 million barrels of crude oil stored on two VLCCs at year-end, and cash and cash equivalents existing at December 31, 2020 of $1.74 billion, will be sufficient to fund our capital investment program and dividends. Due to the volatile commodity price environment, we may take any of the following steps, or a combination thereof, to improve our liquidity and financial position: reduce the planned capital program and other cash outlays, including dividends, pursue asset sales, borrow against our committed revolving credit facility, or issue debt or equity securities.
+The table below summarizes the capacity, usage, and available capacity of our borrowing and letter of credit facilities at December 31, 2020:
+Expiration
+Date Capacity Borrowings Letters of
+Credit
+Issued Total
+Used Available
+Capacity
+(In millions)
+Hess Corporation
+Revolving credit facility May 2023 $ 3,500 $ - $ - $ - $ 3,500
+Committed lines Various (a) 175 - 54 54 121
+Uncommitted lines Various (a) 215 - 215 215 -
+Total - Hess Corporation $ 3,890 $ - $ 269 $ 269 $ 3,621
+Midstream
+Revolving credit facility (b) December 2024 $ 1,000 $ 184 $ - $ 184 $ 816
+Total - Midstream $ 1,000 $ 184 $ - $ 184 $ 816
+(a)Committed and uncommitted lines have expiration dates through 2021.
+(b)This credit facility may only be utilized by HESM Opco and is non-recourse to Hess Corporation.
+Hess Corporation:
+In 2020, we entered into a $1 billion three year term loan agreement with a maturity date of March 16, 2023. Borrowings under the term loan generally bear interest at LIBOR plus an applicable margin of 2.25% until the term loan's first anniversary. The applicable margin varies based on the credit rating of the Corporation’s senior unsecured long-term debt and will increase by 0.25% on each anniversary of the term loan.
+In 2019, we entered into a new $3.5 billion revolving credit facility with a maturity date of May 15, 2023, which replaced the Corporation’s previous revolving credit facility. The new facility can be used for borrowings and letters of credit. Borrowings will generally bear interest at 1.30% above LIBOR, though the interest rate is subject to adjustment if the Corporation’s credit rating changes. At December 31, 2020, Hess Corporation had no outstanding borrowings or letters of credit under this facility.
+The revolving credit facility and term loan are subject to customary representations, warranties, customary events of default and covenants, including a financial covenant limiting the ratio of Total Consolidated Debt to Total Capitalization of the Corporation and its consolidated subsidiaries to 65%, and a financial covenant limiting the ratio of secured debt to Consolidated Net Tangible Assets of
+the Corporation and its consolidated subsidiaries to 15% (as these capitalized terms are defined in the credit agreement for the revolving credit facility and the term loan agreement). The indentures for the Corporation's fixed-rate public notes limit the ratio of secured debt to Consolidated Net Tangible Assets (as that term is defined in the indentures) to 15%. As of December 31, 2020, Hess Corporation was in compliance with these financial covenants. For additional information regarding the alteration or discontinuation of LIBOR on our borrowing costs, see Financial Risks in Item 1A. Risk Factors.
+The most restrictive of the financial covenants related to our fixed-rate public notes and our term loan and revolving credit facility would allow us to borrow up to an additional $1,730 million of secured debt at December 31, 2020.
+We had $269 million in letters of credit outstanding at December 31, 2020 (2019: $272 million), which primarily relate to our international operations. We have a shelf registration under which we may issue additional debt securities, warrants, common stock or preferred stock.
+Midstream:
+At December 31, 2020, Hess Midstream Operations LP (formerly Hess Midstream Partners LP, or HESM Opco), a consolidated subsidiary of Hess Midstream LP, had $1.4 billion of senior secured syndicated credit facilities maturing December 16, 2024, consisting of a $1.0 billion five year revolving credit facility and a fully drawn $400 million five year term loan A facility. The revolving credit facility can be used for borrowings and letters of credit to fund HESM Opco’s operating activities, capital expenditures, distributions and for other general corporate purposes. Borrowings under the five year term loan A facility will generally bear interest at LIBOR plus an applicable margin ranging from 1.55% to 2.50%, while the applicable margin for the five year syndicated revolving credit facility ranges from 1.275% to 2.000%. Pricing levels for the facility fee and interest-rate margins are based on HESM Opco’s ratio of total debt to EBITDA (as defined in the credit facilities). If HESM Opco obtains an investment grade credit rating, the pricing levels will be based on HESM Opco’s credit ratings in effect from time to time. The credit facilities contain covenants that require HESM Opco to maintain a ratio of total debt to EBITDA (as defined in the credit facilities) for the prior four fiscal quarters of not greater than 5.00 to 1.00 as of the last day of each fiscal quarter (5.50 to 1.00 during the specified period following certain acquisitions) and, prior to HESM Opco obtaining an investment grade credit rating, a ratio of secured debt to EBITDA for the prior four fiscal quarters of not greater than 4.00 to 1.00 as of the last day of each fiscal quarter. HESM Opco was in compliance with these financial covenants at December 31, 2020. The credit facilities are secured by first-priority perfected liens on substantially all the presently owned and after-acquired assets of HESM Opco and its direct and indirect wholly owned material domestic subsidiaries, including equity interests directly owned by such entities, subject to certain customary exclusions. At December 31, 2020, borrowings of $184 million were drawn under HESM Opco’s revolving credit facility, and borrowings of $400 million, excluding deferred issuance costs, were drawn under HESM Opco’s term loan A facility. Borrowings under these credit facilities are non-recourse to Hess Corporation.
+Credit Ratings
+Two of the three major credit rating agencies that rate our debt have assigned an investment grade rating. Standard and Poor’s Ratings Services affirmed our credit rating at BBB- with negative outlook in October 2020 while Fitch Ratings affirmed a BBB- credit rating and stable outlook in August 2020. Moody’s Investors Service affirmed our credit rating at Ba1 with stable outlook, which is below investment grade, in March 2020.
+At December 31, 2020, HESM Opco’s senior unsecured debt is rated BB+ by Standard and Poor’s Ratings Services and Fitch Ratings, and Ba3 by Moody’s Investors Service.
+Contractual Obligations and Contingencies
+The following table sets forth aggregate information about certain of the Corporation's consolidated contractual obligations at December 31, 2020:
+Payments Due by Period
+Total 2021 2022 and
+2023 2024 and
+2025 Thereafter
+(In millions)
+Total Debt (excluding deferred financing costs, discounts, and interest) (a) $ 8,372 $ 10 $ 1,050 $ 824 $ 6,488
+Finance Leases (b) 356 36 72 72 176
+Operating Leases (b) 663 83 155 138 287
+Purchase Obligations:
+Capital expenditures (b) 2,837 868 1,469 500 -
+Operating expenses (b) 236 167 63 5 1
+Transportation and related contracts (b) 2,867 310 756 493 1,308
+Asset retirement obligations 2,116 105 170 86 1,755
+Other liabilities 583 79 95 75 334
+(a)We anticipate cash payments for interest on Total Debt of $440 million for 2021, $850 million for 2022-2023, $784 million for 2024-2025, and $3,231 million thereafter for a total of $5,305 million. These interest payments reflect our contractual obligations at December 31, 2020.
+(b)Comprises obligations, including where we, as operator, have contracted directly with suppliers.
+Capital expenditures represent amounts for which we were contractually committed at December 31, 2020, and include a portion of our planned capital expenditure program for 2021. Obligations for operating expenses include commitments for oil and gas production expenses, seismic purchases and other normal business expenses. Other liabilities reflect contractually committed obligations in the Consolidated Balance Sheet at December 31, 2020, including post-retirement plan liabilities for our unfunded plans and estimates for uncertain income tax positions. The Corporation and certain of its subsidiaries primarily lease drilling rigs, equipment, logistical assets (offshore vessels, aircraft, and shorebases), and office space for varying periods. See Note 6, Leases in the Notes to Consolidated Financial Statements.
+Off-Balance Sheet Arrangements
+At December 31, 2020, we had $269 million in letters of credit. See also Note 18, Guarantees, Contingencies and Commitments in the Notes to Consolidated Financial Statements.
+Foreign Operations
+We conduct E&P activities outside the U.S., principally in Guyana, the Joint Development Area of Malaysia/Thailand, Malaysia, Denmark, Libya, Suriname, and Canada. Therefore, we are subject to the risks associated with foreign operations, including political risk, tax law changes, currency risk, corruption and acts of terrorism. See Item 1A. Risk Factors for further details.
+Critical Accounting Policies and Estimates
+Accounting policies and estimates affect the recognition of assets and liabilities in the Consolidated Balance Sheet and revenues and expenses in the Statement of Consolidated Income. The accounting methods used can affect net income, equity and various financial statement ratios. However, our accounting policies generally do not change cash flows or liquidity.
+Accounting for Exploration and Development Costs: E&P activities are accounted for using the successful efforts method. Costs of acquiring unproved and proved oil and gas leasehold acreage, including lease bonuses, brokers’ fees and other related costs are capitalized. Annual lease rentals, exploration expenses and exploratory dry hole costs are expensed as incurred. Costs of drilling and equipping productive wells, including development dry holes, and related production facilities are capitalized.
+The costs of exploratory wells that find oil and gas reserves are capitalized pending determination of whether proved reserves have been found. Exploratory drilling costs remain capitalized after drilling is completed if (1) the well has found a sufficient quantity of reserves to justify completion as a producing well and (2) sufficient progress is being made in assessing the reserves and the economic and operational viability of the project. If either of those criteria is not met, or if there is substantial doubt about the economic or operational viability of the project, the capitalized well costs are charged to expense. Indicators of sufficient progress in assessing reserves, and the economic and operating viability of a project include: commitment of project personnel, active negotiations for sales contracts with customers, negotiations with governments, operators and contractors and firm plans for additional drilling and other factors.
+Crude Oil and Natural Gas Reserves: The determination of estimated proved reserves is a significant element in arriving at the results of operations of E&P activities. The estimates of proved reserves affect well capitalizations, the unit of production depreciation rates of proved properties and wells and equipment, as well as impairment testing of oil and gas assets.
+For reserves to be booked as proved they must be determined with reasonable certainty to be economically producible from known reservoirs under existing economic conditions, operating methods and government regulations. In addition, government and project operator approvals must be obtained and, depending on the amount of the project cost, senior management or the Board of Directors must commit to fund the project. We maintain our own internal reserve estimates that are calculated by technical staff that work directly with the oil and gas properties. Our technical staff update reserve estimates throughout the year based on evaluations of new wells, performance reviews, new technical data and other studies. To provide consistency throughout the Corporation, standard reserve estimation guidelines, definitions, reporting reviews and approval practices are used. The internal reserve estimates are subject to internal technical audits and senior management review. We also engage an independent third-party consulting firm to audit approximately 80% of our total proved reserves each year.
+Proved reserves are calculated using the average price during the twelve-month period ending December 31 determined as an unweighted arithmetic average of the price on the first day of each month within the year, unless prices are defined by contractual agreements, excluding escalations based on future conditions. As discussed in Item 1A. Risk Factors, crude oil prices are volatile which can have an impact on our proved reserves. If crude oil prices in 2021 are at levels below that used in determining 2020 proved reserves, we may recognize negative revisions to our December 31, 2021 proved undeveloped reserves. In addition, we may recognize negative revisions to proved developed reserves, which can vary significantly by asset due to differing operating cost structures. Conversely, price increases in 2021 above those used in determining 2020 proved reserves could result in positive revisions to proved developed and proved undeveloped reserves at December 31, 2021. It is difficult to estimate the magnitude of any potential net negative or positive change in proved reserves at December 31, 2021, due to numerous currently unknown factors, including 2021 crude oil prices, the amount of any additions to proved reserves, positive or negative revisions in proved reserves related to 2021 reservoir performance, the levels to which industry costs will change in response to 2021 crude oil prices, and management’s plans as of December 31, 2021 for developing proved undeveloped reserves. A 10% change in proved developed and proved undeveloped reserves at December 31, 2020 would result in an approximate $150 million pre-tax change in depreciation, depletion, and amortization expense for 2021 based on projected production volumes. See the Supplementary Oil and Gas Data on pages 91 through 99 in the accompanying financial statements for additional information on our oil and gas reserves.
+Impairment of Long-lived Assets: We review long-lived assets, including oil and gas fields, for impairment whenever events or changes in circumstances indicate that the carrying amounts may not be recovered. Long-lived assets are tested based on identifiable cash flows that are largely independent of the cash flows of other assets and liabilities. If the carrying amounts of the long-lived assets are not expected to be recovered by estimated undiscounted future net cash flows, the assets are impaired and an impairment loss is recorded. The amount of impairment is measured based on the estimated fair value of the assets generally determined by discounting anticipated future net cash flows, an income valuation approach, or by a market-based valuation approach, which are Level 3 fair value measurements.
+In the case of oil and gas fields, the present value of future net cash flows is based on management’s best estimate of future prices, which is determined with reference to recent historical prices and published forward prices, applied to projected production volumes and discounted at a risk-adjusted rate. The projected production volumes represent reserves, including probable reserves, expected to be produced based on a stipulated amount of capital expenditures. The production volumes, prices and timing of production are consistent with internal projections and other externally reported information. Oil and gas prices used for determining asset impairment will generally differ from those used in the standardized measure of discounted future net cash flows, since the standardized measure requires the use of historical twelve-month average prices.
+Our impairment tests of long-lived E&P producing assets are based on our best estimates of future production volumes (including recovery factors), selling prices, operating and capital costs, the timing of future production and other factors, which are updated each time an impairment test is performed. As a result of the significant decline in crude oil prices due to the economic slowdown from the COVID-19 pandemic, we reviewed our oil and gas fields and midstream operating segment asset groups for impairment at March 31, 2020. We impaired various oil and gas fields located in Malaysia, Denmark, and the Gulf of Mexico in the first quarter of 2020 primarily as a result of a lower long-term crude oil price outlook. See Note 12, Impairment in the Notes to Consolidated Financial Statements for further details. We could experience an impairment in the future if one or a combination of the following occur: the projected production volumes from oil and gas fields decrease, crude oil and natural gas selling prices decline below the long-term crude oil price outlook used in the March 31, 2020 impairment test, or future estimated capital and operating costs increase significantly.
+Hess Midstream LP: We consolidate the activities of our interest in Hess Midstream LP, which qualifies as a variable interest entity (VIE) under U.S. generally accepted accounting principles. We have concluded that we are the primary beneficiary of the VIE, as defined in the accounting standards, since we have the power through Hess Corporation’s 47% consolidated ownership interest in Hess Midstream LP to direct those activities that most significantly impact the economic performance of Hess Midstream LP, and are obligated to absorb losses or have the right to receive benefits that could potentially be significant to Hess Midstream LP. This
+conclusion was based on a qualitative analysis that considered Hess Midstream LP’s governance structure, the commercial agreements between Hess Midstream LP and us, and the voting rights established between the members, which provide us the ability to control the operations of Hess Midstream LP.
+Income Taxes: Judgments are required in the determination and recognition of income tax assets and liabilities in the financial statements. These judgments include the requirement to recognize the financial statement effect of a tax position only when management believes it is more likely than not, based on the technical merits, that the position will be sustained upon examination.
+We have net operating loss carryforwards or credit carryforwards in multiple jurisdictions and have recorded deferred tax assets for those losses and credits. Additionally, we have deferred tax assets due to temporary differences between the book basis and tax basis of certain assets and liabilities. Regular assessments are made as to the likelihood of those deferred tax assets being realized. If, when tested under the relevant accounting standards, it is more likely than not that some or all of the deferred tax assets will not be realized, a valuation allowance is recorded to reduce the deferred tax assets to the amount that is expected to be realized.
+The accounting standards require the evaluation of all available positive and negative evidence giving weight based on the evidence’s relative objectivity. In evaluating potential sources of positive evidence, we consider the reversal of taxable temporary differences, taxable income in carryback and carryforward periods, the availability of tax planning strategies, the existence of appreciated assets, estimates of future taxable income, and other factors. Estimates of future taxable income are based on assumptions of oil and gas reserves, selling prices, and other subjective operating assumptions that are consistent with internal business forecasts. In evaluating potential sources of negative evidence, we consider a cumulative loss in recent years, any history of operating losses or tax credit carryforwards expiring unused, losses expected in early future years, unsettled circumstances that, if unfavorably resolved, would adversely affect future operations and profit levels on a continuing basis in future years, and any carryback or carryforward period so brief that a significant deductible temporary difference expected to reverse in a single year would limit realization of tax benefits. Due to a sustained low commodity price environment, we remained in a three-year cumulative consolidated loss position at December 31, 2020. A three-year cumulative consolidated loss constitutes objective negative evidence to which the accounting standards require we assign significant weight relative to subjective evidence such as our estimates of future taxable income. We are generally not recognizing deferred tax benefit or expense in certain countries, primarily the U.S., Denmark, and Malaysia, while we maintain valuation allowances against net deferred tax assets in these jurisdictions. In December 2019, we reversed the valuation allowance of $60 million for Guyana upon achieving first production from the Liza Phase 1 development.
+At December 31, 2020, the Consolidated Balance Sheet reflects a $5,391 million valuation allowance against the net deferred tax assets for multiple jurisdictions based on the evaluation of the accounting standards described above. The amount of the deferred tax asset considered realizable, however, could be adjusted if estimates of future taxable income change or if objective negative evidence in the form of cumulative losses is no longer present and additional weight is given to subjective evidence such as expected future growth.
+Asset Retirement Obligations: We have material legal obligations to remove and dismantle long-lived assets and to restore land or seabed at certain E&P locations. In accordance with generally accepted accounting principles, we recognize a liability for the fair value of required asset retirement obligations. In addition, the fair value of any legally required conditional asset retirement obligation is recorded if the liability can be reasonably estimated. We capitalize such costs as a component of the carrying amount of the underlying assets in the period in which the liability is incurred. In subsequent periods, the liability is accreted, and the asset is depreciated over the useful life of the related asset. We estimate the fair value of these obligations by discounting projected future payments that will be required to satisfy the obligations. In determining these estimates, we are required to make several assumptions and judgments related to the scope of dismantlement, timing of settlement, interpretation of legal requirements, inflationary factors and discount rate. In addition, there are other external factors, which could significantly affect the ultimate settlement costs or timing for these obligations including changes in environmental regulations and other statutory requirements, fluctuations in industry costs and foreign currency exchange rates and advances in technology. As a result, our estimates of asset retirement obligations are subject to revision due to the factors described above. Changes in estimates prior to settlement result in adjustments to both the liability and related asset values, unless the field has ceased production, in which case changes are recognized in our Consolidated Statement of Income. See Note 8, Asset Retirement Obligations.
+Retirement Plans: We have funded non-contributory defined benefit pension plans, an unfunded supplemental pension plan and an unfunded postretirement medical plan. We recognize the net change in the funded status of the projected benefit obligation for these plans in the Consolidated Balance Sheet. The determination of the obligations and expenses related to these plans are based on several actuarial assumptions. These assumptions represent estimates made by us, some of which can be affected by external factors. The most significant assumptions relate to:
+Discount rates used for measuring the present value of future plan obligations and net periodic benefit cost: The discount rates used to estimate our projected benefit obligations and net periodic benefit cost is based on a portfolio of high-quality, fixed income debt instruments with maturities that approximate the expected payment of plan obligations. At December 31, 2020, a 0.25% decrease in the discount rate assumptions would increase projected benefit obligations by approximately $145 million and would decrease forecasted 2021 annual net periodic benefit income by approximately $10 million. The increase in the projected benefit obligations
+would decrease the funded status of our pension plans, but any decrease in the funded status would be partially mitigated by increases in the fair value of fixed income investments in the asset portfolios.
+Expected long-term rates of returns on plan assets: The expected return on plan assets is developed from the expected future returns for each asset category, weighted by the target allocation of plan assets to that asset category. The future expected return assumptions for individual asset categories are largely based on inputs from various investment experts regarding their future return expectations for particular asset categories. At December 31, 2020, a 0.25% decrease in the expected long-term rates of return on plan assets assumption would decrease forecasted 2021 annual net periodic benefit income by approximately $10 million.
+Other assumptions include the rate of future increases in compensation levels and expected participant mortality.
+Derivatives: We utilize derivative instruments, including futures, forwards, options and swaps, individually or in combination to mitigate our exposure to fluctuations in the prices of crude oil and natural gas, as well as changes in interest and foreign currency exchange rates. All derivative instruments are recorded at fair value in our Consolidated Balance Sheet. Our policy for recognizing the changes in fair value of derivatives varies based on the designation of the derivative. The changes in fair value of derivatives that are not designated as hedges are recognized currently in earnings. Derivatives may be designated as hedges of expected future cash flows or forecasted transactions (cash flow hedges), or hedges of changes in fair value of recognized assets and liabilities or of unrecognized firm commitments (fair value hedges). Changes in fair value of derivatives that are designated as cash flow hedges are recorded as a component of other comprehensive income (loss). Amounts included in Accumulated other comprehensive income (loss) for cash flow hedges are reclassified into earnings in the same period that the hedged item is recognized in earnings. Changes in fair value of derivatives designated as fair value hedges are recognized currently in earnings. The change in fair value of the related hedged item is recorded as an adjustment to its carrying amount and recognized currently in earnings.
+Fair Value Measurements: We use various valuation approaches in determining fair value for financial instruments, including the market and income approaches. Our fair value measurements also include non-performance risk and time value of money considerations. Counterparty credit is considered for receivable balances, and our credit is considered for accrued liabilities.
+We also record certain nonfinancial assets and liabilities at fair value when required by generally accepted accounting principles. These fair value measurements are recorded in connection with business combinations, qualifying non-monetary exchanges, the initial recognition of asset retirement obligations and any impairment of long-lived assets, equity method investments or goodwill.
+We determine fair value in accordance with the fair value measurements accounting standard which established a hierarchy for the inputs used to measure fair value based on the source of the inputs, which generally range from quoted prices for identical instruments in a principal trading market (Level 1) to estimates determined using related market data (Level 3), including discounted cash flows and other unobservable data. Measurements derived indirectly from observable inputs or from quoted prices from markets that are less liquid are considered Level 2. When Level 1 inputs are available within a particular market, those inputs are selected for determination of fair value over Level 2 or 3 inputs in the same market. Multiple inputs may be used to measure fair value; however, the level assigned to a fair value measurement is based on the lowest significant input level within this fair value hierarchy.
+Environment, Health and Safety
+Our long-term vision and values provide a foundation for how we do business and define our commitment to meeting high standards of corporate citizenship and creating a long lasting positive impact on the communities where we do business. Our strategy is reflected in our EHS & SR policies and by a management system framework that helps protect our workforce, customers and local communities. Our management systems are intended to promote internal consistency, adherence to policy objectives and continual improvement in EHS & SR performance. Improved performance may, in the short-term, increase our operating costs and could also require increased capital expenditures to reduce potential risks to our assets, reputation and license to operate. In addition to enhanced EHS & SR performance, improved productivity and operational efficiencies may be realized from investments in EHS & SR. We have programs in place to evaluate regulatory compliance, audit facilities, train employees, prevent and manage risks and emergencies and to generally meet corporate EHS & SR goals and objectives.
+Environmental Matters
+We recognize that climate change is a global environmental concern. We assess, monitor and take measures to reduce our carbon footprint at existing and planned operations. The EPA has adopted a series of GHG monitoring, reporting, and emissions control rules for the oil and natural gas industry, and the U.S. Congress has, from time to time, considered adopting further legislation to reduce GHG emissions. In addition, states have taken measures to reduce emissions of GHGs, primarily through the development of GHG emission inventories and/or regional GHG cap-and-trade programs. At the international level, the Paris Agreement on climate change aimed to enhance global response to global temperature changes and to reduce GHG emissions, among other things. We are committed to complying with all GHG emissions regulations that apply to our operations, including those related to venting or flaring of natural gas, and the responsible management of GHG emissions at our facilities. While we monitor climate-related regulatory initiatives and international public policy issues, the current state of ongoing international climate initiatives and any related domestic
+actions make it difficult to assess the timing or effect on our operations or to predict with certainty the future costs that we may incur in order to comply with future international treaties, legislation or new regulations. However, future restrictions on emissions of GHGs, or related measures to encourage use of low carbon energy could result in higher capital expenditures and operating expenses for us and the oil and gas industry in general and may reduce demand for our products, as described under Regulatory, Legal and Environmental Risks in Item 1A. Risk Factors.
+We will have continuing expenditures for environmental assessment and remediation. Sites where corrective action may be necessary include E&P facilities, sites from discontinued operations where we retained liability and, although not currently significant, EPA “Superfund” sites where we have been named a potentially responsible party. We accrue for environmental assessment and remediation expenses when the future costs are probable and reasonably estimable. For additional information, see Item 3. Legal Proceedings. At December 31, 2020, our reserve for estimated remediation liabilities was approximately $65 million. We expect that existing reserves for environmental liabilities will adequately cover costs to assess and remediate known sites. Our remediation spending was approximately $15 million in 2020 (2019: $20 million; 2018: $15 million). The amount of other expenditures incurred to comply with federal, state, local and foreign country environmental regulations is difficult to quantify as such costs are captured as mostly indistinguishable components of our capital expenditures and operating expenses.
+Health and Safety Matters
+The crude oil and natural gas industry is regulated at federal, state, local and foreign government levels regarding the health and safety of E&P operations. Such laws and regulations relate to, among other matters, occupational safety, the use of hydraulic fracturing to stimulate crude oil and natural gas production, well control and integrity, process safety and equipment integrity, and may include permitting and disclosure requirements, operating restrictions and other conditions on the development of crude oil and natural gas. The level of our expenditures to comply with federal, state, local and foreign country health and safety regulations is difficult to quantify as such costs are captured as mostly indistinguishable components of our capital expenditures and operating expenses. While compliance with laws and regulations relating to health and safety matters increases the overall cost of business for us and the oil and gas industry in general, it has not had, to date, a material adverse effect on our operations, financial condition or results of operations.
+Occupational Safety: We are subject to the requirements set forth under federal workplace standards by the OSHA and comparable state statutes that regulate the protection of the health and safety of workers. Under OSHA and other federal and state occupational safety and health laws and laws of foreign countries in which we operate, we must develop, maintain and disclose certain information about hazardous materials used, released, or produced in our operations.
+Production and Well Integrity: Our U.S. onshore production facilities are subject to U.S. federal government, state and local regulations regarding the use of hydraulic fracturing and well control and integrity. Our offshore production facilities in the Gulf of Mexico are subject to the U.S. federal government’s Safety and Environmental Management System regulations, which provide a systematic approach for identifying, managing and mitigating hazards. Adapting to new technical standards and procedures in production and in our well integrity management system is fundamental to our aim of protecting the environment as well as the health and safety of our workforce and the communities in which we operate, and to safeguarding our product.
+Process Safety and Equipment Integrity: We are also regulated at federal, state, local and foreign government levels regarding process safety and the integrity of our equipment, including OSHA’s Process Safety Management of Highly Hazardous Chemicals standard. ICE are barriers and safeguards that prevent or mitigate process safety incidents through detection, isolation, containment, control or emergency preparedness and response within our facilities. We have established ICE performance standards, which set specific requirements and criteria for inspections and tests that help to ensure ICE barriers are effective. We conduct assessments collaboratively with our operated assets, subject matter experts and technical authorities to evaluate compliance with corporate and asset environment, health and safety standards and procedures, as well as with applicable regulations. For additional information on our emergency response and incident mitigation activities, see Emergency Preparedness and Response Plans and Procedures in Items 1 and 2. Business and Properties.

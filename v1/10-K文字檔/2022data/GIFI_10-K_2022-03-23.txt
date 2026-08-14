@@ -1,0 +1,455 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following “Management’s Discussion and Analysis of Financial Condition and Results of Operations” is provided to assist readers in understanding our financial performance during the periods presented and significant trends that may impact our future performance. The results of operations reported and summarized below are not necessarily indicative of future operating results (refer to “Cautionary Statement on Forward-Looking Information” for further discussion). This discussion should be read in conjunction with our Financial Statements and the related notes thereto. References to “Notes” relate to the Notes to our Financial Statements in Item 8. Certain terms are defined in the “Glossary of Terms” beginning on page ii.
+Overview
+We are a leading fabricator of complex steel structures and modules and provider of specialty services, including project management, hookup, commissioning, repair, maintenance, scaffolding, coatings, civil construction and staffing services to the industrial and energy sectors. Our customers include U.S. and, to a lesser extent, international energy producers; refining, petrochemical, LNG, industrial and power operators; and EPC companies. We currently operate and manage our business through two operating divisions (“Fabrication & Services” and “Shipyard”) and one non-operating division (“Corporate”), which represent our reportable segments. Our corporate headquarters is located in Houston, Texas and our primary operating facilities are located in Houma, Louisiana.
+On April 19, 2021, we sold our Shipyard Division operating assets and certain construction contracts (“Shipyard Transaction”) and intend to wind down our remaining Shipyard Division operations by the third quarter 2022. We determined the Shipyard Division operations associated with the Shipyard Transaction, and associated with certain previously closed Shipyard Division facilities, to be discontinued operations in 2021 and have recast historical financial information accordingly. See “Description of Business” in Item 1 and Note 12 for further discussion of our reportable segments and Note 3 for further discussion of the Shipyard Transaction and our discontinued operations.
+On December 1, 2021, we acquired (“DSS Acquisition”) the services and industrial staffing businesses (“DSS Business”) of Dynamic Industries, Inc. (“Dynamic”). The operating results of the DSS Business are included within our Fabrication & Services Division. See Note 4 for further discussion of the DSS Acquisition.
+Notable projects completed in recent years by our Fabrication & Services Division include the fabrication of marine docking structures, modules for an offshore facility and an offshore jacket and deck; material supply for an offshore jacket and deck; and expansion of a paddlewheel riverboat. Other significant completed projects for our Fabrication & Services Division include the fabrication of modules for a petrochemical facility, a meteorological tower and platform for an offshore wind project, and wind turbine foundations for the first offshore wind project in the U.S.; and construction of two liftboats servicing the Gulf of Mexico (“GOM”), a production jacket for the GOM, and the first single point anchor reservoir hull fabricated in the U.S.
+Impacts to Operations from Oil Price Volatility and COVID-19
+For the last several years, the price of oil has experienced significant volatility, resulting in reductions in capital spending and drilling activities from our traditional offshore oil and gas customer base. Consequently, our operating results and cash flows have been negatively impacted as we experienced reductions in revenue, lower margins due to competitive pricing, under-utilization of our operating facilities and resources, and losses on certain projects. The ongoing global coronavirus pandemic (“COVID-19”) added another layer of pressure and uncertainty on oil prices and our end markets, which further impacted our operations during 2021 and 2020. In addition, our operations (as well as the operations of our customers, subcontractors and counterparties) were negatively impacted by the physical distancing, quarantine and isolation measures recommended by national, state and local authorities on large portions of the populations, and mandatory business closures that were enacted in an attempt to control the spread of COVID-19, and which could be reenacted in response to new and emerging strains and variants of COVID-19 or any future major public health crisis. We continue to monitor the impact of COVID-19 on our operations and recognize that it could continue to negatively impact our business and results of operations in 2022 and beyond.
+The ultimate business and financial impacts of oil price volatility and COVID-19 on our business and results of operations continues to be uncertain, but the impacts have included, or may include, among other things, reduced bidding activity; suspension or termination of backlog; deterioration of customer financial condition; potential supply interruptions; and unanticipated project costs due to project disruptions and schedule delays, material price increases, lower labor productivity, increased employee and contractor absenteeism and turnover, craft labor hiring challenges, lack of performance by subcontractors and suppliers, and contract disputes. Our estimates in future periods will be revised for any events and changes in circumstances arising after the date of this Report for the impacts of oil price volatility, COVID-19 and Russia’s invasion of Ukraine in February 2022. See Note 2 for further discussion of the impacts of the aforementioned on our projects, and “Risk Factors” in Item 1A and Note 1 for further discussion of the impacts of oil price volatility, COVID-19 and Russia’s invasion of Ukraine.
+Other Impacts to Operations
+Hurricane Ida - During 2021, our operations were impacted by Hurricane Ida, which made landfall near Houma, Louisiana on August 29, 2021, as a high-end Category 4 hurricane, with high winds, heavy rains and storm surge causing significant damage and power outages throughout the region. Our F&S Facility did not experience significant flood damage; however, the high winds and heavy rain damaged multiple buildings and equipment and resulted in significant debris throughout the facility. As a result of the power outages, damage to buildings and debris, the operations at our F&S Facility were temporarily suspended and we immediately commenced cleanup and restoration efforts. While cleanup and restoration efforts are ongoing, we recommenced our operations before the end of the third quarter 2021. As a result of the temporary suspension of operations our operating results were negatively impacted due to reduced utilization of our facilities and resources. See Note 2 for further discussion of the impacts of Hurricane Ida.
+Forty-Vehicle Ferry Projects - During 2020, our first forty-vehicle ferry project was damaged by an overhead crane, which disengaged from its tracks, and landed on the vessel hull that was under construction. In addition, we experienced challenges during sea trials in January 2022 for the second vessel and have previously experienced construction challenges on both vessels, including increases in forecast costs. We believe the challenges experienced are the result of vessel design deficiencies that are the responsibility of the customer and have filed a lawsuit against the customer. The projects may be impacted by future challenges with, and resolution of, the vessel design deficiencies. See Note 2 for further discussion of our forty-vehicle ferry projects.
+Initiatives to Improve Operating Results and Generate Stable, Profitable Growth
+Phase One - During 2020, we outlined a strategy to address our operational, market and economic challenges and position the Company to pursue stable, profitable growth. Underpinning this strategy was a focus on the following initiatives:
+•
+Mitigate the impacts of COVID-19 on our operations, employees and contractors;
+•
+Reduce our risk profile;
+•
+Preserve and improve our liquidity;
+•
+Improve our resource utilization and centralize key project resources;
+•
+Improve our competitiveness and project execution; and
+•
+Reduce our reliance on the offshore oil and gas construction sector and pursue new growth end markets, including:
+-
+Fabricating modules, piping systems and other structures for onshore refining, petrochemical, LNG and industrial facilities, and
+-
+Fabricating foundations, secondary steel components and support structures for offshore wind developments.
+Phase Two - During 2021, we continued to advance these initiatives, which have provided a foundation for our future success, and commenced the next phase of our strategic transformation, which is focused on generating stable, profitable growth. Underpinning this strategy is a focus on the following initiatives:
+•
+Expand our skilled workforce;
+•
+Pursue additional growth end markets and increase our T&M versus fixed price revenue mix, including:
+-
+Diversifying our offshore services customer base, increasing our offshore services offerings and expanding our services business to include onshore facilities along the Gulf Coast, and
+-
+Fabricating structures in support of our customers as they make energy transitions away from fossil fuels.
+Progress on our Phase One and Phase Two Initiatives
+Efforts to mitigate the impacts of COVID-19 on our operations, employees and contractors - We are continuing to take actions to mitigate the impacts of COVID-19 on our operations while ensuring the safety and well-being of our employees and contractors.
+•
+COVID-19 measures - We have taken proactive actions to mitigate the ongoing impacts of COVID-19 on our operations, while ensuring the safety and well-being of our workforce. We have established protocols to monitor employee and visitor temperatures prior to their entry into our facilities, implemented employee and visitor wellness questionnaires, maintain appropriate workplace distancing (including allowing some employees to work remotely) and perform regular monitoring of office and yard personnel for compliance. We have also installed hand sanitizing stations and taken additional actions to more frequently sanitize our facilities. We continue to monitor employee absenteeism and the reasons for such absences and have protocols for handling employees who have tested positive for COVID-19 or have come in contact with individuals that tested positive for COVID-19. In addition, we have established protocols for employees to return to work that test positive for COVID-19, including requiring a negative COVID-19 antigen test prior to returning to work.
+•
+Pursuit of force majeure - We are providing appropriate notices to our customers and making the appropriate claims for extensions of schedule for our projects which have been impacted by COVID-19.
+•
+Loan agreement - In April 2020, we entered into a loan agreement for proceeds of $10.0 million (“PPP Loan”) pursuant to the Paycheck Protection Program (“PPP”) under the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”). The proceeds were used for payroll costs, rent and utilities, of which approximately 93% was used for payroll costs. In July 2021, the SBA approved our application for forgiveness of $8.9 million of the PPP Loan, plus accrued interest, and we repaid the remaining balance of the PPP Loan. See “Liquidity and Capital Resources” below and Note 5 for further discussion of the PPP Loan.
+Efforts to reduce our risk profile - The completion of the Shipyard Transaction improved our risk profile by removing potential future risks associated with the Divested Shipyard Contracts that represented approximately 90% of our backlog and had durations that extended through 2024. Further, the wind down of the Shipyard Division operations after completion of the Active Retained Shipyard Contracts will further reduce our risk profile as it will position us for profitable growth in existing and new higher-margin markets associated with our Fabrication & Services Division. See “Operating Segments” below and Note 2 for further discussion of our project impacts.
+Efforts to preserve and improve our liquidity - We continue to take actions to preserve and improve our liquidity, and at December 31, 2021, our cash and short-term investments totaled $54.6 million. To preserve our liquidity position, we have undertaken cost reduction initiatives (including reducing the compensation of our executive officers and directors and reducing the size of our board in 2020), monetized under-utilized assets and facilities (including the sale of assets held for sale for net proceeds of $4.4 million in 2021 and $1.7 million in 2020) and are maintaining an ongoing focus on project cash flow management. Further, as discussed above, we received the PPP Loan in the second quarter 2020, which provided funding necessary to offset the immediate and anticipated impacts of COVID-19. It also provided us important additional liquidity, which is important because a strong balance sheet is required to execute our backlog and compete for new project awards, and we experience significant monthly fluctuations in our working capital. In addition, as a result of the Shipyard Transaction and anticipated wind down of the Shipyard Division operations, our bonding, letters of credit and working capital requirements related to the Divested Shipyard Contracts and ongoing Shipyard Division operations have been significantly reduced.
+Efforts to improve our resource utilization and centralize our key project resources - We have improved our resource utilization and centralized our key project resources through the rationalization and integration of our facilities and operations.
+•
+Combination of our Fabrication Division and Services Division - During the first quarter 2020, we combined our Fabrication and Services Divisions to form an integrated new division called Fabrication & Services. The integration has enabled us to capitalize on the best practices and execution experience of the former divisions, conform processes and procedures, maximize the utilization of our resources (including reducing overhead costs) and improve project execution.
+•
+Closure of Jennings Facility and Lake Charles Facility - During the fourth quarter 2020, we closed our Jennings Facility and Lake Charles Facility, reducing overhead costs, improving utilization and representing a preliminary step in the wind down of our Shipyard Division operations discussed further below.
+•
+Completion of Shipyard Transaction and anticipated wind down of Shipyard Division operations - During the second quarter 2021, we completed the Shipyard Transaction and intend to wind down the Shipyard Division operations upon completion of the Active Retained Shipyard Contracts, which is anticipated to occur by the third quarter 2022. The Shipyard Transaction and wind down of the Shipyard Division operations is expected to reduce overhead costs, improve utilization and enable senior management to focus on existing and new higher-margin markets associated with our Fabrication & Services Division.
+Efforts to improve our competitiveness and project execution - We have taken, and continue to take, actions to improve our competitiveness and project execution by enhancing our proposal, estimating and operations resources, processes and procedures. Our actions include strategic changes in management and key personnel, the addition of functional expertise, project management training, development of a formal “lessons learned” program, and other measures designed to strengthen our personnel, processes and procedures. Further, we are taking a disciplined approach to pursuing and bidding project opportunities, putting more rigor around our bid estimates to provide greater confidence that our estimates are achievable, increasing accountability and providing incentives for the execution of projects in line with our original estimates and subsequent forecasts, and incorporating previous experience into the bidding and execution of future projects.
+Efforts to expand our skilled workforce - We are focused on ways to improve retention and enhance and add to our skilled, craft personnel, as we believe a strong workforce will be a key differentiator in pursuing new project awards given the scarcity of available skilled labor. The DSS Acquisition in the fourth quarter 2021 nearly doubled our skilled workforce, expanded our geographic footprint for skilled labor, and will contribute to the retention and recruitment of personnel.
+Efforts to reduce our reliance on the offshore oil and gas construction sector, pursue new growth end markets and increase our T&M versus fixed price revenue mix - We are continuing to pursue initiatives to reduce our reliance on the offshore oil and gas construction sector and grow and diversify our business.
+•
+Fabricate onshore modules, piping systems and structures - We continue to focus our business development efforts on the fabrication of modules, piping systems and other structures for onshore refining, petrochemical, LNG and industrial facilities. We have experienced success with several smaller project opportunities, and our volume of bidding activity for onshore modules, piping systems and structures is increasing; however, our pursuit of large project opportunities has been impacted by, among other things, the timing and delay of certain opportunities due in part to COVID-19, volatile oil prices and an ongoing competitive market environment. We continue to believe that our strategic location in Houma, Louisiana and track record of quality and on-time completion of onshore modules position us well to compete in the onshore fabrication market. However, the competitive environment we are experiencing for large project opportunities indicates that there continues to be excess capacity in our end markets. While we continue to have a pipeline of opportunities, we intend to remain disciplined to ensure we do not take unnecessary risks associated with the long-term, fixed-price nature of such projects. The timing of any large project opportunities may also be impacted by ongoing uncertainty created by oil price volatility, COVID-19 and Russia’s invasion of Ukraine in February 2022 and the U.S. and other countries actions in response. In the interim, we continue to strengthen our relationships with key customers and strategic partners and enhance and rationalize our resources as discussed above.
+•
+Fabricate offshore wind foundations, secondary steel components and support structures - We continue to believe that current initiatives, and potential future requirements, to provide electricity from renewable and green sources will result in growth of offshore wind projects. Furthermore, we believe that we possess the expertise to fabricate jacket foundations, secondary steel components and support structures for this emerging market. This is demonstrated by our previous fabrication of wind turbine foundations for the first offshore wind project in the U.S. and the fabrication of a meteorological tower and platform for an offshore wind project. While we believe we have the capability to participate in this emerging market, we do not expect meaningful opportunities in the near term.
+•
+Diversify our offshore services customer base, increase our offshore services offerings and expand our services business to include onshore facilities along the Gulf Coast - We believe diversifying and expanding our services business will deliver a more stable revenue stream while providing underpinning work to recruit, develop and retain our craft professionals. The DSS Acquisition in the fourth quarter 2021 accelerated our progress in this initiative and provides a stronger platform to continue such progress. We are also pursuing opportunities to partner with original equipment manufacturers to provide critical services to our customers along the Gulf Coast.
+•
+Fabricate structures in support of our customers as they make energy transitions away from fossil fuels - We believe that our expertise and capabilities provide us with the necessary foundation to fabricate steel structures in support of our customers as they transition away from fossil fuels to green energy end markets. Examples of these opportunities involve refiners who are looking to process biofuels and customers looking to embrace the growing hydrogen economy.
+Operating Outlook
+Our focus remains on securing profitable new project awards and backlog in the near-term and generating operating income and cash flows in the longer-term, while ensuring the safety and well-being of our employees and contractors, which has been challenged due to COVID-19 and other market factors. Our success, including achieving the aforementioned initiatives, will be determined by, among other things:
+•
+Oil and gas prices and the level of volatility in such prices, including the impact of environmental regulations that restrict the oil and gas industry under the current administration and Congress and further developments related to Russia’s invasion of Ukraine in February 2022 and the U.S. and other countries actions in response;
+•
+COVID-19, for which the ultimate business and financial impacts cannot be reasonably estimated at this time;
+•
+The level of fabrication opportunities in our traditional offshore markets and the new markets we are pursuing, including refining, petrochemical, LNG and industrial facilities, green energy and offshore wind developments (especially in light of the current administration and Congress);
+•
+Our ability to secure new project awards through competitive bidding and/or alliance and partnering arrangements;
+•
+Our ability to execute projects within our cost estimates and successfully manage them through completion (including the Active Retained Shipyard Contracts);
+•
+Our ability to hire, develop, motivate and retain key personnel and craft labor to execute our projects;
+•
+The successful integration of our Fabrication Division and Services Division and the DSS Business;
+•
+The successful wind down of our Shipyard Division operations;
+•
+The successful restoration of our F&S Facility within our insurance coverage amounts, resulting from damage caused by Hurricane Ida; and
+•
+Our ability to resolve our dispute with a customer related to the construction of two MPSVs. See Note 10 and “Legal Proceedings” in Item 3 for further discussion of the dispute.
+In addition, in the near-term, utilization of our Fabrication & Services Division will be impacted by the delay in timing of new project awards and will be impacted by continued inefficiencies and disruptions associated with COVID-19 related health and safety mitigation measures, employee absenteeism and turnover, craft labor hiring challenges, engineering delays, and supplier and subcontractor disruptions. Our near-term results may also be adversely affected by costs associated with (i) the retention of certain personnel that previously supported both our operating divisions but may be temporarily under-utilized as we evaluate our resource requirements to support our future operations in light of the Shipyard Transaction and DSS Acquisition, and (ii) investments in key personnel and process improvement efforts to support our aforementioned initiatives. See Note 1 for further discussion of the impacts of oil price volatility and COVID-19 and “Results of Operations” below and Note 2 for further discussion of our project impacts.
+New Project Awards and Backlog
+New project awards represent expected revenue values of commitments received during a given period, including scope growth on existing commitments. A commitment represents authorization from our customer to begin work or purchase materials pursuant to a written agreement, letter of intent or other form of authorization. Backlog represents the unrecognized revenue for our new project awards and at December 31, 2021, was consistent with the value of remaining performance obligations for our contracts required to be disclosed under Topic 606 and presented in Note 2. In general, a performance obligation is a contractual obligation to construct and/or transfer a distinct good or service to a customer. The transaction price of a contract is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. We believe that backlog, a non-GAAP financial measure, provides useful information to investors as it represents work that we are obligated to perform under our current contracts. New project awards and backlog may vary significantly each reporting period based on the timing of our major new contract commitments.
+Projects in our backlog are generally subject to delay, suspension, termination, or an increase or decrease in scope at the option of the customer; however, the customer is required to pay us for work performed and materials purchased through the date of termination, suspension, or decrease in scope. Depending on the size of the project, the delay, suspension, termination or increase or decrease in scope of any one contract could significantly impact our backlog and change the expected amount and timing of revenue recognized. New project awards by Division for 2021 and 2020, are as follows (in thousands):
+Backlog by Division at December 31, 2021 and 2020, is as follows (in thousands):
+(1)
+In connection with the Shipyard Transaction, backlog of $303.1 million associated with the Divested Shipyard Contracts was sold. We expect to recognize all of our backlog at December 31, 2021, as revenue in 2022. The timing of recognition of the revenue presented in our backlog is based on our current estimates to complete the projects. Certain factors and circumstances could cause changes in the amounts ultimately recognized and the timing of recognition of revenue from our backlog. See “Risk Factors” in Item 1A for further discussion of our backlog and Note 3 for further discussion of the Shipyard Transaction.
+(2)
+At December 31, 2021, our significant projects in backlog included the following:
+(i)
+Construction of two forty-vehicle ferries within our Shipyard Division. We estimate completion of the second vessel in the second quarter 2022 and the first vessel in the third quarter 2022, subject to the potential schedule impacts discussed further in “Overview” above and Note 2; and
+(ii)
+Construction of a seventy-vehicle ferry within our Shipyard Division. We estimate completion of the vessel in the third quarter 2022.
+Critical Accounting Policies
+Our Financial Statements are prepared in accordance with generally accepted accounting principles in the U.S. (“GAAP”) which require us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses and related disclosure of contingent assets and liabilities. We continually evaluate our estimates and judgments based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. We also discuss the development and selection of our critical accounting policies with the Audit Committee of our Board of Directors. We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our Financial Statements.
+Revenue Recognition
+General - Our revenue is derived from customer contracts and agreements that are awarded on a competitively bid and negotiated basis using a range of contracting options, including fixed-price, unit-rate and T&M. Our contracts primarily relate to the fabrication and construction of steel structures, modules and marine vessels, and project management services and other service arrangements. We recognize revenue for our contracts in accordance with Accounting Standards Update (“ASU”) 2014-09, Topic 606 “Revenue from Contracts with Customers” (“Topic 606”).
+Fixed-Price and Unit-Rate Contracts - Revenue for our fixed-price and unit-rate contracts is recognized using the percentage-of-completion method, based on contract costs incurred to date compared to total estimated contract costs (an input method). Contract costs include direct costs, such as materials and labor, and indirect costs attributable to contract activity. Material costs that are significant to a contract and do not reflect an accurate measure of project completion are excluded from the determination of our contract progress. Revenue for such materials is only recognized to the extent of costs incurred. Revenue and gross profit for contracts accounted for using the percentage-of-completion method can be significantly affected by changes in estimated cost to complete such contracts. Significant estimates impacting the cost to complete a contract include: forecast costs of engineering, materials, equipment and subcontracts; forecast costs of labor and labor productivity; schedule durations, including subcontractor and supplier progress; contract disputes, including claims; achievement of contractual performance requirements; and contingency, among others. Although our customers retain the right and ability to change, modify or discontinue further work at any stage of a contract, in the event our customers discontinue work, they are required to compensate us for the work performed to date. The cumulative impact of revisions in total cost estimates during the progress of work is reflected in the period in which these changes become known, including, to the extent required, the reversal of profit recognized in prior periods and the recognition of losses expected to be incurred on contracts. Due to the various estimates inherent in our contract accounting, actual results could differ from those estimates, which could result in material changes to our Financial Statements and related disclosures.
+T&M Contracts - Revenue for our T&M contracts is recognized at contracted rates when the work is performed, the costs are incurred and collection is reasonably assured. Our T&M contracts provide for labor and materials to be billed at rates specified within the contract. The consideration from the customer directly corresponds to the value of our performance completed at the time of invoicing.
+Variable Consideration - Revenue and gross profit for contracts can be significantly affected by variable consideration, which can be in the form of unapproved change orders, claims, incentives, and liquidated damages that may not be resolved until the later stages of the contract or after the contract has been completed. We estimate variable consideration based on the amount we expect to be entitled and include estimated amounts in transaction price to the extent it is probable that a significant future reversal of cumulative revenue recognized will not occur or when we conclude that any significant uncertainty associated with the variable consideration is resolved.
+See Note 1 for further discussion of our revenue recognition policy and Note 2 for further discussion of projects with significant changes in estimated margins during 2021 and 2020 and discussion of unapproved change orders, claims, incentives and liquidated damages for our projects.
+Acquisition-Related Purchase Price Allocation
+The Purchase Price associated with the DSS Acquisition was allocated to the major categories of assets and liabilities acquired based upon preliminary estimates of their fair values at the Acquisition Date, which were based, in part, upon outside appraisals for certain assets, including property and equipment and specifically-identifiable intangible assets. The excess of the Purchase Price over the estimated fair value of the net tangible and identifiable intangible assets acquired was recorded as goodwill. The purchase price allocation and related amortization periods are based on preliminary information and are subject to change when additional information concerning final asset and liability valuations is obtained. We have not completed our final assessment of the fair value of purchased intangible assets, property, and machinery and equipment. Our final purchase price allocation may result in adjustments to certain assets and liabilities, including the residual amount allocated to goodwill. See Note 4 for further discussion of the DSS Acquisition.
+Long-Lived Assets
+Goodwill - Our goodwill is associated with the DSS Acquisition on December 1, 2021. Goodwill is not amortized, but instead is reviewed for impairment at least annually at a reporting unit level, absent any indicators of impairment. Our Fabrication & Services Division includes one reporting unit associated with our DSS Acquisition. In evaluating goodwill for impairment, we have the option to first assess qualitative factors to determine whether it is more likely than not that the fair value of our reporting unit is greater than its carrying value. If we determine that it is more likely than not that the carrying value of the reporting unit is greater than its fair value, we perform a quantitative impairment test by calculating the fair value of the reporting unit and comparing it to the carrying value of the reporting unit. Because of the proximity of the Acquisition Date to December 31, 2021, we performed a qualitative assessment at year-end to determine whether our goodwill was impaired. Based on this qualitative assessment, we determined that it was more likely than not that the fair value of our reporting unit is greater than its carrying value. We intend to perform our future annual impairment assessments during the fourth quarter of each year based upon balances as of the beginning of that year’s fourth quarter. If, based on future assessments, our goodwill is deemed to be impaired, the impairment would result in a charge to our operating results in the year of impairment. See Note 4 for further discussion of the DSS Acquisition and related goodwill.
+Other Long-Lived Assets - Our long-lived assets, which include property, plant and equipment, lease assets (included within other noncurrent assets), and finite-lived intangible assets (associated with the DSS Acquisition) are reviewed for impairment when events or changes in circumstances indicate that the carrying amount may not be recoverable. If a recoverability assessment is required, we compare the estimated future undiscounted cash flow associated with the asset or asset group to its carrying amount to determine if an impairment exists. An asset group constitutes the minimum level for which identifiable cash flows are principally independent of the cash flows of other assets or asset groups. An impairment loss is measured by comparing the fair value of the asset or asset group to its carrying amount and the excess of the carrying amount of the asset or asset group over its fair value is recorded as an impairment charge. Fair value is determined based on discounted cash flows, appraised values or third-party indications of value, as appropriate. See Note 2 for discussion of our long-lived asset impairments associated with Hurricane Ida, Note 3 for discussion of our long-lived asset impairments within discontinued operations, and Note 4 for further discussion of the DSS Acquisition and related long-lived assets.
+Assets Held for Sale
+Assets held for sale are measured at the lower of their carrying amount or fair value less cost to sell. See Note 5 for discussion of impairments of our assets held for sale.
+Income Taxes
+Income taxes have been provided for using the liability method. Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes using enacted rates expected to be in effect during the year in which the differences are expected to reverse. Due to state income tax laws related to the apportionment of revenue for our projects, judgment is required to estimate the effective tax rate expected to apply to tax differences that are expected to reverse in the future.
+A valuation allowance is provided to reserve for deferred tax assets (“DTA(s)”) if, based upon the available evidence, it is more likely than not that some or all of the DTAs will not be realized. The realization of our DTAs depends on our ability to generate sufficient taxable income of the appropriate character and in the appropriate jurisdictions.
+Reserves for uncertain tax positions are recognized when we consider it more likely than not that additional tax will be due in excess of amounts reflected in our income tax returns, irrespective of whether or not we have received tax assessments. Interest and penalties on uncertain tax positions are recorded within income tax expense. See Note 8 for further discussion of our income taxes, DTAs, and valuation allowance.
+Stock-Based Compensation
+Awards under our stock-based compensation plans are calculated using a fair value-based measurement method. We use the straight-line and graded vesting methods to recognize share-based compensation expense over the requisite service period of the award. We recognize the excess tax benefit or tax deficiency resulting from the difference between the deduction we receive for tax purposes and the stock-based compensation expense we recognize for financial reporting purposes created when common stock vests, as an income tax benefit or expense in our Statement of Operations. See Note 9 for further discussion of our stock-based and other compensation plans.
+Insurance
+We maintain insurance coverage for various aspects of our business and operations. However, we may be exposed to future losses through our use of deductibles and self-insured retentions for our exposures related to third party liability and workers’ compensation claims. We expect liabilities in excess of any deductibles and self-insured retentions to be covered by insurance; however, because we do not have an offset right, we have recorded a liability for estimated amounts in excess of our deductibles and have recorded a corresponding asset related to estimated insurance recoveries. To the extent we are self-insured, reserves are recorded based upon our estimates, with input from legal and insurance advisors. Changes in assumptions, as well as changes in actual experience, could cause these estimates to change. See Note 2 for discussion of insurance deductibles incurred during 2021 and 2020 associated with damage caused by Hurricanes Ida and Laura, respectively.
+Fair Value Measurements
+Our fair value determinations for financial assets and liabilities are based on the particular facts and circumstances. Financial instruments are required to be categorized within a valuation hierarchy based upon the lowest level of input that is significant to the fair value measurement. The three levels of the valuation hierarchy are as follows:
+•
+Level 1 - inputs are based upon quoted prices for identical instruments traded in active markets.
+•
+Level 2 - inputs are based upon quoted prices for similar instruments in active markets and model-based valuation techniques for which all significant assumptions are observable in the market.
+•
+Level 3 - inputs are based upon model-based valuation techniques for which significant assumptions are generally not observable in the market and typically reflect estimates and assumptions that we believe market participants would use in pricing the asset or liability. These include discounted cash flow models and similar valuation techniques.
+See Note 1 for further discussion of our fair value measurements.
+Results of Operations - Comparison of 2021 and 2020 (in thousands, except for percentages)
+We determined the Shipyard Division operations associated with the Shipyard Transaction, and associated with certain previously closed Shipyard Division facilities, to be discontinued operations in 2021 and have recast 2020 financial information accordingly. Further, consolidated operating and segment results for 2020 are different from previously issued Financial Statements as they have been adjusted to reflect the correction of prior period immaterial errors. See “Overview” above and Note 3 for further discussion of the Shipyard Transaction and our discontinued operations and Note 1, Note 12 and Note 13 for further discussion of the correction of the prior period immaterial errors.
+Consolidated
+Consolidated operating results for 2021 include the results of the DSS Business beginning on December 1, 2021, the Acquisition Date of the DSS Business. See Note 4 for further discussion of the DSS Acquisition.
+New Project Awards - New project awards for 2021 and 2020 were $66.5 million and $67.3 million, respectively. Significant new project awards for 2021 include small-scale fabrication and offshore services work within our Fabrication & Services Division. Significant new project awards for 2020 include:
+•
+A marine docking structures project in the second quarter 2020 and a subsea structures project in the third quarter 2020, within our Fabrication & Services Division,
+•
+Additional scopes of work for our offshore jacket and deck project in the second quarter 2020 within our Fabrication & Services Division, and
+•
+Small-scale fabrication and offshore services work within our Fabrication & Services Division.
+Revenue - Revenue for 2021 and 2020 was $93.5 million and $117.7 million, respectively, representing a decrease of 20.6%. The decrease was primarily due to:
+Lower revenue for our Fabrication & Services Division of $18.4 million, primarily attributable to:
+•
+No revenue for our paddlewheel river boat project and offshore jacket and deck project that were completed in the first quarter 2020 and third quarter 2020, respectively,
+•
+Lower revenue for our material supply, marine docking structures and offshore modules projects, and
+•
+Reduced onshore services activity, offset partially by,
+•
+Incremental revenue associated with the DSS Business,
+•
+Higher revenue for our subsea structures project, and
+•
+Increased offshore services and small-scale fabrication project activity.
+Lower revenue for our Shipyard Division of $7.6 million, primarily attributable to:
+•
+Lower revenue for our two forty-vehicle ferry projects, and
+•
+Lower revenue for our seventy-vehicle ferry project.
+Gross profit (loss) - Gross profit for 2021 was $1.7 million (1.8% of revenue) compared to a gross loss of $7.9 million (6.7% of revenue) for 2020. Gross profit for 2021 was primarily impacted by:
+•
+Project improvements of $3.3 million for our Fabrication & Services Division, offset partially by,
+•
+Project charges of $3.8 million for our Shipyard Division,
+•
+Low revenue volume for our Fabrication & Services Division,
+•
+The partial under-recovery of overhead costs associated with the under-utilization of our facilities and resources within our Fabrication & Services Division, and
+•
+Holding costs of $0.8 million for our Shipyard Division related to the two MPSVs that remain in our possession and are subject to dispute.
+The gross profit for 2021 relative to the gross loss for 2020 was primarily due to:
+•
+The aforementioned project improvements of $3.3 million for 2021 for our Fabrication & Services Division,
+•
+Project charges of $8.3 million for 2020 for our Shipyard Division, and
+•
+A higher margin mix relative to 2020 for our Fabrication & Services Division, offset partially by,
+•
+An increase in the under-recovery of overhead costs for our Fabrication & Services Division,
+•
+The aforementioned project charges of $3.8 million for 2021 for our Shipyard Division,
+•
+Project improvements of $2.7 million for 2020 for our Fabrication & Services Division, and
+•
+Lower revenue volume for our Fabrication & Services Division.
+See “Operating Segments” below and Note 2 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2021 and 2020 was $11.8 million (12.7% of revenue) and $12.7 million (10.8% of revenue), respectively, representing a decrease of 6.9%. The decrease was primarily due to:
+•
+Lower external audit and legal and advisory fees,
+•
+Cost reduction initiatives including combining our former Fabrication Division and Services Division in the first quarter 2020, and
+•
+Other cost savings including reductions in board size and the salaries of our executive officers in 2020, offset partially by,
+•
+Higher incentive plan and insurance costs,
+•
+Higher costs associated with initiatives to diversify and enhance our business, and
+•
+Incremental administrative costs associated with the DSS Business, including amortization of intangible assets.
+General and administrative expense included legal and advisory fees of $0.9 million and $1.0 million for 2021 and 2020, respectively, associated with our MPSV contract dispute, which are reflected within our Shipyard Division. See Note 10 for further discussion of our MPSV dispute.
+Impairments and (gain) loss on assets held for sale, net - Impairments and (gain) loss on assets held for sale, net for 2020 was a loss of $2.5 million and was primarily due to:
+•
+Impairments of $1.4 million associated with assets held for sale and a loss of $0.2 million associated with the sale of assets held for sale, within our Fabrication & Services Division, and
+•
+Impairments of $0.9 million associated with the relocation and consolidation of certain assets to improve operational efficiency within our Fabrication & Services Division.
+See Note 5 for further discussion of our impairments.
+Other (income) expense, net - Other (income) expense, net for 2021 and 2020 was expense of $3.3 million and income of $9.2 million, respectively. Other (income) expense, net generally represents recoveries or provisions for bad debts, gains or losses associated with the sale or disposition of property and equipment other than assets held for sale, and income or expense associated with certain nonrecurring items. Other expense for 2021 was primarily due to:
+•
+Charges of $3.2 million associated with damage caused by Hurricane Ida to our buildings and equipment at our F&S Facility within our Fabrication & Services Division,
+•
+Charges of $0.6 million associated with damage caused by Hurricane Ida to our second forty-vehicle ferry project and to the MPSVs which are in our possession and subject to dispute within our Shipyard Division,
+•
+Transaction costs of $0.5 million associated with the DSS Acquisition within our Fabrication & Services Division, and
+•
+Carry costs associated with our leased Jennings Facility and Lake Charles Facility (which were closed in the fourth quarter 2020) within our Shipyard Division, offset partially by,
+•
+Gains on the sales of equipment and scrap materials within our Fabrication & Services Division, and
+•
+Insurance recoveries associated with previous damage caused by Hurricane Laura to our Lake Charles Facility within our Shipyard Division.
+Other income for 2020 was primarily due to:
+•
+A gain of $10.0 million associated with the settlement of a contract dispute for a project completed in 2015 within our Fabrication & Services Division, offset partially by,
+•
+Charges of $0.8 million associated with damage caused by Hurricane Laura to warehouses and bulkheads at our Lake Charles Facility within our Shipyard Division.
+See Note 1 for further discussion of our settlement of the completed project dispute, Note 2 for further discussion of the impacts of Hurricanes Ida and Laura and Note 10 for further discussion of our MPSV dispute.
+Gain from extinguishment of debt - Gain from extinguishment of debt for 2021 was $9.1 million and was related to the SBA’s forgiveness of $8.9 million of our PPP Loan, plus accrued interest. See Note 7 and “Liquidity and Capital Resources” below for further discussion of our PPP Loan forgiveness.
+Interest (expense) income, net - Interest (expense) income, net for 2021 and 2020 was expense of $0.4 million and $0.3 million, respectively. Interest (expense) income, net consists of interest earned on our cash and short-term investment balances, interest incurred on the PPP Loan and the unused portion of our LC Facility, and amortization of deferred financing costs on our LC Facility. The increase in expense for 2021 relative to 2020 was primarily due to the write-off of deferred financing costs in connection with the amendment of our LC Facility and lower interest rates for the 2021 period.
+Income tax (expense) benefit - Income tax (expense) benefit for 2021 and 2020 represents state income taxes. No federal income tax benefit was recorded for either period as a full valuation allowance was recorded against our net deferred tax assets generated during the periods.
+Operating Segments
+Fabrication & Services Division
+Operating results for our Fabrication & Services Division for 2021 include the results of the DSS Business beginning on December 1, 2021, the Acquisition Date of the DSS Business. See Note 4 for further discussion of the DSS Acquisition.
+New Project Awards - New project awards for 2021 and 2020 were $66.5 million and $66.7 million, respectively. Significant new project awards for 2021 include small-scale fabrication and offshore services work. Significant new project awards for 2020 include:
+•
+A marine docking structures project in the second quarter 2020,
+•
+A subsea structures project in the third quarter 2020,
+•
+Additional scopes of work for our offshore jacket and deck project in the second quarter 2020, and
+•
+Small-scale fabrication and offshore services work.
+Revenue - Revenue for 2021 and 2020 was $81.1 million and $99.5 million, respectively, representing a decrease of 18.5%. The decrease was primarily due to:
+•
+No revenue for our paddlewheel river boat and offshore jacket and deck project that were completed in the first quarter 2020 and third quarter 2020, respectively,
+•
+Lower revenue for our material supply, marine docking structures and offshore modules projects, and
+•
+Reduced onshore services activity, offset partially by,
+•
+Incremental revenue associated with the DSS Business,
+•
+Higher revenue for our subsea structures project, and
+•
+Increased offshore services and small-scale fabrication project activity.
+Gross profit - Gross profit for 2021 and 2020 was $6.2 million (7.6% of revenue) and $1.6 million (1.6% of revenue), respectively. Gross profit for 2021 was primarily impacted by:
+•
+Project improvements of $3.3 million related to cost decreases and favorable resolution of change orders for our material supply, offshore modules and marine docking structures projects, offset partially by,
+•
+Low revenue volume due to low backlog levels, and
+•
+The partial under-recovery of overhead costs associated with the under-utilization of our facilities and resources due to low work hours.
+The increase in gross profit for 2021 relative to 2020 was primarily due to:
+•
+The aforementioned project improvements of $3.3 million for 2021, and
+•
+A higher margin mix relative to 2020, offset partially by,
+•
+An increase in the under-recovery of overhead costs due to a decrease in work hours associated with our large fabrication project activity,
+•
+Lower revenue volume, and
+•
+Project improvements of $2.7 million for 2020 on our offshore jacket and deck, paddlewheel riverboat and subsea components projects.
+The Fabrication & Services Division utilization for 2021 and 2020 benefited by $1.0 million and $1.2 million, respectively, from providing resources and facilities to our Shipyard Division for our seventy-vehicle ferry and two forty-vehicle ferry projects. See Note 2 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2021 and 2020 was $3.2 million (4.0% of revenue) and $3.4 million (3.5% of revenue), respectively, representing a decrease of 6.4%. The decrease was primarily due:
+•
+Cost reduction initiatives including combining our former Fabrication Division and Services Division during the first quarter 2020, offset partially by,
+•
+Incremental administrative costs associated with the DSS Business, including amortization of intangible assets.
+Impairments and (gain) loss on assets held for sale, net - Impairments and (gain) loss on assets held for sale, net for 2020 was a loss of $2.5 million and was primarily due to:
+•
+Impairments of $1.4 million associated with assets held for sale and a loss of $0.2 million associated with the sale of assets held for sale, and
+•
+Impairments of $0.9 million associated with the relocation and consolidation of certain assets to improve operational efficiency.
+See Note 5 for further discussion of our impairments.
+Other (income) expense, net - Other (income) expense, net for 2021 and 2020 was expense of $2.7 million and income of $10.0 million, respectively. Other expense for 2021 was primarily due to:
+•
+Charges of $3.2 million associated with damage caused by Hurricane Ida to buildings and equipment at our F&S Facility, and
+•
+Transaction costs of $0.5 million associated with the DSS Acquisition, offset partially by,
+•
+Gains on the sales of equipment and scrap materials.
+Other income for 2020 was primarily due to a gain of $10.0 million associated with the settlement of a contract dispute for a project completed in 2015. See Note 2 for further discussion of the impacts of Hurricane Ida and Note 1 for further discussion of our settlement of the completed project dispute.
+Shipyard Division
+New Project Awards - New project awards for 2020 were $0.7 million.
+Revenue - Revenue for 2021 and 2020 was $12.9 million and $20.5 million, respectively, representing a decrease of 37.1%. The decrease was primarily due to:
+•
+Lower revenue for our two forty-vehicle ferry projects due to reduced construction activities, and
+•
+Lower revenue for our seventy-vehicle ferry project due to reduced procurement activities, partially offset by increased construction activities.
+Gross loss - Gross loss for 2021 and 2020 was $4.2 million (32.9% of revenue) and $9.2 million (45.0% of revenue), respectively. The gross loss for 2021 was primarily due to:
+•
+Project charges of $4.1 million related to forecast cost increases and liquidated damages on our seventy-vehicle ferry project, and
+•
+Holding costs of $0.8 million related to the two MPSVs that remain in our possession and are subject to dispute, offset partially by,
+•
+Project improvements of $0.3 million related to forecast cost decreases on our two forty-vehicle ferry projects.
+The decrease in gross loss for 2021 relative to 2020 was primarily due to:
+•
+Project charges of $8.3 million for 2020 on our seventy-vehicle ferry and two forty-vehicle ferry projects, offset partially by,
+•
+The aforementioned net project charges of $3.8 million for 2021.
+See Note 2 for further discussion of our project impacts.
+General and administrative expense - General and administrative expense for 2021 and 2020 was $0.9 million (7.3% of revenue) and $1.0 million (5.1% of revenue), respectively, representing a decrease of 10.0%. General and administrative expense relates to legal and advisory fees associated with our MPSV contract dispute. See Note 10 for further discussion of our MPSV contract dispute.
+Other (income) expense, net - Other (income) expense, net for 2021 and 2020 was expense of $0.6 million and $0.9 million, respectively. Other expense for 2021 was primarily due to:
+•
+Charges of $0.6 million associated with damage caused by Hurricane Ida to our second forty-vehicle ferry project and to the MPSVs which are in our possession and subject to dispute, and
+•
+Carry costs associated with our leased Jennings Facility and Lake Charles Facility (which were closed in the fourth quarter 2020), offset partially by,
+•
+Insurance recoveries associated with previous damage caused by Hurricane Laura to our Lake Charles Facility.
+Other expense for 2020 was primarily due to charges of $0.8 million associated with damage caused by Hurricane Laura to warehouses and bulkheads at our Lake Charles Facility. See Note 2 for further discussion of the impacts of Hurricanes Ida and Laura and Note 10 for further discussion of our MPSV contract dispute.
+Corporate Division
+Gross loss - Gross loss for 2021 and 2020 was $0.3 million and $0.2 million, respectively.
+General and administrative expense - General and administrative expense for 2021 and 2020 was $7.7 million (8.2% of consolidated revenue) and $8.2 million (7.0% of consolidated revenue), respectively, representing a decrease of 6.7%. The decrease was primarily due to:
+•
+Lower external audit and legal and advisory fees, and
+•
+Cost savings including reductions in board size and the salaries of our executive officers in 2020, offset partially by,
+•
+Higher incentive plan and insurance costs, and
+•
+Higher costs associated with initiatives to diversify and enhance our business.
+Discontinued Operations
+Operating results from discontinued operations for 2021 include results through April 19, 2021, the Closing Date of the Shipyard Transaction. See Note 3 for further discussion of the Shipyard Transaction and our discontinued operations.
+Revenue - Revenue for 2021 and 2020 was $41.6 million and $133.2 million, respectively, representing a decrease of 68.7%. The decrease was primarily due to:
+•
+Lower revenue for our harbor tug projects as the last vessel was completed in the first quarter 2021, and
+•
+Lower revenue for our research vessel projects and towing, salvage and rescue ship projects that were sold in connection with the Shipyard Transaction in April 2021.
+Gross profit (loss) - Gross profit for 2021 was $7.7 million (18.6% of revenue) compared to a gross loss of $9.6 million (7.2% of revenue) for 2020. The gross profit for 2021 was primarily impacted by:
+•
+Project improvements of $8.4 million related to the cumulative effect of a change order (offset partially by forecast cost increases) on our towing, salvage and rescue ship projects, offset partially by,
+•
+A backlog for our discontinued operations that was generally at, or near, break-even or in a loss position, and accordingly, resulted in revenue with low or no gross profit, and
+•
+The partial under-recovery of overhead costs associated with the under-utilization of our facilities and resources.
+The gross profit for 2021 relative to the gross loss for 2020 was primarily due to:
+•
+The aforementioned project improvements of $8.4 million for 2021,
+•
+Project charges of $8.3 million for 2020 on our harbor tug projects and towing, salvage and rescue ship projects, and
+•
+A decrease in the under-recovery of overhead costs.
+See Note 3 for further discussion of our project impacts attributable to discontinued operations.
+General and administrative expense - General and administrative expense for 2021 and 2020 was $0.4 million (1.0% of revenue) and $1.4 million (1.1% of revenue), respectively, representing a decrease of 71.0%. The decrease was primarily due to the Shipyard Transaction in April 2021.
+Impairments and (gain) loss on assets held for sale - Impairments and (gain) loss on assets held for sale for 2021 and 2020 was a loss of $25.3 million and $1.6 million, respectively. The loss for 2021 was primarily due to:
+•
+Charges of $22.8 million related to the impairment of our Shipyard Division’s long-lived assets, and
+•
+Charges of $2.6 million related to transaction and other costs associated with the Shipyard Transaction.
+The loss for 2020 was primarily due to:
+•
+Charges of $1.6 million associated with impairments of drydocks sold in connection with the Shipyard Transaction,
+•
+Impairments of lease assets associated with our Lake Charles Facility, and
+•
+Closure costs associated with our Lake Charles Facility and Jennings Facility.
+See Note 3 for further discussion of the Shipyard Transaction.
+Other (income) expense, net - Other (income) expense, net for 2021 and 2020 was income of $0.6 million and expense of $0.6 million, respectively. Other income for 2021 was primarily due to a gain of $0.6 million resulting from insurance recoveries associated with damage previously caused by Hurricane Laura to a drydock that was sold in connection with the Shipyard Transaction. Other expense for 2020 was primarily due to charges of $0.5 million associated with damage caused by Hurricane Laura to our drydocks sold in connection with the Shipyard Transaction and our ninth harbor tug project.
+Liquidity and Capital Resources
+Available Liquidity
+Our primary sources of liquidity are our cash, cash equivalents, restricted cash and scheduled maturities of our short-term investments. At December 31, 2021, our cash, cash equivalents and restricted cash totaled $54.6 million as follows (in thousands):
+Our available liquidity is impacted by changes in our working capital and our capital expenditure requirements. Fluctuations in our working capital, and its components, are not unusual in our business and are impacted by the size of our projects and the mix of our backlog. Our working capital is particularly impacted by the timing of new project awards and related payments in advance of performing work, and the subsequent achievement of billing milestones or project progress on backlog. Working capital is also impacted at period-end by the timing of contract receivables collections and accounts payable payments on our projects.
+At December 31, 2021, our working capital was $55.5 million and included $54.2 million of cash, cash equivalents and current restricted cash and $1.8 million of assets held for sale. Excluding cash, cash equivalents, current restricted cash and assets held for sale, our working capital at December 31, 2021 was negative $0.5 million, and consisted of net contract assets and contract liabilities of negative $1.9 million; contract receivables and retainage of $16.0 million; inventory, prepaid expenses and other assets of $8.8 million; and accounts payable, accrued expenses and other liabilities of $23.3 million.
+The components of our working capital (excluding cash, cash equivalents, current restricted cash, assets held for sale, current assets and liabilities of discontinued operations and current maturities of long-term debt) at December 31, 2021 and 2020, and changes in such amounts during 2021 and 2020, were as follows (in thousands):
+(1)
+Contract liabilities at December 31, 2021 and 2020, include accrued contract losses of $3.9 million and $5.4 million, respectively.
+(2)
+Represents our cash position relative to revenue recognized on projects, with contract assets representing unbilled amounts that reflect future cash inflows on projects, and contract liabilities representing (i) advance payments that reflect future cash expenditures and non-cash earnings on projects and (ii) accrued contract losses that represent future cash expenditures on projects.
+(3)
+Our Statement of Cash Flows reflects changes in the above balance sheet accounts for both our continuing and discontinued operations; however, our Balance Sheet reflects the above balance sheet accounts separately for only our continuing operations. Accordingly, the “Change from Discontinued Operations” column in the table above reflects the impacts of discontinued operations to reconcile between the changes in such amounts between our Balance Sheet and our Statement of Cash Flows.
+(4)
+Changes referenced in the cash flow activity section below may differ from the changes in this table due to non-cash reclassifications and due to certain changes in balance sheet accounts being reflected within other line items on the Statement of Cash Flows, including bad debt expense, gains and losses on sales of fixed assets and other assets, and accruals for capital expenditures.
+Cash Flow Activity (in thousands)
+Operating Activities - Cash used in operating activities for 2021 and 2020 was $24.8 million and $19.0 million, respectively, and was primarily due to the net impacts of the following:
+2021 Activity
+•
+Operating loss, excluding depreciation and amortization of $5.4 million, non-cash asset impairments of $22.8 million, loss on the Shipyard Transaction of $2.6 million, gain on extinguishment of debt of $9.1 million, and stock-based compensation expense of $1.7 million;
+•
+Increase in contract assets of $6.9 million related to the timing of billings on projects, primarily due to increased unbilled positions on our Divested Shipyard Contracts and various projects within our Fabrication & Services Division, offset partially by decreased unbilled positions on our seventy-vehicle ferry project within our Shipyard Division;
+•
+Decrease in contract liabilities of $6.9 million, primarily due to the unwind of advance payments on our Divested Shipyard Contracts and our two forty-vehicle ferry projects and decrease in our accrued contract losses on our seventy-vehicle ferry and two forty-vehicle ferry projects within our Shipyard Division;
+•
+Increase in contract receivables and retainage of $0.6 million related to the timing of billings and collections on projects, primarily due to increased receivable positions on various projects within our Fabrication & Services Division, including projects associated with our DSS Acquisition, offset partially by collections on our Divested Shipyard Contracts;
+•
+Increase in prepaid expenses, inventory and other assets of $1.9 million, primarily due to prepaid expenses and the associated timing of certain prepayments, insurance receivables related to Hurricane Ida and the Deferred Transaction Price associated with the Shipyard Transaction. Prepaid expenses and other assets at December 31, 2021, includes $1.1 million associated with insurance receivables related to Hurricane Ida and $0.9 million associated with the Deferred Transaction Price;
+•
+Decrease in accounts payable, accrued expenses and other current liabilities of $12.7 million, primarily due to the timing of payments and decreased accounts payable positions on our Divested Shipyard Contracts, our seventy-vehicle ferry project within our Shipyard Division, and various projects within our Fabrication & Services Division; and
+•
+Change in noncurrent assets and liabilities, net of $0.8 million.
+Cash used in operating activities for 2021 included approximately $7.8 million associated with changes in contracts in progress, net for the Divested Shipyard Contracts through the Closing Date, which was separately recovered through the Working Capital True-Up in connection with the Shipyard Transaction. See Note 3 for further discussion of the Shipyard Transaction.
+2020 Activity
+•
+Operating loss, excluding depreciation and amortization of $8.6 million, non-cash asset impairments of $3.3 million, net losses from asset sales of $0.3 million, and stock-based compensation expense of $1.1 million;
+•
+Increase in contract assets of $15.4 million related to the timing of billings on projects, primarily due to increased unbilled positions on our Divested Shipyard Contracts and seventy-vehicle ferry project within our Shipyard Division, offset partially by decreased unbilled positions on our Divested Shipyard Contracts and paddlewheel riverboat project within our Fabrication & Services Division;
+•
+Decrease in contract liabilities of $11.1 million, primarily due to the unwind of advance payments on our Divested Shipyard Contracts and forty-vehicle ferry projects within our Shipyard Division and our offshore jacket and deck and material supply projects within our Fabrication & Services Division, offset partially by advance payments on our Divested Shipyard Contracts;
+•
+Decrease in contract receivables and retainage of $10.7 million related to the timing of billings and collections on projects, primarily due to collections on our two forty-vehicle ferry projects within our Shipyard Division and our material supply project within our Fabrication & Services Division, offset partially by increased receivable positions on various other projects within our Fabrication & Services Division;
+•
+Decrease in prepaid expenses, inventory and other assets of $1.6 million, primarily due to prepaid expenses and the associated timing of certain prepayments;
+•
+Increase in accounts payable, accrued expenses and other current liabilities of $7.7 million, primarily due to the timing of payments and increased accounts payable positions on our Divested Shipyard Contracts and seventy-vehicle ferry project within our Shipyard Division, offset partially by decreased accounts payable positions for our two forty-vehicle ferry projects within our Shipyard Division and various other projects within our Fabrication & Services Division; and
+•
+Change in noncurrent assets and liabilities, net of $1.6 million, primarily due to the collection of long-term retention that was billed and collected during 2020.
+Investing Activities - Cash provided by investing activities for 2021 and 2020 was $37.4 million and $2.6 million, respectively. Cash provided by investing activities for 2021 was primarily due to net proceeds from the Shipyard Transaction of $33.0 million, proceeds from the sale of fixed assets and assets held for sale of $4.5 million, net maturities of short-term investments of $8.0 million and recoveries from insurance claims of $1.0 million, offset partially by the Purchase Price associated with the DSS Acquisition of $7.6 million and capital expenditures of $1.5 million. Cash provided by investing activities for 2020 was primarily due to the net maturities of short-term investments of $11.8 million and proceeds from the sale of fixed assets and assets held for sale of $2.0 million, offset partially by capital expenditures of $11.2 million.
+Financing Activities - Cash used in financing activities for 2021 was $1.2 million, and cash provided by financing activities for 2020 was $9.9 million. Cash used in financing activities for 2021 was primarily due to repayment of $1.1 million of the PPP Loan. Cash provided by financing activities for 2020 was primarily due to proceeds from the PPP Loan. See “Loan Agreement” below and Note 7 for further discussion of the PPP Loan.
+Credit Facilities
+LC Facility - We have a letter of credit facility with Hancock Whitney Bank (“Whitney Bank”) that provides for up to $20.0 million of letters of credit (“LC Facility”), subject to our cash securitization of the letters of credit, with a maturity date of June 30, 2023. Commitment fees on the unused portion of the LC Facility are 0.4% per annum and interest on outstanding letters of credit is 1.5% per annum. At December 31, 2021, we had $1.7 million of letters of credit outstanding under the LC Facility.
+Loan Agreement - On April 17, 2020, we entered into an unsecured loan in the aggregate amount of $10.0 million (“PPP Loan”) with Whitney Bank pursuant to the Paycheck Protection Program (“PPP”) under the Coronavirus Aid, Relief, and Economic Security Act, as amended (“CARES Act”). The PPP Loan, and accrued interest, were eligible to be forgiven partially or in full, if certain conditions were met. Following the approval of our application for forgiveness by the Small Business Administration (“SBA”), on July 28, 2021, Whitney Bank received $9.1 million from the SBA, which was the amount of loan forgiveness requested, plus accrued interest. The forgiveness of the PPP Loan and accrued interest resulted in a gain of $9.1 million during 2021, and is reflected within gain on extinguishment of debt on our Statement of Operations. On July 29, 2021, we repaid Whitney Bank the remaining balance of the PPP Loan, together with accrued interest.
+Because the amount borrowed exceeded $2.0 million, we are required by the SBA to retain all records relating to the PPP Loan for six years from the date the loan was forgiven and permit authorized representatives of the SBA to access such records upon request. While we believe we are a qualifying business and have met the eligibility requirements for the PPP Loan, and believe we have used the loan proceeds only for expenses which may be paid using proceeds from the PPP Loan, we can provide no assurances that any potential SBA review or audit will verify the amount forgiven, in whole or in part, and we could be required to repay all or part of the forgiven amount.
+Surety Bonds - We issue surety bonds in the ordinary course of business to support our projects. At December 31, 2021, we had $110.8 million of outstanding surety bonds, of which $50.0 million relates to our MPSV projects that are subject to dispute and $55.8 million relates to our Active Retained Shipyard Contracts. It has been increasingly difficult to obtain additional bonding capacity and identify potential financing sources, due to, among other things, losses from our operations in recent years, including recent project charges attributable to our Shipyard Division operations. We can provide no assurances that necessary bonding capacity will be available to support our future bonding requirements. See Note 7 for further discussion of our surety bonds and MPSV dispute and Note 7 and “Mortgage Agreement and Restrictive Covenant Agreement” below for discussion of our entry into agreements with one of our Sureties relating to the Retained Shipyard Contracts.
+Mortgage Agreement and Restrictive Covenant Agreement - On April 19, 2021, and in connection with the receipt of a consent for the Shipyard Transaction from one of our Sureties, we entered into a multiple indebtedness mortgage (the “Mortgage Agreement”) and a restrictive covenant arrangement (the “Restrictive Covenant Agreement”) with such Surety to secure our obligations and liabilities under our general indemnity agreement with the Surety associated with its outstanding surety bond obligations for our MPSV projects and two forty-vehicle ferry projects. The Mortgage Agreement encumbers all remaining real estate that was not sold in connection with the Shipyard Transaction and includes certain covenants and events of default. Further, the Restrictive Covenant Agreement precludes us from paying dividends or repurchasing shares of our common stock. The Mortgage Agreement and Restrictive Covenant Agreement will terminate when the obligations and liabilities of the Surety associated with the outstanding surety bonds are discharged, or any judgment against us or the Surety arising out of litigation related to such contracts is satisfied by us. See Note 7 for further discussion of our Mortgage Agreement and Restrictive Covenant Agreement.
+Registration Statement
+We have a shelf registration statement that is effective with the SEC that expires on November 27, 2023. The shelf registration statement enables us to issue up to $200.0 million in either debt or equity securities, or a combination thereof, from time to time subsequent to the filing of a prospectus supplement, which among other things, identifies the underwriter, dealer or agent, specifies the number and value of securities that may be sold, and provides a time frame over which the securities may be offered.
+Liquidity Outlook
+As discussed in our Overview, we continue to focus on securing profitable new project awards and backlog in the near-term and generating operating income and cash flows in the longer-term. We have made significant progress in our efforts to preserve and improve our liquidity, including cost reductions (including reducing the size of our board and reducing the compensation of our directors and executive officers in 2020), the sale of under-utilized assets and facilities (including the sale of assets held for sale for net proceeds of $4.4 million in 2021), an improved overall cash flow position on our projects in backlog and the completion of the Shipyard Transaction. In addition, at December 31, 2021, we continue to have $1.8 million of assets held for sale; however, we can provide no assurances that we will successfully sell the assets or that we will recover their carrying value. Further, as discussed above, we received the PPP Loan in the second quarter 2020, which provided funding necessary to offset the immediate and anticipated impacts of COVID-19. It also provided us additional liquidity, which is important because a strong balance sheet is required to execute our backlog and compete for new project awards, and as we experience significant monthly fluctuations in our working capital. The primary uses of our liquidity for 2022 and the foreseeable future are to fund:
+•
+Overhead costs associated with the under-utilization of our facilities and resources within our Fabrication & Services Division, until we secure sufficient backlog to fully recover our overhead costs;
+•
+Capital expenditures;
+•
+Accrued contract losses (including accrued contract losses for the Active Retained Shipyard Contracts);
+•
+Working capital requirements for our projects, including the unwind of advance payments on projects (including advance payments for the Active Retained Shipyard Contracts);
+•
+Remaining liabilities of the Shipyard Division operations that were excluded from the Shipyard Transaction;
+•
+Legal and other costs associated with our MPSV dispute;
+•
+Corporate administrative expenses (including the temporary under-utilization of personnel as we evaluate our resource requirements to support our future operations in light of the Shipyard Transaction and DSS Acquisition);
+•
+Initiatives to diversify and enhance our business; and
+•
+Insurance deductibles and uninsured losses, if any, associated with the impacts of Hurricane Ida.
+We anticipate capital expenditures of $2.0 million to $3.0 million for 2022, excluding any future expenditures for deductibles and uninsured losses, if any, associated with damage caused by Hurricane Ida, that may be determined to be capital items. Further investments in facilities may be required to win and execute potential new project awards, which are not included in these estimates.
+We believe that our cash, cash equivalents and short-term investments at December 31, 2021, will be sufficient to enable us to fund our operating expenses, meet our working capital and capital expenditure requirements, and satisfy any debt service obligations or other funding requirements, for at least twelve months from the date of this Report. Our evaluation of the sufficiency of our cash and liquidity is primarily based on our financial forecast for 2022 and 2023, which is impacted by our existing backlog and estimates of future new project awards and may be further impacted by the ongoing effects of oil price volatility, COVID-19 and Russia’s invasion of Ukraine in February 2022 and the U.S. and other countries actions in response. We can provide no assurances that our financial forecast will be achieved or that we will have sufficient cash and short-term investments to meet planned operating expenses and unforeseen cash requirements. Accordingly, we may be required to obtain new or additional credit facilities, sell additional assets or conduct equity or debt offerings at a time when it is not beneficial to do so.
+Off-Balance Sheet Arrangements
+We are not a party to any contract or other obligation not included on our Balance Sheet that has, or is reasonably likely to have, a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.

@@ -1,0 +1,423 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction our consolidated financial statements and related notes appearing elsewhere in this report. In addition to historical information, this discussion and analysis contains forward-looking statements that involve risks, uncertainties, and assumptions. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of certain factors, including but not limited to those set forth under the caption “Risk Factors” in Item 1A of this report.
+Introduction
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to provide an understanding of our financial condition, changes in financial condition and results of operations. The discussion and analysis is organized as follows:
+•
+Overview
+. This section provides a general description of our business and information about our business that we believe is important in understanding our financial condition and results of operations.
+•
+Basis of Presentation
+. This section provides information about key accounting estimates and policies that we followed in preparing our consolidated financial statements for the 2021 fiscal year.
+•
+Critical Accounting Policies and Estimates
+. This section discusses those accounting policies that are both considered important to our financial condition and results of operations and require significant judgment and estimates on the part of management in their application. All of our significant accounting policies, including the critical accounting policies, are also summarized in the notes to our accompanying consolidated financial statements.
+•
+Results of Operations
+. This section provides an analysis of our results of operations for the three fiscal years presented in the accompanying consolidated statements of operations and comprehensive income.
+•
+Liquidity and Capital Resources
+. This section provides an analysis of our cash flows, capital resources, off-balance
+sheet arrangements and our outstanding commitments, if any.
+•
+Caution Concerning Forward-Looking Statements
+. This section discusses how certain forward-looking statements made throughout this MD&A and in other sections of this report are based on management’s present expectations about future events and are inherently susceptible to uncertainty and changes in circumstance.
+Overview
+We are a commercial-stage biopharmaceutical company focused on in-licensing,
+developing and commercializing novel medicines for patients living with rare diseases. With exceptional patient focus, we are committed to developing a robust pipeline of cutting-edge, best-in-class
+medicines for rare diseases. We historically focused our efforts on developing products that treat diseases in the neuromuscular and neurological space, but in 2021 we made a strategic decision to broaden and diversify our product portfolio through acquisitions of both early and late-stage products or companies or technology platforms in rare disease therapeutic categories outside of neuromuscular diseases. To accomplish these new priorities, we are employing a disciplined approach to evaluating assets and we believe that this strategic expansion will better position our company to build out a broader more diversified portfolio of drug candidates, which should add greater value to our company over the near and long-term. However, there can be no assurance that whatever product candidates or technology platforms we acquire, if any, will be successfully developed or commercialized.
+We are currently exploring several potential opportunities to acquire companies with drug products in development or to in-license
+or acquire drug products in development. However, no definitive agreements have been entered into to date. Further, during the third quarter of 2021 we hired Dr. Preethi Sundaram, who serves as our Chief Strategy Officer. In that position, Dr. Sundaram is leading our efforts to acquire R&D assets, from early stage through late-stage clinical programs and technologies to treat rare diseases, and once such drug candidates are acquired, Dr. Sundaram will help oversee the development of those assets.
+We are dedicated to making a meaningful impact on the lives of those suffering from rare diseases, and we believe in putting patients first in everything we do.
+Impact of the COVID-19
+pandemic on our business
+The COVID-19
+pandemic has affected our business operations in numerous ways, and we continue to monitor applicable government modifications. We had to make modifications to our normal operations because of the COVID-19
+pandemic, including allowing our employees to work remotely. At present, our operations have returned to mostly being in-person,
+with some contact with physicians by our commercial sales force still being done remotely. Notwithstanding, the COVID-19
+pandemic, including the emergence of new COVID-19
+variants, including the delta and omicron variants, could affect the health and availability of our workforce as well as those of third parties whom we are relying upon to take similar measures. As such, we have experienced in the past, and may experience in the future, disruptions to our business operations because of the COVID-19
+pandemic, and our business could be materially adversely affected by such disruptions, directly or indirectly. National, state and local governments in affected regions have implemented and may continue to implement varying safety precautions, such as quarantines, border closures, increased border controls, travel restrictions, shelter-in-place
+orders and shutdowns, business closures, cancellations of public gatherings and other measures. Organizations and individuals may continue to take additional steps to avoid infection, including limiting travel and staying home from work. These measures may continue to disrupt normal business operations both inside and outside of affected areas and have had significant impacts on healthcare and businesses worldwide.
+We believe that because many healthcare providers who treat LEMS patients have delayed seeing new patients because of the pandemic, there has been a delay in the diagnosis of new LEMS patients and their initiating therapy, which has slowed our efforts to locate new patients who could benefit from our therapy. However, we believe that when conditions allow healthcare providers to resume seeing new patients in person on a regular basis, the impact of this aspect of the COVID-19
+pandemic on our business will lessen.
+One area where we have not been impacted by the pandemic is in our supply chain. To date, we have been able to avoid material disruptions in the production of FIRDAPSE®
+and, based upon current estimates, we have sufficient inventory to meet current and foreseeable patient needs for at least the next 12 months.
+FIRDAPSE®
+On November 28, 2018, we received approval from the FDA for FIRDAPSE®
+Tablets 10 mg for the treatment of adult patients (ages 17 and above) with Lambert-Eaton, Myasthenic Syndrome (“LEMS”). In January 2019, we launched FIRDAPSE®
+in the United States. We sell our product through a field force experienced in neurologic, central nervous system or rare disease products consisting at this time of approximately 30 field personnel, including sales (Regional Account Managers), patient assistance and insurance navigation support (Patient Access Liaisons), and payor reimbursement (National Account Managers). We also have a field-based force of five medical science liaisons who are helping educate the medical communities and patients about LEMS and our programs supporting patients and access to FIRDAPSE®
+.
+Further, we have contracted with an experienced inside sales agency that works to generate leads through telemarketing to targeted physicians. This inside sales agency allows our sales efforts to not only reach the neuromuscular specialists who regularly treat LEMS patients, but also the roughly 9,000 neurology and neuromuscular healthcare providers that may be treating an adult LEMS patient who can benefit from FIRDAPSE®
+. Additionally, we recently began non-personal
+promotion to oncologists that may treat adult LEMS patients. We also are continuing to make available at no-cost
+a LEMS voltage gated calcium channel (VGCC) antibody testing program for use by physicians who suspect that one of their patients may have LEMS and wish to reach a definitive diagnosis.
+Finally, we are continuing to expand our digital and social media activities in order to introduce our product and services to potential patients and their healthcare providers. We also work with several rare disease advocacy organizations (including Global Genes, the National Organization for Rare Disorders (NORD), and the Myasthenia Gravis Foundation of America) to help increase awareness and level of support for patients living with LEMS and to provide education for the physicians who treat these rare diseases and the patients they treat.
+We are supporting the distribution of FIRDAPSE®
+through Catalyst Pathways®
+, our personalized treatment support program for patients who enroll in it. Catalyst Pathways®
+is a single source for personalized treatment support, education and guidance through the challenging dosing and titration regimen to an effective therapeutic dose. It also includes distributing the drug through a very small group of exclusive specialty pharmacies (primarily AnovoRx), which is consistent with the way that most drug products for ultra-orphan diseases are distributed and dispensed to patients. We believe that by using specialty pharmacies in this way, the difficult task of navigating the health care system is far better for the patient needing treatment for their rare disease and the health care community in general.
+In order to help adult LEMS patients afford their medication, we, like other pharmaceutical companies which are marketing drugs for ultra-orphan conditions, have developed an array of financial assistance programs that are available to reduce patient co-pays
+and deductibles to a nominal affordable amount. For eligible patients with commercial coverage, a co-pay
+assistance program designed to keep out-of-pocket
+costs to not more than $10.00 per month (currently $0.00 per month) is available for all LEMS patients who are prescribed FIRDAPSE®
+. We are also donating, and committing to continue to donate, money to qualified, independent charitable foundations dedicated to providing assistance to any U.S. LEMS patients in financial need. Subject to compliance with regulatory requirements, our goal is that no LEMS patient is ever denied access to their medication for financial reasons.
+In May 2019, the FDA approved a New Drug Application (NDA) for Ruzurgi®
+, another version of amifampridine (3,4-DAP),
+for the treatment of pediatric LEMS patients (ages 6 to under 17). While the NDA for Ruzurgi®
+only covers pediatric patients, we believe that Ruzurgi®
+has been regularly prescribed off-label
+to adult LEMS patients. We also believe that the FDA’s approval of Ruzurgi®
+violated our statutory rights and was in multiple other respects arbitrary, capricious and contrary to law. As a result, in June 2019 we filed suit against the FDA and several related parties challenging this approval and related drug labeling, and Jacobus Pharmaceuticals (Jacobus) intervened in our case. Our complaint, which was filed in the federal district court for the Southern District of Florida, alleged that the FDA’s approval of Ruzurgi®
+violated multiple provisions of FDA regulations regarding labeling, resulting in misbranding in violation of the Federal Food, Drug, and Cosmetic Act (FDCA); violated our statutory rights to Orphan Drug Exclusivity and New Chemical Entity Exclusivity under the FDCA; and was in multiple other respects arbitrary, capricious, and contrary to law, in violation of the Administrative Procedure Act. Among other remedies, the suit sought an order setting aside the FDA’s approval of Ruzurgi®
+.
+On July 30, 2020, the Magistrate Judge considering our lawsuit against the FDA filed a Report and Recommendation in which she recommended to the District Judge handling the case that she grant the FDA’s and Jacobus’ motions for summary judgment and deny our motion for summary judgment. On September 29, 2020, the District Judge adopted the Report and Recommendation of the Magistrate Judge, granted the FDA’s and Jacobus’ motions for summary judgment, and dismissed our case. We appealed the District Court’s decision to the U.S. Circuit Court of Appeals for the 11th
+Circuit. By early 2021, the case was fully briefed, and oral argument was held in March 2021.
+On September 30, 2021, a three-judge panel of 11th
+Circuit judges issued a unanimous decision overturning the District Court’s decision. The appellate court adopted our argument that the FDA’s approval of Ruzurgi®
+violated our rights to Orphan Drug Exclusivity and remanded the case to the District Court with orders to enter summary judgment in our favor. In November 2021, Jacobus filed a motion seeking rehearing of the case from the full 11th
+Circuit, which motion was denied in January 2022. Further, in January 2022, Jacobus filed motions with both the 11th
+Circuit and the U.S. Supreme Court seeking a stay of the 11th
+Circuit’s ruling indicating that it would seek a review of the 11th
+Circuit’s decision from the U.S. Supreme Court. Both stay motions were denied, and on January 28, 2022, the 11th
+Circuit issued a mandate directing the District Court to enter summary judgment in our favor. The District Court entered that order on January 31, 2022. On February 1, 2022, the FDA informed Jacobus that, consistent with the Court of Appeals for the Eleventh Circuit’s September 30, 2021, decision in favor of Catalyst, the final approval of the Ruzurgi®
+NDA was switched to a tentative approval until the 7-year
+orphan-drug exclusivity (ODE) for Firdapse®
+has expired.
+There can be no assurance as to whether Jacobus will seek U.S. Supreme Court review of the 11th
+Circuit’s decision, whether the U.S. Supreme Court will agree to hear the case, or whether, if the U.S. Supreme Court agrees to hear the case, Jacobus’ appeal to overturn the decision of the 11th
+Circuit will be successful. Similarly, there can be no assurance as to whether the U.S. Congress will pass, and the President will sign, legislation revising the Orphan Drug Act that effectively overturns the U.S. Court of Appeals for the 11th
+Circuit, and whether any such legislation, if passed and signed into law, will retroactively affect the outcome of the 11th
+Circuit decision and allow the FDA to reinstate the approval of Ruzurgi®
+before the expiration of FIRDAPSE®
+’s orphan drug exclusivity.
+We are actively working with parents and physicians of pediatric LEMS patients to make sure that such patients will be able to obtain FIRDAPSE®
+through appropriate legal and regulatory means. In addition, we are working to file an application with the FDA seeking approval for use of FIRDAPSE®
+by pediatric LEMS patients, though any effort to obtain such authorization is not guaranteed. We anticipate submitting the sNDA before the end of the first quarter. For the adult LEMS patients who have been taking Ruzurgi®
+off-label
+(who are believed to be a large majority of the patients currently taking Ruzurgi®
+), we are working with prescribers to transition such patients to FIRDAPSE®
+as needed.
+We have been developing a long-acting formulation of amifampridine phosphate. While a number of formulations have been prepared, after discussions with researchers and an advisory board made up of both patients and physicians, we recently concluded that we would be unable to develop a long-acting formulation that was both beneficial to patients and commercially viable, and as a result we have made the determination not to proceed with development of this product.
+On August 10, 2020, we announced the top-line
+results from our Phase 3 clinical trial (MSK-002)
+evaluating FIRDAPSE®
+for the treatment of adults with MuSK-MG.
+Unfortunately, the MSK-002
+trial did not achieve statistical significance on its primary endpoint or its secondary endpoint. Following our receipt of these results, we analyzed the data and proposed a plan to FDA to perform an additional study evaluating FIRDAPSE®
+for the treatment of MuSK-MG.
+In response, the FDA provided written comments that were unfavorable towards our proposed revised study design and further questioned the ability of the initial MuSK-MG
+pilot study to be supportive. These remarks make it unlikely that a single study of similar design to MSK-002
+would be sufficient for potential approval of the MuSK-MG
+indication. We also held an expert panel with key opinion leaders (KOLs) to discuss options and review the likelihood of success for the MuSK-MG
+indication for FIRDAPSE®
+under these circumstances. After receiving the input of the FDA and the KOLs, we concluded that the approval of FIRDAPSE®
+as a first line therapy for MuSK-MG
+is unlikely, and therefore we have decided not to further pursue this indication.
+We previously announced our intent to conduct a proof-of-concept
+study evaluating FIRDAPSE®
+as a treatment for Hereditary Neuropathy with Liability to Pressure Palsies (HNPP). The FDA requested that a new, patient centric endpoint be researched and used for our proposed study, without assurance that such endpoint would be acceptable for approval. Based upon the uncertainty of such an endpoint, we have decided not to conduct this study as a company sponsored study, though there is a possibility that this study will move forward as investigator-initiated study that we will support.
+There can be no assurance that any future clinical trials of FIRDAPSE®
+that we undertake will be successful. Further, there can be no assurance that we will ever be granted the right to commercialize FIRDAPSE®
+for any additional indications.
+Our NDS filing for FIRDAPSE®
+for the symptomatic treatment of LEMS was approved by Health Canada on July 31, 2020. In August 2020, we entered into a license agreement with KYE Pharmaceuticals (KYE), pursuant to which we licensed the Canadian rights for FIRDAPSE®
+for the treatment of LEMS to KYE. Pursuant to the license agreement, KYE was obligated to pay us an up-front
+payment based on approval, a milestone upon attainment of marketing authorization and product supply, milestones based on achievements of sales and regulatory milestones, and a sharing of defined net sales following commercialization.
+On August 10, 2020, Health Canada issued a Notice of Compliance (NOC) to Medunik for Ruzurgi®
+for the treatment of LEMS. We initiated a legal proceeding in Canada seeking judicial review of Health Canada’s decision to issue the NOC for Ruzurgi®
+as incorrect and unreasonable under Canadian law. Data protection, per Health Canada regulations, is supposed to prevent Health Canada from issuing a NOC to a drug that directly or indirectly references an innovative drug’s data, for eight years from the date of the innovative drug’s approval. The Ruzurgi®
+Product Monograph clearly references pivotal nonclinical carcinogenicity and reproductive toxicity data for amifampridine phosphate developed by us. As such, we believe that our data was relied upon to establish the nonclinical safety profile of Ruzurgi®
+needed to meet the standards of the Canadian Food and Drugs Act.
+On June 3, 2021, we announced a positive decision in this proceeding that quashed the NOC previously issued for Ruzurgi®
+and remanded the matter to the Minister of Health to redetermine its decision to grant marketing authorization to Ruzurgi®
+in spite of FIRDAPSE®
+’s data protection rights. However, on June 28, 2021, we announced that Health Canada had re-issued
+an NOC for Ruzurgi®
+, once again allowing the product to be marketed in Canada for patients with LEMS. As a result, in July 2021 we, along with our partner KYE, filed a second suit against Health Canada to overturn this decision. That case was fully briefed in late 2021, with oral argument held in early December.
+On March 11, 2022, we announced that we had received a favorable decision from the Canadian court setting aside, for the second time, the decision of Health Canada approving Ruzurgi®
+for the treatment of LEMS patients. In its ruling, the court determined that the Minister of Health’s approach to evaluating whether FIRDAPSE®
+’s data deserved protection based on FIRDAPSE®
+’s status as an innovative drug, which protects by regulation the use of such data as part of a submission seeking an NOC for eight years from approval of the innovative drug, was legally flawed and not supported by the evidence. As a result, the matter has, once again, been remanded to the Minister of Health to redetermine its decision in light of the court’s ruling. There can be no assurance as to the outcome of this proceeding.
+In May 2019, we entered into an amendment to our license agreement for FIRDAPSE®
+. Under the amendment, we expanded our commercial territory for FIRDAPSE®
+, which originally was comprised of North America, to include Japan. Additionally, we have an option to further expand our territory under the license agreement to include most of Asia, as well as Central and South America, upon the achievement of certain milestones in Japan. Under the amendment, we will pay royalties to our licensor on net sales in Japan of a similar percentage to the royalties that we are currently paying under our original license agreement for North America.
+We have reached an agreement with Japanese regulatory authorities as to the scope of the clinical trial that will be required to be completed before an application can be submitted to Japanese regulatory authorities to commercialize FIRDAPSE®
+for the treatment of LEMS in Japan. We also have been granted orphan drug designation in Japan for FIRDAPSE®
+for the symptomatic treatment of LEMS.
+On June 28, 2021, we entered into a sub-license
+agreement with DyDo Pharma, Inc. (DyDo), pursuant to which we sub-licensed
+to DyDo the Japanese rights for FIRDAPSE®
+for the treatment of LEMS. Under the terms of the Agreement, DyDo will have joint rights to develop FIRDAPSE®
+, and exclusive rights to commercialize the product, in Japan. DyDo will be responsible for funding all clinical, regulatory, marketing and commercialization activities in Japan. We will be responsible for clinical and commercial supply, as well as providing support to DyDo in its efforts to obtain regulatory approval for the product from the Japanese regulatory authorities. Subject to the satisfaction of terms and conditions as set forth in the Agreement, we have earned an upfront payment and are eligible to receive further development and sales milestones for FIRDAPSE®
+, as well as revenue on product supplied to DyDo.
+In December 2021, we announced that DyDo had initiated a Phase 3 registrational study in Japan to evaluate the efficacy and safety of FIRDAPSE®
+for the treatment of LEMS. We anticipate completion of that study sometime in 2023. There can be no assurance that this trial will be successful or that DyDo will be granted the right to commercialize FIRDAPSE®
+in Japan.
+All of our patent rights for FIRDAPSE®
+are derived from our license agreement. In August 2020, the United States Patent and Trademark Office (USPTO) allowed Patent No. 10,793,893 (the ’893 patent) to our licensor and thereby to us, and the patent issued on October 6, 2020. The patent is directed to the use of suitable doses of amifampridine to treat patients, regardless of the therapeutic indication, that are slow metabolizers of amifampridine. Any drug product containing amifampridine with a label that states the patented dosing regimens and doses in the Dosing and Administration section prior to April 7, 2034, the expiration date of the patent, could possibly infringe this patent. Generic drug product labels would necessarily have to do this, and we intend to take all appropriate actions to protect our intellectual property.
+In April 2021, the USPTO also allowed Patent No. 11,060,128 (the ’128 patent) to our licensor and thereby to us, and this second patent issued on July 13, 2021. The patent is directed to the use of suitable doses of amifampridine to treat patients suffering with LEMS that are slow metabolizers of amifampridine. Any drug product containing amifampridine with a label for the treatment of LEMS, that states the patented dosing regimens and doses in the Dosing and Administration section of a product label, including generic drug product labels, could possibly infringe this patent prior to this patent’s expiration date.
+On December 24, 2021, the USPTO allowed continuing application, 17/503,190. On January 3, 2022, the USPTO allowed related continuing application 17/503,148. A further related continuing application, 17/503,092 was allowed on January 7, 2022. All three patents were issued in March 2022. The claims in each of these applications have either already been listed in the Orange Book for FIRDAPSE®
+or are in the process of being listed.
+We are also pursuing additional patent applications for FIRDAPSE®
+in an effort to further protect our drug product. There can be no assurance that any additional patents will be issued which provide additional intellectual property protection for our drug product.
+In that regard, in October 2020, we filed lawsuits against Jacobus and the specialty pharmacy marketing Ruzurgi®
+, PantherRx Rare LLC (PantherRx), for infringement of the ‘893 patent. The suits have now been consolidated in a single action in the U.S. District Court for New Jersey. Further, in August 2021, the lawsuits were amended to include alleged infringement of the ‘128 patent. The lawsuits arise from Jacobus’ and PantherRx’s sales and marketing of Ruzurgi®
+(amifampridine) Tablets, 10 mg. The lawsuits allege that the Ruzurgi®
+product infringes the ‘893 patent and the ‘128 patent when administered in accordance with its product labeling. The lawsuit seeks damages and injunctive relief to prevent further marketing of Ruzurgi®
+in violation of our patent rights. The lawsuit is in the discovery stage and there can be no assurance as to the results of these proceedings.
+There can be no assurance that we do not or will not infringe on patents held by third parties or that third parties in the future will not claim that we have infringed on their patents. In the event that our products or technologies infringe or violate the patent or other proprietary rights of third parties, there is a possibility we may be prevented from pursuing product development, manufacturing or commercialization of our products that utilize such technologies until the underlying patent dispute is resolved. For example, there may be patents or patent applications held by others that contain claims that our products or operations might be determined to infringe or that may be broader than we believe them to be. Given the complexities and uncertainties of patent laws, there can be no assurance as to the impact that future patent claims against us may have on our business, financial condition, results of operations, or prospects.
+Generic Sabril®
+In December 2018, we entered into a definitive agreement with Endo International plc’s subsidiary, Endo Ventures Limited (Endo), for the further development and commercialization of generic Sabril®
+tablets through Endo’s United States Generic Pharmaceuticals segment, Par Pharmaceutical. If and when the product is launched, we will be entitled to receive a milestone payment of $2.0 million on the commercial launch of the product. Further, we will receive a sharing of defined net profits upon commercialization and we are obligated to share the costs of certain development expenses. There can be no assurance that our collaboration with Endo for the development of generic Sabril®
+(vigabatrin) tablets will be successful and that if an abbreviated new drug application (ANDA) is approved for vigabatrin tablets in the future, that it will be profitable to us.
+Capital Resources
+At December 31, 2021, we had cash and cash equivalents and investments of approximately $191.3 million. Based on our current financial condition and forecasts of available cash, we believe that we have sufficient funds to support our operations for at least the next 12 months. There can be no assurance that we will continue to be successful in commercializing FIRDAPSE®
+or will continue to be profitable. Further, there can be no assurance that if we need additional funding in the future, whether such funding will be available to us. See Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations-Liquidity and Capital Resources” below for further information on our liquidity and cash flow.
+Basis of Presentation
+Revenues.
+During the fiscal year ended December 31, 2021, we continued to generate revenues from product sales of FIRDAPSE®
+in the U.S. We expect these revenues to fluctuate in future periods based on our sales of FIRDAPSE®
+. We received approval from Health Canada on July 31, 2020, for FIRDAPSE®
+for the symptomatic treatment of LEMS and as of December 31, 2020, we had launched FIRDAPSE®
+in Canada. During the fiscal year ended December 31, 2021, revenues generated under our collaboration agreement with KYE Pharmaceuticals were immaterial. We expect our revenues from the KYE collaboration agreement to fluctuate in future periods based on our collaborator’s ability to sell FIRDAPSE®
+in Canada.
+For the fiscal year ended December 31, 2021, we did not generate revenues under our collaborative agreement with Endo. We expect our revenues from the Endo collaborative agreement to fluctuate in future periods based on our collaborator’s ability to meet various regulatory milestones set forth in such agreement.
+For the fiscal year ended December 31, 2021, we generated revenues of approximately $2.9 million from our collaborative agreement with DyDo Pharma. We expect our revenue from the DyDo license agreement to fluctuate in future periods based on DyDo’s ability to meet various regulatory milestones set forth in such agreement.
+Cost of Sales.
+Cost of sales consists of third-party manufacturing costs, freight, royalties, and indirect overhead costs associated with sales of FIRDAPSE®
+. Cost of sales may also include period costs related to certain inventory manufacturing services, inventory adjustments charges, unabsorbed manufacturing and overhead costs, and manufacturing variances.
+Research and Development Expenses.
+Our research and development expenses consist of costs incurred for company-sponsored research and development activities, as well as support for selected investigator-sponsored research. The major components of research and development costs include preclinical study costs, clinical manufacturing costs, clinical study and trial expenses, insurance coverage for clinical trials, consulting, and other third-party costs, salaries and employee benefits, stock-based compensation expense, supplies and materials, and allocations of various overhead costs related to our product development efforts. To date, all of our research and development resources have been devoted to the development of FIRDAPSE®
+, CPP-109
+(our version of vigabatrin), and formerly CPP-115,
+and until we acquire or license new products we currently expect that our future development costs will be attributable principally to the continued development of FIRDAPSE®
+.
+Our cost accruals for clinical studies and trials are based on estimates of the services received and efforts expended pursuant to contracts with numerous clinical study and trial sites and clinical research organizations (CROs). In the normal course of our business we contract with third parties to perform various clinical study and trial activities in the on-going
+development of potential products. The financial terms of these agreements are subject to negotiation and vary from contract to contract and may result in uneven
+payment flows. Payments under the contracts depend on factors such as the achievement of certain events or milestones, the successful enrollment of patients, the allocation of responsibilities among the parties to the agreement, and the completion of portions of the clinical study or trial or similar conditions. The objective of our accrual policy is to match the recording of expenses in our consolidated financial statements to the actual services received and efforts expended. As such, expense accruals related to preclinical and clinical studies or trials are recognized based on our estimate of the degree of completion of the event or events specified in the specific study or trial contract. We monitor service provider activities to the extent possible; however, if we underestimate activity levels associated with various studies or trials at a given point in time, we could be required to record significant additional research and development expenses in future periods. Preclinical and clinical study and trial activities require significant up-front
+expenditures. We anticipate paying significant portions of a study or trial’s cost before they begin and incurring additional expenditures as the study or trial progresses and reaches certain milestones.
+Selling, General and Administrative Expenses.
+During 2019, we actively committed funds to developing our commercialization program for FIRDAPSE®
+and we have continued to incur substantial commercialization expenses, including sales, marketing, patient services, patient advocacy and other commercialization related expenses as we have continued our sales program for FIRDAPSE®
+.
+Our general and administrative expenses consist primarily of salaries and personnel expenses for accounting, corporate, compliance, and administrative functions. Other costs include administrative facility costs, regulatory fees, insurance, and professional fees for legal including litigation cost, information technology, accounting, and consulting services.
+Stock-Based Compensation.
+We recognize expense for the fair value of all stock-based awards to employees, directors, and consultants in accordance with accounting principles generally accepted in the U.S. (U.S. GAAP). For stock options, we use the Black-Scholes option valuation model in calculating the fair value of the awards.
+Income Taxes.
+Our effective income tax rate is the ratio of income tax expense (benefit) over our income before income taxes.
+We incurred operating losses from inception through the three-month period ended March 31, 2019. As of December 31, 2021 and 2020, respectively, we had federal net operating loss carry-forwards of approximately $0 million and $3 million. Additionally, we had state net operating loss carry-forwards of approximately $28 million and $42 million, respectively, available to reduce future Florida taxable income for the years ended December 31, 2021 and 2020.
+In the third quarter of 2020, we determined that there was sufficient positive evidence to conclude that it is more likely than not that our additional deferred taxes of approximately $33.0 million are realizable. As a result, we reduced the valuation allowance accordingly.
+Recently Issued Accounting Standards.
+For discussion of recently issued accounting standards, please see Note 2, “Basis of Presentation and Significant Accounting Policies,” in the consolidated financial statements included in this report.
+Critical Accounting Policies and Estimates
+Our discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires us to make judgments, estimates, and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the consolidated financial statements, as well as the reported revenue and expenses during the reporting periods. We continually evaluate our judgments, estimates and assumptions. We base our estimates on the terms of underlying agreements, our expected course of development, historical experience and other factors we believe are reasonable based on the circumstances, the results of which form our management’s basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+The amounts of assets and liabilities reported in our consolidated balance sheets and the amounts reported in our consolidated statements of comprehensive income are affected by estimates and assumptions, which are used for, but not limited to, the accounting for revenue recognition, leases, preclinical study and clinical trial expenses, stock-based compensation and valuation allowance for deferred tax assets. The accounting policies described below are not intended to be a comprehensive list of all of our accounting policies but represent the accounting estimates which involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our financial condition or results of operations. In many cases, the accounting treatment of a particular transaction is specifically dictated by U.S. GAAP. There are also areas in which our management’s judgment in selecting any available alternative would not produce a materially different result. Our consolidated financial statements and the notes thereto included elsewhere in this report contain accounting policies and other disclosures as required by U.S. GAAP.
+Revenue Recognition.
+Revenue from product sales are recorded at the net sales price (transaction price), which includes estimates of variable consideration for which reserves are established. Components of variable consideration include trade discounts and allowances, product returns, provider chargebacks and discounts, government rebates, and other incentives, such as voluntary patient assistance, and other allowances that are offered within contracts with our customer, payors, and other indirect customers relating to the sale of our products. These reserves are based on the amounts earned, or to be claimed on the related sales, and are classified as reductions of accounts receivable (if the amount is payable to the customer) or a current liability (if the amount is payable to a party other than a customer). These estimates take into consideration a range of possible outcomes which are probability-weighted in accordance with the expected value method in Topic 606 for relevant factors such as current contractual and statutory requirements, specific known market events and trends, industry data, and forecasted customer buying and payment patterns. Overall, these reserves reflect our best estimates of the amount of consideration to which we are entitled based on the terms of the respective underlying contracts.
+The amount of variable consideration which is included in the transaction price may be constrained, and is included in the net sales price only to the extent that it is probable that a significant reversal in the amount of the cumulative revenue recognized under the contract will not occur in a future period. Our analyses also contemplated application of the constraint in accordance with the guidance, under which it determined a material reversal of revenue would not occur in a future period for the estimates as of December 31, 2021 and 2020 and, therefore, the transaction price was not reduced further during the years ended December 31, 2021 and 2020. Actual amounts of consideration ultimately received may differ from our estimates. If actual results in the future vary from our estimates, we will adjust these estimates, which would affect net product revenue and earnings in the period such variances become known. Refer to Note 2, “Basis of Presentation and Significant Accounting Policies,” in the consolidated financial statements included in this report for further details on revenue recognition.
+Stock-Based Compensation.
+We recognize stock-based compensation for the fair value of all share-based payments, including grants of stock options and restricted stock units. For stock options, we use the Black-Scholes option valuation model to determine the fair value of stock options on the date of grant. This model derives the fair value of stock options based on certain assumptions related to expected stock price volatility, expected option life, risk-free interest rate and dividend yield. Expected volatility is based on reviews of historical volatility of our common stock. The estimated expected option life is based upon the simplified method. Under this method, the expected option life is presumed to be the mid-point
+between the vesting date and the end of the contractual term. We will continue to use the simplified method until we have sufficient historical exercise data to estimate the expected life of the options. The risk-free interest rate assumption is based upon the U.S. Treasury yield curve appropriate for the expected life of our stock option awards. For the years ended December 31, 2021 and 2020, the assumptions used were an estimated annual volatility of 70.0% and 81.4%, expected holding periods of primarily four and a half years, and risk-free interest rates of 0.34% to 1.18% and 0.24% to 1.64%, respectively.
+Valuation Allowance for Deferred Tax Assets.
+We assess the need for a valuation allowance against our deferred tax asset each quarter through the review of all available positive and negative evidence. Deferred tax assets are reduced by a tax valuation allowance when, in the opinion of management, it is more likely than not that some portion of the deferred tax assets will not be realized. Management’s analysis depends on historical and projected taxable income. Projected taxable income includes significant assumptions related to revenue, commercial expenses and research and development activities. In the third quarter of 2020, we determined that there was sufficient positive evidence to conclude that it is more likely than not that our additional deferred taxes are realizable. As a result, we reduced the valuation allowance accordingly.
+Results of Operations
+Years Ended December 31, 2021 and 2020
+Revenues.
+For the year ended December 31, 2021, we recognized $138.0 million in net revenue from product sales of FIRDAPSE®
+primarily in the U.S. compared to $118.8 million for the year ended December 31, 2020. The increase of approximately $19.2 million was due to increases in sales volumes of approximately 10.4% and net price increases. For the year ended December 31, 2021, we also recognized $2.8 million in license and other revenue, as compared to $0.3 million during the year ended December 31, 2020. The increase was primarily due to our license agreement with DyDo Pharma for the commercialization of FIRDAPSE®
+in Japan that was signed in 2021.
+Cost of Sales.
+Cost of sales was approximately $21.9 million for the year ended December 31, 2021, compared to $17.0 million for the year ended December 31, 2020. Cost of sales in both periods consisted principally of royalty payments, which are based on net revenue as defined in the applicable license agreement. Royalties are payable on the terms set forth below in Liquidity and Capital Resources -Contractual Obligations and Arrangements
+, and increase by 3% when net sales (as defined in the applicable license agreement) exceed $100 million in any calendar year.
+Research and Development Expenses.
+Research and development expenses for the years ended December 31, 2021 and 2020 were approximately $16.9 million and $16.5 million, respectively, and represented approximately 19% and 21% of total operating costs and expenses, respectively. Research and development expenses for the years ended December 31, 2021 and 2020 were as follows (in thousands):
+Research and development expenses stayed relatively consistent for the 2021 fiscal year, when compared to the same period in 2020. For the 2020 fiscal year, research and development expenses included costs related to our MuSK-MG
+clinical trial and our SMA type 3 proof-of-concept trial,
+both of which were completed in the second half of 2020. For the fiscal year ended December 31, 2021, research and development expenses included costs relating to closing out sites for both the MuSK-MG
+clinical trial and SMA type 3 proof-of-concept
+trial. Research and development costs in both the 2020 and 2021 periods also included expenses relating to medical and regulatory affairs, our expanded access programs, and our efforts to develop a long-acting formulation of amifampridine phosphate.
+We expect that research and development expenses will continue to be substantial in 2022 and beyond as we execute on our strategic initiative to acquire or in-license innovative
+technology platforms and/or earlier stage programs in rare disease categories outside of neuromuscular diseases.
+Selling, General and Administrative Expenses.
+Selling, general and administrative expenses for the years ended December 31, 2021 and 2020 were approximately $49.6 million and $44.2 million, respectively, and represented approximately 56% and 57% of total operating costs and expenses for the years ended December 31, 2021, and 2020, respectively. Selling, general and administrative expenses for the years ended December 31, 2021 and 2020 were as follows (in thousands):
+For the year ended December 31, 2021, selling, general and administrative expenses increased approximately $5.4 million, compared to the same period in 2020, primarily attributable to the timing of our commitments to make contributions to 501(c)(3) organizations supporting LEMS patients of approximately $1 million and increases of legal fees of approximately $1.9 million. The increase was also due to increased costs due to the expansion of our operations and headcount required to support our ongoing efforts to commercialize FIRDAPSE®
+.
+We expect that selling, general and administrative expenses will continue to be substantial in future periods as we continue our efforts to increase our revenues from FIRDAPSE®
+and take steps to expand our business.
+Stock-Based Compensation.
+Total stock-based compensation for the years ended December 31, 2021 and 2020 was $6.1 million and $6.3 million, respectively. In 2021 and 2020, grants were principally for stock options relating to year-end
+bonus awards and grants to new employees.
+Other Income, Net.
+We reported other income, net in all periods, primarily relating to our investment of our cash and cash equivalents and investments. The decrease in other income, net for the year ended December 31, 2021 of approximately $0.3 million when compared to the same period in 2020 is primarily due to lower yields on investments, despite higher invested balances. Other income, net, consists primarily of interest and dividend income.
+Income Taxes.
+As of December 31, 2021 and 2020, respectively, we had federal net operating loss carryforwards of approximately $0 million and $3 million. The federal net operating loss carryforwards were utilized in 2020. Additionally, we had state net operating loss carryforwards of approximately $28 million and $42 million, respectively, available to reduce future Florida taxable income. We had no uncertain tax positions as of December 31, 2021 and December 31, 2020.
+For the year ending December 31, 2020 we recorded a net valuation release of $41.6 million ($0.40 per basic share and $0.39 per diluted share) on the basis of management’s determination that it is more likely than not that the amount of our deferred tax assets will be realized.
+Our effective income tax rate was 25% and (79%), respectively, for fiscal year 2021 and fiscal year 2020. The difference in the effective rates between periods is driven by the release of the valuation allowance against deferred taxes in the third quarter of 2020. Differences in the effective tax and the statutory federal income tax rate of 21% are driven by state income taxes and anticipated annual permanent differences, and offset by the orphan drug credit claimed.
+Net Income.
+Our net income was approximately $39.5 million in the year ended December 31, 2021 ($0.38 per basic and $0.37 per diluted share) as compared to $75.0 million in the year ended December 31, 2020 ($0.72 per basic and $0.71 per diluted share).
+Years Ended December 31, 2020 and 2019
+The information comparing results of operations for the year ended 2020 compared to 2019 was included in our Annual Report on Form 10-K
+for 2020.
+Liquidity and Capital Resources
+Since our inception, we have financed our operations primarily through multiple offerings of our securities and, since January 2019, from revenues from product sales of FIRDAPSE®
+. At December 31, 2021 we had cash and cash equivalents and investments aggregating $191.3 million and working capital of $183.0 million. At December 31, 2020, we had cash and cash equivalents and investments aggregating $140.3 million and working capital of $136.5 million. At December 31, 2021, substantially all of our cash and cash equivalents were deposited with one financial institution, and such balances were in excess of federally insured limits. Further, as of such date, substantially all such funds were invested in money market accounts, short-term interest bearing obligations and U.S. Treasuries.
+Based on forecasts of available cash, we believe that we have sufficient resources to support our currently anticipated operations for at least the next 12 months from the date of this report. There can be no assurance that we will remain profitable or that we will be able to obtain any additional funding that we may require in the future.
+In the future, we may require additional working capital to support our operations depending on our future success with FIRDAPSE®
+sales, or the products we acquire and continue to develop and whether our results continue to be profitable and cash flow positive. There can be no assurance as to the amount of any such funding that will be required for these purposes or whether any such funding will be available to us when it is required.
+In that regard, our future funding requirements will depend on many factors, including:
+•
+the scope, rate of progress and cost of our clinical trials and other product development activities;
+•
+the cost of diligence in seeking a potential acquisition and of the completion of such acquisition, if an acquisition so occurs;
+•
+future clinical trial results;
+•
+the terms and timing of any collaborative, licensing and other arrangements that we may establish;
+•
+the cost and timing of regulatory approvals;
+•
+the cost and delays in product development as a result of any changes in regulatory oversight applicable to our products;
+•
+the level of revenues that we report from sales of FIRDAPSE®
+;
+•
+the effect of competition and market developments;
+•
+the cost of filing and potentially prosecuting, defending and enforcing any patent claims and other intellectual property rights; and
+•
+the extent to which we acquire or invest in other products.
+We may raise additional funds through public or private equity offerings, debt financings, corporate collaborations or other means. We also may seek governmental grants for a portion of the required funding for our clinical trials and preclinical trials. We may further seek to raise capital to fund additional product development efforts or product acquisitions, even if we have sufficient funds for our planned operations. Any sale by us of additional equity or convertible debt securities could result in dilution to our stockholders. There can be no assurance that any such required additional funding will be available to us at all or available on terms acceptable to us. Further, to the extent that we raise additional funds through collaborative arrangements, it may be necessary to relinquish some rights to our technologies or grant sublicenses on terms that are not favorable to us. If we are not able to secure additional funding when needed, we may have to delay, reduce the scope of or eliminate one or more research and development programs, which could have an adverse effect on our business.
+On July 23, 2020, we filed a shelf registration statement with the SEC to sell up to $200 million of common stock, preferred stock, warrants to purchase common stock, debt securities and units consisting of one or more of such securities (the “2020 Shelf Registration Statement”). The 2020 Shelf Registration Statement (file no. 333-240052)
+was declared effective by the SEC on July 31, 2020. As of the date of this report, no offerings have been completed under the 2020 Shelf Registration Statement.
+Cash Flows.
+Net cash provided by operating activities was $60.4 million and $45.0 million, respectively, for the years ended December 31, 2021 and 2020. During the year ended December 31, 2021, net cash provided by operating activities was primarily attributable to our net income of $39.5 million, a decrease of $4.0 million in prepaid expenses and other current and non-current
+assets, increases of $5.5 million in accrued expenses and other liabilities, $0.9 million in operating lease liability, $9.3 million in deferred taxes and of $6.6 million of non-cash
+expenses. This was partially offset by increases of $0.6 million in accounts receivable, net and $3.2 million in inventory and a decrease of $1.5 million in accounts payable. During the year ended December 31, 2020, net cash provided by operating activities was primarily attributable to our net income of $75.0 million, a decrease of $4.5 million in accounts receivable, net, an increase of $0.1 million in accounts payable and $7.1 million net of non-cash
+expenses. This was partially offset by increases of $4.0 million in prepaid expenses and other current and non-current
+assets and $2.7 million in inventory and decreases of $1.2 million in accrued expenses and other liabilities, $0.9 million in operating lease liability and $33.0 million in non-cash
+deferred taxes.
+Net cash used in investing activities was $11.0 million for the year ended December 31, 2021, consisting primarily of purchases of investments. Net cash used in investing activities was $5.0 million for the year ended December 31, 2020, consisting primarily of purchases of investments of $10.0 million, partially offset by proceeds from sales/maturities of investments of $5.0 million.
+Net cash used in financing activities during the year ended December 31, 2021 was $8.1 million, consisting primarily of repurchases of common stock, partially offset by proceeds from the exercise of options to purchase shares of common stock. Net cash provided by financing activities during the year ended December 31, 2020 was $0.7 million, consisting primarily of proceeds from the exercise of options to purchase shares of common stock.
+Contractual Obligations and Arrangements.
+We have entered into the following contractual arrangements:
+•
+Payments under our license agreement
+. We have agreed to pay the following royalties under our license agreement:
+•
+Royalties to our licensor for seven years from the first commercial sale of FIRDAPSE®
+equal to 7% of net sales (as defined in the License Agreement) in North America for any calendar year for sales up to $100 million, and 10% of net sales in North America in any calendar year in excess of $100 million; and
+•
+Royalties to the third-party licensor of the rights sublicensed to us from the first commercial sale of FIRDAPSE®
+equal to 7% of net sales (as defined in the License Agreement between BioMarin and the third-party licensor) in any calendar year for the duration of regulatory exclusivity within a territory and 3.5% for territories in any calendar year in territories without regulatory exclusivity.
+For the year ended December 31, 2021, we recognized an aggregate of approximately $19.5 million of royalties, which is included in cost of sales in the accompanying consolidated statement of operations and comprehensive income.
+•
+Employment agreements
+. We have entered into an employment agreement with our Chief Executive Officer that required us to make base salary payments of approximately $0.6 million in 2021. The agreement expires in November 2022.
+•
+Purchase commitment
+. We have entered into a purchase commitment with our contract manufacturing organization for approximately $0.5 million per year. The agreement expires in December 2023.
+•
+Lease for office space
+. We operate our business in leased office space in Coral Gables, Florida. We entered into an agreement in May 2020 that amended our lease for office facilities. Under the amended lease, our leased space increased from approximately 7,800 square feet of office space to approximately 10,700 square feet of office space. We moved into the new space around March 1, 2021 when the space became available for use. We pay annual rent of approximately $0.5 million.
+Off-Balance
+Sheet Arrangements.
+We currently have no debt or finance leases. We have an operating lease for our office facilities. We do not have any off-balance
+sheet arrangements as such term is defined in rules promulgated by the SEC.
+Caution Concerning Forward-Looking Statements
+This report contains “forward-looking statements”, as that term is defined in the Private Securities Litigation Reform Act of 1995. These include statements regarding our expectations, beliefs, plans or objectives for future operations and anticipated results of operations. For this purpose, any statements contained herein that are not statements of historical fact may be deemed to be forward-looking statements. Without limiting the foregoing, “believes”, “anticipates”, “proposes”, “plans”, “expects”, “intends”, “may”, and other similar expressions are intended to identify forward-looking statements. Such statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or other achievements to be materially different from any future results, performances or achievements expressed or implied by such forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in the section entitled “Item 1A - Risk Factors.”
+The continued successful commercialization of FIRDAPSE®
+is highly uncertain. Factors that will affect our success include the uncertainty of:
+•
+The impact of the COVID-19
+pandemic on our business or on the economy generally;
+•
+Whether we will be able to continue to successfully market FIRDAPSE®
+while maintaining full compliance with applicable federal and state laws, rules and regulations;
+•
+Whether our estimates of the size of the market for FIRDAPSE®
+for the treatment of Lambert-Eaton Myasthenic Syndrome (LEMS) will turn out to be accurate;
+•
+Whether we will be able to locate LEMS patients who are undiagnosed or are misdiagnosed with other diseases;
+•
+Whether patients will discontinue from the use of our drug at rates that are higher than historically experienced or are higher than we project;
+•
+Whether the daily dose taken by patients changes over time and affects our results of operations;
+•
+Whether FIRDAPSE®
+patients can be successfully titrated to stable therapy;
+•
+Whether we can continue to market FIRDAPSE®
+on a profitable and cash flow positive basis;
+•
+Whether any revenue or earnings guidance that we provide to the public market will turn out to be accurate;
+•
+Whether payors will reimburse for our product at the price that we charge for the product;
+•
+The ability of our third-party suppliers and contract manufacturers to maintain compliance with current Good Manufacturing Practices (cGMP);
+•
+The ability of our distributor and the specialty pharmacies that distribute our product to maintain compliance with applicable law;
+•
+Our ability to maintain compliance with applicable rules relating to our patient assistance programs and our contributions to 501(c)(3) organizations that support LEMS patients;
+•
+The scope of our intellectual property and the outcome of any future challenges or opposition to our intellectual property, and, conversely, whether any third-party intellectual property presents unanticipated obstacles for FIRDAPSE®
+;
+•
+Whether our lawsuits against Jacobus Pharmaceutical Company (Jacobus) and the specialty pharmacy distributing its product for patent infringement will be successful;
+•
+Whether Jacobus will seek U.S. Supreme Court review of the decision of the U.S. Court of Appeals for the 11th
+Circuit granting summary judgment in our favor in our case against the FDA, thereby overturning the FDA’s approval of Ruzurgi®
+, whether the U.S. Supreme Court will agree to hear the case, or whether if the U.S. Supreme Court hears the case, they will overturn the decision of the 11th
+Circuit;
+•
+Whether the United States Congress will pass, and the President will sign, legislation revising the Orphan Drug Act that effectively overturns the decision of the U.S. Court of Appeals for the 11th
+Circuit, and whether any such legislation, if passed and signed into law, will retroactively affect the outcome of the 11th
+Circuit decision and allow the FDA to reinstate the approval of Ruzurgi®
+before the expiration of Firdapse®
+’s orphan drug exclusivity;
+•
+The impact on FIRDAPSE®
+of adverse changes in reimbursement and coverage policies from government and private payors such as Medicare, Medicaid, insurance companies, health maintenance organizations and other plan administrators, or the impact of pricing pressures enacted by industry organization, the federal government or the government of any state, including as a result of increased scrutiny over pharmaceutical pricing or otherwise;
+•
+Changes in the healthcare industry and the effect of political pressure from and actions by the President, Congress and/or medical professionals seeking to reduce prescription drug costs;
+•
+The state of the economy generally and its impact on our business;
+•
+Changes to the healthcare industry occasioned by any future changes in laws relating to the pricing of drug products, or changes in the healthcare industry generally;
+•
+The scope, rate of progress and expense of our clinical trials and studies, pre-clinical
+studies, proof-of-concept
+studies, and our other drug development activities, and whether our trials and studies will be successful;
+•
+Our ability to complete any clinical trials and studies that we may undertake on a timely basis and within the budgets we establish for such trials and studies;
+•
+Whether COVID-19
+will further affect the timing and costs of our currently ongoing and contemplated clinical trials;
+•
+Whether FIRDAPSE®
+can be successfully commercialized in Canada on a profitable basis;
+•
+Whether our suit with KYE Pharmaceuticals to overturn the approval of Ruzurgi®
+in Canada will be successful;
+•
+The impact on sales of FIRDAPSE®
+in the United States if an amifampridine product is purchased in Canada for use in the United States;
+•
+Whether our collaboration partner in Japan, DyDo, will successfully complete the clinical trial in Japan that will be required to seek approval to commercialize FIRDAPSE®
+in Japan;
+•
+Whether DyDo will be able to obtain approval to commercialize FIRDAPSE®
+in Japan;
+•
+Whether our efforts to grow our business beyond FIRDAPSE®
+through acquisitions of companies or in-licensing
+of product opportunities will be successful;
+•
+Whether we will have sufficient capital to finance any such acquisitions;
+•
+Whether our version of vigabatrin tablets will ever be approved by the FDA;
+•
+Even if our version of vigabatrin tablets is approved for commercialization, whether Endo Ventures/Par Pharmaceutical (our collaborator in this venture) will be successful in marketing the product; and
+•
+Whether we will earn milestone payments on the first commercial sale of vigabatrin tablets and royalties on sales of generic vigabatrin tablets.
+Our current plans and objectives are based on assumptions relating to the continued commercialization of FIRDAPSE®
+. Although we believe that our assumptions are reasonable, any of our assumptions could prove inaccurate. In light of the significant uncertainties inherent in the forward-looking statements we have made herein, which reflect our views only as of the date of this report, you should not place undue reliance upon such statements. We undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise.

@@ -1,0 +1,253 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K.
+In addition, any forward-looking statements represent management’s views only as of the day this Form 10-K
+was first filed with the Securities and Exchange Commission and should not be relied upon as representing management’s views as of any subsequent date. While we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so, even if our views change.
+TRENDS AND UNCERTAINTIES
+During fiscal 2022, we experienced higher than expected input cost inflation, including higher transportation, supply chain and labor costs, that negatively impacted operating results. Pricing actions taken during fiscal 2022 mitigated some, but not all, of the inflationary pressures. Ongoing inflation may also have an impact on our customer’s purchasing decisions and order patterns. We estimate inflation will continue to affect us in fiscal 2023, although at this time it is impracticable to quantify the impact.
+Although we have no operations in or direct exposure to Russia, Belarus and Ukraine, we have experienced intermittent shortages in materials and increased costs for transportation, energy and raw materials due, in part, to the negative impact of the Russia-Ukraine military conflict on the global economy. To date, our European operations and customer base have not been materially impacted by the conflict, however, as the conflict continues or worsens, it may impact our business, financial condition or results of operations in fiscal 2023.
+As we continue to monitor the ongoing COVID-19
+pandemic, our top priority remains protecting the health and safety of our employees, their families, and those in our communities. Safety guidelines and procedures have been developed for on-site
+employees and these policies are regularly monitored and updated by our internal Emergency Response Team.
+In fiscal 2022, COVID-19,
+including new strains of the virus such as Delta and Omicron, continued to impact our business operations and financial results. A number of our food safety diagnostic product lines have been negatively impacted due to decreased demand in many of our customers’ businesses around the world, particularly those serving restaurants, bars and other institutional food service markets. Many of our markets across the world are recovering, but the pandemic has continued to adversely impact our customers and ultimately, our revenues. We have also experienced supply chain difficulties including vendor disruptions, border closures, shipping issues and significantly increased shipping costs; labor shortages and higher labor costs, as we have had to use staffing agencies and increase our base pay in many areas of the Company to fill open positions; and restricted travel, which hinders our ability to connect with customers.
+Overall, the impact of COVID-19
+remains uncertain and ultimately depends on the length and severity of the pandemic, inclusive of the introduction of new strains of the virus; government actions taken in response; vaccination rates and effectiveness; the impact of vaccination requirements; extent of protection provided by prior viral infection; and the macroeconomic environment. We will continue to evaluate the nature and extent to which COVID-19
+will impact our business, supply chain, including labor availability and attrition, consolidated results of operations, financial condition, and liquidity; we expect it to impact us through at least the end of our fiscal year ending May 31, 2023.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The discussion and analysis of our financial condition and results of operations are based on the consolidated financial statements that have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires that management make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an ongoing basis, management evaluates the estimates, including but not limited to, those related to receivable allowances, inventories and intangible assets. These estimates are based on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Though the impact of the COVID-19
+pandemic to our business and operating results presents additional uncertainty, we continue to use the best information available to inform our critical accounting estimates. Actual results may differ from these estimates under different assumptions or conditions.
+The following critical accounting policies reflect management’s more significant judgments and estimates used in the preparation of the consolidated financial statements.
+Income Taxes
+We account for income taxes using the asset and liability method. Under this method, deferred income tax assets and liabilities are determined based on differences between the financial reporting and tax bases of assets and liabilities and for tax credit carryforwards and are measured using the enacted tax rates in effect for the years in which the differences are expected to reverse. Deferred income tax expense represents the change in net deferred income tax assets and liabilities during the year. The determination of income subject to income tax in each tax paying jurisdiction requires us to apply transfer pricing guidelines for certain intercompany transactions.
+Our tax rate is subject to adjustment over the balance of the year due to, among other things, income tax rate changes by governments; the jurisdictions in which our profits are determined to be earned and taxed; changes in the valuation of our deferred tax assets and liabilities; adjustments to our interpretation of transfer pricing standards; changes in available tax credits or other incentives; changes in stock-based compensation expense; changes in tax laws or the interpretation of such tax laws; and changes in U.S. generally accepted accounting principles.
+Although we believe our tax estimates are reasonable and we prepare our tax filings in accordance with all applicable tax laws, the final determination with respect to any audit, and any related litigation, could be materially different from our estimates or from our historical income tax provisions and accruals. The results of an audit or litigation could have a material effect on operating results and/or cash flows in the periods for which that determination is made. In addition, future period earnings may be adversely impacted by litigation costs, settlements, penalties, and/or interest assessments.
+Our wholly owned foreign subsidiaries are comprised of Neogen Europe, Quat-Chem Ltd, Abbott Analytical Limited, Delf (UK) Limited, Delf-Chem Solutions Limited, Megazyme Ltd, Megazyme IP, Neogen Italia S.r.l., Neogen do Brasil, Rogama Industria e Comercio Ltda, Neogen Latinoamérica, Neogen Guatemala, Neogen Argentina, Neogen Uruguay, Neogen Chile SpA, Neogen Bio-Scientific
+Technology Co (Shanghai), Neogen Food and Animal Security (India), Neogen Canada, Neogen Canada Properties LLC and Neogen Australasia Pty Limited. Based on historical experience, as well as management’s future plans, earnings from these subsidiaries are expected to be re-invested
+indefinitely for future expansion and working capital needs. Furthermore, our domestic operations have historically produced sufficient operating cash flow to mitigate the need to remit foreign earnings. On an annual basis, we evaluate the current business environment and whether any new events or other external changes might require a re-evaluation
+of the decision to indefinitely re-invest
+foreign earnings. It is not practicable to determine the income tax liability that would be payable if such earnings were not reinvested indefinitely.
+Business Combinations and Contingent Consideration
+We allocate the purchase price of acquired companies to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values. The estimates used to value the net assets acquired are based in part on historical experience and information obtained from management of the acquired company. We generally value the identifiable intangible assets acquired using a discounted cash flow model. The significant estimates used in valuing certain of the intangible assets include, but are not limited to: future expected cash flows of the asset, discount rates to determine the present value of the future cash flows, attrition rates of customers, royalty rates and expected technology life cycles. We also estimate the useful lives of the intangible assets based on the expected period over which we anticipate generating economic benefit from the asset.
+Our estimates of fair value are based on assumptions believed to be reasonable at that time. If we made different estimates or judgments, it may result in material differences in the fair values of the net assets acquired.
+Certain business combinations involve potential payment of future consideration that is contingent upon the achievement of certain product development milestones and/or contingent on the acquired business reaching certain performance milestones. We record contingent consideration at fair value at the date of acquisition based on the consideration expected to be transferred, estimated as the probability weighted future cash flows, discounted back to present value. The fair value of contingent consideration is measured using projected payment dates, discount rates, probabilities of payment and projected revenues (for revenue-based considerations); various methodologies can be used to determine fair value of contingent consideration, including Monte Carlo simulations, among others. Projected revenues are based on our most recent internal operational budgets and long-range strategic plans. The discount rate used is determined at the time of measurement in accordance with accepted valuation methodologies. Changes in projected revenues, probabilities of payment, discount rates and projected payment dates may result in adjustments to the fair value measurements. Contingent consideration is remeasured each reporting period using Level 3 inputs, and the change in fair value, including accretion for the passage of time, is recognized in other income (expense) in the consolidated statements of income. Contingent consideration payments made soon after the acquisition date are classified as investing activities in the consolidated statements of cash flows. Contingent consideration payments not made soon after the acquisition date that are related to the acquisition date fair value are reported as financing activities in the consolidated statements of cash flows, and amounts paid in excess of the original acquisition date fair value are reported as operating activities in the consolidated statements of cash flows.
+RESULTS OF OPERATIONS
+Executive Overview
+•
+Food Safety organic sales exclude revenues from the acquisitions of Megazyme (December 2020) and Delf/Abbott Analytical (November 2021).
+•
+Animal Safety organic sales exclude revenues from the acquisitions of StandGuard (July 2020), CAPInnoVet (September 2021) and Genetic Veterinary Sciences (December 2021).
+•
+Net income was negatively impacted by $25.6 million in the current fiscal year due to legal and consulting expenses for due diligence related to our recently announced agreement to combine with 3M’s Food Safety business.
+Neogen’s international revenues were $209.3 million in fiscal 2022, compared to $183.2 million in fiscal 2021, an increase of 14%. Currency translation had a negligible impact on revenues for the full year, with gains in the U.K., Italy, Mexico, Brazil, China, and Canada partially offset by negative impact in Argentina, Chile, India and Australia. In a neutral currency environment, sales would have been $844,000 lower than reported in fiscal 2022.
+Sales results for fiscal 2022 compared to the prior year are as follows for each of our international locations:
+The 13% revenue increase at our combined U.K. operations in fiscal 2022 was led by a 25% increase in sales of cleaners and disinfectants, primarily from strong sales in the U.K. and Asia, and new culture media business with commercial laboratories in the U.K. that have adopted our recently launched One Broth One Plate workflow. Revenues in Brazil increased 1% in USD in fiscal 2022 but decreased 2% in local currency; market gains in genomics services in the beef market were offset by lower sales of dairy drug residue test kits, due to competitive pressures.
+Neogen Latinoamerica revenues rose by 11% in USD in fiscal 2022, led by growth in natural toxins test kits, environmental sanitation products and culture media. China’s sales were flat, as growth in the first half of the fiscal year was offset by lower sales in the last six months due to lockdowns and restrictions resulting from China’s “Zero COVID” strategy. Sales at Neogen Australasia increased 25% for fiscal 2022, led by new genomics service business in the bovine, sheep and companion animal markets.
+Service revenue, which consists primarily of genomics services sales to animal protein and companion animal markets, was $102.5 million in fiscal 2022, an increase of 11% over prior fiscal year sales of $92.2 million. The growth was led by the previously mentioned strength in Australia and Brazil, and was partially offset by lower volumes of domestic companion animal samples, the result of a difficult comparison due to large increases in the prior year.
+REVENUES
+Year Ended May 31, 2022 Compared to Year Ended May 31, 2021
+Food Safety:
+Natural Toxins, Allergens
+& Drug Residues -
+Sales in this category increased 4% in fiscal 2022, with a 6% increase in sales of natural toxin test kits and a 9% increase in sales of our allergens product line partially offset by a 33% decrease in sales of drug residue test kits, as we are discontinuing sales of certain lower margin products due to competitive market pressure.
+Bacterial
+& General Sanitation -
+Sales in this category increased 7% in fiscal 2022 compared to the prior year. Sales of our AccuPoint®
+sanitation monitoring product line increased 12% aided by strong sales of our new reader. Sales of our Listeria Right Now™
+product increased 25%, while sales of products to detect spoilage organisms in processed foods increased 4%.
+Culture Media
+& Other -
+Sales in this category increased 23% in fiscal 2022 compared to fiscal 2021; excluding sales from the December 2020 acquisition of Megazyme, sales increased 11%. Sales of Neogen Culture Media products rose 16% as our new workflow, One Broth One Plate, continued to drive growth and increased sales to commercial labs in the U.K.; a large non-recurring
+sale to a domestic vaccine manufacturer in the first quarter also contributed to the current year growth.
+Rodenticides, Insecticides
+& Disinfectants -
+Revenues of products in this category sold through our Food Safety operations increased 11% in fiscal 2022 compared to fiscal 2021. Excluding revenues from the November 2020 acquisition of Delf and Abbott Analytical, the growth was 3%. The increase was primarily due to continued strength in sales of cleaners and disinfectants to Asia resulting from the African swine fever outbreak in that region increasing demand, and higher sales to a U.K.-based toll manufacturer.
+Genomics Services -
+Sales of genomics services sold through our Food Safety operations increased 11% in fiscal 2022 compared to the prior year, primarily due to increased beef business in Brazil and higher sample volumes from a large customer in China.
+Animal Safety:
+Life Sciences -
+Sales in this category decreased 1% in fiscal 2022 compared to the same period in the prior year, primarily due to the loss of hair testing business with a large U.S. commercial laboratory that moved to a different testing platform.
+Veterinary Instruments
+& Disposables -
+Revenues in this category increased 33% in fiscal 2022 compared to fiscal 2021, led by a large increase in sales of veterinary instruments, including needles and syringes, resulting from recently won private label business.
+Animal Care
+& Other -
+Sales of these products increased 11% in fiscal 2022 compared to fiscal 2021; excluding the contribution of parasiticides from the September 2021 acquisition of CAPInnoVet, revenues in this category rose 6%. Growth in our biologics, small animal supplements and wound care product lines were partially offset by a large decline in sales of dairy supplies due to the June 2020 termination of an agreement under which we distributed these types of products for a large manufacturer of dairy equipment.
+Rodenticides, Insecticides
+& Disinfectants -
+Sales in this category increased 8% in fiscal 2022, compared to the prior year. Insecticide sales increased 32%, led by strong demand in the farm and home channels, and cleaners and disinfectants sales rose 6%. These increases were partially offset by a 4% decline in rodenticide sales due to increased rodent pressure in the prior year, which resulted in a difficult comparison.
+Genomics Services -
+Sales in this category increased 11% in fiscal 2022 compared to fiscal 2021; excluding the December 2021 acquisition of Genetic Veterinary Sciences, the organic increase was 5%. The growth was led by increases in beef and sheep testing in Australia, due to improved market conditions, and higher sample volumes from domestic dairy and beef cattle and poultry customers. The increase was partially offset by a decline in domestic companion animal revenues due to a difficult comparison from strong prior year sales growth.
+Year Ended May 31, 2021 Compared to Year Ended May 31, 2020
+Food Safety:
+The COVID-19
+pandemic, which began in the second half of fiscal 2020, continued to cause difficult operating conditions in many of our key market segments in fiscal 2021. Shelter in place orders across the U.S. and in most of our international markets, the closure or reduced output of businesses due to quarantine and/or local legislation, disruption in the supply chain resulting from reduction in end-market
+demand and shipping issues, and the inability of some markets to react quickly to these changes, each disrupted our revenues.
+Natural Toxins, Allergens
+& Drug Residues -
+Sales in this category increased 1% in fiscal 2021, with a 6% increase in sales of natural toxin test kits and a 5% increase in our allergens product line partially offset by a 30% decrease in sales of drug residue test kits. Sales of drug residue test kits have continued to decline as we ended an exclusive distributor agreement in Europe and faced competitive pressure and lower demand due to poor economic conditions.
+Bacterial
+& General Sanitation -
+Sales in this category increased 5% in fiscal 2021 compared to the prior year. Sales of products to detect spoilage organisms in processed foods increased 19% in fiscal 2021, resulting from sales of our new instrument (Soleris NG), which launched in the first quarter, and increased consumables sales from new instrument placements. Sales of our AccuPoint sanitation monitoring product line were flat as many customers were shut down or operating at reduced capacity for a portion of the year, resulting in use of less consumables. A next generation reader for this product line was launched late in the fourth quarter; there will be significant sales and marketing focus on this product line in fiscal 2022. Sales of test kits to detect pathogens decreased 2%, as lower sales of ANSR equipment were only partially offset by increases from our Listeria
+Right Now test kit, which grew 21% in fiscal 2021.
+Culture Media
+& Other -
+Sales in this category increased 28% in fiscal 2021 compared to fiscal 2020. Excluding sales from the December 2020 acquisition of Megazyme, sales increased 18%. This category includes sales of acquired inventory of non-Neogen
+manufactured products from our new businesses in Italy and the South American southern cone countries; these sales are not expected to continue long-term. This category also includes sales of veterinary instruments transferred to our U.K. sales team in fiscal 2021. Sales of Neogen Culture Media increased 1% as new business gained in the U.S. from a COVID-19
+vaccine manufacturer offset the loss of some business due to competitor pricing.
+Rodenticides, Insecticides
+& Disinfectants -
+Revenues of products in this category sold through our Food Safety operations increased 12% in fiscal 2021 compared to fiscal 2020, due primarily to continued strength in cleaners and disinfectant sales in China resulting from increased demand due to the African swine fever outbreak in that country and the COVID-19
+pandemic. We also benefitted from strong sales of hand and skin sanitizing products at our U.K.-based Quat-Chem location in the first quarter of this fiscal year.
+Genomics Services -
+Sales of genomics services sold through our Food Safety operations increased 12% in fiscal 2021 compared to the prior year, primarily due to higher sales in the Chinese porcine and bovine markets.
+Animal Safety:
+Life Sciences -
+Sales in this category decreased 10% in fiscal 2021 compared to the same period in the prior year, primarily the result of lower forensic drug test kit sales to large commercial labs in the U.S. as the COVID-19
+pandemic created less demand for testing; a reduction in sales of products to the U.S. horse racing industry in the U.S. also contributed to the decline, as racing activity was down.
+Veterinary Instruments
+& Disposables -
+Revenues in this category increased 12% in fiscal 2021 compared to fiscal 2020. Veterinary instruments sales increased 16% for the year, led by increases in detectable needles and syringes as we gained new customers and market share from a key competitor. Partially offsetting this increase was a 9% decline in protective wear sales, as gloves were on backorder for much of the current year due to COVID related demand.
+Animal Care
+& Other -
+Sales of these products increased 26% in fiscal 2021 compared to fiscal 2020; this category includes sales of food safety products sold through our Australian operation, the result of a February 2020 acquisition of a distributor. Excluding these sales, revenues in this category increased 21%. Sales of our small animal supplements, vitamin injectables, and joint pain products benefitted from growth in veterinary markets, as the COVID-19
+pandemic has led to an increase in pet ownership, particularly dogs and cats. Additionally, sales rose for our equine supplements and antibiotics, due to strong demand in these markets. This category also includes sales of our thyroid treatment for dogs, which became available for sale late in the fourth quarter. Partially offsetting these gains was a 49% decline in sales of dairy supplies due to the June 2020 termination of an agreement in which we distributed these products for a large manufacturer of dairy equipment.
+Rodenticides, Insecticides
+& Disinfectants -
+Sales in this category increased 13% in fiscal 2021, compared to the prior year. Rodenticide sales increased 42% as rodent pressure in certain areas of the U.S. increased significantly. Insecticide sales rose 15%, due in part to our acquisition of the StandGuard product line for fly control on July 31, 2020; organic sales in this category increased 7%. Cleaners and disinfectants sales decreased 15% resulting from lower sales of water treatment products and the transfer of a product line to our U.K. operation; additionally, opportunistic sales of sanitizing products in the fourth quarter of the prior year, due to extremely high demand early in the COVID-19
+pandemic, did not continue at those levels in fiscal 2021.
+Genomics Services -
+Sales in this category increased 14% in fiscal 2021 compared to fiscal 2020. The growth was led by strong increases to the U.S. and Australian companion animal markets, driven by increased pet adoption and higher consumer spending on pets during the COVID-19
+pandemic. Gains in the commercial beef and beef association markets in the U.S., Canada and Australia also contributed to the growth, as well as the recent launch of a new high-density chip for white leg shrimp.
+COST OF REVENUES
+Cost of revenues increased 12% in fiscal 2022 compared to fiscal 2021 and increased 14% in fiscal 2021 compared to fiscal 2020. This compares with revenue increases of 13% in fiscal 2022 and 12% in fiscal 2021. Expressed as a percentage of sales, cost of revenues was 53.9%, 54.1% and 53.1% in fiscal years 2022, 2021 and 2020, respectively. Gross margins were 46.1%, 45.9%, and 46.9% for fiscal years 2022, 2021, and 2020, respectively.
+Fiscal 2022
+- Our overall gross margin increased 20 basis points in fiscal 2022, primarily from a product mix shift to higher margin products in the Animal Safety segment. Partially offsetting this were higher raw material and freight costs within each segment, which resulted from continued supply chain disruptions, inflationary pressure, and ongoing issues related to COVID-19
+and its variants across most of our markets. The Company has taken pricing actions where appropriate in response to these cost increases.
+Fiscal 2021
+- Our overall gross margin declined 100 basis points in fiscal 2021 as pressure on the worldwide supply chain caused by the COVID-19
+pandemic resulted in increased overhead costs; in particular, freight costs on inventory purchases increased 53% in fiscal 2021 compared to the prior year. Additional cost increases resulted from personnel costs, in part from the increased volumes, but also due to labor
+shortages, contracted services primarily related to our recently launched instruments, and higher health insurance costs domestically, as employees and their families utilized elective medical services postponed from the fourth quarter of fiscal 2020 due to COVID-19.
+To a lesser extent, the shift in mix within the Food Safety segment towards products with lower gross margins negatively impacted the consolidated gross margin percentage.
+Food Safety Gross Margins:
+Food Safety gross margins were 50.2%, 49.2% and 51.4% in fiscal years 2022, 2021 and 2020, respectively.
+Fiscal 2022 -
+Food Safety margins increased 100 basis points in fiscal 2022, due to a product mix shift within the segment toward higher sales of diagnostic test kits in fiscal 2022; gross margin was also aided by a full year of sales of food quality products and enzymes from the Megazyme acquisition.
+Fiscal 2021 -
+Food Safety margins decreased 220 basis points in fiscal 2021, primarily due to higher sales of equipment such as the Soleris NG, which was launched in the current year and has lower gross margins than our diagnostic test kits, and cleaners and disinfectants sold through our China location, which reports through the Food Safety segment. We were also negatively impacted by increased freight, labor and other overhead costs throughout the segment.
+Animal Safety Gross Margins:
+Animal Safety gross margins were 42.1%, 42.6% and 42.3% in fiscal years 2022, 2021 and 2020, respectively.
+Fiscal 2022 -
+Animal Safety gross margins decreased by 50 basis points in fiscal 2022, primarily due to significant product cost increases and international freight charges. Negative mix effects occurred from lower sales of higher margin rodenticide products and companion animal services.
+Fiscal 2021 -
+Animal Safety gross margins increased by 30 basis points, primarily from strong sales of higher margin rodenticide and companion animal products and cost efficiencies; somewhat offsetting these gains, gross margin in this segment was negatively impacted by higher freight costs as rates to bring product into inventory rose significantly during the year, from both domestic and international sources.
+OPERATING EXPENSES
+Overall operating expenses increased by 31% in fiscal 2022 and 9% in fiscal 2021, each compared to the prior year. Legal, consulting and other professional fees totaling $25.6 million were incurred in conjunction with due diligence, negotiation of terms and integration planning for our proposed business combination with 3M’s Food Safety business, which was announced on December 14, 2021. Excluding costs related to the 3M transaction, operating expenses were $158.8 million, an increase of 13% compared to the prior year.
+Sales and Marketing:
+Sales and marketing expenses increased by 15% in fiscal 2022 compared to fiscal 2021 and increased 5% in fiscal 2021 compared to the prior year. As a percentage of sales, sales and marketing expense was 16.0%, 15.7% and 16.7% in fiscal years 2022, 2021 and 2020, respectively.
+Fiscal 2022
+- The $11.2 million, or 15%, increase in sales and marketing expenses in fiscal 2022 resulted primarily from increases in employee compensation expenses such as salaries, bonuses, and commissions, and shipping expense, both reflecting the increase in revenues. Travel, meals and entertainment, and tradeshow expense were also higher, with customer-facing activities increasing significantly, the result of the easing of COVID-19 restrictions.
+Fiscal 2021
+- The $3.8 million, or 5%, increase in sales and marketing expenses in fiscal 2021 resulted primarily from increases in employee compensation expenses such as salaries, bonuses, and commissions, reflecting the increase in sales for the year, as well as increased headcount as we returned to normal staffing levels. In addition, shipping costs rose in line with revenues, health insurance costs rose as employees and their families resumed receiving medical treatment and procedures which had been deferred in the fourth quarter of the prior fiscal year. Advertising and outside services also increased to support the launch of a number of new products during the year, most notably the Soleris NG and AccuPoint NG readers. Partially offsetting these increases was $3 million in decreased spending for travel and meals and entertainment for the year, the result of travel restrictions and reductions in face-to-face
+sales activities in most of our markets for the majority of the year. Travel and in person customer meetings did begin to pick up in some geographic areas in the second half of fiscal 2021 as COVID-19
+restrictions were eased.
+General and Administrative:
+General and administrative expenses rose 62% in fiscal 2022 compared to fiscal 2021 and by 15% in fiscal 2021 compared to fiscal 2020. Legal, consulting and other professional fees totaling $25.6 million were incurred in conjunction with due diligence, negotiation of terms and integration planning for our proposed transaction to combine with 3M’s Food Safety business. Excluding costs related to the 3M transaction, general and administrative expenses increased 12% compared to the prior year. As a percentage of sales, general and administrative expense was 15.7% (10.8% excluding 3M transaction costs), 10.9% and 10.6% in fiscal years 2022, 2021 and 2020, respectively.
+Fiscal 2022 -
+In fiscal 2022, we spent $25.6 million on strategic consulting, legal and other professional fees related to due diligence, negotiation of terms and integration planning for our proposed transaction to combine with 3M’s Food Safety business. Excluding these costs, the increase in general and administrative expense in fiscal 2022 was 12%. Other increases in the current year included compensation related costs due to increased headcount and improved operating performance, incremental amortization expenses (non-cash)
+from recent acquisitions, higher levels of depreciation (non-cash)
+and related software and licensing costs from continued investments in information technology infrastructure and applications.
+Fiscal 2021 -
+In fiscal 2021, we spent $3.1 million on strategic consulting, legal and other professional fees related to acquisition activity for businesses which we were ultimately not successful in acquiring. Excluding these costs, the increase in general and administrative expense in fiscal 2021 was 8%. Other increases in the current year included compensation increases due to increased headcount, including the addition of a number of senior management positions, incremental amortization expenses (non-cash)
+resulting from recent acquisitions, and higher levels of depreciation (non-cash)
+and related software and licensing costs from continued investments in information technology infrastructure and applications. Increases in this cost category resulting from the Megazyme acquisition totaled $957,000.
+Research and Development:
+Research and development expenses increased 5% in fiscal 2022 and 10% in fiscal 2021, each compared to the prior year. As a percentage of revenue, these expenses were 3.2% in fiscal year 2022, 3.5% in fiscal year 2021 and 3.5% in fiscal year 2020; we expect to spend between 3% and 4% of total revenue on research and development annually as we continue to make investments in our future growth.
+Fiscal 2022 -
+The 5% increase in research and development expenses in fiscal 2022 was primarily the result of increased compensation expense, resulting from scheduled annual increases and additional headcount, and increases in contracted services related to new product development. These increases were partially offset by a decrease in external reader development costs; these projects were completed in the prior fiscal year.
+Fiscal 2021 -
+The 10% increase in research and development expenses in fiscal 2021 was primarily the result of increased compensation expense, resulting from scheduled annual increases and additional headcount from the Megazyme acquisition, project expense relating to new product innovation, spending with outside partners on the new readers launched in this fiscal year, and testing and approval costs for new product development.
+OPERATING INCOME
+Operating income decreased 21% in fiscal 2022 compared to fiscal 2021 and increased by 10% in fiscal 2021 compared to fiscal 2020. Excluding the $25.6 million in transaction costs associated with 3M’s Food Safety business, operating income increased 13% in fiscal 2022 compared to the prior year. Expressed as a percentage of revenues, operating income was 11.1% (16.0% excluding 3M transaction costs), 15.8% and 16.1% in fiscal years 2022, 2021 and 2020, respectively. Gross margins rose by $28.0 million, or 13% in fiscal 2022 compared to the prior fiscal year; this was more than offset by a $43.5 million increase in operating expenses (including $25.6 million of 3M transaction costs).
+In fiscal 2021, gross margins rose by $18.8 million, or 10%; this increase was partially offset by an increase of $12.1 million, or 9%, in operating expenses, resulting in a $6.6 million, or 10%, increase in operating income compared to fiscal 2020.
+OTHER INCOME (EXPENSE)
+Other Income (Expense) for the previous three fiscal years consisted of the following:
+Interest income decreased by $347,000 in fiscal 2022 compared to fiscal 2021, due to lower interest rates in effect for most of the fiscal year. The loss from foreign currency translations in fiscal years 2022, 2021 and 2020 is the result of the changes in the value of foreign currencies relative to the U.S. dollar in countries in which we operate; the dollar strengthened against most of these currencies in all three years.
+In fiscal 2022, we recorded adjustments totaling $220,000 for contingent consideration accruals related to acquisitions completed in prior years. In fiscal 2021, we received proceeds of $309,000 for a property loss settlement and recorded $300,000 of expense resulting from a legal settlement with a vendor. Additionally, adjustments to contingent consideration accruals in fiscal 2021 resulted in $148,000 of income. In fiscal 2020, we took a charge to expense and recorded a reserve of $600,000 to provide for potential fines or penalties resulting from an administrative subpoena issued by the U.S. Treasury Department’s Office of Foreign Asset Control. This was partially offset by a $483,000 gain resulting from a settlement with the Brazilian government related to sales taxes charged over several years, and proceeds received for a property loss settlement.
+PROVISION FOR INCOME TAXES
+Income tax expense for fiscal 2022 was $11.9 million, an effective tax rate of 19.8%, compared to income tax expense of $14.4 million in 2021, an effective tax rate of 19.1%. For fiscal 2020, income tax expense of $12.8 million represented an effective tax rate of 17.7%.
+Differences from the U. S. statutory rate of 21% to our effective rate are primarily due to provisions in the U.S. Tax Act and the exercise of stock options. Please refer to Note 6 to the consolidated financial statements for more information.
+NET INCOME AND INCOME PER SHARE
+Net income decreased 21% in fiscal 2022 compared to fiscal 2021, due to $25.6 million of professional fees related to the 3M transaction. Excluding these costs and adjusting the tax rate accordingly, net income would have been $67.9 million, an increase of 12% compared to fiscal 2021.
+Net income increased 2% in fiscal 2021 compared to fiscal 2020, primarily due to the $6.7 million increase in operating income. The increase in operating income was partially offset by lower other income and higher tax expense for the year.
+NON-GAAP
+FINANCIAL MEASURES
+This report includes certain financial information of Neogen that differs from what is reported in accordance with GAAP. These non-GAAP
+financial measures consist of EBITDA, Adjusted EBITDA and Adjusted EBITDA margin. These non-GAAP
+financial measures are included in this report because management believes that they provide investors with additional useful information to measure the performance of Neogen, and because these non-GAAP
+financial measures are frequently used by securities analysts, investors and other interested parties as common performance measures to compare results or estimate valuations across companies in Neogen’s industries.
+EBITDA
+We define EBITDA as net income before interest, income taxes, and depreciation and amortization. We present EBITDA as a performance measure because it may allow for a comparison of results across periods and results across companies in the industries in which Neogen operates on a consistent basis, by removing the effects on operating performance of (a) capital structure (such as the varying levels of interest expense and interest income), (b) asset base and capital investment cycle (such as depreciation and amortization) and (c) items largely outside the control of management (such as income taxes). EBITDA also forms the basis for the measurement of Adjusted EBITDA (discussed below).
+Adjusted EBITDA
+We define Adjusted EBITDA as EBITDA, adjusted for stock-based compensation and certain transaction fees and expenses. We present EBITDA because it provides an understanding of underlying business performance by excluding the following:
+•
+Stock-based compensation
+. We believe it is useful to exclude stock-based compensation to better understand the long-term performance of the respective core businesses and to facilitate comparison with the results of peer companies.
+•
+Certain transaction fees and expenses.
+We exclude fees and expenses related to certain transactions because they are outside of Neogen’s underlying core performance.
+Adjusted EBITDA margin
+We define Adjusted EBITDA margin as Adjusted EBITDA as a percentage of total revenues. We present Adjusted EBITDA margin as a performance measure to analyze the level of Adjusted EBITDA generated from total revenue.
+These non-GAAP
+financial measures are presented for informational purposes only. EBITDA, Adjusted EBITDA and Adjusted EBITDA margin are not recognized terms under GAAP and should not be considered in isolation or as a substitute for, or superior to, net income (loss), operating income, cash flow from operating activities or other measures of financial performance. This information does not purport to represent the results Neogen would have achieved had any of the transactions for which an adjustment is made occurred at the beginning of the periods presented or as of the dates indicated. This information is inherently subject to risks and uncertainties. It may not give an accurate or complete picture of Neogen’s financial condition or results of operations for the periods presented and should not be relied upon when making an investment decision.
+The use of the terms EBITDA, Adjusted EBITDA and Adjusted EBITDA margin may not be comparable to similarly titled measures used by other companies or persons due to potential differences in the method of calculation.
+These non-GAAP
+financial measures have limitations as analytical tools. For example, for EBITDA-based metrics:
+•
+they do not reflect changes in, or cash requirements for, Neogen’s working capital needs;
+•
+they do not reflect Neogen’s tax expense or the cash requirements to pay taxes;
+•
+they do not reflect the historical cash expenditures or future requirements for capital expenditures or contractual commitments;
+•
+they do not reflect any cash requirements for future replacements of assets that are being depreciated and amortized; and
+•
+they may be calculated differently from other companies in Neogen’s industries limiting their usefulness as comparative measures.
+You should compensate for these limitations by relying primarily on the financial statements of Neogen and using these non-GAAP
+financial measures only as a supplement to evaluate Neogen’s performance.
+For each of these non-GAAP
+financial measures below, we are providing a reconciliation of the differences between the non-GAAP
+measure and the most directly comparable GAAP measure.
+Reconciliation between net income and EBITDA and Adjusted EBITDA is as follows:
+EBITDA, ADJUSTED EBITDA AND ADJUSTED EBITDA MARGIN %
+Adjusted EBITDA increased 11% in fiscal 2022 compared to fiscal 2021, due to revenue growth and improved gross margins. Adjusted EBITDA increased 14% in fiscal 2021 compared to fiscal 2020, the result of revenue growth and lower spending on travel and other customer-facing activities.
+FUTURE OPERATING RESULTS
+Neogen Corporation’s future operating results involve a number of risks and uncertainties. Actual events or results may differ materially from those discussed in this report. Factors that could cause or contribute to such differences include, but are not limited to, the factors discussed below as well as those discussed elsewhere in this report. Management’s ability to grow the business in the future depends upon our ability to successfully implement various strategies, including:
+•
+developing, manufacturing and marketing new products with new features and capabilities, and having those new products successfully accepted in the marketplace;
+•
+expanding our markets by fostering increased use of our products by customers;
+•
+maintaining or increasing gross and net operating margins in changing cost environments;
+•
+strengthening operations and sales and marketing activities in geographies outside of the U.S.;
+•
+developing and implementing new technology development strategies; and
+•
+identifying and completing acquisitions that enhance existing product categories or create new products or services, and successfully integrating completed acquisitions, including our previously announced proposed transaction to combine with 3M’s Food Safety business.
+FINANCIAL CONDITION AND LIQUIDITY
+On May 31, 2022, we had $44.5 million in cash and cash equivalents, $336.6 million in marketable securities, and net working capital of $549.0 million. For the year ended May 31, 2022, cash generated from operating activities was $68.0 million, compared to $81.1 million generated in fiscal 2021; proceeds from stock option exercises provided an additional $7.9 million of cash. For the same period, additions to property, equipment and other non-current
+assets were $24.4 million and business acquisitions used cash of $38.7 million. We have a financing agreement with a bank providing for an unsecured revolving line of credit of $15.0 million, which expires on November 30, 2023. Upon close of the 3M Food Safety transaction, this credit facility will terminate and be replaced with a larger, revolving facility. There were no advances against this line of credit during fiscal years 2022, 2021 and 2020, and no balance outstanding at May 31, 2022 and 2021.
+Net accounts receivable at May 31, 2022 were $99.7 million, compared to $91.8 million at May 31, 2021; the increase is primarily due to the increased sales in the fourth quarter of fiscal 2022 compared to the corresponding period a year ago. Our days sales outstanding, a measurement of the time it takes to collect receivables, improved to 62 days at May 31, 2022 compared to 66 days at May 31, 2021.
+Inventory balances were $122.3 million at May 31, 2022, an increase of $21.6 million, or 21%, compared to $100.7 million at May 31, 2021, In addition to adding $1.7 million of acquired inventory in fiscal 2022, we also increased ordering quantities and inventory levels to overcome supply chain constraints and minimize delays to customers.
+On December 13, 2021, Neogen, 3M, and Garden Spinco, a newly formed subsidiary of 3M created to carve out 3M’s Food Safety business announced that they had entered into a definitive agreement pursuant to which 3M would separate its Food Safety business and simultaneously combine it with Neogen in a Reverse Morris Trust transaction, which is intended to be tax-efficient to 3M and its shareholders for U.S. federal income tax purposes. Under the terms of the definitive agreements, at the completion of the transaction, Neogen will issue a number of shares to 3M shareholders such that 3M shareholders will receive approximately 50.1% of the combined company and existing Neogen shareholders will continue to own approximately 49.9% of the combined company. In connection with the transaction, 3M will also receive consideration valued at approximately $1 billion, subject to closing and other adjustments. The transaction is expected to close by the end of the third quarter calendar year 2022, subject to approval by Neogen shareholders and the satisfaction of other customary closing conditions.
+On June 30, 2022, Garden Spinco entered into a credit agreement consisting of a five-year senior secured term loan facility in the amount of $650.0 million and a five-year senior secured revolving facility in the amount of $150.0 million (collectively, the “Credit Facilities”), which, subject to customary closing conditions, will be available in connection with the merger and related transactions. The Credit Facilities, together with the Notes below, when incurred, represent the financing contemplated in connection with the merger.
+In July 2022 Garden SpinCo closed on an offering of $350.0 million aggregate principal amount of 8.625% senior notes due 2030 (the “Notes”) in a private placement at par. The Notes were initially issued by Garden SpinCo to 3M and were transferred and delivered by 3M to the selling securityholder in the offering, in satisfaction of certain of 3M’s existing debt. Garden SpinCo did not receive any proceeds from the sale of the Notes by the selling securityholder. Prior to the distribution of the shares of Garden SpinCo’s common stock to 3M stockholders, the Notes will be guaranteed on a senior unsecured basis by 3M. Upon consummation of such distribution, 3M will be released from all obligations under its guarantee. Upon the effectiveness of the merger, the Notes will be guaranteed on a senior unsecured basis by Neogen and certain wholly-owned domestic subsidiaries of Neogen.
+In addition to the 3M transaction described above, our future cash on hand and borrowing capacity may not be sufficient to meet cash requirements to commercialize products currently under development or execute our future plans to acquire additional businesses, technology and products that fit within our strategic plan. Accordingly, we may be required, or may choose, to issue additional equity securities or enter into other financing arrangements for a portion of our future capital needs.
+We are subject to certain legal and other proceedings in the normal course of business that have not had, and, in the opinion of management, are not expected to have, a material effect on our results of operations or financial position.
+CONTRACTUAL OBLIGATIONS
+As of May 31, 2022, we have the following contractual obligations due by period:
+(1) Unconditional purchase obligations are primarily purchase orders for future inventory and capital equipment purchases.
+We continue to make investments in our business and operating facilities. Our preliminary estimate for capital expenditures related to our existing operations in fiscal 2023 is $20 to $25 million; we also expect to spend approximately $70 million over the next two fiscal years to construct a manufacturing facility and $50 million over the next two fiscal years to implement a new enterprise resource planning solution. In conjunction with our planned transaction with 3M’s food safety business, we will spend an additional $3 to $5 million on capital leases and capital improvements on leased facilities in fiscal 2023.
+NEW ACCOUNTING PRONOUNCEMENTS
+See discussion of any New Accounting Pronouncements in Note 1 to consolidated financial statements.

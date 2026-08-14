@@ -1,0 +1,211 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion of our financial condition and results of operations should be read in conjunction with our audited financial statements and the related notes included in Part II, Item 8 of this Form 10-K. The following discussion focuses on the results of our operations for the year ended December 31, 2021 compared to the year ended December 31, 2020. Similar discussion of the results of our operations for the year ended December 31, 2020 compared to the year ended December 31, 2019 can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2020.
+Overview
+Currently, our development efforts are primarily focused on automotive lidar sensors and an advanced driver-assisted systems, or ADAS, solution. Our integrated solution will combine our solid-state lidar sensor, custom ASICs, and software targeted for sale to automotive OEMs and Tier-1 automotive suppliers. Our development efforts continue and we expect to test our solution and demonstrate its capabilities during the first half of 2022. Although we are forecasting small quantities of sales in 2022, we do not expect to achieve significant, sustained revenue from our ADAS solution in the near term.
+Although automotive lidar is our priority now, we have developed solutions for Augmented Reality, Interactive Displays, and Consumer Lidars. For the past few years, our strategy has been to sell AR displays or components, Interactive Displays, or Consumer Lidars to original equipment manufacturers (OEMs) and original design manufacturers (ODMs) for incorporation into their products. Currently, our sole customer is Microsoft Corporation. Our arrangement with this customer generates royalty income; however, the volume of sales and resulting royalties from that arrangement are not significant. In the recent past, we have been unable to secure additional customers to launch one of our products.
+We have incurred substantial losses since inception and expect to incur a significant loss during the fiscal year ending December 31, 2022. We have funded operations to date primarily through the sale of common stock, convertible preferred stock, warrants, the issuance of convertible debt and, to a lesser extent, from development contract revenues, product sales and licensing activities. There can be no assurance that additional capital will be available or that, if available, it will be available on terms acceptable to us on a timely basis. We cannot be certain that we will succeed in commercializing our technology or products.
+Continuing Impact of COVID-19 on Our Business
+Our business operations continue to be impacted by the ongoing COVID-19 pandemic. Government restrictions in the early days of the pandemic caused us to mostly close our offices in early 2020. To support our hardware development efforts, we reopened our offices in July 2021 while maintaining compliance with government mandates and health agency protocols, including masking requirements and encouraging vaccination. Some of our office employees continue to work remotely or on hybrid schedules. We may experience reductions in productivity and disruptions to our business routines while our hybrid work policy remains in place, or if our employees become ill and are unable to work, which could have an adverse effect on the timing of our development activities. We will continue to prioritize the health and safety of our employees as we adapt our workplace policies based on evolving government regulation, health agency advice, and industry best practice.
+In addition, particularly in connection with the recent resurgence of COVID-19 and its new variants, several of our suppliers have experienced closures or have been operating at reduced capacity, resulting in lower component availability. Continued disruptions to our supply chain could have a material impact on our future operations. Moreover, various global travel restrictions and office closures have hampered our business development efforts, making it more difficult to engage with potential customers and partners, which could have a material negative impact on our business prospects.
+In April 2020, we received funds in the amount of approximately $1.6 million pursuant to a loan under the Paycheck Protection Program of the 2020 CARES Act (PPP) administered by the Small Business Administration. The loan has an interest rate of 0.98% and a term of 24 months. Due to an extension of the program, no payments were due until August 2021, although interest accrued during that period. Thereafter, the loan became repayable in monthly installments through April 2022 to retire the loan plus accrued interest. Funds from the loan could only be used for certain purposes, including payroll, benefits, rent and utilities, and a portion of the loan used to pay certain costs was forgivable, all as provided by the terms of the PPP. The CARES Act provided that the forgivable portion of the PPP loan could be reduced if the borrower reduced full-time equivalent employees during the covered period as compared to a base period. As of December 31, 2020, all of the funds received under the PPP had been used for qualified purposes. We applied for and received partial forgiveness of the loan of approximately $690,000 in accordance with PPP guidelines. The forgiveness was recorded in our financial statements in the third quarter of 2021. As of December 31, 2021, we have made principal payments totaling $488,000 on the loan. The loan is evidenced by a promissory note, which contains customary events of default relating to, among other things, payment defaults and breaches of representations and warranties. We may prepay the loan at any time prior to maturity with no prepayment penalties.
+Key accounting policies and estimates
+Our discussion and analysis of our financial condition and results of operations are based upon our financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that materially affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent liabilities. We evaluate our estimates on a continuous basis. We base our estimates on historical data, terms of existing contracts, our evaluation of trends in the consumer display and 3D sensing industries, information provided by our current and prospective customers and strategic partners, information available from other outside sources and on various other assumptions we believe to be reasonable under the circumstances. The results form the basis for making judgments regarding the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+We believe the following key accounting policies require significant judgments and estimates used in the preparation of our financial statements.
+Revenue recognition
+Revenues are recognized when control of the promised goods or services are transferred to our customers, in an amount that reflects the consideration that we expect to receive in exchange for those goods or services. We generate all of our revenue from contracts with customers.
+Our contract revenue in a particular period is dependent upon when we enter into a contract, the value of the contracts we have entered into, and the availability of technical resources to perform work on the contracts. We recognize contract revenue either at a point in time, or over time, depending upon the characteristics of the individual contract. If control of the deliverable(s) occur over time, the revenue is recognized in proportion to the transfer of control. If control passes to the customer only upon completion and transfer of the asset, revenue is recognized at the completion of the contract. In contracts that include significant customer acceptance provisions, we recognize revenue only upon acceptance of the deliverable(s).
+We identify each performance obligation in our development contracts at contract inception. The contracts generally include product development and customization specified by the customer. In contracts with multiple performance obligations, we identify each performance obligation and evaluate whether the performance obligations are distinct within the context of the contract. Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. Performance obligations that are not distinct at contract inception are combined.
+If we identify multiple distinct performance obligations, we evaluate each performance obligation to determine if there is a stand-alone selling price. In instances where stand-alone selling price is not directly observable, such as when we do not sell the product or service separately, we determine the stand-alone selling price using information that may include market conditions and other observable inputs. Judgment is required to determine the stand-alone selling price for each distinct performance obligation.
+Our development contracts are primarily fixed-fee contracts. If control of deliverables occurs over time, we recognize revenue on fixed fee contracts on the proportion of total cost expended (under Topic 606, the ‘input method’) to the total cost expected to complete the contract performance obligation. For contracts that require the input method for revenue recognition, the determination of the total cost expected to complete the performance obligations on fixed fee contracts involves significant judgment. We incorporate revisions to hour and cost estimates when the causal facts become known.
+Share-based compensation
+We issue share-based compensation to employees in the form of stock options, restricted stock units (RSUs), and performance stock units (PSUs). We account for the share-based awards by recognizing the fair value of share-based compensation expense on a straight-line basis over the service period of the award, net of estimated forfeitures. The fair value of stock options is estimated on the grant date using the Black-Scholes option pricing model. The fair value of RSUs and non-executive PSUs is determined by the closing price of our common stock on the grant date. For performance-based awards, expense is recognized when it is probable the performance criteria will be achieved. If the likelihood becomes improbable that the performance criteria will be achieved, the expense is reversed. Executive PSUs that have market-based performance criteria are valued using a binomial option pricing model using the following inputs: stock price, volatility, and risk-free interest rates. Changes in estimated inputs or using other option valuation methods may result in materially different option values and share-based compensation expense.
+Leases
+Significant judgment may be required when determining whether a contract contains a lease, the length of the lease term, the allocation of the consideration in a contract between lease and non-lease components, and the determination of the discount rate included in our office lease. We review the underlying objective of each contract, the terms of the contract, and consider our current and future business conditions when making these judgments.
+Income taxes
+Significant judgment is required in evaluating our tax position and in determining our provision for income taxes, our deferred tax assets and liabilities and any valuation allowance recorded against our net deferred tax assets. We record a valuation allowance when necessary to reduce deferred tax assets to the amount expected to be realized. Based on our history of losses since inception, the available objective evidence creates sufficient uncertainty regarding the realizability of the deferred tax assets. Our actual tax exposure may differ from our estimates and any such differences may impact income our tax expense in the period in which such determination is made.
+The key accounting policies described above are not intended to be a comprehensive list of all of our accounting policies. In many cases, the accounting treatment of a particular transaction is specifically dictated by generally accepted accounting principles, with no need for us to apply judgment or make estimates. There are also areas in which our judgment in selecting any available alternative would not produce a materially different result to our financial statements. Additional information about our accounting policies, and other disclosures required by generally accepted accounting principles, are set forth in the notes to our financial statements.
+Results of Operations
+YEAR ENDED DECEMBER 31, 2021 COMPARED TO YEAR ENDED DECEMBER 31, 2020.
+Product revenue
+% of
+% of
+total
+total
+revenue
+revenue
+$ change
+% change
+(In thousands)
+Product revenue
+$ -
+-
+$ 1,347
+43.6
+$ (1,347)
+(100.0)
+Product revenue is revenue from sales of our products which are LBS modules and their components. Revenue is recognized when control of the goods passes to the customer.
+The decrease in product revenue for the year ended December 31, 2021 compared to the same period in 2020 was due to ceasing product shipments in March 2020 in connection with our transfer of production to our customer. From the third quarter of 2019 through the end of February 2020, we produced and sold to the customer components to a high definition display system that we developed for the customer pursuant to a development agreement. The volume and resulting revenue and gross profit from this arrangement was fairly low. Therefore, in March 2020 we transferred production of the components to the customer. Starting in March 2020, instead of recognizing product revenue and the related cost, we earn a royalty from the customer for each unit shipped.
+Product revenue backlog at December 31, 2021 and 2020 was zero.
+License and royalty revenue
+% of
+% of
+total
+total
+revenue
+revenue
+$ change
+% change
+(In thousands)
+License and royalty revenue
+$ 2,500
+100.0
+$ 1,718
+55.6
+$
+45.5
+License and royalty revenue is revenue under license agreements to our PicoP® scanning technology. We recognize revenue on upfront license fees at a point in time if the nature of the license granted is a right-to-use license, representing functional intellectual property with significant standalone functionality. If the nature of the license granted is a right-to-access license, representing symbolic intellectual property, which excludes significant standalone functionality, we recognize revenue over the period of time we have ongoing obligations under the agreement. We will recognize revenue from sales-based royalties on the basis of the quarterly reports provided by our customer as to the number of royalty-bearing products sold or otherwise distributed. In the event that reports are not received, we will estimate the number of royalty-bearing products sold by our customers.
+As described above, in March 2020, our customer took over production of components that we had been producing for them. As a result, beginning in March 2020, we earn a royalty on each component shipped that is approximately equal to the gross profit we would have earned if we had continued to produce and ship the components. The increase in license and royalty revenue for the year ended December 31, 2021 compared to the same period in 2020 was primarily due to this change, resulting in revenue from this arrangement being recognized as royalty revenue rather than as product revenue with a related cost of product revenue. As we recognize this revenue, we record a corresponding reduction in the $10.0 million prepayment that we received from this customer in 2017; accordingly, no cash will be received for this royalty revenue unless and until the prepayment is exhausted.
+Contract revenue
+% of
+% of
+total
+total
+revenue
+revenue
+$ change
+% change
+(In thousands)
+Contract revenue
+$ -
+-
+$
+0.8
+$ (25)
+(100.0)
+Contract revenue includes revenue from performance on development contracts and the sale of prototype units and evaluation kits based on our PicoP® scanning module. Our contract revenue in a particular period is dependent upon when we enter into a contract, the value of the contracts we have entered into, and the availability of technical resources to perform work on the contracts. We recognize contract revenue either at a point in time, or over time, depending upon the characteristics of the individual contract. If control of the deliverable(s) occurs over time, the revenue is recognized in proportion to the transfer of control. If control passes to the customer only upon completion and transfer of the asset, revenue is recognized at the completion of the contract. In contracts that include significant customer acceptance provisions, we recognize revenue only upon acceptance of the deliverable(s).
+The decrease in contract revenue during the year ended December 31, 2021 compared to the same period in 2020 was attributed to decreased support contract activity with our customer and no prototype shipments. Our contract backlog at December 31, 2021 and 2020 was zero.
+Cost of product revenue
+% of
+% of
+product
+product
+revenue
+revenue
+$ change
+% change
+(In thousands)
+Cost of product revenue
+$
+n/a
+$ 1,394
+103.5
+$ (1,392)
+(99.9)
+Cost of product revenue includes the direct and allocated indirect costs of products sold to customers. Direct costs include labor, materials, reserves for estimated warranty expenses, and other costs incurred directly, or charged to us by our contract manufacturers, in the manufacture of these products. Indirect costs include labor, manufacturing overhead, and other costs associated with operating our manufacturing capabilities and capacity. Manufacturing overhead includes the costs of procuring, inspecting and storing material, facility and other costs, and is allocated to cost of product revenue based on the proportion of indirect labor which supported production activities.
+Cost of product revenue can fluctuate significantly from period to period, depending on the product mix and volume, the level of manufacturing overhead expense and the volume of direct material purchased. Cost of product revenue was lower during the twelve months ended December 31, 2021 compared to the same period in 2020 due to ceasing product shipments to our customer after we transferred production to the customer in March 2020 and lower inventory write-downs.
+Cost of contract revenue
+% of
+% of
+contract
+contract
+revenue
+revenue
+$ change
+% change
+(In thousands)
+Cost of contract revenue
+$ -
+n/a
+$
+16.0
+$ (4)
+(100.0)
+Cost of contract revenue includes both the direct and allocated indirect costs of performing on contracts and producing prototype units and evaluation kits. Direct costs include labor, materials and other costs incurred directly in producing prototype units and evaluation kits or performing on a contract. Indirect costs include labor and other costs associated with operating our research and development department and building our technical capabilities and capacity. Cost of contract revenue is determined by the level of direct and indirect costs incurred, which can fluctuate substantially from period to period.
+The decrease in the cost of contract revenue during the year ended December 31, 2021 compared to the same period in 2020 was attributed to reduced contract activity.
+Research and development expense
+$ change
+% change
+(In thousands)
+Research and development expense
+$ 24,111
+$ 9,840
+$ 14,271
+145.0
+Research and development expense consists of compensation related costs of employees and contractors engaged in internal research and product development activities, direct material to support development programs, laboratory operations, outsourced development and processing work, and other operating expenses. We assign our research and development resources based on the business opportunity of the available projects, the skill mix of the resources available and the contractual commitments we have made to our customers. We believe that a substantial level of continuing research and development expense will be required to further develop our scanning technology.
+The increase in research and development expense during the year ended December 31, 2021 was primarily due to higher non-cash compensation expense of $5.4 million and higher personnel costs as a result of increased headcount of $3.2 million compared to the prior year. Research and development expense also includes increases in direct material of $1.1 million and direct equipment of $1.0 million related to the development of our lidar sensor.
+Sales, marketing, general and administrative expense
+$ change
+% change
+(In thousands)
+Sales, marketing, general and administrative expense
+$ 22,256
+$ 5,917
+$ 16,339
+276.1
+Sales, marketing, general and administrative expense includes compensation and support costs for marketing, sales, management and administrative staff, and for other general and administrative costs, including legal and accounting services, consultants and other operating expenses.
+The increase in sales, marketing, general and administrative expense during the year ended December 31, 2021 was primarily attributed to higher non-cash compensation expense of $8.6 million, increased professional services of $3.3 million and increased business insurance of $1.3 million compared to the prior year.
+Income taxes
+No provision for income taxes has been recorded because we have experienced net losses from inception through December 31, 2021. At December 31, 2021, we had net operating loss carryforwards of approximately $431.4 million for federal income tax reporting purposes. In addition, we have research and development tax credits of $9.0 million. During 2021, $31.2 million federal net operating losses expired unused. A majority of the net operating loss carryforwards and research and development credits available to offset future taxable income, if any, will expire in varying amounts from 2022 to 2041, if not previously used.
+In certain circumstances, as specified in the Internal Revenue Code, a 50% or more ownership change by certain combinations of our shareholders during any three-year period would result in a limitation on our ability to use a portion of our net operating loss carryforwards.
+We recognize interest accrued and penalties related to unrecognized tax benefits in tax expense. We did not have any unrecognized tax benefits at December 31, 2021 or at December 31, 2020.
+Liquidity and Capital Resources
+We have incurred significant losses since inception. We have funded operations to date primarily through the sale of common stock, convertible preferred stock, warrants, the issuance of convertible debt and, to a lesser extent, from development contract revenues, product sales, and licensing activities. At December 31, 2021, we had $82.6 million in cash and cash equivalents and $32.7 million in investment securities.
+Based on our current operating plan, we anticipate that we have sufficient cash and cash equivalents to fund our operations for at least the next 12 months.
+Operating activities
+Cash used in operating activities totaled $29.4 million during 2021, compared to $16.1 million in 2020. Cash used in operating activities resulted primarily from cash used to fund our net loss, after adjusting for non-cash charges such as share-based compensation, depreciation and amortization charges and changes in operating assets and liabilities. The changes in cash used in operating activities were primarily attributed to increased operating expenses to support the development of our lidar sensor.
+Investing activities
+Cash used in investing activities totaled $35.3 million in 2021, compared to cash provided by investing activities of $123,000 in 2020. During the year ended December 31, 2021, we purchased short-term investment securities totaling $32.8 million. During the year ended December 31, 2020, we sold fixed assets to our customer for $525,000 as part of our agreement with them to take over production of the components we had been producing. Purchases of property and equipment during the twelve months ended December 31, 2021 and 2020 were $2.5 million and $402,000, respectively.
+Financing activities
+Cash provided by financing activities totaled $131.2 million in 2021, compared to $27.0 million in 2020. Principal payments under finance leases were $28,000 in 2021 and $29,000 in 2020.
+The following is a list of our financing activities during 2021 and 2020.
+In June 2021, we entered into a $140.0 million ATM equity offering agreement with Craig-Hallum. Under the agreement we are able, at our discretion, to offer and sell shares of our common stock having an aggregate value of up to $140.0 million through Craig-Hallum. As of December 31, 2021, we had issued 4.0 million shares of our common stock for net proceeds of $67.8 million under this ATM agreement. There were no transactions under this agreement in the second half of 2021.
+In February 2021, we entered into a $50.0 million ATM equity offering agreement with Craig-Hallum. Under the agreement we were able, at our discretion, to offer and sell shares of our common stock having an aggregate value of up to $50.0 million through Craig-Hallum. We issued 2.5 million shares of our common stock for net proceeds of $48.8 million under this ATM agreement. No further shares are available for sales under this agreement.
+In December 2020, we entered into a $13.0 million ATM equity offering agreement with Craig-Hallum. Under the agreement we were able to, from time to time, at our discretion offer and sell shares of our common stock having an aggregate value of up to $13.0 million through Craig-Hallum. As of December 31, 2020, we had issued 1.0 million shares for net proceeds of $6.1 million that was received in January 2021. The $6.1 million was classified as subscriptions receivable on our December 31, 2020 balance sheet and is not included in the cash balance as of December 31, 2020. In January 2021, we issued 1.1 million shares of our common stock for net proceeds of $6.6 million under the agreement. In total, we issued 2.1 million shares of our common stock for net proceeds of $12.7 million under this ATM agreement. No further shares are available for sales under this agreement.
+In November 2020, we entered into a $10.0 million ATM equity offering agreement with Craig-Hallum Capital Group. As of December 31, 2020, we had completed sales under such sales agreement, having sold 4.9 million shares for net proceeds of $9.6 million.
+In April 2020, we received funds in the amount of $1.6 million pursuant to a loan under the PPP administered by the Small Business Administration. The loan has an interest rate of 0.98% and a term of 24 months. As of December 31, 2020, all of the funds received under the PPP had been used for qualified purposes. We applied for and, in July 2021, received partial forgiveness of the loan of approximately $690,000 in accordance with PPP guidelines. The forgiveness was recorded in our financial statements in the third quarter of 2021 as a gain on debt extinguishment. Due to an extension of the program, no payments were due until August 2021, although interest accrued during that period. Thereafter, the loan became repayable in monthly installments through April 2022 to retire the loan plus accrued interest. As of December 31, 2021, we have made principal payments totaling $488,000 on the loan.
+In December 2019, we entered into a Common Stock Purchase Agreement with Lincoln Park granting us the right to sell shares of our common stock having an aggregate value of up to $16.0 million. Under the terms of the agreement, Lincoln Park made an initial purchase of 1.5 million shares of common stock for $1.0 million at a purchase price of $0.6531 per share. Subject to various limitations and conditions set forth in the agreement, we were able to sell up to an additional $15.0 million in shares of common stock, from time to time, at our sole discretion to Lincoln Park over a 24-month period beginning December 2019. In consideration for entering into the agreement, we issued 375,000 shares of our common stock, having a value of $277,000, based on the closing stock price at the date of grant, to Lincoln Park as a commitment fee. We incurred an additional $90,000 in issuance costs. As of December 31, 2020, we had completed sales under such sales agreement, having sold 22.2 million shares for net proceeds of $15.6 million.
+Our capital requirements will depend on many factors, including, but not limited to, the rate at which OEMs and ODMs introduce products incorporating our LBS technology and the market acceptance and competitive position of such products. Our ability to raise capital will depend on numerous factors, including the following:
+· Perceptions of our ability to continue as a going concern;
+· Market acceptance of products incorporating our LBS technology;
+· Changes in evaluations and recommendations by any securities analysts following our stock or our industry generally;
+· Announcements by other companies in our industry;
+· Changes in business or regulatory conditions;
+· Announcements or implementation by our competitors of technological innovations or new products;
+· The status of particular development programs and the timing of performance under specific development agreements;
+· Economic and stock market conditions;
+· The cost of filing, prosecuting, defending and enforcing any patent claims and other intellectual property rights;
+· Our ability to establish cooperative development, joint venture and licensing arrangements; or
+· Other factors unrelated to our company or industry.
+If we are successful in establishing OEM or ODM co-development and joint venture arrangements, we expect our partners to fund certain non-recurring engineering costs for technology development and/or for product development. Nevertheless, we expect our capital requirements to remain high as we expand our activities and operations with the objective of commercializing our LBS technology.
+Contractual obligations
+The following table lists our contractual obligations as of December 31, 2021 (in thousands):
+Payments Due By Period
+Contractual Obligations
+< 1 year
+1-3 years
+3-5 years
+> 5 years
+Total
+Open purchase obligations * $ 2,324
+$
+$ -
+$ -
+$ 2,370
+Minimum payments under finance leases
+-
+-
+Minimum payments under operating leases+
+1,739
+3,451
+3,660
+10,696
+19,546
+$ 4,089
+$ 3,518
+$ 3,660
+$ 10,696
+$ 21,963
+* Open purchase obligations represent commitments to purchase materials, capital equipment, maintenance agreements and other goods used in the normal operation of our business.
++ Minimum payments under operating leases included payments associated with our forward-starting lease with a target commencement date of July 1, 2022.
+Recent accounting pronouncements
+See Note 2, "Summary of significant accounting policies," in the Notes to the financial statements found in Part II, Item 8 of this Form 10-K.

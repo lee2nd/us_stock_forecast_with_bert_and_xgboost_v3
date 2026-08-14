@@ -1,0 +1,505 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+MD&A discusses Dominion Energy’s results of operations, general financial condition and liquidity and Virginia Power’s results of operations as of and for the year ended December 31, 2021 as compared to the year ended December 31, 2020, as applicable. For a discussion of these items for the year ended December 31, 2020 as compared to the year ended December 31, 2019, please see Part II, Item 7. MD&A in the Companies’ Annual Report on Form 10-K for the year ended December 31, 2020, filed with the SEC on February 25, 2021. MD&A should be read in conjunction with Item 1. Business and the Consolidated Financial Statements in Item 8. Financial Statements and Supplementary Data. Virginia Power meets the conditions to file under the reduced disclosure format, and therefore has omitted certain sections of MD&A.
+CONTENTS OF MD&A
+MD&A consists of the following information:
+•
+Forward-Looking Statements
+•
+Accounting Matters-Dominion Energy
+•
+Dominion Energy
+•
+Results of Operations
+•
+Outlook
+•
+Segment Results of Operations
+•
+Virginia Power
+•
+Results of Operations
+•
+Liquidity and Capital Resources-Dominion Energy
+•
+Future Issues and Other Matters-Dominion Energy
+FORWARD-LOOKING STATEMENTS
+This report contains statements concerning the Companies’ expectations, plans, objectives, future financial performance and other statements that are not historical facts. These statements are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. In most cases, the reader can identify these forward-looking statements by such words as “anticipate,” “estimate,” “forecast,” “expect,” “believe,” “should,” “could,” “plan,” “may,” “continue,” “target” or other similar words.
+The Companies make forward-looking statements with full knowledge that risks and uncertainties exist that may cause actual results to differ materially from predicted results. Factors that may cause actual results to differ are often presented with the forward-looking statements themselves. Additionally, other factors may cause actual results to differ materially from those indicated in any forward-looking statement. These factors include but are not limited to:
+•
+Unusual weather conditions and their effect on energy sales to customers and energy commodity prices;
+•
+Extreme weather events and other natural disasters, including, but not limited to, hurricanes, high winds, severe storms, earthquakes, flooding, climate changes and changes in water temperatures and availability that can cause outages and property damage to facilities;
+•
+The impact of extraordinary external events, such as the current pandemic health event resulting from COVID-19, and their collateral consequences, including extended disruption of economic activity in our markets and global supply chains;
+•
+Federal, state and local legislative and regulatory developments, including changes in or interpretations of federal and state tax laws and regulations;
+•
+Risks of operating businesses in regulated industries that are subject to changing regulatory structures;
+•
+Changes to regulated electric rates collected by the Companies and regulated gas distribution, transportation and storage rates collected by Dominion Energy;
+•
+Changes in rules for RTOs and ISOs in which the Companies join and/or participate, including changes in rate designs, changes in FERC’s interpretation of market rules and new and evolving capacity models;
+•
+Risks associated with Virginia Power’s membership and participation in PJM, including risks related to obligations created by the default of other participants;
+•
+Risks associated with entities in which Dominion Energy shares ownership with third parties, including risks that result from lack of sole decision making authority, disputes that may arise between Dominion Energy and third party participants and difficulties in exiting these arrangements;
+•
+Changes in future levels of domestic and international natural gas production, supply or consumption;
+•
+Impacts to Dominion Energy’s noncontrolling interest in Cove Point from fluctuations in future volumes of LNG imports or exports from the U.S. and other countries worldwide or demand for, purchases of, and prices related to natural gas or LNG;
+•
+Timing and receipt of regulatory approvals necessary for planned construction or growth projects and compliance with conditions associated with such regulatory approvals;
+•
+The inability to complete planned construction, conversion or growth projects at all, or with the outcomes or within the terms and time frames initially anticipated, including as a result of increased public involvement, intervention or litigation in such projects;
+•
+Risks and uncertainties that may impact the Companies’ ability to develop and construct the CVOW Commercial Project within the currently proposed timeline, or at all, and consistent with current cost estimates along with the ability to recover such costs from customers;
+•
+Changes to federal, state and local environmental laws and regulations, including those related to climate change, the tightening of emission or discharge limits for GHGs and other substances, more extensive permitting requirements and the regulation of additional substances;
+•
+Cost of environmental strategy and compliance, including those costs related to climate change;
+•
+Changes in implementation and enforcement practices of regulators relating to environmental standards and litigation exposure for remedial activities;
+•
+Difficulty in anticipating mitigation requirements associated with environmental and other regulatory approvals or related appeals;
+•
+Unplanned outages at facilities in which the Companies have an ownership interest;
+•
+The impact of operational hazards, including adverse developments with respect to pipeline and plant safety or integrity, equipment loss, malfunction or failure, operator error and other catastrophic events;
+•
+Risks associated with the operation of nuclear facilities, including costs associated with the disposal of spent nuclear fuel, decommissioning, plant maintenance and changes in existing regulations governing such facilities;
+•
+Changes in operating, maintenance and construction costs;
+•
+Domestic terrorism and other threats to the Companies’ physical and intangible assets, as well as threats to cybersecurity;
+•
+Additional competition in industries in which the Companies operate, including in electric markets in which Dominion Energy’s nonregulated generation facilities operate and potential competition from the development and deployment of alternative energy sources, such as self-generation and distributed generation technologies, and availability of market alternatives to large commercial and industrial customers;
+•
+Competition in the development, construction and ownership of certain electric transmission facilities in the Companies’ service territory in connection with Order 1000;
+•
+Changes in technology, particularly with respect to new, developing or alternative sources of generation and smart grid technologies;
+•
+Changes in demand for the Companies’ services, including industrial, commercial and residential growth or decline in the Companies’ service areas, changes in supplies of natural gas delivered to Dominion Energy’s pipeline system, failure to maintain or replace customer contracts on favorable terms, changes in customer growth or usage patterns, including as a result of energy conservation programs, the availability of energy efficient devices and the use of distributed generation methods;
+•
+Receipt of approvals for, and timing of, closing dates for acquisitions and divestitures;
+•
+Impacts of acquisitions, divestitures, transfers of assets to joint ventures and retirements of assets based on asset portfolio reviews;
+•
+The expected timing and likelihood of completing the sales of Kewaunee and Hope, including the ability to obtain the requisite regulatory approvals and the terms and conditions of such regulatory approvals;
+•
+Adverse outcomes in litigation matters or regulatory proceedings, including matters acquired in the SCANA Combination;
+•
+Counterparty credit and performance risk;
+•
+Fluctuations in the value of investments held in nuclear decommissioning trusts by the Companies and in benefit plan trusts by Dominion Energy;
+•
+Fluctuations in energy-related commodity prices and the effect these could have on Dominion Energy’s earnings and the Companies’ liquidity position and the underlying value of their assets;
+•
+Fluctuations in interest rates;
+•
+Fluctuations in currency exchange rates of the Euro or Danish Krone associated with the CVOW Commercial Project;
+•
+Changes in rating agency requirements or credit ratings and their effect on availability and cost of capital;
+•
+Global capital market conditions, including the availability of credit and the ability to obtain financing on reasonable terms;
+•
+Political and economic conditions, including inflation and deflation;
+•
+Employee workforce factors including collective bargaining agreements and labor negotiations with union employees; and
+•
+Changes in financial or regulatory accounting principles or policies imposed by governing bodies.
+Additionally, other risks that could cause actual results to differ from predicted results are set forth in Item 1A. Risk Factors.
+The Companies’ forward-looking statements are based on beliefs and assumptions using information available at the time the statements are made. The Companies caution the reader not to place undue reliance on their forward-looking statements because the assumptions, beliefs, expectations and projections about future events may, and often do, differ materially from actual results. The Companies undertake no obligation to update any forward-looking statement to reflect developments occurring after the statement is made.
+ACCOUNTING MATTERS
+Critical Accounting Policies and Estimates
+Dominion Energy has identified the following accounting policies, including certain inherent estimates, that as a result of the judgments, uncertainties, uniqueness and complexities of the underlying accounting standards and operations involved, could result in material changes to its financial condition or results of operations under different conditions or using different assumptions. Dominion Energy has discussed the development, selection and disclosure of each of these policies with the Audit Committee of its Board of Directors.
+ACCOUNTING FOR REGULATED OPERATIONS
+The accounting for Dominion Energy’s regulated electric and gas operations differs from the accounting for nonregulated operations in that Dominion Energy is required to reflect the effect of rate regulation in its Consolidated Financial Statements. For regulated businesses subject to federal or state cost-of-service rate regulation, regulatory practices that assign costs to accounting periods may differ from accounting methods generally applied by nonregulated companies. When it is probable that regulators will permit the recovery of current costs through future rates charged to customers, these costs that otherwise would be expensed by nonregulated companies are deferred as regulatory assets. Likewise, regulatory liabilities are recognized when it is probable that regulators will require customer refunds or other benefits through future rates or when revenue is collected from customers for expenditures that have yet to be incurred.
+Dominion Energy evaluates whether or not recovery of its regulatory assets through future rates is probable as well as whether a regulatory liability due to customers is probable and makes various assumptions in its analyses. These analyses are generally based on:
+•
+Orders issued by regulatory commissions, legislation and judicial actions;
+•
+Past experience;
+•
+Discussions with applicable regulatory authorities and legal counsel;
+•
+Forecasted earnings; and
+•
+Considerations around the likelihood of impacts from events such as unusual weather conditions, extreme weather events and other natural disasters and unplanned outages of facilities.
+If recovery of a regulatory asset is determined to be less than probable, it will be written off in the period such assessment is made. A regulatory liability, if considered probable, will be recorded in the period such assessment is made or reversed into earnings if no longer probable. In connection with the evaluation of Virginia Power’s earnings for the 2021 Triennial Review, in 2020 Virginia Power established a regulatory liability for benefits expected to be provided to Virginia retail electric customers through the use of a CCRO in accordance with the GTSA. In 2021, Virginia Power made further adjustments to this regulatory liability prior to its ultimate resolution through a comprehensive settlement agreement. See Notes 12 and 13 to the Consolidated Financial Statements for additional information.
+ASSET RETIREMENT OBLIGATIONS
+Dominion Energy recognizes liabilities for the expected cost of retiring tangible long-lived assets for which a legal obligation exists and the ARO can be reasonably estimated. These AROs are recognized at fair value as incurred or when sufficient information becomes available to determine fair value and are generally capitalized as part of the cost of the related long-lived assets. In the absence of quoted market prices, Dominion Energy estimates the fair value of its AROs using present value techniques, in which it makes various assumptions including estimates of the amounts and timing of future cash flows associated with retirement activities, credit-adjusted risk free rates and cost escalation rates. The impact on measurements of new AROs or remeasurements of existing AROs, using different cost escalation or credit-adjusted risk free rates in the future, may be significant. When Dominion Energy revises any assumptions used to calculate the fair value of existing AROs, it adjusts the carrying amount of both the ARO liability and the related long-lived asset for assets that are in service; for assets that have ceased or are expected to cease operations, Dominion Energy adjusts the carrying amount of the ARO liability with such changes either recognized in income or as a regulatory asset.
+Dominion Energy’s AROs include a significant balance related to the future decommissioning of its nonregulated and utility nuclear facilities. These nuclear decommissioning AROs are reported in Dominion Energy Virginia, Dominion Energy South Carolina and Contracted Assets. At December 31, 2021 and 2020, Dominion Energy’s nuclear decommissioning AROs totaled $2.0 billion and $1.9 billion, respectively. The following discusses critical assumptions inherent in determining the fair value of AROs associated with Dominion Energy’s nuclear decommissioning obligations.
+Dominion Energy obtains from third-party specialists periodic site-specific base year cost studies in order to estimate the nature, cost and timing of planned decommissioning activities for its nuclear plants. These cost studies are based on relevant information available at the time they are performed; however, estimates of future cash flows for extended periods of time are by nature highly uncertain and may vary significantly from actual results. These cash flows include estimates on timing of decommissioning, which for regulated nuclear units factors in the probability of NRC approval for license extensions. In addition, Dominion Energy’s cost estimates include cost escalation rates that are applied to the base year costs. Dominion Energy determines cost escalation rates, which represent projected cost increases over time due to both general inflation and increases in the cost of specific decommissioning activities, for each nuclear facility. The selection of these cost escalation rates is dependent on subjective factors which are considered to be critical assumptions. At December 31, 2021, a 0.25% increase in cost escalation rates would have resulted in an approximate $360 million increase in Dominion Energy’s nuclear decommissioning AROs.
+INCOME TAXES
+Judgment and the use of estimates are required in developing the provision for income taxes and reporting of tax-related assets and liabilities. The interpretation of tax laws and associated regulations involves uncertainty since tax authorities may interpret the laws differently. Ultimate resolution or clarification of income tax matters may result in favorable or unfavorable impacts to net income and cash flows, and adjustments to tax-related assets and liabilities could be material.
+Given the uncertainty and judgment involved in the determination and filing of income taxes, there are standards for recognition and measurement in financial statements of positions taken or expected to be taken by an entity in its income tax returns. Positions taken by an entity in its income tax returns that are recognized in the financial statements must satisfy a more-likely-than-not recognition threshold, assuming that the position will be examined by tax authorities with full knowledge of all relevant information. At December 31, 2021 and 2020, Dominion Energy had $128 million and $167 million, respectively, of unrecognized tax benefits. Changes in these unrecognized tax benefits may result from remeasurement of amounts expected to be realized, settlements with tax authorities and expiration of statutes of limitations.
+Deferred income tax assets and liabilities are recorded representing future effects on income taxes for temporary differences between the bases of assets and liabilities for financial reporting and tax purposes. Dominion Energy evaluates quarterly the probability of realizing deferred tax assets by considering current and historical financial results, expectations for future taxable income and the availability of tax planning strategies that can be implemented, if necessary, to realize deferred tax assets. Failure to achieve forecasted taxable income or successfully implement tax planning strategies may affect the realization of deferred tax assets. In addition, changes in tax laws or tax rates may require reconsideration of the realizability of existing deferred tax assets. Dominion Energy establishes a valuation allowance when it is more-likely-than-not that all or a portion of a deferred tax asset will not be realized. At December 31, 2021 and 2020, Dominion Energy had established $140 million and $155 million, respectively, of valuation allowances.
+ACCOUNTING FOR DERIVATIVE CONTRACTS AND FINANCIAL INSTRUMENTS AT FAIR VALUE
+Dominion Energy uses derivative contracts such as physical and financial forwards, futures, swaps, options and FTRs to manage commodity, interest rate and/or foreign currency exchange rate risks of its business operations. Derivative contracts, with certain exceptions, are reported in the Consolidated Balance Sheets at fair value. The majority of investments held in Dominion Energy’s nuclear decommissioning and rabbi trusts and pension and other postretirement funds are also subject to fair value accounting. See Notes 6 and 22 to the Consolidated Financial Statements for further information on these fair value measurements.
+Fair value is based on actively-quoted market prices, if available. In the absence of actively-quoted market prices, management seeks indicative price information from external sources, including broker quotes and industry publications. When evaluating pricing information provided by brokers and other pricing services, Dominion Energy considers whether the broker is willing and able to trade at the quoted price, if the broker quotes are based on an active market or an inactive market and the extent to which brokers are utilizing a particular model if pricing is not readily available. If pricing information from external sources is not available, or if Dominion Energy believes that observable pricing information is not indicative of fair value, judgment is required to develop the estimates of fair value. In those cases, Dominion Energy must estimate prices based on available historical and near-term future price information and use of statistical methods, including regression analysis, that reflect its market assumptions.
+Dominion Energy maximizes the use of observable inputs and minimizes the use of unobservable inputs when measuring fair value. See Note 6 to the Consolidated Financial Statements for quantitative information on unobservable inputs utilized in Dominion Energy’s fair value measurements of certain derivative contracts.
+USE OF ESTIMATES IN GOODWILL IMPAIRMENT TESTING
+In April of each year, Dominion Energy tests its goodwill for potential impairment, and performs additional tests more frequently if an event occurs or circumstances change in the interim that would more-likely-than-not reduce the fair value of a reporting unit below its carrying amount. The 2021 annual test did not result in the recognition of any goodwill impairment.
+In general, Dominion Energy estimates the fair value of its reporting units by using a combination of discounted cash flows and other valuation techniques that use multiples of earnings for peer group companies and analyses of recent business combinations involving peer group companies. Fair value estimates are dependent on subjective factors such as Dominion Energy’s estimate of future cash flows, the selection of appropriate discount and growth rates, and the selection of peer group companies and recent transactions. These underlying assumptions and estimates are made as of a point in time; subsequent modifications, particularly changes in discount rates or growth rates inherent in Dominion Energy’s estimates of future cash flows, could result in a future impairment of goodwill. Although Dominion Energy has consistently applied the same methods in developing the assumptions and estimates that underlie the fair value calculations, such as estimates of future cash flows, and based those estimates on relevant information available at the time, such cash flow estimates are highly uncertain by nature and may vary significantly from actual results. If the estimates of future cash flows used in the most recent test had been 10% lower or if the discount rate had been 0.25% higher, the resulting fair values would have still been greater than the carrying values of each of those reporting units tested, indicating that no impairment was present.
+See Note 11 to the Consolidated Financial Statements for additional information.
+USE OF ESTIMATES IN LONG-LIVED ASSET AND EQUITY METHOD INVESTMENT IMPAIRMENT TESTING
+Impairment testing for an individual or group of long-lived assets, including intangible assets with definite lives, and equity method investments is required when circumstances indicate those assets may be impaired. When a long-lived asset’s carrying amount exceeds the undiscounted estimated future cash flows associated with the asset, the asset is considered impaired to the extent that the asset’s fair value is less than its carrying amount. When an equity method investment’s carrying amount exceeds its fair value, and the decline in value is deemed to be other-than-temporary, an impairment is recognized to the extent that the fair value is less than its carrying amount. Performing an impairment test on long-lived assets and equity method investments involves judgment in areas such as identifying if circumstances indicate an impairment may exist, identifying and grouping affected assets in the case of long-lived assets, and developing the undiscounted and discounted estimated future cash flows (used to estimate fair value in the absence of a market-based value) associated with the asset, including probability weighting such cash flows to reflect expectations about possible variations in their amounts or timing, expectations about the operations of the long-lived assets and equity method investments and the selection of an appropriate discount rate. When determining whether a long-lived asset or asset group has been impaired, management groups assets at the lowest level that has identifiable cash flows. Although cash flow estimates are based on relevant information available at the time the estimates are made, estimates of future cash flows are, by nature, highly uncertain and may vary significantly from actual results. For example, estimates of future cash flows would contemplate factors which may change over time, such as the expected use of the asset or underlying assets of equity method investees, including future production and sales levels, expected fluctuations of prices of commodities sold and consumed and expected proceeds from dispositions. There were no tests performed in 2021 of long-lived assets or equity method investments which could have resulted in material impairments.
+HELD FOR SALE CLASSIFICATION
+Dominion Energy recognizes the assets and liabilities of a disposal group as held for sale in the period (i) it has approved and committed to a plan to sell the disposal group, (ii) the disposal group is available for immediate sale in its present condition, (iii) an active program to locate a buyer and other actions required to sell the disposal group have been initiated, (iv) the sale of the disposal group is probable, (v) the disposal group is being actively marketed for sale at a price that is reasonable in relation to its current fair value and (vi) it is unlikely that significant changes to the plan will be made or that the plan will be withdrawn. Dominion Energy initially measures a disposal group that is classified as held for sale at the lower of its carrying value or fair value less any costs to sell.
+Any loss resulting from this measurement is recognized in the period in which the held for sale criteria are met. Conversely, gains are not recognized on the sale of a disposal group until closing. Upon designation as held for sale, Dominion Energy stops recording depreciation expense and assesses the fair value of the disposal group less any costs to sell at each reporting period and until it is no longer classified as held for sale.
+The determination as to whether the sale of the disposal group is probable may include significant judgments from management related to the expectation of obtaining approvals from applicable regulatory agencies such as state utility regulatory commissions, FERC or the U.S. Federal Trade Commission. This analysis is generally based on orders issued by regulatory commissions, past experience and discussions with applicable regulatory authorities and legal counsel.
+In May 2021, Dominion Energy entered into an agreement to sell Kewaunee, subject to termination by either party if not completed by December 2022. The consideration as to whether the sale is probable includes judgments related to the ability to obtain the approvals, in a timely manner, of the NRC and the Wisconsin Commission. Due to the uncertainty surrounding the timing of or ability to obtain approval by the Wisconsin Commission, at December 31, 2021 Dominion Energy did not conclude that the sale is probable and, as a result, the disposal group was not classified as held for sale. Dominion Energy would have recognized a loss of approximately $725 million ($570 million after-tax) if such classification had been met. This loss primarily represents the difference between the nuclear decommissioning trust and AROs at December 31, 2021. The Wisconsin Commission requires that any excess decommissioning funds be returned to WPSC and WP&L customers following completion of all decommissioning activities.
+See Note 3 to the Consolidated Financial Statements for additional information.
+EMPLOYEE BENEFIT PLANS
+Dominion Energy sponsors noncontributory defined benefit pension plans and other postretirement benefit plans for eligible active employees, retirees and qualifying dependents. The projected costs of providing benefits under these plans are dependent, in part, on historical information such as employee demographics, the level of contributions made to the plans and earnings on plan assets. Assumptions about the future, including the expected long-term rate of return on plan assets, discount rates applied to benefit obligations, mortality rates and the anticipated rate of increase in healthcare costs and participant compensation, also have a significant impact on employee benefit costs. The impact of changes in these factors, as well as differences between Dominion Energy’s assumptions and actual experience, is generally recognized in the Consolidated Statements of Income over the remaining average service period of plan participants, rather than immediately.
+The expected long-term rates of return on plan assets, discount rates, healthcare cost trend rates and mortality rates are critical assumptions. Dominion Energy determines the expected long-term rates of return on plan assets for pension plans and other postretirement benefit plans by using a combination of:
+•
+Expected inflation and risk-free interest rate assumptions;
+•
+Historical return analysis to determine long-term historic returns as well as historic risk premiums for various asset classes;
+•
+Expected future risk premiums, asset classes’ volatilities and correlations;
+•
+Forward-looking return expectations derived from the yield on long-term bonds and the expected long-term returns of major capital market assumptions; and
+•
+Investment allocation of plan assets. The strategic target asset allocation for Dominion Energy’s pension funds is 27% U.S. equity, 18% non-U.S. equity, 32% fixed income, 3% real estate and 20% other alternative investments, such as private equity investments.
+Strategic investment policies are established for Dominion Energy’s prefunded benefit plans based upon periodic asset/liability studies. Factors considered in setting the investment policy include those mentioned above such as employee demographics, liability growth rates, future discount rates, the funded status of the plans and the expected long-term rate of return on plan assets. Deviations from the plans’ strategic allocation are a function of Dominion Energy’s assessments regarding short-term risk and reward opportunities in the capital markets and/or short-term market movements which result in the plans’ actual asset allocations varying from the strategic target asset allocations. Through periodic rebalancing, actual allocations are brought back in line with the targets. Future asset/liability studies will focus on strategies to further reduce pension and other postretirement plan risk, while still achieving attractive levels of returns.
+Dominion Energy develops non-investment related assumptions, which are then compared to the forecasts of an independent investment advisor to ensure reasonableness. An internal committee selects the final assumptions. Dominion Energy calculated its pension cost using an expected long-term rate of return on plan assets assumption that ranged from 7.00% to 8.45% for 2021, 7.00% to 8.60% for 2020 and 7.00% to 8.65% for 2019. For 2022, the expected long-term rate of return for the pension cost assumption ranged from 7.00% to 8.35% for Dominion Energy’s plans held as of December 31, 2021. Dominion Energy calculated its other
+postretirement benefit cost using an expected long-term rate of return on plan assets assumption of 8.45% for 2021 and 8.50% for 2020 and 2019. For 2022, the expected long-term rate of return for other postretirement benefit cost assumption is 8.35%.
+Dominion Energy determines discount rates from analyses of AA/Aa rated bonds with cash flows matching the expected payments to be made under its plans. The discount rates used to calculate pension cost and other postretirement benefit cost ranged from 2.73% to 3.29% for pension plans and 2.69% to 2.80% for other postretirement benefit plans in 2021, ranged from 2.77% to 3.63% for pension plans and 3.07% to 3.52% for other postretirement benefit plans in 2020 and ranged from 3.57% to 4.43% for pension plans and 4.05% to 4.41% for other postretirement benefit plans in 2019. Dominion Energy selected a discount rate ranging from 3.06% to 3.19% for pension plans and 3.04% to 3.11% for other postretirement benefit plans for determining its December 31, 2021 projected benefit obligations.
+Dominion Energy establishes the healthcare cost trend rate assumption based on analyses of various factors including the specific provisions of its medical plans, actual cost trends experienced and projected and demographics of plan participants. Dominion Energy’s healthcare cost trend rate assumption as of December 31, 2021 was 6.25% and is expected to gradually decrease to 5.00% by 2026-2027 and continue at that rate for years thereafter.
+The following table illustrates the effect on cost of changing the critical actuarial assumptions discussed above, while holding all other assumptions constant:
+In addition to the effects on cost, a 0.25% decrease in the discount rate would increase Dominion Energy’s projected pension benefit obligation at December 31, 2021 by $376 million and its accumulated postretirement benefit obligation at December 31, 2021 by $44 million, while a 1.00% increase in the healthcare cost trend rate would increase its accumulated postretirement benefit obligation at December 31, 2021 by $121 million.
+See Note 22 to the Consolidated Financial Statements for additional information on Dominion Energy’s employee benefit plans.
+New Accounting Standards
+See Note 2 to the Consolidated Financial Statements for a discussion of new accounting standards.
+DOMINION ENERGY
+Results of Operations
+Presented below is a summary of Dominion Energy’s consolidated results:
+Overview
+2021 VS. 2020
+Net income attributable to Dominion Energy increased $3.7 billion, primarily due to the absence of: charges associated with the cancellation of the Atlantic Coast Pipeline Project and related portions of the Supply Header Project which are presented in discontinued operations, the planned early retirements of certain electric generation facilities in Virginia, an impairment of interests in certain nonregulated solar generation facilities and the termination of a contract in connection with the sale of Fowler Ridge. In addition, there was an increase in net investment earnings on nuclear decommissioning trust funds, a decrease in charges associated with Virginia Power’s 2021 Triennial Review and a gain on the sale of the Q-Pipe Group to Southwest Gas. These increases were
+partially offset by charges associated with the settlement of the South Carolina electric base rate case, increased unrealized losses on economic hedging activities and a net loss on the sales of non-wholly-owned nonregulated solar facilities.
+Analysis of Consolidated Operations
+Presented below are selected amounts related to Dominion Energy’s results of operations:
+An analysis of Dominion Energy’s results of operations follows:
+2021 VS. 2020
+Operating revenue decreased 1%, primarily reflecting:
+•
+A $402 million decrease associated with market prices affecting Millstone, including economic hedging impacts of net realized and unrealized losses on freestanding derivatives ($495 million);
+•
+A $356 million decrease for refunds to be provided to retail electric customers in Virginia associated with the settlement of the 2021 Triennial Review;
+•
+A $151 million decrease from an unbilled revenue reduction at Virginia Power;
+•
+A $80 million decrease as a result of the contribution of certain nonregulated natural gas retail energy contracts to Wrangler;
+•
+A $62 million decrease associated with settlements of economic hedges of certain Virginia Power regulated electric sales; and
+•
+A $51 million decrease in PJM off-system sales.
+These decreases were partially offset by:
+•
+A $390 million increase in the fuel cost component included in utility rates as a result of an increase in commodity costs associated with sales to gas utility customers ($239 million) and electric utility retail customers ($151 million);
+•
+A $117 million increase from gas utility capital cost riders;
+•
+A $75 million increase in sales to electric utility retail customers associated with growth;
+•
+A $62 million increase in sales to electric utility customers associated with economic and other usage factors;
+•
+A $52 million increase from the absence of planned outages at Millstone;
+•
+A $51 million increase in sales to electric utility retail customers from an increase in heating degree days during the heating season ($71 million) partially offset by a decrease in cooling degree days during the cooling season ($20 million);
+•
+A $26 million increase in sales to customers from non-jurisdictional solar generation facilities; and
+•
+A $22 million increase in sales to gas utility customers associated with growth.
+Electric fuel and other energy-related purchases increased 6%, primarily due to higher commodity costs for electric utilities ($151 million), partially offset by a decrease in PJM off-system sales ($51 million), which are offset in operating revenue and do not impact net income.
+Purchased electric capacity increased 32%, primarily due to an increase in expense related to the annual PJM capacity performance market effective June 2021 ($24 million) and an increase in expense related to the annual PJM capacity performance market effective June 2020 ($17 million), partially offset by a decrease in expense associated with DESC’s electric utility operations ($24 million).
+Purchased gas increased 22%, primarily due to an increase in commodity costs for gas utilities, which are offset in operating revenue and do not impact net income.
+Other operations and maintenance increased 1%, primarily reflecting:
+•
+A $117 million increase in salaries, wages and benefits, including $28 million of costs for employer-provided healthcare;
+•
+A $44 million charge related to a revision in estimated recovery of spent nuclear fuel costs associated with the decommissioning of Kewaunee; and
+•
+A $32 million increase in storm damage and restoration costs in Virginia Power’s service territory; partially offset by
+•
+A $58 million decrease in merger and integration-related costs associated with the SCANA Combination;
+•
+A $44 million decrease in certain Virginia Power expenditures which are primarily recovered through state- and FERC-regulated rates and do not impact net income; and
+•
+A $26 million net decrease in outage costs as a result of a decrease in Millstone outage costs ($45 million) partially offset by an increase in Virginia Power outage costs ($19 million).
+Depreciation, depletion and amortization increased 6%, primarily due to various projects being placed into service ($132 million) and an increase for amortization from the establishment of a regulatory asset associated with the 2021 Triennial Review ($61 million), partially offset by a decrease due to the impairment of certain nonregulated solar generation facilities in 2020 ($20 million).
+Impairment of assets and other charges decreased 91%, primarily reflecting:
+•
+The absence of a charge associated with the planned early retirements of certain electric generation facilities in Virginia ($747 million);
+•
+The absence of a charge associated with certain nonregulated solar generation facilities ($665 million);
+•
+A benefit from the establishment of a regulatory asset associated with the early retirements of certain coal- and oil-fired generating units associated with the settlement of the 2021 Triennial Review ($549 million);
+•
+The absence of a contract termination charge in connection with the sale of Fowler Ridge ($221 million);
+•
+The absence of a charge for the forgiveness of Virginia retail electric customer accounts in arrears pursuant to legislation enacted in November 2020 ($127 million); and
+•
+The absence of dismantling costs associated with certain Virginia Power electric generation facilities ($54 million); partially offset by
+•
+Charges associated with the settlement of the South Carolina electric base rate case ($249 million);
+•
+A charge for the forgiveness of Virginia retail electric customer accounts in arrears pursuant to Virginia’s 2021 budget process ($77 million);
+•
+A charge for corporate office lease termination ($62 million);
+•
+An increase in charges for CCRO benefits provided to retail electric customers in Virginia associated with Virginia Power’s 2021 Triennial Review ($58 million); and
+•
+A charge for the write-off of nonregulated retail software development assets ($20 million).
+Loss on sales of assets increased $169 million, primarily due to a net loss on the sales of non-wholly-owned nonregulated solar facilities ($211 million) partially offset by an increase in gains on the sale of nonregulated retail energy marketing assets ($23 million).
+Earnings from equity method investees increased $236 million, primarily due to accounting for Cove Point as an equity method investment for a full year following the closing of the GT&S Transaction in November 2020.
+Other income increased 67%, primarily due to an increase in net investment gains on nuclear decommissioning trust funds ($237 million), the absence of a charge for social justice commitments ($80 million), an increase in non-service components of pension and other postretirement employee benefit plan credits ($77 million), the absence of charges associated with litigation acquired in the SCANA Combination ($25 million) and an increase in AFUDC associated with rate-regulated projects ($25 million), partially offset by charges associated with the settlement of the South Carolina electric base rate case ($18 million).
+Interest and related charges decreased 2%, primarily due to the absence of borrowings in response to COVID-19 in 2020 ($42 million), the absence of charges associated with the early redemption of certain securities in the first quarter of 2020 ($31 million) and a benefit associated with the effective settlement of uncertain tax positions ($21 million), partially offset by decreased carrying costs associated with the recovery of CEP beginning January 2021 ($29 million), charges associated with the early redemption of certain securities in the third quarter of 2021 ($23 million) and lower unrealized gains in 2021 associated with freestanding derivatives ($13 million).
+Income tax expense increased $342 million, primarily due to higher pre-tax income ($365 million), lower investment tax credits ($38 million), the absence of prior year benefits including reductions in consolidated state deferred income taxes associated with gas transmission and storage operations ($45 million) and adjustments finalizing the effects of changes in tax status of certain subsidiaries in connection with the Dominion Energy Gas Restructuring ($24 million). These increases are partially offset by a benefit associated with the effective settlement of uncertain tax positions ($38 million), the benefit of a state legislative change ($21 million) and the absence of prior year expense primarily associated with the impairment of nonregulated solar generating assets held in partnerships attributable to the noncontrolling interest ($55 million).
+Net income from discontinued operations including noncontrolling interests increased $2.5 billion, primarily due to a decrease in charges associated with the Atlantic Coast Pipeline Project and related portions of the Supply Header Project ($2.1 billion) and a gain on the sale of Q-Pipe ($493 million), partially offset by the absence of operations sold in the GT&S Transaction ($56 million).
+Noncontrolling interests increased $175 million, primarily due to the absence of impairments associated with certain nonregulated solar generation facilities ($267 million) partially offset by the closing of the GT&S Transaction in November 2020 ($106 million).
+Outlook
+Dominion Energy’s 2022 net income is expected to increase on a per share basis as compared to 2021 primarily from the following:
+•
+The absence of charges associated with Virginia Power’s 2021 Triennial Review;
+•
+The absence of charges associated with the settlement of the South Carolina electric base rate case;
+•
+The absence of a net loss on the sales of certain non-wholly-owned nonregulated solar facilities;
+•
+The absence of charges associated with litigation acquired in the SCANA Combination; and
+•
+Construction and operation of growth projects in electric utility and gas distribution operations.
+These increases are expected to be partially offset by the following:
+•
+The absence of operations of the Q-Pipe Group sold to Southwest Gas and associated gain on sale;
+•
+The absence of a benefit from the establishment of a regulatory asset associated with the early retirements of certain coal- and oil-fired generating units associated with the 2021 Triennial Review and an increase from a full year of amortization of this regulatory asset; and
+•
+Share dilution.
+SEGMENT RESULTS OF OPERATIONS
+Segment results include the impact of intersegment revenues and expenses, which may result in intersegment profit or loss. Presented below is a summary of contributions by Dominion Energy’s operating segments to net income (loss) attributable to Dominion Energy:
+Dominion Energy Virginia
+Presented below are operating statistics related to Dominion Energy Virginia’s operations:
+Presented below, on an after-tax basis, are the key factors impacting Dominion Energy Virginia’s net income contribution:
+2021 VS. 2020
+Gas Distribution
+Presented below are selected operating statistics related to Gas Distribution’s operations:
+Presented below, on an after-tax basis, are the key factors impacting Gas Distribution’s net income contribution:
+2021 VS. 2020
+Dominion Energy South Carolina
+Presented below are selected operating statistics related to Dominion Energy South Carolina’s operations:
+Presented below, on an after-tax basis, are the key factors impacting Dominion Energy South Carolina’s net income contribution:
+2021 VS. 2020
+Contracted Assets
+Presented below are selected operating statistics related to Contracted Asset’s operations:
+Presented below, on an after-tax basis, are the key factors impacting Contracted Asset’s net income contribution:
+2021 VS. 2020
+(1)
+Includes earnings associated with a 50% noncontrolling interest in Cove Point.
+Corporate and Other
+Presented below are the Corporate and Other segment’s after-tax results:
+TOTAL SPECIFIC ITEMS
+Corporate and Other includes specific items attributable to Dominion Energy’s primary operating segments that are not included in profit measures evaluated by executive management in assessing the segments’ performance or in allocating resources. See Note 26 to the Consolidated Financial Statements for discussion of these items in more detail. Corporate and Other also includes specific items attributable to the Corporate and Other segment. In 2021, this primarily included $641 million net income from discontinued operations, primarily associated with the Q-Pipe Group, a $64 million after-tax benefit for derivative mark-to-market changes, $62 million of after-tax charges for workplace realignment, primarily related to a corporate office lease termination and $32 million of after-tax charges for merger and integration-related costs associated with the SCANA Combination. In 2020, this primarily included $2.2 billion of after-tax loss associated with discontinued operations, including the results of operations of the entities included in the GT&S and Q-Pipe Transactions as well as charges associated with the cancellation of the Atlantic Coast Pipeline Project, $82 million of after-tax charges for merger and integration-related costs associated with the SCANA Combination, a $78 million after-tax benefit of derivative mark-to-market changes and a $69 million tax benefit associated with the GT&S Transaction. In 2019, this primarily included $521 million of after-tax earnings for the results of operations of the entities included in the GT&S and Q-Pipe Transactions and $135 million of after-tax transaction and transition costs associated with the SCANA Combination.
+VIRGINIA POWER
+Results of Operations
+Presented below is a summary of Virginia Power’s consolidated results:
+Overview
+2021 VS. 2020
+Net income increased 68%, primarily due to the absence of charges related to the planned early retirements of certain electric generation facilities and a decrease in charges associated with the 2021 Triennial Review.
+Analysis of Consolidated Operations
+Presented below are selected amounts related to Virginia Power’s results of operations:
+An analysis of Virginia Power’s results of operations follows:
+2021 VS. 2020
+Operating revenue decreased 4%, primarily reflecting:
+•
+A $356 million decrease for refunds to be provided to retail electric customers in Virginia associated with the settlement of the 2021 Triennial Review;
+•
+A $151 million decrease from an unbilled revenue reduction;
+•
+A $62 million decrease associated with settlements of economic hedges of certain regulated electric sales; and
+•
+A $51 million decrease in PJM off-system sales;
+These decreases were partially offset by:
+•
+A $125 million increase in the fuel cost component included in utility rates as a result of a net increase in commodity costs associated with sales to electric utility retail customers
+•
+A $59 million increase in sales to retail customers from an increase in heating degree days during the heating season ($65 million) partially offset by a decrease in cooling degree days during the cooling season ($6 million);
+•
+A $49 million increase in sales to electric utility retail customers associated with growth;
+•
+A $35 million increase in sales to electric utility retail customers associated with economic and other usage factors; and
+•
+A $26 million increase in sales to customers from non-jurisdictional solar generation facilities.
+Electric fuel and other energy-related purchases increased 6%, primarily due to higher commodity costs for electric utilities ($125 million), partially offset by a decrease in PJM off-system sales ($51 million), which are offset in operating revenue and do not impact net income.
+Purchased electric capacity increased $41 million, primarily due to an increase in expense related to the annual PJM capacity performance market effective June 2021 ($24 million) and an increase in expense related to the annual PJM capacity performance market effective June 2020 ($17 million).
+Other operations and maintenance increased $7 million, primarily reflecting:
+•
+A $57 million increase in outside services;
+•
+A $32 million increase in storm damage and service restoration costs;
+•
+A $20 million increase in materials and supplies; and
+•
+A $19 million increase in planned outage costs; partially offset by
+•
+A $44 million decrease in certain expenses which are primarily recovered through state- and FERC-regulated rates and do not impact net income;
+•
+A $12 million gain on the sale of corporate office real estate;
+•
+The absence of a $11 million charge associated with ash pond and landfill closure costs;
+•
+The absence of a $11 million charge associated with credit risk on customer accounts related to COVID-19;
+•
+A $10 million reduction in bad debt expense due to the forgiveness of Virginia retail electric customer accounts in arrears pursuant to Virginia’s 2021 budget process; and
+•
+A $10 million decrease in environmental remediation costs.
+Depreciation and amortization increased 9%, primarily due to an increase for amortization from the establishment of a regulatory asset associated with the 2021 Triennial Review ($61 million), various projects being placed into service ($57 million), partially offset by the absence of depreciation from certain electric generation facilities that were retired early ($11 million).
+Impairment of assets and other charges (benefits) decreased $1.4 billion, primarily reflecting:
+•
+The absence of charges associated with the planned early retirements of certain electric generation facilities ($747 million);
+•
+A benefit from the establishment of a regulatory asset associated with the early retirements of certain coal- and oil-fired generating units associated with the settlement of the 2021 Triennial Review ($549 million);
+•
+The absence of a charge for the forgiveness of Virginia retail electric customer accounts in arrears pursuant to legislation enacted in November 2020 ($127 million); and
+•
+The absence of charges for dismantling costs associated with certain electric generation facilities ($54 million); partially offset by
+•
+A charge for the forgiveness of Virginia retail electric customer accounts in arrears pursuant to Virginia’s 2021 budget process ($77 million); and
+•
+An increase in charges for CCRO benefits provided to retail electric customers in Virginia associated with the 2021 Triennial Review ($58 million).
+Other income increased 83%, primarily due to an increase in net investment gains on nuclear decommissioning trust funds ($38 million) and an increase in AFUDC associated with rate-regulated projects ($24 million).
+Income tax expense increased 73%, primarily due to higher pre-tax income ($192 million) partially offset by the benefit of a state legislative change ($16 million).
+LIQUIDITY AND CAPITAL RESOURCES
+Dominion Energy depends on both cash generated from operations and external sources of liquidity to provide working capital and as a bridge to long-term financings. Dominion Energy’s material cash requirements include capital and investment expenditures, repaying short-term and long-term debt obligations and paying dividends on its common and preferred stock.
+Analysis of Cash Flows
+Presented below are selected amounts related to Dominion Energy’s cash flows:
+Operating Cash Flows
+Net cash provided by Dominion Energy's operating activities decreased $1.2 billion, including a $1.4 billion decrease from discontinued operations largely due to the absence of operations sold in the GT&S Transaction. Net cash provided by continuing operations increased $200 million, primarily as the result of higher operating cash flows from electric utility and gas distribution operations driven by weather, customer growth and riders ($737 million), the absence of a cash pension plan contribution ($250 million), increased distributions from Cove Point ($230 million), absence of a contract termination payment in connection with the sale of Fowler Ridge ($221 million), decreases in severance payments primarily related to a voluntary retirement program ($174 million) and a decrease in payments associated with litigation acquired in the SCANA Combination ($143 million), lower income tax payments ($132 million) and changes in working capital ($161 million). These increases were partially offset by lower deferred fuel cost recoveries ($1.2 billion) and increased margin deposits ($690 million).
+Investing Cash Flows
+Net cash used in Dominion Energy’s investing activities increased $3.3 billion, primarily due to a net decrease in proceeds from the sale of the Q-Pipe Group compared to the GT&S Transaction ($2.2 billion), the repayment of the Q-Pipe Transaction deposit ($1.3 billion), an increase in contributions to equity method affiliates including Atlantic Coast Pipeline ($873 million), partially offset by the proceeds from the sale of non-wholly-owned nonregulated solar facilities ($495 million), the absence of acquisitions of equity method investments ($178 million) and a decrease in acquisitions of solar development projects ($210 million).
+Financing Cash Flows
+Net cash provided by Dominion Energy’s financing activities was $2.4 billion for the year ended December 31, 2021, compared to net cash used by financing activities of $2.3 billion for the year ended December 31, 2020. This change is primarily due to the absence of common stock repurchases ($3.1 billion), higher net issuances of short-term debt ($1.4 billion), lower common stock dividend payments ($837 million) and the issuance of Series C Preferred Stock ($742 million), partially offset by increased repayments and redemptions of long-term debt ($871 million).
+Credit Facilities and Short-Term Debt
+Dominion Energy generally uses proceeds from short-term borrowings, including commercial paper, to satisfy short-term cash requirements not met through cash from operations. The levels of borrowing may vary significantly during the course of the year, depending on the timing and amount of cash requirements not satisfied by cash from operations. A description of Dominion Energy’s primary available sources of short-term liquidity follows.
+Joint Revolving Credit Facility
+Dominion Energy maintains a $6.0 billion joint revolving credit facility which provides for a discount in the pricing of certain annual fees and amounts borrowed by Dominion Energy under the facility if Dominion Energy achieves certain annual renewable electric generation and diversity and inclusion objectives.
+Dominion Energy’s commercial paper and letters of credit outstanding, as well as capacity available under its credit facility were as follows:
+(1)
+The weighted-average interest rate of the outstanding commercial paper supported by Dominion Energy’s credit facility was 0.31% at December 31, 2021.
+(2)
+This credit facility matures in June 2026, with the potential to be extended by the borrowers to June 2028, and can be used by the borrowers under the credit facility to support bank borrowings and the issuance of commercial paper, as well as to support up to a combined $2.0 billion of letters of credit.
+Dominion Energy Reliability InvestmentSM Program
+Dominion Energy has an effective registration statement with the SEC for the sale of up to $3.0 billion of variable denomination floating rate demand notes, called Dominion Energy Reliability InvestmentSM. The registration limits the principal amount that may be outstanding at any one time to $1.0 billion. The notes are offered on a continuous basis and bear interest at a floating rate per annum determined by the Dominion Energy Reliability Investment Committee, or its designee, on a weekly basis. The notes have no stated maturity date, are non-transferable and may be redeemed in whole or in part by Dominion Energy or at the investor’s option at any time. At December 31, 2021, Dominion Energy’s Consolidated Balance Sheets include $431 million presented within short-term debt. The proceeds are used for general corporate purposes and to repay debt.
+Other Facilities
+In addition to the primary sources of short-term liquidity discussed above, from time to time Dominion Energy enters into separate supplementary credit facilities or term loans as discussed in Note 17 to the Consolidated Financial Statements.
+Long-Term Debt
+Issuances and Borrowings of Long-Term Debt
+During 2021, Dominion Energy issued or borrowed the following long-term debt. Unless otherwise noted, the proceeds were used for the repayment of existing long-term indebtedness and for general corporate purposes.
+(1)
+This supplemental credit facility offers a reduced interest rate margin with respect to borrowed amounts allocated to certain environmental sustainability or social investment initiatives. Proceeds of the supplemental credit facility may also be used for general corporate purposes, but such proceeds are not eligible for a reduced interest rate margin. The proceeds from these borrowings were used to support environmental sustainability and social investment initiatives ($250 million) and for general corporate purposes ($650 million). At December 31, 2021, no amounts were outstanding under this arrangement.
+(2)
+The proceeds from this offering will be used to finance and/or refinance, in whole or in part, existing and future capital expenditures associated with the development, construction, acquisition and operation of certain solar projects.
+(3)
+The maturity date for this term loan has the potential to be extended to December 2026.
+Dominion Energy currently meets the definition of a well-known seasoned issuer under SEC rules governing the registration, communications and offering processes under the Securities Act of 1933, as amended. The rules provide for a streamlined shelf registration process to provide registrants with timely access to capital. This allows Dominion Energy to use automatic shelf registration statements to register any offering of securities, other than those for exchange offers or business combination transactions.
+Dominion Energy anticipates, excluding potential opportunistic financings, issuing between approximately $3.2 billion and $4.4 billion of long-term debt during 2022, inclusive of $1.0 billion issued at Virginia Power in January 2022. The raising of external capital is subject to certain regulatory requirements, including registration with the SEC for certain issuances.
+Repayment, Repurchases and Redemptions of Long-Term Debt
+Dominion Energy may from time to time reduce its outstanding debt and level of interest expense through redemption of debt securities prior to maturity or repurchases of debt securities in the open market, in privately negotiated transactions, through tender offers or otherwise.
+The following long-term debt was repaid, repurchased or redeemed in 2021:
+(1)
+Total amount redeemed prior to maturity includes remaining outstanding principal plus accrued interest.
+(2)
+Includes repayment of $225 million associated with supplemental 364-Day revolving credit facility borrowings.
+(3)
+The July 2016 hybrids were listed on the NYSE under the symbol DRUA. Expenses related to the early redemption were $23 million reflected within interest and related charges in Dominion Energy’s Consolidated Statements of Income for the year ended December 31, 2021.
+(4)
+Amounts exclude $265 million of long-term debt assumed by Terra Nova Renewable Partners in connection with the sale of SBL Holdco in December 2021.
+See Note 18 to the Consolidated Financial Statements for additional information regarding scheduled maturities and other cancellations of Dominion Energy’s long-term debt, including related average interest rates.
+Remarketing of Long-Term Debt
+In 2021, Dominion Energy was not required to and did not complete the remarketing of any of its long-term debt. In 2022, Dominion Energy expects to remarket approximately $165 million of its senior notes and tax-exempt bonds.
+Credit Ratings
+Dominion Energy’s credit ratings affect its liquidity, cost of borrowing under credit facilities and collateral posting requirements under commodity contracts, as well as the rates at which it is able to offer its debt securities. The credit ratings for Dominion Energy are affected by its financial profile, mix of regulated and nonregulated businesses and respective cash flows, changes in methodologies used by the rating agencies and event risk, if applicable, such as major acquisitions or dispositions.
+Credit ratings and outlooks as of February 21, 2022 are as follows:
+A credit rating is not a recommendation to buy, sell or hold securities and should be evaluated independently of any other rating. Ratings are subject to revision or withdrawal at any time by the applicable rating organization.
+Financial Covenants
+As part of borrowing funds and issuing both short-term and long-term debt or preferred securities, Dominion Energy must enter into enabling agreements. These agreements contain customary covenants that, in the event of default, could result in the acceleration of principal and interest payments; restrictions on distributions related to capital stock, including dividends, redemptions, repurchases, liquidation payments or guarantee payments; and in some cases, the termination of credit commitments unless a waiver of such requirements is agreed to by the lenders/security holders. These provisions are customary, with each agreement specifying which covenants apply. These provisions are not necessarily unique to Dominion Energy.
+Dominion Energy is required to pay annual commitment fees to maintain its joint revolving credit facility. In addition, the credit agreement contains various terms and conditions that could affect Dominion Energy’s ability to borrow under the facility. They include a maximum debt to total capital ratio, which is also included in Dominion Energy’s Sustainability Revolving Credit Agreement entered into in 2021, and cross-default provisions.
+As of December 31, 2021, the calculated total debt to total capital ratio, pursuant to the terms of the agreements, was as follows:
+(1)
+Indebtedness as defined by the agreements excludes certain junior subordinated notes reflected as long-term debt as well as AOCI reflected as equity in the Consolidated Balance Sheets. Capital is inclusive of preferred stock whether classified as equity or mezzanine equity.
+If Dominion Energy or any of its material subsidiaries fails to make payment on various debt obligations in excess of $100 million, the lenders could require the defaulting company, if it is a borrower under Dominion Energy’s joint revolving credit facility, to accelerate its repayment of any outstanding borrowings and the lenders could terminate their commitments, if any, to lend funds to that company under the credit facility. In addition, if the defaulting company is Virginia Power, Dominion Energy’s obligations to repay any outstanding borrowing under the credit facility could also be accelerated and the lenders’ commitments to Dominion Energy could terminate.
+Dominion Energy monitors compliance with these covenants on a regular basis in order to ensure that events of default will not occur. As of December 31, 2021, there have been no events of default under Dominion Energy’s covenants.
+Common Stock, Preferred Stock and Other Equity Securities
+Issuances of Equity Securities
+Dominion Energy maintains Dominion Energy Direct® and a number of employee savings plans through which contributions may be invested in Dominion Energy’s common stock. These shares may either be newly issued or purchased on the open market with proceeds contributed to these plans. In January 2021, Dominion Energy began issuing new shares of common stock for these direct stock purchase plans. During 2021, Dominion Energy issued 2.6 million of such shares and received proceeds of $192 million.
+Dominion Energy also maintains sales agency agreements to effect sales under an at-the-market program. Under the sales agency agreements, Dominion Energy may, from time to time, offer and sell shares of its common stock through the sales agents or enter into one or more forward sale agreements with respect to shares of its common stock. Sales by Dominion Energy through the sales agents or by forward sellers pursuant to a forward sale agreement cannot exceed $1.0 billion in the aggregate. In November 2021, Dominion Energy entered forward sale agreements for approximately 1.1 million shares of its common stock to be settled by November 2022 at an average initial forward price of $74.66 per share. See Note 20 to the Consolidated Financial Statements for additional information.
+In addition, Dominion Energy issued shares of its common and preferred stock, as discussed in Notes 19 and 20 to the Consolidated Financial Statements, respectively, as follows:
+•
+In 2021, Dominion Energy issued 2.0 million shares of its common stock, valued at $149 million, to satisfy obligations under settlement agreements associated with litigation acquired in the SCANA Combination.
+•
+In December 2021, Dominion Energy issued 750,000 shares of Series C Preferred Stock and received cash proceeds of $742 million, net of issuance costs. Also in December 2021, Dominion Energy issued 250,000 shares of Series C Preferred Stock, valued at $250 million, to the qualified pension plans.
+Between Dominion Energy Direct® and its at-the-market program (including any related forward-sale agreements), and excluding potential opportunistic financings, Dominion Energy anticipates raising between $300 million and $500 million of capital through the issuance of common stock in 2022. In addition, Dominion Energy may issue up to $150 million of stock under settlement agreements associated with litigation acquired in the SCANA Combination as discussed in Note 23 to the Consolidated Financial Statements. As discussed in Note 19 to the Consolidated Financial Statements, in 2022, Dominion Energy will settle the stock purchase contract component of the 2019 Equity Units expected to result in proceeds of $1.6 billion and the issuance of up to 21.8 million shares, subject to a formula based on the average closing price of Dominion Energy common stock upon settlement.
+Repurchases of Equity Securities
+In November 2020, the Board of Directors authorized the repurchase of up to $1.0 billion of Dominion Energy’s common stock. This repurchase program does not include a specific timetable or price or volume targets and may be modified, suspended or terminated at any time. Shares may be purchased through open market or privately negotiated transactions or otherwise at the discretion of management subject to prevailing market conditions, applicable securities laws and other factors. No purchases have been made under this authorization as of December 31, 2021.
+Dominion Energy does not plan to repurchase shares of common stock in 2022, except for shares tendered by employees to satisfy tax withholding obligations on vested restricted stock, which does not impact the available capacity under its stock repurchase authorization.
+Capital Expenditures
+See Note 26 to the Consolidated Financial Statements for Dominion Energy’s historical capital expenditures by segment. Dominion Energy’s total planned capital expenditures for each segment over the next five years are presented in the table below:
+(1)
+Totals may not foot due to rounding.
+Dominion Energy’s planned growth expenditures are subject to approval by the Board of Directors as well as potentially by regulatory bodies based on the individual project and are expected to include significant investments in support of its clean energy profile. See Dominion Energy Virginia, Gas Distribution, Dominion Energy South Carolina and Contracted Assets in Item 1. Business for additional discussion of various significant capital projects currently under development. The above estimates are based on a capital expenditures plan reviewed and endorsed by Dominion Energy’s Board of Directors in December 2021 and are subject to continuing review and adjustment and actual capital expenditures may vary from these estimates. Dominion Energy may also choose to postpone or cancel certain planned capital expenditures in order to mitigate the need for future debt financings and equity issuances.
+Dividends
+Dominion Energy believes that its operations provide a stable source of cash flow to contribute to planned levels of capital expenditures and maintain or grow the dividend on common shares. In December 2021, Dominion Energy’s Board of Directors established an annual dividend rate for 2022 of $2.67 per share of common stock, a 6% increase over the 2021 rate. Dividends are subject to declaration by the Board of Directors. In January 2022, Dominion Energy’s Board of Directors declared dividends payable in March 2022 of 66.75 cents per share of common stock.
+See Note 19 for a discussion of Dominion Energy’s outstanding preferred stock and associated dividend rates.
+Subsidiary Dividend Restrictions
+Certain of Dominion Energy’s subsidiaries may, from time to time, be subject to certain restrictions imposed by regulators or financing arrangements on their ability to pay dividends, or to advance or repay funds, to Dominion Energy. At December 31, 2021, these restrictions did not have a significant impact on Dominion Energy’s ability to pay dividends on its common or preferred stock or meet its other cash obligations.
+See Note 21 to the Consolidated Financial Statements for a description of such restrictions and any other restrictions on Dominion Energy’s ability to pay dividends.
+Collateral and Credit Risk
+Collateral requirements are impacted by commodity prices, hedging levels, Dominion Energy’s credit ratings and the credit quality of its counterparties. In connection with commodity hedging activities, Dominion Energy is required to provide collateral to counterparties under some circumstances. Under certain collateral arrangements, Dominion Energy may satisfy these requirements by electing to either deposit cash, post letters of credit or, in some cases, utilize other forms of security. From time to time, Dominion Energy may vary the form of collateral provided to counterparties after weighing the costs and benefits of various factors associated with the different forms of collateral. These factors include short-term borrowing and short-term investment rates, the spread over these short-term rates at which Dominion Energy can issue commercial paper, balance sheet impacts, the costs and fees of alternative collateral postings with these and other counterparties and overall liquidity management objectives.
+Dominion Energy’s exposure to potential concentrations of credit risk results primarily from its energy marketing and price risk management activities. Presented below is a summary of Dominion Energy’s credit exposure as of December 31, 2021 for these activities. Gross credit exposure for each counterparty is calculated as outstanding receivables plus any unrealized on- or off-balance sheet exposure, taking into account contractual netting rights.
+(1)
+Designations as investment grade are based upon minimum credit ratings assigned by Moody’s and Standard & Poor’s. The five largest counterparty exposures, combined, for this category represented approximately 17% of the total net credit exposure.
+(2)
+The five largest counterparty exposures, combined, for this category represented approximately 4% of the total net credit exposure.
+(3)
+The five largest counterparty exposures, combined, for this category represented approximately 64% of the total net credit exposure.
+(4)
+The five largest counterparty exposures, combined, for this category represented approximately 5% of the total net credit exposure.
+Fuel and Other Purchase Commitments
+Dominion Energy is party to various contracts for fuel and purchased power commitments related to both its regulated and nonregulated operations. Total estimated costs for such commitments at December 31, 2021 are presented in the table below. These costs represent estimated minimum obligations for various purchased power and capacity agreements and actual costs may differ from amounts presented below depending on actual quantities purchased and prices paid.
+Other Material Cash Requirements
+In addition to the financing arrangements discussed above, Dominion Energy is party to numerous contracts and arrangements obligating it to make cash payments in future years. Dominion Energy expects current liabilities to be paid within the next twelve months. In addition to the items already discussed, the following represent material expected cash requirements recorded on Dominion Energy’s Consolidated Balance Sheets at December 31, 2021. Such obligations include:
+•
+Operating and financing lease obligations - See Note 15 to the Consolidated Financial Statements;
+•
+Regulatory liabilities - See Note 12 to the Consolidated Financial Statements;
+•
+AROs - See Note 14 to the Consolidated Financial Statements;
+•
+Employee benefit plan obligations - See Note 22 to the Consolidated Financial Statements; and
+•
+Charitable commitments - See Note 23 to the Consolidated Financial Statements.
+In addition, Dominion Energy is party to contracts and arrangements which may require it to make material cash payments in future years that are not recorded on its Consolidated Balance Sheets. Such obligations include:
+•
+Off-balance sheet leasing arrangements - See Note 15 to the Consolidated Financial Statements
+•
+Guarantees - See notes 9 and 23 to the Consolidated Financial Statements
+FUTURE ISSUES AND OTHER MATTERS
+See Item 1. Business and Notes 13 and 23 to the Consolidated Financial Statements for additional information on various environmental, regulatory, legal and other matters that may impact future results of operations, financial condition and/or cash flows.
+Future Environmental Regulations
+Climate Change
+The federal government and several states in which Dominion Energy operates have announced a commitment to achieving carbon reduction goals. In February 2021, the U.S. rejoined the Paris Agreement, which establishes a universal framework for addressing GHG emissions. States may also enact legislation relating to climate change matters such as the reduction of GHG emissions and renewable energy portfolio standards, similar to the VCEA. To the extent legislation is enacted at the federal or state level that is more restrictive than the VCEA and/or Dominion Energy’s commitment to achieving net zero emissions by 2050, compliance with such legislation could have a material impact to Dominion Energy’s financial condition and/or cash flows.
+State Actions Related to Air and GHG Emissions
+In August 2017, the Ozone Transport Commission released a draft model rule for control of NOX emissions from natural gas pipeline compressor fuel-fire prime movers. States within the ozone transport region, including states in which Dominion Energy has natural gas operations, are expected to develop reasonably achievable control technology rules for existing sources based on the Ozone Transport Commission model rule. States outside of the Ozone Transport Commission may also consider the model rules in setting new reasonably achievable control technology standards. Several states in which Dominion Energy operates, including Virginia and Ohio, are developing or have announced plans to develop state-specific regulations to control GHG emissions, including methane. Dominion Energy cannot currently estimate the potential financial statement impacts related to these matters, but there could be a material impact to its financial condition and/or cash flows.
+PHMSA Regulation
+The most recent reauthorization of PHMSA included new provisions on historical records research, maximum-allowed operating pressure validation, use of automated or remote-controlled valves on new or replaced lines, increased civil penalties and evaluation of expanding integrity management beyond high-consequence areas. PHMSA has not yet issued new rulemaking on most of these items.
+Dodd-Frank Act
+The CEA, as amended by Title VII of the Dodd-Frank Act, requires certain over-the counter derivatives, or swaps, to be cleared through a derivatives clearing organization and, if the swap is subject to a clearing requirement, to be executed on a designated contract market or swap execution facility. Non-financial entities that use swaps to hedge or mitigate commercial risk may elect the end-user exception to the CEA’s clearing requirements. Dominion Energy utilizes the end-user exception with respect to its swaps. If, as a result of changes to the rulemaking process, Dominion Energy can no longer utilize the end-user exception or otherwise becomes subject to mandatory clearing, exchange trading or margin requirements, it could be subject to higher costs due to decreased market liquidity or increased margin payments. In addition, Dominion Energy’s swap dealer counterparties may attempt to pass-through additional trading costs in connection with changes to the rulemaking process. Due to the evolving rulemaking process, Dominion Energy is currently unable to assess the potential impact of the Dodd-Frank Act’s derivative-related provisions on its financial condition, results of operations or cash flows.
+North Anna
+Virginia Power is considering the construction of a third nuclear unit at a site located at North Anna. If Virginia Power decides to build a new unit, it would require a Combined Construction Permit and Operating License from the NRC, approval of the Virginia Commission and certain environmental permits and other approvals. In June 2017, the NRC issued the Combined Construction Permit and Operating License. Virginia Power has not yet committed to building a new nuclear unit at North Anna.
+Federal Income Tax Laws
+Under existing law, the Companies utilize a financial reporting method that classifies and recognizes investment tax credits on nonregulated operations as immediate reductions to income tax expense and, therefore, immediate increases in earnings. This immediate earnings benefit provides a significant incentive for renewable energy development. Provisions in recently proposed federal legislation would allow taxpayers to elect direct payment for investment tax credits. While effective from a cash flow perspective, this option may not provide the same level of incentive due to the financial reporting potentially applicable to the proposed direct pay benefits and “refundable” tax credits, regardless of whether such an option is selected by the taxpayer.
+Because the investment tax credit could be received as a direct payment under this proposed legislation, Dominion Energy may be required to either report the benefit ratably over the life of the qualifying facility or over the five-year recapture period. Either of these alternatives may be required instead of maintaining our historical financial reporting method regardless of whether we elect the direct pay option. If this legislation is enacted into law, the application of these alternative accounting methodologies could have a material impact on the Companies’ future results of operations, financial condition and/or cash flows.

@@ -1,0 +1,416 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Operational Highlights
+Our consolidated results for 2021 reflect our continuing efforts to serve our existing clients throughout the COVID-19 pandemic and to support the economic recovery of SMBs. We will continue to monitor and evaluate developments relating to the COVID-19 pandemic and will work to respond appropriately to the impact of COVID-19 on our business and our clients' businesses.
+During 2021 we:
+•continued to grow total revenues as we achieved the highest Total WSEs in our history,
+•entered into a definitive agreement to acquire Zenefits,
+•established our 2021 Credit Program to benefit our eligible clients,
+•hosted the 2nd annual TriNet PeopleForce conference, our showcase customer and prospect conference focused on business transformation, agility and innovation for small and medium-size businesses,
+•introduced TriNet Financial Services Preferred, a new top-tier version of our HR solution that addresses the critical HR needs of businesses in the financial services industry,
+•launched 'Connect 360', an innovative service model intended to better meet client needs, and
+•completed a $500 million senior notes offering, repaid and terminated our outstanding term loan, and replaced our existing revolving credit facility with a new $500 million revolving credit facility.
+Performance Highlights
+Our results for 2021 when compared to 2020 are noted below:
+$4.5B $455M 86%
+Total revenues Operating income Insurance cost ratio
+13 % increase 24 % increase 1 % increase
+$338M $5.07 $376M
+Net income Diluted EPS Adjusted Net income *
+24 % increase 27 % increase 24 % increase
+340,067 364,940
+Average WSE Total WSE
+5 % increase 10 % increase
+* Non-GAAP measure. See definitions below under the heading "Non-GAAP Financial Measures".
+We continued to achieve year-over-year revenue growth, reflecting our higher Average WSEs, rate increases and the $111 million decrease in the Recovery Credit recognized in 2021 compared to 2020.
+During 2021, our Average WSEs increased 5% and total WSEs increased 10% compared to 2020, primarily as a result of continued hiring by clients in our installed base.
+Increased medical services utilization in 2021, combined with increased volume due to WSE growth, resulted in higher insurance costs compared to 2020.
+The growth in total revenues, partially offset by increases in insurance costs and operating expenses, resulted in increases in our net income and Adjusted Net Income of 24%.
+TRINET 35
+2021 FORM 10-K
+Results of Operations
+The following table summarizes our results of operations for the three years ended December 31, 2021, 2020 and 2019. For details of the critical accounting judgments and estimates that could affect the Results of Operations, see the Critical Accounting Judgments and Estimates section within MD&A.
+Year Ended December 31, % Change
+(in millions, except operating metrics data) 2021 2020 2019 2021 vs. 2020 2020 vs. 2019
+Income Statement Data:
+Professional service revenues $ 639 $ 544 $ 530 17 % 3 %
+Insurance service revenues 3,901 3,490 3,326 12 5
+Total revenues 4,540 4,034 3,856 13 5
+Insurance costs 3,339 2,979 2,927 12 2
+Operating expenses
+746 687 661 9 4
+Total costs and operating expenses 4,085 3,666 3,588 11 2
+Operating income 455 368 268 24 37
+Other income (expense):
+Interest expense, bank fees and other (20) (21) (21) (5) -
+Interest income 6 10 23 (40) (57)
+Income before provision for income taxes 441 357 270 24 32
+Income taxes 103 85 58 21 47
+Net income $ 338 $ 272 $ 212 24 % 28 %
+Cash Flow Data:
+Net cash provided by operating activities 218 546 471 (60) % 16 %
+Net cash used in investing activities (135) (151) (188) (11) (20)
+Net cash provided by (used in) financing activities 12 (208) (176) (106) 18
+Non-GAAP measures (1):
+Adjusted EBITDA 565 468 378 21 24 %
+Adjusted Net income 376 303 236 24 28
+Corporate Operating Cash Flow 415 338 233 23 45
+Operating Metrics:
+Insurance Cost Ratio 86 % 85 % 88 % 1 (3) %
+Average WSEs 340,067 323,672 324,927 5 -
+Total WSEs 364,940 331,908 340,017 10 (2)
+(1) Refer to Non-GAAP measures definitions and reconciliations from GAAP measures under the heading "Non-GAAP Financial Measures".
+The following table summarizes our balance sheet data as of December 31, 2021, 2020 and 2019.
+Year Ended December 31, % Change
+(in millions) 2021 2020 2019 2021 vs. 2020 2020 vs. 2019
+Balance Sheet Data:
+Cash and cash equivalents $ 612 $ 301 $ 213 103 % 41 %
+Working capital 700 290 228 141 % 27 %
+Total assets 3,309 3,043 $ 2,748 9 % 11 %
+Debt 495 369 391 34 % (6) %
+Total stockholders’ equity 881 607 475 45 % 28 %
+TRINET 36
+2021 FORM 10-K
+A discussion regarding our financial condition and results of operations for 2020 compared to 2019 can be found under Part II, Item 7. Management's Discussion and Analysis in our Annual Report on Form 10-K for the year ended December 31, 2020, filed with the SEC on February 16, 2021.
+Non-GAAP Financial Measures
+In addition to financial measures presented in accordance with GAAP, we monitor other non-GAAP financial measures that we use to manage our business, to make planning decisions, to allocate resources and to use as performance measures in our executive compensation plan. These key financial measures provide an additional view of our operational performance over the long-term and provide information that we use to maintain and grow our business.
+The presentation of these non-GAAP financial measures is used to enhance the understanding of certain aspects of our financial performance. It is not meant to be considered in isolation from, superior to, or as a substitute for the directly comparable financial measures prepared in accordance with GAAP.
+Non-GAAP Measure Definition How We Use The Measure
+Adjusted EBITDA • Net income, excluding the effects of:
+- income tax provision,
+- interest expense, bank fees and other,
+- depreciation,
+- amortization of intangible assets, and
+- stock based compensation expense. • Provides period-to-period comparisons on a consistent basis and an understanding as to how our management evaluates the effectiveness of our business strategies by excluding certain non-cash charges such as depreciation and amortization, and stock-based compensation recognized based on the estimated fair values. We believe these charges are either not directly resulting from our core operations or not indicative of our ongoing operations.
+• Enhances comparisons to prior periods and, accordingly, facilitates the development of future projections and earnings growth prospects.
+• Provides a measure, among others, used in the determination of incentive compensation for management.
+• We also sometimes refer to Adjusted EBITDA margin, which is the ratio of Adjusted EBITDA to total revenues.
+Adjusted Net Income • Net income, excluding the effects of:
+- effective income tax rate (1),
+- stock based compensation,
+- amortization of other intangible assets, net,
+- non-cash interest expense (2), and
+- the income tax effect (at our effective tax rate (1) of these pre-tax adjustments.
+• Provides information to our stockholders and board of directors to understand how our management evaluates our business, to monitor and evaluate our operating results, and analyze profitability of our ongoing operations and trends on a consistent basis by excluding certain non-cash charges.
+Corporate Operating Cash Flows • Net cash provided by (used in) operating activities, excluding the effects of:
+- Assets associated with WSEs (accounts receivable, unbilled revenue, prepaid expenses and other current assets) and
+- Liabilities associated with WSEs (client deposits and other client liabilities, accrued wages, payroll tax liabilities and other payroll withholdings, accrued health benefit costs, accrued workers' compensation costs, insurance premiums and other payables, and other current liabilities). • Provides information that our stockholders and management can use to evaluate our cash flows from operations independent of the current assets and liabilities associated with our WSEs.
+• Enhances comparisons to prior periods and, accordingly, used as a liquidity measure to manage liquidity between corporate and WSE related activities, and to help determine and plan our cash flow and capital strategies.
+(1) Non-GAAP effective tax rate is 25.5% for 2021, 2020 and 2019, which excludes the income tax impact from stock based compensation, changes in uncertain tax positions and nonrecurring benefits or expenses from federal legislative changes.
+(2) Non-cash interest expense represents amortization and write-off of our debt issuance costs and loss on a terminated derivative.
+TRINET 37
+2021 FORM 10-K
+Reconciliation of GAAP to Non-GAAP Measures
+The table below presents a reconciliation of Net income to Adjusted EBITDA:
+Year Ended December 31,
+(in millions) 2021 2020 2019
+Net income
+$ 338 $ 272 $ 212
+Provision for income taxes
+103 85 58
+Stock based compensation
+50 43 41
+Interest expense, bank fees and other 20 21 21
+Depreciation and amortization of intangible assets ¹
+54 47 46
+Adjusted EBITDA $ 565 $ 468 $ 378
+Adjusted EBITDA Margin 12.5 % 11.6 % 9.8 %
+(1) Amount includes impairment of customer relationship intangibles and amortization of cloud computing arrangements included in operating expenses.
+The table below presents a reconciliation of Net income to Adjusted Net Income:
+Year Ended December 31,
+(in millions) 2021 2020 2019
+Net income
+$ 338 $ 272 $ 212
+Effective income tax rate adjustment
+(10) (6) (11)
+Stock based compensation
+50 43 41
+Amortization of other intangible assets, net ¹
+12 5 5
+Non-cash interest expense
+3 1 1
+Income tax impact of pre-tax adjustments
+(17) (12) (12)
+Adjusted Net Income $ 376 $ 303 $ 236
+(1) Amount includes impairment of customer relationship intangibles.
+The table below presents a reconciliation of net cash provided by operating activities to Corporate Operating Cash Flows:
+Year Ended December 31,
+(in millions) 2021 2020 2019
+Net cash provided by operating activities $ 218 $ 546 $ 471
+Less: Change in WSE related other current assets (51) 10 15
+Less: Change in WSE related liabilities (146) 198 223
+Net cash (used in) provided by operating activities - WSE $ (197) $ 208 $ 238
+Net cash provided by operating activities - Corporate $ 415 $ 338 $ 233
+TRINET 38
+2021 FORM 10-K
+Operating Metrics
+Worksite Employees (WSE)
+Average WSE growth is a volume measure we use to monitor the performance of our business. Average WSEs increased 5% when comparing 2021 to 2020, primarily due to increased hiring by clients in our installed base across most verticals in 2021, led by our Technology vertical. Most of the hiring in our installed based in 2021 was from clients that benefited from our Recovery Credit program that we launched in April 2020. Our Recovery Credit program was designed to assist in the economic recovery of SMBs and to promote client loyalty and incentivize client retention.
+Total WSEs can be used to estimate our beginning WSEs for the next period and, as a result, can be used as an indicator of our potential future success in growing our business and retaining clients.
+Anticipated revenues for future periods can diverge from the revenue expectation derived from Average WSEs or Total WSEs due to pricing differences across our HR solutions and services and the degree to which clients and WSEs elect to participate in our solutions during future periods. In addition to focusing on growing our Average WSE and Total WSE counts, we also focus on pricing strategies, benefit participation and service differentiation to expand our revenue opportunities. We report the impact of client and WSE participation differences as a change in mix.
+In addition to focusing on retaining and growing our WSE base, we continue to review acquisition opportunities that would add appropriately to our scale. We continue to invest in efforts intended to enhance client experience and manage attrition, through operational and process improvements.
+Insurance Cost Ratio (ICR)
+ICR is a performance measure calculated as the ratio of insurance costs to insurance service revenues. We believe that ICR promotes an understanding of our insurance cost trends and our ability to align our relative pricing to risk performance.
+We purchase workers' compensation and health benefits coverage for our colleagues and WSEs. Under the insurance policies for this coverage, we bear claims costs up to a defined deductible amount. Our insurance costs, which comprise a significant portion of our overall costs, are significantly affected by our WSEs’ health and workers' compensation insurance claims experience. We set our insurance service fees for workers’ compensation and health benefits in advance for fixed benefit periods. As a result, increases in these insurance costs above our projections, reflected as a higher ICR, result in lower net income. Conversely, decreases in these insurance costs below our projections, reflected as a lower ICR, result in higher net income.
+TRINET 39
+2021 FORM 10-K
+Under our fully-insured workers' compensation insurance policies, we assume the risk for losses up to $1 million per claim occurrence (deductible layer). The ultimate cost of the workers’ compensation services provided cannot be known until all the claims are settled. Our ability to predict these costs is limited by unexpected increases in frequency or severity of claims, which can vary due to changes in the cost of treatments or claim settlements.
+Under our risk-based health insurance policies, we assume the risk of variability in future health claims costs for our enrollees. This variability typically results from changing trends in the volume, severity and ultimate cost of medical and pharmaceutical claims, due to changes to the components of medical cost trend. These trends change, and other seasonal trends and variability may develop. As a result, it is difficult for us to predict our insurance costs with accuracy and a significant increase in these costs could have a material adverse effect on our business.
+(in millions) 2021 2020 2019
+Insurance costs $ 3,339 $ 2,979 $ 2,927
+Insurance service revenues 3,901 3,490 3,326
+Insurance Cost Ratio 86 % 85 % 88 %
+ICR increased due to the increase in medical services utilization in 2021, combined with COVID-19 testing, treatment and vaccination costs, which together resulted in higher insurance costs. This was partially offset by the increase in insurance service revenues. While medical services utilization has increased in 2021, the ICR remains below pre-pandemic levels, as access to medical systems was constrained in regions where increases in hospitalizations arising from the COVID-19 Delta and Omicron variants reduced preventative and elective procedures.
+TRINET 40
+2021 FORM 10-K
+Total Revenues
+Our revenues consist of professional service revenues (PSR) and insurance service revenues (ISR). PSR represents fees charged to clients for processing payroll-related transactions on behalf of our clients, access to our HR expertise, employment and benefit law compliance services, and other HR-related services. ISR consists of insurance-related billings and administrative fees collected from clients and withheld from WSEs for workers' compensation insurance and health benefit insurance plans provided by third-party insurance carriers.
+In April 2020, we created our Recovery Credit program to assist in the economic recovery of our existing SMB clients and enhance our ability to retain eligible clients. Eligible clients received one-time reductions against fees for future services, accounted for as a discount, to be received over the following 12 months.
+The reduction in total revenue under the Recovery Credit program was estimated each period based on the timing of when eligible clients received the Recovery Credit and the ultimate amount of the total Recovery Credit. As of June 30, 2021, we had fully recognized the maximum amount of $145 million for the Recovery Credit and no further reduction to revenue will be recognized.
+In March 2021, we created our 2021 Credit program, which was designed to return up to $25 million to eligible customers based on the performance of our health insurance costs in 2021. We recognized a $25 million reduction to revenue for credits that will be paid to eligible clients under this program. These credits are recorded as a reduction to ISR and are payable within 12 months to eligible clients as of March 31, 2021.
+In 2021, we recognized a reduction in revenue of $17 million for the Recovery Credit and $25 million for the 2021 Credit Program, compared to $128 million recognized in 2020 for the Recovery Credit.
+Monthly total revenues per Average WSE is a measure we use to monitor the success of our pricing strategies. This measure increased 7% in 2021 compared to 2020.
+We also use the following measures to further analyze changes in total revenue:
+•Volume - the percentage change in period over period Average WSEs,
+•Rate - the combined weighted average percentage changes in service fees for each vertical service and changes in service fees associated with each insurance service offering,
+•Mix - the change in composition of Average WSEs within our verticals combined with the composition of our enrolled WSEs within our insurance service offerings, and
+•Credit - the weighted average amounts recognized for the Recovery Credit and 2021 Credit programs.
+The growth in total revenues was primarily driven by higher Average WSEs and growth in rate, combined with the $111 million decrease in the Recovery Credit recognized in 2021. This was partially offset by the $25 million reduction in revenue recognized for the 2021 Credit Program.
+TRINET 41
+2021 FORM 10-K
+Operating Income
+Our operating income consists of total revenues less insurance costs and OE. Our insurance costs include insurance premiums for coverage provided by insurance carriers, reimbursement of claims payments made by insurance carriers or third-party administrators, and changes in accrued costs related to contractual obligations with our workers' compensation and health benefit carriers. Our OE consists primarily of our corporate employees' compensation related expenses, which includes payroll, payroll taxes, SBC, bonuses, commissions and other payroll-and benefits-related costs.
+The table below provides a view of the changes in components of operating income on a year-over-year basis.
+(in millions)
+$368 2020 Operating Income
++506 Higher total revenues primarily driven by higher Average WSEs, rate increases and a $111 million decrease in the Recovery Credit recognized. This was partially offset by the $25 million reduction in revenue recognized for the 2021 Credit Program in 2021.
+-360 Higher insurance costs primarily as a result of higher medical services utilization in 2021 compared to 2020 when we saw a significantly lower than typical medical services utilization due to stay-at-home orders and social distancing practices due to the COVID-19 pandemic.
+-59 Higher OE primarily as a result of increased sales and marketing expense, higher payroll tax and assessments and D&A, together with higher compensation and consulting expenses to support initiatives to improve client experience, enhance service offerings, and improve processes.
+$455 2021 Operating Income
+Professional Service Revenues
+Our clients are primarily billed on a fee per WSE per month per transaction. Our vertical approach provides us the flexibility to offer our clients in different industries with varied services at different prices, which we believe potentially reduces the value of solely using Average WSE and Total WSE counts as indicators of future potential revenue performance.
+We also analyze changes in PSR with the following measures:
+•Volume - the percentage change in period over period Average WSEs,
+•Rate - the weighted average percentage change in fees for each vertical,
+•Mix - the change in composition of Average WSEs across our verticals, and
+•Recovery Credit - the weighted average amounts recognized for the Recovery Credit program.
+The growth in PSR was driven by higher Average WSEs, a growth in rate and a $12 million decrease in the Recovery Credit recognized. The growth in rate was weighted to our smaller clients, and included an increase in fees for other services, including COBRA administration. We continued to experience a favorable change in our vertical mix of WSEs, as SMBs in our Technology, Financial Services and Professional Services verticals returned to hiring at a faster rate than our Main Street vertical.
+TRINET 42
+2021 FORM 10-K
+Insurance Service Revenues
+ISR consists of insurance services-related billings and administrative fees collected from clients and withheld from WSE payroll for health benefits and workers' compensation insurance provided by third-party insurance carriers.
+We use the following measures to analyze changes in ISR:
+•Volume - the percentage change in period over period Average WSEs,
+•Rate - the weighted average percentage change in fees associated with each of our insurance service offerings,
+•Mix - all other changes including the composition of our enrolled WSEs within our insurance service offerings (health plan enrollment), and
+•Credit - the weighted average amounts recognized for the Recovery Credit and 2021 Credit programs.
+The growth in ISR was primarily driven by higher Average WSEs, rate increases and the $99 million decrease in the Recovery Credit recognized, partially offset by the $25 million reduction in revenue recognized for the 2021 Credit Program.
+Insurance Costs
+Insurance costs include insurance premiums for coverage provided by insurance carriers, payments for claims costs and other risk management services, reimbursement of claims payments made by insurance carriers or third-party administrators below a predefined deductible limit, and changes in accrued costs related to contractual obligations with our workers' compensation and health benefit carriers.
+TRINET 43
+2021 FORM 10-K
+We use the following measures to analyze changes in insurance costs:
+•Volume - the percentage change in period over period Average WSEs,
+•Rate - the weighted average percentage change in cost trend associated with each of our insurance service offerings, and
+•Mix - all other changes including the composition of our enrolled WSEs within our insurance service offerings (health plan enrollment).
+During 2020, stay-at-home orders and social distancing practices due to the COVID-19 pandemic decreased medical services utilization, particularly in the second quarter, as enrollees deferred or cancelled elective procedures and reduced outpatient medical, dental and vision services. Medical services utilization increased in 2021 as enrollees returned to outpatient medical, dental and vision care and elective procedures. The higher utilization was partially offset by reductions in some regions for part of the year due to the surges of the COVID-19 Delta and Omicron variants. As a result, our medical services utilization in 2021 remained below pre-pandemic levels.
+The increase in medical services utilization in 2021, combined with increased COVID-19 testing, treatment and vaccination costs, caused the increase in rate. This was partially offset by larger positive claims development as our accrued health costs and accrued workers' compensation costs as of December 31, 2020 were paid in 2021. The increase in volume was primarily driven by higher Average WSEs.
+TRINET 44
+2021 FORM 10-K
+Operating Expenses
+OE includes cost of providing services (COPS), sales and marketing (S&M), general and administrative (G&A), systems development and programming (SD&P), and depreciation and amortization expenses (D&A).
+We had approximately 2,800 corporate employees as of December 31, 2021 in 11 offices across the U.S. In 2021, we continued to exit expiring leases due to our evolving remote work practices and policies. Our corporate employees' compensation-related expenses represent a majority of our operating expenses. Compensation costs for our corporate employees include payroll, payroll taxes, SBC, bonuses, commissions and other payroll- and benefits-related costs. Compensation-related expense represented 62% and 63% of our OE in 2021 and 2020, respectively.
+In 2021, we experienced OE growth of 9% compared to 2020. The ratio of OE to total revenues was 16% and 17% in 2021 and 2020, respectively.
+% represents portion of compensation related expense included in operating expenses
+TRINET 45
+2021 FORM 10-K
+We analyze and present our OE based upon the business functions COPS, S&M, G&A and SD&P and D&A. The charts below provide a view of the expenses of the business functions. Dollars are presented in millions and percentages represent year-over-year change.
+(in millions)
+$687 2020 Operating Expense
++2 COPS was consistent with the prior year.
++16 S&M increased, driven primarily by increased compensation and costs related to our 2nd annual TriNet PeopleForce conference.
++24 G&A increased, driven primarily by increased payroll tax and related payroll tax assessments, compensation and technology services expenses to improve our systems and processes, and to enhance our efficiency.
++10 SD&P increased, driven primarily by increased consulting and technology services expenses as we continue to work to improve our client experience and our systems and processes.
++7 D&A increased, driven primarily by the impairment of customer relationship intangibles.
+$746 2021 Operating Expenses
+The primary drivers to the changes in our OE are presented below:
+TRINET 46
+2021 FORM 10-K
+Other Income (Expense)
+Other income (expense) consists primarily of interest and dividend income from investments, interest expense under our previous credit facility and interest on our 3.50% Senior Notes due 2029 (our 2029 Notes) issued in February 2021.
+Interest income decreased primarily due to lower average market interest rates. Interest expense, bank fees and other was consistent with the prior period.
+Provision for Income Taxes
+Our effective tax rate (ETR) was 23% and 24% for 2021 and 2020, respectively. The change in ETR was primarily attributable to benefits associated with a favorable adjustment of our previously disputed receivable from the IRS.
+Liquidity and Capital Resources
+Liquidity
+Liquidity is a measure of our ability to access sufficient cash flows to meet the short-term and long-term cash requirements of our business operations. Our principal source of liquidity for operations is derived from cash provided by operating activities. We rely on cash provided by operating activities to meet our short-term liquidity requirements, which primarily relate to the payment of corporate payroll and other operating costs, and capital expenditures. Our cash flow related to WSE payroll and benefits is generally matched by advance collection from our clients. To minimize the credit risk associated with remitting the payroll and associated taxes and benefits costs, we require clients to prefund the payroll and related payroll taxes and benefits costs.
+We believe that we can meet our present and reasonably foreseeable operating cash needs and future commitments through existing liquid assets and continuing cash flows from corporate operating activities.
+Included in our balance sheets are assets and liabilities resulting from transactions directly or indirectly associated with WSEs, including payroll and related taxes and withholdings, our sponsored workers' compensation and health insurance programs, and other benefit programs. Although we are not subject to regulatory restrictions that require us to do so, we distinguish and manage our corporate assets and liabilities separately from those current assets and liabilities held by us to satisfy our employer obligations associated with our WSEs as follows:
+TRINET 47
+2021 FORM 10-K
+December 31,
+2021 2020
+(in millions) Corporate WSE Total Corporate WSE Total
+Current assets:
+Cash and cash equivalents $ 612 $ - $ 612 $ 301 $ - $ 301
+Investments 135 - 135 57 - 57
+Restricted cash, cash equivalents and investments 19 1,176 1,195 15 1,373 1,388
+Other current assets 91 406 497 59 355 414
+Total current assets $ 857 $ 1,582 $ 2,439 $ 432 $ 1,728 $ 2,160
+Total current liabilities 157 1,582 $ 1,739 $ 142 $ 1,728 $ 1,870
+Working capital $ 700 $ - $ 700 $ 290 $ - $ 290
+As of December 31, 2021, we did not have any material off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources.
+Working capital for WSEs related activities
+We designate funds to ensure that we have adequate current assets to satisfy our current obligations associated with WSEs, the Recovery Credit liability and 2021 Credit Program liability. We expect the Recovery Credit and 2021 Credit Program aggregate liability of $48 million as of December 31, 2021 to be settled over the following 12 months. We manage our WSE payroll and benefits obligations through collections of payments from our clients which generally occur two to three days in advance of client payroll dates. We regularly review our short-term obligations associated with our WSEs (such as payroll and related taxes, insurance premium and claim payments) and designate funds required to fulfill these short-term obligations, which we refer to as PFC. PFC is included in current assets as restricted cash, cash equivalents and investments.
+We manage our sponsored benefit and workers' compensation insurance obligations by maintaining collateral funds in restricted cash, cash equivalents and investments. These collateral amounts are generally determined at the beginning of each plan year and we may be required by our insurance carriers to adjust our collateral balances when facts and circumstances change. We regularly review our collateral balances with our insurance carriers and anticipate funding further collateral in the future based upon our capital requirements. We classify our restricted cash, cash equivalents and investments as current and noncurrent assets to match against the anticipated timing of payments to carriers.
+The following table summarizes our workers' compensation obligations, gross of collateral, as of December 31, 2021,
+Payments Due by Period
+(in millions) Total Less than 1 year 1-3 years 3-5 years More than 5 years
+Workers' compensation obligations (1)
+$ 198 $ 57 $ 62 $ 26 $ 53
+(1) Represents estimated payments that are expected to be made to carriers for various workers' compensation programs under the contractual obligations. These obligations include the costs of reimbursing the carriers for paying claims within the deductible layer in accordance with the workers' compensation insurance policy.
+Working capital for corporate purposes
+Corporate working capital as of December 31, 2021 increased $410 million from December 31, 2020, primarily driven by a $311 million increase in corporate unrestricted cash and cash equivalents and a $78 million increase in corporate investments.
+TRINET 48
+2021 FORM 10-K
+We use our available cash and cash equivalents to satisfy our operational and regulatory requirements and to fund capital expenditures. We believe that we can meet our present and reasonably foreseeable operating cash needs and future commitments through existing liquid assets, continuing cash flows from corporate operating activities and the potential issuance of debt or equity securities. We believe our existing corporate cash and cash equivalents and positive working capital will be sufficient to meet our working capital expenditure needs for at least the next twelve months.
+The following table summarizes our purchase obligations as of December 31, 2021,
+Payments Due by Period
+(in millions) Total Less than 1 year 1-3 years 3-5 years More than 5 years
+Purchase obligations (1)
+$ 150 $ 87 $ 56 $ 7 $ -
+(1) Our purchase obligations primarily consist of software licenses, consulting and maintenance agreements, and sales and marketing events pertaining to various agreements.
+Cash Flows
+The following table presents our cash flow activities for the stated periods:
+Year Ended December 31,
+(in millions) 2021 2020
+Corporate WSE Total Corporate WSE Total
+Net cash provided by (used in):
+Operating activities $ 415 $ (197) $ 218 $ 338 $ 208 $ 546
+Investing activities (119) (16) (135) (69) (82) (151)
+Financing activities 12 - 12 (208) - (208)
+Net increase (decrease) in cash and cash equivalents, unrestricted and restricted $ 308 $ (213) $ 95 $ 61 $ 126 $ 187
+Cash and cash equivalents, unrestricted and restricted:
+Beginning of period $ 352 $ 1,291 $ 1,643 $ 291 $ 1,165 $ 1,456
+End of period $ 660 $ 1,078 $ 1,738 $ 352 $ 1,291 $ 1,643
+Net increase (decrease) in cash and cash equivalents:
+Unrestricted $ 311 $ - $ 311 $ 88 $ - $ 88
+Restricted (3) (213) (216) (27) 126 99
+Operating Activities
+Components of net cash provided by operating activities are as follows:
+Year Ended December 31,
+(in millions) 2021 2020
+Net cash provided by operating activities $ 218 $ 546
+Net cash provided by operating activities - Corporate $ 415 $ 338
+Net cash provided by (used in) operating activities - WSE $ (197) $ 208
+The year-over-year change in net cash used in operating activities for WSE purposes was primarily driven by timing of client payments, payments of payroll and payroll taxes, settlement of the Recovery Credit, and insurance claim activities. We expect the changes in restricted cash and cash equivalents to correspond to WSE cash provided by (or used in) operations as we manage our obligations associated with WSEs through restricted cash.
+Our corporate operating cash flows in 2021 increased when compared to 2020 due to the increase in our net income and the timing of our payments of corporate obligations.
+TRINET 49
+2021 FORM 10-K
+Investing Activities
+Cash used in investing activities for the periods presented below primarily consisted of purchases of investments and capital expenditures, partially offset by proceeds from the sale and maturity of investments.
+Year Ended December 31,
+(in millions) 2021 2020
+Investments:
+Purchases of investments $ (444) $ (327)
+Proceeds from sale and maturity of investments 349 224
+Other - (12)
+Cash used in investments $ (95) $ (115)
+Capital expenditures:
+Software and hardware $ (33) $ (33)
+Office furniture, equipment and leasehold improvements (7) (3)
+Cash used in capital expenditures $ (40) $ (36)
+Cash used in investing activities $ (135) $ (151)
+Investments
+We invest a portion of available cash in investment-grade securities with effective maturities less than five years that are classified on our balance sheets as investments.
+We also invest funds held as collateral to satisfy our long-term obligation towards workers' compensation liabilities. These investments are classified on our balance sheets as restricted cash, cash equivalents and investments. We review the amount and the anticipated holding period of these investments regularly in conjunction with our estimated long-term workers' compensation liabilities and anticipated claims payment trend. At December 31, 2021, our investments had a weighted average duration of less than two years and an average S&P credit rating of AA.
+As of December 31, 2021, we held approximately $2.3 billion in restricted and unrestricted cash, cash equivalents and investments, of which $612 million was unrestricted cash and cash equivalents and $303 million was unrestricted investments. Refer to Note 2 in Part II, Item 8. Financial Statements and Supplemental Data, in this Form 10-K for a summary of these funds.
+In December 2021, we entered into a definitive agreement to acquire Zenefits. The total purchase price of $220 million, subject to customary closing adjustments, will be settled by the issuance of up to $20 million of TriNet stock to eligible selling shareholders, with the remainder paid in cash from corporate working capital. The acquisition is subject to customary closing conditions and regulatory approval and is expected to close in the first quarter of 2022.
+Capital Expenditures
+During 2021, we continued to make investments in software and hardware and we enhanced our existing service offerings and technology platform. We expect capital investments in our software and hardware to continue in the future.
+TRINET 50
+2021 FORM 10-K
+Financing Activities
+Net cash provided by (used in) financing activities in the years ended December 31, 2021 and 2020 consisted of our debt and equity-related activities.
+Year Ended December 31,
+(in millions) 2021 2020
+Financing activities
+Repurchase of common stock, net of issuance $ (109) $ (186)
+Proceeds from issuance of 2029 Notes 500 -
+Repayment of borrowings (370) (22)
+Payment of debt issuance costs (7) -
+Payment of long-term financing fees (2) -
+Draw down from revolving credit facility - 234
+Repayment of borrowings under revolving credit facility - (234)
+Cash provided by (used in) financing activities $ 12 $ (208)
+During the year ended December 31, 2021, we repurchased 1,161,909 shares of our common stock for approximately $94 million through our stock repurchase program. As of December 31, 2021, approximately $263 million remained available for repurchase under all authorizations by our board of directors. We plan to use current cash and cash generated from ongoing operating activities to fund this stock repurchase program.
+In February 2022, our board of directors authorized a $300 million incremental increase to our ongoing stock repurchase program initiated in May 2014. We use this program to return value to our stockholders and to offset dilution from the issuance of stock under our equity-based incentive plan and employee purchase plan.
+In February 2021, we issued $500 million aggregate principal amount of our 2029 Notes. $370 million of the proceeds was used to repay and terminate the 2018 Term Loan A. The remaining funds were used for general corporate purposes. Refer to Note 6 in Part II, Item 8. Financial Statements and Supplementary Data, of this Form 10-K for further information.
+In February 2021, concurrently with the closing of our 2029 Notes offering, we entered into a new $500 million revolving credit facility under a new credit agreement (our 2021 Credit Agreement). The 2021 Credit Agreement includes a $100 million letter of credit sub-facility and a $40 million swingline sub-facility. We also have the option to incur incremental credit facilities of up to the greater of $450 million and 100% of EBITDA for the most recent period of four fiscal quarters for which financial statements have been delivered. Such incremental facilities are subject to obtaining additional commitments from lenders. At December 31, 2021, we had $500 million available under our 2021 Credit Agreement.
+Capital Resources
+As of December 31, 2021, $500 million aggregate principal of our 2029 Notes was outstanding. The Indenture governing the 2029 Notes includes restrictive covenants limiting our ability to: (i) create liens on certain assets to secure debt; (ii) grant subsidiary guarantees of certain debt without also providing a guarantee of the 2029 Notes; and (iii) consolidate or merge with or into, or sell or otherwise dispose of all or substantially all of our assets to, another person, subject, in each case, to certain customary exceptions.
+Our 2021 Credit Agreement includes a $500 million revolving credit facility. The 2021 Credit Agreement includes negative covenants that limit our ability to incur indebtedness and liens, sell assets and make restricted payments, including dividends and investments, subject to certain exceptions. In addition, the 2021 Credit Agreement also contains other customary affirmative and negative covenants and customary events of default. The 2021 Credit Agreement also contains a financial covenant that requires the Company to maintain certain maximum total net leverage ratios.
+We were in compliance with all financial covenants under our 2021 Credit Agreement at December 31, 2021.
+TRINET 51
+2021 FORM 10-K
+Critical Accounting Judgments and Estimates
+Our consolidated financial statements are prepared in accordance with GAAP, which require us to make estimates, judgments, and assumptions that affect reported amounts of assets, liabilities, revenues and expenses, and the related disclosures of contingent assets and liabilities. These estimates are based on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Some of the assumptions are highly uncertain at the time of estimation. To the extent actual experience differs from the assumptions used, our consolidated financial statements could be materially affected. For additional information about our accounting policies, refer to Note 1 in Part II, Item 8. Financial Statements and Supplementary Data, of this Form 10-K.
+The following items require significant estimation or judgment:
+Insurance Costs
+We purchase workers' compensation and health benefits coverage for our employees and WSEs. As part of these insurance policies, we bear claims costs up to a defined deductible amount and as a result, we establish accrued insurance costs including both known claims filed and estimates for incurred but not reported claims.
+We use external actuaries to evaluate, review and recommend estimates of our accrued workers' compensation and health insurance costs. The accrued costs studies performed by these qualified external actuaries analyze historical claims data to develop a range of our potential ultimate costs using loss development, expected loss ratio and frequency/severity methods in accordance with Actuarial Standards of Practice. These methods are applied to classes of the claims data organized by policy year and risk class.
+Key judgments and evaluations in arriving at loss estimates by class and the accrued costs selection overall include:
+•the selection of method used and the relative weights given to selecting the method used for each policy year,
+•the underlying assumptions of LDF used in these models,
+•the effect of any changes to the insurers' claims handling and payment processes,
+•evaluation of medical and indemnity cost trends, costs from changes in the risk exposure being evaluated and any applicable changes in legal, regulatory or judicial environment.
+We review and evaluate these judgments and the associated recommendations in concluding the adequacy of accrued costs. Our quarterly reserving process involves the collaboration of our qualified external actuaries and our actuarial and finance departments to approve a single point best estimate. In selecting this best estimate, management considers the actuarial estimates and applies informed judgment regarding qualitative factors that may not be fully captured in these actuarial estimates. Such factors include, but are not limited to: the timing of the emergence of claims, volume and complexity of claims, social and judicial trends, and the extent of our historical loss data versus industry information. Where adjustments are necessary these are recorded in the period in which the adjustments are identified.
+These accrued costs may vary in subsequent quarters from the amount estimated. Certain assumptions used in estimating these accrued costs are highly judgmental. Our accrued costs, results of operations and financial condition can be materially impacted if actual experience differs from the assumptions used in establishing these accrued costs.
+Accrued Workers' Compensation Costs
+Under our policies, we are responsible for reimbursing the insurance carriers for workers' compensation losses up to $1 million per claim occurrence (Deductible Layer). As workers' compensation costs for a particular period are not known for many years after the losses have occurred, these costs represent our best estimate of unpaid claim losses and loss adjustment expenses within the deductible layer in accordance with our insurance policies. We use external actuaries to evaluate, review and recommend accrued workers' compensation costs on a quarterly basis. The data is segmented by class and state and analyzed by policy year, and states where we have small exposure are aggregated into a single grouping.
+TRINET 52
+2021 FORM 10-K
+We use a combination of loss development, expected loss ratio and frequency/severity methods which include the following inputs, assumptions and analytical techniques:
+•Historical volume and severity of workers' compensation cost experience, exposure data and industry loss experience related to TriNet’s insurance policies,
+•inputs of WSEs’ job responsibilities and location,
+•estimates of future cost trends,
+•expected loss ratios for the latest accident year or prior accident years, adjusted for the loss trend, the effect of rate changes and other quantifiable factors, and
+•LDFs to project the reported losses for each accident year to an ultimate basis.
+Final cost settlements may vary materially from the present estimates, particularly when payments do not occur until well into the future. In our experience, plan years related to workers' compensation programs may take 10 years or more to be fully settled.
+We believe that our estimate of accrued workers' compensation costs is most sensitive to LDFs given the long reporting and paid development patterns for our workers' compensation loss costs. Our methods of estimating accrued workers' compensation costs rely on these LDFs and an estimate of future cost trend.
+The following table illustrates the sensitivity of changes in the LDFs on our year end estimate of insurance costs (in millions of dollars):
+Change in loss development factor Change in insurance costs
+-5.0% ($33)
+-2.5% ($19)
++2.5% $20
++5.0% $40
+Accrued Health Insurance Costs
+We sponsor and administer a number of employee benefit plans, including group health, dental, vision and life insurance as an employer plan sponsor under section 3(5) of the ERISA. Approximately 84% of our group health insurance costs relate to risk-based plans in which we agree to reimburse our carriers for any claims paid within an agreed-upon per-person deductible layer up to a maximum aggregate exposure limit per policy. These deductible dollar limits and maximum limits vary by carrier and year.
+Costs covered by these insurance plans generally develop on average within three to six months so insurance costs and accrued health insurance costs include estimates of reported losses and claims incurred but not yet paid (IBNP). Data is grouped and analyzed by insurance carrier.
+To estimate accrued health benefits costs we use a number of inputs, assumptions and analytical techniques:
+•historical loss claims payment patterns and medical cost trend rates related to TriNet’s insurance policies,
+•current period claims costs and claims reporting patterns (completion factors), and
+•plan enrollment.
+Medical cost trend rates are a significant factor we use in developing our accrued health insurance costs. Medical cost trends are developed through an analysis of claims incurred in prior months, provider pricing and indicators of health care utilization, including pharmacy utilization trends, and outpatient and inpatient utilization. Many factors may cause medical cost trend to vary from our estimates.
+TRINET 53
+2021 FORM 10-K
+The following table illustrates the sensitivity of changes in the medical cost trend on our year end estimate of insurance costs (in millions of dollars):
+Change in medical cost trend Change in insurance costs
++3.0% $21
++2.0% $14
++1.0% $7
+-1.0% $(7)
+-2.0% $(14)
+-3.0% $(21)
+Completion factors are an actuarial estimate based on historical experience and analysis of current trends, of paid costs to carriers as a percentage of the expected ultimate costs to carriers. Many factors may cause actual claims submissions rates from our carriers to vary from our estimated completion factors, including carrier claims processing patterns, the mix of providers and the mix of electronic versus manual claims submitted to our carriers.
+The following table illustrates the sensitivity of changes in completion factors on our year end estimate of insurance costs (in millions of dollars):
+Change in completion factors Change in insurance costs
+-0.75% $16
+-0.50% $11
+-0.25% $5
++0.25% $(5)
++0.50% $(11)
++0.75% $(16)
+Recent Accounting Pronouncements
+Refer to Note 1 in Part II, Item 8, Financial Statements and Supplementary Data, of this Form 10-K for additional information related to recent accounting pronouncements.
+TRINET 54
+2021 FORM 10-K

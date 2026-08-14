@@ -1,0 +1,614 @@
+ITEM
+7: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction the audited
+financial statements and related notes included elsewhere in this Annual Report on Form 10-K. In addition to historical information,
+this discussion and analysis here and throughout the Form 10-K contains forward-looking statements that involve risks, uncertainties
+and assumptions. Our actual results may differ materially from those anticipated in these forward-looking statements due to a
+number of factors, including but not limited to, risks described in the section entitled “Risk Factors”.
+Overview
+We
+were incorporated in California on January 3, 1994 as Lilien Systems and were acquired by Inpixon on March 20, 2013. Effective
+January 1, 2016, Inpixon consummated a reorganization transaction pursuant to which certain Inpixon subsidiaries, including, AirPatrol
+Corporation and Shoom were merged with and into Lilien and Lilien changed its name to “Sysorex USA”; and all outstanding
+shares of capital stock of SGS were assigned to Lilien, pursuant to which SGS became a direct subsidiary of Lilien. Sysorex USA
+changed its name to Inpixon USA on March 1, 2017. On July 26, 2018, Inpixon USA merged into Sysorex, Inc., a wholly-owned subsidiary
+of Inpixon, for the purpose of changing its name and moving its state of formation from California to Nevada. Lilien significantly
+expanded Inpixon’s operations providing it with a big data analytics platform and enterprise infrastructure capabilities.
+On
+August 31, 2018, Inpixon completed the spin-off (the “Spin-off”) of its value-added reseller business from its indoor
+positioning analytics business by way of a distribution of all the shares of common stock of Inpixon’s wholly-owned subsidiary,
+Sysorex, Inc., a Nevada corporation (“Sysorex,” “we,” “us,” “our” and similar
+terms), to holders of Inpixon’s common stock, preferred stock and certain Inpixon warrants as of August 21, 2018 (the “Record
+Date”). The distribution occurred by way of a pro rata stock distribution to such holders of common stock, preferred stock
+and warrants, each of whom received one share of Sysorex common stock for every three shares of Inpixon common stock held (or
+into which such preferred stock was convertible or warrants were exercisable) on the Record Date.
+As
+a result of the Spin-off, Sysorex is an independent public company and Sysorex’s common stock began regular-way trading
+on the OTC Markets under the symbol “SYSX” on September 4, 2018.
+The financial statements present the combined results of operations, financial condition, and cash flows of Sysorex and its subsidiary. These financial statements were prepared on a combined basis because the operations were under common control. All intercompany accounts and transactions have been eliminated between the combined entities.
+We are a provider of information technology solutions from multiple vendors, including hardware products, software, IT services, warranty and maintenance support, offered through our dedicated sales force, ecommerce channels, existing federal contracts and service team. Since our founding, we have served our customers by offering products and services from key industry vendors such as Cisco, Hewlett Packard Enterprises, Aruba Networks, Microsoft, Canon, Dell, Samsung, Tek84, Panasonic, Lexmark and others. We provide our customers with comprehensive solutions incorporating leading products and services across a variety of technology practices and platforms such as cyber, cloud, networking, security, and mobility. We utilize our professional services, consulting services and partners to develop and implement these solutions. Our sales and marketing efforts in collaboration with our vendor partners, allows us to reach multiple customer public sector segments including federal, state and local governments, as well as educational institutions.
+Revenues from our business are typically driven by public sector delivery orders that are received on a monthly basis. During the years ended December 31, 2020 and 2019, approximately 100% of our revenues were from these delivery orders. These delivery orders include information technology hardware, software, professional services, warranty and maintenance support, and highly integrated solutions that include two or more of the aforementioned items. The Company’s performance obligation is to work with customers to identify the computer maintenance and warranty services that best suit the customer’s needs and sell them those products and services however, the maintenance is provided to the customer by the manufacturer. For these contracts, the customer is invoiced one time and pays us upfront for the full term of the warranty and maintenance contract.
+We
+experience variability in our net sales and operating results on a quarterly basis as a result of many factors. We experience
+some seasonal trends in our sales of technology solutions to government and educational institutions. For example, the fiscal
+year-ends of U.S. public sector customers vary for those in the federal government space and those in the state and local government
+and educational institution (“SLED”) space. We generally see an increase in our second quarter sales related to customers
+in the U.S. SLED sector and in our third quarter sales related to customers in the federal government space as these customers
+close out their budgets for their fiscal year (June 30 and September 30, respectively). We may also experience variability in
+our gross profit and gross profit margin as a result of changes in the various vendor programs we participate in and its effect
+on the amount of vendor consideration we receive from a particular vendor or their authorized distributor/wholesaler, which may
+be impacted by a number of events outside of our control. As such, the results of interim periods are not necessarily indicative
+of the results that may be expected for any other interim period or for the full year.
+A
+substantial portion of our business is dependent on sales through existing federal contracts, known as Government-wide Acquisition
+Contracts (“GWAC”). We have three key GWAC contracts, known in the industry as GSA Federal Supply Schedule IT 70,
+NASA SEWP V, and NIH CIO-CS. Maintaining current vendor offerings and pricing is critical to attaining sales.
+Our
+planned operating expenditures each quarter are based in large part on sales forecasts for the quarter. If our sales do not meet
+expectations in any given quarter, our operating results for the quarter may be materially adversely affected. Our narrow margins
+may magnify the impact of these factors on our operating results. Management regularly reviews our operating performance using
+a variety of financial and non-financial metrics including sales, shipments, margin, vendor consideration, advertising expense,
+personnel costs, account executive productivity, accounts receivable aging, supplier inventory turnover, liquidity and cash resources.
+Our management monitors the various metrics against goals and budgets, and makes necessary adjustments intended to enhance our
+performance.
+Our current debt repayment to key vendors due to prior non-payment of invoices has affected our ability to receive the most favorable cost, terms, and delivery priority. General economic conditions also have an effect on our business and results of operations. For example, if the federal government fails to pass a budget or a continuing resolution before adopting an annual budget, our primary customers will not have the ability to make purchases off our existing contracts until such budget issue is resolved. If current tariffs and stipulation by the government to require the purchase of goods that are substantially made or assembled in America are enacted, this could severely affect our ability to source from vendors that manufacture overseas. These factors affect sales of our products, sales cycles, adoption rates of new technologies and level of price competition. We continue to focus our efforts paying down our debt, cost controls, competitive pricing strategies, capturing new contracts, and driving higher margin service and solution sales. We also continue to make selective investments in our sales force personnel, service and solutions capabilities and internal information technology infrastructure and tools in an effort to meet vendor program requirements and to position us for enhanced productivity and future growth.
+For the years ended December 31, 2020 and 2019, the Company incurred net losses of approximately $3.5 million and $5.4 million, respectively. We cannot assure that we will ever earn revenues sufficient to support our operations, or that we will ever be profitable. In order to continue our operations, we continue to avail ourselves to the SouthStar facility to finance purchase orders and invoices in an amount equal to 80% of the face value of purchase orders received, continued financing through our Related Party Note (as further defined in this section) and other Short-Term Debt (as further defined in this section), higher margin public sector contracts capture, reauthorization of key vendors and credit limitation improvements. The Company will need additional funds to support its obligations for the next twelve months. The Company is exploring a number of possible solutions to its financing needs, including efforts to raise additional capital as needed, through the issuance of equity, equity-linked or debt securities, as well as possible transactions with other companies, strategic partnerships, and other mechanisms for addressing our financial condition.
+Critical
+Accounting Policies and Estimates
+Our
+consolidated financial statements of the Company have been prepared in accordance with generally accepted accounting principles
+(“GAAP”). In connection with the preparation of our consolidated financial statements and related disclosures in conformity
+with GAAP requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and
+expenses. These estimates and assumptions are based on historical experience and on various other factors that we believe are
+reasonable under the circumstances. We periodically review our accounting policies, estimates and assumptions and make adjustments
+when facts and circumstances dictate. In addition to the accounting policies that are more fully described in the Notes to the
+Consolidated Financial Statements included elsewhere in this Form 10-K, we consider the critical accounting policies described
+below to be affected by accounting estimates. Our critical accounting policies that are affected by accounting estimates require
+us to use judgments, often as a result of the need to make estimates and assumptions regarding matters that are inherently uncertain,
+and actual results could differ materially from these estimates. Historically changes in management estimates have not been material.
+Revenue
+Recognition
+In
+March 2016, the Financial Accounting Standards Board (‘FASB”) issued Accounting Standards Update (“ASU”)
+No. 2016-08, “Revenue from Contracts with Customers - Principal versus Agent Considerations”, in April 2016,
+the FASB issued ASU No. 2016-10, “Revenue from Contracts with Customers (Topic 606) - Identifying Performance Obligations
+and Licensing” and in May 9, 2016, the FASB issued ASU No. 2016-12, “Revenue from Contracts with Customers (Topic
+606)”, or ASU 2016-12. This update provides clarifying guidance regarding the application of ASU No. 2014-09 - Revenue
+from Contracts with Customers which is not yet effective. These new standards provide for a single, principles-based model for
+revenue recognition that replaces the existing revenue recognition guidance. In July 2015, the FASB deferred the effective date
+of ASU 2014-09 until annual and interim periods beginning on or after December 15, 2017. It has replaced most existing revenue
+recognition guidance under GAAP. The ASU may be applied retrospectively to historical periods presented or as a cumulative-effect
+adjustment as of the date of adoption. The Company has adopted Topic 606 using a modified retrospective approach and will be applied
+prospectively in the financial statements from January 1, 2018 forward. Revenues under Topic 606 are required to be recognized
+either at a “point in time” or “over time”, depending on the facts and circumstances of the arrangement,
+and will be evaluated using a five-step model. The adoption of Topic 606 did have a material impact on our financial statements.
+Hardware
+and Software Revenue Recognition
+The Company is a primary resale channel for a large group of vendors and suppliers, including OEMs, software publishers and wholesale distributors.
+The
+Company accounts for a contract when it has approval and commitment from both parties, the rights of the parties are identified,
+payment terms are established, the contract has commercial substance and collectability of consideration is probable. The Company
+evaluates the following indicators amongst others when determining whether it is acting as a principal in the transaction and
+recording revenue on a gross basis: (i) the Company is primarily responsible for fulfilling the promise to provide the specified
+goods or service, (ii) the Company has inventory risk before the specified good or service has been transferred to a customer
+or after transfer of control to the customer and (iii) the Company has discretion in establishing the price for the specified
+good or service. If the terms of a transaction do not indicate the Company is acting as a principal in the transaction, then the
+Company is acting as an agent in the transaction and the associated revenues are recognized on a net basis.
+The
+Company recognizes revenue once control has passed to the customer. The following indicators are evaluated in determining when
+control has passed to the customer: (i) the Company has a right to payment for the product or service, (ii) the customer has legal
+title to the product, (iii) the Company has transferred physical possession of the product to the customer, (iv) the customer
+has the significant risk and rewards of ownership of the product and (v) the customer has accepted the product. The Company’s
+products can be delivered to customers in a variety of ways, including (i) as physical product shipped from the Company’s
+warehouse, (ii) via drop-shipment by the vendor or supplier or (iii) via electronic delivery of keys for software licenses. The
+Company’s shipping terms typically specify F.O.B. destination.
+The
+Company leverages drop-shipment arrangements with many of its vendors and suppliers to deliver products to its customers without
+having to physically hold the inventory at its warehouses. The Company is the principal in the transaction and recognizes revenue
+for drop-shipment arrangements on a gross basis.
+The
+Company may provide integration of products from multiple vendors as a solution it sells to the customer. In this arrangement,
+the Company provides direct warranty to the customer with the Company’s own personnel as the customer requires warranty
+on the solution and not individual vendor products. This type of warranty is sold integral to the overall solution quoted to the
+customer. The Company considers these service-type warranties to be performance obligations of the principal from the underlying
+products that make up a solution and therefore is acting as a principal in the transaction and records revenue on a gross basis
+at the point of sale.
+License
+and Maintenance Services Revenue Recognition
+The
+Company provides a customized design and configuration solution for its customers and in this capacity resells hardware, software
+and other IT equipment license and maintenance services in exchange for fixed fees. The Company selects the vendors and sells
+the products and services, including maintenance services, that best fit the customer’s needs. For sales of maintenance
+services and warranties, the customer obtains control at the point in time that the services to be provided by a third-party vendor
+are purchased by the customer and therefore the Company’s performance obligation to provide the overall systems solution
+is satisfied at that time. The Company’s customers generally pay within 30 to 60 days from the receipt of a customer-approved
+invoice.
+For
+resale of services, including maintenance services, warranties, and extended warranties, the Company is acting as an agent as
+the primary activity for those services are fulfilled by a third party. While the Company may facilitate and act as a first responder
+for these services, the third-party service providers perform the primary maintenance and warranty services for the customer.
+Therefore, the Company is not primarily responsible for performing these services and revenue is recorded on a net basis.
+Professional
+Services Revenue Recognition
+The
+Company’s professional services include fixed fee and time and materials contracts. Fixed fees are paid monthly, in phases,
+or upon acceptance of deliverables. The Company’s time and materials contracts are paid weekly or monthly based on hours
+worked. Revenue on time and material contracts is recognized based on a fixed hourly rate as direct labor hours are expended.
+Materials, or other specified direct costs, are reimbursed as actual costs and may include markup. The Company has elected the
+practical expedient to recognize revenue for the right to invoice because the Company’s right to consideration corresponds
+directly with the value to the customer of the performance completed to date. For fixed fee contracts, the Company recognizes
+revenue evenly over the service period using a time-based measure because the Company is providing continuous service. Because
+the Company’s contracts have an expected duration of one year or less, the Company has elected the practical expedient in
+ASC 606-10-50-14(a) to not disclose information about its remaining performance obligations. Anticipated losses are recognized
+as soon as they become known. For the years ended December 31, 2020 and 2019, the Company did not incur any such losses. These
+amounts are based on known and estimated factors. Revenues from time and material or firm fixed price long-term and short-term
+contracts are derived principally with various United States government agencies and commercial customers.
+Impairment
+of Long-Lived Assets
+The
+Company amortizes intangible assets with finite lives over their estimated useful lives and review them for impairment whenever
+an impairment indicator exists. The Company continually monitors events and changes in circumstances that could indicate carrying
+amounts of our long-lived assets, including our intangible assets, may not be recoverable. When such events or changes in circumstances
+occur, we assess recoverability by determining whether the carrying value of such assets will be recovered through the undiscounted
+expected future cash flows. If the future undiscounted cash flows are less than the carrying amount of these assets, we recognize
+an impairment loss based on the excess of the carrying amount over the fair value of the assets. The Company did not recognize
+any intangible asset impairment charges for the years ended December 31, 2020 and 2019.
+Recent
+Accounting Standards
+In
+February 2016, the FASB issued ASU No. 2016-02, “Leases (Topic 842),” (“ASU 2016-02”). ASU 2016-02 requires
+an entity to recognize assets and liabilities arising from a lease for both financing and operating leases. ASU 2016-02 will also
+require new qualitative and quantitative disclosures to help investors and other financial statement users better understand the
+amount, timing, and uncertainty of cash flows arising from leases. ASU 2016-02 is effective for fiscal years beginning after December
+15, 2018. As an emerging growth company, the Company delayed adoption of ASU 2016-02 until January 1, 2020.
+As
+a result of the new standard, all of the Company’s leases greater than one year in duration are recognized in its balance
+sheets as both operating lease liabilities and right-of-use assets upon adoption of the standard. The Company adopted the standard
+using the modified-retrospective method effective January 1, 2020. This adoption primarily affected the Company’s consolidated
+balance sheet based on the recording of right-of-use assets and the lease liability, current and noncurrent, for its operating
+leases. The adoption of ASU 2016-02 did not change the Company’s historical classification of these leases or the straight-line
+recognition of related expenses. Upon adoption, the Company recorded approximately $217,000 in right-of-use assets and operating
+lease liabilities on the Company’s balance sheet.
+In
+December 2019, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (‘ASU”)
+2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes (“ASU 2019-12”), which
+simplifies income tax accounting in various areas including, but not limited to, the accounting for hybrid tax regimes, tax implications
+related to business combinations, and interim period accounting for enacted changes in tax law, along with some codification improvements.
+ASU 2019-12 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2020, with
+early adoption permitted. Certain changes in the standard require retrospective or modified retrospective adoption, while other
+changes must be adopted prospectively. The Company is currently evaluating ASU 2019-12 and its impact on our consolidated financial
+statements.
+Long-lived
+Assets
+We
+account for our long-lived assets in accordance with ASC 360, “Accounting for the Impairment or Disposal of Long-Lived Assets”
+(“ASC 360”), which requires that long-lived assets be evaluated whenever events or changes in circumstances indicate
+that the carrying amount may not be recoverable or the useful life has changed. Some of the events or changes in circumstances
+that would trigger an impairment test include, but are not limited to:
+● significant
+under-performance relative to expected and/or historical results (negative comparable sales growth or operating cash flows
+for two consecutive years);
+● significant
+negative industry or economic trends;
+● knowledge
+of transactions involving the sale of similar property at amounts below our carrying value; or
+● our
+expectation to dispose of long-lived assets before the end of their estimated useful lives, even though the assets do not
+meet the criteria to be classified as “held for sale.”
+Long-lived
+assets are grouped for recognition and measurement of impairment at the lowest level for which identifiable cash flows are largely
+independent of the cash flows of other assets. The impairment test for long-lived assets requires us to assess the recoverability
+of our long-lived assets by comparing their net carrying value to the sum of undiscounted estimated future cash flows directly
+associated with and arising from our use and eventual disposition of the assets. If the net carrying value of a group of long-lived
+assets exceeds the sum of related undiscounted estimated future cash flows, we would be required to record an impairment charge
+equal to the excess, if any, of net carrying value over fair value.
+When
+assessing the recoverability of our long-lived assets, which include property and equipment and finite-lived intangible assets,
+we make assumptions regarding estimated future cash flows and other factors. Some of these assumptions involve a high degree of
+judgment and bear a significant impact on the assessment conclusions. Included among these assumptions are estimating undiscounted
+future cash flows, including the projection of comparable sales, operating expenses, capital requirements for maintaining property
+and equipment and residual value of asset groups. We formulate estimates from historical experience and assumptions of future
+performance, based on business plans and forecasts, recent economic and business trends, and competitive conditions. In the event
+that our estimates or related assumptions change in the future, we may be required to record an impairment charge. Based on our
+evaluation, we did not record a charge for impairment for the years ended December 31, 2020 and 2019.
+The
+benefits to be derived from our acquired intangibles, will take additional financial resources to continue the development of
+our technology. Management believes our technology has significant long-term profit potential, and to date, management continues
+to allocate existing resources to develop products and services to seek returns on its investment. We continue to seek additional
+resources, through both capital raising efforts and meeting with industry experts, as part of our continued efforts. Although
+there can be no assurance that these efforts will be successful, we intend to allocate financial and personnel resources when
+deemed possible and/or necessary. If we choose to abandon these efforts, or if we determine that such funding is not available,
+the related development of our technology (resulting in our lack of ability to expand our business), may be subject to significant
+impairment.
+As
+described previously, we continue to experience weakness in market conditions, a depressed stock price, and challenges in executing
+our business plans. The Company will continue to monitor these uncertainties in future periods, to determine the impact.
+We
+evaluate the remaining useful lives of long-lived assets and identifiable intangible assets whenever events or circumstances indicate
+that a revision to the remaining period of amortization is warranted. Such events or circumstances may include (but are not limited
+to): the effects of obsolescence, demand, competition, and/or other economic factors including the stability of the industry in
+which we operate, known technological advances, legislative actions, or changes in the regulatory environment. If the estimated
+remaining useful lives change, the remaining carrying amount of the long-lived assets and identifiable intangible assets would
+be amortized prospectively over that revised remaining useful life. We have determined that there were no events or circumstances
+during the years ended December 31, 2020 and 2019, which would indicate a revision to the remaining amortization period related
+to any of our long-lived assets. Accordingly, we believe that the current estimated useful lives of long-lived assets reflect
+the period over which they are expected to contribute to future cash flows and are therefore deemed appropriate.
+Impairment
+of Long-Lived Assets Subject to Amortization
+We
+amortize intangible assets with finite lives over their estimated useful lives and review them for impairment whenever an impairment
+indicator exists. We continually monitor events and changes in circumstances that could indicate carrying amounts of our long-lived
+assets, including our intangible assets, may not be recoverable. When such events or changes in circumstances occur, we assess
+recoverability by determining whether the carrying value of such assets will be recovered through the undiscounted expected future
+cash flows. If the future undiscounted cash flows are less than the carrying amount of these assets, we recognize an impairment
+loss based on the excess of the carrying amount over the fair value of the assets. We did not recognize any intangible asset impairment
+charges for the years ended December 31, 2020 and 2019.
+Deferred
+Income Taxes
+In
+accordance with ASC 740 “Income Taxes” (“ASC 740”), we routinely evaluate the likelihood of the realization
+of income tax benefits and the recognition of deferred tax assets. In evaluating the need for any valuation allowance, we will
+assess whether it is more likely than not that some portion, or all, of the deferred tax asset may not be realized. Ultimately,
+the realization of deferred tax assets is dependent upon the generation of future taxable income during those periods in which
+temporary differences become deductible and/or tax credits and tax loss carryforwards can be utilized. In performing our analyses,
+we consider both positive and negative evidence including historical financial performance, previous earnings patterns, future
+earnings forecasts, tax planning strategies, economic and business trends and the potential realization of net operating loss
+carryforwards within a reasonable timeframe. To this end, we considered (i) that we have had historical losses in the prior years
+and cannot anticipate generating a sufficient level of future profits in order to realize the benefits of our deferred tax asset;
+(ii) tax planning strategies; and (iii) the adequacy of future income as of and for the year ended December 31, 2020, based upon
+certain economic conditions and historical losses through December 31, 2020. After consideration of these factors, we deemed it
+appropriate to establish a full valuation allowance.
+A
+liability for “unrecognized tax benefits” is recorded for any tax benefits claimed in our tax filings that do not
+meet these recognition and measurement standards. As of December 31, 2020 and 2019, no liability for unrecognized tax benefits
+was required to be reported. The guidance also discusses the classification of related interest and penalties on income taxes.
+Our policy is to record interest and penalties on uncertain tax positions as a component of general and administrative expense.
+No interest or penalties were recorded during the years ended December 31, 2020 and 2019.
+Allowance
+for Doubtful Accounts
+We
+maintain our reserves for credit losses at a level we believe to be adequate to absorb potential losses inherent in the respective
+balances. We assign an internal credit quality rating to all new customers and update these ratings regularly, but no less than
+annually. Our determination of the adequacy of the reserve for credit losses for our accounts and notes receivable is based on
+the age of the receivable balance, the customer’s credit quality rating, an evaluation of historical credit losses, current
+economic conditions, and other relevant factors.
+The
+Company’s allowance for doubtful accounts was $50,000 as of December 31, 2020 and December 31, 2019, respectively.
+Rounding
+All
+dollar amounts in this section have been rounded to the nearest thousand.
+Discussion
+of Results of Operations for the years ended December 31, 2020 and 2019
+The
+following table sets forth selected financial data as a percentage of our revenue and the percentage of period-over-period
+change:
+Net
+Revenues
+Net revenues for the year ended December 31, 2020 were $11.5 million compared to $5.3 million for the prior year, an increase of approximately 119%. The increase in revenues of $6.3 million is primarily associated with increased orders from existing contracts mainly attributable to service assessment studies performed and better cash management with suppliers, which has enabled the Company to accept more orders from our customers.
+Cost of Revenues
+Cost of revenues for the year ended December 31, 2020 was $9.2 million compared to $4.2 million for the prior year, an increase of approximately 112%. The increase in cost of revenues of $5.0 million is primarily attributable to increased revenues, paying higher fees for cash needs such as supplier prepays, financing ARs, and continued inability to receive more discounted costs through supplier diversity due to credit risk.
+The gross profit margin for the year ended December 31, 2020 was 26% compared to 21% during the prior year. This increase in gross margin is primarily due to gains on settlement of liabilities offset by the capital constraints resulting in our inability to obtain affordable pricing.
+Operating
+Expenses
+Operating expenses for the year ended December 31, 2020 were $4.1 million compared to $5.4 million for the prior year, a decrease of approximately 24%. This decrease of 1.3 million is primarily attributable to a decrease in amortization of its intangible assets, offset by increases in amortization of finance costs and right of use assets.
+Loss
+from Operations
+Loss from operations for the year ended December 31, 2020 was $1.8 million compared to $4.3 million for the prior year, a decrease of approximately 59%. This decrease in loss of $2.5 million was primarily attributable to a decrease in amortization of intangibles of $1.3 million and an increase in gross profit of $1.2 million, as described above.
+Provision
+for Income Taxes
+There
+was no provision for income taxes for the years ended December 31, 2020 and 2019. Deferred tax assets resulting from such losses
+are fully reserved as of December 31, 2020 and 2019 since, at present, we have no history of taxable income and it is more likely
+than not those such assets will not be realized.
+Net
+Loss
+Net loss for the year ended December 31, 2020 was $3.5 million compared to $5.4 million for the prior year, a decrease of approximately 36%. This decrease in net loss of $1.9 million was attributable to the changes discussed above.
+Non-GAAP
+Financial information
+EBITDA
+EBITDA
+is defined as net income (loss) before interest, provision for (benefit from) income taxes, and depreciation and amortization.
+Adjusted EBITDA is used by our management as the matrix in which it manages the business. It is defined as EBITDA plus adjustments
+for other income or expense items, non-recurring items and non-cash stock-based compensation.
+Adjusted EBITDA for the year ended December 31, 2020 was a loss of $1.8 million compared to a loss of $2.7 million for the prior year period.
+The
+following table presents a reconciliation of net loss attributable to stockholders, which is our GAAP operating performance measure,
+to Adjusted EBITDA for the year ended December 31, 2020 and 2019 (in thousands):
+We
+rely on Adjusted EBITDA, which is a non-GAAP financial measure for the following:
+● to review and assess
+the operating performance of our Company as permitted by Accounting Standards Codification Topic 280, Segment Reporting;
+● to compare our current
+operating results with corresponding periods and with the operating results of other companies in our industry;
+● as a basis for allocating
+resources to various projects;
+● as a measure to evaluate
+potential economic outcomes of acquisitions, operational alternatives and strategic decisions; and
+● to evaluate internally
+the performance of our personnel.
+We
+have presented Adjusted EBITDA above because we believe it conveys useful information to investors regarding our operating results.
+We believe it provides an additional way for investors to view our operations, when considered with both our GAAP results and
+the reconciliation to net income (loss). By including this information, we can provide investors with a more complete understanding
+of our business. Specifically, we present Adjusted EBITDA as supplemental disclosure because of the following:
+● we believe Adjusted
+EBITDA is a useful tool for investors to assess the operating performance of our business without the effect of interest,
+income taxes, depreciation and amortization and other non-cash items including stock based compensation, amortization
+of intangibles, change in the fair value of shares to be issued, change in the fair value of derivative liability, impairment
+of goodwill and one time charges including gain/loss on the settlement of obligations, severance costs, provision for doubtful
+accounts, acquisition costs and the costs associated with the public offering;
+● we believe that it is
+useful to provide to investors a standard operating metric used by management to evaluate our operating performance; and
+● we believe that the
+use of Adjusted EBITDA is helpful to compare our results to other companies.
+Even
+though we believe Adjusted EBITDA is useful for investors, it does have limitations as an analytical tool. Thus, we strongly urge
+investors not to consider this metric in isolation or as a substitute for net income (loss) and the other consolidated of operations
+data prepared in accordance with GAAP. Some of these limitations include the fact that:
+● Adjusted EBITDA does
+not reflect our cash expenditures or future requirements for capital expenditures or contractual commitments;
+● Adjusted EBITDA does
+not reflect changes in, or cash requirements for, our working capital needs;
+● Adjusted EBITDA does
+not reflect the significant interest expense or the cash requirements necessary to service interest or principal payments
+on our debt;
+● Although depreciation
+and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future,
+and Adjusted EBITDA does not reflect any cash requirements for such replacements;
+● Adjusted EBITDA does
+not reflect income or other taxes or the cash requirements to make any tax payments; and
+● other companies in our
+industry may calculate Adjusted EBITDA differently than we do, thereby potentially limiting its usefulness as a comparative
+measure.
+Because
+of these limitations, Adjusted EBITDA should not be considered a measure of discretionary cash available to us to invest in the
+growth of our business or as a measure of performance in compliance with GAAP. We compensate for these limitations by relying
+primarily on our GAAP results and providing Adjusted EBITDA only as supplemental information.
+Indebtedness of the Company
+Related
+Party Note
+On
+December 31, 2018, the Company entered into a note purchase agreement with Inpixon (the “Note Purchase Agreement”)
+pursuant to which Inpixon, the Company’s former parent, agreed to purchase from the Company at a purchase price equal to
+the Loan Amount (as defined below), a secured promissory note (the “Related Party Note”) for up to an aggregate principal
+amount of 3,000,000 (the “Principal Amount”), including any amounts advanced through the date of the Related Party
+Note (the “Prior Advances”), to be borrowed and disbursed in increments (such borrowed amount, together with the Prior
+Advances, collectively referred to as the “Loan Amount”), with interest to accrue at a rate of ten percent (10%) per
+annum on all such Loan Amounts, beginning as of the date of disbursement with respect to any portion of such Loan Amount. In addition,
+the Company agreed to pay $20,000 to Inpixon to cover Inpixon’ legal fees, accounting costs, due diligence, monitoring and
+other transaction costs incurred in connection with the purchase and sale of the Related Party Note (the “Transaction Expense
+Amount”), all of which amount is included in the Principal Amount. The initial Loan Amount, therefore, includes any amounts
+disbursed to the Company and the Transaction Expense Amount.
+The
+Company may borrow under the Related Party Note, as needed, for a total outstanding balance, exclusive of any unpaid accrued interest,
+not to exceed the Principal Amount at any one time.
+All
+sums advanced by Inpixon to the maturity date pursuant to the terms of the Note Purchase Agreement will become part of the aggregate
+Loan Amount underlying the Related Party Note. All outstanding principal amounts and accrued unpaid interest owing under the Related
+Party Note shall become immediately due and payable on the earlier to occur of (i) December 31, 2020 (the “Maturity Date”),
+(ii) at such date when declared due and payable by Inpixon upon the occurrence of an Event of Default (as defined in the Related
+Party Note), or (iii) at any such earlier date as set forth in the Related Party Note. All accrued unpaid interest shall be payable
+in cash.
+Pursuant
+to the terms of the Related Party Note, the Company granted Inpixon, subject to any and all Payplant Liens (as defined in the
+Related Party Note) and Permitted Liens (as defined in the Related Party Note), a continuing first priority security interest
+in all assets of the Company whether owned as of the date of the Related Party Note or subsequently acquired, including all proceeds
+therefrom (collectively, the “Collateral”) to secure the payment of the Related Party Note and all other loans and
+advances (including all renewals, modifications and extensions thereof) and all obligations of any and every kind and nature of
+the Company to Inpixon, whether arising prior to, under or after the Related Party Note, however incurred or evidenced, plus all
+interest, reasonable costs, reasonable expenses and reasonable attorneys’ fees, which may be made or incurred by Inpixon
+in the disbursement, administration, and collection of such amounts, and in the protection, maintenance, and liquidation of the
+Collateral.
+On
+February 4, 2019, the Related Party Note was amended to increase the maximum principal amount that may be outstanding at any time
+under the Related Party Note from $3,000,000 to $5,000,000. On April 15, 2019, the Related Party Note was amended to increase
+the maximum principal amount that may be outstanding at any time under the Related Party Note from $5,000,000 to $8,000,000.
+On
+May 22, 2019, the Related Party Note was amended to increase the maximum principal amount that may be outstanding at any time
+under the Related Party Note from $8,000,000 to $10,000,000.
+On March 1, 2020, the Related Party Note was amended to extend the maturity date from December 31, 2020 to December 31, 2022, to increase the default interest rate from 18% to 21% or the maximum rate allowable by law and to require a cash payment by the Company to Inpixon against the loan amount in an amount equal to no less than 6% of the aggregate gross proceeds raised following the completion of any financing, or series of related financings, in which the Company raises aggregate gross proceeds of at least $5 million.
+On June 30, 2020, the “Company entered into a Promissory Note Assignment and Assumption Agreement (the “Assignment Agreement”), an Intercreditor Agreement (the “Intercreditor Agreement”), a form of partitioned Secured Promissory Note (the “Form of Partitioned Note”), and other related transaction documents with Inpixon, and Systat Software, Inc. (the “Assignment Documents”). Pursuant to the Assignment Documents, Inpixon agreed to assign to Systat Software, Inc., and the Company has acknowledged and consented to the assignment of, certain partitioned promissory notes, and in connection therewith Systat Software, Inc. was granted a security interest in the assets of the Company.
+Inpixon is the holder of a secured promissory note, dated December 31, 2018, issued by the Company to Inpixon, as amended, (the “Original Note”) in the aggregate principal amount of $10,000,000 (together with all accrued unpaid interest thereon, the “Outstanding Balance”). Inpixon and Systat Software, Inc. entered into an Exclusive Software License and Distribution Agreement with Cranes Software International Ltd. Inpixon agreed to partition the Original Note into four new secured promissory notes in the Form of Partitioned Note, with the first Partitioned Note in the original principal amount of $3,000,000, the second Partitioned Note in the original principal amount of $1,300,000, the third Partitioned Note in the original principal amount of $1,000,000 and the fourth Partitioned Note to be in the original principal amount of $1,000,000 plus all accrued unpaid interest under the Original Note included in the Outstanding Balance, and assigned and delivered to Systat Software, Inc. the Closing Note on the closing date of the License Agreement (the “Closing Date”), the Initial Installment Note on the three month anniversary of the Closing Date the Second Installment Note on the six month anniversary of the Closing Date, and the Third Installment Note on the nine month anniversary of the Closing Date. Nadir Ali, a member of the Company’s board of directors, is also Inpixon’s Chief Executive Officer and a member of its board of directors. The transactions disclosed herein were approved by all of the disinterested members of the Company’s board of directors. See Note 7 -Long-Term Debt for further discussion on the Promissory Note Assignment.
+The proceeds received and interest and legal costs accrued, in accordance with the Related Party Note as of December 31, 2020 is $9,043,859.
+Short
+Term Debt
+Chicago
+Venture Convertible Note Payable
+On
+December 31, 2018, the Company issued a $625,000 principal face amount convertible promissory note (the “Convertible Note”)
+to Chicago Venture Partners, L.P. (“CVP”), which yielded net proceeds of $500,000 to the Company pursuant to a Securities
+Purchase Agreement, dated as of December 31, 2018, by and between the Company and CVP. The Convertible Note bears interest at
+the rate of 10% per year and is due and payable 10 months after the date of issuance. The Convertible Note carries an original
+issue discount of $105,000 and the Company agrees to pay $20,000 to the CVP to cover its transaction costs incurred with the purchase
+and sale of the Convertible Note.
+The agreement states that CVP has the right to convert all or part of the outstanding balance into fully paid and non-assessable common stock. The conversion formula is as follows: The number of shares will equal the amount of the outstanding note balance being converted divided by $5.00 per share. The Company determined since the value of the underlying equity on the commitment date was $2.29 per share, was less than conversion price $5.00, the Company determined there was no beneficial conversion feature.
+The Lender Conversion Price is subject to certain adjustment such as down-round features whereby the agreement notes that if the Company were to sell, issue or grant any common stock, option to purchase common stock, right to reprice, preferred shares convertible into common stock, or debt, warrants, options or other securities which are convertible, exercisable, or exchangeable for shares of common stock at a price per share less than the conversion price, then the conversion price shall be reduced to equal the new lower price, subject to a floor of $1.00 per share. When and if there is an adjustment under the down-round provision, the Company will analyze the accounting treatment of the adjustment.
+Redemption
+Redemptions
+may occur at any time after the 6-month anniversary of the date of issuance of the Convertible Note with a minimum redemption
+price equal to the Conversion Price. If the conversion rate is less than the market price, then the redemptions must be made in
+cash.
+On
+July 5, 2019, the Company issued 22,857 shares of common stock for the settlement of approximately $20,000 on its short-term debt.
+On
+October 15, 2019, the Company and CVP entered into a waiver agreement (the “Waiver Agreement”) in connection with
+CVP delivery of a redemption notice for $7,600 (the “Redemption Amount”) in accordance with that certain Securities
+Purchase Agreement, dated as of December 31, 2018, and that certain Convertible Promissory Note issued to the Lender by the Company
+on December 31, 2018 (the “Note”). Pursuant to the Waiver Agreement, the Lender agreed to waive certain Equity Conditions
+Failures (as defined in the Note) in order to receive shares of common stock of the Company instead of cash to satisfy the Redemption
+Amount. In addition, the Company and the Lender agreed to issue such shares below the minimum redemption conversion price of $1.00
+at a modified redemption conversion price equal to $0.210140, which is equal to 70% multiplied by the lowest closing bid price
+during the twenty (20) trading days immediately preceding this redemption. Accordingly, the Company issued the Lender 36,166 shares
+of common stock to satisfy the Redemption Amount.
+Short-Term
+Note Extension
+On July 7, 2020, the Company entered into a note extension (the “Extension”) with Chicago Venture Partners, L.P. (“CVP”), pursuant to which the maturity date of that certain Convertible Promissory Note, issued by the Company to CVP on December 31, 2018 (the “Note”), was extended to December 31, 2020.
+See
+Financial Statement Note-12 Subsequent Events, regarding extension of the promissory note maturity date to March 31, 2021.
+Wells
+Fargo N.A. SBA -Payroll Protection program
+On May 7, 2020, Sysorex, Inc. was granted a loan (the “Loan”) from Wells Fargo, N.A. in the principal amount of $349,693, pursuant to the Paycheck Protection Program (the “PPP”) under Division A, Title I of the Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”), which was enacted on March 27, 2020.
+The
+Loan, which was in the form of a Note dated May 3, 2020 issued by the Company (the “Note”), matures on May 3, 2022
+and bears interest at a rate of 1.0% per annum, payable monthly commencing on November 1, 2020. The Note may be prepaid by the
+Company at any time prior to maturity without payment of any premium. Funds from the Loan may only be used to retain workers and
+maintain payroll or make mortgage payments, lease payments and utility payments. The Company intends to use the entire Loan amount
+for qualifying expenses. Under the terms of the PPP, certain amounts of the Loan may be forgiven if they are used for qualifying
+expenses as described in the CARES Act.
+Revolving
+Credit Facility
+On
+August 31, 2018, the Company entered in an agreement with Payplant Alternatives Funds LLC, pursuant to which Payplant may purchase
+from the Borrowers, in Payplant’s sole and absolute discretion, Eligible Receivables, as that term is defined in the agreement,
+in exchange for cash advances, subject to the terms and conditions in the agreement.
+On
+September 21, 2018, the Company entered into the Payplant Loan and Security Agreement (the “Loan Agreement”) with
+Payplant LLC as agent for Payplant Alternatives Fund LLC (“Payplant”). Pursuant to the Loan Agreement and the terms
+set forth in the form of promissory note attached as Exhibit A to the Loan Agreement, (the “Note”), Payplant, in its
+sole and absolute discretion, may loan money to the Borrowers on the basis of purchase orders or invoices issued by the Borrowers
+to customers for goods and services provided. The term of any loan made to the Borrowers may not exceed 360 days. The principal
+amount of any loan will accrue interest at a 30-day rate of 2%, calculated per day. Upon the occurrence and during the continuance
+of an Event of Default, as defined in the Loan Agreement, interest will accrue at a rate equal to the interest rate plus 0.42%
+per 30 days. In no event will interest, when combined with all fees that may be characterized as interest, exceed the Maximum
+Rate, as defined in the Loan Agreement. All computations of interest will be made on the basis of a 360-day year. The Borrowers
+will have the right to prepay any loan upon the payment of a premium of at least 30 days of interest.
+As
+security for the repayment of any loans and the performance of the Borrowers’ Obligations, as defined in the Loan Agreement,
+the Borrowers granted to Payplant a security interest in the Collateral, as defined in the Loan Agreement. As of May 22, 2020
+the Company terminated its services with Payplant Alternatives Funds LLC.
+Non-Recourse
+Factoring and Security Agreement
+Effective
+as June 19, 2020 (the “Effective Date”), the Company and SouthStar Financial, LLC (“SouthStar”) entered
+into a Non-Recourse Factoring and Security Agreement (the “Agreement”) pursuant to which SouthStar may purchase receivables
+from the Company (the “Purchased Receivables”) for a price not to exceed 85% of the face value of the Purchased Receivables
+or a lesser percentage agreed upon between the Company and SouthStar. In consideration of SouthStar’s purchase of the Purchased
+Receivables, the Company will pay to SouthStar an amount equal to 0.8% of the face amount of the Purchased Receivables for the
+first 10-day period after payment for the Purchased Receivables is transmitted to SouthStar plus 0.9% for each additional 10-day
+period or part thereof, calculated from the date of purchase until payments received by SouthStar in collected funds on the Purchased
+Receivables equals the purchase price of the Purchased Receivables plus all charges due SouthStar from the Company at the time.
+An additional 1.0% per 10-day period will be charged for invoices exceeding 60 days from invoice date.
+As of December 31, 2020, the Company has financed approximately $323,000 of its receivables.
+Systat
+Promissory Note Payable
+On
+June 30, 2020, the Company entered into a Promissory Note Assignment and Assumption Agreement (the “Assignment Agreement”),
+an Intercreditor Agreement (the “Intercreditor Agreement”), a form of partitioned Secured Promissory Note (the “Form
+of Partitioned Note”), and other related transaction documents with Inpixon, and Systat Software, Inc. (the “Assignment
+Documents”). Pursuant to the Assignment Documents, Inpixon agrees to assign to Systat Software, Inc., and the Company has
+acknowledged and consented to the assignment of, certain partitioned promissory notes, and in connection therewith Systat Software,
+Inc. will be granted a security interest in the assets of the Company.
+Inpixon
+is the holder of a secured promissory note, dated December 31, 2018, issued by the Company to Inpixon, as amended, (the “Original
+Note”) in the aggregate principal amount of $10,000,000 (together with all accrued unpaid interest thereon, the “Outstanding
+Balance”). Inpixon and Systat Software, Inc. are entering into an Exclusive Software License and Distribution Agreement
+with Cranes Software International Ltd. (the “License Agreement”). Inpixon has agreed to partition the Original Note
+into four new secured promissory notes in the Form of Partitioned Note (each a “Partitioned Note” and collectively,
+the “Partitioned Notes”), with the first Partitioned Note to be in the original principal amount of $3,000,000, the
+second Partitioned Note to be in the original principal amount of $1,300,000, the third Partitioned Note to be in the original
+principal amount of $1,000,000 and the fourth Partitioned Note to be in the original principal amount of $1,000,000 plus all accrued
+unpaid interest under the Original Note included in the Outstanding Balance, and to assign and deliver to Systat Software, Inc.
+the Closing Note on the closing date of the License Agreement, the Initial Installment Note on the three month anniversary of
+the Closing Date the Second Installment Note on the six month anniversary of the Closing Date, and the Third Installment Note
+on the nine month anniversary of the Closing Date.
+The
+Promissory Note balance outstanding as of December 31, 2020 is $5,390,068.
+Future
+Receivables Agreement
+On
+January 21, 2020, SGS and GCF Resources LLC (“GCF”) entered into a Future Receivables Agreement pursuant to which
+GCF agreed to purchase receivables from SGS with a value of $497,000 for the sum of $350,000. The terms of the agreement call
+for weekly installments of $20,710, until paid in full. On April 27, 2020, the Company paid off its GCF loan balance.
+Liquidity
+and Capital Resources as of December 31, 2020 Compared with December 31, 2019
+The
+Company’s net cash flows used in operating, investing and financing activities for the year ended December 31, 2020 and
+2019 and certain balances as of the end of those periods are as follows (in thousands):
+Liquidity
+and Capital Resources as of December 31, 2020
+Our capital resources and operating results as of and through December 31, 2020, consist of:
+1) an overall working capital deficit of $9.1 million;
+2) cash of $167,000;
+3) we entered into an unlimited
+revolving credit facility of which $323,000 was received on December 31, 2020;
+4) net cash used in operating
+activities for the year of $2.3 million;
+5) net cash provided by
+financing activities for the year of $2.5 million.
+The
+breakdown of our overall working capital deficit is as follows (in thousands):
+Accounts payable and accrued liabilities exceed the accounts receivable by $7.6 million. These deficits are expected to be funded by our anticipated cash flow from operations and financing activities, over the next twelve months. The Company plans to maintain its cost stabilization and reductions in 2020 into 2021. It is expected that the necessary costs to achieve increased revenue will be incurred. The Company will continue to work with its key distributors and financing partners to address our credit limitation issues. The Company’s capital resources as of December 31, 2020, availability on the unlimited SouthStar Facility to finance purchase orders and invoices, the Related Party Note with its ability to receive revolving amounts not to exceed $10 million at any time, and its short-term borrowings, may not be sufficient to fund planned operations during the year ending December 31, 2021. The Company will need to raise additional capital through the issuance of equity, equity-linked or debt securities. A further discussion below of liquidity and capital resources outlines the Company’s current resources.
+Going
+Concern and Management’s Plans
+As of December 31, 2020, the Company had a minimal cash balance and a working capital deficit of approximately $9.1 million. In addition, the Company has a stockholders’ deficit of approximately $23.5 million. For the years ended December 31, 2020 and 2019, the Company incurred net losses of approximately $3.5 million and $5.4 million, respectively. The aforementioned factors raise substantial doubt about the Company’s ability to continue as a going concern. The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The consolidated financial statements do not include any adjustments relating to the recoverability and classification of asset amounts or the classification of liabilities that might be necessary should the Company be unable to continue as a going concern within one year after the date the consolidated financial statements are issued.
+The
+Company expects its capital resources as of December 31, 2020, availability on the SouthStar facility to finance purchase orders
+and invoices in an amount equal to 80% of the face value of purchase orders received, funds from financing from our Related Party
+Note and other Short Term borrowings, higher margin public sector contracts capture, reauthorization of key vendors and credit
+limitation improvements may not be sufficient to fund planned operations during the year ending December 31, 2021. The Company
+will need additional funds to support its obligations for the next twelve months. The Company may raise additional capital as
+needed, through the issuance of equity, equity-linked or debt securities. The Company realizes that our ability to increase revenue
+is to have more diverse sources of IT products and therefore the Company has focused on reducing its trade debt so that distributors
+and vendors will resume supply of IT products to us. The Company has made significant progress towards the paying down on existing
+trade debt liabilities. The Company started with $23 million of trade debt as of January 1, 2018 and had a balance of $5.6 million
+of trade debt as of December 31, 2020. This represents a reduction of 75% over the course of 36-months ending December 31, 2020.
+The
+Company’s consolidated financial statements as of December 31, 2020 have been prepared under the assumption that we will
+continue as a going concern for the next twelve months from the date the financial statements are issued. Management’s plans
+and assessment of the probability that such plans will mitigate and alleviate any substantial doubt about the Company’s
+ability to continue as a going concern, is dependent upon the ability to attain funding to secure additional resources to generate
+sufficient revenues and increased margin, which without these represent the principal conditions that raise substantial doubt
+about our ability to continue as a going concern. The Company’s consolidated financial statements as of December 31, 2020
+do not include any adjustments that might result from the outcome of this uncertainty.
+Liquidity
+and Capital Resources - SouthStar
+See
+the discussion above in the section titled “Short Term Debt” for information concerning this loan. As of December
+31, 2020, the principal amount outstanding under the Loan Agreement was $323,000.
+Liquidity
+and Capital Resources Inpixon Note
+See
+the discussion above in the section titled “Related Party Note” for information concerning this loan. As of December
+31, 2020, the principal amount outstanding under the Loan Agreement was $9.0 million.
+Liquidity
+and Capital Resources - Systat Note
+See
+the discussion above in the section titled “Short Term Debt” for information concerning this loan. As of December
+31, 2020, the principal amount outstanding under the Loan Agreement was $5.4 million.
+Liquidity
+and Capital Resources - Chicago Venture
+See
+the discussion above in the section titled “Short Term Debt” for information concerning this loan. As of December
+31, 2020, the principal amount outstanding under the Loan Agreement was $842,000.
+Operating
+Activities for the year ended December 31, 2020
+Net cash used in operating activities during the year ended December 31, 2020 was $2.8 million. Net cash used in operating activities during the year ended December 31, 2019 was $9.4 million. The cash flows related to the year ended December 31, 2020 consisted of the following (in thousands):
+The non-cash income and expense of $1.3 million consisted primarily of the following (in thousands):
+The net use of cash in the change in operating assets and liabilities aggregated $0.1 million and consisted primarily of the following (in thousands):
+Operating
+Activities for the year ended December 31, 2019
+Net
+cash used in operating activities during the year ended December 31, 2019 was $9.4 million. The cash flows related to the year
+ended December 31, 2019 consisted of the following (in thousands):
+The
+non-cash income and expense of $1.6 million consisted primarily of the following (in thousands):
+The
+net use of cash in the change in operating assets and liabilities aggregated $5.5 million and consisted primarily of the following
+(in thousands):
+Cash
+Flows from Investing Activities as of December 31, 2020 and 2019
+There
+were no investing activities in 2020.
+Cash
+Flows from Financing Activities as of December 31, 2020 and 2019
+Net cash flows provided by financing activities during the year ended December 31, 2020 was 2.5 million. The net cash provided by financing activities during the year ended December 31, 2020 was primarily comprised of net advances from Inpixon on a related party note from Inpixon of $2.7 million, proceeds from financing, proceeds from the Wells Fargo N.A. SBA -Payroll Protection Program SBA, offset by payments made to pay-off the future receivables note and the revolving line of credit. Net cash flows provided by financing activities during the year ended December 31, 2019 was $9.4 million. During the year ended December 31, 2019, the Company received $9.3 million from a related party note and $73,000 from its Payplant facility.
+Off-Balance
+Sheet Arrangements
+We
+do not have any off-balance sheet guarantees, interest rate swap transactions or foreign currency contracts.
+Recently
+Issued Accounting Standards
+For
+a discussion of recently issued accounting pronouncements, please see Note 2 to our financial statements, which are included in
+this report beginning on page.

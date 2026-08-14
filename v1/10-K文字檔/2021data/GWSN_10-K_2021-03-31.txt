@@ -1,0 +1,43 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Forward-Looking Statements
+This annual report contains certain information that may constitute “forward-looking statements” within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. While we have specifically identified certain information as being forward-looking in the context of its presentation, we caution you that all statements contained in this report that are not clearly historical in nature, including statements regarding anticipated financial performance, management’s plans and objectives for future operations, business prospects, market conditions, and other matters are forward-looking. Forward-looking statements are contained principally in the sections of this report entitled “Business,” “Risk Factors,” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Without limiting the generality of the preceding sentence, any time we use the words “expects,” “intends,” “will,” “anticipates,” “believes,” “confident,” “continue,” “propose,” “seeks,” “could,” “may,” “should,” “estimates,” “forecasts,” “might,” “goals,” “objectives,” “targets,” “planned,” “projects,” and similar expressions, we intend to clearly express that the information deals with possible future events and is forward-looking in nature. However, the absence of these words or similar expressions does not mean that a statement is not forward-looking. For GWSN, particular uncertainties that could cause our actual results to be materially different than those expressed in our forward-looking statements include,
+without limitation:
+·
+our ability to maintain and grow our existing customer base;
+·
+the amount and timing of our cash flows and earnings, which may be impacted by customer, competitive, supplier and other dynamics and conditions;
+·
+our ability to maintain or improve margins through business efficiencies;
+·
+our ability to launch new product and service offerings that achieve market acceptance with acceptable margins;
+·
+changes in law, economic and financial conditions, including tax law changes, changes to privacy requirements, changes to telemarketing, email marketing and similar consumer protection laws, interest and exchange rate volatility, and trade tariffs applicable to the products we sell;
+·
+the impact of potential information technology, cybersecurity or data security breaches.
+Forward-looking information involves risks, uncertainties, and other factors that could cause actual results to differ materially from those expressed or implied in, or reasonably inferred from, such statements, including without limitation, the risks and uncertainties disclosed above. Therefore, caution should be taken not to place undue reliance on any such forward-looking statements. Much of the information in this report that looks toward future performance of our Company is based on various factors and important assumptions about future events that may or may not actually occur. As a result, our operations and financial results in the future could differ materially and substantially from those we have discussed in the forward-looking statements included in the Annual Report. We assume no obligation (and specifically disclaim any such obligation) to publicly update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by law.
+Business Overview
+Gulf West Security Network, Inc., a Louisiana corporation (“Gulf West”) and its wholly-owned subsidiaries, are principally engaged in the sale, installation, servicing, and monitoring of electronic home and business security and automation systems in the United States.
+Gulf West Security Network, Inc. and LJR Security Services, Inc. (“LJR”) are active in the engineering, design, installation, remote monitoring and after-market servicing of electronic intrusion alert and fire detection systems for homes and businesses (the “alarm industry”). Both Gulf West and LJR are based in Lafayette, Louisiana and were owned by Louis J. (“Lou”) Resweber, a long-time veteran of the alarm industry, who has also previously served as a corporate officer, board member and executive consultant to a number of NYSE and NASDAQ-listed public companies over the past 35 years.
+Results of Operations
+Year ended December 31, 2020 and 2019
+We had revenue of $11,690 for the year ended December 31, 2020, as compared to $14,601 for year ended December 31, 2019 a decrease of $2,911 or 20%. The decrease in revenue was due to a lesser concentration on new alarm system sales and installations, with our focus moving more toward alarm system monitoring and the corresponding recurring monthly revenue (“RMR”) that is associated with monitoring services.
+Cost of Revenue
+Cost of revenue sold for the year ended December 31, 2020 was $4,339, as compared to $12,848 for the year ended December 31, 2019.
+General and Administrative
+Our general and administrative expenses for the year ended December 31, 2020 were $673,939, a decrease of $105,267, or 14%, compared to $779,206 for the year ended December 30, 2019. General and administrative expenses decreased mainly due to timing of wages, audit and accounting expenses associated with the public company operations.
+Sales and marketing
+Our sales and marketing expenses for the year ended December 31, 2020 were $26, compared to $0 for the year ended December 31, 2019. The minimal sales and marketing expenses reflected management’s decision to shift its focus from retail to wholesale alarm operations.
+Income from discontinued operations
+Subsequent to the Merger, management decided to discontinue the activities of NuLife. As a result, we recorded a loss of $165,491 primarily due to a change in the fair value of a derivative liability.
+Net loss
+As a result of the foregoing, for the year ended December 31, 2020, we recorded a net loss of $791,860 compared to a net loss of $773,620 for the year ended December 31, 2019.
+Liquidity and Capital Resources
+The Company’s condensed consolidated financial statements are prepared using accounting principles generally accepted in the United States (“U.S. GAAP”) applicable to a going concern, which contemplates the realization of assets and liquidation of liabilities in the normal course of business. The Company has limited commercial experience and had a net loss from continuing operations of $626,369 for the year ended December 31, 2020, and an accumulated deficit of $3,079,860, and a working capital deficit of $2,717,398 at December 31, 2020. The Company has not yet established an ongoing source of revenue sufficient to cover its operating costs and to allow it to continue as a going concern. The accompanying condensed consolidated financial statements for the year ended December 31, 2020, have been prepared assuming the Company will continue as a going concern. The Company’s cash resources will likely be insufficient to meet its anticipated needs during the next twelve months. The Company will require additional financing to fund its future planned operations, including research and development and commercialization of its products.
+Operating Activities
+During the year ended December 31, 2020, we used $566,186 of cash in operating activities primarily as a result of our loss of $791,860 from continuing operations, offset by net changes in working capital items of operating assets and liabilities of $225,674.
+During the year ended December 31, 2019, we used $425,227 of cash in operating activities primarily as a result of our loss of $773,620 from continuing operations, offset by net changes in working capital items of operating assets and liabilities of $348,393.
+Financing Activities
+During the year ended December 31, 2020, financing activities provided $656,116 in proceeds from a bridge loan, provided $5,019 in proceeds from advances from related party and used $20,010 in net payments to redemption of preferred stock.
+During the year ended December 31, 2019, financing activities provided $401,050 in proceeds from a bridge loan and used $28,211 in net payments to advances from related party.
+Off-Balance Sheet Transactions
+At December 31, 2020, the Company did not have any transactions, obligations or relationships that could be considered off-balance sheet arrangements.

@@ -1,0 +1,231 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS
+OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing at the end of this Annual Report. Some of the information contained in this discussion and analysis or set forth elsewhere in this Annual Report, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. For a detailed discussion on our business environment, please read Item 1. Business, included in this Annual Report. As a result of many factors, including those factors set forth in the “Risk Factors” section of this Annual Report, our actual results could differ materially from the results described in, or implied by, the forward-looking statements contained in the following discussion and analysis.
+Overview
+We are a clinical stage biopharmaceutical company focused on creating precisely
+targeted therapies for patients with cancer. We leverage our team’s deep expertise in chemistry and structure-based drug design to develop innovative small molecules that are designed with the aim to overcome the limitations of existing therapies for clinically proven kinase targets. Through addressing the limitations of existing therapies, we believe our programs have the potential to drive deeper, more durable responses with minimal adverse events. We believe these potential benefits will support opportunities for clinical utility earlier in the treatment paradigm.
+We focus our discovery efforts on small molecule inhibitors of kinases, a class of cellular targets that can play a central role in cancer growth and proliferation. In particular, we focus on “clinically proven” kinase targets, or those for which therapies have been developed by others to target those kinases, and that such drugs have demonstrated sufficient clinical efficacy and safety data to be approved by the FDA or similar regulatory agency and are established and used in the clinical setting. Currently available kinase inhibitors face multiple limitations, which can include kinase resistance, or the emergence of new mutations in the kinase target that can enable resistance to existing therapies, kinase selectivity, or the potential for existing therapies to inhibit other structurally similar kinase targets and lead to off-target
+adverse events, and limited brain penetrance, or the ability for the therapy to treat disease that has spread or metastasized to the brain. By prioritizing target selectivity, we believe our drug candidates have the potential to overcome resistance, minimize adverse events, optimize brain penetrance to address brain metastases, and drive more durable responses.
+We are advancing a robust pipeline of product candidates with parallel lead programs in cancers driven by genomic alterations in the ROS1 and ALK kinases (i.e.,
+ROS1-positive and ALK-positive,
+respectively), along with multiple discovery-stage research programs. We hold worldwide development and commercialization rights to our product candidates.
+Our first lead product candidate, NVL-520,
+is a novel ROS1-selective inhibitor designed with the aim to address the clinical challenges of emergent treatment resistance, CNS-related
+adverse events, and brain metastases that may limit the use of currently available ROS1 TKI. Preclinical data has shown that NVL-520
+was brain-penetrant, inhibited wild-type ROS1 fusions, remained active in the presence of mutations conferring resistance to approved and investigational ROS1 inhibitors, and displayed strong selectivity for both wild-type ROS1 and its resistance variants as compared to the structurally related TRKB, thereby minimizing the potential for off-target
+TRKB-related CNS adverse events.
+We are currently enrolling patients in the Phase 1 portion of our ARROS-1
+clinical trial, a first-in-human
+Phase 1/2, multicenter, open-label, dose-escalation and expansion study evaluating NVL-520
+as an oral monotherapy in patients with advanced ROS1-positive NSCLC and other solid tumors. ARROS-1
+is comprised of two study components, beginning with a Phase 1 dose-escalation portion to evaluate the safety and tolerability of NVL-520
+in patients with advanced ROS1-positive solid tumors previously treated with at least one ROS1 TKI, as well as to determine the RP2D, characterize the pharmacokinetic profile, and evaluate preliminary anti-tumor activity of NVL-520.
+Once the RP2D is determined, the study may transition directly into a Phase 2 portion designed to support potential registration of NVL-520
+in both ROS1-positive patients with NSCLC who are TKI-naïve
+and who have been previously treated with ROS1 kinase inhibitors.
+Our second lead product candidate, NVL-655,
+is a brain-penetrant ALK-selective
+inhibitor, designed with the aim to address the clinical challenges of emergent treatment resistance, CNS-related
+adverse events, and brain metastases that may limit the use of first-, second-, and third-generation ALK inhibitors. Preclinical data has shown that NVL-655
+was brain-penetrant, inhibited wild-type ALK fusions, remained active in the presence of mutations conferring resistance to approved and investigational ALK inhibitors, and displayed strong selectivity for both wild-type ALK and its resistance variants as compared to the structurally related TRKB, thereby minimizing the potential for off-target
+TRKB-related CNS adverse events. We have submitted an IND for NVL-655
+and the FDA has confirmed that clinical investigation of NVL-655
+may proceed. We plan to initiate the ALKOVE-1
+study, a first-in-human
+Phase 1/2, multicenter, open-label, dose escalation and expansion study investigating NVL-655
+in advanced ALK-positive
+NSCLC and other solid tumors, in the second quarter of 2022.
+In addition to our lead programs, we have prioritized a number of additional small molecule research programs following an assessment of medical need, including a second ALK inhibitor program designed with the aim to address emerging compound resistance mutations and a HER2 Exon 20 insertions program. We expect to nominate product candidates for these programs in 2022.
+Since commencing significant operations in 2018, we have focused substantially all of our efforts and financial resources on research and development activities for our programs, including NVL-520 and NVL-655, establishing and maintaining our intellectual property portfolio, organizing and staffing our company, business planning, raising capital, and providing general and administrative support for these operations. We do not have any products approved for sale and have not generated revenue from product sales or any other source. To date, we have funded our operations primarily with proceeds from the sales of Series A and Series B convertible preferred stock, the issuance of convertible notes (which converted to convertible preferred stock in 2018), debt financing from stockholders (which was settled in convertible preferred stock in February 2021), and most recently, with proceeds from the sale of common stock in the IPO completed in August 2021.
+On August 2, 2021, we completed an IPO of our common stock pursuant to which we issued and sold 10,612,500 shares of Class A common stock and 600,000 shares of Class B common stock, including the exercise in full by the underwriters of their option to purchase 1,462,500 additional shares of Class A common stock, at a public offering price of $17.00 per share. We received net proceeds of approximately $174.3 million after deducting underwriting discounts and commissions and offering costs.
+Since our inception, we have incurred significant operating losses. Our ability to generate product revenue sufficient to achieve profitability will depend heavily on the successful development and eventual commercialization of our product candidates. We reported net losses of $46.3 million and $14.6 million for the years ended December 31, 2021 and 2020, respectively. As of December 31, 2021, we had an accumulated deficit of $78.2 million. We expect to incur significant expenses at an increasing rate and increasing operating losses for the foreseeable future. We expect our expenses and capital requirements will increase substantially in connection with ongoing activities, particularly if and as we:
+•
+continue to advance our NVL-520
+program in clinical development;
+•
+advance our NVL-655
+program from preclinical development into clinical development;
+•
+advance the development of our discovery programs, including our ALK IXDN and HER2 programs;
+•
+expand our pipeline of product candidates through our own product discovery and development efforts;
+•
+seek to discover and develop additional product candidates;
+•
+seek regulatory approvals for any product candidates that successfully complete clinical trials;
+•
+establish a sales, marketing and distribution infrastructure to commercialize any approved product candidates and related additional commercial manufacturing costs;
+•
+implement operational, financial and management systems;
+•
+attract, hire and retain additional clinical, scientific, management and administrative personnel;
+•
+maintain, expand, protect and enforce our intellectual property portfolio, including patents, trade secrets and know how;
+•
+acquire or in-license
+other product candidates and technologies; and
+•
+operate as a public company.
+We will not generate revenue from product sales unless and until we successfully complete clinical development and obtain regulatory approval for our product candidates. If we obtain regulatory approval for any of our product candidates and do not enter into a commercialization partnership, we expect to incur significant expenses related to developing our internal commercialization capability to support product sales, marketing and distribution. Further, we expect to incur additional costs associated with operating as a public company.
+As a result, we will need substantial additional funding to support our continuing operations and pursue our growth strategy. Until such time as we can generate significant revenue from product sales, if ever, we expect to finance our operations through a combination of equity offerings, debt financings, collaborations, strategic alliances and marketing, distribution or licensing arrangements. We may be unable to raise additional funds or enter into such other agreements or arrangements when needed on favorable terms, or at all. Our ability to raise additional funds may be adversely impacted by potential worsening global economic conditions and the disruptions to, and volatility in, the credit and financial markets in the U.S. and worldwide resulting from the ongoing COVID-19 pandemic
+and otherwise. Our failure to obtain sufficient funds on acceptable terms when needed could have a material adverse effect on our business, results of operations or financial condition, including requiring us to have to delay, reduce or eliminate our product development or future commercialization efforts. Insufficient liquidity may also require us to relinquish rights to product candidates at an earlier stage of development or on less favorable terms than we would otherwise choose. The amount and timing of our future funding requirements will depend on many factors, including the pace and results of our development efforts.
+Because of the numerous risks and uncertainties associated with pharmaceutical product development, we are unable to accurately predict the timing or amount of increased expenses or when or if we will be able to achieve or maintain profitability. Even if we are able to generate product sales, we may not become profitable. If we fail to become profitable or are unable to sustain profitability on a continuing basis, then we may be unable to continue our operations at planned levels and be forced to reduce or terminate our operations.
+We believe that our existing cash, cash equivalents and marketable securities will be sufficient to fund our operating expenses and capital expenditure requirements into 2024. Our existing cash, cash equivalents and marketable securities will not be sufficient to fund any of our product candidates through regulatory approval, and we anticipate needing to raise additional capital to complete the development and commercialization of our product candidates. See “-Liquidity and Capital Resources.”
+The global COVID-19 pandemic
+continues to rapidly evolve. The extent of the impact of the COVID-19 pandemic
+on our business, operations and development timelines and plans remains uncertain, and will depend on certain developments, including the duration and spread of the outbreak and its impact on our development activities, clinical trial enrollment, future trial sites, CROs, third-party manufacturers, and other third parties with whom we do business, as well as its impact on regulatory authorities and our key scientific and management personnel. The ultimate impact of the COVID-19 pandemic
+or a similar health epidemic is highly uncertain and subject to change. To the extent possible, we are conducting business as usual, with necessary or advisable modifications to employee travel and with our employees working remotely. While we have opened our office for use under strict guidelines as required by federal, state, and local authorities, the majority of our employees are remote. We will continue to actively monitor the rapidly evolving situation related to COVID-19 and
+may take further actions that alter our operations, including those that may be required by federal, state or local authorities, or that we determine are in the best interests of our employees and other third parties with whom we do business. At this point, the extent to which the COVID-19 pandemic
+may affect our business, operations and development timelines and plans, including the resulting impact on our expenditures and capital needs, and on our ability to initiate and conduct clinical trials in the timelines we expect, remains uncertain.
+Components of Our Results of Operations
+Operating expenses
+Our operating expenses are comprised of research and development expenses and general and administrative expenses.
+Research and development expenses
+Research and development expenses consist primarily of costs incurred for our research activities, including our drug discovery efforts, and the development of our product candidates, which include:
+•
+personnel-related costs, including salaries, benefits and stock-based compensation expense, for employees engaged in research and development functions;
+•
+expenses incurred in connection with our research programs, including under agreements with third parties, such as consultants and contractors and CROs;
+•
+the cost of developing and scaling our manufacturing process and manufacturing drug substance and drug product for use in our research and preclinical and clinical studies, including under agreements with third parties, such as consultants and contractors and CMOs; and
+•
+the cost of laboratory supplies and research materials.
+We track our direct external research and development expenses on a program-by-program basis.
+These consist of costs that include fees, reimbursed materials, and other costs paid to consultants, contractors, CMOs, and CROs in connection with our preclinical, clinical and manufacturing activities. We do not allocate employee costs, costs associated with our discovery efforts, and facilities expenses, including depreciation or other indirect costs, to specific product development programs because these costs are deployed across multiple programs and, as such, are not separately classified.
+We expect that our research and development expenses will increase substantially as we continue to advance NVL-520 in
+clinical development and plan to advance NVL-655 into
+clinical development and expand our discovery, research and preclinical activities in the near term and in the future. Although we are currently enrolling patients in the Phase 1 portion of our ARROS-1
+clinical trial and we plan to initiate the Phase 1/2 trial for our ALK program in the second quarter of 2022, at this time, we cannot accurately estimate or know the nature, timing and costs of the efforts that will be necessary to complete the preclinical and clinical development of any product candidates we may develop. A change in the outcome of any number of variables with respect to product candidates we may develop could significantly change the costs and timing associated with the development of that product candidate. The duration, costs and timing of preclinical studies and clinical trials and development of our product candidates will depend on a variety of factors, including:
+•
+the timing and progress of development activities relating to NVL-520,
+NVL-655
+and any future product candidates from our ALK IXDN, HER2 and other discovery programs, including any additional costs that may result from delays in enrollment or other factors;
+•
+the number and scope of preclinical and clinical programs we decide to pursue;
+•
+our ability to maintain our current research and development programs and to establish new ones;
+•
+establishing an appropriate safety profile with IND-enabling
+toxicology studies;
+•
+successful patient enrollment in, and the initiation and completion of, clinical trials;
+•
+the number of trials required for regulatory approval;
+•
+the countries in which the trials are conducted;
+•
+the length of time required to enroll eligible subjects and initial clinical trials;
+•
+the number of subjects that participate in the trials and per subject trial costs;
+•
+potential additional safety monitoring requested by regulatory authorities;
+•
+the duration of subject participation in the trials and follow-up;
+•
+the successful completion of clinical trials with safety, tolerability and efficacy profiles that are satisfactory to applicable regulatory authorities;
+•
+the receipt of regulatory approvals from applicable regulatory authorities;
+•
+the timing, receipt and terms of any marketing approvals and post-marketing approval commitments from applicable regulatory authorities;
+•
+the extent to which we establish collaborations, strategic partnerships or other strategic arrangements with third parties, if any, and the performance of any such third party;
+•
+establishing commercial manufacturing capabilities or making arrangements with CMOs;
+•
+development and timely delivery of commercial-grade drug formulations that can be used in our clinical trials and for commercial launch; and
+•
+obtaining, maintaining, defending and enforcing patent claims and other intellectual property rights.
+Any changes in the outcome of any of these factors could significantly impact the costs, timing and viability associated with the development of our product candidates. For example, if the FDA or another regulatory authority were to delay our planned start of clinical trials or require us to conduct clinical trials or other testing beyond those that we currently expect or if we experience significant delays in enrollment in any of our clinical trials, we could be required to expend significant additional financial resources and time on the completion of clinical development of that product candidate.
+General and administrative expenses
+General and administrative expenses consist primarily of salaries and related costs, including stock-based compensation, for personnel in executive, finance and administrative functions. General and administrative expenses also include professional fees for legal, patent, consulting, investor and public relations and accounting and audit services. We anticipate that our general and administrative expenses will increase in the future as we increase our headcount to support our continued research activities and development of our product candidates. We also anticipate that we will incur increased accounting, audit, legal, regulatory, compliance, and director and officer insurance costs as well as investor and public relations expenses associated with operating as a public company.
+Other income (expense)
+Change in fair value of preferred stock tranche rights
+Pursuant to the terms of our Series A Preferred Stock Purchase Agreement, we provided investors with the right and obligation to participate in subsequent closings of Series A convertible preferred stock upon the achievement of certain strategic milestones or as determined by the Series A investors (the Series A Tranche Rights). These Series A Tranche Rights met the definition of a freestanding financial instrument as the Series A Tranche Rights were legally detachable and separately exercisable from the Series A convertible preferred stock. The Series A Tranche Rights were initially classified as a liability on our consolidated balance sheet that we remeasured to fair value at each reporting date, and we recognized changes in fair value of the Series A Tranche Rights as a component of other income (expense) in our consolidated statements of operations and comprehensive loss. All Series A Tranche Rights were settled by March 31, 2021.
+Other income (expense), net
+Other income (expense), net, consists of interest income, interest expense and other income (expense) unrelated to our core operations.
+Income taxes
+Since our inception, we have not recorded income tax benefits for the net operating losses incurred or the research and development tax credits generated in each year, due to the uncertainty of realizing a benefit from those items.
+As of December 31, 2021, we had U.S. federal and state net operating loss carryforwards of $73.2 million and $72.5 million, respectively, which may be available to offset future taxable income. The federal net operating loss carryforwards include $1.1 million which expire in 2037 and $72.1 million which carryforward indefinitely, but may only be used to offset 80% of annual taxable income. The state net operating loss carryforwards expire at various dates beginning in 2037. As of December 31, 2021, we also had federal and state research and development tax credit carryforwards of $1.6 million and $0.7 million, respectively, which may be available to offset future tax liabilities and expire at various dates beginning in 2033.
+Results of Operations
+Comparison of the Years Ended December 31, 2021 and 2020
+The following table summarizes our results of operations for the years ended December 31, 2021 and 2020:
+Research and development expenses
+Research and development expenses were $35.6 million for the year ended December 31, 2021, compared to $15.4 million for the year ended December 31, 2020. The increase in direct research and development expenses related to NVL-520
+of $6.8 million was primarily due to increased manufacturing and clinical costs, partially offset by a decrease in preclinical costs as we progressed NVL-520
+and prepared for the Phase 1 portion of our
+ARROS-1
+clinical trial. The increase in direct research and development expenses related to NVL-655
+of $4.4 million was primarily due to increased manufacturing and clinical costs to support our planned clinical trial and increased costs for IND-enabling
+studies, partially offset by a decrease in preclinical costs as we progressed NVL-655.
+The increase in direct research and development expenses related to our discovery programs of $3.6 million was primarily due to an increase in preclinical costs due to progress of our discovery programs. The increase in personnel-related expenses of $5.0 million was primarily due to an increase in headcount. Personnel-related costs for the years ended December 31, 2021 and 2020 included stock-based compensation expense of $1.3 million and $0.7 million, respectively.
+General and administrative expenses
+General and administrative expenses were $10.3 million for the year ended December 31, 2021, compared to $1.5 million for the year ended December 31, 2020. The increase in personnel-related costs of $4.3 million was primarily due to an increase in headcount. Personnel-related costs for the years ended December 31, 2021 and 2020 included stock-based compensation expense of $2.2 million and less than $0.1 million, respectively. The increase in professional and consultant fees of $2.6 million was primarily due to increased legal and audit fees associated with operating as a public company and our ongoing business activities. The increase in other of $1.9 million was primarily due to increased insurance and recruiting expenses associated with operating as a public company and to support our growing organization.
+Other income (expense)
+Change in fair value of preferred stock tranche rights
+The change in the fair value of the Series A Tranche Rights for the year ended December 31, 2021, compared to the year ended December 31, 2020 was primarily due to the change in the fair value of our preferred stock during that period.
+Liquidity and Capital Resources
+Since our inception, we have incurred significant operating losses. We have not yet commercialized any of our product candidates and we do not expect to generate revenue from sales of any product candidates for the foreseeable future, if at all. Through December 31, 2021, we have funded our operations primarily with proceeds from the sales of Series A and Series B convertible preferred stock, the issuance or convertible notes (which converted to convertible preferred stock in 2018), debt financing from stockholders (which was settled in convertible preferred stock in February 2021) and most recently, with proceeds from the sale of common stock in the IPO completed in August 2021. As of December 31, 2021, we had cash, cash equivalents and marketable securities of $288.1 million.
+Cash Flows
+The following table summarizes our sources and uses of cash for each of the periods presented:
+Operating activities
+During the year ended December 31, 2021, operating activities used $40.0 million of cash, primarily resulting from our net loss of $46.3 million, partially offset by net non-cash
+charges of $4.4 million and net cash provided by changes in our operating assets and liabilities of $1.9 million. Net cash provided by changes in our operating assets and liabilities for the year ended December 31, 2021, consisted primarily of a $5.4 million increase in accounts payable and accrued expenses, partially offset by an increase of $3.2 million in other assets.
+During the year ended December 31, 2020, operating activities used $14.9 million of cash, resulting from our net loss of $14.6 million and net non-cash
+income of $1.7 million, partially offset by net cash provided by changes in our operating assets and liabilities of $1.3 million. Net cash provided by changes in our operating assets and liabilities for the year ended December 31, 2020, consisted primarily of an increase in accounts payable and accrued expenses and other current liabilities of $1.3 million.
+Changes in accounts payable, accrued expenses and other current liabilities, prepaid expenses and other current assets and other assets were generally due to growth in our business, the advancement of our research programs and the timing of vendor invoicing and payments.
+Investing activities
+During the year ended December 31, 2021, net cash used in investing activities was $220.0 million, due to the purchases of marketable securities during the period, partially offset by sales and maturities of marketable securities.
+Financing activities
+During the year ended December 31, 2021, net cash provided by financing activities was $318.2 million, consisting of proceeds from our IPO, net of underwriting discounts and commissions of $177.3 million and proceeds from the issuance of our Series A and Series B convertible preferred stock of $144.7 million, partially offset by payment of IPO costs of $3.0 million.
+During the year ended December 31, 2020, net cash provided by financing activities was $22.3 million, consisting of proceeds from the issuance of our Series A convertible preferred stock, partially offset by the issuance of a promissory note to our scientific founder.
+Funding Requirements
+We expect our expenses to increase substantially in connection with our ongoing activities, particularly as we advance the preclinical and clinical activities and clinical trials for our product candidates in development. In addition, we expect to incur additional costs associated with operating as a public company. The timing and amount of our operating expenditures will depend largely on:
+•
+the initiation, progress, timing, costs and results of preclinical studies and clinical trials for our discovery programs and product candidates, including the advancement of NVL-520
+and planned advancement of NVL-655
+throughout clinical development;
+•
+the clinical development plans we establish for our product candidates;
+•
+the number and characteristics of product candidates that we discover and develop through our product discovery and research efforts;
+•
+the terms of any collaboration agreements we may choose to pursue;
+•
+the outcome, timing and cost of meeting regulatory requirements established by the FDA, the EMA and other comparable foreign regulatory authorities;
+•
+the cost of filing, prosecuting, defending and enforcing our patent claims and other intellectual property rights;
+•
+the cost of defending intellectual property disputes, including patent infringement actions brought by third parties against us;
+•
+the effect of competing technological and market developments;
+•
+the cost and timing of completion of commercial-scale outsourced manufacturing activities; and
+•
+the cost of establishing sales, marketing and distribution capabilities for any product candidates for which we may receive regulatory approval in regions where we choose to commercialize our products on our own.
+As of December 31, 2021, we had cash, cash equivalents and marketable securities of $288.1 million. We expect that our existing cash, cash equivalents and marketable securities will be sufficient to fund our operating expenses and capital expenditure requirements into 2024. Our existing cash, cash equivalents and marketable securities will not be sufficient to fund any of our product candidates through regulatory approval, and we anticipate needing to raise additional capital to complete the development and commercialization of our product candidates. Our estimate as to how long we expect our existing cash, cash equivalents and marketable securities to fund our operations is based on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we expect. Because of the numerous risks and uncertainties associated with research, development and commercialization of pharmaceutical product candidates, we are unable to estimate the exact amount of our working capital requirements. Our future funding requirements will depend on and could increase significantly as a result of many factors, including those listed above.
+Until such time, if ever, as we can generate substantial product revenue, we expect to finance our operations through a combination of equity offerings, debt financings, collaborations, strategic alliances and marketing, distribution or licensing arrangements. We do not currently have any committed external source of funds. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interest of our common stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of our common stockholders. Debt financing and preferred equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making acquisitions or capital expenditures or declaring dividends. If we raise additional funds through collaborations, strategic alliances or marketing, distribution or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or product candidates or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings or other arrangements when needed, we may be required to delay, limit, reduce or terminate our research, product development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves.
+Contractual Obligations and Other Commitments
+We lease certain office space in Cambridge, Massachusetts pursuant to a month-to-month
+lease. We enter into contracts in the normal course of business with our CMOs, CROs and other third parties to support preclinical research studies and other research and development activities. These contracts are generally cancelable by us.
+Critical Accounting Policies and Significant Judgments and Estimates
+Our consolidated financial statements are prepared in accordance with generally accepted accounting principles in the U.S. (GAAP). The preparation of our consolidated financial statements and related disclosures requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, costs and expenses and the disclosure of contingent assets and liabilities in our consolidated financial statements. We base our estimates on historical experience, known trends and events and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates under different assumptions or conditions.
+While our significant accounting policies are described in more detail in Note 2 to our consolidated financial statements appearing elsewhere in this Annual Report, we believe that the following accounting policies are those most critical to the judgments and estimates used in the preparation of our consolidated financial statements.
+Accrued research and development expenses
+As part of the process of preparing our consolidated financial statements, we are required to estimate our accrued research and development expenses. This process involves reviewing open contracts and purchase orders, communicating with our applicable personnel to identify services that have been performed on our behalf and estimating the level of services performed and the associated cost incurred for the services when we have not yet been invoiced or otherwise notified of actual costs. The majority of our service providers invoice us in arrears for services performed, on a pre-determined schedule
+or when contractual milestones are met; however, some require advance payments. We make estimates of our accrued expenses as of each balance sheet date in the financial statements based on facts and circumstances known to us at that time. We periodically confirm the accuracy of the estimates with the service providers and make adjustments if necessary. Examples of estimated accrued research and development expenses include fees paid to:
+•
+vendors in connection with preclinical development activities;
+•
+CROs in connection with preclinical and clinical studies and testing; and
+•
+CMOs in connection with the process development and scale up activities and the production of materials.
+We base the expense recorded related to contract research and manufacturing on our estimates of the services received and efforts expended pursuant to quotes and contracts with multiple CROs and CMOs that conduct services and supply materials. The financial terms of these agreements are subject to negotiation, vary from contract to contract and may result in uneven payment flows. In accruing service fees, we estimate the time period over which services will be performed and the level of effort to be expended in each period. If the actual timing of the performance of services or the level of effort varies from the estimate, we adjust the accrual accordingly. Although we do not expect our estimates to be materially different from amounts actually incurred, our understanding of the status and timing of services performed relative to the actual status and timing of services performed may vary and may result in reporting amounts that are too high or too low in any particular period. To date, there have not been any material adjustments to our prior estimates of accrued research and development expenses. While the majority of our service providers invoice us in arrears for services performed, on a pre-determined
+schedule or when contractual milestones are met, some require advance payments. There may be instances in which payments made to our vendors will exceed the level of services provided and result in a prepayment of the expense. We record these as prepaid expenses on our consolidated balance sheet.
+Stock-based compensation
+We measure stock options with service-based vesting granted to employees, non-employees
+and directors based on the fair value on the date of grant using the Black-Scholes option-pricing model. We measure restricted common stock awards using the difference between the purchase price per share of the award, if any, and the fair value of our common stock at the date of grant. Compensation expense for the awards is recognized over the requisite service period, which is generally the vesting period of the respective award. We use the straight-line method to record the expense of awards with only service-based vesting conditions. We account for forfeitures of stock-based awards as they occur.
+We classify stock-based compensation expense in our consolidated statements of operations and comprehensive loss in the same manner in which the award recipient’s payroll costs are classified or in which the award recipient’s service payments are classified.
+Recently Issued and Adopted Accounting Pronouncements
+A description of recently issued accounting pronouncements that may potentially impact our financial position and results of operations is disclosed in Note 2 to our consolidated financial statements included in this Annual Report.

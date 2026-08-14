@@ -1,0 +1,225 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our audited financial statements and related notes included elsewhere in this Annual Report on Form 10-K.
+This discussion, particularly information with respect to our future results of operations or financial condition, business strategy, plans and objectives of management for future operations and the potential impact that the ongoing COVID-19
+pandemic may have on our business, includes forward-looking statements that involve risks and uncertainties as described under the heading “Special Note Regarding Forward-Looking Statements” in this Annual Report on Form 10-K.
+You should review the disclosure under the heading “Risk Factors” in this Annual Report on Form 10-K
+for a discussion of important factors that could cause our actual results to differ materially from those anticipated in these forward-looking statements.
+Overview
+We are a clinical-stage biopharmaceutical company developing a novel disease-modifying approach to target what we believe to be a key underlying cause of AD. Alzheimer’s disease is a progressive neurodegenerative disease of the brain that leads to loss of memory and cognitive functions and ultimately results in death. Our scientific founders pioneered research on soluble AßOs, which are globular assemblies of the Aß peptide that are distinct from Aß monomers and amyloid plaques. We are currently focused on advancing a targeted immunotherapy drug candidate, ACU193, through clinical proof of mechanism trials in early AD patients. We initiated a Phase 1 clinical trial of ACU193 in the second quarter of 2021, which we named
+“INTERCEPT-AD.”
+This trial is enrolling patients with mild dementia or MCI due to AD, conditions referred to as “early AD.”
+INTERCEPT-AD
+is a U.S.-based, multi-center, randomized, double-blind, placebo-controlled clinical trial with overlapping SAD and MAD cohorts involving a total of approximately 62 patients with early AD. The overall objective of the trial is to evaluate the safety and tolerability and establish clinical proof of mechanism of ACU193 administered intravenously. The primary trial endpoints are focused on safety and immunogenicity. An important safety measure will be the use of MRI to assess the presence or absence of ARIA. Secondary endpoints include pharmacokinetics in plasma and CSF and target engagement as evidenced by detection of ACU193 bound to AßOs in CSF. Clinical scales typically used in AD trials as well as computerized cognitive testing are included as exploratory measures. In October 2021, we announced the initial dosing of the first patient in the
+INTERCEPT-AD
+trial and the subsequent successful sentinel safety review of the first two patients. Due to delays in clinical trial site activation and patient enrollment that we believe are principally related to the effects of the
+COVID-19
+pandemic, we are expanding the anticipated number of trial sites to support our enrollment objectives and anticipated timelines. Clinical trial site activation and patient recruitment and enrollment is ongoing. At present,
+INTERCEPT-AD
+is in the SAD portion of the trial. Based on current site activations and enrollment rates, we anticipate reporting our topline data from this trial in the first half of 2023.
+We were incorporated in 1996 and were party to an exclusive license and research collaboration with Merck in 2003. Although we acquired the exclusive rights to ACU193 from Merck in 2011 following Merck’s strategic decision to focus its AD development efforts on a different product candidate, we did not recommence meaningful operations until we completed our first institutional fundraising in 2018. Since 2018, we have devoted substantially all of our efforts to organizing and staffing our company, business planning, raising capital, conducting discovery, research and development activities, and providing general and administrative support for these operations. We do not have any products approved for sale and have not generated any revenue from product sales. We have funded our operations primarily through the sale of our convertible preferred stock and common stock, the issuance of notes, grant revenue and during our collaboration with Merck, certain payments received under our collaboration agreement.
+Prior to our IPO, which closed on July 6, 2021, we raised an aggregate of $99.4 million of gross proceeds through the issuance of convertible preferred stock, as well as sales of common stock and issuance of notes that were converted to preferred stock, with the vast majority of this capital being raised since our Series A-1
+convertible preferred stock, or Series A-1,
+financing in 2018. In 2020, we conducted a Series B convertible preferred stock, or Series B, financing, with the funding to occur in two tranches. We closed the first tranche of the Series B financing
+in November 2020, selling 11,862,043 shares of Series B at $3.80 per share for gross proceeds of $45.1 million. On June 9, 2021, our board of directors and the holders of more than 67% of the outstanding shares of Series B preferred stock elected to waive the achievement of the milestone event. On June 17, 2021, we closed the second tranche of our Series B preferred stock financing, pursuant to which certain of our investors funded an additional $30.0 million in exchange for 7,908,027 shares of Series B preferred stock.
+On July 6, 2021, we issued 9,999,999 shares of our common stock in the IPO, and on July 8, 2021, we issued an additional 1,499,999 shares of our common stock that were purchased by the underwriters pursuant to the underwriters’ option to purchase additional shares at the public offering price less underwriting discounts and commissions. The price to the public for each share was $16.00. The aggregate net proceeds from the IPO, after underwriting discounts and commissions and other offering expenses of $15.4 million, were $168.6 million.
+We have incurred net losses and negative cash flows from operations since our inception. Our net losses were $100.6 million and $7.3 million for the years ended December 31, 2021 and 2020, respectively. Approximately $81.2 million, or 81%, of the net loss for the year ended December 31, 2021 was due to increases in the fair value of the Series B tranche liability and the Series A-1
+warrant liability of $76.2 million and $5.0 million, respectively. As of December 31, 2021, we had an accumulated deficit of $127.6 million. Our net losses and cash flows from operations may fluctuate significantly from quarter-to-quarter
+and year-to-year,
+depending on the timing of nonclinical studies, clinical trials and our expenditures on other research and development activities. We expect our expenses and operating losses will increase substantially for the foreseeable future as we advance ACU193 in clinical trials, seek to expand our product candidate portfolio through developing additional product candidates, grow our clinical, regulatory and quality capabilities, and incur additional costs associated with operating as a public company. It is likely that we will seek third-party collaborators for the future commercialization of ACU193 or any other product candidate that is approved for marketing. However, we may seek to commercialize our products at our own expense, which would require us to incur significant additional expenses for marketing, sales, manufacturing and distribution.
+We will not generate revenue from product sales unless and until we successfully complete clinical development and obtain regulatory approval for our product candidates. In addition, if we obtain regulatory approval for our product candidates and do not enter into a third-party commercialization partnership, we expect to incur significant expenses related to developing our commercialization capability to support product sales, marketing, manufacturing and distribution activities.
+As a result, we will need substantial additional funding to support our continuing operations and pursue our growth strategy. Until we can generate significant revenue from product sales, if ever, we expect to finance our operations through a combination of public or private equity offerings and debt financings or other sources, such as potential collaboration agreements, strategic alliances and licensing arrangements. We may be unable to raise additional funds or enter into such other agreements or arrangements when needed on acceptable terms, or at all. Our failure to raise capital or enter into such agreements as, and when needed, could have a material adverse effect on our business, results of operations and financial condition.
+As of December 31, 2021, we had cash and cash equivalents of $122.2 million and $103.7 million in marketable securities. Based on our current operating plan, we expect that our existing cash and cash equivalents and marketable securities will be sufficient to enable us to fund our operating expenses and capital expenditure requirements at least through 2025. We have based this estimate on assumptions that may prove to be wrong, and we could exhaust our available capital resources sooner than we expect. See “-Liquidity and Capital Resources.”
+COVID-19
+Business Update
+In March 2020, the World Health Organization declared COVID-19
+a global pandemic and the United States declared a national emergency with respect to COVID-19.
+In response to the COVID-19
+pandemic, a number of governmental orders and other public health guidance measures have been implemented across much of the United States, including in the locations of our office, clinical trial sites and third parties on whom we rely. We implemented a work-from-home policy allowing employees and consultants who can work from home to do so.
+Business travel has been limited, and online video and teleconference technology is used to meet virtually rather than in person. We have taken measures to secure our research and development activities, while work in laboratories by our partners has been organized to reduce risk of COVID-19
+transmission.
+In October 2021, we announced the initial dosing of the first patient in the
+INTERCEPT-AD
+trial and the subsequent successful sentinel safety review of the first two patients. Due to delays in clinical trial site activation and patient enrollment that we believe are principally related to effects of the
+COVID-19
+pandemic, we are expanding the anticipated number of trial sites to support our enrollment objectives and anticipated timelines. However, we cannot assure that we will not experience additional delays in site activation or enrollment. Clinical trial site activation and patient recruitment and enrollment is ongoing. At present,
+INTERCEPT-AD
+is in the SAD portion of the trial. Based on current site activations and enrollment rates, we anticipate reporting our topline data from this trial in the first half of 2023.
+The ultimate impact of the COVID-19
+pandemic on our business, results of operations, financial position and cash flows will depend on future developments, including the duration and spread of the outbreak and related advisories and restrictions. These developments and the impact of the COVID-19
+pandemic on the financial markets and the overall economy are highly uncertain and cannot be predicted. If the financial markets and/or the overall economy are impacted for an extended period, our business, results of operations, financial position and cash flows may be materially adversely affected.
+Components of Results of Operations
+Grants and Other Revenue
+To date, we have not generated any revenues from the commercial sale of any products, and we do not expect to generate revenues from the commercial sale of any products for the foreseeable future, if ever. For the year ended December 31, 2020, we derived revenue from a grant awarded by the National Institutes of Health, or the NIH, in September 2017 and renewed annually in 2018 through 2020. The grant provided us with funding to support the completion of preclinical chemistry, manufacturing and control studies, toxicology and pharmacokinetic studies, submit an IND dossier to the FDA, and then conduct first in human clinical safety trials for ACU193. We recognized revenue from this grant when the related costs were incurred and the right to payment was realized. The full $3.9 million awarded to us was fully recognized as of December 31, 2020, as the final $1.4 million under the grant was recorded as revenue during the year ended December 31, 2020.
+Operating Expenses
+Our operating expenses consist of research and development expenses and general and administrative expenses.
+Research and Development Expenses
+Research and development costs primarily consist of direct costs associated with consultants and materials, biologic storage, third party, contract research organization costs and contract development and manufacturing expenses, salaries and other personnel-related expenses. Research and development costs are expensed as incurred. More specifically, these costs include:
+•
+costs of funding research performed by third parties that conduct research and development and nonclinical and clinical activities on our behalf;
+•
+costs of manufacturing drug supply and drug product;
+•
+costs of conducting nonclinical studies and clinical trials of our product candidates;
+•
+consulting and professional fees related to research and development activities, including equity-based compensation to non-employees;
+•
+costs related to compliance with clinical regulatory requirements; and
+•
+employee-related expenses, including salaries, benefits and stock-based compensation expense for our research and development personnel.
+As we currently only have one product candidate, ACU193, in development, we do not separately track expenses by program. Further, as we have historically relied exclusively on consultants for research and development activities, we did not have any material internal research and development costs for the years ended December 31, 2021 and 2020. We expect that our research and development expenses will increase substantially in connection with our clinical development activities for our ACU193 program.
+General and Administrative Expenses
+General and administrative expenses consist primarily of management and business consultants and other related costs, including stock-based compensation. General and administrative expenses also include insurance, professional fees for legal, consulting, accounting, auditing, tax and patent services, investor and public relations, board of directors’ expenses, franchise taxes and rent.
+We expect that our general and administrative expenses will increase as our organization and headcount needed in the future grows to support continued research and development activities and potential commercialization of our product candidates. These increases will likely include increased costs related to the hiring of additional personnel and fees to outside consultants, attorneys and accountants, among other expenses. Additionally, we expect to incur increased expenses associated with being a public company, including costs of additional personnel, accounting, audit, legal, regulatory and tax-related services
+associated with maintaining compliance with exchange listing and SEC requirements, director and officer insurance costs, and investor and public relations costs.
+Other Income (Expense)
+Other income (expense) primarily includes changes in fair value of the Series A-1 warrant
+liability and the Series B tranche rights, interest income, net and other expense, net.
+The Series A-1
+warrant liability and the Series B tranche rights were initially recorded at fair value as liabilities on our balance sheet. Each was subsequently re-measured at
+fair value at the end of each reporting period and also upon the exercise of the warrant on June 22, 2021 and upon settlement of the tranche rights with the milestone closing for the Series B on June 17, 2021. Changes in the fair value were recognized as a component of other income (expense).
+Following our IPO, we made investments in marketable securities and the interest income earned, as well as the amortization and accretion of premiums and discounts are recorded in interest income, net.
+Other income (expense), net generally consists of sublease income offset by fees incurred on our investments in marketable securities.
+Results of Operations
+Comparison of the Years Ended December 31, 2021 and 2020
+The following table summarizes our results of operations for the years ended December 31, 2021 and 2020 (in thousands):
+Grant and Other Revenue
+Revenue related to our NIH grant was nil and $1.4 million for the years ended December 31, 2021 and 2020, respectively. Revenue under the NIH grant was recognized when the related costs were incurred and the right to payment was realized.
+Research and Development Expenses
+Research and development expenses were $12.3 million and $8.0 million for the years ended December 31, 2021 and 2020, respectively. The $4.3 million increase was primarily due to increases in expenses of $2.3 million for personnel-related expenses, $2.3 million for materials and $2.1 million for contract research organization services, which were partially offset by decreases in expenses of $1.6 million for drug safety testing, $0.6 million for consulting and $0.2 million for contract manufacturing. The net increase in research and development expenses in 2021 from 2020 was primarily due to increased costs related to initiating our clinical trial in 2021.
+General and Administrative Expenses
+General and administrative expenses were $7.3 million and $1.4 million for the years ended December 31, 2021 and 2020, respectively. The $5.9 million increase was primarily due to increases of $2.2 million for personnel expenses, including stock compensation costs, $1.5 million for insurance expenses, $0.8 million for accounting and audit expenses, $0.5 million for legal expenses, $0.3 million for investor relations, as well as $0.1 million each for marketing/public relations, board of directors’ fees, rent, travel, other general and administrative costs and the write-off
+of the remaining NIH grant receivable which was not submitted in a timely enough manner to
+collect these funds from the NIH. Following the IPO, we have added a number of new personnel and a large portion of the other increases are a direct result of our transition from a private to a public company.
+Other Income (Expense)
+Increases in the fair value of the Series B tranche liability and the Series A-1 warrant
+liability of $76.2 million and $5.0 million, respectively, were primarily responsible for total other expense for the year ended December 30, 2021. Additionally, these expenses were offset by interest income earned on our investments in marketable securities, net of amortization and accretion of premium and discount which are recorded in interest income, net and sublease income. Other income (expense) for the year ended December 31, 2020 was related to decreases in the fair value of the Series B tranche liability and the Series A-1
+warrant liability of $0.4 million and $0.2 million, respectively.
+Liquidity and Capital Resources
+Since our inception up until the time of our IPO in July 2021, we had funded our operations primarily through the sale of our convertible preferred stock and common stock, the issuance of notes, grant revenue and, during our collaboration with Merck, certain payments received under our collaboration agreement. We do not have any products approved for sale and have not generated any revenue from product sales. Prior to our IPO, we had raised an aggregate of $99.4 million of gross proceeds through the issuance of convertible preferred stock, as well as sales of common stock and issuance of notes that were converted to preferred stock, with the vast majority of this capital being raised since our Series A-1 financing
+in 2018. In 2020, we conducted a Series B financing, with the funding to occur in two tranches. We closed the first tranche of the Series B financing in November 2020 for gross proceeds of $45.1 million and the second tranche closed on June 17, 2021 for gross proceeds of $30.0 million following the election of our board of directors and a majority of the Series B investors to waive the requirement for a certain milestone event for ACU193 to be achieved prior to funding the second tranche on June 9, 2021.
+On July 6, 2021, we issued 9,999,999 shares of common stock in our IPO, and on July 8, 2021, we issued an additional 1,499,999 shares of common stock that were purchased by the underwriters pursuant to the underwriters’ option to purchase additional shares at the public offering price less underwriting discounts and commissions. The price to the public for each share was $16.00. The aggregate net proceeds from our IPO, after underwriting discounts and commissions and other offering expenses of $15.4 million, were $168.6 million.
+As of December 31, 2021, our cash and cash equivalents totaled $122.2 million. Additionally, we had $103.7 million of available-for-sale
+marketable securities as of December 31, 2021, which mature over the next one to two years. We enter into contracts in the normal course of business with contract research organizations, or CROs, and contract manufacturing organizations, or CMOs, for clinical trials, nonclinical research studies and testing, manufacturing and other services and products for operating purposes. These contracts do not contain any minimum purchase commitments and are generally cancelable by us upon prior notice of 30 days. Payments due upon cancelation consist only of payments for services provided and expenses incurred up to the date of cancelation.
+Future minimum lease payments under our lease agreements for our leases in Carmel, Indiana and Charlottesville, Virginia total less than $0.3 million.
+Cash Flows
+The following table summarizes our sources and uses of cash (in thousands):
+Operating Activities
+Net cash used in operating activities was $18.0 million and $7.5 million for the years ended December 31, 2021 and 2020, respectively. Net cash used in operating activities during the year ended December 31, 2021 primarily consisted of our net loss of $100.6 million, which includes $81.2 million of non-cash
+expense related to the change in the fair values of the Series B tranche liability and the Series A-1
+warrant liability and $0.9 million for stock compensation costs, plus $3.9 million of cash used for prepaid expenses mainly associated with research and development activities and insurance; partially offset by cash provided of $3.6 million from accrued expenses and other current liabilities mainly related to research and development expenses and employee-related accruals, and $0.6 million of cash provided by accounts payable. Cash used in operating activities during the year ended December 31, 2021, was the result of ongoing research and development activities as we commenced our clinical trial, as well as costs associated with the transition from a private to a public company. Net cash used in operating activities during the year ended December 31, 2020 primarily consisted of our net loss of $7.3 million, which includes $0.6 million of non-cash
+expense related to the change in the fair values of the Series B tranche liability and the Series A-1
+warrant liability and $0.2 million for stock compensation costs, partially offset by $0.3 million of cash provided by changes in our operating assets and liabilities.
+Investing Activities
+Cash used in investing activities for the year ended December 31, 2021 was $104.1 million and was predominantly related to the purchase of marketable securities, but also included less than $0.1 million for purchases of computer hardware. Cash used in investing activities for the year ended December 31, 2020 was nil.
+Financing Activities
+Net cash provided by financing activities was $200.5 million and $44.7 million for the year ended December 31, 2021 and 2020, respectively. Net cash provided by financing activities during the year ended December 31, 2021 was primarily due to our IPO for net proceeds of $168.6 million, the closing of the second tranche of our Series B convertible preferred stock for gross proceeds of $30.0 million, plus a total of $1.9 million received from the exercise of a Series A-1
+preferred warrant, as well as exercises of common stock warrants. Net cash provided by financing activities during the year ended December 31, 2020 was primarily due to the closing of the first tranche of the Series B financing for net proceeds of $44.7 million.
+Funding Requirements
+We expect our expenses to increase in connection with our ongoing activities, particularly as we continue our research and development, conduct clinical trials, and seek marketing approval for our current and any of our future product candidates. Furthermore, we have and expect to incur additional costs associated with operating as a public company following our July 2021 IPO. It is likely that we will seek third-party collaborators for the future commercialization of ACU193 or any other product candidate that is approved for marketing. However, we may seek to commercialize our products at our own expense, which would require us to incur significant
+additional expenses for marketing, sales, manufacturing and distribution., which costs we may seek to offset through entry into collaboration agreements with third parties. As a result, we expect that we will need to obtain substantial additional funding in connection with our future operations. If we are unable to raise capital when needed or on acceptable terms, we could be forced to delay, reduce or eliminate our research and development programs or future commercialization efforts.
+Based on our current operating plan, we expect that our existing cash and cash equivalents and our marketable securities will be sufficient to enable us to fund our operating expenses and capital expenditure requirements at least through 2025. We have based this estimate on assumptions that may prove to be wrong, and we may use our available capital resources sooner than we currently expect. Our future capital requirements will depend on many factors, including:
+•
+the scope, progress, results and costs of discovery, nonclinical development, laboratory testing and clinical trials for other potential product candidates we may develop, if any;
+•
+the costs, timing and outcome of regulatory review of our product candidates;
+•
+our ability to establish and maintain collaborations on favorable terms, if at all;
+•
+the achievement of milestones or occurrence of other developments that trigger payments under any collaboration agreements we might have at such time;
+•
+the costs and timing of future commercialization activities, including product sales, marketing, manufacturing and distribution, for any of our product candidates for which we receive marketing approval;
+•
+the amount of revenue, if any, received from commercial sales of our product candidates, should any of our product candidates receive marketing approval;
+•
+the costs of preparing, filing and prosecuting patent applications, obtaining, maintaining and enforcing our intellectual property rights and defending intellectual property-related claims;
+•
+our headcount growth and associated costs as we expand our business operations and our research and development activities; and
+•
+the costs of operating as a public company.
+Until such time, if ever, as we can generate substantial product revenue, we expect to finance our longer-term cash needs through a combination of equity offerings, debt financings, collaborations, strategic alliances and licensing arrangements. We do not have any committed external source of funds. To the extent that we raise additional capital through the sale of equity or convertible debt securities, your ownership interests may be diluted, and the terms of these securities may include liquidation or other preferences that could adversely affect your rights as a common stockholder. Any debt financing, if available, may involve agreements that include restrictive covenants that limit our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends, that could adversely impact our ability to conduct our business.
+If we raise funds through collaborations, strategic alliances or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or product candidates or to grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings when needed, we may be required to delay, limit, reduce or terminate our product development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves.
+Critical Accounting Policies, Significant Judgments and Use of Estimates
+Our financial statements have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported expenses incurred during the reporting periods. Our estimates and assumptions are based on our historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources.
+Actual results may differ from these estimates under different assumptions or conditions. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates.
+While our significant accounting policies are described in the notes to our financial statements included elsewhere in this Annual Report for Form 10-K,
+we believe that the following critical accounting policies are most important to understanding and evaluating our reported financial results.
+Stock-Based Compensation Expense
+We recognize stock-based compensation expense for all stock-based awards. Stock-based compensation costs are estimated at the grant date based on the fair value of the equity and recognized as expense, net of actual forfeitures when they occur, on a straight-line basis over the requisite service period.
+We calculate the fair value of options using the Black-Scholes option-pricing model, which requires the use of various highly subjective assumptions as follows:
+•
+Fair Value of Common Stock
+-See the subsection titled “Common Stock Valuations
+” below.
+•
+Expected Term
+-We have opted to use the “simplified method” for estimating the expected term of options, whereby the expected term equals the arithmetic average of the mid-point
+between the vesting date and the end of contractual term of the option (generally ten years).
+•
+Expected Volatility
+-Due to our limited operating history and a lack of sufficient company-specific historical and implied volatility data, we have based our estimate of expected volatility on the historical volatility of a group of industry peers that are publicly traded. We will continue to utilize a group of publicly traded peers to estimate volatility until a sufficient amount of historical information regarding the volatility of our own stock becomes available.
+•
+Risk-Free Interest Rate
+-The risk-free rate assumption is based on the U.S. Treasury yield in effect at the time of the grant with maturities consistent with the expected term of our options.
+•
+Expected Dividend Yield
+-We have not issued any dividends in our history and do not expect to pay dividends on our common stock over the life of the options and therefore have estimated the dividend yield to be zero.
+We will continue to use judgment in evaluating the expected volatility, expected terms and interest rates utilized for our stock-based compensation expense calculations on a prospective basis.
+For the years ended December 31, 2021 and 2020, stock-based compensation expense was $0.9 million and $0.2 million, respectively. As of December 31, 2021, we had approximately $4.7 million of total unrecognized stock-based compensation costs, which we expect to recognize over an estimated weighted-average period of 3.0 years. We expect to continue to grant options and other stock-based awards in the future, and to the extent that we do, our stock-based compensation expense recognized in future periods will likely increase.
+Common Stock Valuations
+Given the absence of a public trading market of our common stock prior to the IPO, and in accordance with the American Institute of Certified Public Accountants Practice Guide, Valuation of Privately Held Company Equity
+Securities Issued as Compensation
+, the Practice Aid, our board of directors exercised reasonable judgment and considered numerous and subjective factors to determine the best estimate of fair value of our common stock prior to the IPO, including, but not limited to:
+•
+relevant precedent transactions involving our capital stock;
+•
+contemporaneous valuations of our common stock performed by third-party specialists;
+•
+rights, preferences, and privileges of our redeemable convertible preferred stock relative to those of our common stock;
+•
+our business, financial condition and results of operations, including related industry trends affecting our operations;
+•
+likelihood of achieving a liquidity event, such as an initial public offering or a sale of our business;
+•
+the lack of marketability of our common stock, and the illiquidity of stock-based awards involving securities in a private company;
+•
+market multiples of comparable publicly-traded companies; and
+•
+U.S. and global capital and macroeconomic conditions.
+The Practice Aid identifies various available methods for allocating enterprise value across classes and series of capital stock to determine the estimated fair value of common stock at each valuation date. In accordance with the Practice Aid, we considered the following methods:
+•
+Option Pricing Method, or OPM.
+Under the OPM, shares are valued by creating a series of call options with exercise prices based on the liquidation preferences and conversion terms of each equity class. The estimated fair values of the preferred and common stock are inferred by analyzing these options. This method is appropriate to use when the range of possible future outcomes is so difficult to predict that estimates would be highly speculative, and dissolution or liquidation is not imminent.
+•
+Probability-Weighted Expected Return Method, or PWERM.
+The PWERM is a scenario-based analysis that estimates value per share based on the probability-weighted present value of expected future investment returns, considering each of the possible outcomes available to us, as well as the economic and control rights of each share class.
+For valuations performed during fiscal years 2018 through 2020 we used the OPM. For valuations performed beginning in 2021, prior to the IPO, in accordance with the Practice Aid, we used a hybrid approach of the OPM and the PWERM methods to determine the estimated fair value of our common stock as a result of the increasing likelihood of the occurrence of certain discrete events, such as a potential IPO, improving market conditions and receptivity of the market to initial public offerings. The enterprise value determined under the OPM and PWERM methods was weighted according to our board of directors’ estimate of the probability of the occurrence of a certain discrete event as of the valuation date. The resulting equity value for the common stock was then divided by the number of shares of common stock outstanding at the date of the valuation to derive a per share value on a non-marketable
+basis. In order to determine the fair value of our common stock on a marketable basis, we then applied a discount for lack of marketability which we derived based on inputs including a company-specific volatility rate, a term equal to the expected time to a future liquidity event and a risk-free rate equal to the yield on treasuries of similar duration.
+Application of these approaches involves the use of estimates, judgment and assumptions that are highly complex and subjective, such as those regarding our expected future revenue, expenses, cash flows, discount rates, market multiples, the selection of comparable companies and the probability of future events. Changes in any or all of these estimates and assumptions, or the relationships between those assumptions, impact our valuations as of each valuation date and may have a material impact on the valuation of common stock. The assumptions underlying these valuations represent our management’s best estimate, which involve inherent uncertainties and
+the application of management judgment. As a result, if factors or expected outcomes change and we use significantly different assumptions or estimates, our stock-based compensation expense could be materially different.
+Following the closing of the initial public offering, the fair value of our common stock has been determined based on the quoted market price of our common stock.
+Accrued Research and Development Expenses
+As part of the process of preparing our financial statements, we are required to estimate our accrued expenses as of each balance sheet date. This process involves reviewing open contracts and purchase orders, identifying services that have been performed on our behalf and estimating the level of service performed and the associated cost incurred for the service when we have not yet been invoiced or otherwise notified of the actual cost. We make estimates of our accrued expenses as of each balance sheet date based on facts and circumstances known to us at that time. We periodically confirm the accuracy of our estimates with the service providers and make adjustments if necessary. The significant estimates in our accrued research and development expenses include the costs incurred for services performed by our vendors in connection with research and development activities for which we have not yet been invoiced. Since our inception, we have not experienced any material differences between accrued or prepaid costs and actual costs.
+We base our expenses related to research and development activities on our estimates of the services received and efforts expended pursuant to quotes and contracts with vendors that conduct research and development on our behalf. The financial terms of these agreements are subject to negotiation, vary from contract to contract and may result in uneven payment flows. There may be instances in which payments made to our vendors will exceed the level of services provided and result in a prepayment of the research and development expense. In accruing service fees, we estimate the time period over which services will be performed and the level of effort to be expended in each period. If the actual timing of the performance of services or the level of effort varies from our estimate, we adjust the accrual or prepaid expense accordingly. Advance payments for goods and services that will be used in future research and development activities are expensed when the activity has been performed or when the goods have been received rather than when the payment is made.
+Accrued research and development expenses increased to $2.6 million as of December 31, 2021, compared with $0.1 million as of December 31, 2020, and prepaid research and development expenses increased to $2.6 million as of December 31, 2021, compared with $0.4 million as of December 31, 2020. The increases in both accrued and prepaid research and development are due to commencement of our clinical trial.
+Emerging Growth Company and Smaller Reporting Company Status
+In April 2012, the Jumpstart Our Business Startups Act of 2012, or JOBS Act, was enacted. Section 107 of the JOBS Act provides that an “emerging growth company” can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act of 1933, as amended, for complying with new or revised accounting standards. Thus, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We elected the extended transition period for complying with new or revised accounting standards, which delays the adoption of these accounting standards until they would apply to private companies.
+In addition, as an emerging growth company, we may take advantage of specified reduced disclosure and other requirements that are otherwise applicable generally to public companies. These provisions include:
+•
+an exception from compliance with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, as amended;
+•
+reduced disclosure about our executive compensation arrangements in our periodic reports, proxy statements and registration statements;
+•
+exemptions from the requirements of holding non-binding
+advisory votes on executive compensation or golden parachute arrangements; and
+•
+an exemption from compliance with the requirements of the Public Company Accounting Oversight Board regarding the communication of critical audit matters in the auditor’s report on financial statements.
+We may take advantage of these provisions until we no longer qualify as an emerging growth company. We will cease to qualify as an emerging growth company on the date that is the earliest of: (i) December 31, 2025, (ii) the last day of the fiscal year in which we have more than $1.07 billion in total annual gross revenues, (iii) the date on which we are deemed to be a “large accelerated filer” under the rules of the SEC, which means the market value of our common stock that is held by non-affiliates
+exceeds $700 million as of the prior June 30th, or (iv) the date on which we have issued more than $1.0 billion of non-convertible
+debt over the prior three-year period. We may choose to take advantage of some but not all of these reduced reporting burdens. We have taken advantage of certain reduced reporting requirements in this Annual Report on Form 10-K
+and our other filings with the SEC. Accordingly, the information contained herein may be different than you might obtain from other public companies in which you hold equity interests.
+We are also a “smaller reporting company,” meaning that the market value of our shares held by non-affiliates
+is less than $700 million and our annual revenue was less than $100 million during the most recently completed fiscal year. We may continue to be a smaller reporting company if either (i) the market value of our shares held by non-affiliates is
+less than $250 million or (ii) our annual revenue was less than $100 million during the most recently completed fiscal year and the market value of our shares held by non-affiliates is
+less than $700 million. If we are a smaller reporting company at the time we cease to be an emerging growth company, we may continue to rely on exemptions from certain disclosure requirements that are available to smaller reporting companies. Specifically, as a smaller reporting company, we may choose to present only the two most recent fiscal years of audited financial statements in our Annual Report on Form 10-K and,
+similar to emerging growth companies, smaller reporting companies have reduced disclosure obligations regarding executive compensation.

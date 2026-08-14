@@ -1,0 +1,499 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The MD&A is intended to provide a narrative description of the Company’s business from management’s perspective. This MD&A should be read in conjunction with the audited Consolidated Financial Statements and accompanying notes for the year ended December 31, 2020 (“Consolidated Financial Statements”), which are included in Item 8 of this Annual Report on Form 10-K.
+On January 24, 2020, Encana Corporation (“Encana”) completed a corporate reorganization, which included a Share Consolidation, as described in Items 1 and 2 of this Annual Report on Form 10-K and Note 1 of the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. Subsequent to the corporate reorganization, Ovintiv Inc. and its subsidiaries (collectively, “Ovintiv”) continue to carry on the business which was previously conducted by Encana and its subsidiaries.
+Common industry terms and abbreviations are used throughout this MD&A and are defined in the Definitions, Conversions and Conventions sections of this Annual Report on Form 10-K. This MD&A includes the following sections:
+•
+Executive Overview
+•
+Results of Operations
+•
+Liquidity and Capital Resources
+•
+Accounting Policies and Estimates
+•
+Non-GAAP Measures
+Executive Overview
+Strategy
+Ovintiv is focused on developing its multi-basin portfolio of oil, NGLs and natural gas producing plays as part of its strategy outlined in Items 1 and 2 of this Annual Report on Form 10-K. Ovintiv is committed to growing long-term stockholder value through a combination of profitable growth and generating cash flows. The Company is pursuing the key business objectives of preserving financial strength, maximizing profitability through operational and capital efficiencies, paying sustainable dividends, and generating cash flows through a disciplined capital allocation strategy by investing in a limited number of core assets with high margin liquids. To support the Company’s business objectives, Ovintiv actively monitors and manages market volatility through the diversification of price risks and market access risks to enhance returns and maintain a consistent cash flow stream. In conjunction with Ovintiv’s focus on preserving financial strength, the Company plans to allocate all excess cash flows over the next four quarters to reduce total long-term debt.
+Ovintiv is also committed to delivering results in a socially and environmentally responsible manner. Thoughtfully developed best practices are deployed across its assets, allowing the Company to capitalize on operational efficiencies and decreasing emissions intensity. The Company’s annual Sustainability Report outlining its key metrics and progress achieved relating to environmental, social, and governance practices can be found on the Company’s website.
+In executing its strategy, Ovintiv focuses on its core values of One, Agile and Driven, which guide the organization to be flexible, responsive, innovative and determined. The Company is committed to excellence with a passion to drive corporate financial performance and succeed as a team.
+Ovintiv continually reviews and evaluates its strategy and changing market conditions in order to maximize cash flow generation from its top tier assets located in some of the best plays in North America, referred to as the “Core Assets”. As at December 31, 2020, the Core Assets comprised Permian and Anadarko in the U.S., and Montney in Canada. These Core Assets form a multi-basin portfolio of oil, NGLs and natural gas producing plays enabling flexible and efficient investment of capital that support the Company’s strategy.
+For additional information on reporting segments and the plays in which the Company operates, refer to Items 1 and 2 of this Annual Report on Form 10-K. For additional information on the segmented results, refer to Note 2 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+In evaluating its operations and assessing its leverage, Ovintiv reviews performance-based measures such as Non-GAAP Cash Flow, Non-GAAP Cash Flow Margin, Total Costs and debt-based metrics such as Debt to Adjusted Capitalization and Net Debt to Adjusted EBITDA, which are non-GAAP measures and do not have any standardized meaning under U.S. GAAP. These measures may not be similar to measures presented by other issuers and should not be viewed as a substitute for measures reported under U.S. GAAP. Additional information regarding these measures, including reconciliations to the closest GAAP measure, can be found in the Non-GAAP Measures section of this MD&A.
+For the year ended December 31, 2020, the Company elected to exclude from this MD&A the discussion of the results of operations for the year ended December 31, 2018, being the earliest of the three years included in the Consolidated Financial Statements, as set forth in the SEC’s amendment to Item 303 of Regulation S-K, which was effective May 2, 2019. For additional information on the Company’s financial condition, changes in financial condition and results of operations for the year ended December 31, 2018, refer to Item 7 of the 2019 Annual Report on Form 10-K.
+Highlights
+In early 2020, the Company decreased its capital program for the remainder of the year to focus on production from the Core Assets generating the highest returns and/or with the lowest costs in response to the low commodity price environment resulting from the global coronavirus (“COVID-19”) pandemic and excess global oil production.
+During 2020, the Company delivered significant cash from operating activities and maximized profitability through operational and capital efficiencies, while executing its reduced capital plan. Lower upstream product revenues in 2020 compared to 2019 resulted from lower average realized prices, excluding the impact of risk management activities, and lower total production volumes. Decreases in average realized liquids and natural gas prices of 34 percent and five percent, respectively, were primarily due to lower WTI and NYMEX benchmark prices. Ovintiv remains focused on optimizing realized prices from the diversification of the Company’s downstream markets.
+Despite lower average commodity prices and lower production volumes for the majority of the year, the Company delivered significant cash from operating activities with a notable reduction in its capital program and reduced its total long-term debt balance. Cash from operating activities of $1,895 million included a net realized gain of $711 million on settlement of risk management positions.
+Significant Developments
+•
+On January 24, 2020, Encana completed a corporate reorganization, which included a plan of arrangement (the “Arrangement”) that involved, among other things, a share consolidation by Encana on the basis of one post-consolidation share for each five pre-consolidation shares (the “Share Consolidation”), and Ovintiv Inc. ultimately acquired all of the issued and outstanding common shares of Encana in exchange for shares of common stock of Ovintiv Inc. on a one-for-one basis. Following completion of the Arrangement, Ovintiv Inc. migrated from Canada and became a Delaware corporation, domiciled in the U.S. (the “U.S. Domestication”). The Arrangement and the U.S. Domestication together are referred to as the “Reorganization”. Additional information on the Reorganization can be found in Note 1 of the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+•
+In June 2020, Ovintiv undertook a plan to reduce its workforce by approximately 25 percent as part of a company-wide reorganization in response to the low commodity price environment resulting from the global pandemic and the Company’s planned reductions in capital spending. The Company incurred restructuring charges of $90 million and expects total restructuring charges to be approximately $95 million.
+•
+On September 1, 2020, Ovintiv closed an agreement with PetroChina Canada Ltd. (“PCC”) to terminate its joint venture with PCC and transfer the ownership and operation of certain Duvernay shale assets in west-central Alberta. In connection with the closing, Ovintiv and PCC have agreed to partition the Duvernay acreage and associated infrastructure.
+•
+On October 13, 2020, Ovintiv announced the start-up of the Pipestone processing facility, a natural gas processing and liquids stabilization plant owned by Keyera Partnership. Under a fee-for-service midstream agreement, the facility will provide Ovintiv with additional net processing capacity to support the Company’s condensate-rich Montney development.
+Financial Results
+•
+Reported net loss of $6,097 million, including a non-cash ceiling test impairment of $5,580 million, before tax, net gains on risk management in revenues of $507 million, before tax, restructuring costs of $90 million, before tax, as well as a deferred income tax valuation allowance of $568 million.
+•
+Generated cash from operating activities of $1,895 million, Non-GAAP Cash Flow of $1,929 million and Non-GAAP Cash Flow Margin of $9.69 per BOE. Cash from operating activities exceeded capital expenditures by $159 million.
+•
+Paid dividends of $0.375 per share of common stock totaling $97 million.
+•
+Repurchased in the open market $302 million in principal amount of the Company’s senior notes resulting in gains of $30 million.
+•
+Had $3.3 billion in total liquidity as at December 31, 2020, which included available credit facilities of $3.4 billion, available uncommitted demand lines of $269 million, and cash and cash equivalents of $10 million, net of outstanding commercial paper of $352 million.
+•
+Reported Net Debt to Adjusted EBITDA of 3.1 times.
+Capital Investment
+•
+Reported total capital spending of $1,736 million, which was less than the updated full year 2020 investment plan of $1.8 billion.
+•
+Directed $1,439 million, or 83 percent, of total capital spending to the Core Assets.
+•
+Focused on highly efficient capital activity and short-cycle high margin projects providing flexibility to respond to fluctuations in commodity prices.
+Production
+•
+Produced average liquids volumes of 288.9 Mbbls/d which accounted for 53 percent of total production volumes. Average oil and plant condensate volumes of 203.6 Mbbls/d, or 70 percent of total liquids production volumes, exceeded full year 2020 expectation of 200.0 Mbbls/d.
+•
+Produced average natural gas volumes of 1,529 MMcf/d which accounted for 47 percent of total production volumes.
+Operating Expenses
+•
+Incurred Total Costs in 2020 of $2,313 million, or $11.60 per BOE, a decrease of $289 million or $0.99 per BOE compared to 2019. Total Costs is defined in the Non-GAAP Measures section of this MD&A. Significant items in 2020 impacting Total Costs include:
+o
+Lower upstream operating expenses, excluding long-term incentive costs, in 2020 compared to 2019 of $118 million, primarily due to lower activity as a result of the economic downturn and cost saving initiatives including workforce reductions, as well as operating efficiencies achieved in 2020;
+o
+Lower production, mineral and other taxes, in 2020 compared to 2019 of $81 million, primarily due to lower commodity prices;
+o
+Lower administrative expenses, excluding long-term incentive costs, restructuring costs and current expected credit losses, in 2020 compared to 2019 of $47 million, primarily due to cost saving initiatives including the 2020 workforce reduction and synergies achieved in 2020; and
+o
+Lower upstream transportation and processing expenses in 2020 compared to 2019 of $43 million, primarily due to the expiration of certain transportation contracts and the sale of the Arkoma natural gas assets.
+•
+Total Operating Expenses in 2020 of $11,484 million increased by $5,356 million primarily due to the non-cash ceiling test impairments of $5,580 million.
+Additional information on Total Costs items and Total Operating Expenses above can be found in the Results of Operations section of this MD&A.
+Subsequent Event
+In February 2021, the Company agreed to sell its Duvernay assets for approximately $263 million, which includes about $12 million in contingency payments based on future commodity prices. The sale is subject to ordinary closing conditions, regulatory approvals and other adjustments, and is expected to close in the second quarter of 2021.
+2021 Outlook
+Industry Outlook
+Oil Markets
+The oil and gas industry is cyclical and commodity prices are inherently volatile. Oil prices reflects global supply and demand dynamics as well as the geopolitical and macroeconomic environment.
+In early 2020, governments worldwide took action to contain the effects of the COVID-19 pandemic by partially closing economies. During the midst of the pandemic, Saudi Arabia and Russia failed to reach an agreement on production cuts, resulting in a price war which intensified the oversupply of oil. As a result of the COVID-19 pandemic and the price war, global crude oil demand fell significantly while product storage facilities filled up at unprecedented rates with supply materially exceeding demand. In April 2020, OPEC and a group of 10 non-OPEC member nations (collectively, “OPEC+”) agreed to cut oil production through April 2022 to address the existing imbalance of global supply and demand, with the deepest cuts in May and June 2020, and easing off afterwards over the remaining agreement period.
+As the imbalance of global supply and demand in oil markets grew increasingly pronounced, the oil and gas industry responded by reducing capital spending and implementing market-based supply shut-ins. Global restrictions began to ease in the latter half of the second quarter, and consequently oil demand increased, supporting a modest recovery of oil prices. However, oil demand did not return to pre-pandemic levels by the end of the year. Certain economic sectors are still restricted and additional lockdowns due to the resurgence of COVID-19 in some countries continue to impact oil demand. Given the market conditions, capital spending in the oil and gas industry is not expected to increase significantly in 2021 and production is likely to remain flat.
+Commodity prices during 2021 will continue to be impacted by the global containment of the virus, pace of economic recovery, as well as changes to OPEC+ production levels. There is increased economic optimism going into 2021 as governments worldwide distribute the COVID-19 vaccines. As well, in January 2021, Saudi Arabia announced a significant unilateral production cut in addition to OPEC+ reaffirming current production cut levels, which extend through March 2021. OPEC+ continues to meet regularly to review the state of global oil supply, demand and inventory levels. Despite signs of economic recovery centered on the COVID-19 vaccine and the production cuts, oil markets remain volatile.
+Natural Gas Markets
+Natural gas prices in 2021 will be affected by changes in both supply and demand and the effects of seasonal weather. Higher-than-average inventory levels from oversupply in 2020 and lower demand have prolonged the downward pressure on natural gas prices, which remain volatile in both Canada and the U.S. from uncertainties stemming from the COVID-19 pandemic and weather. Natural gas prices continue to be impacted by lower
+associated natural gas production resulting from declines in North American oil production due to low oil prices, as well as a slow demand recovery and seasonal fluctuations.
+Company Outlook
+Despite the low commodity price environment experienced in the first half of the year and modest recovery in the second half, Ovintiv delivered on its reduced full year capital plan while generating positive Non-GAAP Cash Flow in excess of capital expenditures. In response to the rapid decline in crude oil prices witnessed in early 2020, the Company took immediate action to reduce its second quarter 2020 capital investments by $500 million. Concurrently, the Company ceased operating 16 drilling rigs and shut in total production of 32 MBOE/d, which further reduced the Company’s expected 2020 capital investment profile. By the end of the fourth quarter, previously shut-in and curtailed production were back on-line.
+In conjunction with the reduction to its 2020 capital investment, Ovintiv also implemented cost saving measures, which reduced full year 2020 costs by nearly $300 million. The Company will continue to exercise discretion and discipline to optimize capital allocation in 2021 as oil demand recovers and the commodity price environment evolves. Ovintiv pursues innovative ways to reduce upstream operating and administrative expenses and expects to benefit from efficiency improvements to maximize cash flows.
+Markets for crude oil and natural gas are exposed to different price risks and are inherently volatile. While the market price for crude oil tends to move in the same direction as the global market, regional differentials may develop. Natural gas prices may vary between geographic regions depending on local supply and demand conditions. To mitigate price volatility and help sustain revenues, particularly during periods of low commodity prices, the Company enters into derivative financial instruments. As at January 31, 2021, the Company has hedged approximately 127.0 Mbbls/d of expected crude oil and condensate production and 1,038 MMcf/d of expected natural gas production for 2021. In addition, Ovintiv proactively utilizes transportation contracts to diversify the Company’s sales markets, thereby reducing significant exposure to any given market and regional pricing.
+Additional information on Ovintiv’s hedging program can be found in Note 25 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Capital Investment
+The Company plans to spend approximately $1.5 billion on its 2021 capital investment program, with the majority allocated to the Core Assets with a focus on maximizing returns from high margin liquids to optimize operating cash flows. Ovintiv will continue to evaluate its capital investment plans as the global economic environment evolves.
+Ovintiv continually strives to improve well performance and lower costs through innovative techniques. Operating initiatives such as applying Simul-Frac techniques, a process of fracking pairs of wells at the same time instead of a single well, increases operational efficiencies and contributes to well cost savings. Ovintiv's large-scale cube development model utilizes multi-well pads and advanced completion designs to maximize returns and resource recovery from its reservoirs. The impact of Ovintiv’s disciplined capital program and continuous innovation create flexibility to allocate capital in changing commodity markets and to maximize cash flows while preserving the long-term value of the Company’s multi-basin portfolio.
+Production
+Ovintiv is strategically positioned in the current economic environment to maintain a flat liquids production profile while generating cash flows in excess of capital expenditures. In 2021, the Company expects to maintain average oil and plant condensate production volumes of approximately 200.0 Mbbls/d, other NGLs production volumes of approximately 80.0 Mbbls/d and natural gas production volumes of approximately 1,550 MMcf/d.
+Operating Expenses
+In response to the low commodity price environment during the majority of 2020, Ovintiv implemented cost saving measures to reduce its full year costs. These cost savings primarily include reductions to operating expenses reflected in Total Costs of about $200 million and reductions in other costs. During June 2020, Ovintiv reduced its workforce to better align staffing levels and organizational structure with the Company’s planned activity levels. By the end of 2020, the reduction in the Company’s workforce and other cost saving measures have resulted in cost savings of nearly $300 million. The Company expects to benefit from its cost saving measures throughout 2021.
+Total Costs per BOE is expected to increase slightly for 2021 primarily due to higher production taxes resulting from expected strengthening of commodity prices, higher transportation and processing costs relating to new agreements, and the effects of foreign exchange rate changes, partially offset by sustainable cost saving measures. For 2021, Ovintiv expects Total Costs of approximately $12.25 per BOE to $12.50 per BOE. Total Costs is defined in the Non-GAAP Measures section of this MD&A.
+Other Expenses and Impairments
+Full year cost savings included reductions to cash outflows and other expenses, such as interest expense. Following the 2020 open market repurchases of $302 million in principal amount of Ovintiv’s fixed rate senior notes, the Company expects to incur lower interest expense of approximately $10 million on an annualized basis on the reduced fixed long-term debt balances.
+Ovintiv remains focused on strengthening its balance sheet and liquidity position. In the second quarter of 2020, the Company committed to allocate all excess cash flows to reducing its total long-term debt and expects to achieve total long-term debt reduction of at least $1.25 billion by the end of 2021, exceeding the original announced debt reduction target of $1.0 billion. To date, the Company has repaid $481 million towards its total 2021 long-term debt reduction target. Additional information on Ovintiv’s long-term debt and liquidity position can be found in Note 15 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K and the Liquidity and Capital Resources section of this MD&A, respectively.
+If a low oil price environment persists for an extended period of time, Ovintiv may be subject to additional impairments of its oil and natural gas properties and other long-term assets. Additional information on the Company’s ceiling test impairment can be found in the Results of Operations section of this MD&A.
+Additional information on Ovintiv’s 2021 Corporate Guidance can be accessed on the Company’s website at www.ovintiv.com.
+Environmental, Social and Governance
+Ovintiv recognizes the importance of reducing its environmental footprint and voluntarily participates in emission reduction programs. The Company has targeted a 33 percent reduction in methane intensity to be achieved by the end of 2025 and this target will be tied to its annual incentive compensation program beginning in 2021. Additional information on Ovintiv’s environmental, social and governance practices are outlined in Items 1 and 2 of this Annual Report on Form 10-K, as well as in Ovintiv’s annual Sustainability Report on the Company’s website.
+Results of Operations
+Selected Financial Information
+(1)
+Subsequent to the completion of the Newfield acquisition on February 13, 2019, the post-acquisition results of the operations of Newfield are included in the Company’s consolidated results beginning February 14, 2019.
+(2)
+Total Operating Expenses include non-cash items such as DD&A, impairments, accretion of asset retirement obligations and long-term incentive costs.
+Revenues
+Ovintiv’s revenues are substantially derived from sales of oil, NGLs and natural gas production. Increases or decreases in Ovintiv’s revenue, profitability and future production are highly dependent on the commodity prices the Company receives. Prices are market driven and fluctuate due to factors beyond the Company’s control, such as supply and demand, seasonality and geopolitical and economic factors. The USA Operations realized prices generally reflect WTI and NYMEX benchmark prices, as well as other downstream oil benchmarks, including Houston. The Canadian Operations realized prices are linked to Edmonton Condensate and AECO, as well as other downstream natural gas benchmarks, including Dawn. The other downstream benchmarks reflect the diversification of the Company’s markets. Recent trends in benchmark prices relevant to the Company are shown in the table below.
+Benchmark Prices
+Production Volumes and Realized Prices
+(1)
+Average daily.
+(2)
+Average per-unit prices, excluding the impact of risk management activities.
+(3)
+Effective July 31, 2019, the production sharing contract with China National Offshore Oil Corporation (“CNOOC”) was terminated and the Company exited its China Operations. Production from China Operations is presented for the period from February 14, 2019 through July 31, 2019.
+(4)
+Includes production impacts of acquisitions and divestitures.
+Upstream Product Revenues
+($ millions)
+Oil
+NGLs - Plant Condensate
+NGLs - Other
+Natural
+Gas
+Total (1)
+2019 Upstream Product Revenues
+$
+3,376
+$
+$
+$
+1,136
+$
+5,834
+Increase (decrease) due to:
+Sales prices
+(1,068
+)
+(310
+)
+(47
+)
+(57
+)
+(1,482
+)
+Production volumes
+(266
+)
+(14
+)
+(32
+)
+(308
+)
+2020 Upstream Product Revenues
+$
+2,042
+$
+$
+$
+1,047
+$
+4,044
+(1)
+Revenues for 2019 exclude certain other revenue and royalty adjustments with no associated production volumes of $13 million.
+Oil Revenues
+2020 versus 2019
+Oil revenues decreased $1,334 million compared to 2019 primarily due to:
+•
+Lower average realized oil prices of $19.44 per bbl, or 35 percent, decreased revenues by $1,068 million. The decrease reflected lower Houston and WTI benchmark prices which were down 34 percent and 31 percent, respectively, and weakening regional pricing relative to the WTI benchmark price in the USA Operations; and
+•
+Lower average oil production volumes of 12.9 Mbbls/d decreased revenues by $266 million. Lower volumes were primarily due to natural declines in Eagle Ford, Anadarko and Uinta (15.6 Mbbls/d), production shut-ins due to the economic downturn (3.0 Mbbls/d) and the termination of the Company’s production sharing contract in its China Operations in the third quarter of 2019 (1.4 Mbbls/d), partially offset by the Newfield acquisition in 2019 (8.7 Mbbls/d).
+NGL Revenues
+2020 versus 2019
+NGL revenues decreased $367 million compared to 2019 primarily due to:
+•
+Lower average realized plant condensate prices of $16.33 per bbl, or 32 percent, decreased revenues by $310 million. The decrease reflected lower WTI and Edmonton Condensate benchmark prices which were down 31 percent and 30 percent, respectively, as well as declines in regional pricing relative to the WTI benchmark price;
+•
+Lower average realized other NGL prices of $1.50 per bbl, or 13 percent, decreased revenues by $47 million reflecting lower other NGL benchmark prices and lower regional pricing in the USA Operations;
+•
+Lower average plant condensate production volumes of 0.8 Mbbls/d decreased revenues by $14 million. Lower volumes were primarily due to natural declines in Duvernay (2.1 Mbbls/d), partially offset by successful drilling in Montney (1.4 Mbbls/d); and
+•
+Higher average other NGL production volumes of 0.7 Mbbls/d increased revenues by $4 million. Higher volumes were primarily due to the Newfield acquisition in 2019 (4.3 Mbbls/d), partially offset by natural declines in Anadarko and Eagle Ford (3.7 Mbbls/d).
+Natural Gas Revenues
+2020 versus 2019
+Natural gas revenues decreased $89 million compared to 2019 primarily due to:
+•
+Lower average realized natural gas prices of $0.10 per Mcf, or five percent, decreased revenues by $57 million. The decrease reflected lower Dawn and NYMEX benchmark prices which were down 22 percent and 21 percent, respectively, partially offset by a higher AECO benchmark price which was up 38 percent and strengthening of regional pricing in USA Operations; and
+•
+Lower average natural gas production volumes of 48 MMcf/d decreased revenues by $32 million primarily due to natural declines in Anadarko, Duvernay and Eagle Ford (47 MMcf/d), the sale of the Arkoma natural gas assets in the third quarter of 2019 (35 MMcf/d) and increased third-party plant downtime in Montney (12 MMcf/d), partially offset by the Newfield acquisition in 2019 (44 MMcf/d).
+Gains (Losses) on Risk Management, Net
+As a means of managing commodity price volatility, Ovintiv enters into commodity derivative financial instruments on a portion of its expected oil, NGLs and natural gas production volumes. The Company’s commodity price mitigation program reduces volatility and helps sustain revenues during periods of lower prices. Additional information on the Company’s commodity price positions as at December 31, 2020 can be found in Note 25 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+The following table provides the effects of the Company’s risk management activities on revenues.
+(1)
+Includes realized gains and losses related to the USA and Canadian Operations.
+(2)
+Other primarily includes realized gains or losses from Market Optimization and other derivative contracts with no associated production volumes.
+Ovintiv recognizes fair value changes from its risk management activities each reporting period. The changes in fair value result from new positions and settlements that occur during each period, as well as the relationship between contract prices and the associated forward curves. Realized gains or losses on risk management activities related to commodity price mitigation are included in the USA Operations, Canadian Operations and Market Optimization revenues as the contracts are cash settled. Unrealized gains or losses on fair value changes of unsettled contracts are included in the Corporate and Other segment.
+Market Optimization Revenues
+Market Optimization product revenues relate to activities that provide operational flexibility and cost mitigation for transportation commitments, product type, delivery points and customer diversification. Ovintiv also purchases and sells third-party volumes under marketing arrangements associated with the Company’s previous divestitures.
+2020 versus 2019
+Market Optimization product revenues increased $300 million compared to 2019 primarily due to:
+•
+Higher sales of third-party purchased liquid volumes primarily relating to price optimization activities in the USA Operations ($747 million) and higher sales of third-party purchased natural gas volumes primarily relating to marketing arrangements for assets divested in prior years ($67 million);
+partially offset by:
+•
+Lower oil and NYMEX benchmark prices, as well as lower regional natural gas pricing ($514 million).
+Sublease Revenues
+Sublease revenues primarily include amounts related to the sublease of office space in The Bow office building recorded in the Corporate and Other segment. Additional information on office sublease income can be found in Note 14 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Operating Expenses
+Production, Mineral and Other Taxes
+Production, mineral and other taxes include production and property taxes. Production taxes are generally assessed as a percentage of oil, NGLs and natural gas production revenues. Property taxes are generally assessed based on the value of the underlying assets.
+2020 versus 2019
+Production, mineral and other taxes decreased $81 million compared to 2019 primarily due to:
+•
+Lower production tax in USA Operations due to lower commodity prices ($71 million), as well as the sale of the Arkoma natural gas assets and the termination of the Company’s production sharing contract in its China Operations in the third quarter of 2019 ($2 million).
+Transportation and Processing
+Transportation and processing expense includes transportation costs incurred to move product from production points to sales points including gathering, compression, pipeline tariffs, trucking and storage costs. Ovintiv also incurs costs related to processing provided by third parties or through ownership interests in processing facilities.
+2020 versus 2019
+Transportation and processing expense decreased $56 million compared to 2019 primarily due to:
+•
+The expiration of certain transportation contracts in the USA Operations as well as expired contracts relating to decommissioned and previously divested assets, the sale of the Arkoma natural gas assets in the third quarter of 2019, the decommissioning of Deep Panuke, lower U.S/Canadian dollar exchange rate and lower flow-through operating costs due to a third-party plant turnaround in Montney in 2019;
+partially offset by:
+•
+Higher costs from increased production volumes relating to the Newfield acquisition in 2019 and the diversification of the Company’s downstream markets, as well as rate escalation in certain transportation contracts relating to previously divested assets.
+Operating
+Operating expense includes costs paid by the Company, net of amounts capitalized, on oil and natural gas properties in which the Company has a working interest. These costs primarily include labor, service contract fees, chemicals, fuel, water hauling, electricity and workovers.
+(1)
+Effective July 31, 2019, the production sharing contract with CNOOC was terminated and the Company exited its China Operations. Upstream Operating Expense from China Operations is presented for the period from February 14, 2019 through July 31, 2019.
+(2)
+2020 Upstream Operating Expense per BOE includes long-term incentive costs of $0.04/BOE (2019 - long-term incentive costs of $0.06/BOE).
+2020 versus 2019
+Operating expense decreased $127 million compared to 2019 primarily due to:
+•
+Decreased activity mainly as a result of the economic downturn and cost saving initiatives ($110 million), lower salaries and benefits due to decreased headcount ($51 million), the sale of the Arkoma natural gas assets and the termination of the Company’s production sharing contract in its China Operations in the third quarter of 2019 ($25 million), as well as lower long-term incentive costs resulting from a higher decrease in the Company’s share price in 2020 compared to 2019 ($6 million);
+partially offset by:
+•
+Lower capitalization of overhead costs ($63 million) and the Newfield acquisition in 2019 ($11 million).
+Additional information on the Company’s long-term incentives can be found in Note 22 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Purchased Product
+Purchased product expense includes purchases of oil, NGLs and natural gas from third parties that are used to provide operational flexibility and cost mitigation for transportation commitments, product type, delivery points and customer diversification. The Company also purchases and sells third-party volumes under marketing arrangements associated with the Company’s previous divestitures.
+2020 versus 2019
+Purchased product expense increased $323 million compared to 2019 primarily due to:
+•
+Higher third-party purchased liquid volumes primarily relating to price optimization activities in the USA Operations ($744 million) and higher third-party purchased natural gas volumes primarily relating to marketing arrangements for assets divested in prior years ($60 million);
+partially offset by:
+•
+Lower oil and NYMEX benchmark prices, as well as lower regional natural gas pricing ($481 million).
+Depreciation, Depletion & Amortization
+Proved properties within each country cost centre are depleted using the unit-of-production method based on proved reserves as discussed in Note 1 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. Depletion rates are impacted by impairments, acquisitions, divestitures and foreign exchange rates, as well as fluctuations in 12-month average trailing prices which affect proved reserves volumes. Corporate assets are carried at cost and depreciated on a straight-line basis over the estimated service lives of the assets.
+Additional information can be found under Upstream Assets and Reserve Estimates in the Critical Accounting Estimates section of this MD&A.
+2020 versus 2019
+DD&A decreased $181 million compared to 2019 primarily due to:
+•
+Lower depletion rates in the USA Operations ($165 million) and lower production volumes in the USA and Canadian Operations ($50 million and $12 million, respectively), partially offset by higher depletion rates in the Canadian Operations ($60 million).
+The depletion rate in the USA Operations decreased $1.40 per BOE compared to 2019 primarily due to the ceiling test impairments recognized in the second and third quarter of 2020. The depletion rate in the Canadian Operations increased $0.68 per BOE, compared to 2019 primarily due to a higher depletable base.
+Impairments
+Under full cost accounting, the carrying amount of Ovintiv’s oil and natural gas properties within each country cost centre is subject to a ceiling test performed quarterly. Ceiling test impairments are recognized when the capitalized costs, net of accumulated depletion and the related deferred income taxes, exceed the sum of the estimated after-tax future net cash flows from proved reserves as calculated under SEC requirements using the 12-month average trailing prices and discounted at 10 percent. The 12-month average trailing price is calculated as the average of the price on the first day of each month within the trailing 12-month period.
+In 2020, the Company recognized a before-tax non-cash ceiling test impairment of $5,580 million in the USA Operations. The non-cash ceiling test impairments primarily resulted from the decline in the 12-month average trailing prices, which reduced proved reserves.
+The 12-month average trailing prices used in the ceiling test calculations were based on the benchmark prices below. The benchmark prices were adjusted for basis differentials to determine local reference prices, transportation costs and tariffs, heat content and quality.
+Oil & NGLs
+Natural Gas
+WTI
+($/bbl)
+Edmonton
+Condensate
+(C$/bbl)
+Henry Hub
+($/MMBtu)
+AECO
+(C$/MMBtu)
+12-Month Average Trailing Reserves Pricing (1)
+39.62
+49.77
+1.98
+2.13
+55.93
+68.80
+2.58
+1.76
+(1)
+All prices were held constant in all future years when estimating net revenues and reserves.
+Due to the low commodity price environment, further declines in the 12-month average trailing prices are expected and could reduce proved reserves volumes and values and result in the recognition of future ceiling test impairments. However, future ceiling test impairments are difficult to reasonably predict and depend on commodity prices, as well as changes to reserves estimates, future development costs, capitalized costs, unproved property costs transferred to the depletable base of the full cost pool, as well as proceeds received from upstream divestitures which are generally deducted from the Company’s capitalized costs and can reduce the likelihood of ceiling test impairments.
+The Company has calculated the estimated effects that certain price changes would have had on its ceiling test impairment for the period ended December 31, 2020. Using forecast commodity prices as at December 31, 2020, for the three months ending March 31, 2021, the estimated 12-month average trailing prices for the period ended December 31, 2020 would have been $38.00 per bbl for WTI, C$47.17 per bbl for Edmonton Condensate, $2.26 per MMBtu for Henry Hub and C$2.51 per MMBtu for AECO. Based on these estimated prices, a ceiling test impairment of less than $150 million for the USA Operations could be recognized in the first quarter of 2021. If a low commodity price environment is sustained, further ceiling test impairments and related allowances on deferred tax assets may be recognized.
+The additional estimated before-tax ceiling test impairment is not expected to impact proved undeveloped reserves for the USA Operations. Due to uncertainties in estimating proved reserves, the additional before-tax ceiling test
+impairment described and resulting implications may not be indicative of Ovintiv’s future development plans, operating or financial results.
+The Company believes that the discounted after-tax future net cash flows from proved reserves required to be used in the ceiling test calculation are not indicative of the fair market value of Ovintiv’s oil and natural gas properties or the future net cash flows expected to be generated from such properties. The discounted after-tax future net cash flows do not consider the fair market value of unamortized unproved properties, or probable or possible liquids and natural gas reserves. In addition, there is no consideration given to the effect of future changes in commodity prices. Ovintiv manages its business using estimates of reserves and resources based on forecast prices and costs. Additional information on the ceiling test calculation can be found in Note 10 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Administrative
+Administrative expense represents costs associated with corporate functions provided by Ovintiv staff. Costs primarily include salaries and benefits, operating lease, office, information technology, restructuring and long-term incentive costs.
+(1)
+Includes $110 million related to The Bow office lease, half of which is recovered from sublease revenues (2019 - $113 million).
+(2)
+On January 1, 2020, Ovintiv adopted ASU 2016-13, “Financial Instruments - Credit Losses: Measurement of Credit Losses on Financial Instruments” under Topic 326. Further details on the adoption of ASU 2016-13 can be found in Note 1 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+2020 versus 2019
+Administrative expense in 2020 decreased $94 million compared to 2019 primarily due to lower restructuring costs incurred in 2020 ($48 million), lower salaries and benefits due to decreased headcount ($18 million), lower consulting costs ($12 million) and lower non-recurring integration and administrative expenses relating to the Newfield acquisition in 2019 ($11 million).
+During 2019, the Company completed workforce reductions in conjunction with the Newfield acquisition to better align staffing levels and the organizational structure. In June 2020, the Company completed further workforce reductions as part of a company-wide reorganization to better align with the Company’s planned activity levels. Additional information on restructuring charges can be found in Note 21 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Other (Income) Expenses
+Interest
+Interest expense primarily includes interest on Ovintiv’s long-term debt. Additional information on changes in interest can be found in Note 4 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+2020 versus 2019
+Interest expense decreased $11 million compared to 2019 primarily due to:
+•
+Lower interest expense resulting from the repayment of the Company’s $500 million senior note in the second quarter of 2019 ($13 million) and interest savings related to open market repurchases in 2020 ($11 million);
+partially offset by:
+•
+Higher interest expense on long-term debt primarily relating to the assumption of Newfield’s outstanding senior notes, interest expense relating to amounts drawn on the Company’s credit facilities and issuances under the Company’s U.S. commercial paper (“U.S. CP”) program ($16 million).
+Foreign Exchange (Gain) Loss, Net
+Foreign exchange gains and losses primarily result from the impact of fluctuations in the Canadian to U.S. dollar exchange rate. Additional information on changes in foreign exchange gains or losses can be found in Note 5 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. Additional information on foreign exchange rates and the effects of foreign exchange rate changes can be found in Items 6 and 7A of this Annual Report on Form 10-K.
+Following the completion of the Reorganization, including the U.S. Domestication, on January 24, 2020, as described in the Highlights section of this MD&A, the U.S. dollar denominated unsecured notes issued by Encana Corporation from Canada were assumed by Ovintiv Inc., a company incorporated in Delaware with a U.S. dollar functional currency. Accordingly, these U.S. dollar denominated unsecured notes, along with certain intercompany notes, no longer attract foreign exchange translation gains or losses.
+2020 versus 2019
+In 2020, the Company recorded a net foreign exchange loss of $17 million compared to a gain in 2019 of $119 million primarily due to:
+•
+Unrealized foreign exchange losses on the translation of U.S. dollar financing debt issued from Canada compared to gains in 2019 ($258 million) and realized foreign exchange losses on intercompany notes and the settlement of U.S. dollar financing debt issued from Canada compared to gains in 2019 ($76 million and $26 million, respectively);
+partially offset by:
+•
+Unrealized foreign exchange gains on the translation of intercompany notes compared to losses in 2019 ($223 million).
+Other (Gains) Losses, Net
+Other (gains) losses, net, primarily includes other non-recurring revenues or expenses and may also include items such as interest income, interest received from tax authorities, transaction costs relating to acquisitions, reclamation charges relating to decommissioned assets, gains on debt repurchases, government stimulus programs and adjustments related to other assets.
+Other gains in 2020 primarily includes gains of $30 million, relating to the repurchase of the Company’s fixed long-term debt on the open market as discussed in the Liquidity and Capital Resources section of this MD&A and interest income of $5 million.
+Other losses in 2019 primarily included legal fees and transaction costs related to the Newfield acquisition of $33 million, partially offset by interest income on short-term investments of $10 million.
+Income Tax
+(1)
+Following the U.S. Domestication as described in the Highlights section of this MD&A, the applicable statutory rate became the U.S. federal income tax rate of 21 percent.
+Income Tax Expense (Recovery)
+2020 versus 2019
+In 2020, income tax expense increased $286 million compared to 2019, which included an increase in the valuation allowance of $568 million in Canada related to prior years’ deferred tax assets, partially offset by the tax benefit resulting from current year losses arising from non-cash ceiling test impairments and a lower effective tax rate due to the current year valuation allowance discussed below.
+Deferred income tax assets are routinely assessed for realizability. During 2020, the Company determined, after weighing both positive and negative evidence, that a valuation allowance should be recorded to reduce the associated deferred tax assets in the United States and in Canada. The Company is in a cumulative three-year loss position as of December 31, 2020 in both the United States and Canada. The cumulative losses and increased uncertainty in the timing as to when the realization of deferred tax assets will occur, is significant negative evidence to overcome, and consequently, it is more likely than not that the deferred tax assets will not be realizable. If it is determined that the deferred tax assets are realizable in the future, a reduction in the valuation allowance will be recorded. Additional information on the determination of the valuation allowance can be found in Note 6 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+As part of the U.S. Domestication in the first quarter of 2020, Ovintiv recognized a capital loss and recorded a deferred income tax benefit in the amount of $1.2 billion for Canadian income tax purposes due to the decline in the Company’s share value compared to the historical tax basis of its properties that were transferred as part of the U.S. Domestication. Ovintiv assessed the realizability of these capital losses against capital gains and concluded that it is more likely than not that the deferred tax asset will not be realizable. Therefore, Ovintiv has recorded a corresponding valuation allowance against the deferred tax asset. If it is determined the capital loss can be utilized at a future date, a reduction in the valuation allowance will be recorded.
+Effective Tax Rate
+The Company’s annual effective income tax rate is primarily impacted by earnings, valuation allowances related to current year losses, state taxes, income tax related to foreign operations, the effect of legislative changes, non-taxable capital gains and losses, and tax differences on divestitures and transactions. Additional information on income taxes can be found in Note 6 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+The Company’s effective tax rate was (6.4) percent for 2020, which is lower than the U.S. federal statutory tax rate of 21 percent primarily due to valuation allowances recorded relating to current year losses arising from ceiling test impairments and an increase in the valuation allowance of $568 million in Canada related to prior years’ deferred tax assets.
+The effective tax rate of 25.7 percent for 2019, was higher than the U.S. federal statutory tax rate of 21 percent primarily due to state taxes and the re-measurement of the Company’s deferred tax position resulting from the Alberta corporate tax rate reduction, partially offset by partnership tax allocations in excess of funding in Canada as well as the resolution of certain tax items relating to prior taxation years. On June 28, 2019, Alberta Bill 3, the Job Creation Tax Cut (Alberta Corporate Tax Amendment) Act, was signed into law resulting in a phased-in reduction of the Alberta corporate tax rate from 12 percent to eight percent over a period of four years. During 2019, the
+deferred tax expense of $94 million included an adjustment of $55 million resulting from the re-measurement of the Company’s deferred tax position due to the Alberta tax rate reduction.
+On June 29, 2020, Alberta announced the previously phased-in rate reduction will be accelerated with the Alberta rate reducing to eight percent effective July 1, 2020. This legislation was enacted in December 2020 and the impact resulting from the announcement was not material for the Company’s tax position.
+The Company continues to evaluate the various stimulus and fiscal measures announced in the U.S. and Canada in response to the COVID-19 pandemic. The tax impact of these measures is reflected in the Company’s tax and financial position.
+The determination of income and other tax liabilities of the Company and its subsidiaries requires interpretation of complex domestic and foreign tax laws and regulations, that are subject to change. The Company’s interpretation of taxation laws may differ from the interpretation of the tax authorities. As a result, there are tax matters under review for which the timing of resolution is uncertain. The Company believes that the provision for income taxes is adequate.
+Liquidity and Capital Resources
+Sources of Liquidity
+The Company has the flexibility to access cash equivalents and a range of funding alternatives at competitive rates through committed revolving credit facilities as well as debt and equity capital markets. Ovintiv closely monitors the accessibility of cost-effective credit and ensures that sufficient liquidity is in place to fund capital expenditures and dividend payments. In addition, the Company may use cash and cash equivalents, cash from operating activities, or proceeds from asset divestitures to fund its operations or to manage its capital structure as discussed below. At December 31, 2020, $5.0 million in cash and cash equivalents was held by Canadian subsidiaries. The cash held by Canadian subsidiaries is accessible and may be subject to additional U.S. income taxes and Canadian withholding taxes if repatriated.
+The Company’s capital structure consists of total shareholders’ equity plus long-term debt, including any current portion. The Company’s objectives when managing its capital structure are to maintain financial flexibility to preserve Ovintiv’s access to capital markets and its ability to meet financial obligations and finance internally generated growth, as well as potential acquisitions. Ovintiv has a practice of maintaining capital discipline and strategically managing its capital structure by adjusting capital spending, adjusting dividends paid to shareholders, issuing new shares of common stock, purchasing shares of common stock for cancellation, issuing new debt, repaying or repurchasing existing debt.
+(1)
+Includes available credit facilities of $2.1 billion (2019 - $1.5 billion) in the U.S. and $1.3 billion (2019 - $2.5 billion) in Canada as at December 31, 2020 (collectively, the “Credit Facilities”).
+(2)
+Includes three uncommitted demand lines totaling $336 million, net of $67 million in related undrawn letters of credit (2019 - $331 million and $132 million, respectively).
+(3)
+Long-Term Debt as at December 31, 2020, includes outstanding U.S. CP totaling $352 million and $598 million drawn on the Credit Facilities.
+(4)
+Shareholders’ Equity reflects the common shares purchased, for cancellation, under the Company’s 2019 NCIB and substantial issuer bid programs.
+(5)
+Calculated as long-term debt, including the current portion, divided by shareholders’ equity plus long-term debt, including the current portion.
+(6)
+A non-GAAP measure which is defined in the Non-GAAP Measures section of this MD&A.
+The Company has access to two committed revolving U.S. dollar denominated credit facilities totaling $4.0 billion, which include a $2.5 billion revolving credit facility for Ovintiv Inc. and a $1.5 billion revolving credit facility for a Canadian subsidiary, both maturing in July 2024. The Credit Facilities provide financial flexibility and allow the Company to fund its operations or capital program. At December 31, 2020, $405 million and $193 million were outstanding under the revolving credit facility for Ovintiv Inc. and for the Canadian subsidiary, respectively.
+During 2020, Ovintiv’s credit rating was downgraded to below investment grade by one of its credit rating agencies following updates to commodity price assumptions used by the rating agency. As a result of the downgrade, the cost of short-term borrowing on the revolving credit facility for Ovintiv Inc. has increased marginally. Ovintiv continues to have full access to its Credit Facilities and the credit rating downgrade has not impacted the Company’s ability to fund its operations or capital program. While Ovintiv currently has both investment and non-investment grade credit ratings, further reductions in the Company’s credit ratings could increase the cost of short-term borrowings on the existing Credit Facilities or other sources of liquidity and limit access to the Company’s commercial paper program. A prolonged period of low commodity prices and the global impact of the COVID-19 pandemic could affect the Company’s credit ratings in the future.
+Depending on the Company’s credit rating and market demand, the Company may issue from its two U.S. CP programs, which include a $1.5 billion program for Ovintiv Inc. and a $1.0 billion program for a Canadian subsidiary. As at December 31, 2020, the Company had approximately $352 million of commercial paper outstanding under its U.S. CP programs with an average remaining term of approximately 38 days and a weighted average interest rate of approximately 1.04 percent, which is supported by the Company’s Credit Facilities. As a result of the Company’s recent credit rating downgrade, the Company’s access to commercial paper may be limited. If future access to the U.S. CP programs is unavailable when the outstanding commercial paper comes due, the Company intends to repay any maturing balances using advances from the Company’s Credit Facilities or available cash on hand.
+The Credit Facilities, uncommitted demand lines, and cash and cash equivalents provide Ovintiv with total liquidity of approximately $3.3 billion. At December 31, 2020, Ovintiv also had approximately $68 million in undrawn letters of credit issued in the normal course of business primarily as collateral security, related to transportation arrangements and to support future abandonment liabilities. Further downgrades in the Company’s credit ratings could trigger additional collateral requirements to support existing agreements and such amounts could be material.
+In 2020, Ovintiv filed a U.S. shelf registration statement and a Canadian shelf prospectus, under which the Company may issue from time to time, debt securities, common stock, preferred stock, warrants, units, share purchase contracts and share purchase units in the U.S. and/or Canada. At December 31, 2020, $6.0 billion remained accessible under the Canadian shelf prospectus. The ability to issue securities under the U.S. shelf registration statement or Canadian shelf prospectus is dependent upon market conditions and securities law requirements.
+Ovintiv is currently in compliance with, and expects that it will continue to be in compliance with, all financial covenants under the Credit Facilities. Management monitors Debt to Adjusted Capitalization, which is a non-GAAP measure defined in the Non-GAAP Measures section of this MD&A, as a proxy for Ovintiv’s financial covenant under the Credit Facilities, which requires Debt to Adjusted capitalization to be less than 60 percent. As at December 31, 2020, the Company’s Debt to Adjusted Capitalization was 37 percent. The definitions used in the covenant under the Credit Facilities adjust capitalization for cumulative historical ceiling test impairments recorded in conjunction with the Company’s January 1, 2012 adoption of U.S. GAAP. Ovintiv does not expect the current COVID-19 pandemic to impact the Company’s ability to remain in compliance with its financial covenants under the Credit Facilities. Additional information on financial covenants can be found in Note 15 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Sources and Uses of Cash
+During 2020, the Company primarily generated cash through operating activities. The following table summarizes the sources and uses of the Company’s cash and cash equivalents.
+(1)
+Includes open market repurchases.
+Operating Activities
+Net cash from operating activities in 2020 was $1,895 million and was primarily a reflection of the impacts from lower average realized commodity prices and production volumes, partially offset by the Newfield acquisition in 2019, the effects of the commodity price mitigation program and changes in non-cash working capital.
+Additional detail on changes in non-cash working capital can be found in Note 26 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. Ovintiv expects it will continue to meet the payment terms of its suppliers.
+Non-GAAP Cash Flow in 2020 was $1,929 million and was primarily impacted by the items affecting cash from operating activities which are discussed below and in the Results of Operations section of this MD&A.
+2020 versus 2019
+Net cash from operating activities decreased $1,026 million compared to 2019 primarily due to:
+•
+Lower realized commodity prices ($1,482 million), lower production volumes ($308 million) and higher decommissioning payments primarily related to Deep Panuke ($69 million);
+partially offset by:
+•
+Higher realized gains on risk management in revenues ($342 million), lower operating expenses, excluding non-cash long-term incentive costs ($152 million), lower administrative expense, excluding non-cash long-term incentive costs and current expected credit losses ($105 million), which includes restructuring costs of $48 million, lower production, mineral and other taxes ($81 million), lower transportation and processing expenses ($56 million), changes in non-cash working capital ($52 million) and acquisition costs incurred in 2019 ($33 million).
+Investing Activities
+The Company’s primary investing activities are capital expenditures, divestitures and acquisitions, and are summarized in Notes 2, 8 and 9 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+2020 and 2019
+Net cash used in investing activities in 2020 was $1,864 million primarily due to capital expenditures. Capital expenditures decreased $890 million compared to 2019 due to the Company’s reduced capital program in response to the volatile market conditions in 2020, as discussed in the 2021 Outlook section of this MD&A.
+Acquisitions in 2020 were $19 million, which primarily included property purchases with oil and liquids rich potential. Acquisitions in 2019 were $65 million, which primarily included seismic purchases, water rights and property purchases with liquids-rich potential.
+Corporate acquisition in 2019 was $94 million which reflected the net cash acquired upon the Newfield business combination.
+Divestitures in 2020 were $89 million, which primarily included the sale of certain properties that did not complement Ovintiv’s existing portfolio of assets. Divestitures in 2019 were $197 million, which primarily included the sale of the Company’s Arkoma natural gas assets in Oklahoma, comprising approximately 140,000 net acres. Proceeds from the sale of the Arkoma natural gas assets were used to reduce the Company’s long-term debt.
+Financing Activities
+Net cash used in financing activities has been impacted by the Company’s strategy to enhance liquidity, strengthen its balance sheet by repaying or repurchasing existing debt, and returning value to stockholders through the purchase of shares of common stock and paying dividends.
+2020 versus 2019
+Net cash used in financing activities in 2020 decreased $1,032 million compared to 2019. The decrease was primarily due to the purchase of common shares under a NCIB and substantial issuer bid in 2019 ($1,250 million) as discussed in more detail below, and the repayment of long-term debt in 2019 ($500 million), partially offset by a decrease in net issuance of revolving long-term debt in 2020 ($446 million) and the open market repurchases of long-term debt in 2020 ($272 million) as discussed below.
+From time to time, Ovintiv may seek to retire or purchase the Company’s outstanding debt through cash purchases and/or exchanges for other debt or equity securities, in open market purchases, privately negotiated transactions or otherwise. Such repurchases or exchanges, if any, will depend on prevailing market conditions, the Company’s liquidity requirements, contractual restrictions and other factors. In 2020, the Company repurchased $302 million in principal amount of its senior notes in the open market for an aggregate cash payment of approximately $272 million, plus accrued interest, and recognized gains of approximately $30 million. Ovintiv utilized funds available from the Company’s credit facilities, cash on hand and cash from implementing cost savings initiatives to complete these open market repurchases. For additional information on the open market repurchases, refer to Note 15 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+The Company’s long-term debt, including the current portion of $518 million which is due November 2021, totaled $6,885 million at December 31, 2020 (2019 - $6,974 million). There was no current portion of long-term debt outstanding at December 31, 2019. As at December 31, 2020, over 80 percent of the Company’s fixed rate long-term debt is not due until 2024 and beyond. Since the second quarter of 2020, the Company has applied all excess cash flows to reduce its total long-term debt, and expects to achieve total long-term debt reduction of at least $1.25 billion by the end of 2021, exceeding the original announced debt reduction target of $1.0 billion. To date, the Company has repaid $481 million towards its total 2021 long-term debt reduction target. Total long-term debt includes revolving credit facilities and commercial paper balances. For additional information on long-term debt, refer to Note 15 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Dividends
+The Company pays quarterly dividends to common stockholders at the discretion of the Board of Directors.
+(1)
+Dividend payments per share reflect the Share Consolidation. Accordingly, the comparative period has been restated.
+On February 17, 2021, the Board of Directors declared a dividend of $0.09375 per share of common stock payable on March 31, 2021 to common stockholders of record as of March 15, 2021.
+Substantial Issuer Bid
+In 2019, the Company used cash on hand and issued commercial paper to purchase, for cancellation, approximately 47.3 million of its outstanding common shares, on a pre-Share Consolidation basis, or approximately 9.5 million common shares, on a post-Share Consolidation basis, for total consideration of approximately $213 million under its previously announced substantial issuer bid.
+For additional information on the substantial issuer bid, refer to Note 18 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Normal Course Issuer Bid
+In 2019, the Company used cash on hand to purchase, for cancellation, approximately 149.4 million common shares, on a pre-Share Consolidation basis or approximately 29.9 million common shares, on a post-Share Consolidation basis, for total consideration of approximately $1,037 million under its previous NCIB program.
+For additional information on the NCIB, refer to Note 18 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Off-Balance Sheet Arrangements
+The Company may enter into off-balance sheet arrangements and transactions that can give rise to material off-balance sheet obligations. The Company’s material off-balance sheet arrangements include transportation and processing agreements, and short-term leases and non-lease components associated with drilling rigs and building leases, as outlined in the Contractual Obligations table below, as well as undrawn letters of credit and minimum volumes sales contracts, all of which are customary agreements in the oil and gas industry. Other than the items discussed above, there are no other transactions, arrangements, or relationships with unconsolidated entities or persons that are reasonably likely to materially affect the Company’s liquidity or the availability of, or requirements for, capital resources.
+Contractual Obligations
+Contractual obligations arising from long-term debt, operating and finance leases, risk management liabilities and asset retirement obligations are recognized on the Company’s Consolidated Balance Sheet. The following table outlines the Company’s undiscounted obligations and commitments at December 31, 2020:
+(1)
+Includes The Bow office building.
+(2)
+Includes interest payments totaling $12 million.
+(3)
+Includes short-term leases with terms less than 12 months and non-lease operating cost components.
+Interest Payments on Long-Term Debt and Finance Leases represent scheduled cash payments on the respective obligations. Additional information can be found in Notes 15 and 14 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Operating Leases include drilling rigs, compressors, camps, office and buildings, certain land easements and various equipment utilized in the development and production of oil, NGLs and natural gas. The Company has also subleased approximately 50 percent of The Bow office space under the lease agreement. Sublease Income in the table above include the amounts expected to be recovered from the sublease. Additional information on leases can be found in Note 14 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Finance Leases relates to an office building and the remaining 2021 obligation related to the Deep Panuke Production Field Centre. Additional information can be found in Note 14 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Risk Management Liabilities represents Ovintiv’s net liability position with counterparties. Additional information can be found in Note 25 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Asset Retirement Obligation represents estimated costs arising from the obligation to fund the disposal of long-lived assets upon their abandonment. The majority of Ovintiv’s asset retirement obligations relate to the plugging of wells and related abandonment of oil and gas properties including processing plants and land restoration. Revisions to estimated retirement obligations can result from changes in regulatory requirements, changes in retirement cost estimates, revisions to estimated inflation rates and estimated timing of abandonment. Additional information can be found in Note 17 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Transportation and Processing commitments relate to contractual obligations for capacity rights with third-party pipelines and processing facilities. Drilling and Field Services commitments represent minimum future expenditures for drilling, well servicing and equipment commitment rights. Certain development commitments with joint interest partners are partially satisfied by Commitments included in the table above. Building Leases consist of various field and office building leases used in Ovintiv’s daily operations. Drilling and Field Services, and Building Leases include short-term leases with terms less than 12 months and non-lease operating cost components. Additional information can be found in Notes 14 and 27 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Further to the commitments disclosed above, Ovintiv also has various obligations that become payable if certain events occur including variable interests arising from gathering and compression agreements and guarantees on transportation commitments resulting from completed property divestitures as described in Notes 20, 25 and 27, respectively, to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+In addition, Ovintiv has purchase orders for the purchase of inventory and other goods and services, which typically represent authorization to purchase rather than binding agreements. The Company also has obligations to fund its defined benefit pension and other post-employment benefit plans, as well as unrecognized tax benefits where the settlement is not expected within the next 12 months as described in Notes 23 and 6, respectively, to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Ovintiv may have potential exposures related to previously divested properties where the purchasers typically assume all obligations to plug, abandon, and decommission the associated wells, structures, and facilities acquired. One or more of the counterparties in these transactions could, either as a result of the severe decline in oil and natural gas prices or other factors related to the historical or future operations of their respective businesses, face financial problems that may have a significant impact on their solvency and ability to continue as a going concern. If a purchaser becomes the subject of a proceeding under relevant insolvency laws or otherwise fails to perform required abandonment obligations, Ovintiv could be required to perform such actions under applicable federal laws and regulations. While the Company believes that the risk of such event occurring is low, the Company could be forced to use available cash to cover the costs of such liabilities and obligations should they arise.
+Contingencies
+For information on contingencies, refer to Note 27 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Accounting Policies and Estimates
+Critical Accounting Estimates
+The preparation of financial statements in accordance with U.S. GAAP requires management to make informed judgments and estimates that affect the reported amounts of assets, liabilities, revenues, and expenses. For a discussion of the Company’s significant accounting policies refer to Note 1 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. Changes in facts and circumstances or additional information may result in revised estimates, and actual results may differ from these estimates. Management considers the following to be its most critical accounting estimates that involve judgment. The following discussion outlines the accounting policies and practices involving the use of estimates that are critical to determining Ovintiv’s financial results. Changes in the estimates and assumptions discussed below could materially affect the amount or timing of the financial results of the Company.
+Description
+Judgments and Uncertainties
+Upstream Assets and Reserve Estimates
+As Ovintiv follows full cost accounting for oil, NGLs and natural gas activities, reserves estimates are a key input to the Company’s depletion, gain or loss on divestitures and ceiling test impairment calculations. In addition, these reserves are the basis for the Company’s supplemental oil and gas disclosures.
+Due to the inter-relationship of various judgments made to reserve estimates and the volatile nature of commodity prices, it is generally not possible to predict the timing or magnitude of ceiling test impairments.
+Ovintiv estimates its proved oil and gas reserves according to the definition of proved reserves provided by the SEC. The Company’s estimates of proved reserves are made using available geological and reservoir data as well as production performance data and must demonstrate with reasonable certainty to be economically producible in future periods from known reservoirs under existing economic conditions, operating methods and government regulations. The estimation of reserves is a subjective process.
+Revisions to reserve estimates are necessary due to changes in and among other things, development plans, projected future rates of production, the timing of future expenditures, reservoir performance, economic conditions, governmental restrictions as well as changes in the expected recovery associated with infill drilling, all of which are subject to numerous uncertainties and various interpretations. Downward revisions in proved reserve estimates due to changes in reserve estimates may increase depletion expense and may also result in a ceiling test impairment.
+Reserves are calculated using an unweighted arithmetic average of commodity prices in effect on the first day of each of the previous 12 months, held flat for the life of the production, except where prices are defined by contractual arrangements.
+Decreases in prices may result in reductions in certain proved reserves due to reaching economic limits at an earlier projected date and impact earnings through depletion expense and ceiling test impairments.
+Ovintiv manages its business using estimates of reserves and resources based on forecast prices and costs as it gives consideration to probable and possible reserves and future changes in commodity prices.
+Ovintiv believes that the discounted after-tax future net cash flows from proved reserves required to be used in the ceiling test calculation are not indicative of the fair market value of Ovintiv’s oil and natural gas properties or the future net cash flows expected to be generated from such properties.
+Business Combinations
+Ovintiv follows the acquisition method of accounting for business combinations. Assets acquired and liabilities assumed are recognized at the date of acquisition at their respective estimated fair values. Any excess of the purchase price over the fair value amounts assigned to assets and liabilities is recorded as goodwill. Any deficiency of the purchase price over the estimated fair values of the net assets acquired is recorded as a gain in net earnings.
+The most significant assumptions relate to the estimated fair values assigned to proved and unproved oil and natural gas properties. The assumptions made in performing these valuations include discount rates, future commodity prices and costs, the timing of development activities, projections of oil and gas reserves, estimates to abandon and reclaim producing wells and tax amortization benefits available to a market participant. Changes in key assumptions may cause the acquisition accounting to be revised, including the recognition of additional goodwill or discount on acquisition. There is no assurance the underlying assumptions or estimates associated with the valuation will occur as initially expected.
+Fair value estimates are determined based on information that existed at the time of the acquisition, utilizing expectations and assumptions that would be available to and made by a market participant. When market-observable prices are not available to value assets and liabilities, the Company may use the cost, income, or market valuation approaches depending on the quality of information available to support management’s assumptions.
+Estimated fair values assigned to assets acquired can have a significant effect on results of operations in the future through impairments of goodwill. In addition, differences between the future commodity prices when acquiring assets and the historical 12-month average trailing price to calculate ceiling test impairments of upstream assets may impact net earnings.
+Description
+Judgments and Uncertainties
+Goodwill Impairments
+Goodwill is assessed for impairment at least annually in December, at the reporting unit level which are Ovintiv’s country cost centres. To assess impairment, the carrying amount of each reporting unit is determined and compared to the fair value of each respective reporting unit. Any excess of the carrying value of the reporting unit, including goodwill, over its fair value is recognized as an impairment and charged to net earnings. The impairment charge measured is limited to the total amount of goodwill allocated to that reporting unit. Subsequent measurement of goodwill is at cost less any accumulated impairments.
+The most significant assumptions used to determine a reporting unit’s fair value include estimations of oil and natural gas reserves, including both proved reserves and risk-adjusted unproved reserves, estimates of market prices considering forward commodity price curves as of the measurement date, market discount rates and estimates of operating, administrative, and capital costs adjusted for inflation. In addition, management may support fair value estimates determined with comparable companies that are actively traded in the public market, recent comparable asset transactions, and transaction premiums. This would require management to make certain judgments about the selection of comparable companies utilized.
+Because quoted market prices for the Company’s reporting units are not available, management applies judgment in determining the estimated fair value of reporting units for purposes of performing goodwill impairment tests. Ovintiv may use a combination of the income and the market valuation approaches.
+Downward revisions of estimated reserves quantities, increases in future cost estimates, sustained decreases in oil or natural gas prices, or divestiture of a significant component of the reporting unit could reduce expected future cash flows and fair value estimates of the reporting units and possibly result in an impairment of goodwill in future periods.
+The Company has assessed its goodwill for impairment at December 31, 2020 and no impairment was recognized. The reporting units’ fair values were substantially in excess of the carrying values and as a result was not at risk of failing the impairment test as at December 31, 2020.
+Asset Retirement Obligation
+Asset retirement obligations are those legal obligations where the Company will be required to retire tangible long-lived assets such as producing well sites, processing plants, and restoring land at the end of oil and gas production operations. The fair value of estimated asset retirement obligations is recognized on the Consolidated Balance Sheet when incurred and a reasonable estimate of fair value can be made. The asset retirement cost, equal to the initially estimated fair value of the asset retirement obligation, is capitalized as part of the cost of the related long-lived asset. Changes in the estimated obligation are recognized as a change in the asset retirement obligation and the related asset retirement cost. Actual expenditures incurred are charged against the accumulated asset retirement obligation. Accretion expense is recognized over time as the discounted liability is accreted to its expected settlement value.
+Asset removal technologies and costs are constantly changing, as are regulatory, political, environmental, safety, and public relations considerations. The asset retirement obligation is estimated by discounting the expected future cash flows of the settlement. The discounted cash flows are based on estimates of such factors as reserves lives, retirement costs, timing of settlements, credit-adjusted risk-free rates and inflation rates. Changes in these estimates impact net earnings through accretion of the asset retirement obligation in addition to depletion of the asset retirement cost included in property, plant and equipment.
+Derivative Financial Instruments
+Ovintiv uses derivative financial instruments to manage its exposure to market risks relating to commodity prices, foreign currency exchange rates and interest rates. The Company’s policy is not to utilize derivative financial instruments for speculative purposes. Realized gains or losses from financial derivatives are recognized in net earnings as the contracts are settled. Unrealized gains and losses are recognized in net earnings at the end of each respective reporting period based on the changes in fair value of the contracts.
+Ovintiv’s derivative financial instruments primarily relate to commodities including oil, NGLs and natural gas. The most significant assumptions used in determining the fair value to the Company’s commodity derivatives financial instruments include estimates of future commodity prices, implied volatilities of commodity prices, discount rates and estimates of counterparty credit risk. These pricing and discounting variables are sensitive to the period of the contract and market volatility as well as regional price differentials. Changes in these estimates and assumptions can impact net earnings through decreased revenues or increased expenses.
+Derivative financial instruments are measured at fair value with changes in fair value recognized in net earnings. Fair value estimates are determined using quoted prices in active markets, inferred based on market prices of similar assets and liabilities or valued using internally developed estimates. The Company may use various valuation techniques including the discounted cash flow or option valuation models.
+As Ovintiv has chosen not to elect hedge accounting treatment for the Company’s derivative financial instruments, changes in the fair values of derivative financial instruments can have a significant impact on Ovintiv’s results of operations. Generally, changes in fair values of derivative financial instruments do not impact the Company’s liquidity or capital resources. Settlements of derivative financial instruments do have an impact on the Company’s liquidity and results of operation.
+Description
+Judgments and Uncertainties
+Income Taxes
+Ovintiv follows the liability method of accounting for income taxes. Under this method, deferred income taxes are recorded for the effect of any temporary difference between the accounting and income tax basis of an asset or liability, using the enacted income tax rates and laws expected to apply when the assets are realized and liabilities are settled. Current income taxes are measured at the amount expected to be recoverable from or payable to the taxing authorities based on the income tax rates and laws enacted at the end of the reporting period. The effect of a change in the enacted tax rates or laws is recognized in net earnings in the period of enactment.
+Tax interpretations, regulations and legislation, including U.S. Tax Reform, and potential Treasury Department regulations and guidance, in the various jurisdictions in which the Company and its subsidiaries operate are subject to change and interpretation. As such, income taxes are subject to measurement uncertainty and the interpretations can impact net earnings through the income tax expense arising from the changes in deferred income tax assets or liabilities.
+Deferred income tax assets are routinely assessed for realizability. If it is more likely than not that deferred tax assets will not be realized, a valuation allowance is recorded to reduce the deferred tax assets.
+Ovintiv considers available positive and negative evidence when assessing the realizability of deferred tax assets, including historic and expected future taxable earnings, available tax planning strategies and carry forward periods. Numerous judgments and assumptions are inherent in the determination of future taxable income, including factors such as future operating conditions, particularly related to oil and gas prices. As a result, the assumptions used in determining expected future taxable earnings are consistent with those used in the goodwill impairment assessment.
+Ovintiv’s interim income tax expense is determined using an estimated annual effective income tax rate applied to year-to-date net earnings before income tax plus the effect of legislative changes and amounts in respect of prior periods.
+The estimated annual effective income tax rate is impacted by expected annual earnings, statutory rate and other foreign differences, non-taxable capital gains and losses, tax differences on divestitures and transactions, and partnership tax allocations in excess of funding.
+Ovintiv recognizes the financial statement effects of a tax position when it is more likely than not, based on the technical merits, that the position will be sustained upon examination by a taxing authority. A recognized tax position is initially and subsequently measured as the largest amount of tax benefit that is greater than 50 percent likely of being realized upon settlement with a taxing authority. Liabilities for unrecognized tax benefits that are not expected to be settled within the next 12 months are included in other liabilities and provisions.
+The Company routinely assesses potential uncertain tax positions and, if required, establishes accruals for such amounts. The accruals are adjusted based on changes in facts and circumstances. Material changes to Ovintiv’s income tax accruals may occur in the future based on the progress of ongoing audits, changes in legislation or resolution of pending matters.
+The Company’s unremitted earnings from its foreign subsidiaries are considered to be permanently reinvested, as a result the Company does not calculate a deferred tax liability for domestic income taxes on these foreign earnings.
+Determination of unrecognized deferred income tax liabilities is not practicable due to the significant uncertainty in assumptions that would be required including determining the nature of any future remittances, that could be distributions in the form of non-taxable returns of capital or taxable earnings and associated withholding taxes, or determining the tax rates on any future remittances that could vary significantly depending on the available approaches to repatriate the earnings.
+Contingent Liabilities
+Ovintiv is subject to various legal proceedings, environmental remediation, commercial and regulatory claims and liabilities that arise in the ordinary course of business. The Company accrues losses when such losses are probable and reasonably estimable, except for contingencies acquired in a business combination which are recorded at fair value at the time of the acquisition. If a loss is probable but the Company cannot estimate a specific amount for that loss, the best estimate within the range is accrued and if no amount is better within the range, the minimum amount is accrued.
+The establishment and evaluation of a contingent loss is based on advice from legal counsel, advisors or consultants and management’s judgement. Actual costs can vary from such estimates for various reasons including: i) differing interpretation of the law, opinions on responsibility and assessments on the amount of damages; ii) changes in status of litigation or claims and information available; iii) differing interpretation of regulations by regulators or the courts; iv) changes in laws and regulations; and v) additional or developing information relating to extent and nature of environmental remediation and technology improvements. The Company continually monitors known and potential legal, environmental and other claims or contingencies based on available information. Future changes in facts and circumstances not currently foreseeable could result in the actual liabilities recorded exceeding the estimated amounts accrued.
+Recent Accounting Pronouncements
+For recently issued accounting policies, refer to Note 1 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Non-GAAP Measures
+Certain measures in this document do not have any standardized meaning as prescribed by U.S. GAAP and, therefore, are considered non-GAAP measures. These measures may not be comparable to similar measures presented by other issuers and should not be viewed as a substitute for measures reported under U.S. GAAP. These measures are commonly used in the oil and gas industry and by Ovintiv to provide shareholders and potential investors with additional information regarding the Company’s liquidity and its ability to generate funds to finance its operations. Non-GAAP measures include: Non-GAAP Cash Flow, Non-GAAP Cash Flow Margin, Total Costs, Debt to Adjusted Capitalization and Net Debt to Adjusted EBITDA. Management’s use of these measures is discussed further below.
+Non-GAAP Cash Flow and Non-GAAP Cash Flow Margin
+Non-GAAP Cash Flow is a non-GAAP measure defined as cash from (used in) operating activities excluding net change in other assets and liabilities, net change in non-cash working capital and current tax on sale of assets.
+Non-GAAP Cash Flow Margin is a non-GAAP measure defined as Non-GAAP Cash Flow per BOE of production.
+Management believes these measures are useful to the Company and its investors as a measure of operating and financial performance across periods and against other companies in the industry, and are an indication of the Company’s ability to generate cash to finance capital programs, to service debt and to meet other financial obligations. These measures are used, along with other measures, in the calculation of certain performance targets for the Company’s management and employees.
+(1)
+2020 include restructuring costs of $90 million. 2019 includes restructuring costs of $138 million and acquisition costs of $33 million.
+Total Costs
+Total Costs is a non-GAAP measure which includes the summation of production, mineral and other taxes, upstream transportation and processing expense, upstream operating expense and administrative expense, excluding the impact of long-term incentive costs, restructuring costs and current expected credit losses. It is calculated as total operating expenses excluding non-upstream operating costs and non-cash items which include operating expenses from the Market Optimization and Corporate and Other segments, depreciation, depletion and amortization, impairments, accretion of asset retirement obligation, long-term incentive costs, restructuring costs and current expected credit losses. When presented on a per BOE basis, Total Costs is divided by production volumes. Management believes this measure is useful to the Company and its investors as a measure of operational efficiency across periods.
+(1)
+Calculated using whole dollars and volumes.
+Debt to Adjusted Capitalization
+Debt to Adjusted Capitalization is a non-GAAP measure which adjusts capitalization for historical ceiling test impairments that were recorded as at December 31, 2011. Management monitors Debt to Adjusted Capitalization as a proxy for the Company’s financial covenant under the Credit Facilities which require debt to adjusted capitalization to be less than 60 percent. Adjusted Capitalization includes debt, total shareholders’ equity and an equity adjustment for cumulative historical ceiling test impairments recorded as at December 31, 2011 in conjunction with the Company’s January 1, 2012 adoption of U.S. GAAP.
+Net Debt to Adjusted EBITDA
+Net Debt to Adjusted EBITDA is a non-GAAP measure whereby Net Debt is defined as long-term debt, including the current portion, less cash and cash equivalents and Adjusted EBITDA is defined as trailing 12-month net earnings (loss) before income taxes, DD&A, impairments, accretion of asset retirement obligation, interest, unrealized gains/losses on risk management, foreign exchange gains/losses, gains/losses on divestitures and other gains/losses.
+Management believes this measure is useful to the Company and its investors as a measure of financial leverage and the Company’s ability to service its debt and other financial obligations. This measure is used, along with other measures, in the calculation of certain financial performance targets for the Company’s management and employees.
+(1)
+Adjusted EBITDA for 2019 only includes Newfield’s results of operations for the post-acquisition period from February 14, 2019 to December 31, 2019.

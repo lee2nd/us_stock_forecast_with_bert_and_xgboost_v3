@@ -1,0 +1,33 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of the financial condition and results of operations of Nasdaq should be read in conjunction with our consolidated financial statements and related notes included in this Form 10-K, as well as the discussion under “Item 1A. Risk Factors.” For further discussion of our growth strategy, products and services, and competitive strengths, see “Item 1. Business.” Unless stated otherwise, the comparisons presented in this discussion and analysis refer to the year-over-year comparison of changes in our financial condition and results of operations as of and for the fiscal years ended December 31, 2020 and December 31, 2019. Discussion of fiscal year 2018 items and the year-over year comparison of changes in our financial condition and results of operations as of and for the fiscal years ended December 31, 2019 and December 31, 2018 can be found in Part II, “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019, which was previously filed with the SEC on February 25, 2020.
+Business Segments
+We manage, operate and provide our products and services in four business segments: Market Services, Corporate Platforms, Investment Intelligence and Market Technology. See Note 1, “Organization and Nature of Operations,” and Note 19, “Business Segments,” to the consolidated financial statements for further discussion of our reportable segments and geographic data, as well as how management allocates resources, assesses performance and manages these businesses as four separate segments.
+Impact of COVID-19 on Our Business
+For a discussion of the impact of COVID-19 on our business, see “Item 1A. Risk Factors - Risks Related To Our Business and Industry - The COVID-19 pandemic could have an adverse effect on our business, financial condition, liquidity or results of operations,” and “Liquidity and Capital Resources.”
+Sources of Revenues and Transaction-Based Expenses
+See “Revenue Recognition and Transaction-Based Expenses,” of Note 2, “Summary of Significant Accounting Policies,” to the consolidated financial statements for further discussion of our sources of revenues and transaction-based expenses.
+Nasdaq’s Operating Results
+Key Drivers
+The following table and charts include key drivers and other metrics for our Market Services, Corporate Platforms, Investment Intelligence and Market Technology segments. In evaluating the performance of our business, our senior management closely evaluates these key drivers.
+____________
+(1) Includes Finnish option contracts traded on Eurex for which Nasdaq and Eurex have a revenue sharing arrangement.
+(2) Includes transactions executed on The Nasdaq Stock Market’s, Nasdaq BX’s and Nasdaq PSX’s systems plus trades reported through the FINRA/Nasdaq Trade Reporting Facility.
+(3) Transactions executed on Nasdaq Commodities or OTC and reported for clearing to Nasdaq Commodities measured by Terawatt hours (TWh).
+(4) New listings include IPOs, including issuers that switched from other listing venues, closed-end funds and separately listed ETPs.
+(5) New listings include IPOs and represent companies listed on the Nasdaq Nordic and Nasdaq Baltic exchanges and companies on the alternative markets of Nasdaq First North.
+(6) Number of total listings on The Nasdaq Stock Market at period end, including 412 ETPs as of December 31, 2020, 412 as of December 31, 2019 and 392 as of December 31, 2018.
+(7) Represents companies listed on the Nasdaq Nordic and Nasdaq Baltic exchanges and companies on the alternative markets of Nasdaq First North.
+(8) Total contract value of orders signed during the period.
+(9) ARR for a given period is the annualized revenue of active Market Technology support and SaaS subscription contracts. ARR is currently one of our key performance metrics to assess the health and trajectory of our recurring business. ARR does not have any standardized definition and is therefore unlikely to be comparable to similarly titled measures presented by other companies. ARR should be viewed independently of revenue and deferred revenue and is not intended to be combined with or to replace either of those items. ARR is not a forecast and the active contracts at the end of a reporting period used in calculating ARR may or may not be extended or renewed by our customers.
+The following chart summarizes our annualized recurring revenue, or ARR (in millions):
+ARR for a given period is the annualized revenue derived from subscription contracts with a defined contract value. This excludes contracts that are not recurring, are one-time in nature, or where the contract value fluctuates based on defined metrics. ARR is currently one of our key performance metrics to assess the health and trajectory of our recurring business. ARR does not have any standardized definition and is therefore unlikely to be comparable to similarly titled measures presented by other companies. ARR should be viewed independently of revenue and deferred revenue and is not intended to be combined with or to replace either of those items. ARR is not a forecast and the active contracts at the end of a reporting period used in calculating ARR may or may not be extended or renewed by our customers.
+____________
+Includes:
+◦Trade Management Services business, excluding one-time service requests.
+◦U.S. and Nordic annual listing fees, IR and ESG products, including subscription contracts for IR Insight, Boardvantage and OneReport, and IR advisory services.
+◦Proprietary market data and index data subscriptions as well as subscription contracts for eVestment, Solovis, DWA tools and services, Nasdaq Fund Network and Quandl. Also includes guaranteed minimum on futures contracts within the Index business.
+◦Active Market Technology support and SaaS subscription contracts.
+The following chart summarizes our SaaS revenues for the years ended December 31, 2018, 2019 and 2020 (in millions):
+Financial Summary
+The following table summarizes our financial performance for the year ended December 31, 2020 when compared to the same period in 2019 and for the year ended December 31, 2019 when compared with the same period in 2018. For a detailed discussion of our results of operations, see “Segment Operating Results” below.
+In countries with currencies other than the U.S. dollar, revenues and expenses are translated using monthly average exchange rates. Impacts on our revenues less transaction-based expenses and operating income associated with fluctuations in foreign currency are discussed in more detail under “

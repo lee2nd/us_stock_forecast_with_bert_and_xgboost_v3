@@ -1,0 +1,476 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+the time the assets are realized, and/or the liabilities settled. An offsetting valuation allowance is recorded when it is more likely than not that some or all of the deferred income tax assets won’t be realized. Any significant changes to the estimates and judgments with respect to the interpretations, timing or deductibility could result in a material change to earnings and cash flows. For a more detailed description of Income Taxes see Note 13. Income Taxes in the accompanying Consolidated Financial Statements.
+For state income tax and other taxes, estimates and judgments are required with respect to the apportionment among the various jurisdictions. In addition, we operate within multiple tax jurisdictions and are subject to audits in these jurisdictions. These audits can involve complex issues, which may require an extended period of time to resolve. We maintain a liability for the estimate of potential income tax exposure and, in our opinion, adequate provisions for income taxes have been made for all years reported. Any significant changes to the estimates and judgments with respect to the apportionment factor could result in a material change to earnings and cash flows.
+Occasionally, the federal and state taxing authorities determine that it is necessary to make certain changes to the income tax laws. These changes may include but are not limited to changes in the tax rates and/or the treatment of certain items of income or expense. Accounting guidance requires that the Company reflect the effect of tax laws or tax rates at the date of enactment. Additionally, the Company is required to re-measure its deferred tax assets and liabilities as of the date of enactment. For non-regulated entities, the effect of changes in tax rates and/or tax laws are required to be included in income from continuing operations for the period that includes the enactment date. For regulated entities, if as the result of an action by a regulator it is probable that the future increase or decrease in taxes payable for items such as changes in tax law or rates will be recovered from or returned to customers through future rates, an asset or liability shall be recognized for that probable increase or decrease in future revenue. Accounting guidance also requires that regulatory liabilities and/or assets be considered a temporary difference for which a related deferred tax asset and/or liability shall be recognized.
+Accounting guidance requires that we establish reserves for uncertain tax positions when it is more likely than not that the positions will not be sustained when challenged by taxing authorities. Any changes to the estimates and judgments with respect to the interpretations, timing or deductibility could result in a change to earnings and cash flows. Interest and penalties related to unrecognized tax benefits, if any, are recognized within income tax expense and accrued interest, and penalties are recognized within accrued taxes on the Consolidated Balance Sheets.
+To the extent that NJNG invests in property that qualifies for ITCs, the ITC is deferred and amortized to income over the life of the equipment in accordance with regulatory treatment. In general, for our unregulated subsidiaries, we record ITCs on the balance sheet as a contra-asset as a reduction to property, plant and equipment when the property is placed in service. The contra asset is amortized on the Consolidated Statements of Operations as a reduction to depreciation expense, over the useful lives of the related assets.
+Changes to the federal statutes related to ITCs, which have the effect of reducing or eliminating the credits, could have a negative impact on earnings and cash flows.
+Recently Issued Accounting Standards
+Refer to Note 2. Summary of Significant Accounting Policies in the accompanying Consolidated Financial Statements for discussion of recently issued accounting standards.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Management’s Overview
+Consolidated
+NJR is a diversified energy services holding company providing retail natural gas service in New Jersey and wholesale natural gas and related energy services to customers in the U.S. and Canada. In addition, we invest in clean energy projects, storage and transportation assets and provide various repair, sales and installation services. A more detailed description of our organizational structure can be found in Item 1. Business.
+The following sections include a discussion of results for fiscal 2021 compared to fiscal 2020. The comparative results for fiscal 2020 with fiscal 2019 have been omitted from this Form 10-K, but may be found in Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in Exhibit Number 99.1 on Form 8-K, filed with the SEC on September 27, 2021.
+Reporting Segments
+We have four primary reporting segments as presented in the chart below:
+In addition to our four reporting segments above, we have non-utility operations that either provide corporate support services or do not meet the criteria to be treated as a separate reporting segment. These operations, which comprise Home Services and Other, include: appliance repair services, sales and installations at NJRHS and commercial real estate holdings at CR&R.
+Impacts of the COVID-19 Pandemic
+We closely monitor developments related to the COVID-19 pandemic and have taken steps intended to limit potential exposure for our employees and those we serve. We have also taken proactive steps to ensure business continuity in the safe operation of our business. Both NJR and NJNG continue to have sufficient liquidity to meet their current obligations, and business operations remain fundamentally unchanged at this time. This remains an evolving situation, and we cannot predict the extent or duration of the outbreak, the effects of the pandemic on the global, national or local economy or its effects on our
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+financial condition, results of operations and cash flows. We cannot predict the nature and extent of impacts to future operations. We will continue to monitor developments affecting our employees, customers and operations and take additional steps to address the COVID-19 pandemic and its impacts, as necessary.
+Operating Results
+Net income (loss) and assets by reporting segment and operations for the fiscal years ended September 30, are as follows:
+(1)Consists of transactions between subsidiaries that are eliminated in consolidation.
+The decrease in net income of $45.1 million during fiscal 2021, compared with fiscal 2020, was driven primarily by the impairment of our equity method investment in PennEast, partially offset by increased earnings at Energy Services due to strong market demand related to the extreme cold weather during February 2021. The primary drivers of the changes noted above are described in more detail in the individual segment discussions.
+The increase in assets during fiscal 2021, compared with fiscal 2020, was additional investment in utility plant in our Natural Gas Distribution segment, solar asset investments at Clean Energy Ventures, and increased infrastructure spend in Storage and Transportation primarily related to the on-going conversion and construction of the southern end of Adelphia Gateway, along with an increase in accounts receivable at Energy Services, partially offset by the impairment of our equity method investment in PennEast.
+Non-GAAP Financial Measures
+Our management uses NFE, a non-GAAP financial measure, when evaluating our operating results. Energy Services economically hedges its natural gas inventory with financial derivative instruments. NFE is a measure of the earnings based on eliminating timing differences surrounding the recognition of certain gains or losses, to effectively match the earnings effects of the economic hedges with the physical sale of natural gas and, therefore, eliminates the impact of volatility to GAAP earnings associated with the derivative instruments. To the extent we utilize forwards, futures or other derivatives to hedge forecasted SREC production, unrealized gains and losses are also eliminated from NFE. NFE also excludes impairment charges associated with equity method investments, which are a non-cash charge considered unusual in nature that occur infrequently and are not indicative of the Company's performance for our ongoing operations. Included in the tax effects are current and deferred income tax expense corresponding with the components of NFE.
+Non-GAAP financial measures are not in accordance with, or an alternative to, GAAP and should be considered in addition to, and not as a substitute for or a replacement of, the comparable GAAP measure and should be read in conjunction with those GAAP results.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Below is a reconciliation of consolidated net income, the most directly comparable GAAP measure, to NFE for the fiscal years ended September 30:
+(1)Effects of hedging natural gas inventory transactions where the economic impact is realized in a future period.
+NFE by reporting segment and other operations for the fiscal years ended September 30, discussed in more detail within the operating results sections of each segment, is summarized as follows:
+(1) Consists of transactions between subsidiaries that are eliminated in consolidation.
+The increase in NFE of $42.4 million during fiscal 2021, compared with fiscal 2020, was due primarily to increased earnings at Energy Services as previously discussed.
+Natural Gas Distribution Segment
+Overview
+Our Natural Gas Distribution segment is comprised of NJNG, a natural gas utility that provides regulated natural gas service throughout Burlington, Middlesex, Monmouth, Morris, Ocean and Sussex counties in New Jersey to approximately 564,000 residential and commercial customers in its service territory and also participates in the off-system sales and capacity release markets. The business is subject to various risks, including those risks associated with COVID-19, which may include but are not limited to impacts to customer growth and customer usage, customer collections, the timing and costs of capital expenditures and construction of infrastructure projects, operating and financing costs, fluctuations in commodity prices and customer conservation efforts. In addition, NJNG may be subject to adverse economic conditions, certain regulatory actions, environmental remediation and severe weather conditions. It is often difficult to predict the impact of events or trends associated with these risks.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+NJNG’s business is seasonal by nature, as weather conditions directly influence the volume of natural gas delivered to customers on an annual basis. Specifically, customer demand substantially increases during the winter months when natural gas is used for heating purposes. As a result, NJNG receives most of its natural gas distribution revenues during the first and second fiscal quarters and is subject to variations in earnings and working capital during the fiscal year.
+As a regulated company, NJNG is required to recognize the impact of regulatory decisions on its financial statements. See Note 4. Regulation in the accompanying Consolidated Financial Statements for a more detailed discussion on regulatory actions, including filings related to programs and associated expenditures, as well as rate requests related to recovery of capital investments and operating costs.
+NJNG’s operations are managed with the goal of providing safe and reliable service, growing its customer base, diversifying its utility gross margin, promoting clean energy programs and mitigating the risks discussed above.
+Base Rate Case
+On March 30, 2021, NJNG filed a base rate case with the BPU requesting a natural gas revenue increase of $165.7 million including a rate recovery for SRL and other infrastructure investments. On July 9, 2021, the Company updated its base rate request to $163.9 million, based on nine months of actual information through June 30, 2021. On September 23, 2021, NJNG filed its second update to the base rate case. The updated filing seeks a base rate increase of $162.5 million. On November 17, 2021, the BPU issued an order adopting a stipulation of settlement approving a $79.0 million increase to base rates, effective December 1, 2021. The increase includes an overall rate of return on rate base of 6.84 percent, return on common equity of 9.6 percent, a common equity ratio of 54.0 percent and a composite depreciation rate of 2.78 percent.
+Infrastructure Projects
+NJNG has significant annual capital expenditures associated with the management of its natural gas distribution and transmission system, including new utility plant associated with customer growth and its associated PIM and infrastructure programs. Below is a summary of NJNG’s capital expenditures, including accruals for fiscal 2021 and estimates of expected investments over the next fiscal year:
+Estimated capital expenditures are reviewed on a regular basis and may vary based on the ongoing effects of regulatory oversight, environmental regulations, unforeseen events and the ability to access capital.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Infrastructure Investment Program
+On February 28, 2019, NJNG filed a petition with the BPU seeking authority to implement a five-year IIP. The IIP consisted of two components: transmission and distribution investments and information technology replacement and enhancements. The total investment for the IIP was approximately $507.0 million. All approved investments will be recovered through annual filings to adjust base rates. On October 28, 2020, the BPU approved the Company’s transmission and distribution component of the IIP for $150.0 million over five years, effective November 1, 2020. NJNG voluntarily withdrew the information technology upgrade component and will seek to recover associated costs in future rate case proceedings.
+SAFE II and NJ RISE
+NJNG continues to implement BPU-approved infrastructure projects that are designed to enhance the reliability and integrity of NJNG’s natural gas distribution system.
+The BPU approved the 5-year SAFE II program and the associated rate mechanism to replace the remaining unprotected steel mains and services from NJNG’s natural gas distribution system at an estimated cost of approximately $200.0 million, excluding AFUDC. With the approval of SAFE II, $157.5 million was approved for accelerated cost recovery methodology. The remaining $42.5 million in capital expenditures must be requested for recovery in base rate cases, of which $23.4 million was approved in NJNG’s 2019 base rate case with the remainder included in the 2021 base rate case.
+The BPU approved NJNG’s NJ RISE capital infrastructure program, which consists of six capital investment projects estimated to cost $102.5 million, excluding AFUDC, for natural gas distribution storm hardening and mitigation projects, along with associated depreciation expense. These system enhancements are intended to minimize service impacts during extreme weather events to customers in the most storm-prone areas of NJNG’s service territory. Recovery of NJ RISE investments is included in NJNG’s base rates.
+On March 30, 2020, NJNG filed a petition with the BPU requesting a rate increase of approximately $7.4 million for the recovery associated with NJ RISE and SAFE II capital investment costs of approximately $57.9 million. On July 24, 2020, the Company updated the filing with actual information through June 30, 2020 and the revised rate increase requested was $7.1 million based on $55.1 million of actual capital investments. On September 9, 2020, the BPU approved the increase to base rate revenue, effective October 1, 2020.
+On March 31, 2021, NJNG filed a petition with the BPU requesting the final base rate increase of approximately $311,000 for the recovery associated with NJ RISE and SAFE II capital investments cost of approximately $3.4 million made through June 30, 2021. On June 22, 2021, this filing was consolidated with the 2021 base rate case and on July 30, 2021, was updated for actual information through June 30, 2021, which revised the increase requested to $269,000. On November 17, 2021, the BPU issued an order for the consolidated matter which included approval for the final increase for the NJ RISE/SAFE II programs for the requested $269,000.
+Southern Reliability Link
+The SRL is an approximately 30-mile, 30-inch transmission main designed to support improved system reliability and integrity in the southern portion of NJNG’s service territory. Construction began on the project in December 2018 and SRL was placed in service during August 2021.
+Customer Growth
+In conducting NJNG’s business, management focuses on factors it believes may have significant influence on its future financial results. NJNG’s policy is to work with all stakeholders, including customers, regulators and policymakers, to achieve favorable results. These factors include the rate of NJNG’s customer growth in its service territory, which can be influenced by political and regulatory policies, the delivered cost of natural gas compared with competing fuels, interest rates and general economic and business conditions.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+NJNG’s total customers as of September 30, include the following:
+During fiscal 2021, NJNG added 7,854 new customers. NJNG expects these new customer additions, and those customers who added additional natural gas services to their premises to contribute approximately $5.6 million to utility gross margin during fiscal 2022. NJNG also added 8,349 and 9,711 new customers during the fiscal years ended September 30, 2020 and 2019, respectively.
+NJNG continues to expect to add approximately 28,000 to 30,000 new customers during the three-year period of fiscal 2022 to 2024. Based on information from municipalities and developers, as well as external industry analysts and management’s experience, NJNG estimates that approximately 63 percent of the growth will come from new construction markets and 37 percent from customer conversions to natural gas from other fuel sources. This new customer and conversion growth would increase utility gross margin under NJNG's base rates by approximately $6.2 million annually, as calculated under NJNG's CIP tariff. See the Natural Gas Distribution Segment Operating Results section that follows for a definition and further discussion of utility gross margin.
+Energy Efficiency Programs
+SAVEGREEN conducts home energy audits and provides various grants, incentives and financing alternatives designed to encourage the installation of high-efficiency heating and cooling equipment and other energy efficiency upgrades. Depending on the specific incentive or approval, NJNG recovers costs associated with the programs over a two- to 10-year period through a tariff rider mechanism. On March 3, 2021, the BPU approved a three-year SAVEGREEN program consisting of approximately $126.1 million of direct investment, $109.4 million in financing options, and approximately $23.4 million in operation and maintenance expenses, which resulted in a $15.6 million annual recovery increase, effective July 1, 2021.
+On May 29, 2020, NJNG filed a petition with the BPU for a slight decrease in its EE recovery rate. Throughout the course of the proceeding, NJNG updated the filing with additional actual information. Based on the updated information, the BPU approved NJNG to maintain its existing rate, which will result in an annual recovery of approximately $11.4 million, effective November 1, 2020.
+On June 11, 2021, NJNG submitted its annual cost recovery filing for the SAVEGREEN programs established from 2010 through 2018. If approved, the proposed rate increase will increase annual recoveries by $2.2 million, expected to be effective in early 2022.
+The following table summarizes loans, grants, rebates and related investments as of September 30:
+Program recoveries from customers during the fiscal year ended September 30, 2021 and 2020, were $12.4 million and $10.3 million, respectively. The recovery includes a weighted average cost of capital that ranges from 6.69 percent to 7.76 percent, with a return on equity of 9.6 percent to 10.3 percent.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Conservation Incentive Program/BGSS
+The CIP facilitates normalizing NJNG’s utility gross margin for variances not only due to weather but also for other factors affecting customer usage, such as conservation and energy efficiency. Recovery of utility gross margin for the non-weather variance through the CIP is limited to the amount of certain natural gas supply cost savings achieved and is subject to a variable margin revenue test. Additionally, recovery of the CIP utility gross margin is subject to an annual earnings test. An annual review of the CIP must be filed by June 1, coincident with NJNG’s annual BGSS filing, during which NJNG can request rate changes to the CIP.
+NJNG’s total utility firm gross margin includes the following adjustments related to the CIP mechanism:
+(1)Compared with the CIP 20-year average, weather was 6.5 percent, 7.6 percent and 1 percent warmer-than-normal during fiscal 2021, 2020 and 2019 respectively.
+Recovery of Natural Gas Costs
+NJNG’s cost of natural gas is passed through to our customers, without markup, by applying NJNG’s authorized BGSS rate to actual therms delivered. There is no utility gross margin associated with BGSS costs; therefore, changes in such costs do not impact NJNG’s earnings. NJNG monitors its actual natural gas costs in comparison to its BGSS rates to manage its cash flows associated with its allowed recovery of natural gas costs, which is facilitated through BPU-approved deferred accounting and the BGSS pricing mechanism. Accordingly, NJNG occasionally adjusts its periodic BGSS rates or can issue credits or refunds, as appropriate, for its residential and small commercial customers when the commodity cost varies from the existing BGSS rate. BGSS rates for its large commercial customers are adjusted monthly based on NYMEX prices.
+NJNG’s residential and commercial markets are currently open to competition, and its rates are segregated between BGSS (i.e., natural gas commodity) and delivery (i.e., transportation) components. NJNG earns utility gross margin through the delivery of natural gas to its customers and, therefore, is not negatively affected by customers who use its transportation service and purchase natural gas from another supplier. Under an existing order from the BPU, BGSS can be provided by suppliers other than the state’s natural gas utilities; however, customers who purchase natural gas from another supplier continue to use NJNG for transportation service.
+On November 20, 2020, NJNG notified the BPU of its intent to provide BGSS bill credits to residential and small commercial sales customers effective December 1, 2020 to December 31, 2020. On December 22, 2020, NJNG notified the BPU of the extension of the BGSS bill credits through January 31, 2021. The actual bill credits given to customers totaled $20.6 million, $19.3 million net of tax.
+On March 3, 2021, the BPU approved, on a final basis, NJNG’s annual petition to modify its BGSS, balancing charge and CIP rates for residential and small commercial customers. The rate changes resulted in a $20.4 million decrease to the annual revenues credited to BGSS, a $3.8 million annual decrease related to its balancing charge, as well as changes to CIP rates, which resulted in a $16.5 million annual recovery increase, effective October 1, 2020. The balancing charge rate includes the cost of balancing natural gas deliveries with customer usage for sales and transportation customers and balancing charge revenues are credited to BGSS.
+On May 28, 2021, NJNG submitted its annual petition to modify its BGSS, balancing charge and CIP rates. On November 17, 2021, the BPU approved a $2.9 million increase to the annual revenues credited to BGSS, a $13.0 million annual increase related to its balancing charge, as well as changes to CIP rates, which result in a $6.3 million decrease to our annual recovery decrease, effective December 1, 2021.
+Refer to Note 4. Regulation - BGSS and CIP in the accompanying Consolidated Financial Statements for a further discussion of NJNG’s periodic BGSS and CIP rate adjustments.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+BGSS Incentive Programs
+NJNG is eligible to receive financial incentives for reducing BGSS costs through a series of utility gross margin-sharing programs that include off-system sales, capacity release and storage incentive programs. These programs are designed to encourage better utilization and hedging of NJNG’s natural gas supply, transportation and storage assets. Depending on the program, NJNG shares 80 or 85 percent of utility gross margin generated by these programs with firm customers. Utility gross margin from incentive programs was $13.4 million, $9.5 million and $8.4 million during the fiscal years ended September 30, 2021, 2020 and 2019, respectively.
+Hedging
+In order to provide relative price stability to its natural gas supply portfolio, NJNG employs a hedging strategy with the goal of having at least 75 percent of the Company’s projected winter periodic BGSS natural gas sales volumes hedged by each November 1 and at least 25 percent of the projected periodic BGSS natural gas sales hedged for the following April-through-March period. This is accomplished with the use of various financial instruments including futures, swaps and options used in conjunction with commodity and/or weather-related hedging activity.
+Commodity Prices
+Our Natural Gas Distribution segment is affected by the price of natural gas, which can have a significant impact on our cash flows, short-term financing costs, the price of natural gas charged to our customers through the BGSS clause, our ability to collect accounts receivable, which impacts our bad debt expense, and our ability to maintain a competitive advantage over other energy sources. Natural gas commodity prices are shown in the graph below, which illustrates the daily natural gas prices(1) in the Northeast market region, also known as TETCO M-3.
+(1) Data sourced from S&P Global Platts.
+The maximum price per MMBtu was $14.57, $5.59 and $9.17 and the minimum price was $0.28, $0.68 and $1.09 for the fiscal years ended September 30, 2021, 2020 and 2019, respectively. A more detailed discussion of the impacts of the price of natural gas on operating revenues, natural gas purchases and cash flows can be found in the Results of Operations and Cash Flow sections of Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Societal Benefits Charge
+NJNG’s qualifying customers are eligible for the USF program, which is administered by the New Jersey Department of Community Affairs, to help make energy bills more affordable. On June 25, 2020, NJNG filed its annual USF compliance filing proposing a decrease to the statewide USF rate, which will result in annual decreases of approximately $400,000. On September 23, 2020, the BPU approved the decrease, effective October 1, 2020.
+On March 16, 2020, the BPU approved on a final basis NJNG's annual SBC application including recovery of remediation expenses, an increase in the RAC of approximately $1.2 million annually and an annual decrease to the NJCEP factor of $600,000, which was effective April 1, 2020.
+On April 7, 2021, the BPU approved on a final basis NJNG's annual SBC application to recover remediation expenses, including an increase in the RAC, of approximately $1.3 million annually and an increase to the NJCEP factor, of approximately $6.0 million, which was effective May 1, 2021.
+On June 25, 2021, NJNG filed its annual USF compliance filing proposing an increase to the statewide USF rate, which will result in an annual increase of approximately $4.9 million. On September 14, 2021, the BPU approved the increase, effective October 1, 2021.
+On September 30, 2021, NJNG filed its annual SBC application requesting recovery of remediation expenses, an increase in the RAC of approximately $2.0 million annually and an annual decrease to the NJCEP factor of $500,000 effective April 1, 2022.
+Environmental Remediation
+NJNG is responsible for the environmental remediation of former MGP sites, which contain contaminated residues from former gas manufacturing operations that ceased operating at these sites by the mid-1950s and, in some cases, had been discontinued many years earlier. Actual MGP remediation costs may vary from management’s estimates due to the developing nature of remediation requirements, regulatory decisions by the NJDEP and related litigation. NJNG reviews these costs at the end of each fiscal year and adjusts its liability and corresponding regulatory asset as necessary to reflect its expected future remediation obligation. Accordingly, NJNG recognized a regulatory asset and an obligation of $135.0 million as of September 30, 2021, a decrease of $15.6 million compared with the prior fiscal period.
+In June 2019, NJNG initiated a preliminary assessment of a site in Aberdeen, New Jersey to determine prior ownership and if former MGP operations were active at the location. The preliminary assessment and site investigation activities are ongoing at the Aberdeen, NJ site location and based on initial findings will be moving to remedial investigation phase. The costs associated with preliminary assessment, site investigation and remedial investigation activities are considered immaterial and are included as a component of NJNG’s annual SBC application to recover remediation expenses. We will continue to gather information to further refine and enhance its estimate of potential costs for this site as it becomes available. See Note 15. Commitments and Contingent Liabilities for a more detailed description.
+Other regulatory filings and a more detailed discussion of the filings in this section can be found in Note 4. Regulation in the accompanying Consolidated Financial Statements.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Operating Results
+NJNG’s operating results for the fiscal years ended September 30, are as follows:
+(1)Includes the purchased cost of the natural gas, fees paid to pipelines and storage facilities, adjustments as a result of BGSS incentive programs and hedging transactions. These expenses are passed through to customers and are offset by corresponding revenues.
+(2)Includes related party transactions of approximately $13.0 million, $11.5 million and $16.2 million during fiscal 2021, 2020 and 2019, respectively, a portion of which are eliminated in consolidation.
+(3)Consists of expenses associated with state-mandated programs, the RAC and energy efficiency programs, and are calculated on a per-therm basis. These expenses are passed through to customers and are offset by corresponding revenues.
+Operating Revenues and Natural Gas Purchases
+Operating revenues remained relatively flat during fiscal 2021 compared with fiscal 2020. Natural gas purchases decreased 9.3 percent during fiscal 2021 compared with fiscal 2020. The factors contributing to the increases and decreases in operating revenues and natural gas purchases during fiscal 2021, are as follows:
+(1)Other includes changes in rider rates, including those related to EE, NJCEP and other programs.
+Non-GAAP Financial Measures
+Management uses utility gross margin, a non-GAAP financial measure, when evaluating the operating results of NJNG. NJNG’s utility gross margin is defined as natural gas revenues less natural gas purchases, sales tax and regulatory rider expenses, and may not be comparable to the definition of gross margin used by others in the natural gas distribution business and other industries. Management believes that utility gross margin provides a meaningful basis for evaluating utility operations since natural gas costs, sales tax and regulatory rider expenses are included in operating revenues and passed through to customers and, therefore, have no effect on utility gross margin. Non-GAAP financial measures are not in accordance with, or an alternative to, GAAP and should be considered in addition to, and not as a substitute for, the comparable GAAP measure.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Utility Gross Margin
+A reconciliation of operating revenues, the closest GAAP financial measure to NJNG’s utility gross margin, is as follows for the fiscal years ended September 30:
+Utility gross margin consists of three components:
+•utility firm gross margin generated from only the delivery component of either a sales tariff or a transportation tariff from residential and commercial customers who receive natural gas service from NJNG;
+•BGSS incentive programs, where revenues generated or savings achieved from BPU-approved off-system sales, capacity release or storage incentive programs are shared between customers and NJNG; and
+•utility gross margin generated from off-tariff customers, as well as interruptible customers.
+The following provides more information on the components of utility gross margin and associated throughput (Bcf) of natural gas delivered to customers:
+Utility Firm Gross Margin
+Utility firm gross margin increased $22.4 million during fiscal 2021 compared with fiscal 2020, due primarily to the increase in firm sales and base rates, along with increased returns on infrastructure programs related to SAFE II and NJ RISE.
+BGSS Incentive Programs
+The factors contributing to the change in utility gross margin generated by BGSS incentive programs are as follows:
+The increase in utility gross margin was due primarily to improved opportunities for storage incentive compared with the prior year along with increased margins from off-system sales.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Operation and Maintenance Expense
+O&M expense increased $40.9 million during fiscal 2021 compared with fiscal 2020, due primarily to increased compensation, information technology expenditures and bad debt expenses.
+Depreciation Expense
+Depreciation expense increased $8.2 million in fiscal 2021, compared with fiscal 2020, as a result of additional utility plant being placed into service.
+Interest Expense
+Interest expense increased $5.4 million in fiscal 2021, compared with fiscal 2020, due primarily to the timing of issuance of outstanding long-term debt and additional short-term borrowings.
+Other Income
+Other income increased $2.4 million during fiscal 2021, compared with fiscal 2020, due primarily to increased AFUDC equity earned on infrastructure projects.
+Income Tax Provision
+Income tax provision decreased $8.0 million during fiscal 2021, compared with fiscal 2020, due primarily to lower operating income.
+Net Income
+Net income decreased $19.5 million to $107.4 million in fiscal 2021, compared with fiscal 2020, due primarily to increased O&M, depreciation and interest expenses, as previously discussed.
+Clean Energy Ventures Segment
+Overview
+Our Clean Energy Ventures segment actively pursues opportunities in the renewable energy markets. Clean Energy Ventures enters into various agreements to install solar net-metered systems for residential and commercial customers, as well as large commercial grid-connected projects. In addition, Clean Energy Ventures enters into various long-term agreements, including PPAs, to supply energy from commercial solar projects.
+Capital expenditures related to clean energy projects are subject to change due to a variety of factors that may affect our ability to commence operations at these projects on a timely basis or at all, including logistics associated with the start-up of residential and commercial solar projects, such as timing of construction schedules, the permitting and regulatory process, any delays related to electric grid interconnection, economic trends, unforeseen events and the ability to access capital or allocation of capital to other investments or business opportunities. Clean Energy Ventures is also subject to risks associated with COVID-19, which may include impacts to residential solar customer growth and customer collections, our ability to identify and develop commercial solar asset investments, impacts to our supply chain and our ability to source materials for construction.
+The primary contributors toward the value of qualifying clean energy projects are tax incentives and RECs. Changes in the federal statutes related to the ITC and/or relevant state legislation and regulatory policies affecting the market for solar renewable energy credits, could significantly affect future results.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Solar
+Solar projects placed in service and related expenditures for the fiscal years ended September 30, are as follows:
+(1)Includes projects subject to sale leaseback arrangements.
+(2)Includes an operational 2.9 MW commercial solar project acquired in December 2020.
+(3)Includes a 4.4 MW commercial solar project acquired in August 2019.
+Since inception, Clean Energy Ventures has constructed a total of 367.8 MW of solar capacity. Projects that were placed in service through December 31, 2019, qualified for a 30-percent federal ITC. The ITC declined to 26 percent for property under construction before the end of 2020. The Consolidated Appropriations Act, 2021 extended the 26 percent ITC for property under construction during 2021 and 2022. The ITC will drop to 22 percent for property under construction before the end of 2023. After 2023 the ITC will be reduced to 10 percent.
+Projects placed in service after December 31, 2019, also qualified for a 30 percent federal ITC if five percent or more of the total costs of a solar property are incurred before the end of the applicable year and there are continuous efforts to advance towards completion of the project, based on the IRS guidance around the ITC safe harbor determination. We have taken steps to preserve the ITC at the higher rate for certain solar projects that are completed after the scheduled reduction in rates, in accordance with IRS guidance.
+Clean Energy Ventures may enter into transactions to sell certain of its commercial solar assets concurrent with agreements to lease the assets back over a period of five to 15 years. The Company will continue to operate the solar assets and are responsible for related expenses and entitled to retain the revenue generated from SRECs, TRECs and energy sales. The ITCs and other tax benefits associated with these solar projects transfer to the buyer, if applicable; however, the lease payments are structured so that Clean Energy Ventures is compensated for the transfer of the related tax incentives. Accordingly, for solar projects financed under sale leasebacks for which the assets were sold during the first 5 years of in-service life, Clean Energy Ventures recognizes the equivalent value of the ITC in other income on the Consolidated Statements of Operations over the respective five-year ITC recapture periods, starting with the second year of the lease. During fiscal 2021 and 2020, Clean Energy Ventures received proceeds of $17.7 million and $42.9 million, respectively, in connection with the sale leaseback of commercial solar assets. There were no sale leasebacks during fiscal 2019.
+As part of its solar investment portfolio, Clean Energy Ventures operates a residential and small commercial solar program, The Sunlight Advantage®, that provides qualifying homeowners and small business owners the opportunity to have a solar system installed at their home or place of business with no installation or maintenance expenses. Clean Energy Ventures owns, operates and maintains the system over the life of the contract in exchange for monthly payments.
+For solar installations placed in-service in New Jersey prior to April 30, 2020, each MWh of electricity produced creates an SREC that represents the renewable energy attribute of the solar-electricity generated that can be sold to third parties, predominantly load-serving entities that are required to comply with the solar requirements under New Jersey’s renewable portfolio standard.
+In December 2019, the BPU established the TREC as pursuant to the successor program to the SREC program. TRECs provide a fixed compensation base multiplied by an assigned project factor in order to determine their value. The project factor is determined by the type and location of the project, as defined. All TRECs generated are required to be purchased monthly by a TREC program administrator as appointed by the BPU.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+SREC and TREC activity for the fiscal years ended September 30, is as follows:
+The average SREC sales price was $196 in fiscal 2021, $199 in fiscal 2020 and $207 in fiscal 2019 and the average TREC price was $144 in both fiscal 2021 and 2020.
+Clean Energy Ventures hedges its expected SREC production through the use of forward sales contracts. The following table reflects the hedged percentage of our projected inventory related to its in-service commercial and residential assets:
+(1)Energy years are compliance periods for New Jersey’s renewable portfolio standard that run from June 1 to May 31.
+There are no direct costs associated with the production of SRECs or TRECs by our solar assets. All related costs are included as a component of O&M expenses on the Consolidated Statements of Operations, including such expenses as facility maintenance and broker fees.
+Operating Results
+Clean Energy Ventures’ financial results for the fiscal years ended September 30, are summarized as follows:
+(1)Amounts in fiscal 2020 and 2019 have been adjusted for the change in accounting method related to ITCs, see Note 2. Summary of Significant Accounting Policies for more detail.
+Operating Revenues
+Operating revenues decreased $7.3 million in fiscal 2021, compared with fiscal 2020, due primarily to decreased SREC revenue due to timing of deliveries, partially offset by the recognition of TREC revenue, which was not present during the same period in the prior year.
+Operation and Maintenance Expense
+O&M expense increased $6.4 million in fiscal 2021, compared with fiscal 2020, due primarily to increased project maintenance, lease expenses and information technology expenses.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Depreciation Expense
+Depreciation expense decreased $4.8 million in fiscal 2021, compared with fiscal 2020, due primarily to the change in estimated useful lives of our commercial solar assets, effective July 1, 2020.
+Income Tax Provision
+Income tax provision decreased $6.0 million during fiscal 2021, compared with fiscal 2020, due primarily to lower operating income along with a decrease in the state tax rate resulting from tax reform in New Jersey.
+Net Income
+Net income in fiscal 2021 decreased $5.3 million, compared with fiscal 2020, due primarily to the increased O&M and interest expense, partially offset by decreased depreciation expense, as previously discussed.
+Energy Services Segment
+Overview
+Energy Services markets and sells natural gas to wholesale and retail customers and manages natural gas transportation and storage assets throughout major market areas across North America. Energy Services maintains a strategic portfolio of natural gas transportation and storage contracts that it utilizes in conjunction with its market expertise to provide service and value to its customers. Availability of these transportation and storage contracts allows Energy Services to generate market opportunities by capturing price differentials over specific time horizons and between geographic market locations.
+Energy Services also provides management of transportation and storage assets for natural gas producers and regulated utilities. These management transactions typically involve the release of producer/utility-owned storage and/or transportation capacity in combination with either an obligation to purchase and/or deliver physical natural gas. In addition to the contractual purchase and/or sale of physical natural gas, Energy Services generates or pays fee-based margin in exchange for its active management and may provide the producer and/or utility with additional margin based on actual results.
+In conjunction with the active management of these contracts, Energy Services generates financial margin by identifying market opportunities and simultaneously entering into natural gas purchase/sale, storage or transportation contracts and financial derivative contracts. In cases where storage is utilized to fulfill these contracts, these forecast sales and/or purchases are economically hedged through the use of financial derivative contracts. The financial derivative contracts consist primarily of exchange-traded futures, options and swap contracts, and are frequently used to lock in anticipated transactional cash flows and to help manage volatility in natural gas market prices. Generally, when its transportation and storage contracts are exposed to periods of increased market volatility, Energy Services is able to implement strategies that allow it to capture margin by improving the respective time or geographic spreads on a forward basis.
+Energy Services accounts for its physical commodity contracts and its financial derivative instruments at fair value on the Consolidated Balance Sheets. Changes in the fair value of physical commodity contracts and financial derivative instruments are included in earnings as a component of operating revenues or natural gas purchases on the Consolidated Statements of Operations. Volatility in reported net income at Energy Services can occur over periods of time due to changes in the fair value of derivatives, as well as timing differences related to certain transactions. Unrealized gains and losses can fluctuate as a result of changes in the price of natural gas, SRECs and foreign currency from the original transaction price. Volatility in earnings can also occur as a result of timing differences between the settlement of financial derivatives and the sale of the underlying physical commodity. For example, when a financial instrument settles and the physical natural gas is injected into inventory, the realized gains and losses associated with the financial instrument are recognized in earnings. However, the gains and losses associated with the physical natural gas are not recognized in earnings until the natural gas inventory is withdrawn from storage and sold, at which time Energy Services realizes the entire margin on the transaction.
+On December 16, 2020, Energy Services entered into a series of asset management agreements with an investment grade public utility to release pipeline capacity associated with certain natural gas transportation contracts. The utility will provide certain asset management services and Energy Services may deliver natural gas to the utility in exchange for aggregate net proceeds of approximately $500 million, payable through November 1, 2030. The asset management agreements include a series of initial and permanent releases commencing on November 1, 2021. NJR will receive approximately $260 million in cash from fiscal 2022 through fiscal 2024 and $34 million per year from fiscal 2025 through fiscal 2031 under the agreements.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Operating Results
+Energy Services’ financial results for the fiscal years ended September 30, are summarized as follows:
+(1)Includes related party transactions of approximately $426,000, $1.1 million and $8.2 million during fiscal 2021, 2020 and 2019, respectively, which are eliminated in consolidation.
+(2)Costs associated with pipeline and storage capacity that are expensed over the term of the related contracts, which generally varies from less than one year to 10 years.
+(3)Includes related party transactions of approximately $841,000, $183,000 and $3.4 million during fiscal 2021, 2020 and 2019, respectively, a portion of which are eliminated in consolidation.
+As of September 30, Energy Services’ portfolio of financial derivative instruments are composed of:
+Operating Revenues and Natural Gas Purchases
+During fiscal 2021, operating revenues increased $198.0 million and natural gas purchases increased $73.7 million, due primarily to increased natural gas price and volumes compared to the prior period, along with volatility related to the extreme weather in the mid-continent and southern regions of the U.S. during February 2021.
+Future results at Energy Services are contingent upon natural gas market price volatility driven by variations in both the supply and demand balances caused by weather and other factors. As a result, variations in weather patterns in the key market areas served may affect earnings during the fiscal year. Changes in market fundamentals, such as an increase in supply and decrease in demand due to warmer temperatures, and reduced volatility, can negatively impact Energy Services’ earnings. See Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Natural Gas Distribution Segment for TETCO M-3 Daily Prices, which illustrates the daily natural gas prices in the Northeast market region.
+Operation and Maintenance Expense
+O&M expense increased $33.5 million during fiscal 2021, compared with fiscal 2020, due primarily to increased compensation costs, charitable contributions and bad debt expense.
+Income Tax Provision (Benefit)
+Income taxes increased $22.0 million during fiscal 2021, compared with fiscal 2020, due primarily to increased operating income related to increased natural gas price volatility during February 2021, as discussed above.
+Net Income (Loss)
+Net income increased $70.0 million during fiscal 2021, compared with fiscal 2020, due primarily to increased operating revenue, partially offset by higher natural gas purchases and O&M expenses, as previously discussed.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Non-GAAP Financial Measures
+Management uses financial margin and NFE, non-GAAP financial measures, when evaluating the operating results of Energy Services. Financial margin and NFE are based on removing timing differences associated with certain derivative instruments, as discussed above. There is a related tax effect on current and deferred income tax expense corresponding with NFE.
+Management views these measures as representative of the overall expected economic result and uses these measures to compare Energy Services’ results against established benchmarks and earnings targets as these measures eliminate the impact of volatility on GAAP earnings as a result of timing differences associated with the settlement of derivative instruments. To the extent that there are unanticipated impacts from changes in the market value related to the effectiveness of economic hedges, Energy Services’ actual non-GAAP results can differ from the results anticipated at the outset of the transaction. Non-GAAP financial measures are not in accordance with, or an alternative to, GAAP and should be considered in addition to, and not as a substitute for, the comparable GAAP measure.
+When Energy Services reconciles the most directly comparable GAAP measure to both financial margin and NFE, the current period unrealized gains and losses on derivatives are excluded as a reconciling item. Financial margin and NFE also exclude the effects of economic hedging of the value of our natural gas in storage and, therefore, only include realized gains and losses related to natural gas withdrawn from storage, effectively matching the full earnings effects of the derivatives with realized margins on the related physical natural gas flows.
+Financial Margin
+The following table is a computation of Energy Services’ financial margin for the fiscal years ended September 30.
+(1)Includes unrealized (gains) losses related to an intercompany transaction between NJNG and Energy Services that have been eliminated in consolidation of approximately $(3.2) million, $(809,000) and $995,000, net of taxes for the fiscal years ended September 30, 2021, 2020 and 2019, respectively.
+(2)Effects of hedging natural gas inventory transactions where the economic impact is realized in a future period.
+A reconciliation of operating income, the closest GAAP financial measure to Energy Services’ financial margin, is as follows for the fiscal years ended September 30:
+Financial margin increased $136.2 million during fiscal 2021, compared with fiscal 2020, due primarily to volatility related to the extreme weather in the mid-continent and southern regions of the U.S. during February 2021, as previously discussed.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Net Financial Earnings
+A reconciliation of Energy Services’ net income (loss), the most directly comparable GAAP financial measure to NFE, is as follows for the fiscal years ended September 30:
+(1)Includes taxes related to an intercompany transaction between NJNG and Energy Services that have been eliminated in consolidation of approximately $988,000, $252,000 and $(310,000) for the fiscal years ended September 30, 2021, 2020 and 2019, respectively.
+NFE increased $79.0 million during fiscal 2021, compared with fiscal 2020, due primarily to volatility related to the extreme weather in the mid-continent and southern regions of the U.S. during February 2021, as previously discussed.
+Future results are subject to Energy Services’ ability to expand its wholesale sales and service activities and are contingent upon many other factors, including an adequate number of appropriate and credit-qualified counterparties in an active and liquid natural marketplace; volatility in the natural gas market due to weather or other fundamental market factors impacting supply and/or demand; transportation, storage and/or other market arbitrage opportunities; sufficient liquidity in the overall energy trading market; and continued access to liquidity in the capital markets.
+Storage and Transportation Segment
+Overview
+Our Storage and Transportation segment invests in natural gas assets, such as natural gas transportation and storage facilities. We believe that acquiring, owning and developing these storage and transportation assets, which operate under a tariff structure that has either cost- or market-based rates, can provide us a growth opportunity. Our Storage and Transportation segment is subject to various risks, including the construction, development and operation of our transportation and storage assets, obtaining necessary governmental, environmental and regulatory approvals, our ability to obtain necessary property rights and our ability to obtain financing at reasonable costs for the construction, operation and maintenance of our assets. In addition, our storage and transportation assets may be subject to risk associated with the COVID-19 pandemic, such as disruption to the supply chain and availability of critical equipment and supplies, disruptions to the availability of our specialized workforce and contractors and changes to demand for natural gas, transportation and other downstream activities.
+Our Storage and Transportation segment is comprised of Leaf River, a 32.2 million Dth salt dome natural gas storage facility that operates under market-based rates and Adelphia Gateway, an existing 84-mile pipeline in southeastern Pennsylvania. Adelphia Gateway operates under cost of service rates but can enter into negotiated rates with counterparties. The northern portion of the pipeline was operational upon acquisition and it currently serves two natural gas generation facilities. On October 5, 2020, we began the conversion of the southern zone of the pipeline to natural gas.
+Our Storage and Transportation segment also has a 50 percent ownership interest in Steckman Ridge, a storage facility that operates under market-based rates and a 20 percent interest in PennEast, a partnership whose purpose was to construct and operate a 120-mile natural gas pipeline that would have extended from northeast Pennsylvania to western New Jersey.
+PennEast received a Certificate of Public Convenience and Necessity for the project from FERC on January 19, 2018. However, because of numerous regulatory and legal challenge, we evaluated our equity investment in PennEast for impairment as of June 30, 2021, and determined that it was other-than-temporarily impaired. We estimated the fair value of our investment in PennEast using probability weighted scenarios assigned to discounted future cash flows. The impairment is the result of management's estimates and assumptions regarding the likelihood of certain outcomes related to required regulatory approvals and pending legal matters, the timing of which remains uncertain, the timing and magnitude of construction costs and in-service dates, the evaluation of the current environmental and political climate as it relates to interstate pipeline development, and transportation capacity revenues and discount rates.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+As of September 30, 2021, we recognized an other-than-temporary impairment charge of $92.0 million, or approximately $74.5 million, net of income taxes. The other-than-temporary impairment is recorded in equity in (losses) earnings from affiliates in the Consolidated Statements of Operations. On September 27, 2021, the PennEast partnership determined that this project is no longer supported and all further development has ceased. It is possible that future developments could impact the fair value and could result in the recognition of additional impairment charges.
+As of September 30, 2021, our investments in Steckman Ridge and PennEast were $109.0 million and $5.5 million, respectively.
+Operating Results
+The financial results of our Storage and Transportation segment for the fiscal years ended September 30, are summarized as follows:
+(1)Includes related party transactions of approximately $1.8 million and $2.7 million during fiscal 2021 and fiscal 2020, respectively, which are eliminated in consolidation.
+Operation Revenues
+Operating revenue in fiscal 2021 increased $6.3 million, compared with fiscal 2020, due to increased operating revenues at Leaf River and Adelphia Gateway.
+Equity in earnings of affiliates decreased $97.0 million during fiscal 2021, compared with fiscal 2020, due primarily to the impairment of our equity method investment in PennEast.
+Operation and Maintenance Expense
+O&M increased $7.3 million during fiscal 2021, compared with fiscal 2020, due primarily to operations of Adelphia Gateway and increases at Leaf River.
+Depreciation Expense
+Depreciation expense increased $667,000 during fiscal 2021, compared with fiscal 2020, due primarily to operations of Adelphia Gateway during fiscal 2021, that were not present in the first quarter of fiscal 2020.
+Interest Expense
+Interest expense, net increased $224,000 during fiscal 2021, compared with fiscal 2020, due primarily to higher interest expense related to the acquisition of Leaf River and Adelphia Gateway during fiscal 2020.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Net Income
+Net income in fiscal 2021 decreased $86.1 million, compared with fiscal 2020, due primarily to the impairment of our equity method investment in PennEast, as previously discussed.
+Non-GAAP Financial Measures
+Management uses NFE, a non-GAAP financial measure, when evaluating the operating results of our Storage and Transportation segment. We feel that the impairment of our equity method investment in PennEast is a special item that is not indicative of our ongoing performance and its impact has been excluded for NFE purposes. The details of such adjustments can be found in the table below. Non-GAAP financial measures are not in accordance with, or an alternative to GAAP, and should be considered in addition to, and not as a substitute for the comparable GAAP measure. A reconciliation of Storage and Transportations' net income, the most directly comparable GAAP financial measure to NFE is as follows:
+NFE decreased $5.3 million during fiscal 2021, compared with fiscal 2020, due primarily to increased O&M and depreciation expense, partially offset by increased operating revenue at Leaf River and Adelphia Gateway, as previously discussed.
+Home Services and Other Operations
+Overview
+The financial results of Home Services and Other consist primarily of the operating results of NJRHS. NJRHS provides service, sales and installation of appliances to approximately 106,000 service contract customers and has been focused on growing its installation business and expanding its service contract customer base. Home Services and Other also includes organizational expenses incurred at NJR and rental income at CR&R.
+Operating Results
+The condensed consolidated financial results of Home Services and Other for the fiscal years ended September 30, are summarized as follows:
+Operating Revenues
+Operating revenues increased $1.2 million during fiscal 2021, compared with fiscal 2020, due primarily to increased service contract and installation revenue at Home Services.
+Operation and Maintenance Expense
+O&M expense increased $5.7 million during fiscal 2021, compared with fiscal 2020, due primarily to increased consulting expenses related to technology improvement projects and higher compensation costs.
+Income Tax (Benefit) Provision
+Income tax benefit decreased $2.3 million during fiscal 2021, compared with fiscal 2020, due primarily to tax credits and impacts of New Jersey corporate business tax reform recognized in the prior year that did not recur.
+Net Income
+Net income decreased $6.6 million during fiscal 2021, compared with fiscal 2020, due primarily to increased shared corporate costs, information technology costs and compensation expense along with decreased income tax benefit as described above.
+Non-GAAP Financial Measures
+NFE is based on removing timing differences associated with NJR's variable-for-fixed interest rate swap. Non-GAAP financial measures are not in accordance with, or an alternative to, GAAP, and should be considered in addition to, and not as a substitute, for the comparable GAAP measure. A reconciliation of Home Services and Other's net income for the fiscal years ended September 30, to the GAAP financial measure most directly comparable to NFE, is as follows:
+Liquidity and Capital Resources
+Our objective is to maintain an efficient consolidated capital structure that reflects the different characteristics of each reporting segment and business operations and provides adequate financial flexibility for accessing capital markets as required.
+Our consolidated capital structure as of September 30, was as follows:
+Common Stock Equity
+We satisfy our external common equity requirements, if any, through issuances of our common stock, including the proceeds from stock issuances under our DRP. The DRP allows us, at our option, to use treasury shares or newly issued shares to raise capital. On September 28, 2021, we registered 2.5 million shares of additional common stock for issuance under the DRP. NJR raised approximately $15.1 million of equity through the DRP by issuing approximately 290,000 shares of common stock and approximately 141,000 shares of treasury stock during fiscal 2021, and raised $18.1 million during fiscal 2020, by issuing approximately 520,000 shares of treasury stock. There were no shares of common stock issued through the waiver discount feature of the DRP during fiscal 2021 and 2020.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+In December 2019, we completed an equity offering of 6,545,454 common shares, consisting of 5,333,334 common shares issued directly by NJR and 1,212,120 common shares issuable pursuant to forward sales agreements with investment banks. The issuance of 5,333,334 common shares resulted in proceeds of approximately $212.9 million, net of issuance costs, and was reflected in shareholders' equity and as a financing activity on the statement of cash flows.
+Under the forward sale agreements, a total of 1,212,120 common shares were borrowed from third parties and sold to the underwriters. Each forward sale agreement allows us, at our election and prior to September 30, 2020, to physically settle the forward sale agreements by issuing common shares in exchange for net proceeds at the then-applicable forward sale price specified by the agreement, which was initially $40.0125 per share, or, alternatively, to settle the forward sale agreements in whole or in part through the delivery or receipt of shares or cash. The forward sale price was subjected to adjustment daily based on a floating interest rate factor and would decrease with respect to certain fixed amounts specified in the agreements, such as dividends.
+On September 18, 2020, we amended our forward sale agreements to extend the maturity date of such forward sales agreements from September 30, 2020 to September 10, 2021. On March 3, 2021, we cash settled a portion of the forward sale agreement for a payout of approximately $388,000 in lieu of the issuance of 727,272 common shares. On May 26, 2021, we cash settled the rest of the forward sale agreements for a payout of approximately $2.4 million in lieu of the issuance of 484,848 common shares.
+In 1996, the Board of Directors authorized us to implement a share repurchase program, which was expanded seven times since the inception of the program, authorizing a total of 19.5 million shares of common stock for repurchase. As of September 30, 2021, we had repurchased a total of approximately 17.8 million of those shares and may repurchase an additional 1.7 million shares under the approved program. There were 746,000 shares repurchased during fiscal 2021 and no shares repurchased during fiscal 2020.
+Debt
+NJR and its unregulated subsidiaries generally rely on cash flows generated from operating activities and the utilization of committed credit facilities to provide liquidity to meet working capital and short-term debt financing requirements. NJNG also relies on the issuance of commercial paper for short-term funding. NJR and NJNG periodically access the capital markets to fund long-life assets through the issuance of long-term debt securities.
+We believe that our existing borrowing availability, equity proceeds and cash flows from operations will be sufficient to satisfy our working capital, capital expenditures and dividend requirements for at least the next 12 months. NJR, NJNG, Clean Energy Ventures, Storage and Transportation and Energy Services currently anticipate that each of their financing requirements for the next 12 months will be met primarily through the issuance of short and long-term debt, and meter or solar asset sale leasebacks.
+We believe that as of September 30, 2021, NJR and NJNG were, and currently are, in compliance with all existing debt covenants, both financial and non-financial.
+As a result of the COVID-19 pandemic there have been disruptions, uncertainty and volatility in the credit and capital markets. The Company has been able to obtain sufficient financing to meet its funding requirements for operations and capital expenditures, however, our ability to access funds from financial institutions at a reasonable cost may impact the nature and timing of future capital market transactions.
+Short-Term Debt
+We use our short-term borrowings primarily to finance Energy Services’ short-term liquidity needs, Storage and Transportation investments, share repurchases and, on an initial basis, Clean Energy Ventures’ investments. Energy Services’ use of high-volume storage facilities and anticipated pipeline park-and-loan arrangements, combined with related economic hedging activities in the volatile wholesale natural gas market, create significant short-term cash requirements.
+As of September 30, 2021, NJR had a revolving credit facility totaling $500 million, with $270.3 million available under the facility.
+NJNG satisfies its debt needs by issuing short-term and long-term debt based on its financial profile. The seasonal nature of NJNG’s operations creates large short-term cash requirements, primarily to finance natural gas purchases and customer accounts receivable. NJNG obtains working capital for these requirements, and for the temporary financing of construction and MGP remediation expenditures and energy tax payments, based on its financial profile, through the issuance of commercial paper supported by the NJNG Credit Facility or through short-term bank loans under the NJNG Credit Facility.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+NJNG’s commercial paper is sold through several commercial banks under an issuing and paying agency agreement and is supported by the $250 million NJNG Credit Facility. As of September 30, 2021, the unused amount available under the NJNG Credit Facility, including amounts allocated to the backstop under the commercial paper program and the issuance of letters of credit, was $91.1 million.
+Short-term borrowings were as follows:
+Due to the seasonal nature of natural gas prices and demand, and because inventory levels are built up during its natural gas injection season (April through October), NJR and NJNG’s short-term borrowings tend to peak in the November through January time frame.
+NJR
+Based on its average borrowings during fiscal 2021, NJR’s average interest rate was 1.05 percent, resulting in interest expense of approximately $1.2 million.
+On September 2, 2021, NJR entered into a Second Amended and Restated Credit Agreement governing a $500 million NJR Credit Facility. The agreement refinances a $425 million revolving credit facility that was scheduled to expire on December 5, 2023, but has now been terminated. The NJR Credit Facility expires on September 2, 2026, subject to two mutual options for a one-year extension beyond that date. The NJR Credit Facility permits the borrowing of revolving loans and swingline loans, as well as a $75 million sublimit for the issuance of letters of credit. The NJR Credit Facility also includes an accordion feature, which would allow NJR, in the absence of a default or event of default, to increase from time to time, with the existing or new lenders, the revolving credit commitments under the NJR Credit Facility in minimum increments of $50 million increments up to a maximum of $250 million. Certain of NJR’s unregulated subsidiaries have guaranteed all of NJR’s obligations under the NJR Credit Facility. The credit facility is used primarily to finance its share repurchases, to satisfy Energy Services’ short-term liquidity needs and to finance, on an initial basis, unregulated investments.
+As of September 30, 2021, NJR had eight letters of credit outstanding totaling $10.6 million, which reduced the amount available under the NJR Credit Facility by the same amount. NJR does not anticipate that these letters of credit will be drawn upon by the counterparties.
+Neither NJNG nor its assets are obligated or pledged to support the NJR Credit Facility.
+NJNG
+As noted above, based on its average borrowings during fiscal 2021, NJNG’s average interest rate was 0.09 percent, resulting in interest expense of approximately $54,000.
+On September 2, 2021, NJNG entered into a Second Amended and Restated Credit Agreement governing a $250 million, NJNG Credit Facility. The agreement refinances a $250 million revolving credit facility that was scheduled to expire on December 5, 2023, but has now been terminated. The NJNG Credit Facility expires on September 2, 2026, subject to two
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+mutual options for a one-year extension beyond that date. The NJNG Credit Facility permits the borrowing of revolving loans and swingline loans, as well as a $30 million sublimit for the issuance of letters of credit. The NJNG Credit Facility also includes an accordion feature, which would allow NJNG, in the absence of a default or event of default, to increase from time to time, with the existing or new lenders, the revolving credit commitments under the NJNG Credit Facility in minimum increments of $50 million up to a maximum of $100 million.
+As of September 30, 2021, NJNG had two letters of credit outstanding for $731,000, which reduced the amount available under NJNG’s committed credit facility by the same amount. NJNG does not anticipate that these letters of credit will be drawn upon by the counterparties.
+Short-Term Debt Covenants
+Borrowings under the NJR Credit Facility and the NJNG Credit Facility are conditioned upon compliance with a maximum leverage ratio (consolidated total indebtedness to consolidated total capitalization as defined in the applicable agreements), of not more than .70 to 1.00 for NJR and .65 to 1.00 for NJNG. These revolving credit facilities contain customary representations and warranties for transactions of this type. They also contain customary events of default and certain covenants that will limit NJR’s or NJNG’s ability, beyond agreed upon thresholds, to, among other things:
+•incur additional debt;
+•incur liens and encumbrances;
+•make dispositions of assets;
+•enter into transactions with affiliates; and
+•merge, consolidate, transfer, sell or lease all or substantially all of the borrowers’ or guarantors’ assets.
+These covenants are subject to a number of exceptions and qualifications set forth in the applicable agreements.
+Default Provisions
+The agreements governing our long-term and short-term debt obligations include provisions that, if not complied with, could require early payment or similar actions. Default events include, but are not limited to, the following:
+•defaults for non-payment;
+•defaults for breach of representations and warranties;
+•defaults for insolvency;
+•defaults for non-performance of covenants;
+•cross-defaults to other debt obligations of the borrower; and
+•guarantor defaults.
+The occurrence of an event of default under these agreements could result in all loans and other obligations of the borrower becoming immediately due and payable and the termination of the credit facilities or term loan.
+Long-Term Debt
+NJR
+As of September 30, 2021, NJR had the following outstanding:
+•$50 million of 3.25 percent senior notes due September 17, 2022;
+•$50 million of 3.20 percent senior notes due August 18, 2023;
+•$100 million of 3.48 percent senior notes due November 7, 2024;
+•$100 million of 3.54 percent senior notes due August 18, 2026;
+•$100 million of 3.96 percent senior notes due June 8, 2028;
+•$150 million of 3.29 percent senior notes due July 17, 2029;
+•$130 million of 3.50 percent senior notes due July 23, 2030;
+•$120 million of 3.13 percent senior notes due September 1, 2031;
+•$130 million of 3.60 percent senior notes due July 23, 2032; and
+•$80 million of 3.25 percent senior notes due September 1, 2033.
+Neither NJNG nor its assets are obligated or pledged to support NJR’s long-term debt.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+On May 14, 2020, NJR entered into a Note Purchase Agreement for $260 million of its senior notes, of which $130 million are at a fixed interest rate of 3.5 percent, maturing in 2030, and $130 million are at a fixed interest rate of 3.6 percent, maturing in 2032. On July 23, 2020, NJR issued all $260 million of the senior notes. The senior notes are unsecured and guaranteed by certain unregulated subsidiaries of NJR.
+On September 1, 2020, NJR entered into and issued a Note Purchase Agreement for $200 million of its senior notes, of which $120 million are at a fixed interest rate of 3.13 percent, maturing in 2031, and $80 million are at a fixed interest rate of 3.25 percent, maturing in 2033. The senior notes are unsecured and guaranteed by certain unregulated subsidiaries of NJR.
+NJNG
+As of September 30, 2021, NJNG’s long-term debt consisted of $1.1 billion in fixed-rate debt issuances secured by the Mortgage Indenture, with maturities ranging from 2024 to 2060, and $14.7 million in finance leases with various maturities ranging from 2021 to 2037.
+On May 14, 2020, NJNG entered into a Note Purchase Agreement for $125 million of its senior notes, of which $100 million were at an interest rate of 3.13 percent, maturing in 2050, and $25 million were at an interest rate of 3.33 percent, maturing in 2060. On June 30, 2020, NJNG issued $50 million of 3.13 percent senior notes due June 30, 2050. On July 23, 2020, NJNG issued the remaining $50 million of 3.13 percent senior notes due July 23, 2050 and $25 million of 3.33 percent senior notes due July 23, 2060. The senior notes are secured by an equal principal amount of NJNG’s FMBs issued under NJNG’s Mortgage Indenture.
+On September 1, 2020, NJNG entered into and issued a Note Purchase Agreement for $75 million of its senior notes, of which $25 million were at an interest rate of 2.87 percent, maturing in 2050, and $50 million were at an interest rate of 2.97 percent, maturing in 2060. The senior notes are secured by an equal principal amount of NJNG’s FMBs issued under NJNG’s Mortgage Indenture.
+On October 28, 2021, NJNG entered into a Note Purchase Agreement for, and issued, $100 million of its senior notes, of which $50 million were issued at an interest rate of 2.97 percent, maturing in 2051, and $50 million were issued at an interest rate of 3.07 percent, maturing in 2061. The senior notes are secured by an equal principal amount of NJNG’s FMBs issued under NJNG’s Mortgage Indenture.
+NJR is not obligated directly or contingently with respect to the NJNG’s fixed-rate debt issuances.
+Long-Term Debt Covenants and Default Provisions
+The NJR and NJNG long-term debt instruments contain customary representations and warranties for transactions of their type. They also contain customary events of default and certain covenants that will limit NJR or NJNG’s ability beyond agreed upon thresholds to, among other things:
+•incur additional debt (including a covenant that limits the amount of consolidated total debt of the borrower at the end of a fiscal quarter to 70 percent for NJR and 65 percent for NJNG of the consolidated total capitalization of the borrower, as those terms are defined in the applicable agreements, and a covenant limiting priority debt to 20 percent of the borrower’s consolidated total capitalization, as those terms are defined in the applicable agreements);
+•incur liens and encumbrances;
+•make loans and investments;
+•make dispositions of assets;
+•make dividends or restricted payments;
+•enter into transactions with affiliates; and
+•merge, consolidate, transfer, sell or lease substantially all of the borrower’s assets.
+The aforementioned covenants are subject to a number of exceptions and qualifications set forth in the applicable note purchase agreements.
+In addition, the FMBs issued by NJNG under the Mortgage Indenture are subject to certain default provisions. Events of Default, as defined in the Mortgage Indenture, consist mainly of:
+•failure for 30 days to pay interest when due;
+•failure to pay principal or premium when due and payable;
+•failure to make sinking fund payments when due;
+•failure to comply with any other covenants of the Mortgage Indenture after 30 days’ written notice from the Trustee;
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+•failure to pay or provide for judgments in excess of $30 million in aggregate amount within 60 days of the entry thereof; or
+•certain events that are or could be the basis of a bankruptcy, reorganization, insolvency or receivership proceeding.
+Upon the occurrence and continuance of such an Event of Default, the Mortgage Indenture, subject to any provisions of law applicable thereto, provides that the Trustee may take possession and conduct the business of NJNG, may sell the trust estate or proceed to foreclose the lien of the Mortgage Indenture. The interest rate on defaulted principal and interest, to the extent permitted by law, on the FMBs issued under the Mortgage Indenture is the rate stated in the applicable supplement or, if no such rate is stated, six percent per annum.
+Sale Leaseback
+NJNG
+NJNG received $4.0 million and $9.9 million in fiscal 2020 and 2019, respectively, in connection with the sale leaseback of its natural gas meters. During fiscal 2021, 2020 and 2019, NJNG exercised early purchase options with respect to meter leases by making final principal payments of $1.2 million, $1.2 million and $1.1 million, respectively. NJNG continues to evaluate this sale leaseback program based on current market conditions. As noted, natural gas meters are excepted from the lien on NJNG property under the Mortgage Indenture. There were no natural gas meter sale leasebacks recorded during fiscal 2021.
+Clean Energy Ventures
+Clean Energy Ventures enters into transactions to sell the commercial solar assets concurrent with agreements to lease the assets back over a period of five to 15 years. These transactions are considered failed sale leasebacks for accounting purposes and are therefore treated as financing obligations, which are typically secured by the renewable energy facility asset and its future cash flows from SREC and energy sales. ITCs and other tax benefits associated with these solar projects are transferred to the buyer, if applicable; however, the lease payments are structured so that Clean Energy Ventures is compensated for the transfer of the related tax incentives. Clean Energy Ventures continues to operate the solar assets, including related expenses, and retain the revenue generated from SRECs and energy sales, and has the option to renew the lease or repurchase the assets sold at the end of the lease term. During fiscal 2021 and 2020, Clean Energy Ventures received proceeds of $17.7 million and $42.9 million, respectively, in connection with the sale leaseback of commercial solar projects. There were no solar sale leasebacks recorded during fiscal 2019.
+Contractual Obligations
+As of September 30, 2021, the Company’s contractual cash obligations and financial commitments totaled $6.4 billion consisting primarily of debt totaling $3.8 billion, as discussed in the prior section, along with various leasing obligations, regulatory and remediation expenditures, and natural gas supply purchases and related demand fees. For a more detailed explanation of these fees and their applicable payment due dates, see Note 4. Regulation, Note 14. Leases and Note 15. Commitments and Contingent Liabilities in the accompanying Consolidated Financial Statements.
+As of September 30, 2021, there were NJR guarantees covering approximately $192.4 million of natural gas purchases and Energy Services demand fee commitments and ten outstanding letters of credit totaling $11.3 million, as previously mentioned, not yet reflected in accounts payable on the Consolidated Balance Sheets.
+NJR does not expect to be required to make additional contributions to fund the pension plans over the next three fiscal years based on current actuarial assumptions; however, funding requirements are uncertain and can depend significantly on changes in actuarial assumptions, returns on plan assets and changes in the demographics of eligible employees and covered dependents. In addition, as in the past, we may elect to make discretionary contributions to the plans in excess of the minimum required amount. We made no discretionary contributions to the pension plans in fiscal 2021 and 2020. There are no federal requirements to pre-fund OPEB benefits. However, we are required to fund certain amounts due to regulatory agreements with the BPU. We anticipate that the annual funding level of the OPEB plans will range from $5 million to $10 million annually over each of the next five years. Additional contributions may vary based on market conditions and various assumptions.
+During fiscal 2021, committed and spent capital expenditures totaled $468.3 million. During fiscal 2022 and 2023, NJNG’s total capital expenditures are projected to be $350.4 million and $324.3 million, respectively. NJNG expects to fund its obligations with a combination of cash flow from operations, cash on hand, issuance of commercial paper, available capacity under its revolving credit facility and the issuance of long-term debt. As of September 30, 2021, NJNG’s future MGP
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+expenditures are estimated to be $135.0 million. For a more detailed description of MGP see Note 15. Commitments and Contingent Liabilities in the accompanying Consolidated Financial Statements.
+Estimated capital expenditures are reviewed on a regular basis and may vary based on the ongoing effects of regulatory constraints, environmental regulations, unforeseen events and the ability to access capital.
+During fiscal 2021, our Storage and Transportation segment had capital expenditures spent or accrued for the Adelphia Gateway project totaling $113.0 million and capital expenditures spent or accrued for Leaf River totaling $10.8 million. During fiscal 2022, we expect expenditures related to the Adelphia Gateway project to be between $90 million and $110 million and expenditures related to Leaf River to be between $6 million and $10 million.
+During fiscal 2021, Clean Energy Ventures had capital expenditures spent or accrued totaling $89.4 million. Clean Energy Ventures’ expenditures include clean energy projects that support our goal to promote renewable energy. Accordingly, Clean Energy Ventures enters into agreements to install solar equipment involving both residential and commercial projects. We estimate the value of solar-related projects placed in service during fiscal 2022 to be between $235 million and $301 million.
+Capital expenditures related to clean energy projects are subject to change due to a variety of factors that may affect our ability to commence operations at these projects on a timely basis or at all, including sourcing projects that meet our investment criteria, logistics associated with the start-up of residential and commercial solar projects, such as timing of construction schedules, the permitting and regulatory process, any delays related to electric grid interconnection, economic trends or unforeseen events and the ability to access capital or allocation of capital to other investments or business opportunities.
+Energy Services does not currently anticipate any significant capital expenditures in fiscal 2022 and 2023.
+On December 16, 2020, Energy Services entered into a series of asset management agreements with an investment grade public utility to release pipeline capacity associated with certain natural gas transportation contracts. The utility will provide certain asset management services and Energy Services may deliver natural gas to the utility in exchange for aggregate net proceeds of approximately $500 million, payable through November 1, 2030. The asset management agreements include a series of initial and permanent releases commencing on November 1, 2021. NJR will receive approximately $260 million in cash from fiscal 2022 through fiscal 2024 and $34 million per year from fiscal 2025 through fiscal 2031 under the agreements.
+Cash Flows
+Operating Activities
+Cash flows from operating activities during fiscal 2021 totaled $391.0 million compared with $213.5 million during fiscal 2020. Operating cash flows are primarily affected by variations in working capital, which can be impacted by several factors, including:
+•seasonality of our business;
+•fluctuations in wholesale natural gas prices and other energy prices, including changes in derivative asset and liability values;
+•timing of storage injections and withdrawals;
+•the deferral and recovery of natural gas costs;
+•changes in contractual assets utilized to optimize margins related to natural gas transactions;
+•broker margin requirements;
+•impact of unusual weather patterns on our wholesale business;
+•timing of the collections of receivables and payments of current liabilities;
+•volumes of natural gas purchased and sold; and
+•timing of SREC deliveries.
+The increase of $177.5 million in cash flows from operating activities during fiscal 2021, compared with fiscal 2020, was due primarily to increased earnings at Energy Services.
+New Jersey Resources Corporation
+Part II
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS (Continued)
+Investing Activities
+Cash flows used in investing activities totaled $622.1 million during fiscal 2021, compared with $994.0 million during fiscal 2020. The decrease of $371.9 million was due primarily to the acquisition of Leaf River and Adelphia Gateway in the prior period that did not recur along with a decrease of $46.0 million in solar capital expenditures, partially offset by an increase in capital expenditures of $86.3 million for utility plant investments and $85.9 million for Storage and Transportation.
+Financing Activities
+Financing cash flows generally are seasonal in nature and are impacted by the volatility in pricing in the natural gas and other energy markets. NJNG’s inventory levels are built up during its natural gas injection season (April through October) and reduced during withdrawal season (November through March) in response to the supply requirements of its customers. Changes in financing cash flows can also be impacted by natural gas management and marketing activities at Energy Services and clean energy investments at Clean Energy Ventures.
+Cash flows used in financing activities totaled $117.8 million during fiscal 2021, compared with $895.9 million during fiscal 2020. The decrease of $778.1 million is due primarily to increased long-term debt activity at NJR related to the acquisitions of Leaf River and Adelphia along with the issuance of long-term debt at NJNG and higher proceeds from solar sale leasebacks at Clean Energy Ventures in the prior period, partially offset by increased short-term debt in the current period.
+Credit Ratings
+The table below summarizes NJNG’s current credit ratings issued by two rating entities, Moody’s and Fitch, as of September 30, 2021:
+The Fitch ratings and outlook were reaffirmed on March 15, 2021. The Moody's ratings and outlook were reaffirmed on May 11, 2021. NJNG's Moody's and Fitch ratings are investment-grade ratings. NJR is not a rated entity.
+Although NJNG is not party to any lending agreements that would accelerate the maturity date of any obligation caused by a failure to maintain any specific credit rating, if such ratings are downgraded below investment grade, borrowing costs could increase, as would the costs of maintaining certain contractual relationships, and future financing and our access to capital markets would be reduced. Even if ratings are downgraded without falling below investment grade, NJR and NJNG could face increased borrowing costs under their credit facilities. A rating set forth above is not a recommendation to buy, sell or hold NJR’s or NJNG’s securities and may be subject to revision or withdrawal at any time. Each rating set forth above should be evaluated independently of any other rating.
+The timing and mix of any external financings will target a common equity ratio that is consistent with maintaining NJNG's current short-term and long-term credit ratings.

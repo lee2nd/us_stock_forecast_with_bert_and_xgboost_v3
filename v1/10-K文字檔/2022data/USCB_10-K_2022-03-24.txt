@@ -1,0 +1,5212 @@
+Item 7.
+Management's Discussion and Analysis of Financial Condition
+and Results of Operations
+Management’s
+discussion
+and
+analysis
+of
+financial
+condition
+and
+results
+of
+operations
+analyzes
+the
+consolidated
+financial condition and results of operations of the Company and the
+Bank, its wholly owned subsidiary, for the years ended
+December 31, 2021
+and
+2020. This
+discussion and
+analysis are
+best read
+in conjunction
+with the
+Consolidated Financial
+Statements and related footnotes
+of our Company presented
+in Item 8 “Financial
+Statements and Supplementary
+Data” of
+this Annual
+Report.
+In
+addition
+to
+historical
+information,
+this
+discussion
+contains
+forward-looking statements
+that
+involve
+risks, uncertainties
+and assumptions
+that could
+cause actual
+results to
+differ materially
+from management's
+expectations.
+Factors that
+could cause
+such differences
+are discussed
+in the
+sections entitled
+"Forward-Looking Statements"
+and Item
+1A “Risk Factors" of this Annual Report.
+Throughout this document, references to “we,” “us,” “our,” and “the
+Company” refer to USCB Financial Holdings, Inc.
+Forward-Looking Statements
+This
+Annual
+Report
+on
+Form
+10-K
+contains
+statements
+that
+are
+not
+historical
+in
+nature
+are
+intended
+to
+be,
+and
+are
+hereby identified as, forward-looking
+statements for purposes of
+the safe harbor provided by
+Section 21E of the Securities
+Exchange
+Act
+of
+1934,
+as
+amended.
+The
+words
+“may,”
+“will,”
+“anticipate,”
+“should,”
+“would,”
+“believe,”
+“contemplate,”
+“expect,” “aim,” “plan,” “estimate,” “continue,” and “intend,” as well as other similar words and expressions of the future, are
+intended
+to
+identify
+forward-looking
+statements.
+These
+forward-looking
+statements
+include
+statements
+related
+to
+our
+projected
+growth,
+anticipated
+future
+financial
+performance,
+and
+management’s
+long-term
+performance
+goals,
+as
+well
+as
+statements relating to
+the anticipated effects
+on results of
+operations and financial
+condition from expected
+developments
+or events, or business and growth strategies, including
+anticipated internal growth.
+These forward-looking statements involve significant risks and uncertainties that could cause our actual results to differ
+materially from those anticipated in such statements.
+Potential risks and uncertainties include, but are not
+limited to:
+•
+the strength of the United States economy
+in general and the strength of the local
+economies in which we conduct
+operations;
+•
+the COVID-19 pandemic and its impact on
+us, our employees, customers and third-party service providers, and the
+ultimate extent of the impacts of the pandemic and related government
+stimulus programs;
+•
+our ability to successfully manage interest rate risk, credit
+risk, liquidity risk, and other risks inherent to our industry;
+•
+the accuracy of our financial statement estimates and assumptions, including the estimates used for our credit loss
+reserve and deferred tax asset valuation allowance;
+•
+the efficiency and effectiveness of our
+internal control environment;
+•
+our ability
+to comply
+with the
+extensive laws
+and regulations
+to which
+we are
+subject, including
+the laws
+for each
+jurisdiction where we operate;
+•
+legislative or regulatory
+changes and changes
+in accounting
+principles, policies,
+practices or guidelines,
+including
+the effects of the forthcoming implementation
+of the Current Expected Credit Losses (“CECL”) standard;
+•
+the effects
+of our
+lack of
+a diversified
+loan portfolio
+and concentration
+in the
+South Florida
+market, including
+the
+risks
+of geographic,
+depositor,
+and
+industry concentrations,
+including our
+concentration
+in
+loans secured
+by real
+estate;
+•
+the concentration of ownership of our Class A common
+stock;
+•
+fluctuations in the price of our Class A common stock;
+•
+our ability to fund or access the capital markets at attractive
+rates and terms and manage our growth, both organic
+growth as well as growth through other means, such as
+future acquisitions;
+•
+inflation, interest rate, unemployment rate, market, and monetary
+fluctuations;
+•
+increased competition and its effect on pricing
+of our products and services as well as our margins;
+•
+the effectiveness of our risk management strategies, including operational risks, including, but not limited to, client,
+employee, or third-party fraud and security breaches; and
+•
+other
+risks
+described
+this
+Form
+10-K
+and
+other
+filings
+we
+make
+with
+the
+Securities
+and
+Exchange
+Commission
+(“SEC”).
+All
+forward-looking
+statements
+are
+necessarily
+only
+estimates
+of
+future
+results,
+and
+there
+can
+be
+no
+assurance
+that
+actual results will
+not differ
+materially from expectations.
+Therefore, you are
+cautioned not to
+place undue reliance
+on any
+forward-looking statements. Further,
+forward-looking statements included in this presentation
+are made only as of the date
+hereof, and we undertake
+no obligation to update
+or revise any forward-looking
+statement to reflect events
+or circumstances
+after the date on which the statement is made or to reflect the occurrence of unanticipated events, unless required to do so
+under the federal securities laws. You
+should also review the risk factors
+described in the reports the Company
+filed or will
+file with the
+SEC and,
+for periods
+prior to
+the completion
+of the bank
+holding company
+reorganization, the
+Bank filed
+with
+the FDIC.
+USCB Financial Holdings, Inc.
+2021 10-K
+Non-GAAP Financial Measures
+This Annual Report on Form 10-K includes
+financial information determined by methods
+other than in accordance with
+generally
+accepted
+accounting
+principles
+(“GAAP”).
+This
+financial
+information
+includes
+certain
+operating
+performance
+measures. Management has included these non-GAAP
+measures because it believes these measures may
+provide useful
+supplemental information
+for evaluating
+the Company’s
+underlying performance
+trends. Further,
+management uses
+these
+measures
+in
+managing
+and
+evaluating
+the
+Company’s
+business
+and
+intends
+to
+refer
+to
+them
+in
+discussions
+about
+our
+operations and performance.
+Operating performance
+measures should be
+viewed in addition
+to, and not
+as an alternative
+to or
+substitute
+for,
+measures
+determined
+in
+accordance
+with
+GAAP,
+and
+are
+not
+necessarily
+comparable
+to non-GAAP
+measures
+that
+may
+be
+presented
+by
+other
+companies.
+To
+the
+extent
+applicable,
+reconciliations
+of
+these
+non-GAAP
+measures to the most directly
+comparable GAAP measures can be found
+in the ‘Non-GAAP Reconciliation Tables’ included
+in this annual report.
+Overview
+For the year ended December 31, 2021, the
+Company reported net income of $21.1
+million compared with net income
+of
+$10.8 million
+for the
+year ended
+December 31, 2020,
+representing
+a 94.8%
+increase. The
+results from
+2021 included
+closing our initial public offering of the Class A common stock and the simplification of the Bank’s capital structure.
+In
+evaluating
+our
+financial
+performance,
+we
+consider
+the
+level
+of
+and
+trends
+in
+net
+interest
+income,
+the
+net
+interest
+margin, the cost of deposits,
+levels and composition of
+non-interest income and non-interest
+expense, performance ratios,
+asset quality ratios, regulatory capital ratios, and any significant
+event or transaction.
+The following significant highlights are of note for the year
+ended December 31, 2021:
+•
+Net interest
+income
+after
+provision
+for credit
+losses totaled
+$52.7
+million, an
+increase of
+$12.3
+million or
+30.5%,
+compared to $40.3 million at December 31, 2020.
+•
+Net interest
+margin (“NIM”)
+remained the
+same at
+3.26%
+for the
+years ended
+December 31, 2021
+and 2020.
+The
+yield on earning assets decreased to 3.52% in 2021, compared to 3.93% in 2020. The yield on earning assets was
+negatively impacted by certain floating rate investment securities,
+loans with variable rate pricing features, and
+new
+loans originated in the lower interest rate environment,
+including PPP loans which carry a rate of 1.0%.
+•
+NIM, excluding PPP loans, was 3.16% and 3.30% for the years ended December 31, 2021 and 2020, respectively.
+•
+Total assets grew to $1.9 billion, an increase of $352.2
+million or 23.5%, compared to December 31, 2020.
+•
+Loans grew to $1.2 billion, an increase of $151.6 million
+or 14.6%, compared to December 31, 2020.
+•
+The cost of interest-bearing liabilities
+decreased
+to 0.45%
+in 2021 from 1.07% in
+2020 as a result of the continued
+downward repricing of deposits and continued improvement in
+deposit mix.
+•
+Return on average assets for the year ended December
+31, 2021 was 1.24% compared to 0.76% in 2020.
+•
+Return on average stockholders’ equity for the year ended December 31, 2021 was
+11.45% compared to 6.54% in
+2020.
+•
+Nonperforming
+assets
+totaled
+$1.2
+million,
+a
+decrease
+of
+$0.4
+million
+or
+24.6%,
+compared
+to
+$1.6
+million
+at
+December 31, 2020.
+•
+The Company maintained its strong capital position. As of December 31, 2021, the Bank was well-capitalized, with
+a total risk-based capital ratio of 14.92%,
+a tier 1 risk-based capital ratio of
+13.70%, a common equity tier 1 capital
+ratio of
+13.70%,
+and a
+leverage ratio
+of 9.55%.
+As of
+December 31, 2021
+and 2020,
+all of
+our regulatory
+capital
+ratios exceeded the thresholds to be well-capitalized under
+the applicable bank regulatory requirements.
+•
+In April 2021,
+the Bank
+repurchased
+all of
+its issued
+and outstanding
+Class E
+preferred
+shares at
+the liquidation
+value of $7.5
+million along with
+declared dividends approved
+by the Board
+of Directors (the
+“Board”) with the
+goal
+to simplify its capital structure.
+USCB Financial Holdings, Inc.
+2021 10-K
+•
+In July
+2021, the
+Bank completed
+the initial
+public offering
+of 4,600,000
+shares of
+Class A common
+stock, which
+included an additional 600,000 shares in connection with the exercise in full of the underwriters’
+option to purchase
+additional shares. In a continuation effort to simplify the Company’s capital structure, an exchange and redemption
+of then outstanding Class C and Class D preferred shares
+was also completed.
+•
+In December 2021,
+the Bank
+entered into agreements
+with the Class
+B shareholders
+to exchange all
+outstanding
+Class B non-voting common stock for Class A voting common
+stock.
+•
+The Company became the parent bank
+holding company of the Bank effective
+December 28, 2021. Each share of
+the
+Bank
+was
+exchanged
+for
+one
+share
+of
+the
+Company,
+making
+the
+Bank
+a
+wholly
+owned
+subsidiary
+of
+the
+Company. Shares
+of the Company continue to trade under ticker symbol “USCB”
+on the Nasdaq Stock Market.
+Critical Accounting Policies and Estimates
+The
+consolidated
+financial
+statements
+are
+prepared
+based
+on
+the
+application
+of
+U.S.
+GAAP,
+the
+most
+significant
+of
+which are described
+in Note 1 “Summary
+of Significant Accounting
+Policies” to our
+Consolidated Financial Statements.
+To
+prepare financial statements in conformity with GAAP,
+management makes estimates, assumptions,
+and judgments based
+on
+available
+information.
+These
+estimates,
+assumptions,
+and
+judgments
+affect
+the
+amounts
+reported
+in
+the
+financial
+statements and accompanying notes. These estimates, assumptions, and judgments are based on
+information available as
+of
+the
+date
+of
+the
+financial
+statements
+and,
+as
+this
+information
+changes,
+actual
+results
+could
+differ
+from
+the
+estimates,
+assumptions
+and
+judgments
+reflected
+in
+the
+financial
+statements.
+In
+particular,
+management
+has
+identified
+accounting
+policies that, due to
+the estimates, assumptions
+and judgments inherent
+in those policies, are
+critical in understanding
+our
+financial statements.
+Management
+has presented
+the application
+of these
+policies
+to the
+audit and
+risk committee
+of our
+Board.
+Allowance for Credit Losses
+The allowance for credit
+losses (“ACL”) is
+a valuation allowance that
+is established through charges
+to earnings in the
+form of
+a provision for
+credit losses. The
+amount of the
+ACL is
+affected by the
+following: (i) charge-offs of
+loans that decrease
+the allowance;
+(ii) subsequent
+recoveries on
+loans previously
+charged off
+that increase
+the allowance;
+and (iii)
+provisions
+for credit losses charged to
+income that increase the allowance.
+Management considers the policies
+related to the ACL as
+the most critical to
+the financial statement
+presentation. The total
+ACL includes activity
+related to allowances
+calculated in
+accordance with Accounting Standards Codification (“ASC”) 310,
+Receivables, and ASC 450, Contingencies.
+Throughout the year,
+management estimates the probable
+incurred losses in the loan portfolio
+to determine if the ACL
+is adequate to absorb such losses. The ACL
+consists of specific and general components.
+The specific component relates
+to loans that are
+individually classified as
+impaired. We follow
+a loan review program
+to evaluate the credit
+risk in the loan
+portfolio. Loans
+that have
+been identified
+as impaired
+are reviewed
+on a
+quarterly basis
+in order
+to determine
+whether a
+specific reserve is
+required. The general
+component covers
+non-impaired loans
+and is based
+on industry and
+our specific
+historical loan
+loss experience,
+volume, growth
+and composition
+of the
+loan portfolio,
+the evaluation
+of our
+loan portfolio
+through our
+internal
+loan review
+process, general
+current
+economic
+conditions
+both
+internal and
+external to
+us that
+may
+affect the borrower’s ability to pay,
+value of collateral and other qualitative relevant risk factors. Based on a review
+of these
+estimates, we
+adjust the ACL
+to a
+level determined by
+management to be
+adequate. Estimates of
+credit losses are
+inherently
+subjective as they involve an exercise of judgment.
+The
+CARES
+Act,
+as
+amended
+by
+the
+Consolidated
+Appropriations
+Act,
+2021,
+specified
+that
+COVID-19
+related
+loan
+modifications executed
+between March 1,
+2020 and
+the earlier
+of (i)
+60 days
+after the
+date of
+termination
+of the
+national
+emergency declared by President Trump and (ii) January 1, 2022, on loans
+that were current as of December 31, 2019,
+are
+not TDRs. Additionally,
+under guidance from the federal banking agencies,
+other short-term modifications made on a good
+faith basis
+in response
+to COVID-19
+to borrowers
+that were
+current prior
+to any
+relief are
+not TDRs
+under ASC
+Subtopic
+310-40,
+“Troubled
+Debt
+Restructurings
+by
+Creditors.”
+These
+modifications
+include
+short-term
+(i.e.,
+up
+to
+six
+months)
+modifications
+such
+as
+payment
+deferrals,
+fee
+waivers,
+extensions
+of
+repayment
+terms,
+or
+delays
+in
+payment
+that
+are
+insignificant. The Company’s charge-off policy is to continuously
+review all impaired loans to monitor the Company’s ability
+to collect them in full at the applicable maturity date and/or in accordance
+with terms of any restructurings. For loans which
+are collateral dependent,
+or deemed to
+be uncollectible, any
+shortfall in the
+fair value of
+the collateral relative to
+the recorded
+investment in the loan is charged off. The amount charged
+-off conforms to the amount necessary
+to comply with GAAP.
+Income Taxes
+Deferred tax
+assets and
+liabilities are
+recognized for
+the future
+tax consequences
+attributable to
+differences
+between
+the financial statement carrying amounts of
+existing assets and liabilities and their
+respective tax bases and operating loss
+USCB Financial Holdings, Inc.
+2021 10-K
+and tax credit carryforwards. Deferred tax
+assets and liabilities are measured
+using enacted tax rates expected
+to apply to
+taxable income
+in the
+years in
+which those
+temporary differences
+are expected
+to be
+recovered or
+settled. The
+effect
+on
+deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment
+date.
+Management is required to assess whether a valuation allowance should be established on the net deferred tax assets
+based on the
+consideration of
+all available evidence
+using a more
+likely than not
+standard. In its
+evaluation, management
+considers taxable loss
+carry-back availability, expectation of sufficient
+taxable income, trends
+in earnings, the
+future reversal
+of temporary differences, and available tax planning
+strategies.
+The Company recognizes positions taken
+or expected to be
+taken in a tax
+return in accordance with existing accounting
+guidance on
+income taxes
+which prescribes
+a recognition threshold
+and measurement
+process. Interest
+and penalties
+on
+tax liabilities, if any, would
+be recorded in interest expense and other operating non-interest
+expense, respectively.
+Segment Reporting
+Management monitors the revenue streams for all its various
+products and services. The identifiable segments are not
+material
+and
+operations
+are
+managed
+and
+financial
+performance
+is
+evaluated
+on
+an
+overall
+Company-wide
+basis.
+Accordingly, all
+the financial service
+operations are
+considered by management
+to be
+aggregated in one
+reportable operating
+segment.
+Results of Operations
+General
+The following
+tables present
+selected balance
+sheet, income
+statement, and
+profitability ratios
+for the
+dates indicated
+(in thousands, except ratios):
+As of December 31,
+Consolidated Balance Sheets:
+Total
+assets
+$
+1,853,939
+$
+1,501,742
+Total
+loans
+(1)
+$
+1,190,081
+$
+1,038,504
+Total
+deposits
+$
+1,590,379
+$
+1,273,402
+Total
+stockholders' equity
+$
+203,897
+$
+171,001
+(1)
+Loan amounts include deferred fees/costs.
+Years Ended December 31,
+Consolidated Statements of Operations:
+Net interest income before provision for credit losses
+$
+52,496
+$
+43,597
+Total
+non-interest income
+$
+10,698
+$
+6,097
+Total
+non-interest expense
+$
+35,677
+$
+33,036
+Net income
+$
+21,077
+$
+10,820
+Net income (loss) available to common stockholders
+$
+(70,585)
+$
+7,693
+Profitability:
+Efficiency ratio
+56.31%
+71.13%
+Net interest margin
+3.26%
+3.26%
+The Company’s results
+of operations
+depend substantially on
+net interest income
+and non-interest income.
+Other factors
+contributing
+to
+the
+results
+of
+operations
+include
+our
+provision
+for
+credit
+losses,
+non-interest
+expenses,
+and
+provision
+for
+income taxes.
+Net income
+for the
+year ended
+December 31, 2021
+was $21.1 million
+,
+compared with
+net income
+of $10.8 million
+for
+the same period in 2020. The Company reported net loss per diluted
+share for the year ended December 31, 2021 of $6.72
+compared to net income per diluted share for the same period in 2020 of $1.50 and $0.30 for
+Class A
+and Class B common
+stock, respectively, after adjusted to reflect the 1
+for 5 reverse stock split on
+Class A
+common stock. The net loss per diluted
+share for the year ended December 31, 2021 was attributable to the one-time reduction in net income available to common
+stockholders for the
+exchange and redemption
+of the Class
+C and Class D
+preferred shares. During
+third quarter of
+2021,
+USCB Financial Holdings, Inc.
+2021 10-K
+the
+Company
+completed
+an
+exchange
+of
+then
+outstanding
+preferred
+shares
+for
+Class A
+common
+shares
+and
+thereafter
+redeemed the remaining outstanding preferred shares, at a liquidation value that exceeded book value, causing a one-time
+reduction in
+net income
+available to
+common stockholders
+of $89.6
+million. At December 31,
+2021, there
+were no
+issued
+and outstanding preferred shares.
+Operating net
+income per
+diluted share
+(non-GAAP) for
+the year
+ended December 31,
+2021 was
+$1.81 compared
+to
+operating net income per
+diluted share (non-GAAP)
+for the same period
+in 2020 of $1.50
+and $0.30 for Class A and Class
+B, respectively.
+Operating net
+income per
+diluted share
+(non-GAAP) for
+the year
+ended December 31,
+2021 excludes
+the
+$89.6 million one-time accounting
+impact of
+the exchange
+and redemption of
+the preferred
+shares. The
+operating net
+income
+per diluted share
+for the year
+ended December 31,
+2020 was adjusted
+to reflect the
+1 for 5
+reverse stock
+split on Class A
+common stock.
+To see
+a reconciliation
+of non-GAAP
+measures to
+GAAP measures
+refer to
+section below
+“Reconciliation
+and Management Explanation of Non-GAAP Financial
+Measures”.
+Net Interest Income
+Net interest
+income is
+the difference
+between interest
+earned on interest
+earning assets
+and interest
+incurred on
+interest-
+bearing liabilities
+and is
+the primary
+driver of
+core earnings.
+Interest income
+is generated
+from interest
+and dividends
+on
+interest-earning
+assets,
+including
+loans,
+investment
+securities
+and
+other
+short-term
+investments.
+Interest
+expense
+is
+incurred
+from
+interest
+paid
+on
+interest-bearing
+liabilities,
+including
+interest-bearing
+deposits,
+FHLB
+advances
+and
+other
+borrowings.
+To evaluate net
+interest income, we
+measure and monitor
+(i) yields on
+loans and other
+interest-earning assets, (ii)
+the
+costs of deposits
+and other funding
+sources, (iii) net
+interest spread, and
+(iv) net interest margin.
+Net interest spread is
+equal
+to the difference between rates
+earned on interest-earning assets
+and rates paid on interest-bearing
+liabilities. Net interest
+margin is
+equal to
+the annualized
+net interest
+income
+divided by
+average interest
+-earning assets.
+Because
+non-interest-
+bearing sources of funds, such as non-interest-bearing deposits
+and stockholders’ equity, also fund interest-earning assets,
+net interest margin includes the benefit of these non-interest-bearing
+sources.
+Changes in
+the market
+interest rates
+and interest
+rates we
+earn on
+interest-earning assets
+or pay on
+interest-bearing
+liabilities, as well
+as the volume
+and types of
+interest-earning assets and interest-bearing
+and non-interest-bearing liabilities,
+are usually the
+largest drivers
+of periodic changes
+in net interest
+spread, net interest
+margin and net
+interest income.
+Our
+asset liability committee
+(“ALCO”) has
+in place asset-liability
+management techniques
+to manage major
+factors that
+affect
+net interest income and net interest margin.
+USCB Financial Holdings, Inc.
+2021 10-K
+The following table contains information related
+to average balance sheet, average yields
+on assets, and average costs
+of liabilities for the periods indicated (in thousands):
+Years Ended December 31,
+Average
+Balance
+Interest
+Yield/Rate
+Average
+Balance
+Interest
+Yield/Rate
+Assets
+Interest-earning assets:
+Loans
+(1)
+$
+1,116,142
+$
+48,730
+4.37
+%
+$
+1,026,905
+$
+47,078
+4.58
+%
+Investment securities
+(2)
+403,677
+7,886
+1.95
+%
+201,073
+5,248
+2.61
+%
+Other interest earnings assets
+92,430
+0.11
+%
+110,898
+0.28
+%
+Total
+interest-earning assets
+1,612,249
+56,722
+3.52
+%
+1,338,876
+52,633
+3.93
+%
+Non-interest earning assets
+89,409
+90,059
+Total
+assets
+$
+1,701,658
+$
+1,428,935
+Liabilities and stockholders' equity
+Interest-bearing liabilities:
+Interest-bearing demand deposits
+$
+52,379
+0.11
+%
+$
+46,819
+0.34
+%
+Saving and money market deposits
+619,810
+2,082
+0.34
+%
+473,028
+3,095
+0.65
+%
+Time deposits
+235,127
+1,531
+0.65
+%
+276,462
+4,709
+1.70
+%
+Total
+interest-bearing deposits
+907,316
+3,672
+0.40
+%
+796,309
+7,962
+1.00
+%
+Borrowings and repurchase agreements
+36,000
+1.54
+%
+51,362
+1,074
+2.09
+%
+Total
+interest-bearing liabilities
+943,316
+4,226
+0.45
+%
+847,671
+9,036
+1.07
+%
+Non-interest bearing demand deposits
+547,116
+390,467
+Other non-interest-bearing liabilities
+27,142
+25,281
+Total
+liabilities
+1,517,574
+1,263,419
+Stockholders' equity
+184,084
+165,516
+Total
+liabilities and stockholders' equity
+$
+1,701,658
+$
+1,428,935
+Net interest income
+$
+52,496
+$
+43,597
+Net interest spread
+(3)
+3.07
+%
+2.86
+%
+Net interest margin
+(4)
+3.26
+%
+3.26
+%
+(1)
+Average loan balances include non-accrual loans. Interest income
+on loans includes accretion of deferred
+loan fees, net of deferred loan costs.
+(2)
+At fair value except for securities held to maturity.
+(3)
+Net interest spread is the average yield on
+total interest-earning assets minus the average
+rate on total interest-bearing liabilities.
+(4)
+Net interest margin is the ratio of net interest
+income to total interest-earning assets.
+Net interest income before the provision
+for credit losses was $52.5 million
+for the year ended December
+31, 2021, an
+increase of
+$8.9 million or
+20.4%, from
+$43.6 million for
+the year
+ended December
+31, 2020.
+This increase
+was primarily
+attributable to higher
+income from investment
+securities and loan
+fees as well
+as lower costs
+for interest-bearing liabilities
+because of lower interest rate benchmarks.
+Included with loan interest income are PPP fees totaling $3.6 million and $2.3 million for the year ended December
+31,
+2021 and 2020, respectively.
+PPP loan fees are recognized upon forgiveness.
+The net
+interest margin
+remained the
+same at
+3.26% for
+the years
+ended December 31,
+2021 and
+2020. The
+overall
+and individual yields for interest-bearing assets and interest-bearing
+liabilities both decreased in 2021 compared to 2020.
+Provision for Credit Losses
+The allowance for credit losses
+(“ACL”) represents probable incurred
+losses in our portfolio. We
+maintain an adequate
+ACL that can mitigate probable losses incurred in the loan portfolio. The ACL is increased by the provision for credit losses
+and is decreased
+by charge-offs,
+net of recoveries
+on prior
+loan charge-offs.
+There are multiple
+credit quality
+metrics that
+we use
+to
+base our
+determination
+of
+the
+amount of
+the ACL and
+corresponding
+provision
+for credit
+losses. These
+credit
+metrics evaluate
+the credit
+quality and
+level of
+credit risk
+inherent in
+our loan
+portfolio, assess
+non-performing
+loans and
+charge-offs levels, considers statistical trends and economic
+conditions and other applicable factors.
+Provision for
+credit loss
+for the
+year ended
+December 31,
+2021, was
+a net
+reduction of
+$160 thousand
+compared to
+$3.3 million in provision
+expense for the same
+period in 2020. The primary
+driver of the decrease
+was the improvement of
+USCB Financial Holdings, Inc.
+2021 10-K
+the credit risk
+associated with the
+COVID-19 pandemic. The
+ACL as
+a percentage of
+total loans was
+1.27%
+at December 31,
+2021 compared to 1.45% at December 31, 2020.
+See “Allowance for Credit Losses” below for further discussion
+on how the ACL is calculated.
+Non-Interest Income
+Net interest income
+and other types of
+recurring non-interest
+income are generated
+from our operations.
+Our services
+and products generate service charges and fees, mainly from our depository accounts. We also
+generate income from gain
+on sale of
+loans though
+our swap and
+SBA programs. In addition,
+we own insurance
+on several employees
+and generate
+income on the increase in the cash surrender value of
+these policies.
+The following table presents the components of non-interest
+income for the dates indicated (in thousands):
+Years Ended December 31,
+Service fees
+$
+3,609
+$
+3,266
+Gain on sale of securities available for sale, net
+Gain on sale of loans held for sale, net
+1,626
+Gain on sale of premises and equipment, net
+-
+Loan settlement
+2,500
+-
+Other non-interest income
+1,766
+1,558
+Total
+non-interest income
+$
+10,698
+$
+6,097
+Non-interest income
+for the
+year ended
+December 31,
+2021 increased
+$4.6 million or
+75.5%, compared
+to the
+same
+period in 2020.
+This increase was primarily
+driven by the default
+interest recovery of a
+prior lending customer for $2.5
+million
+and a gain on the sale of a previously owned building for $983 thousand as well as higher deposit service fees and gain on
+sales of loans due
+to increased activity
+in our SBA program. Further,
+the default interest recovery
+of $2.5 million was
+for a
+loan that was originated
+in 2008 and subsequently
+went through many iterations
+of credit collection. This payment
+reflects
+the final payment and settlement of lien judgments against
+the customer.
+Non-Interest Expense
+The following table presents the components of non-interest
+expense for the dates indicated (in thousands):
+Years Ended December 31,
+Salaries and employee benefits
+$
+21,438
+$
+19,204
+Occupancy
+5,257
+5,656
+Regulatory assessment and fees
+Consulting and legal fees
+1,454
+1,045
+Network and information technology services
+1,466
+1,536
+Other operating
+5,279
+4,904
+Total
+non-interest expense
+$
+35,677
+$
+33,036
+Non-interest expense
+for the
+year ended
+December 31, 2021
+increased $2.6 million
+or 8.0%,
+compared to
+the same
+period in
+2020.
+The increase
+is primarily
+due to
+an increase
+in salaries
+and employee
+benefit costs
+of $2.2 million
+for the
+year ended
+December 31, 2021,
+compared to
+the same
+period in
+2020. The
+headcount of
+full-time equivalent
+employees
+increased
+from
+at
+December 31,
+to
+at
+December 31,
+2021.
+Further,
+consulting
+and
+legal
+fees
+and
+other
+operating
+expenses
+increased
+$0.4
+million
+or
+39.1%
+and
+$0.4 million
+or
+7.6%,
+respectively,
+during
+the
+year
+ended
+December 31,
+2021 compared
+to the
+same
+period
+in
+due
+to our
+operations
+as a
+publicly traded
+company
+and
+the
+formation of a bank holding company.
+The increase in salaries and employee benefits, consulting and legal fees, and other
+operating costs has enabled
+us to support recent growth
+and has provided us with
+the necessary technology and required
+professionals to execute our growth strategy.
+Provision for Income Tax
+Fluctuations in the effective tax rate reflect the effect of the differences in the inclusion or deductibility of certain income
+and expenses for
+income tax purposes.
+Therefore, future
+decisions on the
+investments we choose
+will affect our
+effective
+USCB Financial Holdings, Inc.
+2021 10-K
+tax rate. Surrender value of bank-owned life
+insurance policies for key employees, purchasing municipal bonds, and
+overall
+taxable income will be important elements in determining our
+effective tax rate.
+Income tax
+expense for
+the year
+ended
+December 31,
+2021 was
+$6.6 million,
+compared
+to $2.
+million
+for the
+year
+ended December 31, 2020. The
+effective tax rate for
+the year ended December 31, 2021
+was 23.8% and for the
+year ended
+December 31, 2020 was 19.3%.
+For a further discussion
+on income taxes, see
+Note 6 “Income Taxes” to
+the Consolidated Financial
+Statements in this
+Form 10-K.
+Rate/Volume Analysis
+The
+table
+below
+sets
+forth
+information
+regarding
+changes
+in
+interest
+income
+and
+interest
+expense
+for
+the
+periods
+indicated (in thousands).
+For each category of
+interest-earning assets and interest-bearing liabilities,
+information is provided
+on changes attributable to (i) changes in rate (changes in rate multiplied by old volume); (ii) changes in volume (changes in
+volume multiplied by old rate); and (iii) changes in rate-volume (change in
+rate multiplied by change in volume). Changes in
+rate-volume are proportionately allocated between rate and volume
+variance.
+Years Ended 2021 vs. 2020
+Years Ended 2020 vs. 2019
+Increase (decrease) due to change in
+Increase (decrease) due to change in
+Volume
+Rate
+Net
+Change
+Volume
+Rate
+Net
+Change
+Interest-earning assets:
+Loans
+(1)
+$
+4,091
+$
+(2,439)
+$
+1,652
+$
+4,573
+$
+(2,229)
+$
+2,344
+Investment securities
+(2)
+5,288
+(2,650)
+2,638
+(596)
+(199)
+Other interest earnings assets
+(51)
+(150)
+(201)
+1,412
+(1,866)
+(454)
+Total increase (decrease) in interest income
+9,328
+(5,239)
+4,089
+6,382
+(4,691)
+1,691
+Interest-bearing liabilities:
+Interest-bearing demand deposits
+(118)
+(99)
+$3
+(6.00)
+(3)
+Saving and money market deposits
+(1,973)
+(1,013)
+(2,738)
+(2,046)
+Time deposits
+(704)
+(2,474)
+(3,178)
+1,106
+(1,242)
+(136)
+Borrowings and repurchase agreements
+(321)
+(199)
+(520)
+(952)
+(81)
+(1,033)
+Total increase (decrease) in interest expense
+(46)
+(4,764)
+(4,810)
+(4,067)
+(3,218)
+Increase (decrease) in net interest income
+$
+9,374
+$
+(475)
+$
+8,899
+$
+5,533
+$
+(624)
+$
+4,909
+(1)
+Average loan balances include non-accrual loans. Interest income
+on loans includes accretion of deferred
+loan fees, net of deferred loan costs.
+(2)
+At fair value except for securities held to maturity.
+Both average yields on
+interest earning assets and
+average rates paid on interest
+bearing liabilities have been declining
+over the
+periods presented,
+reflecting the
+macro interest
+rate environment
+and ongoing
+initiatives to
+reduce the
+cost and
+improve the mix of deposits.
+Analysis of Financial Condition
+Total
+assets at December 31, 2021, were $1.9 billion, an increase of $352.2 million, or 23.5%, over total assets of $1.5
+billion at
+December 31, 2020. Total loans increased
+$151.6 million,
+or 14.6%,
+to $1.2
+billion at
+December 31, 2021 compared
+to
+$1.0
+billion
+at
+December 31,
+2020.
+The
+increase
+in
+loans
+includes
+purchased
+loans
+totaling
+$129.5
+million
+including
+deferred
+fees.
+Total
+deposits
+increased
+by
+$317.0
+million,
+or
+24.9%,
+to
+$1.6
+billion
+at
+December 31,
+compared
+to
+December 31, 2020.
+Investment Securities
+The investment portfolio
+is used and
+managed to provide
+liquidity through cash
+flows, marketability
+and, if necessary,
+collateral for
+borrowings. The
+investment portfolio
+is also
+used as
+a tool
+to manage
+interest rate
+risk and
+the Company’s
+capital
+market
+risk
+exposure.
+The
+philosophy
+of
+the
+portfolio
+is
+to
+maximize
+the
+Company’s
+profitability
+taking
+into
+consideration the Company’s risk appetite and tolerance, manage the assets composition
+and diversification, and maintain
+adequate risk-based capital ratios.
+The
+investment
+portfolio
+is
+managed
+in
+accordance
+with
+the
+Asset
+and
+Liability
+Management
+(“ALM”)
+policy,
+which
+includes an
+investment guideline,
+approved by
+the Board.
+Such policy
+is reviewed
+at least
+annually or
+more frequently
+if
+deemed necessary,
+depending on
+market
+conditions
+and/or
+unexpected
+events.
+The investment
+portfolio
+composition
+is
+USCB Financial Holdings, Inc.
+2021 10-K
+subject to change
+depending on the
+funding and liquidity
+needs of
+the Company, and the interest
+risk management objective
+directed by the ALCO. The portfolio of investments can be used to modify the duration of the balance
+sheet. The allocation
+of cash into
+securities takes
+into consideration
+anticipated future cash
+flows (uses
+and sources) and
+all available sources
+of credit.
+Our
+investment
+portfolio
+consists
+primarily
+of
+securities
+issued
+by
+U.S.
+government-sponsored
+agencies,
+agency
+mortgage-backed securities,
+collateralized mortgage
+obligation securities,
+municipal securities,
+and other
+debt securities,
+all with varying contractual maturities and coupons. Due to the optionality embedded in these securities, the final maturities
+do not
+necessarily represent the
+expected life of
+the portfolio. Some
+of these
+securities will be
+called or paid
+down depending
+on capital market conditions and expectations. The investment portfolio is regularly reviewed by the Chief Financial Officer,
+Treasurer,
+or
+ALCO
+of
+the
+Company
+to
+ensure
+an
+appropriate
+risk
+and
+return
+profile
+as
+well
+as
+for
+adherence
+to
+the
+investment policy.
+As of December 31, 2021, the investment portfolio consisted of available-for-sale
+(“AFS”) and held-to-maturity (“HTM”)
+debt securities.
+During the third quarter
+of 2021, there were
+28 investment securities that
+were transferred from AFS
+to HTM
+with an amortized cost basis and fair value amount
+of $67.6 million and $68.7 million, respectively.
+On the date of transfer,
+these securities had a
+total net unrealized gain of
+$1.1 million. The transfer of debt
+securities from the AFS
+to HTM category
+were made at fair value at the date of
+transfer. The unrealized gain or loss at the date of transfer is retained in accumulated
+other
+comprehensive
+income
+and
+in
+the
+carrying
+value
+of
+the
+HTM
+securities.
+Such
+amounts
+are
+amortized
+over
+the
+remaining life of the security.
+There was no impact to net income on the date of transfer.
+The book value of the AFS securities is adjusted monthly
+for unrealized gain or loss as a valuation allowance,
+and any
+gain
+or
+loss
+is
+reported
+on
+an
+after-tax
+basis
+as
+a
+component
+of
+other
+comprehensive
+income
+in
+stockholders’
+equity.
+Periodically,
+we
+may
+need
+to
+assess
+whether
+there
+have
+been
+any
+events
+or
+unexpected
+economic
+circumstances
+to
+indicate that
+a security
+on which
+there is
+an unrealized
+loss is
+impaired on
+an other-than-temporary
+basis (“OTTI”).
+If the
+impairment is
+deemed to
+be permanent,
+an analysis
+would be
+made considering
+many factors,
+including the
+severity and
+duration of the impairment, the severity
+of the event, our intent and
+ability to hold the security for a
+period of time sufficient
+for a
+recovery in
+value, recent
+events specific
+to the
+issuer or
+industry,
+any related
+credit events,
+and for
+debt securities,
+external
+credit
+ratings
+and
+recent
+downgrades
+related
+to
+deterioration
+of
+credit
+quality.
+Securities
+on
+which
+there
+is
+an
+unrealized loss
+that is
+deemed to
+be OTTI
+are written
+down to
+fair value,
+with the
+write-down recorded
+as a
+realized loss
+under line item
+“Gain (loss) on
+sale of securities
+available-for-sale,
+net” of the Consolidated
+Statements of Operations.
+As
+of December
+31,
+2021, there
+are no
+securities
+which
+management
+has
+classified
+as
+OTTI.
+For
+further discussion
+of our
+analysis
+on
+impaired
+investment
+securities
+for
+OTTI,
+see
+Note 2
+“Investment
+Securities”
+to
+the
+Consolidated
+Financial
+Statements in this Form 10-K.
+AFS and
+HTM investment
+securities increased
+$189.9 million or
+56.8% to
+$524.2 million at
+December 31,
+2021 from
+$334.3 million at December 31, 2020. Investment securities increased over the past year due to higher than expected cash
+balances.
+Management
+reinvested
+idle
+cash
+balances
+into
+high
+credit
+quality
+investments
+to
+increase
+the
+Company’s
+profitability
+and
+modify
+the
+Company’s
+balance
+sheet
+duration
+according
+to
+the
+ALM
+policy.
+As
+of
+December 31,
+2021,
+corporate bond securities with a market value of $20.4 million were pledged to secure
+public deposits. As of December 31,
+2021, the Company did not have any tax-exempt securities
+in the portfolio.
+USCB Financial Holdings, Inc.
+2021 10-K
+The
+following
+table
+presents
+the
+amortized
+cost
+and
+fair
+value
+of
+investment
+securities
+for
+the
+dates
+indicated
+(in
+thousands):
+December 31, 2021
+December 31, 2020
+Available-for-sale:
+Amortized
+Cost
+Fair Value
+Amortized
+Cost
+Fair Value
+U.S. Government Agency - SBA
+$
+-
+$
+-
+$
+1,488
+$
+1,552
+U.S. Government Agency
+10,564
+10,520
+20,196
+20,032
+Collateralized mortgage obligations
+160,506
+156,829
+104,426
+104,650
+Mortgage-backed securities - Residential
+120,643
+118,842
+80,110
+81,301
+Mortgage-backed securities - Commercial
+49,905
+50,117
+45,802
+48,331
+Municipal securities
+25,164
+24,276
+24,230
+24,211
+Bank subordinated debt securities
+27,003
+28,408
+24,004
+24,630
+Corporate bonds
+12,068
+12,550
+27,733
+29,615
+$
+405,853
+$
+401,542
+$
+327,989
+$
+334,322
+Held-to-maturity:
+U.S. Government Agency - SBA
+$
+12,004
+$
+11,641
+$
+-
+$
+-
+U.S. Government Agency
+22,501
+22,263
+-
+-
+Collateralized mortgage obligations
+44,820
+43,799
+-
+-
+Mortgage-backed securities - Residential
+26,920
+26,352
+-
+-
+Mortgage-backed securities - Commercial
+3,103
+3,013
+-
+-
+Corporate bonds
+13,310
+13,089
+-
+-
+$
+122,658
+$
+120,157
+$
+-
+$
+-
+The following
+table shows
+the weighted
+average yields,
+categorized by
+contractual maturity,
+for investment
+securities
+as of December 31, 2021 (in thousands, except ratios):
+Within 1 year
+After 1 year through
+5 years
+After 5 years through
+10 years
+After 10 years
+Total
+Amortized
+Cost
+Yield
+Amortized
+Cost
+Yield
+Amortized
+Cost
+Yield
+Amortized
+Cost
+Yield
+Amortized
+Cost
+Yield
+Available-for-sale:
+U.S. Government Agency
+$
+-
+0.00 %
+$
+-
+0.00 %
+$
+-
+0.00 %
+$
+10,564
+1.74%
+$
+10,564
+0.00 %
+Collateralized mortgage obligations
+-
+0.00 %
+-
+0.00 %
+-
+0.00 %
+160,506
+1.32%
+160,506
+1.32%
+MBS - Residential
+-
+0.00 %
+-
+0.00 %
+1,002
+0.00 %
+119,641
+2.26%
+120,643
+1.38%
+MBS - Commercial
+-
+0.00 %
+-
+0.00 %
+-
+0.00 %
+49,905
+2.82%
+49,905
+2.82%
+Municipal securities
+-
+0.00 %
+-
+0.00 %
+1,000
+2.05%
+24,164
+1.38%
+25,164
+1.73%
+Bank subordinated debt securities
+-
+0.00 %
+-
+0.00 %
+26,003
+4.98%
+1,000
+6.13%
+27,003
+5.02%
+Corporate bonds
+1,992
+3.39%
+5,983
+4.24%
+4,093
+2.54%
+-
+0.00 %
+12,068
+3.52%
+$
+1,992
+$
+5,983
+$
+32,098
+$
+365,780
+$
+405,853
+1.87%
+Held-to-maturity:
+U.S. Government Agency - SBA
+$
+-
+0.00 %
+$
+-
+0.00 %
+$
+3,953
+1.58%
+$
+8,051
+1.58%
+$
+12,004
+1.58%
+U.S. Government Agency
+-
+0.00 %
+2,982
+0.64%
+19,519
+1.26%
+-
+0.00 %
+22,501
+1.18%
+Collateralized mortgage obligations
+-
+0.00 %
+-
+0.00 %
+-
+0.00 %
+44,820
+1.46%
+44,820
+1.46%
+MBS - Residential
+-
+0.00 %
+2,836
+2.98%
+9,264
+1.61%
+14,820
+1.62%
+26,920
+1.76%
+MBS - Commercial
+-
+0.00 %
+-
+0.00 %
+3,103
+1.61%
+-
+0.00 %
+3,103
+1.61%
+Corporate bonds
+2,017
+3.07%
+11,293
+2.71%
+-
+0.00 %
+-
+0.00 %
+13,310
+2.76%
+$
+2,017
+$
+17,111
+$
+35,839
+$
+67,691
+$
+122,658
+1.62%
+Loans
+Loans are
+the largest
+category of
+interest-earning assets
+on the
+Consolidated
+Balance Sheets,
+and usually
+provides
+higher yields
+than the
+rest of
+the interest-earning
+assets. Higher
+yields typically
+carry inherent
+credit and
+liquidity risks
+in
+comparison to lower yield assets.
+The Company manages and mitigates
+such risks in accordance with the
+credit and ALM
+policies, risk tolerance and balance sheet composition.
+USCB Financial Holdings, Inc.
+2021 10-K
+The following table shows the loan portfolio composition
+as of the dates indicated (in thousands):
+December 31, 2021
+December 31, 2020
+Total
+Percent of
+Total
+Total
+Percent of
+Total
+Residential Real Estate
+$
+201,359
+16.9
+%
+$
+232,754
+22.3
+%
+Commercial Real Estate
+704,988
+59.2
+%
+606,425
+58.2
+%
+Commercial and Industrial
+146,592
+12.3
+%
+157,330
+15.1
+%
+Foreign Banks
+59,491
+5.0
+%
+38,999
+3.7
+%
+Consumer and Other
+79,229
+6.6
+%
+5,507
+0.5
+%
+Total
+gross loans
+1,191,659
+100.0
+%
+1,041,015
+99.8
+%
+Less: Unearned income
+1,578
+2,511
+Total
+loans net of unearned income
+1,190,081
+1,038,504
+Less: Allowance for credit losses
+15,057
+15,086
+Total
+net loans
+$
+1,175,024
+$
+1,023,418
+Total
+gross loans increased
+by $150.6 million
+or 14.5%
+at December 31,
+2021 compared to
+the same period
+in 2020.
+The most
+significant growth
+was in
+the commercial
+real estate
+and consumer
+and other
+loan pools,
+offset by
+a decline
+in
+the residential real
+estate and commercial
+and industrial loan
+pools. Consumer and
+other loans increased
+because of two
+yacht loan portfolios that were purchased for $93.7 million,
+including deferred fees, for the year ended December 31, 2021.
+Commercial and industrial loans decreased because of
+continuing PPP loan forgiveness
+as expected.
+The loan portfolio has continued to experience growth in the past two years. Since our inception, the primary focus has
+been
+on
+commercial
+real
+estate
+lending,
+representing
+approximately
+59.2%
+of
+the
+total
+gross
+loan
+portfolio
+as
+of
+December 31, 2021. In the past, we supplemented our core commercial growth with the origination of 1-4 family residential
+loans and
+the acquisition
+of 1-4
+family residential
+loan portfolios
+to further
+diversify our
+loan portfolio.
+However,
+we have
+determined not to further pursue this line of business and
+are focused on growing our commercial portfolio.
+Other than the previous
+mentioned shifts, we
+do not expect any
+significant changes
+over the foreseeable future
+in the
+composition
+of
+our
+loan
+portfolio
+or
+in
+our
+emphasis
+on
+commercial
+real
+estate
+lending.
+Our
+loan
+growth
+strategy
+since
+inception has been reflective of the market in which we
+operate and of our strategic plan as approved by the
+Board.
+Most of the
+commercial real estate
+exposure represents
+loans to commercial
+businesses secured
+by owner-occupied
+real estate.
+The growth
+experienced
+over the
+last couple
+of years
+is primarily
+due to
+implementation
+of our
+relationship-
+based banking model and the success
+of our relationship managers in
+competing for new business in
+a highly competitive
+metropolitan area. Many of our
+larger loan clients have lengthy
+relationships with members of our senior management
+team
+or our relationship managers that date back to former institutions.
+From a
+liquidity perspective,
+our loan
+portfolio provides
+us with
+additional
+liquidity due
+to repayments
+or unexpected
+prepayments.
+The
+following
+table
+shows
+maturities
+and
+sensitivity
+to
+interest
+rate
+changes
+for
+the
+loan
+portfolio
+at
+December 31, 2021 (in thousands):
+Due in 1 year or
+less
+Due in 1 to 5
+years
+Due after 5 to 15
+years
+Due after 15
+years
+Total
+Residential Real Estate
+$
+7,745
+$
+18,350
+$
+83,595
+$
+91,669
+$
+201,359
+Commercial Real Estate
+24,279
+163,931
+513,333
+3,445
+704,988
+Commercial and Industrial
+15,263
+67,833
+31,336
+32,160
+146,592
+Foreign Banks
+59,491
+-
+-
+-
+59,491
+Consumer and Other
+2,005
+3,465
+2,505
+71,254
+79,229
+Total
+gross loans
+$
+108,783
+$
+253,579
+$
+630,769
+$
+198,528
+$
+1,191,659
+Interest rate sensitivity:
+Fixed interest rates
+$
+82,940
+$
+170,406
+$
+136,429
+$
+78,859
+$
+468,634
+Floating or adjustable rates
+25,843
+83,173
+494,340
+119,669
+723,025
+Total
+gross loans
+$
+108,783
+$
+253,579
+$
+630,769
+$
+198,528
+$
+1,191,659
+The information
+presented
+in the
+table above
+is based
+upon the
+contractual
+maturities of
+the individual
+loans, which
+may be
+subject to
+renewal at
+their contractual
+maturity.
+Renewals will
+depend on
+approval by
+our credit
+department and
+balance sheet
+composition at the
+time of
+the analysis,
+as well
+as any
+modification of terms
+at the
+loan’s maturity. Additionally,
+USCB Financial Holdings, Inc.
+2021 10-K
+maturity
+concentrations,
+loan
+duration,
+prepayment
+speeds
+and
+other
+interest
+rate
+sensitivity
+measures
+are
+discussed,
+reviewed, and analyzed by the ALCO. Decisions on term
+rate modifications are discussed as well.
+As of
+December 31,
+2021, approximately
+60.7%
+of the
+loans
+have adjustable/variable
+rates
+and
+39.3%
+of the
+loans
+have fixed rates.
+The adjustable/variable
+loans re-price to
+different benchmarks
+and tenors in
+different periods
+of time. By
+contractual characteristics, there are no
+material concentrations on anniversary repricing. Additionally, it is
+important to note
+that most
+of our
+loans have
+interest rate
+floors. This
+embedded option
+protects the
+Company from
+a decrease
+in interest
+rates and positions us to gain in the scenario of higher interest
+rates.
+Asset Quality
+Our asset quality grading
+analysis estimates the capability of
+the borrower to repay
+the contractual obligation of
+the loan
+agreement as scheduled or at all. The Company’s internal credit risk grading system is based on experiences with similarly
+graded loans. Internal
+credit risk
+grades are evaluated
+at least annually,
+or more frequently
+if deemed necessary.
+Internal
+credit
+risk
+ratings
+may
+change
+based
+on
+management’s
+assessment
+of
+the
+results
+from
+the
+annual
+review,
+portfolio
+monitoring and other developments observed with borrowers.
+The internal credit risk grades used by the Company to
+assess the credit worthiness of a loan are shown below:
+Pass
+- Loans indicate different levels of satisfactory
+financial condition and performance.
+Special Mention
+- Loans classified as special mention have a potential weakness
+that deserves management’s
+close attention. If left uncorrected, these potential weaknesses
+may result in deterioration of the repayment
+prospects for the loan or of the institution’s
+credit position at some future date.
+Substandard
+- Loans classified as substandard are inadequately protected
+by the current net worth and paying
+capacity of the obligator or of the collateral pledged, if
+any. Loans so classified
+have a well-defined weakness or
+weaknesses that jeopardize the liquidation of the debt.
+They are characterized by the distinct possibility that the
+institution will sustain some loss if the deficiencies are
+not corrected.
+Doubtful
+- Loans classified as doubtful have all the weaknesses inherent
+in those classified at substandard, with
+the added characteristic that the weaknesses make collection
+or liquidation in full on the basis of currently existing
+facts, conditions, and values, highly questionable and improbable.
+Loss
+- Loans classified as loss are considered uncollectible.
+Loan credit exposures by internally assigned grades are
+as follows for the dates indicated (in thousands):
+December 31, 2021
+Pass
+Special Mention
+Substandard
+Doubtful
+Total
+Residential Real Estate
+$
+196,778
+$
+-
+$
+4,581
+$
+-
+$
+201,359
+Commercial Real Estate
+703,349
+1,222
+-
+704,988
+Commercial and Industrial
+146,039
+-
+-
+146,592
+Foreign Banks
+59,491
+-
+-
+-
+59,491
+Consumer and Other
+79,005
+-
+-
+79,229
+$
+1,184,662
+$
+1,222
+$
+5,775
+$
+-
+$
+1,191,659
+December 31, 2020
+Pass
+Special Mention
+Substandard
+Doubtful
+Total
+Residential Real Estate
+$
+225,861
+$
+-
+$
+6,893
+$
+-
+$
+232,754
+Commercial Real Estate
+605,180
+-
+1,245
+-
+606,425
+Commercial and Industrial
+157,097
+-
+-
+157,330
+Foreign Banks
+38,999
+-
+-
+-
+38,999
+Consumer and Other
+5,229
+-
+-
+5,507
+$
+1,032,366
+$
+-
+$
+8,649
+$
+-
+$
+1,041,015
+USCB Financial Holdings, Inc.
+2021 10-K
+Non-Performing Assets
+The following table presents non-performing assets as
+of December 31, 2021 and 2020 (in thousands, except
+ratios):
+Non-accrual loans, less non-accrual TDR loans
+$
+1,190
+$
+Non-accrual TDRs
+-
+1,275
+Loans past due over 90 days and still accruing
+-
+-
+Total
+non-performing loans
+1,190
+1,578
+Other real estate owned
+-
+-
+Total
+non-performing assets
+$
+1,190
+$
+1,578
+Asset quality ratios:
+Allowance for credit losses to total loans
+1.27%
+1.45%
+Allowance for credit losses to non-performing loans
+1265%
+956%
+Non-performing loans to total loans
+0.10%
+0.15%
+Non-performing
+assets include
+all loans
+categorized as
+non-accrual or
+restructured,
+impaired securities,
+non-accrual
+TDRs, other
+real estate owned
+(“OREO”) and other
+repossessed assets. Problem
+loans for
+which the
+collection or liquidation
+in
+full
+is
+reasonably
+uncertain
+are
+placed
+on
+a
+non-accrual
+status.
+This
+determination
+is
+based
+on
+current
+existing
+facts
+concerning collateral values
+and the paying capacity
+of the borrower.
+When the collection of
+the full contractual balance
+is
+unlikely, the loan is
+placed on non-accrual to avoid overstating the Company’s
+income for a loan with increased credit risk.
+If the
+principal or
+interest on
+a commercial
+loan becomes
+due and
+unpaid for
+90 days
+or more,
+the loan
+is placed
+on
+non-accrual status as of
+the date it becomes
+90 days past due
+and remains in non-accrual
+status until it meets
+the criteria
+for restoration to accrual status.
+Residential loans, on
+the other hand, are placed
+on non-accrual status when
+the principal
+or interest
+becomes due
+and unpaid
+for 120
+days or
+more and remains
+in non-accrual
+status until
+it meets
+the criteria
+for
+restoration
+to
+accrual
+status.
+Restoring
+a
+loan
+to
+accrual
+status
+is
+possible
+when
+the
+borrower
+resumes
+payment
+of
+all
+principal and interest
+payments for a period
+of six months
+and the Company
+has a documented
+expectation of repayment
+of the remaining contractual principal and interest or the
+loan becomes secured and in the process of collection.
+A TDR is
+a debtor that
+is experiencing
+financial difficulties
+and the Company
+grants a concession.
+This determination
+is performed during the annual review process or whenever problems
+are surfacing regarding the client’s ability to repay
+in
+accordance with
+the original
+terms of
+the loan
+or line
+of credit.
+In general,
+a borrower
+that can
+obtain funds
+from sources
+other than
+the Company
+at market
+interest rates
+at or
+near those
+for non-troubled
+debt is
+not involved
+in a
+troubled debt
+restructuring.
+The
+concessions
+are
+given
+to
+the
+debtor
+in
+various
+forms,
+including
+interest
+rate
+reductions,
+principal
+forgiveness,
+extension
+of
+maturity
+date,
+waiver,
+or
+deferral
+of
+payments
+and
+other
+concessions
+intended
+to
+minimize
+potential losses.
+The following tables present performing and non-performing
+TDRs for the dates indicated (in thousands):
+December 31, 2021
+Accruing
+Non-Accruing
+Total
+Residential Real Estate
+$
+7,815
+$
+-
+$
+7,815
+Commercial Real Estate
+-
+Commercial and Industrial
+-
+Consumer and Other
+-
+$
+8,876
+$
+-
+$
+8,876
+December 31, 2020
+Accruing
+Non-Accruing
+Total
+Residential Real Estate
+$
+8,884
+$
+$
+9,661
+Commercial Real Estate
+-
+Commercial and Industrial
+Consumer and Other
+-
+$
+10,074
+$
+$
+10,874
+The Company had
+allocated $360 thousand
+and $453 thousand of
+specific allowance for
+TDR loans at
+December 31,
+2021 and 2020, respectively.
+There was no commitment to lend additional funds to these
+TDR customers.
+USCB Financial Holdings, Inc.
+2021 10-K
+Charge-offs on
+TDR loans
+for the years
+ended December 31,
+2021 and
+2020 was $18
+thousand and
+$153 thousand,
+respectively.
+There
+were
+no
+defaults
+on
+TDR
+loans
+at
+December 31,
+and
+within
+the
+prior
+months.
+The
+Company did not have any new TDR loans for the year
+ended December 31, 2021.
+The
+Company
+provided
+financial
+relief
+to
+borrowers
+impacted
+by
+COVID-19
+and
+provided
+modifications
+to
+include
+interest
+only
+deferral
+or
+principal
+and
+interest
+deferral.
+These
+modifications
+are
+excluded
+from
+TDR,
+classification
+under
+Section 4013 of the CARES Act or under applicable interagency
+guidance of the federal banking regulators.
+For further
+discussion on
+non-performing loans,
+see Note
+3 “Loans”
+to the
+Consolidated Financial
+Statements of
+this
+Form 10-K.
+Allowance for Credit Losses
+In
+determining
+the
+balance
+of
+the
+allowance
+account,
+loans
+are
+pooled
+by
+product
+segments
+with
+similar
+risk
+characteristics and management
+evaluates the ACL on
+each segment and on
+a regular basis to maintain
+the allowance at
+an
+adequate
+level
+based
+on
+factors
+which,
+in
+management’s
+judgment,
+deserve
+current
+recognition
+in
+estimating
+credit
+losses.
+Such
+factors
+include
+changes
+in
+prevailing
+economic
+conditions,
+historical
+loss
+experience,
+delinquency
+trends,
+changes in the composition and size of the loan portfolio
+and the overall credit worthiness of the borrowers.
+Additionally,
+qualitative adjustments
+are made to
+the ACL when,
+based on management’s
+judgment, there are
+factors
+impacting the allowance estimate not considered by the
+quantitative calculations.
+The following table presents ACL and net charge-offs to average loans by
+type for the periods indicated (in thousands):
+Residential
+Real Estate
+Commercial
+Real Estate
+Commercial
+and Industrial
+Foreign
+Banks
+Consumer
+and Other
+Total
+December 31, 2021:
+Beginning balance
+$
+3,408
+$
+9,453
+$
+1,689
+$
+$
+$
+15,086
+Provision for credit losses
+(919)
+(695)
+(160)
+Recoveries
+-
+-
+Charge-offs
+(229)
+-
+(18)
+-
+(14)
+(261)
+Ending Balance
+$
+2,498
+$
+8,758
+$
+2,775
+$
+$
+$
+15,057
+Average loans
+$
+212,867
+$
+654,723
+$
+153,763
+$
+52,187
+$
+42,602
+$
+1,116,142
+Net charge-offs to average loans
+- %
+- %
+(0.08)%
+- %
+0.02%
+(0.01)%
+December 31, 2020:
+Beginning balance
+$
+3,749
+$
+6,591
+$
+1,214
+$
+$
+$
+11,998
+Provision for credit losses
+(36)
+2,861
+3,250
+Recoveries
+-
+Charge-offs
+(473)
+-
+(153)
+-
+(30)
+(656)
+Ending Balance
+$
+3,408
+$
+9,453
+$
+1,689
+$
+$
+$
+15,086
+Average loans
+$
+258,728
+$
+596,022
+$
+122,177
+$
+43,433
+$
+6,545
+$
+1,026,905
+Net charge-offs to average loans
+0.12%
+- %
+(0.13)%
+- %
+0.18%
+0.02%
+Bank-Owned Life Insurance
+At
+December 31,
+2021,
+the
+combined
+cash
+surrender
+value
+of
+all
+bank-owned
+life
+insurance
+(“BOLI”)
+policies
+was
+$41.7 million.
+Changes
+in
+cash
+surrender
+value
+are
+recorded
+in
+non-interest
+income
+on
+the
+Consolidated
+Statements
+of
+Operations. In
+2021, the Company
+maintained BOLI
+policies with
+five insurance
+carriers. The Company
+is the beneficiary
+of these policies.
+Deposits
+Customer deposits are the
+primary funding source for
+the Bank’s growth.
+Through our network of
+banking centers, we
+offer a competitive array of deposit
+accounts and treasury management services designed
+to meet our customers’ business
+needs. Our primary
+deposit customers
+are SMBs,
+and the personal
+business of owners
+and operators
+of these
+SMBs, as
+well as the retail/consumer relationships of the employees
+of these businesses. Our focus on quality and customer
+service
+USCB Financial Holdings, Inc.
+2021 10-K
+has created a strong brand recognition within
+our depositors, which reflects in the composition
+of our deposits; most of our
+funding sources are core deposits.
+Additionally, our personal and private banking management line of business is focused on the needs of the
+owners and
+operators of our business
+customers, offering
+a suite of checking,
+savings, money market
+and time deposit
+accounts, and
+utilizing superior client service to build and expand client relationships. A unique aspect of our business model is our ability
+to offer correspondent services to banks in Central America
+and the Caribbean.
+The
+following
+table
+presents
+the
+daily
+average
+balance
+and
+average
+rate
+paid
+on
+deposits
+by
+category
+as
+of
+December 31, 2021 and 2020 (in thousands, except ratios):
+Average
+Balance
+Average
+Rate Paid
+Average
+Balance
+Average
+Rate Paid
+Non-interest-bearing deposits
+$
+547,116
+0.00
+%
+$
+390,467
+0.00
+%
+Interest-bearing transaction accounts
+52,379
+0.11
+%
+46,819
+0.34
+%
+Saving and money market deposits
+619,810
+0.34
+%
+473,028
+0.65
+%
+Time deposits
+235,127
+0.65
+%
+276,462
+1.70
+%
+Total
+deposits
+$
+1,454,432
+0.25
+%
+$
+1,186,777
+0.67
+%
+To
+tal
+average
+deposits
+at
+December 31,
+was
+$1.5 billion,
+an
+increase
+of
+$267.7 million,
+or
+22.6%
+over
+total
+average deposits of $1.2 billion
+for the same period
+in 2020. Our focus on
+demand deposits has resulted
+in an increase in
+average balances of
+$156.6 million,
+or 40.1%, in non-interest
+bearing demand deposits
+and an increase of
+$146.8 million,
+or 31.0%, in saving and money market deposits when
+comparing the average balances for the
+years ended December 31,
+2021 and 2020.
+The
+uninsured
+deposits
+are
+estimated
+based
+on
+the
+FDIC
+deposit
+insurance
+limit
+of
+$250 thousand
+for
+all
+deposit
+accounts
+at
+the
+Bank
+per
+account
+holder.
+Total
+estimated
+uninsured
+deposits
+were
+$897.8 million
+and
+$606.1 million
+at
+December 31, 2021 and
+2020, respectively.
+Time deposits
+with balances of $250
+thousand or more totaled
+$119.4 million
+and $104.1 million at December 31, 2021 and 2020,
+respectively.
+The following table shows scheduled maturities of uninsured
+time deposits as of December 31, 2021 (in thousands):
+Three months or less
+$
+28,707
+Over three through six months
+7,948
+Over six though twelve months
+42,106
+Over twelve months
+24,094
+$
+102,855
+Borrowings
+As a
+member of
+the FHLB, we
+are eligible for
+advances with various
+terms and conditions.
+This accessibility of
+additional
+funding allows
+us to
+efficiently
+and timely
+meet both
+expected and
+unexpected outgoing
+cash flows
+and collateral
+needs
+without adversely affecting either daily operations
+or the financial condition of the Company.
+As of December 31,
+2021 and 2020,
+there was $36.0 million
+of fixed rate advances
+from the FHLB outstanding
+with a
+weighted average rate of 1.52%. Most of the advances
+are due in the first two quarters of 2025.
+The following table presents the FHLB fixed rate advances
+as of December 31, 2021 (in thousands):
+Interest Rate
+Type of Rate
+Maturity Date
+Amount
+0.81%
+Fixed
+August 17, 2023
+$
+5,000
+1.04%
+Fixed
+July 30, 2024
+5,000
+2.05%
+Fixed
+March 27, 2025
+10,000
+1.91%
+Fixed
+March 28, 2025
+5,000
+1.81%
+Fixed
+April 17, 2025
+5,000
+1.07%
+Fixed
+July 18, 2025
+6,000
+$
+36,000
+USCB Financial Holdings, Inc.
+2021 10-K
+We
+have
+also
+established
+Fed
+Funds
+lines
+of
+credit
+with
+our
+upstream
+correspondent
+banks
+to
+manage
+temporary
+fluctuations in our daily cash balances. As of
+December 31, 2021, there were no
+outstanding balances with the Fed Funds
+line of credit.
+Off-Balance Sheet Arrangements
+We engage
+in various financial
+transactions in
+our operations
+that, under GAAP,
+may not be
+included on
+the balance
+sheet. To
+meet the financing needs
+of our customers we may
+include commitments to extend
+credit and standby letters
+of
+credit. To
+a varying
+degree, such
+commitments involve
+elements of
+credit, market,
+and interest
+rate risk
+in excess
+of the
+amount recognized
+in the
+balance sheet.
+We use
+more conservative
+credit and
+collateral policies
+in making
+these credit
+commitments as we
+do for on-balance sheet
+items. We are not
+aware of any accounting
+loss to be
+incurred by funding
+these
+commitments; however,
+we maintain an allowance
+for off-balance sheet
+credit risk which is
+recorded under other liabilities
+on the Consolidated Balance Sheets.
+Since commitments associated with letters of
+credit and commitments to extend
+credit may expire unused, the
+amounts
+shown do not necessarily
+reflect the actual
+future cash funding requirements
+.
+The following table
+presents lending related
+commitments outstanding as of December 31, 2021 and
+2020 (in thousands):
+Commitments to grant loans and unfunded lines of credit
+$
+134,877
+$
+107,553
+Standby and commercial letters of credit
+6,420
+1,813
+Total
+$
+141,297
+$
+109,366
+Commitments to extend credit are agreements to lend funds to a client, as long as there is no violation of any condition
+established
+in
+the
+contract,
+for
+a
+specific
+purpose.
+Commitments
+generally
+have
+variable
+interest
+rates,
+fixed
+expiration
+dates or
+other
+termination
+clauses
+and
+may require
+payment
+of
+a fee.
+Since many
+of the
+commitments
+are
+expected to
+expire without being
+fully drawn, the
+total commitment
+amounts disclosed
+above do not
+necessarily represent
+future cash
+requirements.
+Unfunded lines of credit represent unused portions of credit facilities to our current borrowers that represent no change
+in credit risk in our portfolio. Lines
+of credit generally have variable interest
+rates. The maximum potential amount
+of future
+payments we could
+be required to
+make is represented
+by the contractual
+amount of the
+commitment, less
+the amount of
+any advances made.
+Letters of credit are
+conditional commitments issued
+by us to guarantee
+the performance of a
+client to a third
+party.
+In
+the event of nonperformance by
+the client in accordance with the
+terms of the agreement with the
+third party,
+we would be
+required to fund
+the commitment.
+If the commitment
+is funded, we
+would be entitled
+to seek recovery
+from the client
+from
+the underlying collateral,
+which can include
+commercial real estate,
+physical plant and
+property, inventory, receivables, cash
+or marketable securities.
+Asset and Liability Management Committee
+The asset and liability management committee of our Company, or ALCO, consists of members of senior management
+and our Board. Senior management is responsible for
+ensuring in a timely manner that Board
+approved strategies, policies,
+and procedures
+for managing
+and mitigating
+risks are
+appropriately executed
+within the
+designated lines
+of authority
+and
+responsibility.
+ALCO
+oversees
+the
+establishment,
+approval,
+implementation,
+and
+review
+of
+interest
+rate
+risk,
+management,
+and
+mitigation strategies, ALM related policies, ALCO procedures
+and risk tolerances and appetite.
+While some
+degree of
+IRR (“Internal
+Rate of
+Return”) is
+inherent to
+the banking
+business, our
+ALCO has
+established
+sound risk management practices in place to identify,
+measure, monitor and mitigate IRR exposures.
+When assessing
+the scope
+of IRR
+exposure
+and
+impact on
+the consolidated
+balance sheet,
+cash
+flows and
+income
+statement,
+management
+considers
+both
+earnings
+and
+economic
+impacts.
+Asset
+price
+variations,
+deposits
+volatility
+and
+reduced earnings or outright losses could adversely affect
+the Company’s
+liquidity, performance,
+and capital adequacy.
+Income simulations
+are used
+to assess
+the impact
+of changing
+rates on
+earnings under
+different rates
+scenarios and
+time horizons.
+These simulations
+utilize both
+instantaneous
+and parallel
+changes in
+the level
+of interest
+rates, as
+well as
+non-parallel changes such as changing slopes (flat and steeping) and
+twists of the yield curve, Static simulation models are
+based on current exposures and
+assume a constant balance sheet with
+no new growth. Dynamic simulation analysis
+is also
+USCB Financial Holdings, Inc.
+2021 10-K
+utilized to have a
+more comprehensive assessment
+on IRR. This simulation
+relies on detailed
+assumptions outlined in
+our
+budget and strategic plan, and in assumptions regarding changes in
+existing lines of business, new business, management
+strategies and client expected behavior.
+To
+have
+a
+more
+complete
+picture
+of
+IRR,
+the
+Company
+also
+evaluates
+the
+economic
+value
+of
+equity,
+or
+EVE.
+This
+assessment
+will
+allow
+us
+to
+measure
+the
+degree
+to
+which
+the
+economic
+values
+will
+change
+under
+different
+interest
+rate
+scenarios (parallel and non-parallel). The economic-value approach focuses on a longer-term time horizon and
+captures all
+future cash flows expected
+from existing assets and
+liabilities. The economic
+value model utilizes a
+static approach in that
+the analysis
+does not
+incorporate new
+business; rather,
+the analysis
+shows a
+snapshot in
+time of
+the risk
+inherent in
+the
+balance sheet.
+Market and Interest Rate Risk Management
+According to our ALCO model, as of December 31, 2021,
+we were an asset sensitive company. This indicates that our
+assets generally
+reprice faster
+than our
+liabilities, which
+results in
+a favorable
+impact to
+net interest
+income when
+market
+interest rates
+increase. Many
+assumptions are
+used to
+calculate the
+impact of
+interest rate
+variations
+on our
+net interest
+income, such as
+asset prepayment speeds,
+non-maturity deposit
+price sensitivity,
+pricing correlations, deposit
+truncations
+and decay rates, and key rate drivers.
+Because of the inherent use
+of these estimates and
+assumptions in the model,
+our actual results may,
+and most likely
+will, differ from static measures results. In addition, static measures like
+EVEs do not include actions that management may
+undertake to manage the risks in response to anticipated changes in interest rates or client deposit behavior. As part of our
+ALM strategy
+and
+policy,
+management
+has the
+ability
+to modify
+the
+balance sheet
+to
+either increase
+asset
+duration
+and
+decrease liability
+duration to reduce
+asset sensitivity,
+or to decrease
+asset duration and
+increase liability duration
+in order
+to increase asset sensitivity.
+According to our model, as of December 31, 2021, the NIM will remain fairly stable for static rate scenarios (-400
+basis
+points:
++400
+basis
+points).
+For
+the
+static
+forecast
+for
+year
+one,
+the
+estimated
+NIM
+will
+decrease
+from
+3.09%
+base
+case
+scenario to 3.08%
+under a +400-basis
+points scenario. Additionally, utilizing an economic
+value of equity, or EVE,
+approach,
+we analyze the
+risk to capital
+from the
+effects of
+various interest
+rate scenarios
+through a long-term
+discounted cash
+flow
+model. This
+measures the
+difference between
+the economic
+value of
+our assets
+and the
+economic value
+of our
+liabilities,
+which is
+a proxy for
+our liquidation value.
+According to
+our balance sheet
+composition, and as
+expected, our model
+stipulates
+that an increase of rates
+will have a negative impact
+on the EVE. Results and
+analysis are presented quarterly to the
+Board,
+and strategies are defined.
+Additionally, in the last couple of quarters we
+have been reducing our asset
+sensitivity by extending asset duration.
+This
+has reduced our NII volatility
+for the first and second
+year and has helped us
+to maintain the NII in
+accordance with ALCO
+expectations.
+Liquidity
+Liquidity is
+defined as
+a Company’s capacity
+to meet
+its cash
+and collateral
+obligations at
+a reasonable
+cost. Maintaining
+an adequate level of liquidity depends on the Company’s ability to
+efficiently meet both expected and unexpected cash flow
+and collateral needs without adversely affecting
+either daily operations or the financial condition of the
+Company.
+Liquidity risk
+is the
+risk that
+we will
+be unable
+to meet
+our short-term
+and long-term
+obligations as
+they become
+due
+because of an inability
+to liquidate assets or
+obtain relatively adequate funding. The
+Company’s obligations, and the funding
+sources
+used
+to
+meet
+them,
+depend
+significantly
+on
+our
+business
+mix,
+balance
+sheet
+structure
+and
+composition,
+credit
+quality of our assets and the cash flow profiles of our on-
+and off-balance sheet obligations.
+In managing
+inflows and
+outflows,
+management
+regularly
+monitors situations
+that can
+give rise
+to increased
+liquidity
+risk. These
+include funding
+mismatches, market
+constraints on
+the ability
+to convert
+assets (particularly
+investments) into
+cash or in accessing sources of funds (i.e., market liquidity),
+and contingent liquidity events.
+Changes in macroeconomic conditions or exposure
+to credit, market, operational, legal
+and reputational risks, including
+cybersecurity risk could also affect the Company’s
+liquidity risk profile unexpectedly and are considered
+in the assessment
+of liquidity and ALM framework.
+Management has established
+a comprehensive and
+holistic management process for
+identifying, measuring, monitoring
+and
+mitigating
+liquidity
+risk.
+Due
+to
+its
+critical
+importance
+to
+the
+viability
+of
+the
+Company,
+liquidity
+risk
+management
+is
+integrated into our risk management processes and ALM
+policy.
+USCB Financial Holdings, Inc.
+2021 10-K
+Critical elements of our liquidity
+risk management include: effective corporate governance consisting of
+oversight by the
+Board and
+active involvement
+by senior
+management; appropriate strategies,
+policies, procedures, and
+limits used
+to identify
+and mitigate liquidity risk; comprehensive liquidity risk measurement and
+monitoring systems (including assessments of the
+current and prospective cash flows or sources and uses of funds) that are commensurate with the complexity and
+business
+activities of
+the Company;
+active management
+of intraday
+liquidity and
+collateral; an
+appropriately diverse
+mix of
+existing
+and
+potential
+future
+funding
+sources;
+adequate
+levels
+of
+highly
+liquid
+marketable
+securities
+free
+of
+legal,
+regulatory,
+or
+operational
+impediments,
+that
+can
+be
+used
+to
+meet
+liquidity
+needs
+in
+stressful
+situations;
+comprehensive
+contingency
+funding plans
+that sufficiently address
+potential adverse liquidity
+events and emergency
+cash flow
+requirements; and internal
+controls
+and
+internal
+audit
+processes
+sufficient
+to
+determine
+the
+adequacy
+of
+the
+institution’s
+liquidity
+risk
+management
+process.
+We
+expect
+funds
+to
+be
+available
+from
+several
+basic
+banking
+activity
+sources,
+including
+the
+core
+deposit
+base,
+the
+repayment and maturity of loans and investment security
+cash flows. Other potential funding sources include
+federal funds
+purchased, brokered
+certificates of
+deposit, listing
+certificates of
+deposit, Fed
+funds lines
+and borrowings
+from the
+FHLB.
+Accordingly, our liquidity resources
+were at sufficient levels to fund loans and meet other cash needs as necessary.
+We do
+not expect liquidity resources to be compromised at this
+time.
+Capital Adequacy
+As
+of
+December 31,
+2021,
+the
+Bank
+was
+well
+capitalized
+under
+the
+FDIC’s
+prompt
+corrective
+action
+framework.
+Additionally,
+we follow the
+capital conservation buffer
+framework, and according
+to our actual
+ratios the Bank
+exceeds the
+capital conversation buffer
+in all capital
+ratios as of
+December 31, 2021.
+The following table
+presents the capital
+ratios for
+both the Bank and the Company at December 31, 2021
+and 2020 (in thousands,
+except ratios):
+Actual
+Minimum Capital
+Requirements
+To be Well Capitalized
+Under Prompt Corrective
+Action Provisions
+Amount
+Ratio
+Amount
+Ratio
+Amount
+Ratio
+December 31, 2021:
+Total
+risk-based capital
+$
+186,735
+14.92
+%
+$
+100,125
+8.00
+%
+$
+125,157
+10.00
+%
+Tier 1 risk-based capital
+$
+171,484
+13.70
+%
+$
+75,094
+6.00
+%
+$
+100,125
+8.00
+%
+Common equity tier 1 capital
+$
+171,484
+13.70
+%
+$
+56,321
+4.50
+%
+$
+81,352
+6.50
+%
+Leverage ratio
+$
+171,484
+9.55
+%
+$
+71,825
+4.00
+%
+$
+89,781
+5.00
+%
+December 31, 2020:
+Total
+risk-based capital
+$
+139,326
+14.24
+%
+$
+78,260
+8.00
+%
+$
+97,825
+10.00
+%
+Tier 1 risk-based capital
+$
+127,061
+12.99
+%
+$
+58,695
+6.00
+%
+$
+78,260
+8.00
+%
+Common equity tier 1 capital
+$
+94,984
+9.71
+%
+$
+44,021
+4.50
+%
+$
+63,587
+6.50
+%
+Leverage ratio
+$
+127,061
+8.61
+%
+$
+59,053
+4.00
+%
+$
+73,817
+5.00
+%
+Impact of Inflation
+Our Consolidated
+Financial Statements
+and related
+notes have been
+prepared in
+accordance with
+U.S. GAAP,
+which
+require the
+measurement
+of financial
+position and
+operating results
+in terms
+of historical
+dollars,
+without considering
+the
+changes
+in
+the
+relative
+purchasing
+power
+of
+money
+over
+time due
+to
+inflation.
+The
+impact
+of
+inflation
+is
+reflected
+in
+the
+increased cost of operations.
+Unlike most industrial companies,
+nearly all our assets and
+liabilities are monetary in
+nature.
+As a result,
+interest rates have a
+greater impact on our
+performance than do the
+effects of general levels
+of inflation. Periods
+of high inflation
+are often accompanied
+by relatively higher
+interest rates, and
+periods of low
+inflation are accompanied
+by
+relatively lower interest rates.
+As market interest rates
+rise or fall in relation
+to the rates earned
+on loans and investments,
+the
+value
+of
+these
+assets
+decreases
+or
+increases
+respectively.
+Inflation
+can
+also
+impact
+core
+non-interest
+expenses
+associated with delivering the Company’s services.
+Recently Issued Accounting Pronouncements
+Recently issued accounting
+pronouncements are discussed
+in Note 1 “Summary
+of Significant Accounting Policies”
+to
+the Consolidated Financial Statements of this Form 10-K.
+USCB Financial Holdings, Inc.
+2021 10-K
+Reconciliation and Management Explanation of Non
+-GAAP Financial Measures
+Management
+has
+included
+these
+non-GAAP
+measures
+because
+it
+believes
+these
+measures
+may
+provide
+useful
+supplemental information
+for evaluating
+the Company’s
+underlying performance
+trends. Further,
+management uses
+these
+measures
+in
+managing
+and
+evaluating
+the
+Company’s
+business
+and
+intends
+to
+refer
+to
+them
+in
+discussions
+about
+our
+operations and performance.
+Operating performance
+measures should be
+viewed in addition
+to, and not
+as an alternative
+to or
+substitute
+for,
+measures
+determined
+in
+accordance
+with
+GAAP,
+and
+are
+not
+necessarily
+comparable
+to non-GAAP
+measures that may be presented by other
+companies. The following table reconciles the non-GAAP financial measurement
+of operating net income available to common stockholders for the periods presented (in thousands,
+except per share data):
+As of and for the years ended December 31,
+Pre-Tax Pre-Provision ("PTPP") Income:
+Net income
+$
+21,077
+$
+10,820
+Plus: Provision for income taxes
+6,600
+2,588
+Plus: Provision for (recovery of) credit losses
+(160)
+3,250
+PTPP income
+$
+27,517
+$
+16,658
+PTPP Return on Average Assets:
+PTPP income
+$
+27,517
+$
+16,658
+Average assets
+$
+1,701,658
+$
+1,428,935
+PTPP return on average assets
+1.62%
+1.17%
+Operating Net Income:
+Net income
+$
+21,077
+$
+10,820
+Less: Net gains on sale of securities
+Less: Tax
+effect on sale of securities
+(52)
+(106)
+Operating net income
+$
+20,915
+$
+10,492
+Operating PTPP Income:
+PTPP income
+$
+27,517
+$
+16,658
+Less: Net gains on sale of securities
+Operating PTPP Income
+$
+27,303
+$
+16,224
+Operating PTPP Return on Average Assets:
+Operating PTPP income
+$
+27,303
+$
+16,224
+Average assets
+$
+1,701,658
+$
+1,428,935
+Operating PTPP Return on average assets
+1.60%
+1.14%
+Operating Return on Average Asset:
+Operating net income
+$
+20,915
+$
+10,492
+Average assets
+$
+1,701,658
+$
+1,428,935
+Operating return on average assets
+1.23%
+0.73%
+USCB Financial Holdings, Inc.
+2021 10-K
+Years Ended December 31,
+Operating Net Income Available to Common Stockholders:
+Net income (GAAP)
+$
+21,077
+$
+10,820
+Less: Preferred dividends
+2,077
+3,127
+Less: Exchange and redemption of preferred shares
+89,585
+-
+Net income (loss) available to common stockholders (GAAP)
+(70,585)
+7,693
+Add back: Exchange and redemption of preferred shares
+89,585
+-
+Operating net income avail. to common stock (non-GAAP)
+(1)
+$
+19,000
+$
+7,693
+Allocation of operating net income per common stock class:
+Class A common stock
+$
+19,000
+$
+5,851
+Class B common stock
+$
+-
+$
+1,842
+Weighted average shares outstanding:
+Class A common stock
+Basic
+10,507,530
+3,887,480
+Diluted
+10,507,530
+3,911,290
+Class B common stock
+Basic
+-
+6,121,052
+Diluted
+-
+6,121,052
+Diluted EPS:
+(1)(2)
+Class A common stock
+Net income (loss) per diluted share (GAAP)
+$
+(6.72)
+$
+1.50
+Add back: Exchange and redemption of preferred shares
+8.53
+-
+Operating net income per diluted share (non-GAAP)
+$
+1.81
+$
+1.50
+Class B common stock
+Net income per diluted share (GAAP)
+$
+-
+$
+0.30
+Add back: Exchange and redemption of preferred shares
+-
+-
+Operating net income per diluted share (non-GAAP)
+$
+-
+$
+0.30
+(1)
+The Company believes these non-GAAP measurements
+are a key indicator of the ongoing earnings
+power of the Company.
+(2)
+During the year ended December 31, 2021,
+the Company entered into agreements with the Class
+B shareholders to exchange all outstanding
+Class B non-voting stock for Class A voting common
+stock on a 1 for 5 reverse stock split As such,
+there are no issued and outstanding shares
+of Class
+B common stock at December 31, 2021.
+USCB Financial Holdings, Inc.
+2021 10-K

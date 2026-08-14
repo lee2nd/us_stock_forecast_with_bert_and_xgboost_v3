@@ -1,0 +1,311 @@
+ITEM 7:
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements relating to future events or the future financial performance of Digimarc, which involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements. Please see the discussion regarding forward-looking statements included at the end of this discussion, under the caption “Forward-Looking Statements,” and Item 1A, “Risk Factors” for a discussion of some of the uncertainties, risks and assumptions associated with these statements.
+The following discussion should be read in conjunction with our consolidated financial statements and the related notes and other financial information appearing elsewhere in this Annual Report on Form 10-K.
+All dollar amounts are in thousands except per share amounts or unless otherwise noted. The percentages within the tables included in this section may not sum to 100% due to rounding.
+Overview
+Digimarc Corporation, an Oregon corporation incorporated in 2008, is the inventor of a platform that enables a more efficient, reliable and economical means of automatic identification. The Digimarc Platform can apply a unique identifier to virtually all media objects-including product packaging, commercial print, audio and video-that can be automatically identified by an enabled ecosystem of industrial scanners, smartphones and other interfaces. These capabilities allow Digimarc and its partners to supply a wide range of solutions for retail and supply chain operations, consumer engagement, media management and security.
+The Digimarc Platform features three core capabilities for the identification, discovery and quality management of media. Digimarc Barcode integrates the identification function, which is a novel data carrier encoded into media in ways that are generally imperceptible to people, permitting the carrier to be repeated many times over the surface of the enhanced media. Digimarc Discover represents the discovery function, which is software for computing devices and network interfaces that recognize and decode indicia of the identity of media. These include, but are not limited to, Digimarc Barcodes, Quick Response Codes, Universal Product Codes, certain other Global Standards One (“GS1”) approved one-dimensional codes and relevant contextual data. Digimarc Verify incorporates the quality management function, a suite of software tools used to inspect and verify that the identification and discovery of media are both accurate and effective. Together, these core capabilities enable organizations, application developers, and other solution providers to build new and improve existing automatic identification solutions.
+Our growth strategy focuses on increasing the adoption of the Digimarc Platform across the three markets we serve: Government, Retail and Media. Government includes the consortium of Central Banks and other government customers. Retail includes retailers, brands, their suppliers and related solution providers. Media includes media, entertainment, education, and other customers.
+We plan to continue investing in research and development and sales and marketing to develop and market our platform and to continue to expand our intellectual property portfolio. To protect our significant efforts in creating our technology, we have implemented an extensive intellectual property protection program that relies on a combination of patent, copyright, trademark and trade secret laws, and nondisclosure agreements and other contracts. As a result, we believe we have one of the world’s most extensive patent portfolios in digital watermarking and related fields, with over 1,000 U.S. and foreign patents granted and applications pending as of December 31, 2020. We continue to develop and broaden our portfolio of patented technology in the fields of media identification and management technology and related applications and systems. We devote significant resources to developing and protecting our inventions and continuously seek to identify and evaluate potential licensees for our patents.
+COVID-19 Pandemic
+The COVID-19 pandemic posed significant risks to our business. The ongoing public health actions attempting to reduce the spread of COVID-19 created and may continue to create significant disruptions to consumer demand, customer and supplier relationships, sales and support processes, and general economic conditions. Accordingly, our management continuously evaluates our business operations, communicates with and monitors the actions of our customers and partners, and reviews our near-term financial performance as we manage the Company through the uncertainty related to the COVID-19 pandemic. Some of our projects with retail customers and partners have been delayed as a result of the COVID-19 pandemic. Delays in these projects have affected the
+timing of closing new business. To help ensure adequate liquidity during this period and in light of uncertainties posed by the COVID-19 pandemic, we received a loan on April 16, 2020 under PPP. On September 15, 2020, we filed our application for 100% forgiveness of the loan. Our application was reviewed by the Lender and submitted to the Small Business Administration (“SBA”) for approval on December 17, 2020. The SBA will, subject to any review of our loan or application, remit payment of the appropriate forgiveness amount to the Lender within 90 days following the date the Lender submitted its decision to the SBA. If the SBA reviews our loan or application, then it may take longer than 90 days for any determination to be made as to whether the Note will be forgiven in whole, in part or at all.
+Critical Accounting Policies and Estimates
+The preparation of financial statements in accordance with accounting principles generally accepted in the U.S. (“U.S. GAAP”) requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to bad debts, contingencies, goodwill, income taxes, intangible assets, marketable securities, property and equipment and revenue recognition. We base our estimates on historical experience and on other assumptions we believe to be reasonable in the circumstances. Actual results may differ from these estimates under different assumptions or conditions.
+Some of our accounting policies require higher degrees of judgment than others in their application. We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our consolidated financial statements.
+Revenue recognition:
+Revenue is recognized in accordance with ASC 606 by applying the following steps:
+Step 1: Identify the contract(s) with a customer.
+Step 2: Identify the performance obligation(s) in the contract.
+Step 3: Determine the transaction price.
+Step 4: Allocate the transaction price to the performance obligation(s) in the contract.
+Step 5: Recognize when (or as) the entity satisfies the performance obligation(s).
+We derive our revenue primarily from software development services and software subscriptions. Applicable revenue recognition criteria are considered separately for each performance obligation as follows:
+•
+Service revenue consists primarily of revenue earned from the performance of software development services. The majority of service contracts are structured as time and materials agreements. Revenue for services is generally recognized as the services are performed. Billing for services rendered generally occurs within one month after the services are provided.
+•
+Subscription revenue consists primarily of revenue earned from the sale of software products and to a lesser extent the licensing of intellectual property. The majority of subscription contracts are recurring, paid in advance and recognized over the term of the subscription, which is typically one to three years.
+Customer arrangements may contain multiple performance obligations such as software development services, software products, and maintenance and support fees. We account for individual products and services separately if they are distinct. To determine the transaction price, we consider the terms of the contract and our customary business practices. Some contracts may contain variable consideration. In those cases, we estimate the amount of variable consideration based on the sum of probability-weighted amounts in a range of possible consideration amounts. As part of this assessment, we will evaluate whether any of the variable consideration is constrained and if it is, we will not include it in the transaction price. The consideration is allocated between distinct products and services based on their stand-alone selling prices. For items that are not sold separately, we estimate the standalone selling price based on reasonably available information, including market conditions, specific factors affecting us, and information about the customer. For distinct products and services, we typically recognize the revenue associated with these performance obligations as they are delivered to the customer. Products and services that are not capable of being distinct are combined with other products or services until a distinct performance obligation is identified.
+All revenue recognized in the Consolidated Statements of Operations is considered to be revenue from contracts with customers.
+Results of Operations-the Years Ended December 31, 2020 and December 31, 2019
+The following tables present our consolidated statements of operations data for the periods indicated.
+Summary
+Total revenue increased $1.0 million, or 4%, to $24.0 million, primarily as a result of growth both in service and subscription revenue from both Government and Retail customers.
+Total operating expenses increased $0.2 million, or less than 1%, to $48.9 million, primarily as a result of routine annual compensation adjustments for our employees and $0.8 million of cash and stock-based severance costs related to our restructuring plan implemented in July 2020, partially offset by lower travel and consulting costs.
+Revenue
+Service. Service revenue consists primarily of revenue earned from the performance of software development services. The majority of service contracts are structured as time and materials agreements. Revenue for services is generally recognized as the services are performed. Billing for services rendered generally occurs within one month after the services are provided. Service contracts can range from days to several years in length. Our contract with the Central Banks, which accounts for the majority of service revenue, has a contract term through December 31, 2024, with the option to extend the term for an additional five years by mutual agreement. The contract is subject to work plans that are reviewed and agreed upon quarterly. The contract provides for predetermined billing rates, which are adjusted annually to account for cost of living variables, and provides for the reimbursement of third party costs incurred to support the work plans.
+The increase in service revenue was primarily due to growth in service revenue from Government and Retail customers.
+Subscription. Subscription revenue consists primarily of revenue earned from the sale of software products and, to a lesser extent, the licensing of intellectual property. The majority of subscription contracts are recurring, paid in advance and recognized over the term of the subscription, which is typically one to three years.
+The increase in subscription revenue was primarily due to growth in software subscriptions to Retail and Government customers, partially offset by the revenue impact of a renegotiated contract with a Retail supplier partner in the first quarter of 2020.
+Revenue by geography
+The increase in domestic revenue was primarily due to growth in revenue from our domestic Government and Retail customers.
+The increase in international revenue was primarily due to growth in revenue from an international Government customer.
+Revenue by market
+The increase in Government revenue was primarily due to growth in revenue from the Central Banks.
+The increase in Retail revenue was primarily due to the impact of new contracts entered into with Retail customers partially offset by the revenue impact of a renegotiated contract with a Retail supplier partner in the first quarter of 2020.
+The increase in Media revenue was not significant.
+Cost of revenue
+Service. Cost of service revenue primarily includes:
+•
+compensation, benefits, incentive compensation in the form of stock-based compensation and related costs of our software developers, quality assurance personnel, design professionals, product managers, business development managers and other personnel where we bill our customers for time and materials costs;
+•
+payments to outside contractors that are billed to customers;
+•
+charges for equipment directly used by customers;
+•
+depreciation for machinery, equipment and software directly used by customers; and
+•
+travel costs that are billed to customers.
+Subscription. Cost of subscription revenue primarily includes:
+•
+cost of outside contractors that provide operational support for our subscription products;
+•
+Internet service provider connectivity charges and image search data fees to support our subscription products; and
+•
+Amortization of capitalized patent costs and patent maintenance fees.
+Gross profit
+The increase in total gross profit was primarily due to higher service and subscription revenue and improved service gross profit as a percentage of service revenue.
+The increase in service gross profit as a percentage of service revenue was primarily due to a favorable mix of billable expenses, with higher labor expenses, which have a higher billable margin, and lower non-labor expenses, which have a lower billable margin.
+There was no change in subscription gross profit as a percentage of subscription revenue.
+Operating expenses
+Sales and marketing
+Sales and marketing expenses consist primarily of:
+•
+compensation, benefits, incentive compensation in the form of stock-based compensation and related costs of sales and marketing employees and product managers;
+•
+travel and market research costs, and costs associated with marketing programs, such as trade shows, public relations and new product launches;
+•
+professional services and outside contractors costs for product and marketing initiatives; and
+•
+charges for infrastructure and centralized costs of facilities and information technology.
+The decrease in sales and marketing expenses was primarily due to:
+•
+decreased travel costs of $0.8 million due to travel restrictions related to the COVID-19 pandemic;
+•
+decreased consulting and marketing costs of $0.5 million; and
+•
+decreased training and recruiting costs of $0.2 million; partially offset by
+•
+increased compensation costs of $0.4 million; and
+•
+non-recurring severance costs related to our July 2020 restructuring plan of $0.2 million.
+Research, development and engineering
+Research, development and engineering expenses arise primarily from three areas that support our business model:
+•
+Fundamental Research:
+•
+investigation of new digital watermarking algorithms to increase robustness and/or computational efficiency;
+•
+research of mobile device usage models and imaging sub-systems in camera-phones;
+•
+industry conference participation and authorship of papers for industry journals;
+•
+development of new intellectual property, including documentation of claims and production of supporting diagrams and materials;
+•
+research in multi-spectral analyses, machine learning, machine readable indicia and other content identification technologies;
+•
+investigation of substrates, printing techniques and printing technology relating to consumer packaged goods and thermal labels;
+•
+study and analysis of optimal illumination and imaging parameters to enable detection of Digimarc Barcode in high-speed sorting environments;
+•
+creation of models and sampling methodologies to enable recovering of Digimarc Barcode from highly soiled and highly distorted (e.g., crushed) objects; and
+•
+investigation and development of enhancement strategies for variety of manufacturing processes involved in the production and formation of plastic containers and objects.
+•
+Platform Development:
+•
+tuning and optimization of implementation models to improve resistance to non-malicious attacks and routine transformations, such as JPEG, cropping and printing;
+•
+platform creation to leverage device-specific capabilities (e.g., instruction sets and Graphics Processing Units);
+•
+embedded systems platform creation and tuning for barcode scanners, thermal label printers, and machine vision environments;
+•
+tuning big data analytics transformation and metrics aggregation engine;
+•
+tuning data-driven Internet crawling infrastructure with policy-driven feedback loop;
+•
+assembly of master book publishing catalog based on aggregation and reconciliation of multiple public data sources;
+•
+creation of automated build pipelines and tools to ensure all elements of the platform are built in consistent, secure fashion; and
+•
+building of Web API frameworks to simplify the packaging and delivery of existing Digimarc Platform components.
+•
+Product Development:
+•
+delivery and enhancement of Digimarc Barcode for an expanding list of applications, including packaging for consumer packaged goods, thermal labels for fresh foods and machine vision applications for manufacturing and recycling;
+•
+improvements to the Digimarc Barcode Manager and Digimarc Barcode Central to provide campaign management and routing services for the Digimarc Discover platform;
+•
+maintenance of the web-hosted image enhancement service in support of Digimarc Discover platform;
+•
+development and optimization of production level image enhancement tools and quality control services;
+•
+iterative development and release of the Digimarc Discover application for the iOS and Android platforms;
+•
+development of real-time analytics portal to support anti-piracy services for the publishing industry; and
+•
+delivery of Digimarc enhancement tools that support Variable Data Printing workflows.
+Research, development and engineering expenses consist primarily of:
+•
+compensation, benefits, incentive compensation in the form of stock-based compensation and related costs of software and hardware developers and quality assurance personnel;
+•
+payments to outside contractors;
+•
+the purchase of materials and services for product development; and
+•
+charges for infrastructure and centralized costs of facilities and information technology.
+The increase in research, development and engineering expenses was primarily due to:
+•
+increased compensation costs of $0.6 million; and
+•
+non-recurring severance costs related to our July 2020 restructuring plan of $0.6 million; partially offset by
+•
+decreased travel costs of $0.1 million due to travel restrictions related to the COVID-19 pandemic; and
+•
+decreased training and recruiting costs of $0.1 million.
+General and administrative
+We incur general and administrative costs in the functional areas of finance, legal, human resources, executive and board of directors. Costs for facilities and information technology are also managed as part of the general and administrative processes and are allocated to this area as well as each of the areas in cost of revenue, sales and marketing, and research, development and engineering.
+General and administrative expenses consist primarily of:
+•
+compensation, benefits and incentive compensation in the form of stock-based compensation and related costs of general and administrative personnel;
+•
+third party and professional fees associated with legal, accounting and human resources functions;
+•
+costs associated with being a public company;
+•
+third party costs, including filing and governmental regulatory fees and fees for outside legal counsel and translation costs, related to the filing and maintenance of our intellectual property;
+•
+charges to write off previously capitalized patent costs for patent assets we abandon; and
+•
+charges for infrastructure and centralized costs of facilities and information technology.
+The increase in general and administrative expenses was primarily due to:
+•
+increased compensation costs of $0.7 million; and
+•
+increased legal costs associated with financing activities and other matters of $0.2 million; partially offset by
+•
+decreased travel costs of $0.3 million due to travel restrictions related to the COVID-19 pandemic; and
+•
+decreased consulting and contracting costs of $0.2 million.
+Stock-based compensation
+The increases in stock-based compensation expense were primarily due to stock-based severance costs of $0.5 million related to our restructuring plan implemented in July 2020 and the impact of an additional year of stock awards to employees.
+We anticipate incurring an additional $14,416 in stock-based compensation expense through December 31, 2024 for awards outstanding as of December 31, 2020.
+Other income, net
+The decrease in other income, net was primarily due to lower interest income reflecting lower interest rates earned on investments, partially offset by higher average investment balances.
+Provision for income taxes
+The provision for income taxes reflects current taxes, deferred taxes and withholding taxes in certain foreign jurisdictions.
+For the year ended December 31, 2020, our effective tax rate was 0%, reflecting a full valuation allowance recorded against our deferred tax assets. The valuation allowance against deferred tax assets as of December 31, 2020 was $55.6 million, an increase of $7.8 million from $47.8 million as of December 31, 2019. We continually assess the applicability of a valuation allowance against our deferred tax assets. Based upon the positive and negative evidence available as of December 31, 2020, and largely due to the cumulative loss incurred by us over the preceding three years, which is considered a significant piece of negative evidence when assessing the realizability of deferred tax assets, a full valuation allowance is recorded against our deferred tax assets. We will not record tax benefits on any future losses until it is determined that those tax benefits will be realized. All future reversals of the valuation allowance would result in a tax benefit in the period recognized.
+For the year ended December 31, 2019, our effective tax rate was 0%, reflecting a full valuation allowance recorded against our deferred tax assets. The valuation allowance against deferred tax assets as of December 31, 2019 was $47.8 million, an increase of $7.9 million from $39.9 million as of December 31, 2018.
+Liquidity and Capital Resources
+(1)
+The current (liquidity) ratio is calculated by dividing total current assets by total current liabilities.
+The $40.9 million increase in cash, cash equivalents and marketable securities at December 31, 2020 from December 31, 2019 resulted primarily from:
+•
+net proceeds from the issuance of common stock and preferred stock (see “Future cash expectations”);
+•
+proceeds from stock option exercises; and
+•
+proceeds from the Note under the PPP; partially offset by
+•
+cash used in operations,
+•
+purchases of common stock related to tax withholding in connection with stock option exercise and the vesting of restricted stock, and
+•
+purchases of property and equipment and capitalized patent costs.
+Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash and cash equivalents, marketable securities, and trade accounts receivable. We place our cash and cash equivalents with major banks and financial institutions and at times deposits may exceed insured limits. Marketable securities include commercial paper, pre-refunded municipals and corporate notes. Our investment policy requires our portfolio to be invested to ensure that the greater of $3 million or 7% of the invested funds will be available within 30 days’ notice.
+Other than cash used for operating needs, which may include short-term marketable securities, our investment policy limits our credit exposure to any one financial institution or type of financial instrument by limiting the maximum of 5% of our cash and cash equivalents and marketable securities or $1 million, whichever is greater, to be invested in any one issuer except for the U.S. government, U.S. federal agencies and U.S.-backed securities, which have no limits, at the time of purchase. Our investment policy also limits our credit exposure by limiting to a maximum of 40% of our cash and cash equivalents and marketable securities, or $15 million, whichever is greater, to be invested in any one industry category, (e.g., financial or energy industries), at the time of purchase. As a result, we believe our credit risk associated with cash and investments to be minimal. A decline in the market value of any security below cost that is deemed to be other-than-temporary results in a reduction in carrying amount to fair value. To determine whether an impairment is other-than-temporary, we consider whether we have the ability and intent to hold the investment until a market price recovery and evidence indicating that the cost of the investment is recoverable outweighs evidence to the contrary. There have been no other-than-temporary impairments identified or recorded by us in the years ended December 31, 2020 and 2019.
+Cash flows from operating activities
+The components of operating cash flows were:
+Cash flows used in operating activities in 2020 compared to 2019 improved by $1.4 million, primarily as a result of changes in operating assets and liabilities. The changes in operating assets and liabilities was largely due to timing of receipts from customers and payments to vendors.
+Cash flows from investing activities
+Cash flows used in investing activities in 2020 compared to 2019 increased by $22.2 million, from $11.7 million to $33.9 million, primarily as a result of higher net purchases of marketable securities as we invested most of the cash proceeds from financing activities.
+Cash flows from financing activities
+Cash flows provided by financing activities in 2020 compared to 2019 increased by $45.4 million, from $17.3 million to $62.7 million, primarily as a result of higher net proceeds from the issuance of common stock and preferred stock, higher proceeds from stock option exercise activity, and proceeds from the Note issued in April 2020 under the PPP, partially offset by higher purchases of common stock related to tax withholding. See “Future cash expectations.”
+Future cash expectations
+We believe that our current cash, cash equivalents, and short-term marketable securities balances will satisfy our projected working capital and capital expenditure requirements for at least the next 12 months. We continuously review our liquidity and anticipated capital requirements in light of the uncertainty created by the COVID-19 pandemic.
+On May 16, 2019, we entered into an Equity Distribution Agreement, whereby we may sell from time to time through Wells Fargo Securities, LLC, as our sales agent, our common stock having an aggregate offering price of up to $30,000. Wells Fargo Securities, LLC will receive from us a commission equal to 2.50% of the gross sales price per share of common stock for shares having an aggregate offering price of up to $10,000, and a commission of 2.25% of the gross sales price per share of common stock thereafter, for shares sold under the Equity Distribution Agreement. For the year ended December 31, 2020, we sold 162 shares at an average price of $16.80 per share totaling $2,718 of cash proceeds, less $61 of commissions and $394 of stock issuance costs. For the year ended December 31, 2019, we sold 336 shares at an average price of $60.61 per share totaling $20,349 of cash proceeds, less $483 of commissions and $251 of stock issuance costs. As of December 31, 2020, $6,932 was available for future issuance under the Equity Distribution Agreement.
+On April 16, 2020, we entered into a Promissory Note with an aggregate principal amount of $5,032 (the “Note”) with Steans Bank, N.A. pursuant to the PPP under the CARES Act. The proceeds gave us more time to observe financial market trends and assess the effects of the COVID-19 pandemic on the Company to determine the best course of action concerning financing the business. The Note matures two years from the disbursement date and bears interest at a rate of 1.000% per annum, with the first six months of interest deferred. Principal and interest are payable monthly commencing six months after the disbursement date and may be prepaid by the Company at any time prior to maturity with no prepayment penalties. Subject to the terms and limitations of the PPP, the Note may be forgiven in whole or in part.
+On June 5, 2020, we filed a new shelf registration statement on Form S-3, that included $49,265 of unsold securities from our prior shelf registration statement filed on May 26, 2017 that expired in June 2020. Under the new shelf registration statement, we may sell securities in one or more offerings up to $100,000. As of December 31,
+2020, there was $97,892 available under the shelf registration. The new shelf registration statement will expire in July 2023.
+On June 29, 2020, we were notified by Stearns Bank, N.A. that the Note was transferred to The Loan Source Inc. (“the Lender”), who will be responsible for servicing the Note going forward, including administering loan forgiveness. We believe that we have used the entire amount of the Note to fund expenses eligible for forgiveness under the PPP, and on September 15, 2020, we filed our application for 100% forgiveness of the Note. Our application was reviewed by the Lender and submitted to the SBA for approval on December 17, 2020. The SBA will, subject to any review of our loan or application, remit payment of the appropriate forgiveness amount to the Lender within 90 days following the date the Lender submitted its decision to the SBA. If the SBA reviews our loan or application, then it may take longer than 90 days for any determination to be made as to whether the Note will be forgiven in whole, in part or at all. Principal and interest payments can be deferred until the forgiveness process is completed as no payments would be required if the Note is forgiven.
+On July 27, 2020, we announced a plan to restructure certain areas of operations to improve productivity, communication, time to market, and support. The changes reduced the number of employees within the organization by 7%. As a result, we incurred severance costs of $840 during the quarter ended September 30, 2020, consisting of $390 of cash-based severance and $450 of stock-based severance. The annualized cost savings from the restructuring are estimated to be $2,300, consisting of $2,100 of cash-based compensation and $200 of stock-based compensation.
+On September 29, 2020, we entered into a Subscription Agreement with TCM Strategic Partners L.P. in a private placement to issue and sell (i) 2,542 shares of our common stock (“Common Shares”), par value $0.001 per share, and (ii) 17 shares of our newly designated Series B Convertible Preferred Stock (“Series B Shares”), par value $0.001 per share, for an aggregate purchase price of $53,500. The purchase and sale of the Common Shares for $36,530 closed on September 29, 2020, and the purchase and sale of the Series B Shares for $16,970 closed on October 1, 2020. Subject to shareholder approval, the Series B Shares automatically convert into fully paid and non-assessable shares of common stock at a conversion price equal to $14.37 per share. The offering was made without an underwriter or placement agent. We paid a total of $272 in stock issuance costs. On December 10, 2020, the Company held a Special Meeting of Shareholders that approved the issuance of the Company’s common stock upon the conversion of the Series B Shares issued to TCM Strategic Partners L.P. On December 10, 2020, the Series B Shares automatically converted into 1,198 shares of the Company’s common stock.
+On October 2, 2020, the SBA released a procedural notice that defined “change of ownership” as used in PPP loans to mean the transfer, whether in one or more transactions, of at least 20% of the common stock or other ownership interest of a PPP borrower. The Note provides that we must obtain the Lender’s consent in the event of a “change of ownership.”
+On November 20, 2020, we received consent from the Lender for the expected “change of ownership” to be triggered by the conversion of the Series B Shares issued on October 1, 2020, under the Subscription Agreement with TCM Strategic Partners L.P.
+We may sell shares under the shelf registration and/or use similar or other financing means to raise working capital in the future, if necessary, to support continued investment in our growth initiatives. We may also raise capital in the future to fund acquisitions and/or investments in complementary businesses, technologies or product lines. If it becomes necessary to obtain additional financing, we may not be able to do so, or if these funds are available, they may not be available on satisfactory terms. The COVID-19 pandemic has created substantial uncertainty and volatility in the stock market, particularly in the small-cap sector in which our stock is traded, and negatively impacted our share price. These factors may inhibit our near-term ability to obtain financing.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.
+We are party to an operating lease for our facility in Beaverton, Oregon. As amended in July 2015, the term of this lease runs through March 2024, with remaining rent payments totaling $2.7 million, payable in monthly installments.
+We previously leased office space in San Mateo, California, until March 31, 2020, when the lease expired.
+Forward-Looking Statements
+This Annual Report on Form 10-K includes “forward-looking statements” within the meaning of Section 21E of the Securities Exchange Act of 1934 and Section 27A of the Securities Act of 1933. Words such as “may,” “might,” “plan,” “should,” “could,” “expect,” “anticipate,” “intend,” “believe,” “project,” “forecast,” “estimate,” “continue,” and variations of such terms or similar expressions are intended to identify such forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements, or other statements made by us, are made based on our expectations and beliefs concerning future events impacting us, and are subject to uncertainties and factors (including those specified below), which are difficult to predict and, in many instances, are beyond our control. As a result, our actual results could differ materially from those expressed in or implied by any such forward-looking statements, and investors are cautioned not to place undue reliance on such statements. We believe that the following factors, among others (including those described in Item 1A. “Risk Factors”), could affect our future performance and the liquidity and value of our securities and cause our actual results to differ materially from those expressed or implied by forward-looking statements made by us. Forward-looking statements include but are not limited to statements relating to:
+•
+our beliefs regarding the possible effects of the COVID-19 pandemic on general economic conditions, public health, and consumer demand, and the Company’s results of operations, liquidity, capital resources, and general performance in the future;
+•
+the possible impact of COVID-19 on our ability to obtain financing through our Equity Distribution Agreement and the availability of any alternative sources of financing;
+•
+the timing and potential for forgiveness of the Note under the terms of the PPP and the possible impact of any audit or review related to the Note;
+•
+the potential impact of COVID-19 on projects with our Retail customers and partners;
+•
+the concentration of most of our revenue among a few customers and the trends and sources of future revenue;
+•
+anticipated successful advocacy of our technology by our partners;
+•
+our belief regarding the global deployment of our products;
+•
+our beliefs regarding potential outcomes of participating in the HolyGrail 2.0 initiative;
+•
+our future level of investment in our business, including investment in research, development and engineering of products and technology, development of our intellectual property, sales growth initiatives and development of new market opportunities;
+•
+anticipated expenses, costs, margins, provision for income taxes and investment activities in the foreseeable future;
+•
+our assumptions and expectations related to stock awards;
+•
+our belief that we have one of the world’s most extensive patent portfolios in digital watermarking and related fields;
+•
+anticipated effect of our adoption of accounting pronouncements;
+•
+our beliefs regarding our critical accounting policies;
+•
+our expectations regarding the impact of accounting pronouncements issued but not yet adopted;
+•
+anticipated revenue to be generated from current contracts, renewals, and as a result of new programs;
+•
+our estimates, judgments and assumptions related to impairment testing;
+•
+variability of contracted arrangements in response to changes in circumstances underlying the original contractual arrangements;
+•
+business opportunities that could require that we seek additional financing and our ability to do so;
+•
+the size and growth of our markets and our assumptions and beliefs related to those markets;
+•
+the existence of international growth opportunities and our future investment in such opportunities;
+•
+our expected short-term and long-term liquidity positions;
+•
+our capital expenditure and working capital requirements and our ability to fund our capital expenditure and working capital needs through cash flow from operations or financing;
+•
+the effect of computerized trading on our stock price;
+•
+capital market conditions, our expectations regarding credit risk exposure, interest rate volatility and other limitations on the availability of capital, which could have an impact on our cost of capital and our ability to access the capital markets;
+•
+our use of cash, cash equivalents and marketable securities in upcoming quarters and the possibility that our deposits of cash and cash equivalents with major banks and financial institutions may exceed insured limits;
+•
+the strength of our competitive position and our ability to innovate and enhance our competitive differentiation;
+•
+our beliefs related to our existing facilities;
+•
+protection, development and monetization of our intellectual property portfolio;
+•
+our beliefs related to our relationship with our employees and the effect of increasing diversity within our workforce;
+•
+our beliefs regarding cybersecurity incidents;
+•
+our beliefs related to certain provisions in our bylaws and articles of incorporation;
+•
+our beliefs related to legal proceedings and claims arising in the ordinary course of business; and
+•
+other risks detailed in our filings with the Securities and Exchange Commission, including the risk factors set forth in Item 1A. “Risk Factors.”
+We believe that the risk factors specified above and the risk factors contained in Item 1A, “Risk Factors,” among others, could affect our future performance and the liquidity and value of our securities and cause our actual results to differ materially from those expressed or implied by forward-looking statements made by us or on our behalf. Investors should understand that it is not possible to predict or identify all risk factors and that there may be other factors that may cause our actual results to differ materially from the forward-looking statements. All forward-looking statements made by us or by persons acting on our behalf apply only as of the date of this Annual Report on Form 10-K. We do not undertake any obligation to publicly update or revise any forward-looking statements to reflect future events, information or circumstances that arise after the date of the filing of this Annual Report on Form 10-K.

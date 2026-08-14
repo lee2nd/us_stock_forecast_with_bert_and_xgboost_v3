@@ -1,0 +1,1085 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+INTRODUCTION
+As used below, “we” and “our” refer to MGIC Investment Corporation’s consolidated operations or to MGIC Investment Corporation, as a separate entity, as the context requires. References to "we" and "our" in the context of debt obligations refer to MGIC Investment Corporation. See the "Glossary of terms and acronyms" for definitions and descriptions of terms used throughout this annual report. The Risk Factors contained in Item 1A discuss trends and uncertainties affecting us and are an integral part of the MD&A.
+The following is a discussion and analysis of the financial conditions and results of operations for the years ended December 31, 2021 and 2020, including comparisons between 2021 and 2020. Comparisons between 2020 and 2019 have been omitted from this Form 10-K, but can be found in "Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the year ended December 31, 2020 filed with the SEC.
+Forward Looking and Other Statements
+As discussed under “Forward Looking Statements and Risk Factors” in Item 1A of Part 1 of this Report, actual results may differ materially from the results contemplated by forward looking statements. We are not undertaking any obligation to update any forward looking statements or other statements we may make in the following discussion or elsewhere in this document even though these statements may be affected by events or circumstances occurring after the forward looking statements or other statements were made. Therefore, no reader of this document should rely on these statements being current as of any time other than the time at which this document was filed with the Securities and Exchange Commission.
+OVERVIEW
+This Overview of the MD&A highlights selected information and may not contain all of the information that is important to readers of this Annual Report. Hence, this Overview is qualified by the information that appears elsewhere in this Annual Report, including the other portions of the MD&A.
+Through our subsidiary, MGIC, we are a leading provider of PMI in the United States, as measured by $274.4 billion of primary IIF on a consolidated basis at December 31, 2021.
+Summary of financial results of MGIC Investment Corporation
+Year Ended December 31,
+(in millions, except per share data) 2021 2020 Change
+Selected statement of operations data
+Net premiums earned $ 1,014.4 $ 1,021.9 (1) %
+Investment income, net of expenses 156.4 154.4 1 %
+Losses incurred, net 64.6 364.8 (82) %
+Other operating and underwriting expenses, net 198.4 176.4 12 %
+Loss on debt extinguishment 36.9 26.7 38 %
+Income before tax 801.8 559.3 43 %
+Provision for income taxes 166.8 113.2 47 %
+Net income 635.0 446.1 42 %
+Diluted income per share $ 1.85 $ 1.29 43 %
+Non-GAAP Financial Measures (1)
+Adjusted pre-tax operating income $ 831.7 $ 572.8 45 %
+Adjusted net operating income 658.6 456.8 44 %
+Adjusted net operating income per diluted share $ 1.91 $ 1.32 45 %
+(1)See "Explanation and Reconciliation of our use of Non-GAAP Financial Measures."
+MGIC Investment Corporation 2021 Form 10-K | 44
+MGIC Investment Corporation and Subsidiaries
+SUMMARY OF 2021 FINANCIAL RESULTS
+Net income of $635.0 million for 2021 increased by $188.9 million when compared to the prior year, and diluted income per share of $1.85 increased by 43% when compared to the prior year. These increases primarily reflect a decrease in losses incurred, partially offset by increases in the provision for income taxes, other underwriting and operating expenses, net, and loss on debt extinguishment.
+Diluted income per share increased due to a an increase in net income and a decrease in the number of diluted weighted average shares outstanding.
+Adjusted net operating income for 2021 was $658.6 million (2020: $456.8 million) and adjusted net operating income per diluted share was $1.91 (2020: $1.32). Adjusted net operating income for 2021 and 2020 included adjustments for a loss on debt extinguishment and net realized investment gains.
+Losses incurred, net were $64.6 million, compared to $364.8 million the prior year. The decrease reflects fewer delinquency notices in 2021 compared with 2020 which was impacted by the COVID-19 pandemic and the resultant macroeconomic environment.
+The decrease in losses incurred in 2021 was also due to favorable loss reserve development of $60.0 million primarily due to a decrease in the estimated claim rate on pre-COVID and peak COVID delinquencies (those that occurred in the second and third quarters of 2020). The favorable loss reserve development was offset by the recognition of a probable loss of $6.3 million related to litigation of our claims paying practice. In 2020 we experienced adverse loss reserve development of $19.6 million primarily due to an increase in the estimate of claim severity.
+The increase in our provision for income taxes to $166.8 million in 2021 compared to $113.2 million in 2020 was primarily due to an increase in income before tax. Our effective tax rate for 2021 was 20.8% compared to 20.2% for 2020.
+Other operating and underwriting expenses, net increased to $198.4 million in 2021 from $176.4 million in 2020 primarily due to increases in professional and consulting services, offset by an increase in ceding commissions.
+We recorded a loss on debt extinguishment of $36.9 million in 2021 associated with the repurchase of a portion of our 9% Debentures and $26.7 million in 2020 associated with the repurchases of a portion of each of our 5.75% Notes and our 9% Debentures.
+BUSINESS ENVIRONMENT
+Economic conditions
+Low interest rates, increasing household formations and appreciating home values supported favorable housing trends in 2021. These factors contributed to an increase in home purchase activity in 2021, after a strong 2020. Refinance activity was also robust during 2021, but decreased throughout the year. The continued favorable housing trends resulted in an increase in our NIW, from $120.2 billion in 2021 when compared to $112.1 billion in 2020.
+While uncertain, the COVID-19 pandemic may adversely impact our future financial results, business, liquidity and/or financial
+condition. The magnitude of the impact will be influenced by various factors, including the length and severity of the pandemic in the United States, efforts to reduce the transmission of COVID-19, the level of unemployment, and the impact of government initiatives and actions taken by Fannie Mae and Freddie Mac (the "GSEs") (including mortgage forbearance and modification programs) to mitigate the economic harm caused by COVID-19.
+The level of unemployment, interest rates, and home prices may change in the future. For the possible effects of such changes, see our risk factors titled "If the volume of low down payment home mortgage originations declines, the amount of insurance that we write could decline,” “Downturns in the domestic economy or declines in home prices may result in more homeowners defaulting and our losses increasing, with a corresponding decrease in our returns,” “Changes in interest rates, house prices or mortgage insurance cancellation requirements may change the length of time that our policies remain in force," and "The COVID-19 pandemic may materially impact our financial results, business, liquidity, and/or financial condition."
+Mortgage insurance market
+The past several years of favorable housing fundamentals and in our view, favorable risk characteristics of our recently insured loans contributed to a growing insurance in force.
+The percentage of our NIW with DTI ratios over 45% and LTV's over 95% increased slightly in 2021 compared with 2020. The increase was primarily driven by an increase in home price appreciation and an increase in purchase activity with a corresponding decrease in refinance activity.
+Refer to "Mortgage Insurance Portfolio" for additional discussion of changes in our NIW mix during 2020.
+Competition
+PMI. The private mortgage insurance industry is highly competitive and is expected to remain so. We believe that we currently compete with other private mortgage insurers based on premium rates, underwriting requirements, financial strength (including based on credit or financial strength ratings), customer relationships, name recognition, reputation, strength of management teams and field organizations, the ancillary products and services provided to lenders and the effective use of technology and innovation in the delivery and servicing of our mortgage insurance products.
+Pricing practices
+In recent years, the industry has materially reduced its use of standard rate cards, which were fairly consistent among competitors, and correspondingly increased its use of (i) "risk-based pricing systems" that use a spectrum of filed rates to allow for formulaic, risk-based pricing based on multiple attributes that may be quickly adjusted within certain parameters, and (ii) customized rate plans, both of which typically have rates lower than the standard rate card. Our increased use of reinsurance over the past several years, and the improved credit profile and reduced loss expectations associated with loans insured after 2008, have helped to mitigate the negative effect of declining premium rates on our expected returns. We expect our direct premium yield to continue to decline as older policies with higher premium rates run off, and are replaced with new insurance policies, which generally have lower premium rates.
+MGIC Investment Corporation 2021 Form 10-K | 45
+MGIC Investment Corporation and Subsidiaries
+For information about competition in the private mortgage insurance industry, see our risk factor titled “Competition or changes in our relationships with our customers could reduce our revenues, reduce our premium yields and/or increase our losses" in Item 1A.
+GSE Risk Share Transactions
+In 2018, the GSEs initiated secondary mortgage market programs with loan level mortgage default coverage provided by various (re)insurers that are not mortgage insurers governed by PMIERs, and that are not selected by the lenders. Due to differences in policy terms, these programs may offer premium rates that are below prevalent single premium LPMI rates. While we view these programs as competing with traditional private mortgage insurance, we participate in these programs from time to time.
+The GSEs (and other investors) have also used other forms of credit enhancement that did not involve traditional private mortgage insurance, such as engaging in credit-linked note transactions executed in the capital markets, or using other forms of debt issuances or securitizations that transfer credit risk directly to other investors, including competitors and an affiliate of MGIC; using other risk mitigation techniques in conjunction with reduced levels of private mortgage insurance coverage; or accepting credit risk without credit enhancement.
+Government programs. PMI also competes against government mortgage insurance programs such as the FHA, VA, and USDA, primarily for lower FICO score business. The combined market share of primary mortgage insurance written by government programs continues to exceed that written by PMI in 2020 and 2021. The strong refinance markets in 2020 and 2021, and PMI premium rate reductions, have contributed to a PMI market share consistent with 2018 and 2019, which were at its highest levels since the financial crisis.
+Refer to "Mortgage Insurance Portfolio" for additional discussion of the 2021 business environment and the impact it had on operating measures including NIW, IIF and RIF.
+PMIERs
+We operate under the requirements of the PMIERs of the GSEs in order to insure loans delivered to or purchased by them. The PMIERs include financial requirements as well as business, quality control and certain transactional approval requirements. The financial requirements of the PMIERs require a mortgage insurer’s "Available Assets" (generally only the most liquid assets of an insurer) to equal or exceed its "Minimum Required Assets" (which are based on an insurer's book of risk in force, calculated from tables of factors with several risk dimensions, reduced for credit given for risk ceded under reinsurance transactions, and subject to a floor amount). Based on our application of the more restrictive PMIERs, MGIC's Available Assets under PMIERs totaled $5.7 billion, an excess of $2.2 billion over its Minimum Required Assets at December 31, 2021.
+BUSINESS OUTLOOK FOR 2022
+Our outlook for 2022 should be viewed against the backdrop of the business environment discussed above.
+NIW
+Our NIW is affected by total mortgage originations, the percentage of total mortgage originations using private mortgage insurance (the "PMI penetration rate"), and our market share within the PMI industry. As of January 2022, the total mortgage origination forecasts from the GSEs and MBA indicate average mortgage originations of $3.1 trillion in 2022, compared to an average estimated $4.4 trillion in 2021. Purchase originations are expected to increase in 2022, compared to 2021, while refinance transactions are expected to decrease. As a result of the decrease in forecasted mortgage originations, we are expecting NIW to be lower in 2022 compared to 2021. The reduction will be driven primarily by a decrease in refinance activity.
+The widespread use of risk based pricing systems by the PMI industry makes it more difficult to compare our rates to those offered by our competitors. We may not be aware of industry rate changes until we observe that our volume of NIW has changed. In addition, business under customized rate plans is awarded by certain customers for only limited periods of time. As a result, our NIW may fluctuate more than it had in the past.
+IIF
+Our IIF increased 11.3% in 2021. We expect our IIF to grow in 2022, but at a slower rate than what we experienced in 2021. Our book of IIF is an important driver of our future revenues, and its growth is driven by our ability to generate NIW and retain existing policies in force, as measured by our persistency. Interest rates influence both our NIW and persistency. Generally speaking, in a rising rate environment, total mortgage originations may decline; however, absent material accumulated home price appreciation since the issuance of a policy, we would also expect policy cancellation rates to decline, and in turn increase persistency, although the impact generally lags the change in interest rates. The Federal Reserve has indicated that interest rates may increase in 2022 and home price appreciation is expected to slow in 2022 when compared to the record highs of 2021.
+Results of operations
+Premiums. Despite an increase in IIF, we expect our 2022 earned premiums (on a direct basis) to be lower than they were in 2021. Overall, our premium rates have been trending down in recent years, including in 2021, as the books of business written at lower rates represent an increasing percentage of our total IIF.
+Our 2022 net premiums written are expected to be comparable to 2021, while our net premiums earned are expected to decrease in 2022. Our net premiums written and earned will be impacted by the downward trend in premium rates noted above and by the amount of premiums we cede under our quota share and excess of loss reinsurance transactions, offset by an increase in IIF. Net premiums earned are also impacted by the amount of accelerated premiums from single premium policy cancellations, which generally decrease as refinance activity decreases. Our unearned premium decreased to $241.7 million at December 31, 2021 from $287.1 million at December 31, 2020. The amount of profit commission we receive, which reduces the amount of premiums we cede, is variable year-to-year and is dependent on the amount of losses ceded. The amount of premiums we cede in 2022 will be affected by any changes in our reinsurance coverage.
+MGIC Investment Corporation 2021 Form 10-K | 46
+MGIC Investment Corporation and Subsidiaries
+Factors that affect the amount of premiums we earn from our IIF are further discussed in our "Consolidated Results of Operations - Premium yield."
+Investment income. Net investment income is a material contributor to our results of operations. We expect net investment income in 2022 to be comparable to 2021. The amount of investment income will be impacted by the change in the yield we can earn on investments and the level of invested assets. The level of invested assets will primarily be impacted by the amount of cash we expect to use in financing activities relative to our cash from operations. The magnitude of any change in our invested asset level will be subject to the timing of our financing activities.
+Losses. Losses incurred, net in 2021 were $64.6 million, a decrease of $300.2 million over the prior year losses incurred of $364.8 million. The decrease reflects fewer delinquency notices received in 2021 compared with 2020 which was impacted by the COVID-19 pandemic. The decrease was also due to favorable loss reserve development of $60.0 million recognized in 2021 compared to adverse loss development of $19.6 million in 2020. Through December 31, 2021, our re-estimation of reserves resulted in favorable development on pre-COVID and peak COVID delinquencies as a result of a decrease in the estimated claim rate on those delinquencies. In 2020, we experienced adverse loss development of $19.6 million primarily related to an increase in the estimate of claim severity.
+We expect our delinquency inventory to continue to decrease in 2022, but at a slower rate than what we experienced in 2021. As foreclosure moratoriums and forbearance plans end, we expect to see an increase in claims received and claims paid.
+Underwriting and operating expenses, net. We expect underwriting and operating expenses, net to increase in 2022 as we invest in our technology and data and analytics infrastructure to execute our strategies.
+Income taxes. We expect our 2022 effective tax rate to be approximately 21%.
+CAPITAL
+MGIC dividend payments to our holding company
+The ability of MGIC to pay dividends is restricted by insurance regulation. Amounts in excess of prescribed limits are deemed “extraordinary” and may not be paid if disapproved by the OCI. A dividend is extraordinary when the proposed dividend amount, plus dividends paid in the twelve months preceding the dividend payment date exceed the ordinary dividend level. At December 31, 2021 MGIC could pay $122 million of ordinary dividends without OCI approval, before taking into consideration dividends paid in the preceding twelve months. In 2021 and 2020, MGIC paid a cash and/or investment security dividend of $400 million and $390 million, respectively, to our holding company. In 2020 MGIC distributed to the holding company, as a dividend, its ownership in $133 million of the holding company’s 9% Debentures. Future dividend payments from MGIC to the holding company will continue to be determined in consultation with the board.
+Share repurchase programs
+Repurchases may be made from time to time on the open market (including through 10b5-1 plans) or through privately negotiated transactions. The repurchase programs may be suspended for periods or discontinued at any time. After suspending stock repurchases due to the COVID 19 pandemic, we repurchased approximately 19.0 million in the second half of 2021 using approximately $291 million of holding company resources. Prior to the COVID 19 pandemic, we repurchased approximately 9.6 million shares of our common stock in the first quarter of 2020 using approximately $120 million of holding company resources. As of December 31, 2021, we had $500 million of authorization remaining to repurchase our common stock through the end of 2023 under a share repurchase program approved by our Board of Directors in October 2021.
+The following table shows details of our share repurchase programs.
+Repurchase Program Expiration Date Repurchased (in millions) Authorization Remaining
+(in millions)
+2019 Authorization December 31, 2020 $ 200 $ -
+2020 Authorization December 31, 2021 $ 300 $ -
+2021 Authorization December 31, 2023 $ - $ 500
+As of December 31, 2021, we had approximately 320,336 million shares of common stock outstanding.
+Dividends to shareholders
+In the first and second quarters of 2021, we paid quarterly cash dividends of $0.06 per share to shareholders which totaled $41.1 million. In the third and fourth quarters of 2021, we paid a quarterly cash dividend of $0.08 per share which totaled $53.6 million. On January 25, 2022, the Board of Directors declared a quarterly cash dividend to holders of the company's common stock of $0.08 per share payable on March 2, 2022, to shareholders of record at the close of business on February 16, 2022.
+For information about how the payment of dividends by our holding company will result in an adjustment to the conversion rate and price of our convertible securities, see our risk factor titled “Your ownership in our company may be diluted by additional
+MGIC Investment Corporation 2021 Form 10-K | 47
+MGIC Investment Corporation and Subsidiaries
+capital that we raise or if the holders of our outstanding convertible debt convert that debt into shares of our common stock” in Item 1A.
+GSEs
+We must comply with a GSE's PMIERs to be eligible to insure loans delivered to or purchased by that GSE. The PMIERs include financial requirements, as well as business, quality control and certain transaction approval requirements. The financial requirements of the PMIERs require a mortgage insurer’s “Available Assets” (generally only the most liquid assets of an insurer) to equal or exceed its “Minimum Required Assets” (which are generally based on an insurer’s book of risk in force and are calculated from tables of factors with several risk dimensions, reduced for credit given for risk ceded under reinsurance transactions).
+The PMIERs generally require us to hold significantly more Minimum Required Assets for delinquent loans than for performing loans and the Minimum Required Assets required to be held increases as the number of payments missed on a delinquent loan increases.
+If MGIC ceases to be eligible to insure loans purchased by one or both of the GSEs, it would significantly reduce the volume of our NIW, the substantial majority of which is for loans delivered to or purchased by the GSEs. In addition to the increase in Minimum Required Assets associated with delinquent loans, factors that may negatively impact MGIC’s ability to continue to comply with the financial requirements of the PMIERs include the following:
+è
+The GSEs may make the PMIERs more onerous in the future. The PMIERs provide that the factors that determine Minimum Required Assets will be updated periodically, or as needed if there is a significant change in macroeconomic conditions or loan performance. We do not anticipate that the regular periodic updates will occur more frequently than once every two years. The PMIERs state that the GSEs will provide notice 180 days prior to the effective date of updates to the factors; however, the GSEs may amend any portion of the PMIERs at any time.
+è
+There may be future implications for PMIERs as a result of changes to the regulatory capital requirements for the GSEs. In 2020, the FHFA adopted a rule containing a capital framework for the GSEs that generally would have become effective on the date of termination of the FHFA’s conservatorship of the applicable GSE. In September 2021, the FHFA issued a notice of proposed rule-making that would modify that capital framework. In light of recent home price appreciation, countercyclical adjustments included in the capital requirements could lead to significantly higher capital requirements for loans with loan-to-vale ("LTV") ratios greater than 80%. When the final GSE capital requirements have been determined and become effective, they may affect the Minimum Required Assets required to be held by mortgage insurers.
+è Our future operating results may be negatively impacted by the matters discussed in our risk factors. Such matters could decrease our revenues, increase our losses or require the use of assets, thereby creating a shortfall in Available Assets.
+è Should capital be needed by MGIC in the future, capital contributions from our holding company may not be available due to competing demands on holding company resources, including for repayment of debt.
+Our reinsurance transactions enable us to earn higher returns on our business than we would without them because they reduce the Minimum Required Assets we must hold under PMIERs. However, reinsurance may not always be available to us; or available on similar terms, and our quota share reinsurance subjects us to counterparty credit risk. The calculated credit for excess of loss reinsurance transactions under PMIERs is generally based on the PMIERs requirement of the covered loans and the attachment and detachment point of the coverage. PMIERs credit is generally not given for the reinsured risk above the PMIERs requirement. Our existing reinsurance transactions are subject to periodic review by the GSEs and there is a risk we will not receive our current level of credit in future periods for the risk ceded under them. In addition, we may not receive the same level of credit under future transactions that we receive under existing transactions.
+State Regulations
+The insurance laws of 16 jurisdictions, including Wisconsin, our domiciliary state, require a mortgage insurer to maintain a minimum amount of statutory capital relative to its RIF (or a similar measure) in order for the mortgage insurer to continue to write new business. We refer to these requirements as the “State Capital Requirements.” While they vary among jurisdictions, the most common State Capital Requirements allow for a maximum risk-to-capital ratio of 25 to 1. A risk-to-capital ratio will increase if (i) the percentage decrease in capital exceeds the percentage decrease in insured risk, or (ii) the percentage increase in capital is less than the percentage increase in insured risk. Wisconsin does not regulate capital by using a risk-to-capital measure but instead requires a MPP. MGIC's "policyholder position" includes its net worth or surplus and its, contingency reserve.
+MGIC Investment Corporation 2021 Form 10-K | 48
+MGIC Investment Corporation and Subsidiaries
+At December 31, 2021, MGIC’s risk-to-capital ratio was 9.5 to 1, below the maximum allowed by the jurisdictions with State Capital Requirements, and its policyholder position was $3.4 billion above the required MPP of $1.9 billion. Our risk-to-capital ratio and MPP reflect full credit for the risk ceded under our reinsurance transactions. It is possible that under the revised State Capital Requirements discussed below, MGIC will not be allowed full credit for the risk ceded under such transactions. If MGIC is not allowed an agreed level of credit under either the State Capital Requirements or the PMIERs, MGIC may terminate the reinsurance transactions, without penalty. At this time, we expect MGIC to continue to comply with the current State Capital Requirements; however, refer to our risk factor titled “State capital requirements may prevent us from continuing to write new insurance on an uninterrupted basis” in Item 1A for more information about matters that could negatively affect such compliance.
+At December 31, 2021, the risk-to-capital ratio of our combined insurance operations (which includes a reinsurance affiliate) was 9.5 to 1.
+The NAIC previously announced plans to revise the minimum capital and surplus requirements for mortgage insurers that are provided for in its Mortgage Guaranty Insurance Model Act. In 2019, a working group of state regulators released an exposure draft of a revised Mortgage Guaranty Insurance Model Act and a risk-based capital framework to establish capital requirements for mortgage insurers, although no date has been established by which the NAIC must propose revisions to the capital requirements and certain items have not yet been completely addressed by the framework, including the treatment of ceded risk and minimum capital floors.
+GSE REFORM
+The FHFA has been the conservator of the GSEs since 2008 and has the authority to control and direct their operations. The increased role that the federal government has assumed in the residential housing finance system through the GSE conservatorship may increase the likelihood that the business practices of the GSEs change, including through administrative action, in ways that have a material adverse effect on us and that the charters of the GSEs are changed by new federal legislation.
+As a result of the 2021 change in the Presidential Administration, the June 2021 appointment of a new Acting Director of the FHFA who has also been nominated to become the full-time Director, and the 2021 U.S. Supreme Court decision that allows the President to remove the FHFA Director at will, it is uncertain what role the GSEs, FHA and private capital, including private mortgage insurance, will play in the residential housing finance system in the future. The timing and impact on our business of any resulting changes is uncertain. Many of the proposed changes would require Congressional action to implement and it is difficult to estimate when Congressional action would be final and how long any associated phase-in period may last.
+For additional information about the business practices of the GSEs, see our risk factor titled “Changes in the business practices of the GSEs, federal legislation that changes their charters or a restructuring of the GSEs could reduce our revenues or increase our losses” in Item 1A.
+COVID-19 PANDEMIC
+The COVID-19 pandemic had a material impact on our 2020 financial results. While uncertain, the impact of the COVID-19 pandemic on the Company’s future business, financial results, liquidity and/or financial condition may also be material. The magnitude of the impact will be influenced by various factors, including the length and severity of the pandemic in the United States, efforts to reduce the transmission of COVID-19, the level of unemployment, and the impact of government initiatives and actions taken by the GSEs (including mortgage forbearance and modification programs) to mitigate the economic harm caused by the COVID-19 pandemic.
+In certain circumstances, the servicer of a loan may be unable to contact the borrower regarding an extension of the forbearance plan and it will expire without being extended. A delinquent mortgage for which the borrower was unable to be contacted and that is not in a forbearance plan may be more likely to result in a claim than a delinquent loan in a forbearance plan. The substantial majority of our NIW was delivered to or purchased by the GSEs. While servicers of some non-GSE loans may not be required to offer forbearance to borrowers, we allow servicers to apply GSE loss mitigation programs to non-GSE loans. In addition, the CFPB requires substantial loss mitigation efforts be made prior to servicers initiating foreclosure, therefore, servicers of non-GSE loans may have an incentive to offer forbearance or deferment.
+Historically, forbearance plans have reduced the incidence of our losses on affected loans. However, given the uncertainty surrounding the long-term economic impact of COVID-19, it is difficult to predict the ultimate effect of COVID-19 related forbearances on our loss incidence. As of December 31, 2021 and 2020, 33% and 62% of our delinquency inventory was reported to us as in forbearance plans, respectively. Whether a loan's delinquency will cure, including through modification, when its forbearance plan ends will depend on the economic circumstances of the borrower at that time. The severity of losses associated with loans whose delinquencies do not cure will depend on economic conditions at that time, including home prices.
+The GSEs have introduced specific loss mitigation options for borrowers impacted by COVID-19 when their forbearance plans end, including the COVID-19 Payment Deferral solution for borrowers who are unable to immediately or gradually repay their missed loan payments. Under the COVID-19 Payment Deferral solution, the borrower's monthly loan payment would be returned to its pre-COVID amount and the missed payments would be added to the end of the mortgage term without accruing any additional interest or late fees. The deferred payments would be due when the loan is paid off, refinanced or the home is sold.
+The foreclosure moratoriums and forbearance plans in place under the GSE initiatives have delayed the receipt and payment of claims. Foreclosures on mortgages purchased or securitized by the GSEs were suspended through July 31, 2021. Under a CFPB rule that was effective through December 31, 2021, with limited exceptions, servicers were required to ensure that at least one temporary procedural safeguard had been met before referring 120-day delinquent loans for foreclosure. With the expiration of the CFPB rule, it is likely that foreclosures and claims will increase.
+MGIC Investment Corporation 2021 Form 10-K | 49
+MGIC Investment Corporation and Subsidiaries
+FACTORS AFFECTING OUR RESULTS
+As noted above, the COVID-19 pandemic may adversely affect our future business, results of operations, and financial condition. The extent of the adverse effects will depend on the duration and severity of the COVID-19 pandemic, the ultimate effect of COVID-19 related delinquencies and forbearances on our loss incidence, and the effect of the pandemic on the U.S. economy and housing market. We have addressed some of the potential impacts throughout this document.
+The future effects of changing climatic conditions on our business is uncertain. For information about possible effects, please refer to our Risk Factor titled “Pandemics, hurricanes and other natural disasters may impact our incurred losses, the amount and timing of paid claims, our inventory of notices of default and our Minimum Required Assets under PMIERs.”
+Our results of operations are affected by:
+Premiums written and earned
+Premiums written and earned in a year are influenced by:
+•NIW, which increases IIF. Many factors affect NIW, including the volume of low down payment home mortgage originations and competition to provide credit enhancement on those mortgages from the FHA, the VA, other mortgage insurers, and other alternatives to mortgage insurance, including GSE programs that may reduce or eliminate the demand for mortgage insurance. NIW does not include loans previously insured by us that are modified, such as loans modified under HARP.
+•Cancellations, which reduce IIF. Cancellations due to refinancing are affected by the level of current mortgage interest rates compared to the mortgage coupon rates throughout the in force book, current home values compared to values when the loans in the in force book were insured and the terms on which mortgage credit is available. Home price appreciation can give homeowners the right to cancel mortgage insurance on their loans if sufficient home equity is achieved. Cancellations also result from policy rescissions, which require us to return any premiums received on the rescinded policies, and claim payments, which require us to return any premium received on the related policies from the date of default on the insured loans. Cancellations of single premium policies, which are generally non-refundable, result in immediate recognition of any remaining unearned premium.
+•Premium rates, which are affected by product type, competitive pressures, the risk characteristics of the insured loans, the percentage of coverage on the insured loans, and PMIERs capital requirements. The substantial majority of our monthly and annual mortgage insurance premiums are under premium plans for which, for the first ten years of the policy, the amount of premium is determined by multiplying the initial premium rate by the original loan balance; thereafter, the premium rate resets to a lower rate used for the remaining life of the policy. The remainder of our monthly and annual premiums are under premium plans for which premiums are determined by a fixed percentage of the loan’s amortizing balance over the life of the policy.
+•Premiums ceded, net of profit commission under our QSR Transactions, and premiums ceded under our Home Re Transactions. The profit commission varies inversely with the level of ceded losses incurred on a “dollar for dollar” basis and can be eliminated at ceded loss levels higher than we experienced in 2021. As a result, lower levels of losses incurred result in a higher profit commission and less benefit from ceded losses incurred; higher levels of losses incurred result in more benefit from ceded losses incurred and a lower profit commission (or for certain levels of accident year loss ratios, its elimination). See Note 9 - “Reinsurance” to our consolidated financial statements for a discussion of our reinsurance transactions.
+•Premiums earned are generated by the insurance that is in force during all or a portion of the period. A change in the average IIF in the current period compared to an earlier period is a factor that will increase (when the average in force is higher) or reduce (when it is lower) premiums written and earned in the current period, although this effect may be enhanced (or mitigated) by differences in the average premium rate between the two periods, as well as by premiums that are returned or expected to be returned in connection with claim payments and rescissions, and premiums ceded under reinsurance transactions. Also, NIW and cancellations during a period will generally have a greater effect on premiums earned in subsequent periods than in the period in which these events occur.
+Investment income
+Our investment portfolio is composed principally of investment grade fixed income securities. The principal factors that influence investment income are the size of the portfolio and its yield. As measured by amortized cost (which excludes changes in fair value, such as from changes in interest rates), the size of the investment portfolio is mainly a function of cash generated from (or used in) operations, such as NPW, investment income, net claim payments and expenses, and cash provided by (or used for) non-operating activities, such as debt or stock issuances or repurchases, and dividends.
+Losses incurred
+Losses incurred are the current expense that reflects claim payments, cost of settling claims, and changes in our estimates of payments that will ultimately be made as a result of delinquencies on insured loans. As explained under “Critical Accounting Estimates” below, except in the case of a premium deficiency reserve, we recognize an estimate of this expense only for delinquent loans. The level of new delinquencies has historically followed a seasonal pattern, with new delinquencies in the first part of the year lower than new delinquencies in the latter part of the year, though this pattern can be affected by the state of the economy and local housing markets. Pandemics, including COVID-19, and other natural disasters may result in delinquencies not following the typical pattern. Losses incurred are generally affected by:
+•The state of the economy, including unemployment and housing values, each of which affects the likelihood that loans will become delinquent and whether loans that are delinquent cure their delinquency.
+MGIC Investment Corporation 2021 Form 10-K | 50
+MGIC Investment Corporation and Subsidiaries
+•The product mix of the in force book, with loans having higher risk characteristics generally resulting in higher delinquencies and claims.
+•The size of loans insured, with higher average loan amounts tending to increase losses incurred.
+•The percentage of coverage on insured loans, with deeper average coverage tending to increase incurred losses.
+•The rate at which we rescind policies or curtail claims. Our estimated loss reserves incorporate our estimates of future rescissions of policies and curtailments of claims, and reversals of rescissions and curtailments. We collectively refer to such rescissions and denials as “rescissions” and variations of this term. We call reductions to claims "curtailments."
+•The distribution of claims over the life of a book. Historically, the first few years after loans are originated are a period of relatively low claims, with claims increasing substantially for several years subsequent and then declining, although persistency, the condition of the economy, including unemployment and housing prices, and other factors can affect this pattern. For example, a weak economy or housing value declines can lead to claims from older books increasing, continuing at stable levels or experiencing a lower rate of decline. See further information under “Mortgage insurance earnings and cash flow cycle” below.
+•Losses ceded under reinsurance agreements. See Note 9 - “Reinsurance” to our consolidated financial statements for a discussion of our reinsurance agreements.
+Underwriting and other expenses
+Underwriting and other expenses include items such as employee compensation, fees for professional and consulting services, depreciation and maintenance expense, and premium taxes, and are reported net of ceding commissions associated with our QSR Transactions. Employee compensation expenses are variable due to share-based compensation, changes in benefits, and changes in headcount (which can fluctuate due to volume). See Note 9 - “Reinsurance” to our consolidated financial statements for a discussion of ceding commission on our QSR Transactions.
+Interest expense
+Interest expense reflects the interest associated with our consolidated outstanding debt obligations discussed in Note 7 - “Debt” to our consolidated financial statements and under “Liquidity and Capital Resources” below.
+Other
+Certain activities that we do not consider being part of our fundamental operating activities may also impact our results of operations and are described below.
+Net realized investment gains (losses)
+•Fixed income securities. Realized investment gains and losses reflect the difference between the amount received on the sale of a fixed income security and the fixed income security’s cost basis, as well as any credit allowances and any "other than temporary" impairments recognized in earnings. The amount received on the sale of fixed income securities is affected by the coupon rate of the security compared to the yield of comparable securities at the time of sale.
+•Equity securities. Realized investment gains and losses are accounted for as a function of the periodic change in fair value.
+Loss on debt extinguishment
+Gains and losses on debt extinguishment result from discretionary activities that are undertaken to enhance our capital position, improve our debt profile and/or reduce potential dilution from our outstanding convertible debt. Extinguishing our outstanding debt obligations early through these discretionary activities may result in losses primarily driven by the payment of consideration in excess of our carrying value , and the write off of unamortized debt issuance costs on the extinguished portion of the debt.
+Refer to “Explanation and reconciliation of our use of Non-GAAP financial measures” below to understand how these items impact our evaluation of our core financial performance.
+MORTGAGE INSURANCE EARNINGS AND CASH FLOW CYCLE
+In general, the majority of any underwriting profit that a book generates occurs in the early years of the book, with the largest portion of any underwriting profit realized in the first year following the year the book was written. Subsequent years of a book may result in either underwriting profit or underwriting losses. This pattern of results typically occurs because relatively few of the incurred losses on delinquencies that a book will ultimately experience typically occur in the first few years of the book, when premium revenue is highest, while subsequent years are affected by declining premium revenues, as the number of insured loans decreases (primarily due to loan prepayments) and increasing losses. The typical pattern is also a function of premium rates generally resetting to lower levels after ten years. Changes in economic conditions, including those related to pandemics, including COVID-19, and other natural disasters may result in delinquencies not following the typical pattern.
+MGIC Investment Corporation 2021 Form 10-K | 51
+MGIC Investment Corporation and Subsidiaries
+CYBERSECURITY
+We are increasingly reliant on the efficient and uninterrupted operation of complex information technology systems. All information technology systems are potentially vulnerable to damage or interruption from a variety of sources, including by third-party cyber attacks, including those involving ransomware. The Company discovers vulnerabilities and experiences malicious attacks and other attempts to gain unauthorized access to its systems on a regular basis. Globally, attacks are expected to continue accelerating in both frequency and sophistication with increasing use by actors of tools and techniques that will hinder the Company’s ability to identify, investigate and recover from incidents. In response to the
+COVID-19 pandemic, the Company transitioned to a primarily virtual workforce model and will likely continue to operate under a hybrid model in the future. Virtual and hybrid workforce models may be more vulnerable to security breaches.
+While we have information security policies and systems in place to secure our information technology systems and to prevent unauthorized access to or disclosure of sensitive information, there can be no assurance with respect to our systems and those of our third-party vendors that unauthorized access to the systems or disclosure of the sensitive information, either through the actions of third parties or employees, will not occur.
+For additional information about the business practices of the GSEs, see our risk factor titled “We could be adversely affected if personal information on consumers that we maintain is improperly disclosed, our information technology systems are damaged or their operations are interrupted, or our automated processes do not operate as expected.” in Item 1A.
+MGIC Investment Corporation 2021 Form 10-K | 52
+MGIC Investment Corporation and Subsidiaries
+The following table shows five years of selected financial information.
+Summary of operations
+As of and for the Years Ended December 31,
+(In thousands, except per share data) 2021 2020 2019 2018 2017
+Revenues:
+Net premiums written $ 969,010 $ 928,742 $ 1,001,308 $ 992,262 $ 997,955
+Net premiums earned 1,014,419 1,021,943 1,030,988 975,162 934,747
+Investment income, net 156,438 154,396 167,045 141,331 120,871
+Realized investment (losses) gains, net including net impairment losses 6,582 13,752 5,306 (1,353) 231
+Other revenue 8,236 9,055 10,638 8,708 10,205
+Total revenues 1,185,675 1,199,146 1,213,977 1,123,848 1,066,054
+Losses and expenses:
+Losses incurred, net 64,577 364,774 118,575 36,562 53,709
+Underwriting and other expenses 211,047 188,778 194,769 190,143 170,749
+Interest expense 71,360 59,595 52,656 52,993 57,035
+Loss on debt extinguishment 36,914 26,736 - - 65
+Total losses and expenses 383,898 639,883 366,000 279,698 281,558
+Income before tax 801,777 559,263 847,977 844,150 784,496
+Provision for income taxes (1)
+166,794 113,170 174,214 174,053 428,735
+Net income $ 634,983 $ 446,093 $ 673,763 $ 670,097 $ 355,761
+Weighted average common shares outstanding 351,308 359,293 373,924 386,078 394,766
+Diluted income per share $ 1.85 $ 1.29 $ 1.85 $ 1.78 $ 0.95
+Balance sheet data
+Total investments $ 6,606,749 $ 6,682,911 $ 5,758,320 $ 5,159,019 $ 4,990,561
+Cash and cash equivalents 284,690 287,953 161,847 151,892 99,851
+Total assets 7,325,008 7,354,526 6,229,571 5,677,802 5,619,499
+Loss reserves 883,522 880,537 555,334 674,019 985,635
+Short- and long-term debt 1,036,508 1,034,379 575,867 574,713 573,560
+Convertible junior subordinated debentures 110,204 208,814 256,872 256,872 256,872
+Shareholders' equity $ 4,861,382 4,698,986 4,309,234 3,581,891 3,154,526
+Book value per share $ 15.18 $ 13.88 $ 12.41 $ 10.08 $ 8.51
+(1)In 2017, we remeasured our net deferred tax assets at the lower enacted corporate income tax rate under the Tax Act.
+MGIC Investment Corporation 2021 Form 10-K | 53
+MGIC Investment Corporation and Subsidiaries
+Other data
+Years Ended December 31,
+2021 2020 2019 2018 2017
+New primary insurance written ($ millions)
+$ 120,204 $ 112,113 $ 63,421 $ 50,526 $ 49,123
+New primary risk written ($ millions)
+$ 30,324 $ 26,759 $ 15,811 $ 12,657 $ 12,217
+IIF (at year-end) ($ millions)
+Direct primary IIF $ 274,404 $ 246,572 $ 222,295 $ 209,707 $ 194,941
+RIF (at year-end) ($ millions)
+Direct primary RIF $ 69,337 $ 61,812 $ 57,213 $ 54,063 $ 50,319
+Direct pool RIF
+With aggregate loss limits 206 210 213 228 236
+Without aggregate loss limits 99 130 163 191 235
+Primary loans in default ratios
+Policies in force 1,164,984 1,126,079 1,079,578 1,058,292 1,023,951
+Loans in default 33,290 57,710 30,028 32,898 46,556
+Percentage of loans in default 2.84 % 5.11 % 2.78 % 3.11 % 4.55 %
+Insurance operating ratios (GAAP)
+Loss ratio 6.4 % 35.7 % 11.5 % 3.7 % 5.7 %
+Underwriting Expense ratio 20.6 % 19.2 % 18.4 % 18.2 % 16.0 %
+Risk-to-capital ratio (statutory)
+Mortgage Guaranty Insurance Corporation 9.5:1 9.2:1 9.7:1 9.0:1 9.5:1
+Combined insurance companies 9.5:1 9.1:1 9.6:1 9.8:1 10.5:1
+MGIC Investment Corporation 2021 Form 10-K | 54
+MGIC Investment Corporation and Subsidiaries
+EXPLANATION AND RECONCILIATION OF OUR USE OF NON-GAAP FINANCIAL MEASURES
+NON-GAAP FINANCIAL MEASURES
+We believe that use of the Non-GAAP measures of adjusted pre-tax operating income (loss), adjusted net operating income (loss) and adjusted net operating income (loss) per diluted share facilitate the evaluation of the company's core financial performance thereby providing relevant information to investors. These measures are not recognized in accordance with GAAP and should not be viewed as alternatives to GAAP measures of performance.
+Adjusted pre-tax operating income (loss) is defined as GAAP income (loss) before tax, excluding the effects of net realized investment gains (losses), gain and losses on debt extinguishment, net impairment losses recognized in earnings and infrequent or unusual non-operating items where applicable.
+Adjusted net operating income (loss) is defined as GAAP net income (loss) excluding the after-tax effects of net realized investment gains (losses), gain and losses on debt extinguishment, net impairment losses recognized in earnings, and infrequent or unusual non-operating items where applicable. The amounts of adjustments to components of pre-tax operating income (loss) are tax effected using a federal statutory tax rate of 21%.
+Adjusted net operating income (loss) per diluted share is calculated in a manner consistent with the accounting standard regarding earnings per share by dividing (i) adjusted net operating income (loss) after making adjustments for interest expense on convertible debt, whenever the impact is dilutive by (ii) diluted weighted average common shares outstanding, which reflects share dilution from unvested restricted stock units and from convertible debt when dilutive under the “if-converted” method.
+Although adjusted pre-tax operating income (loss) and adjusted net operating income (loss) exclude certain items that have occurred in the past and are expected to occur in the future, the excluded items represent items that are: (1) not viewed as part of the operating performance of our primary activities; or (2) impacted by both discretionary and other economic or regulatory factors and are not necessarily indicative of operating trends, or both. These adjustments, along with the reasons for their treatment, are described below. Trends in the profitability of our fundamental operating activities can be more clearly identified without the fluctuations of these adjustments. Other companies may calculate these measures differently. Therefore, their measures may not be comparable to those used by us.
+(1)Net realized investment gains (losses). The recognition of net realized investment gains or losses can vary significantly across periods as the timing of individual securities sales is highly discretionary and is influenced by such factors as market opportunities, our tax and capital profile, and overall market cycles.
+(2)Gains and losses on debt extinguishment. Gains and losses on debt extinguishment result from discretionary activities that are undertaken to enhance our capital position, improve our debt profile, and/or reduce potential dilution from our outstanding convertible debt.
+(3)Net impairment losses recognized in earnings. The recognition of net impairment losses on investments can vary significantly in both size and timing, depending on market credit cycles, individual issuer performance, and general economic conditions.
+(4)Infrequent or unusual non-operating items. Items that are non-recurring in nature and are not part of our primary operating activities.
+MGIC Investment Corporation 2021 Form 10-K | 55
+MGIC Investment Corporation and Subsidiaries
+Non-GAAP reconciliations
+Reconciliation of Income before tax / Net income to Adjusted pre-tax operating income / Adjusted net operating income:
+Years Ended December 31,
+2021 2020
+(in thousands) Pre-tax Tax Effect Net
+(after-tax) Pre-tax Tax Effect Net
+(after-tax)
+Income before tax / Net income $ 801,777 $ 166,794 $ 634,983 559,263 113,170 446,093
+Adjustments:
+Net realized investment (gains) losses (7,009) (1,472) (5,537) (13,245) (2,781) (10,464)
+Loss on debt extinguishment 36,914 7,752 29,162 26,736 5,615 21,121
+Adjusted pre-tax operating income / Adjusted net operating income $ 831,682 $ 173,074 $ 658,608 $ 572,754 $ 116,004 $ 456,750
+Reconciliation of Net income per diluted share to Adjusted net operating income per diluted share:
+Weighted average diluted shares outstanding 351,308 359,293
+Net income per diluted share $ 1.85 $ 1.29
+Net realized investment (gains) losses (0.02) (0.03)
+Loss on debt extinguishment 0.08 0.06
+Adjusted net operating income per diluted share $ 1.91 $ 1.32
+MGIC Investment Corporation 2021 Form 10-K | 56
+MGIC Investment Corporation and Subsidiaries
+MORTGAGE INSURANCE PORTFOLIO
+MORTGAGE ORIGINATIONS
+The total amount of mortgage originations is generally influenced by the level of new and existing home sales, the percentage of homes purchased for cash, and the level of refinance activity. PMI market share of total mortgage originations is influenced by the mix of purchase and refinance originations. PMI market share is also impacted by the market share of total originations of the FHA, VA, USDA, and other alternatives to mortgage insurance, including GSE programs that may reduce or eliminate the demand for mortgage insurance.
+Total mortgage originations in 2020 and 2021 reflect record highs in the housing market. Total mortgage originations are forecasted to be strong in 2022, although less so than the last two years. The 2022 refinance market is forecasted to decrease, while the purchase market is forecasted to increase when compared to estimates for 2021.
+E - Estimated, F- Forecast
+Source: GSEs and MBA estimates/forecasts as of January 2022. Amounts represent the average of all sources.
+The total estimated mortgage insurance volume is shown below.
+Estimated total of PMI, FHA, USDA, and VA primary mortgage insurance
+(in billions) Nine Months Ended September 30, 2021 Twelve Months Ended December 31, 2020
+Primary mortgage insurance $1,050 $1,366
+Source: Inside Mortgage Finance - November 11, 2021 or SEC filings. Includes HARP NIW.
+PMI's market share is primarily impacted by competition from government mortgage insurance programs. In consideration of the expected decrease in mortgage originations, our 2022 NIW is expected to decrease from 2021.
+MORTGAGE INSURANCE INDUSTRY
+We compete against five other private mortgage insurers, as well as government mortgage insurance programs, including those
+offered by the FHA, VA, and USDA. Refer to "Overview - Business Environment - Competition" for a discussion of our competitive position.
+The PMI industry's market share through September 30, 2021 decreased compared to the market share for the full year of 2020.
+Estimated primary MI market share
+(% of total primary MI volume) Nine Months Ended September 30, 2021 Twelve Months Ended December 31, 2020
+PMI 43.4% 43.9%
+FHA 23.9% 23.4%
+VA 30.9% 30.9%
+USDA 1.9% 1.8%
+Source: Inside Mortgage Finance - November 11, 2021. Includes HARP NIW.
+Based on the current trajectory of our business, as shown in the table below, we expect that our market share within the PMI industry has increased in 2021 when compared to 2020. For additional discussion of the competitive landscape of the industry refer to "Overview - Business Environment - Competition."
+Estimated MGIC market share
+(% of total primary private MI volume) Nine Months Ended September 30, 2021 Twelve Months Ended December 31, 2020
+MGIC 20.5% 18.7%
+Source: Inside Mortgage Finance - November 11, 2021. Excludes HARP NIW.
+NEW INSURANCE WRITTEN
+NIW for 2021 continued to have what we believe are favorable risk characteristics. The following tables provide information about characteristics of our NIW.
+The percentage of our NIW with DTI ratios over 45% and LTV's over 95% increased slightly in 2021 compared with 2020. The increase was primarily driven by an increase in home price appreciation and purchase activity with a corresponding decrease in refinance activity.
+Primary NIW by FICO score
+Years Ended December 31,
+(% of primary NIW) 2021 2020
+760 and greater 45.6 % 47.1 %
+740 - 759 17.5 % 18.2 %
+720 - 739 13.7 % 13.3 %
+700 - 719 11.1 % 10.3 %
+680 - 699 7.3 % 7.3 %
+660 - 679 2.7 % 2.1 %
+640 - 659 1.6 % 1.1 %
+639 and less 0.5 % 0.6 %
+Total 100 % 100 %
+MGIC Investment Corporation 2021 Form 10-K | 57
+MGIC Investment Corporation and Subsidiaries
+Primary NIW by loan-to-value
+Years Ended December 31,
+(% of primary NIW) 2021 2020
+95.01% and above 10.8 % 8.6 %
+90.01% to 95.00% 43.7 % 39.1 %
+85.01% to 90.00% 30.0 % 32.1 %
+80.01% to 85% 15.5 % 20.2 %
+Total 100 % 100 %
+Primary NIW by debt-to-income ratio
+Years Ended December 31,
+(% of primary NIW) 2021 2020
+45.01% and above 13.6 % 11.3 %
+38.01% to 45.00% 30.0 % 30.8 %
+38.00% and below 56.4 % 57.9 %
+Total 100 % 100 %
+Primary NIW by policy payment type
+Years Ended December 31,
+(% of primary NIW) 2021 2020
+Monthly premiums 92.5 % 91.0 %
+Single premiums 7.4 % 8.9 %
+Annual Premiums 0.1 % 0.1 %
+Primary NIW by type of mortgage
+Years Ended December 31,
+(% of primary NIW) 2021 2020
+Purchases 79.7 % 64.3 %
+Refinances 20.3 % 35.7 %
+IIF AND RIF
+Our IIF grew 11.3% in 2021, and 10.9% in 2020, as NIW more than offset policy cancellations. Cancellation activity is primarily due to refinancing activity, but is also impacted by policies cancelled when borrowers achieve the required amount of home equity, cancellations due to claim payment, and by rescissions. Refinancing activity has historically been affected by the level of mortgage interest rates and the level of home price appreciation. Cancellations generally move inversely to the change in the direction of interest rates, although they generally lag a change in direction.
+Persistency. Our persistency at December 31, 2021 was 62.6% compared to 60.5% at December 31, 2020. Since 2000, our year-end persistency ranged from a high of 84.7% at December 31, 2009 to a low of 47.1% at December 31, 2003.
+Insurance in force and risk in force
+Years Ended December 31,
+($ in billions) 2021 2020
+NIW $ 120.2 $ 112.1
+Cancellations (92.4) (87.8)
+Increase in primary IIF $ 27.8 $ 24.3
+Direct primary IIF as of December 31, $ 274.4 $ 246.6
+Direct primary RIF as of December 31, $ 69.3 $ 61.8
+CREDIT PROFILE OF OUR PRIMARY RIF
+Our 2009 and later books possess significantly improved risk characteristics when compared to our 2005-2008 books. Modification and refinance programs, such as HAMP and HARP, which expired at the end of 2016 and 2018, respectively, but have been replaced by other GSE modification programs, make outstanding loans more affordable to borrowers with the goal of reducing the number of foreclosures. As of December 31, 2021, modifications accounted for approximately 5.4% of our total primary RIF, compared to 7.8% at December 31, 2020. Loans associated with 86% of all our modifications were current as of December 31, 2021. For additional information on the composition of our primary RIF see "Business - Our Products and Services"
+The composition of our primary RIF by policy year as of December 31, 2021 and 2020 is shown below:
+Primary risk in force
+($ in millions) December 31, 2021 December 31, 2020
+2004 and prior 500 635
+2005 - 2008 3,728 5,043
+2009 - 2015 2,865 5,689
+2016 - 2021 62,244 50,445
+Total 69,337 61,812
+MGIC Investment Corporation 2021 Form 10-K | 58
+MGIC Investment Corporation and Subsidiaries
+POOL AND OTHER INSURANCE
+MGIC has written no new pool insurance since 2008, however, for a variety of reasons, including responding to capital market alternatives to private mortgage insurance and customer demands, MGIC may write pool risk in the future. Our direct pool RIF was $305 million ($206 million on pool policies with aggregate loss limits and $99 million on pool policies without aggregate loss limits) at December 31, 2021 compared to $340 million ($210 million on pool policies with aggregate loss limits and $130 million on pool policies without aggregate loss limits) at December 31, 2020. If claim payments associated with a specific pool reach the aggregate loss limit, the remaining IIF within the pool would be cancelled and any remaining defaults under the pool would be removed from our default inventory.
+In connection with the GSEs' CRT programs, an insurance subsidiary of MGIC provides insurance and reinsurance covering portions of the credit risk related to certain reference pools of mortgages acquired by the GSEs. Our RIF, as reported to us, related to these programs was approximately $321 million and $287 million as of December 31, 2021 and December 31, 2020, respectively.
+MGIC Investment Corporation 2021 Form 10-K | 59
+MGIC Investment Corporation and Subsidiaries
+CONSOLIDATED RESULTS OF OPERATIONS
+The following section of the MD&A provides a comparative discussion of our Consolidated Results of Operations for the two-year period ended December 31, 2021. For a discussion of the Critical Accounting Estimates used by us that affect the Consolidated Results of Operations, see "Critical Accounting Estimates" below.
+Revenues
+Revenues
+Year Ended December 31,
+(In millions) 2021 2020
+Net premiums written $ 969.0 $ 928.7
+Net premiums earned $ 1,014.4 $ 1,021.9
+Investment income, net of expenses 156.4 154.4
+Net realized investment (losses) gains 6.6 13.8
+Other revenue 8.2 9.1
+Total revenues $ 1,185.7 $ 1,199.1
+NET PREMIUMS WRITTEN AND EARNED
+NPW increased 4% while NPE decreased 1%, in 2021 compared with the prior year, The increase in net premiums written was due to an increase in insurance in force partially offset by the effects of a decrease in the direct premium yield and an increase in ceded premiums written, net of profit commission. The decrease in net premiums earned was due to a decrease in accelerated premiums earned from single premium policy cancellations, given the decrease in refinance activity, partially offset by the increase in net premiums written.
+Premium yield
+Premium yield is NPE divided by average IIF during the year and is influenced by a number of key drivers, which have a varying impact from period to period. The following table provides information related to our premium yield for 2021, and 2020.
+Premium Yield
+Year Ended December 31,
+(in basis points) 2021 2020
+In force portfolio yield (1) 42.2 46.7
+Premium refunds (0.6) (0.5)
+Accelerated earnings on single premium policies 3.2 5.0
+Total direct premium yield 44.8 51.2
+Ceded premiums earned, net of profit commission and assumed premiums (2) (5.9) (7.6)
+Net premium yield 38.9 43.6
+(1) Total direct premiums earned, excluding premium refunds and accelerated premiums from single premium policy cancellations divided by average primary insurance in force.
+(2) Assumed premiums include those from our participation in GSE CRT programs, of which the impact on the net premium yield was 0.4 bps in 2021 and 0.5 bps in 2020
+Changes in our premium yields when compared to the respective prior year periods reflect the following:
+In force Portfolio Yield
+è
+A larger percentage of our IIF is from book years with lower premium rates due to a decline in premium rates in recent years resulting from pricing competition, insuring mortgages with lower risk characteristics, lower required capital, the availability of reinsurance and certain policies undergoing premium rate resets on their ten-year anniversaries.
+Premium Refunds
+è
+Premium refunds adversely impact our premium yield and are primarily driven by claim activity and our estimate of refundable premiums on our delinquent inventory.
+Accelerated earnings on single premium policies
+è
+Accelerated earned premium from cancellation of single premium policies prior to their estimated policy life, primarily due to increased refinancing activity increase our yield.
+Ceded premiums earned, net of profit commission and assumed premiums
+è
+Ceded premiums earned, net of profit commission adversely impact our premium yield. Ceded premium earned, net of profit commission, were primarily associated with QSR Transactions and Home Re Transactions. Assumed premiums consists primarily of premiums from GSE CRT programs. See "Reinsurance Agreements" below for further discussion on our reinsurance transactions.
+As discussed in our Risk Factor titled "Competition or changes in our relationships with our customers could reduce our revenues, reduce our premium yields and/or increase our losses," the private mortgage insurance industry is highly competitive and premium rates have declined over the past several years. We expect that our in force portfolio yield will continue to decline as older insurance policies with higher premium rates run off or have their premium rates reset, or are replaced with new insurance policies, which generally have lower premium rates. While our increased use of reinsurance over the past several years has helped to mitigate the negative effect of declining premium rates on our returns, refer to our risk factor titled "Reinsurance may not always be available or affordable" for a discussion of the risks associated with the availability of reinsurance.
+See "Overview - Factors Affecting Our Results" above for additional factors that also influence the amount of net premiums written and earned in a year.
+MGIC Investment Corporation 2021 Form 10-K | 60
+MGIC Investment Corporation and Subsidiaries
+REINSURANCE AGREEMENTS
+Quota share reinsurance
+Our quota share reinsurance affects various lines of our statements of operations and therefore we believe it should be analyzed by reviewing its effect on our pre-tax net income, as described below.
+è We cede a fixed percentage of premiums earned and received on insurance covered by the agreements.
+è We receive the benefit of a profit commission through a reduction in the premiums we cede. The profit commission varies inversely with the level of losses incurred on a "dollar for dollar" basis and can be eliminated at loss levels higher than we are currently experiencing. As a result, lower levels of losses incurred result in a higher profit commission and less benefit from ceded losses incurred, higher levels of ceded losses incurred result in more benefit from ceded losses incurred and a lower profit commission (or for certain levels of losses of accident year loss ratios, its elimination).
+è We receive the benefit of a ceding commission through a reduction in underwriting expenses equal to 20% of premiums ceded (before the effect of the profit commission).
+è We cede a fixed percentage of losses incurred on insurance covered by the agreements.
+The following table provides information related to our quota share agreements for 2021 and 2020.
+Quota share reinsurance
+As of and For the Years Ended December 31,
+(Dollars in thousands) 2021 2020
+Statements of operations:
+Ceded premiums written and earned, net of profit commission $ 118,537 $ 167,930
+% of direct premiums written 11 % 15 %
+% of direct premiums earned 10 % 14 %
+Profit commission 153,759 72,452
+Ceding commissions 53,460 48,077
+Ceded losses incurred 9,862 78,012
+Mortgage insurance portfolio:
+Ceded RIF (in millions)
+2015 QSR $ 889 $ 1,625
+2017 QSR - 1,330
+2018 QSR - 1,333
+2019 QSR 1,539 2,779
+2020 QSR 4,754 6,169
+2021 QSR 7,470 -
+Credit Union QSR 1,594 770
+Total ceded RIF $ 16,246 $ 14,006
+Ceded losses incurred for the year ended December 31, 2021 reflect favorable loss reserve development on previously received delinquency notices and a decrease in new delinquency notices reported on insurance covered by our QSR Transactions. Ceded loss incurred for 2020 reflect the increase in new delinquency notices due to the impact of the COVID-19 pandemic on insurance covered by our QSR Transactions. See "Losses Incurred, net” below for discussion of our loss reserves.
+Covered Risk
+The amount of our NIW, new risk written, IIF, and RIF subject to our QSR Transactions as shown in the following table will vary from period to period in part due to the mix of our risk written during the period.
+Quota share reinsurance
+As of and For the Years Ended December 31,
+2021 2020
+NIW subject to QSR Transactions 81.9 % 74.4 %
+New Risk Written subject to QSR Transactions 90.5 % 85.5 %
+IIF subject to QSR Transactions 78.4 % 75.9 %
+RIF subject to QSR Transactions 77.9 % 81.8 %
+The NIW subject to quota share reinsurance increased in 2021 compared to 2020 due to a decrease in NIW with LTVs less than or equal to 85% and amortization terms less than or equal to 20 years, which generally have lower coverage percentages, and are excluded from the QSR Transactions.
+We terminated our 2017 and 2018 QSR Transactions effective December 31, 2021 and incurred an early termination fee of $5 million. The termination reduces the amount of IIF and RIF subject to QSR transactions.
+2022 and 2023 QSR Transaction.
+We have executed an agreement with a group of unaffiliated reinsurers for reinsurance transactions with similar structures to our existing QSR transactions that will cover most of our NIW in 2022 (with an additional 15.0% quota share) and 2023 (with a 15% quota share). This is in addition to the reinsurance agreements executed in 2021 that included a 15.0% quota share on eligible 2022 NIW and the Credit Union QSR Transaction that covers NIW on loans originated by credit unions with a 65% quota share.
+Excess of loss reinsurance
+Our excess-of-loss reinsurance agreements provide $1.4 billion of loss coverage on an existing portfolio of in force policies having an in force dates from July 1, 2016 through March 31, 2019, and January 1, 2020 through May 28, 2021, all dates inclusive. For the reinsurance coverage, we retain the first layer of the respective aggregate losses paid, and a Home Re Entity will then provide the second layer coverage up to the outstanding reinsurance amount.
+MGIC Investment Corporation 2021 Form 10-K | 61
+MGIC Investment Corporation and Subsidiaries
+As of December 31, 2021, the remaining first layer retention and remaining excess of loss reinsurance coverage under our Home Re Transactions was as follows:
+($ In thousands) Remaining First Layer Retention Remaining Excess of Loss Reinsurance Coverage
+Home Re 2018-1 $ 165,365 $ 218,343
+Home Re 2019-1 183,917 208,146
+Home Re 2020-1 275,204 234,312
+Home Re 2021-1 211,142 387,830
+Home Re 2021-2 190,159 398,429
+Total ceded premiums for 2021 and 2020 were $44.5 million and $20.8 million, respectively.
+When a “Trigger Event” is in effect, payment of principal on the notes that were sold by the Home Re Entity to raise capital to supports its reinsurance obligation will be suspended and the reinsurance coverage available to MGIC under the transactions will not be reduced by such principal payments. As of December 31, 2021 a "Trigger Event" has occurred on our Home Re 2018-1 and Home Re 2019-1 ILN transactions because the reinsured principal balance of loans that were reported 60 or more days delinquent exceeded the limit specified in each transaction. A "Trigger Event" has also occurred on the Home Re 2021-2 ILN transactions because the credit enhancement of the most senior tranche is less than the target credit enhancement.
+See Note 9 - "Reinsurance," to our consolidated financial statements for additional information on the Home Re Entities.
+INVESTMENT INCOME, NET
+Net investment income increased 1% to $156.4 million in 2021 compared to $154.4 million in 2020. The increase in investment income was due to an increase in the average investment portfolio, partially offset by a decrease in the average investment yield.
+See "Balance Sheet Review" in this MD&A for further discussion regarding our investment portfolio.
+NET REALIZED INVESTMENT GAINS (LOSSES)
+Net realized investment gains (losses) in 2021 and 2020 were $6.6 million and $13.8 million, respectively. The decrease in net realized investment gains was primarily due to a decrease in the number of fixed income and equity securities sold.
+OTHER REVENUE
+Other revenue decreased to $8.2 million in 2021 from $9.1 million in 2020.
+Losses and expenses
+Losses and expenses
+Year Ended December 31,
+(In millions) 2021 2020
+Losses incurred, net $ 64.6 $ 364.8
+Amortization of deferred policy acquisition costs 12.6 12.4
+Other underwriting and operating expenses, net 198.4 176.4
+Interest expense 71.4 59.6
+Loss on debt extinguishment 36.9 26.7
+Total losses and expenses $ 383.9 $ 639.9
+LOSSES INCURRED, NET
+As discussed in “Critical Accounting Estimates” below and consistent with industry practices, we establish case loss reserves for future claims on delinquent loans that were reported to us as two payments past due and have not become current or resulted in a claim payment. Such loans are referred to as being in our delinquency inventory. Case loss reserves are established based on estimating the number of loans in our delinquency inventory that will result in a claim payment, which is referred to as the claim rate, and further estimating the amount of the claim payment, which is referred to as claim severity.
+IBNR reserves are established for delinquencies estimated to have occurred prior to the close of an accounting period, but have not yet been reported to us. IBNR reserves are established using estimated delinquencies, claim rates and claim severities.
+Estimation of losses is inherently judgmental. The conditions that affect the claim rate and claim severity include the current and future state of the domestic economy, including unemployment and the current and future strength of local housing markets. The actual amount of the claim payments may be substantially different than our loss reserve estimates. Our estimates could be adversely affected by several factors, including a deterioration of regional or national economic conditions, including unemployment and the continued impact of the COVID-19 pandemic, leading to a reduction in borrowers’ income and thus their ability to make mortgage payments, the impact of past and future government initiatives and actions taken by the GSEs (including mortgage forbearance programs and foreclosure moratoriums), and a drop in housing values which may affect borrower willingness to continue to make mortgage payments when the value of the home is below the mortgage balance. Loss reserves in future periods will also be dependent on the number of loans reported to us as delinquent.
+As discussed in our Risk Factor titled “The Covid-19 pandemic may materially impact our future financial results, business, liquidity and/or financial condition" the impact of the COVID-19 pandemic on our future incurred losses is uncertain and may be material. As discussed in our risk factor titled “Because we establish loss reserves only upon a loan delinquency rather than based on estimates of our ultimate losses on risk in force, losses may have a disproportionate adverse effect on our earnings in certain periods” if we have not received a notice of delinquency with respect to a loan and if we have not estimated the loan to be delinquent as of December 31, 2021 and recorded an IBNR reserve, then we have not yet recorded an incurred loss with respect to that loan.
+MGIC Investment Corporation 2021 Form 10-K | 62
+MGIC Investment Corporation and Subsidiaries
+Our estimates are also affected by any agreements we enter into regarding our claims paying practices such as the settlement agreements discussed in Note 17 - “Litigation and Contingencies” to our consolidated financial statements. Changes to our estimates could result in a material impact to our consolidated results of operations and financial position, even in a stable economic environment.
+Losses incurred, net decreased to $64.6 million compared to $364.8 million in 2020. The decrease reflects fewer delinquency notices received in 2021 compared with 2020 which was impacted by the COVID-19 pandemic, and the resultant macroeconomic environment.
+The decrease was also due to favorable loss reserve development of $60.0 million recognized in 2021 compared to adverse loss development of $19.6 million in 2020. Through December 31, 2021, our re-estimation of reserves resulted in favorable development on pre-COVID and peak COVID delinquencies as a result of a decrease in the estimated claim rate on those delinquencies. This was offset by the recognition of a probable loss of $6.3 million related to litigation of our claim paying practices. In 2020, we experienced adverse loss development of $19.6 million primarily related to an increase in the estimate of claim severity.
+See "New notice claim rate" and "Claims severity" below for additional factors and trends that impact these loss reserve assumptions.
+Composition of losses incurred
+Year Ended December 31,
+(In millions) 2021 2020
+Current year / New notices $ 124.6 $ 345.2
+Prior year reserve development (60.0) 19.6
+Losses incurred, net $ 64.6 $ 364.8
+Loss ratio
+The loss ratio is the ratio, expressed as a percentage, of the sum of incurred losses and LAE, net to net premiums earned. The decrease in the loss ratio in 2021 when compared to 2020 was primarily due to a decrease in losses incurred discussed above.
+Year Ended December 31,
+2021 2020
+Loss ratio 6.4 % 35.7 %
+MGIC Investment Corporation 2021 Form 10-K | 63
+MGIC Investment Corporation and Subsidiaries
+New notice claim rate
+The number of new delinquency notices received for the year ended December 31, 2021 decreased 60% compared to 2020 and new delinquency notices received in second half of 2021 were below pre-COVID-19 pandemic levels. The new notice claim rate in 2021 was consistent with the new notice claim rate in 2020.
+Many of the loans in our delinquency inventory have entered forbearance plans. Historically, forbearance plans have reduced the incidence of our losses on affected loans. However, given the uncertainty surrounding the long-term economic impact of COVID-19, it is difficult to predict the ultimate effect of COVID-19 related forbearances on our loss incidence. Whether a loan's delinquency will cure, including through modification, when its forbearance plan ends will depend on the economic circumstances of the borrower at that time. The severity of
+losses associated with loans whose delinquencies do not cure will depend on economic conditions at that time, including home prices compared to home prices at the time of placement of coverage. Forbearance information is based on the most recent information provided by the GSEs, as well as loan servicers, and we believe substantially all forbearances are related to COVID-19. While the forbearance information provided by the GSEs refers to delinquent loans in forbearance as of the prior month-end, the information provided by loan servicers may be more current. As of December 31, 2021, 33% of our delinquency inventory was in such plans.
+The table below presents our new delinquency notices received, delinquency inventory, percentage of loans in forbearance, and the average number of missed payments for the loans in our delinquency inventory by policy year.
+New notices and delinquency inventory during the period
+December 31, 2021
+Policy Year New Notices in 2021 Delinquency Inventory as of 12/31/21 % of Delinquency Inventory in Forbearance Avg. Number of Missed Payments of Delinquency Inventory
+2004 and prior 3,893 2,829 21.4 % 19
+2005-2008 13,070 10,882 24.3 % 19
+2009-2015 4,040 3,400 34.9 % 13
+2016 2,375 2,004 43.5 % 12
+2017 3,384 2,949 46.6 % 12
+2018 3,902 3,412 49.3 % 12
+2019 4,163 3,340 58.1 % 11
+2020 5,623 3,308 63.4 % 8
+2021 1,982 1,166 40.9 % 4
+Total 42,432 33,290 39.5 % 14
+Claim rate on new notices (1)
+8 %
+December 31, 2020
+Policy Year New Notices in 2020 Delinquency Inventory as of 12/31/20 % of Delinquency Inventory in Forbearance Avg. Number of Missed Payments of Delinquency Inventory
+2004 and prior 6,079 3,885 24.1 % 16
+2005-2008 26,838 17,084 38.0 % 14
+2009-2015 13,513 6,917 66.1 % 8
+2016 9,497 4,599 75.9 % 7
+2017 13,139 6,746 76.8 % 7
+2018 15,040 7,468 79.4 % 7
+2019 16,904 7,929 84.1 % 6
+2020 5,089 3,082 84.8 % 5
+Total 106,099 57,710 62.2 % 10
+Claim rate on new notices (1)
+7 %
+(1) - Claim rate is the respective full year weighted average rate and is rounded to the nearest whole percent.
+MGIC Investment Corporation 2021 Form 10-K | 64
+MGIC Investment Corporation and Subsidiaries
+Claims severity
+Factors that impact claim severity include:
+è economic conditions at that time, including home prices compared to home prices at the time of placement of coverage
+è exposure on the loan, which is the unpaid principal balance of the loan times our insurance coverage percentage,
+è length of time between delinquency and claim filing (which impacts the amount of interest and expenses, with a longer period between default and claim filing generally increasing severity), and
+è curtailments.
+As discussed in Note 8 - "Loss Reserves," our loss reserves estimates take into consideration current trends over time, because the development of the delinquencies may vary from period to period without establishing a meaningful trend. In light of the forbearance and foreclosure moratorium programs associated with the COVID-19 pandemic, the average number of missed payments at the time a claim is received and expected to be received increased in 2021 and will increase in 2022. Although foreclosure moratoriums are expiring, under a CFPB rule that was generally effective through December 31, 2021, with limited exceptions, servicers were required to ensure that at least one temporary safeguard had been met before referring 120-day delinquent loans for foreclosure. With the expiration of the CFPB rule, it is likely that foreclosures and claims will increase.
+The majority of loans insured prior to 2008 (which represent 41% of the loans in the delinquent inventory) are covered by master policy terms that, except under certain circumstances, do not limit the number of years that an insured can include interest when filing a claim. Under our current master policy terms, an insured can include accumulated interest when filing a claim only for the first three years the loan is delinquent. In each case, the insured must comply with its obligations under the terms of the applicable master policy.
+The quarterly trend in claims severity for each of the three years in the period ended December 31, 2021 is shown in the following table.
+Claims severity trend
+Period Average exposure on claim paid Average claim paid % Paid to exposure Average number of missed payments at claim received date
+Q4 2021
+$ 43,485 $ 32,722 75.2 % 42
+Q3 2021
+42,468 36,138 85.1 % 34
+Q2 2021
+40,300 34,068 84.5 % 36
+Q1 2021
+46,807 36,725 78.5 % 34
+Q4 2020
+48,321 40,412 83.6 % 32
+Q3 2020
+47,780 40,600 85.0 % 27
+Q2 2020
+44,905 42,915 95.6 % 32
+Q1 2020
+46,247 47,222 102.1 % 33
+Q4 2019
+46,076 46,302 100.5 % 34
+Q3 2019
+42,821 44,388 103.7 % 35
+Q2 2019
+46,950 46,883 99.9 % 34
+Q1 2019
+42,277 43,930 103.9 % 35
+Note: Table excludes material settlements. Settlements include amounts paid in settlement of disputes for claims paying practices and/or commutations of policies.
+Claims that were resolved after the first quarter of 2020 experienced an increase in loss mitigation activities, primarily third party acquisitions (sometimes referred to as “short sales”), resulting in a decrease in the average claim paid and the average claim paid as a percentage of exposure. In the fourth quarter of 2021, the average number of missed payments at the time claims were received increased compared to the previous quarter as foreclosure moratoriums expired resulting in an increase in our claims received. However, at December 31, 2021, claims received are still below levels experienced prior to the second quarter of 2020. As foreclosure moratoriums and forbearance plans end, we expect to see an increase in claims received and claims paid at exposure levels above those experienced subsequent to the second quarter of 2020. The magnitude and timing of the increases are uncertain.
+See Note 8 - “Loss Reserves” to our consolidated financial statements and “Critical Accounting Estimates” below for a discussion of our losses incurred and claims paying practices (including curtailments).
+MGIC Investment Corporation 2021 Form 10-K | 65
+MGIC Investment Corporation and Subsidiaries
+The length of time a loan is in the delinquency inventory can differ from the number of payments that the borrower has not made or is considered delinquent. These differences typically result from a borrower making monthly payments that do not result in the loan becoming fully current. The number of payments that a borrower is delinquent is shown in the following table.
+Primary delinquent inventory - number of payments delinquent
+2021 2020
+3 payments or less 9,529 14,183
+4 - 11 payments 9,208 35,977
+12 payments or more (1)
+14,553 7,550
+Total 33,290 57,710
+3 payments or less 28 % 25 %
+4 - 11 payments 28 % 62 %
+12 payments or more 44 % 13 %
+Total 100 % 100 %
+(1)Approximately 13% and 31% of the loans in the primary delinquency inventory with 12 payments or more delinquent have at least 36 payments delinquent as of December 31, 2021, and 2020, respectively.
+The increase in loans in the delinquency inventory that are 12 months or more payments delinquent compared to December 31, 2020 is primarily due to the number of new delinquency notices received in the second quarter of 2020 resulting from the impacts of the COVID-19 pandemic. This was partially offset by an increase in cures in the second half of 2020 and throughout 2021.
+NET LOSSES AND LAE PAID
+Net losses and LAE paid decreased 71% in 2021 compared to 2020 primarily due to lower claim activity on our primary business due to foreclosure moratoriums and payment forbearance plans in place. As the various moratorium and forbearance plans end, we expect net losses and LAE paid to increase, however, the magnitude and timing of the increases are uncertain.
+The table below presents our net losses and LAE paid for 2021 and 2020.
+Net losses and LAE paid
+(in millions) 2021 2020
+Total primary (excluding settlements) $ 43 $ 98
+Claims paying practices and NPL settlements (1)
+14 -
+Pool - 2
+Direct losses paid 57 100
+Reinsurance (2) (4)
+Net losses paid 55 96
+LAE 14 18
+Net losses and LAE paid before terminations 69 114
+Reinsurance terminations (2)
+(36) -
+Net losses and LAE paid $ 33 $ 114
+(1)See Note 8 - "Loss Reserves" for additional information on our settlements of disputes for claims paying practices and/or commutations of policies
+(2)See Note 9 - "Reinsurance" for additional information on our reinsurance termination
+Primary losses paid for the top 15 jurisdictions (based on 2021 losses paid) and all other jurisdictions for 2021 and 2020 appears in the table below.
+Primary paid losses by jurisdiction
+(In millions) 2021 2020
+Puerto Rico * $ 6 $ 5
+Florida * 5 13
+New York * 5 11
+Illinois * 4 9
+Maryland 3 7
+New Jersey * 3 8
+Pennsylvania * 2 4
+Connecticut * 2 2
+Ohio * 2 3
+Indiana * 1 1
+Massachusetts 1 2
+Louisiana * 1 1
+Iowa * 1 1
+Texas 1 2
+Virginia 1 2
+All other jurisdictions 5 27
+Total primary (excluding settlements) $ 43 $ 98
+Note: Asterisk denotes jurisdictions in the table above that predominately use a judicial foreclosure process, which generally increases the amount of time it takes for a foreclosure to be completed.
+MGIC Investment Corporation 2021 Form 10-K | 66
+MGIC Investment Corporation and Subsidiaries
+The primary average claim paid for the top 5 jurisdictions (based on 2021 losses paid) for 2021 and 2020 appears in table below.
+Primary average claim paid
+2021 2020
+Puerto Rico * $ 44,924 $ 42,650
+Florida * 45,599 59,610
+New York * 100,403 111,112
+Illinois * 32,982 43,339
+Maryland 48,979 63,665
+All other jurisdictions 26,068 35,770
+All jurisdictions 34,956 43,901
+Note: Asterisk denotes jurisdictions in the table above that predominately use a judicial foreclosure process, which generally increases the amount of time it takes for a foreclosure to be completed.
+The primary average claim paid can vary materially from period to period based upon a variety of factors, including the local market conditions, average loan amount, average coverage percentage, the amount of time between delinquency and claim filing, and our loss mitigation efforts on loans for which claims are paid.
+The primary average RIF on delinquent loans as of December 31, 2021 and 2020 and for the top 5 jurisdictions (based on December 31, 2021 delinquency inventory) appears in the following table.
+Primary average RIF - delinquent loans
+2021 2020
+Florida $ 56,227 $ 56,956
+Texas 51,037 53,194
+Illinois 40,798 41,451
+California 89,935 89,202
+New York 74,836 73,509
+All other jurisdictions 47,538 49,888
+All jurisdictions 51,887 53,804
+The primary average RIF on all loans was $59,518 and $54,891 at December 31, 2021 and December 31, 2020, respectively.
+LOSS RESERVES
+Our primary default rate at December 31, 2021 was 2.84% (2020: 5.11% ). There were 33,290 loans in our delinquency inventory at December 31, 2021, compared to 57,710 at December 31, 2020.
+The primary delinquency inventory at December 31, 2020 reflects the adverse economic impact of the COVID-19 pandemic in 2020. New delinquency notices received in 2021 were 42,432 compared with 106,099 in 2020. As of December 31, 2021 and December 31, 2020, 33% and 62%, respectively, of our delinquency inventory were reported to us as subject to forbearance plans.
+Generally, a defaulted loan with fewer missed payments is less likely to result in a claim. However, given the uncertainty surrounding the long-term economic impact of COVID-19, it is difficult to predict the ultimate effect of COVID-19 related delinquencies and forbearances on our loss incidence. Whether a loan’s delinquency will cure, including through modification, when its forbearance plan ends will depend on the economic circumstances of the borrower at that time.
+MGIC Investment Corporation 2021 Form 10-K | 67
+MGIC Investment Corporation and Subsidiaries
+The primary and pool loss reserves as of December 31, 2021, and 2020 appear in the table below.
+Gross loss reserves
+December 31,
+2021 2020
+Primary:
+Case reserves (In millions)
+$ 795 $ 789
+IBNR and LAE 82 82
+Total primary direct loss reserves 877 871
+Ending delinquency inventory 33,290 57,710
+Percentage of loans delinquent (default rate) 2.84 % 5.11 %
+Average direct reserve per default $ 26,156 $ 15,100
+Primary claims received inventory included in ending delinquency inventory 211 159
+Pool (1):
+Direct loss reserves (In millions):
+With aggregate loss limits 4 6
+Without aggregate loss limits 2 2
+Total pool direct loss reserves 6 8
+Ending delinquency inventory:
+With aggregate loss limits 313 442
+Without aggregate loss limits 185 238
+Total pool ending delinquency inventory 498 680
+Pool claims received inventory included in ending delinquency inventory 1 10
+Other gross loss reserves (2) (In millions)
+1 2
+(1)Since a number of our pool policies include aggregate loss limits and/or deductibles, we do not disclose an average direct reserve per default for our pool business.
+(2)Other gross loss reserves includes direct and assumed reserves that are not included within our primary or pool loss reserves.
+The average direct reserve per default as of December 31, 2021 increased when compared to the average as of December 31, 2020 because the delinquency inventory as of December 31, 2021 included loans with more missed payment, which generally have higher anticipated claim rates.
+MGIC Investment Corporation 2021 Form 10-K | 68
+MGIC Investment Corporation and Subsidiaries
+The primary delinquency inventory for the top 15 jurisdictions (based on December 31, 2021 delinquency inventory) at December 31, 2021, and 2020 appears in table the below.
+Primary delinquency inventory by jurisdiction
+2021 2020
+Florida * 2,948 5,936
+Texas 2,572 4,617
+Illinois * 2,082 3,460
+California 1,852 3,584
+New York * 1,674 2,416
+Pennsylvania * 1,672 2,593
+Ohio * 1,458 2,541
+Georgia 1,272 2,422
+New Jersey * 1,169 1,960
+Michigan 1,144 1,842
+North Carolina 987 1,686
+Maryland 929 1,556
+Virginia 766 1,377
+Louisiana * 757 979
+Indiana 736 1,163
+All other jurisdictions 11,272 19,578
+Total 33,290 57,710
+Note: Asterisk denotes jurisdictions in the table above that predominately use a judicial foreclosure process, which generally increases the amount of time it takes for a foreclosure to be completed.
+The primary delinquency inventory by policy year at December 31, 2021 and 2020 appears in the following table.
+Primary delinquency inventory by policy year
+2021 2020
+2004 and prior 2,829 3,885
+2004 and prior %: 8 % 6 %
+2005 1,703 2,462
+2006 2,928 4,265
+2007 4,973 8,011
+2008 1,278 2,346
+2005 - 2008 % 33 % 30 %
+2009 84 159
+2010 56 99
+2011 79 151
+2012 143 357
+2013 441 929
+2014 1,055 2,089
+2015 1,542 3,133
+2009 - 2015 % 10 % 12 %
+2016 2,004 4,599
+2017 2,949 6,746
+2018 3,412 7,468
+2019 3,340 7,929
+2020 3,308 3,082
+2021 1,166 -
+2016 and later %: 49 % 52 %
+Total 33,290 57,710
+On our primary business, the highest claim frequency years have typically been the third and fourth year after loan origination. However, the pattern of claim frequency can be affected by many factors, including persistency and deteriorating economic conditions. Deteriorating economic conditions can result in increasing claims following a period of declining claims. As of December 31, 2021, 78% of our primary RIF was written subsequent to December 31, 2018, 82% of our primary RIF was written subsequent to December 31, 2017, and 86% of our primary RIF was written subsequent to December 31, 2016.
+MGIC Investment Corporation 2021 Form 10-K | 69
+MGIC Investment Corporation and Subsidiaries
+COVID-19 Delinquency Activity
+At March 31, 2020, before the COVID-19 pandemic impacted our delinquency inventory, our delinquency inventory was 27,384. As a result of the impacts of the COVID-19 pandemic, including the high level of unemployment and economic uncertainty resulting from measures to reduce the transmission of the COVID-19, we experienced an increase in our delinquency inventory.
+Forbearance programs enacted by the GSEs provide for payment forbearance on mortgages to borrowers experiencing a hardship during the COVID-19 pandemic. The forbearance information provided by the GSEs will be with respect to delinquent loans in forbearance as of the prior month-end, while the information provided by loan servicers may be more current. As of December 31, 2021 and December 31, 2020 33% and 62%, respectively, of our delinquency inventory was reported as subject to a forbearance plan. We believe substantially all represent forbearances related to COVID-19. The following tables present characteristics of our primary delinquency inventory in forbearance plans.
+The number of payments that a borrower in forbearance is delinquent as of December 31, 2021 and 2020 is shown in the following table.
+Forbearance delinquency inventory - number of payments delinquent
+2021 2020
+3 payments or less 2,565 6,580
+4 - 11 payments 4,594 28,153
+12 payments or more 3,978 1,145
+Total 11,137 35,878
+3 payments or less 23 % 18 %
+4 - 11 payments 41 % 79 %
+12 payments or more 36 % 3 %
+Total 100 % 100 %
+The primary delinquency inventory in forbearance for the top 15 jurisdictions (based on December 31, 2021 delinquency inventory) at December 31, 2021 and 2020 appears in the following table.
+Primary delinquency inventory in forbearance - by jurisdiction
+2021 2020
+Florida * 1,071 4,150
+Texas 1,002 3,285
+Illinois * 701 2,162
+California 805 2,668
+New York * 406 1,088
+Pennsylvania * 458 1,294
+Ohio * 357 1,228
+Georgia 495 1,721
+New Jersey * 387 1,174
+Michigan 341 1,151
+North Carolina 336 1,081
+Maryland 340 994
+Virginia 291 935
+Louisiana * 294 562
+Indiana 176 538
+All other jurisdictions 3,677 11,847
+Total 11,137 35,878
+The primary delinquency inventory in forbearance by policy year at December 31, 2021, and 2020 appears in the table below.
+Primary delinquency inventory in forbearance by policy year
+2021 2020
+2004 and prior 483 937
+2004 and prior %: 4 % 3 %
+2005 352 671
+2006 601 1,293
+2007 921 3,330
+2008 288 1,197
+2005 - 2008 % 20 % 18 %
+2009 20 84
+2010 7 38
+2011 18 66
+2012 40 229
+2013 114 583
+2014 278 1,389
+2015 546 2,180
+2009 - 2015 % 9 % 13 %
+2016 740 3,490
+2017 1,066 5,180
+2018 1,304 5,927
+2019 1,482 6,670
+2020 2,238 2,614
+2021 639 -
+2016 and later %: 67 % 67 %
+Total 11,137 35,878
+MGIC Investment Corporation 2021 Form 10-K | 70
+MGIC Investment Corporation and Subsidiaries
+UNDERWRITING AND OTHER EXPENSES, NET
+Underwriting and other expenses include items such as employee compensation costs, fees for professional and consulting services, depreciation and maintenance expense, and premium taxes, and are reported net of ceding commissions.
+Underwriting and other expenses for 2021 increased to $198.4 million from $176.4 million in 2020. The increase is primarily due to increases in professional and consulting services related to our investments in our technology and data and analytics infrastructure, partially offset by an increase in ceding commission on our QSR transactions.
+Underwriting expense ratio
+The underwriting expense ratio is the ratio, expressed as a percentage, of the underwriting and operating expenses, net and amortization of DAC of our combined insurance operations (which excludes underwriting and operating expenses of our non-insurance operations) to NPW, and is presented in the table below for the past two years.
+The underwriting expense ratio increased in 2021 compared with 2020 due to an increase in underwriting expenses and other expenses, net, partially offset by higher NPW.
+Year Ended December 31,
+2021 2020
+Underwriting expense ratio 20.6 % 19.2 %
+INTEREST EXPENSE
+Interest expense for 2021 was $71.4 million compared to $59.6 million for 2020. The increase is due to the issuance of the 5.25% Notes in August 2020, partially offset by the repurchase of a portion of the 5.75% Notes in 2020 and the 9% Debentures in 2021 and 2020.
+LOSS ON DEBT EXTINGUISHMENT
+We recorded a loss on debt extinguishment of $36.9 million in 2021 associated with the repurchase of a portion of our 9% Debentures and $26.7 million in 2020 associated with the repurchase of a portion of each of our 5.75% Notes and our 9% Debentures.
+See Note 7 - "Debt" to our consolidated financial statements for a discussion on our debt.
+INCOME TAX EXPENSE AND EFFECTIVE TAX RATE
+Income tax provision and effective tax rate
+(In millions, except rate) 2021 2020
+Income before tax $ 802 $ 559
+Provision for income taxes 167 113
+Effective tax rate 20.8 % 20.2 %
+The increase in our provision for income taxes for 2021 compared to 2020 was primarily due to an increase in income before tax. Our effective tax rate for 2021 and 2020 was below the federal statutory income tax rate of 21% primarily due to the benefits of tax-preferenced securities.
+See Note 12 - “Income Taxes” to our consolidated financial statements for a discussion of our tax position.
+MGIC Investment Corporation 2021 Form 10-K | 71
+MGIC Investment Corporation and Subsidiaries
+BALANCE SHEET REVIEW
+Shareholders' equity
+Shareholders' equity
+As of December 31,
+(In millions) 2021 2020 $ Change
+Shareholders' equity
+Common stock $ 371 $ 371 $ -
+Paid-in capital 1,795 1,862 (67)
+Treasury stock (675) (393) (282)
+Accumulated Other Comprehensive Income (Loss), net of tax 120 217 (97)
+Retained earnings 3,251 2,642 609
+Total 4,861 $ 4,699 $ 162
+The increase in shareholders' equity in 2021 compared with the prior year was primarily due to net income, offset in part by the repurchase of shares of our common stock and quarterly dividends paid to shareholders.
+Total assets and total liabilities
+As of December 31, 2021, total assets were $7.3 billion and total liabilities were $2.5 billion. Compared to December 31,2020, total assets decreased modestly and total liabilities decreased by $0.2 billion.
+The following sections focus on the assets and liabilities experiencing major developments in 2021.
+INVESTMENT PORTFOLIO
+The investment portfolio decreased to $6.6 billion as of December 31, 2021 (2020: $6.7 billion), primarily due to lower unrealized gains.
+The return we generate on our investment portfolio is an important component of our consolidated financial results. Our investment portfolio primarily consists of a diverse mix of highly rated fixed income securities. The investment portfolio is designed to achieve the following objectives:
+Operating Companies (1)
+Holding Company
+è Preserve PMIERs assets è Provide liquidity with minimized realized loss
+è Maximize total return with emphasis on yield, subject to our other objectives è Maintain highly liquid, low volatility assets
+è Limit portfolio volatility è Maintain high credit quality
+è Duration 3.5 to 5.5 years è Duration maximum of 2.5 years
+(1)Primarily MGIC
+To achieve our portfolio objectives, our asset allocation considers the risk and return parameters of the various asset classes in which we invest. This asset allocation is informed by, and based on, the following factors:
+è economic and market outlooks;
+è diversification effects;
+è security duration;
+è liquidity;
+è capital considerations; and
+è income tax rates.
+The average duration and embedded investment yield of our investment portfolio as of December 31, 2021 and 2020 is shown in the following table.
+Portfolio duration and embedded investment yield
+December 31,
+2021 2020
+Duration (in years) 4.5 4.3
+Pre-tax yield (1)
+2.5% 2.6%
+After-tax yield (1)
+2.1% 2.1%
+(1)Embedded investment yield is calculated on a yield-to-worst basis.
+The credit risk of a security is evaluated through analysis of the security's underlying fundamentals, including the issuer's sector, scale, profitability, debt coverage, and ratings. The investment policy guidelines limit the amount of our credit exposure to any one issue, issuer and type of instrument. The following table shows the security ratings of our fixed income investments as of December 31, 2021 and 2020.
+Fixed income security ratings
+% of fixed income securities at fair value
+Security Ratings (1)
+Period AAA AA A BBB
+December 31, 2021 18% 26% 36% 20%
+December 31, 2020 23% 22% 35% 20%
+(1)Ratings are provided by one or more of: Moody's, Standard & Poor's and Fitch Ratings. If three ratings are available, the middle rating is shown; otherwise the lowest rating is shown.
+MGIC Investment Corporation 2021 Form 10-K | 72
+MGIC Investment Corporation and Subsidiaries
+Our investment portfolio was invested in comparable security types for the years ended December 31, 2021 and December 31, 2020. See Note 5 - “Investments” to our consolidated financial statements for additional disclosure on our investment portfolio.
+Investments outlook
+Our investment portfolio of fixed income securities is subject to interest rate risk and its fair value is likely to increase in a decreasing interest rate environment. Changes in interest rates affect the carrying value and returns of our fixed income investments. We seek to manage our exposure to interest rate risk and volatility by maintaining a diverse mix of high-quality securities with an intermediate duration profile.
+The Federal Open Market Committee (“FOMC”) maintained the targeted federal funds rate at 0 percent to 1/4 percent throughout 2021 as it weighed the ongoing economic impacts of the Covid-19 Pandemic, employment and inflation and the associated risks to the economic outlook. In response to rising inflation, and a desire to normalize monetary policy, the FOMC has signaled increases to the federal funds rate in 2022. Yields have increased in the capital markets in response to the FOMC’s announcements, which has recently resulted in a lower level of unrealized gains on our fixed income investments.
+While higher interest rates may adversely impact the fair values of our fixed income investments, they present an opportunity to reinvest investment income and proceeds from security maturities into higher yielding investments. Investing activity will continue to decrease our portfolio yield as long as market yields remain below the current portfolio yield. Any decline in market-based portfolio yield is expected to result in lower net investment income in future periods.
+As of December 31, 2021, approximately 6% of the fair value of our investment portfolio consisted of securities referencing LIBOR, none of which reference one-week and two-month tenors. As discussed in our risk factor titled "The Company may be adversely impacted by the transition from LIBOR as a reference rate," the ICE Benchmark Administration, the administrator of LIBOR, ceased publishing the one-week and two-month tenors of the USD LIBOR tenors and intends to cease publishing the other USD LIBOR tenors on June 30, 2023.
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents increased to $285 million, as of December 31, 2021 (2020: $288 million), as net cash generated from operating was substantially used in financing activities and net purchases of investments.
+REINSURANCE RECOVERABLE ON PAID LOSSES
+Reinsurance recoverable on paid losses increased to $36.3 million at December 31, 2021 (2020: $0.7 million) primarily due to the termination of our 2017 and 2018 QSR transaction as of December 31, 2021. The reinsurers participating in the 2017 and 2018 QSR transaction were responsible for any loss and LAE reserves incurred at the time of termination.
+LOSS RESERVES
+Our loss reserves include estimates of losses and settlement expenses on (1) loans in our delinquency inventory (known as case reserves) (2) IBNR delinquencies, and (3) LAE. Our gross reserves are reduced by reinsurance recoverable on our estimated losses and settlement expenses to calculate a net
+reserve balance. Loss reserves increased slightly to $884 million as of December 31, 2021, from $881 million of December 31, 2020. Reinsurance recoverables on our estimated losses and settlement expenses were $67 million and $95 million as of December 31, 2021 and December 31, 2020, respectively. The increase in loss reserves is primarily due to additional loss reserves established on new delinquency notices received in 2021, partially offset by favorable development on pre-COVID and peak COVID delinquencies as a result of a decrease in the estimated ultimate claim rate on those delinquencies. The reinsurance recoverable on loss reserves decreased primarily due to the termination of the 2017 and 2018 QSR transaction.
+LONG-TERM DEBT
+Our long-term debt decreased to $1,146.7 million as of December 31, 2021 from $1,243.2 million as of December 31, 2020. In December 2021 we repurchased $98.6 million in aggregate principal amount of our 9% Debentures due 2063.
+UNEARNED PREMIUM
+Our unearned premium decreased to $241.7 million as of December 31, 2021 from $287.1 million as of December 31, 2020 primarily due to single premium policy cancellations exceeding the level of new business from single premium policies.
+OTHER LIABILITIES
+Other liabilities decreased to $192 million as of December 31, 2021 (2020: $245 million), primarily due to decreases in our deferred income tax liability, reinsurance premium payable (net of ceding commission and profit commission), liability for pension obligations and investment securities payable. These were partially offset by an increase in our accrual for premium refunds.
+MGIC Investment Corporation 2021 Form 10-K | 73
+MGIC Investment Corporation and Subsidiaries
+LIQUIDITY AND CAPITAL RESOURCES
+CONSOLIDATED CASH FLOW ANALYSIS
+We have three primary types of cash flows: (1) operating cash flows, which consist mainly of cash generated by our insurance operations and income earned on our investment portfolio, less amounts paid for claims, interest expense and operating expenses, (2) investing cash flows related to the purchase, sale and maturity of investments and purchases of property and equipment and (3) financing cash flows generally from activities that impact our capital structure, such as changes in debt and shares outstanding and dividend payouts. The following table summarizes these three cash flows on a consolidated basis for the last two years.
+Summary of consolidated cash flows
+Years ended December 31,
+(In thousands) 2021 2020
+Total cash provided by (used in):
+Operating activities $ 696,317 $ 732,309
+Investing activities (160,749) (772,506)
+Financing activities (527,290) 167,821
+Increase (decrease) in cash and cash equivalents and restricted cash and cash equivalents $ 8,278 $ 127,624
+Operating activities
+The following list highlights the major sources and uses of cash flow from operating activities:
+Sources
++ Premiums received
++ Loss payments from reinsurers
++ Investment income
+Uses
+- Claim payments
+- Premium ceded to reinsurers
+- Interest expense
+- Operating expenses
+- Tax payments
+Our largest source of cash is from premiums received from our insurance policies, which we receive on a monthly installment basis for most policies. Premiums are received at the beginning of the coverage period for single premium and annual premium policies. Our largest cash outflow is generally for claims that arise when a delinquency results in an insured loss. Based on historical experience, we expect our future claim payments associated with established case loss reserves to pay out at or within 5 years, with the majority of future claim payments made within one to three years. However, due to the foreclosure moratoriums and payment forbearance plans in place, we have experienced a decrease in losses and LAE paid through 2021. As the various moratoriums and forbearance plans end, we expect net losses and LAE paid to increase, however, the magnitude and timing of the increases are uncertain.
+We invest our claims paying resources from premiums and other sources in various investment securities that earn interest. We
+also use cash to pay for our ongoing expenses such as salaries, debt interest, professional services and occupancy costs.
+We also have purchase obligations totaling approximately $40 million which consist primarily of contracts related to our continued investment in our information technology infrastructure in the normal course of business. The majority of these obligations are under contracts that give us cancellation rights with notice. In the next twelve months we anticipate we will pay approximately $12 million for our purchase obligations.
+In connection with the reinsurance we use to manage the risk associated with our insurance policies, we cede, or pay out, part of the premiums we receive to our reinsurers and collect cash back when claims subject to our reinsurance coverage are paid.
+Net cash provided by operating activities in 2021 decreased compared to 2020 primarily due to an increase in tax payments, interest expense and underwriting and operating expenses. This was partially offset by a decrease in losses paid and an increase in premium received.
+Investing activities
+The following list highlights the major sources and uses of cash flow from investing activities:
+Sources
++ Proceeds from sales of investments
++ Proceeds from maturity of fixed income securities
+Uses
+- Purchases of investments
+- Purchases of property and equipment
+We maintain an investment portfolio that is primarily invested in a diverse mix of fixed income securities. As of December 31, 2021, our portfolio had a fair value of $6.6 billion, a decrease of $0.1 billion, or (1.1)% from December 31, 2020. Net cash flows used in investing activities in 2021 and 2020 primarily reflect purchases of fixed income securities in an amount that exceeded our proceeds from sales and maturities of such securities during the year as cash from operations was available for additional investment. In addition to investment portfolio activities, our investing activities included investment in our technology infrastructure to enhance our ability to conduct business and execute our strategies.
+MGIC Investment Corporation 2021 Form 10-K | 74
+MGIC Investment Corporation and Subsidiaries
+Financing activities
+The following list highlights the major sources and uses of cash flow from financing activities:
+Sources
++ Proceeds from debt and/or common stock issuances
+Uses
+- Repurchase of common stock
+- Payment of dividends to shareholders
+- Repayment/repurchase of debt
+- Payment of withholding taxes related to share-based compensation net share settlement
+Net cash flows used in financing activities in 2021 primarily reflect repurchases of our common stock, repurchase of a portion of our 9% Debentures, payment of dividends to shareholders and the payment of withholding taxes related to share-based compensation net share settlement. In 2020, financing activities also included cash received from the issuance of our 5.25% Notes.
+* * *
+For a further discussion of matters affecting our cash flows, see "Balance Sheet Review" above and "Debt at our Holding Company and Holding Company Liquidity" below.
+CAPITALIZATION
+Capital Risk
+Capital risk is the risk of adverse impact on our ability to comply with capital requirements (regulatory and GSE) and to maintain the level, structure and composition of capital required for meeting financial performance objectives.
+A strong capital position is essential to our business strategy and is important to maintain a competitive position in our industry. Our capital strategy focuses on long-term stability, which enables us to build and invest in our business, even in a stressed environment.
+Our capital management objectives are to:
+è influence and ensure compliance with capital requirements,
+è maintain access to capital and reinsurance markets,
+è manage our capital to support our business strategies and the competing priorities of relevant stakeholders
+è assess appropriate uses for capital that cannot be deployed in support of our business strategies, including the size and form of capital return to shareholders, and
+è support business opportunities by enabling capital flexibility and efficiently using company resources.
+These objectives are achieved through ongoing monitoring and management of our capital position, mortgage insurance portfolio stress modeling, and a capital governance framework. Capital management is intended to be flexible in order to react to a range of potential events. The focus we place on any individual objective may change over time due to factors that include, but are not limited to, economic conditions, changes at the GSEs, competition, and alternative transactions to transfer mortgage risk.
+Capital Structure
+The following table summarizes our capital structure as of December 31, 2021, and 2020.
+(In thousands, except ratio) 2021 2020
+Common stock, paid-in capital, retained earnings, less treasury stock $ 4,741,685 $ 4,482,165
+Accumulated other comprehensive loss, net of tax 119,697 216,821
+Total shareholders' equity 4,861,382 4,698,986
+Long-term debt, par value 1,157,500 1,256,110
+Total capital resources $ 6,018,882 $ 5,955,096
+Ratio of long-term debt to shareholders' equity 23.8 % 26.7 %
+The increase in total shareholders' equity in 2021 from 2020 was primarily due to net income during 2021, offset by our repurchases of our common stock, and dividends paid to shareholders. See Note 13 - "Shareholders' Equity" for further information.
+DEBT AT OUR HOLDING COMPANY AND HOLDING COMPANY LIQUIDITY
+Debt obligations - holding company
+The 5.75% Notes, 5.25% Notes, and 9% Debentures are obligations of our holding company, MGIC Investment Corporation, and not of its subsidiaries. We have no debt obligations due within the next twelve months. As of December 31, 2021, our 5.25% Notes had $650 million of outstanding principal due in 2028, our 5.75% Notes had $242.3 million of outstanding principal due in August 2023, and our 9% Debentures had $110.2 million of outstanding principal due in April 2063.
+In February 2022, we repurchased $42.0 million aggregate principal amount of our 9% Debentures at a purchase prices of $57.3 million, plus accrued interest.
+The 9% Debentures are a convertible debt issuance. Subject to certain limitations and restrictions, holders of the 9% Debentures may convert their notes into shares of our common stock at their option prior to certain dates prescribed under the terms of their issuance, in which case our corresponding obligation will be eliminated prior to the scheduled maturity.
+In December 2021, we repurchased $98.6 million in aggregate principal of our 9% Debentures.
+See Note 7 - "Debt" for further information on our outstanding debt obligations and transactions impacting our consolidated financial statements in 2021 and 2020.
+Liquidity analysis - holding company
+As of December 31, 2021, and December 31, 2020, we had approximately $663 million and $847 million, respectively, in cash and investments at our holding company. These resources are maintained primarily to service our debt interest expense, pay debt maturities, repurchase shares, pay dividends to shareholders, and to settle intercompany obligations. While these assets are held, we generate investment income that serves to offset a portion of our interest expense. Investment income and
+MGIC Investment Corporation 2021 Form 10-K | 75
+MGIC Investment Corporation and Subsidiaries
+the payment of dividends from our insurance subsidiaries are the principal sources of holding company cash inflow. MGIC is the principal source of dividends, and their payment is restricted by insurance regulation. See Note 14 - “Statutory Information” to our consolidated financial statement for additional information about MGIC’s dividend restrictions. The payment of dividends from MGIC is also influenced by our view of the appropriate level of excess PMIERs Available Assets to maintain. Raising capital in the public markets is another potential source of holding company liquidity. The ability to raise capital in the public markets is subject to prevailing market conditions, investor demand for the securities to be issued, and our deemed creditworthiness.
+Over the next twelve months the principal demand on holding company resources will be interest payments on our 5.75% Notes, 5.25% Notes, and 9% Debentures approximating $58 million, based on the debt outstanding at December 31, 2021. We believe our holding company has sufficient sources of liquidity to meet its payment obligations for the foreseeable future.
+During the last half of 2021 and the first quarter of 2020, we used approximately $291 million and $120 million respectively, of available holding company cash to repurchase shares of our common stock. In 2022, through February 18, we used approximately $76 million of available holding company cash to repurchase shares of our common stock. The repurchase programs may be suspended or discontinued at any time. See “Overview - Capital” of this MD&A for a discussion of our share repurchase programs.
+We may use additional holding company cash to repurchase additional shares or to repurchase our outstanding debt obligations. Such repurchases may be material, may be made for cash (funded by debt) and/or exchanges for other securities, and may be made in open market purchases (including through 10b5-1 plans), privately negotiated acquisitions or other transactions. See "Overview-Capital" of this MD&A for a discussion for a discussion of our share repurchase programs.
+In 2021 we used $94 million to pay cash dividends to shareholders. On January 25, 2022, our Board of Directors declared a quarterly cash dividend of $0.08 per common share to shareholders of record on February 16 2022, payable on March 2, 2022.
+Our holding company cash and investments decreased $184 million in 2021, to $663 million as of December 31, 2021.
+Significant cash and investments inflows during the year:
+•$400 million of dividends received from MGIC, and
+•$17 million of investment income.
+Significant cash outflows during the year:
+•$291 million of share repurchase transactions,
+•$94 million in cash dividends paid to shareholders,
+•$136 million in repurchases of our 9% Debentures ($98.6 million in principal amount), and
+•$69 million of interest payments on our 5.75% Notes, 5.25% Notes and 9% Debentures.
+The net unrealized gains on our holding company investment portfolio were approximately $2.6 million at December 31, 2021 and the portfolio had a modified duration of approximately 1.7 years.
+Scheduled debt maturities beyond the next twelve months include $242.3 million of our 5.75% Notes in 2023, $650 of our 5.25% Notes in 2028, and $110.2 million of our 9% Debentures in 2063. The principal amount of the 9% Debentures is currently convertible, at the holder’s option, at a conversion rate, which is subject to adjustment, of 76.5496 common shares per $1,000 principal amount of debentures. This represents a conversion price of approximately $13.06 per share. We may redeem the 9% Debentures in whole or in part from time to time, at our option, at a redemption price equal to 100% of the principal amount of the 9% Debentures being redeemed, plus any accrued and unpaid interest, if the closing sale price of our common stock exceeds $16.98 (adjusted pro rata for changes in the conversion price) for at least 20 of the 30 trading days preceding notice of the redemption. We expect to provide a redemption notice for the Debentures when this requirement is met and would expect the majority of the holders of the Debentures would elect to convert their Debentures into common stock before the redemption date. Under the terms of the Debenture, we may pay cash in lieu of issuing shares.
+See Note 7 - “Debt” to our consolidated financial statements for additional information about the conversion terms of our 9% Debentures. The description in Note 7 - “Debt" to our consolidated financial statements is qualified in its entirety by the terms of the notes and debentures. The terms of our 9% Debentures are contained in the Indenture dated as of March 28, 2008, between us and U.S. Bank National Association filed as an exhibit to our Form 10-Q filed with the SEC on May 12, 2008. The terms of our 5.75% Notes are contained in a Supplemental Indenture, dated as of August 5, 2016, between us and U.S. Bank National Association, as trustee, which is included as an exhibit to our 8-K filed with the SEC on August 5, 2016, and in the Indenture dated as of October 15, 2000 between us and the trustee. The terms of our 5.25% Notes are contained in a Supplemental Indenture, dated as of August 12, 2020, between us and U.S. Bank National Association, as trustee, which is included as an exhibit to our 8-K filed with the SEC on August 12, 2020, and in the Indenture dated as of October 15, 2000 between us and the trustee.
+Although not anticipated in the near term, we may also contribute funds to our insurance operations to comply with the PMIERs or the State Capital Requirements. See “Overview - Capital” above for a discussion of these requirements. See the discussion of our non-insurance contract underwriting services in Note 17 - “Litigation and Contingencies” to our consolidated financial statements for other possible uses of holding company resources.
+DEBT AT SUBSIDIARIES
+MGIC is a member of the FHLB. Membership in the FHLB provides MGIC access to an additional source of liquidity via a secured lending facility. MGIC has outstanding a $155.0 million fixed rate advance from the FHLB. Interest on the advance is payable monthly at a fixed annual rate of 1.91%. The principal of the advance matures on February 10, 2023 but may be prepaid at any time. Such prepayment would be below par if interest rates have risen after the advance was originated, or above par if
+MGIC Investment Corporation 2021 Form 10-K | 76
+MGIC Investment Corporation and Subsidiaries
+interest rates have declined. The advance is secured by eligible collateral in the form of pledged securities from the investment portfolio, whose market value must be maintained at a minimum of 102% of the principal balance of the advance. Annual debt services on the FHLB debt as of December 31, 2021, is approximately $3 million.
+Capital Adequacy
+PMIERs
+We operate under each of the GSE's PMIERs. Refer to "Overview - Capital - GSEs" of this MD&A for further discussion of PMIERs.
+As of December 31, 2021, MGIC’s Available Assets under PMIERs totaled approximately $5.7 billion, an excess of approximately $2.2 billion over its Minimum Required Assets; and MGIC is in compliance with the requirements of the PMIERs and eligible to insure loans delivered to or purchased by the GSEs. Maintaining a sufficient level of excess Available Assets will allow MGIC to remain in compliance with the PMIERs financial requirements.
+The table below presents the PMIERS capital credit for our reinsurance transactions.
+PMIERs - Reinsurance Credit
+December 31,
+(In millions) 2021 2020
+QSR Transactions $ 1,129 $ 1,002
+Home Re Transactions 765 482
+Total capital credit for Reinsurance Transactions $ 1,894 $ 1,484
+Our 2022 QSR transaction terms are generally comparable to our existing QSR transactions and will also provide PMIERs capital credit. Refer to Note 9 - "Reinsurance" to our consolidated financial statements for additional information on our reinsurance transactions.
+The PMIERs generally require us to hold significantly more Minimum Required Assets for delinquent loans than for performing loans and the Minimum Required Assets required to be held increases as the number of payments missed on a delinquent loan increases.
+We plan to continuously comply with the PMIERs through our operational activities or through the contribution of funds from our holding company, subject to demands on the holding company's resources, as outlined above.
+RISK-TO-CAPITAL
+We compute our risk-to-capital ratio on a separate company statutory basis, as well as on a combined insurance operations basis. The risk-to-capital ratio is our net RIF divided by our policyholders’ position. Our net RIF includes both primary and pool RIF and excludes risk on policies that are currently in default and for which case loss reserves have been established and the risk covered by reinsurance. The risk amount includes pools of loans with contractual aggregate loss limits and without these limits. Policyholders’ position consists primarily of statutory policyholders’ surplus (which increases as a result of statutory net income and decreases as a result of statutory net loss and dividends paid), plus the statutory contingency reserve and a portion of the reserves for unearned premiums. The statutory
+contingency reserve is reported as a liability on the statutory balance sheet. A mortgage insurance company is required to make annual additions to a contingency reserve of approximately 50% of earned premiums. These contributions must generally be maintained for a period of ten years. However, with regulatory approval a mortgage insurance company may make early withdrawals from the contingency reserve when incurred losses exceed 35% of earned premiums in a calendar year.
+The table below presents our combined insurance companies’ risk-to-capital calculation (which includes a reinsurance affiliate).
+Risk-to-capital - Combined insurance companies
+December 31,
+(In millions, except ratio) 2021 2020
+RIF - net (1)
+$ 50,748 $ 44,868
+Statutory policyholders' surplus $ 1,221 $ 1,340
+Statutory contingency reserve 4,127 3,586
+Statutory policyholders' position $ 5,348 $ 4,926
+Risk-to-capital 9.5:1 9.1:1
+(1)RIF - net, as shown in the table above, is net of reinsurance and exposure on policies currently delinquent ($1.8 billion at December 31, 2021 and $2.9 billion at December 31, 2020) and for which case loss reserves have been established.
+The 2021 increase in our combined insurance companies risk-to-capital was due to an increase in RIF, net of reinsurance, partially offset by an increase in our statutory policyholder's position. The increase in statutory policyholders' position was primarily due to an increase in statutory contingency reserves and net income during 2021, offset by dividends paid to our holding company of $400 million. The increase in our RIF, net of reinsurance, was primarily due to an increase in our IIF and the termination of our 2017 and 2018 QSR Transaction, offset by a decrease in our reduction to risk on policies that are currently in default for which loss reserves have been established. Our risk-to-capital ratio will increase if the percentage increase in capital exceeds the percentage decrease in insured risk.
+For additional information regarding regulatory capital see Note 14 - “Statutory Information” to our consolidated financial statements as well as our risk factor titled “State capital requirements may prevent us from continuing to write new insurance on an uninterrupted basis” in Item IA.
+Financial Strength Ratings
+MGIC financial strength ratings
+Rating Agency Rating Outlook
+Moody's Investors Service Baa1 Stable
+Standard and Poor's Rating Services BBB+ Stable
+A.M. Best A- Stable
+MAC financial strength ratings
+Rating Agency Rating Outlook
+A.M. Best A- Stable
+For further information about the importance of MGIC’s ratings and rating methodologies, see our risk factor titled “Competition
+MGIC Investment Corporation 2021 Form 10-K | 77
+MGIC Investment Corporation and Subsidiaries
+or changes in our relationships with our customers could reduce our revenues, reduce our premium yields and / or increase our losses” in Item 1A.
+MGIC Investment Corporation 2021 Form 10-K | 78
+MGIC Investment Corporation and Subsidiaries
+CRITICAL ACCOUNTING ESTIMATES
+The accounting estimates described below require significant judgments and estimates in the preparation of our consolidated financial statements.
+LOSS RESERVES
+The estimation of case loss reserves is subject to inherent uncertainty and requires significant judgement by management. Changes to our estimates could result in a material impact to our consolidated results and financial position, even in a stable economic environment.
+Case Reserves
+Case reserves are established for estimated insurance losses when notices of delinquency on insured mortgage loans are received. Such loans are referred to as being in our delinquency inventory. For reporting purposes, we consider a loan delinquent when it is two or more payments past due and has not become current or resulted in a claim payment. Even though the accounting standard, ASC 944, regarding accounting and reporting by insurance entities specifically excluded mortgage insurance from its guidance relating to loss reserves, we establish loss reserves using the general principles contained in the insurance standard. However, consistent with industry standards for mortgage insurers, we do not establish loss reserves for future claims on insured loans which are not currently delinquent.
+We establish reserves using estimated claim rates and claim severities in estimating the ultimate loss.
+The estimated claim rates and claim severities are used to determine the amount we estimate will actually be paid on the delinquent loans as of the reserve date. If a policy is rescinded we do not expect that it will result in a claim payment and thus the rescission generally reduces the historical claim rate used in establishing reserves. In addition, if a loan cures its delinquency, including through a successful loan modification, the cure reduces the historical claim rate used in establishing reserves. To establish reserves, we utilize a reserving model that continually incorporates historical data into the estimated claim rate. The model also incorporates an estimate for the amount of the claim we will pay, or severity. The severity is estimated using the historical percentage of our claims paid compared to our loan exposures, as well as the RIF of the loans currently in default. We do not utilize an explicit rescission rate in our reserving methodology, but rather our reserving methodology incorporates the effects rescission activity has had on our historical claim rate and claim severities. We review recent trends in the claim rate, claim severity, levels of defaults by geography and average loan exposure. As a result, the process to determine reserves does not include quantitative ranges of outcomes that are reasonably likely to occur.
+The claim rates and claim severities are affected by external events, including actual economic conditions such as changes in unemployment rates, interest rates or housing values, pandemics and natural disasters. Our estimation process does not include a correlation between claim rates and claim severities to projected economic conditions such as changes in unemployment rates, interest rates or housing values. Our experience is that analysis of that nature would not produce reliable results as the change in
+one economic condition cannot be isolated to determine its specific effect on our ultimate paid losses because each economic condition is also influenced by other economic conditions. Additionally, the changes and interactions of these economic conditions are not likely homogeneous throughout the regions in which we conduct business. Each economic condition influences our ultimate paid losses differently, even if apparently similar in nature. Furthermore, changes in economic conditions may not necessarily be reflected in our loss development in the quarter or year in which the changes occur. Actual claim results generally lag changes in economic conditions by at least nine to twelve months.
+Our estimates are also affected by any agreements we enter into regarding our claims paying practices, such as the settlement agreements discussed in Note 17 - “Litigation and Contingencies” to our consolidated financial statements.
+Our estimate of loss reserves is sensitive to changes in claim rate and claim severity; it is possible that even a relatively small change in our estimated claim rate or claim severity could have a material impact on reserves and, correspondingly, on our consolidated results of operations even in a stable economic environment. For example, as of December 31, 2021, assuming all other factors remain constant, a $1,000 increase/decrease in the average claim severity reserve factor would change the reserve amount by approximately +/- $16 million. A one percentage point increase/decrease in the average claim rate reserve factor would change the reserve amount by approximately +/- $19 million. Historically, it has not been uncommon for us to experience variability in the development of the loss reserves through the end of the following year at this level or higher, as shown by the historical development of our loss reserves in the table below:
+Historical development of loss reserves
+(In thousands) Losses incurred related to prior years (1)
+Reserve at end of prior year
+2021 (60,015) 880,537
+2020 19,604 555,334
+2019 (71,006) 674,019
+2018 (167,366) 985,635
+2017 (231,204) 1,438,813
+(1)A negative number for a prior year indicates a redundancy of loss reserves. A positive number for a prior year indicates a deficiency of loss reserves.
+See Note 8 - “Loss Reserves” to our consolidated financial statements for a discussion of recent loss development.
+MGIC Investment Corporation 2021 Form 10-K | 79

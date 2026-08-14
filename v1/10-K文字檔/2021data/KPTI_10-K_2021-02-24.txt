@@ -1,0 +1,282 @@
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this report. Some of the information contained in this discussion and analysis and set forth elsewhere in this report, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. You should review the section titled “Risk Factors” in Part I-Item 1A of this report for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis.
+Overview
+We are a commercial-stage pharmaceutical company pioneering novel cancer therapies and dedicated to the discovery, development and commercialization of first-in-class
+drugs directed against nuclear transport for the treatment of cancer and other diseases. Our scientific expertise is based upon an understanding of the regulation of intracellular communication between the nucleus and the cytoplasm. We have discovered and are developing and commercializing novel, small molecule S
+elective
+I
+nhibitor of
+N
+uclear
+E
+xport
+(“SINE”) compounds that inhibit the nuclear export protein exportin 1 (“XPO1”). These SINE compounds, representing a new class of drug candidates with a novel mechanism of action that have the potential to treat a variety of diseases with high unmet medical need, were the first oral XPO1 inhibitors to receive marketing approval. Our lead asset, XPOVIO®
+(selinexor), received its initial U.S. approval from the U.S. Food and Drug Administration (the “FDA”) in July 2019 and is currently approved and marketed for the following indications:
+•
+In combination with bortezomib and dexamethasone for the treatment of adult patients with multiple myeloma who have received at least one prior therapy. Approval in this indication was supported by data from the BOSTON (Bo
+rtezomib, S
+elinexor and Dexamet
+hason
+e) study (the “BOSTON Study”).
+•
+In combination with dexamethasone for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least four prior therapies and whose disease is refractory to at least two proteasome inhibitors (“Pls”), at least two immunomodulatory agents (“IMiDs”), and an anti-CD38 monoclonal antibody. We refer to myeloma that is refractory to these five agents as penta-refractory. Approval in this indication was supported by data from the STORM (S
+elinexor T
+reatment of R
+efractory M
+yeloma) study (the “STORM Study”).
+•
+For the treatment of adult patients with relapsed or refractory diffuse large B-cell
+lymphoma (“DLBCL”), not otherwise specified, including DLBCL arising from follicular lymphoma, after at least two lines of systemic therapy. This indication was approved under accelerated approval based on response rate and was supported by data from the SADAL (S
+elinexor A
+gainst D
+iffuse A
+ggressive L
+ymphoma) study (the “SADAL Study”). Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s).
+The commercialization of XPOVIO, for both the multiple myeloma and DLBCL indications, is currently supported by sales representatives and nurse liaisons as well as KaryForward™
+, an extensive patient and healthcare provider support program. Our commercial efforts are also supplemented by patient support initiatives coordinated by our dedicated network of participating specialty pharmacy providers. We plan to continue to educate physicians, healthcare providers and patients about XPOVIO’s clinical profile and unique mechanism of action as we expand XPOVIO into the second-line plus multiple myeloma market and continue to penetrate the third-line DLBCL market.
+XPOVIO also received its first regulatory approval outside the U.S. with an approval received in February 2021 by our partner Promedico Ltd., a member of the Neopharm Group (“Promedico”), for the treatment of patients with multiple myeloma and DLBCL, in Israel. In addition, in January 2021, the European Medicines Agency’s (“EMA”) Committee for Medicinal Products for Human Use adopted a positive opinion recommending the conditional approval of NEXPOVIO®
+(selinexor), the expected brand name for selinexor in Europe, based on
+the results of the Phase 2b STORM Study, which studied selinexor in combination with dexamethasone for the treatment of multiple myeloma in adult patients who have received at least four prior therapies and whose disease is refractory to at least two PIs, two IMiDs and an anti-CD38 monoclonal antibody, and who have demonstrated disease progression on the last therapy. We expect a final decision from the European Commission on our Marketing Authorization Application by April 2021. A favorable decision based on our submission through the centralized procedure would be valid in all 27 European Union member countries as well as the European Economic Area countries of Iceland, Liechtenstein and Norway. Further, we plan to submit a second regulatory filing to the EMA (Type II variation) by April 2021 based on the data from the Phase 3 BOSTON Study, which evaluated once-weekly NEXPOVIO in combination with once-weekly Velcade®
+and low-dose
+dexamethasone in patients with multiple myeloma after at least one prior therapy with the goal of further expanding the global reach of NEXPOVIO to additional patients in need of new treatment options.
+Our focus is on marketing XPOVIO in its currently approved indications as well as seeking the regulatory approval and potential commercialization of selinexor as an oral agent in additional cancer indications with significant unmet medical need. We plan to continue to conduct clinical trials and seek additional approvals for the use of selinexor as a single agent or in combination with other oncology therapies to expand the patient populations that are eligible for treatment with selinexor. Thus, we are advancing our clinical development program for selinexor in the areas of multiple hematological malignancies and solid tumors, among others, including the following ongoing or planned selinexor studies:
+•
+Phase 3 SIENDO (S
+elinexor/Placebo After Combination Chemotherapy I
+n Patients with Advanced or Recurrent ENDO
+metrial Cancer) study evaluating once weekly selinexor versus placebo as maintenance therapy in patients with endometrial cancer after first- or second-line chemotherapy (the “SIENDO Study”);
+•
+Phase 2/3 trial evaluating the combination of selinexor and R-GDP
+(rituximab, gemcitabine, dexamethasone, cisplatin) in patients with relapsed or refractory DLBCL. The Phase 3 portion of the study will evaluate the selected dose (as identified in the Phase 2 study) of selinexor or matching placebo given with the standard combination immunochemotherapy R-GDP
+to patients with at least one prior therapy and who are ineligible for high dose chemotherapy and cell-based intervention such as chimeric antigen receptor T-cell
+therapy (the “XPORT-DLBCL-030
+Study”);
+•
+Phase 1b/2 STOMP (S
+elinexor and Backbone T
+reatments o
+f M
+ultiple Myeloma P
+atients) multi-arm study to evaluate combinations of selinexor with standard therapies in multiple myeloma (the “STOMP Study”);
+•
+Phase 1/2 study of selinexor in combination with standard of care therapy in patients with newly diagnosed or recurrent glioblastoma (the “XPORT-GBM-029
+Study”);
+•
+Phase 1/2 study of selinexor in combination with ruxolitinib in treatment naïve patients with myelofibrosis (“MF”) (the “XPORT-MF-034
+Study”);
+•
+Phase 2 study of selinexor versus treatment per physician’s choice in participants with previously treated MF (the “XPORT-MF-035
+Study”); and
+•
+Phase 1/2 study to assess the preliminary anti-tumor activity of selinexor in combination with docetaxel in patients with non-small cell lung cancer (“NSCLC”) and with pembrolizumab in patients with colorectal cancer (“CRC”) (the “XPORT-STP-027 Study”).
+Additionally, we expect to initiate a number of new clinical trials in 2021, including a Phase 3 study evaluating selinexor in combination with pomalidomide in patients with relapsed or refractory multiple myeloma as well as new Phase 1 and 2 studies evaluating selinexor in patients with a variety of solid tumor indications, including metastatic melanoma, lung cancer and colorectal cancer. A number of these studies will be investigating the treatment of selinexor in combination with other standard of care anti-cancer drugs.
+In addition to selinexor, we are also advancing a pipeline of other novel product candidates including the following oral SINE compounds:
+•
+Eltanexor
+: We are currently focusing on the development of eltanexor to treat patients with myelodysplastic syndrome as well as evaluating additional, potential solid tumor indications for future clinical development.
+•
+Verdinexor
+: We are evaluating verdinexor as a potential therapy for viral, rare disease and autoimmune indications in humans, and our partner Anivive Life Sciences, Inc. (“Anivive”) is evaluating verdinexor as a therapy for cancers in companion animals. In January 2021, Anivive received conditional approval from the FDA for LAVERDIA™
+-CA1
+(verdinexor) as the first oral treatment of canine lymphoma.
+•
+KPT-9274:
+We are evaluating KPT-9274,
+an oral inhibitor of p21-activated
+kinase 4 (“PAK4”) and nicotinamide phosphoribosyltransferase (“NAMPT”), to treat patients with hematologic or solid tumors. In July 2020, the first patient was dosed in a Phase 1/2 clinical study of KPT-9274
+in combination with an anti-PD1
+monoclonal antibody.
+In May 2020, we entered into an amendment to our May 2018 license agreement (the “Original Antengene Agreement” and, as amended the “Amended Antengene Agreement”) to expand Antengene’s development and commercial rights to our compounds in parts of Asia, Australia and New Zealand. We granted Antengene, our partner in China and other regions in Asia, the exclusive right to develop and commercialize selinexor and eltanexor in all human oncology indications in the following geographies comprising the Antengene Territory: China, Taiwan, Hong Kong, Macao, Brunei, South Korea, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Vietnam, Australia and New Zealand. The Amended Antengene Agreement also includes the development and commercialization of KPT-9274
+in all human oncology indications and verdinexor in human non-oncology
+indications in Australia and New Zealand. Under the terms of the Amended Antengene Agreement, we received a one-time
+upfront payment of $11.7 million from Antengene in June 2020. We are also eligible to receive additional payments if certain future prespecified development, regulatory and commercialization milestones are achieved by Antengene. In December 2020, we received $9.8 million in regulatory milestone payments from Antengene following certain regulatory filings by Antengene for selinexor in both multiple myeloma and DLBCL indications in Australia, Singapore and South Korea. In addition, we are also eligible to receive tiered double-digit royalties based on future net sales of selinexor and eltanexor, and tiered single- to double-digit royalties based on future net sales of verdinexor and KPT-9274
+in the Antengene Territory. Certain countries in the Antengene Territory became available due to the reacquisition of exclusive development and commercial rights from Ono Pharmaceutical Co., Ltd. (“Ono”) in April 2020.
+In December 2020, we entered into an exclusive distribution agreement for the commercialization of XPOVIO in Canada with FORUS Therapeutics Inc. (“FORUS”), a Canadian biopharmaceutical company. Under the terms of the agreement, we received an upfront payment of $5.0 million in December 2020 and are eligible to receive additional payments if certain prespecified regulatory and commercial milestones are achieved by FORUS. We are also eligible to receive double-digit royalties on future net sales of XPOVIO in Canada.
+In addition, in February 2021, our partner Promedico Ltd, with whom we entered into an exclusive distribution agreement in February 2020 for the commercialization of XPOVIO in Israel and the Palestinian Authority, received a principal approval letter from the Israeli Ministry of Health granting approval of XPOVIO for the treatment of patients with either multiple myeloma or DLBCL in Israel.
+As of December 31, 2020, we had an accumulated deficit of $1.1 billion. We had net losses of $196.3 million, $199.6 million and $178.4 million for the years ended December 31, 2020, 2019 and 2018, respectively. Net product sales for XPOVIO, which first became commercially available in the U.S. in July 2019, were $106.8 million from July 2019 through December 31, 2020. We anticipate that our expenses will continue to increase substantially as compared to prior periods as we continue to commercialize XPOVIO in the U.S. and
+engage in activities to prepare for the potential commercialization of additional indications for selinexor and the potential approval of our other product candidates, including due to the impact of increased headcount, to support our clinical and commercialization activities and expanded infrastructure.
+Critical Accounting Policies and Estimates
+Our discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements, which we have prepared in accordance with U.S. generally accepted accounting principles. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenues and expenses during the reporting periods. On an ongoing basis, we evaluate our estimates and judgments, including those described in greater detail below. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+While our significant accounting policies are described in more detail in Note 2 “Summary of Significant Accounting Policies”
+to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K,
+we believe that the following accounting policies are the most critical to aid you in fully understanding and evaluating our financial condition and results of operations.
+Revenue Recognition
+We adopted Accounting Standards Update (“ASU”) 2014-09, Revenue
+from Contracts with Customers, as well as subsequent amendments, which were codified in Financial Accounting Standards Board Accounting Standards Codification (“ASC”) 606, on January 1, 2018, using the modified retrospective method for all contracts not completed as of the date of adoption. The adoption of ASC 606 did not have a material impact on our consolidated financial position, results of operations, stockholder’s equity or cash flows as of the adoption date, as no transition adjustment for any of our contracts with customers was required.
+ASC 606 applies to all contracts with customers, except for contracts that are within the scope of other standards, such as leases, insurance, collaboration arrangements, and financial instruments. Under ASC 606, we recognize revenue when our customer obtains control of promised goods or services, in an amount that reflects the consideration which we expect to receive in exchange for those goods or services. To determine revenue recognition for arrangements that we determine are within the scope of ASC 606, we perform the following five steps: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) we satisfy a performance obligation. At contract inception, once the contract is determined to be within the scope of ASC 606, we assess the goods or services promised within each contract and determine those that are performance obligations and assess whether each promised good or service is distinct. We then recognize as revenue the amount of the transaction price that is allocated to the respective performance obligation when (or as) the performance obligation is satisfied.
+Product Revenue Recognition
+In the third quarter of 2019, we began to ship XPOVIO in the U.S. to specialty pharmacies and specialty distributors, collectively referred to as our customers, under a limited number of distribution arrangements with such third parties. Our specialty pharmacy customers resell XPOVIO directly to patients while our specialty distributor customers resell XPOVIO to healthcare entities, who then resell to patients.
+In connection with negotiating and executing contracts with our customers, our policy is to expense incremental costs of obtaining a contract when incurred, if the expected amortization period of the asset that we would have recognized is one year or less. However, no such costs have been incurred to date. In addition to distribution agreements with our customers, we enter into certain arrangements with group purchasing organizations and/or other payors that provide for government mandated and/or privately negotiated rebates, chargebacks, and discounts with respect to the purchase of our products.
+In the context of ASC 606, each unit of XPOVIO that is ordered by our customers represents a distinct performance obligation that is completed when control of the product is transferred to the customer. Accordingly, we recognize product revenue when the customer obtains control of our product, which occurs at a point in time, generally upon delivery pursuant to our agreements with our customers. If taxes should be collected from customers relating to product sales and remitted to governmental authorities, they will be excluded from revenue.
+Revenue from product sales is recorded at the net sales price, which includes estimates of variable consideration for which reserves are reported. These reserves, as detailed below, are based on the amounts earned, or to be claimed on the related sales, and are generally classified as reductions of accounts receivable (if the amount is payable to the customer) or a current liability (if the amount is payable to a party other than a customer). Certain of the amounts noted are known at the time of sale based on contractual terms and, therefore, are recorded pursuant to the most likely amount method under ASC 606. Other amounts are estimated and take into consideration a range of possible outcomes, which are probability-weighted and recorded in accordance with the expected value method in ASC 606 for relevant factors, such as current contractual and statutory requirements, specific known market events and trends, industry data, and forecasted customer buying and payment patterns. Overall, these reserves reflect our best estimates of the amount of consideration to which we are entitled based on the terms of the respective underlying contracts. The amount of variable consideration that is included in the transaction price may be constrained and is included in the net sales price only to the extent that it is probable that a significant reversal in the amount of the cumulative revenue recognized under the contracts with our customers will not occur in a future period.
+The following are the components of variable consideration related to product revenue:
+Cash discounts and distributor fees
+: We provide customary discounts on XPOVIO sales to our customers for prompt payment, terms for which are explicitly stated in our contracts with such customers. We also pay fees for distribution services to our customers for sales order management, data, and distribution services, terms for which are also explicitly stated in our contracts with such customers. Such fees are not for a distinct good or service and, accordingly, are recorded as a reduction of revenue, as well as a reduction to accounts receivable (cash discounts) or as a component of accrued expenses (distributor fees).
+Product returns:
+Consistent with industry practice, we offer our customers and other indirect purchasers a limited right of return for purchased units of XPOVIO for damage, defect, recall, and/or product expiry (beginning three months prior to the product’s expiration date and ending twelve months after the product’s expiration date). We estimate the amount of product sales that will be returned using a probability-weighted estimate, initially calculated based on data from similar products and other qualitative considerations, such as visibility into the inventory remaining in the distribution channel. Reserves for estimated returns are recorded as a reduction of revenue in the period that the related revenue is recognized, as well as a component of accrued expenses.
+Based on the distribution model for XPOVIO, contractual inventory limits with our customers, the price of XPOVIO, and limited contractual return rights, we currently believe there will be minimal XPOVIO returns. However, we will update our estimated return liability each reporting period based on actual shipments of XPOVIO subject to contractual return rights, changes in expectations about the amount of estimated and/or actual returns, and other qualitative considerations.
+Chargebacks:
+Chargebacks for fees and discounts represent the estimated obligations resulting from our contractual commitments to provide products to qualified healthcare entities at prices lower than the list prices charged to our customers who purchase XPOVIO directly from us. Our customers charge us for the discount provided to the healthcare entities. Chargebacks are generally determined at the time of resale to the qualified healthcare provider by our customers. Accordingly, reserves for chargebacks consist of credits that we expect to issue for units that remain in the distribution channel inventory at the end of the reporting period that we expect will be sold to qualified healthcare entities, as well as chargebacks that customers have claimed, but for which we have not yet issued a credit. We record reserves for chargebacks based on contractual terms in the same period that the related revenue is recognized, resulting in a reduction of product revenue and accounts receivable. We generally issue credits to the customer for such amounts within a few weeks after the customer notifies us of the resale to a discount-eligible healthcare entity.
+Government rebates
+: We are subject to discount obligations under state Medicaid programs, Medicare, the Department of Veterans Affairs, the Department of Defense, and others. These reserves are recorded in the same period the related revenue is recognized, resulting in a reduction of product revenue and the establishment of a current liability, which is included as a component of accrued expenses. For Medicare, we estimate the number of patients in the prescription drug coverage gap for whom we will owe an additional liability under Medicare Part D. Our liability for these rebates consists of invoices received for claims from prior and current quarters that have not been paid or for which an invoice has not yet been received, estimates of claims for the current quarter, and estimated future claims that will be made for product that has been recognized as revenue, but which remains in distribution channel inventories at the end of the reporting period.
+Other incentives:
+Other incentives offered by us include co-payment assistance,
+which we provide as financial assistance to patients with commercial insurance that requires prescription drug co-payments
+by the patient. We calculate the accrual for co-payment
+assistance based on estimates of claims and the average co-payment
+assistance amounts per claim that we expect to receive associated with sales of XPOVIO that have been recognized as revenue but remain in distribution channel inventories at the end of the reporting period. Such estimates are based on industry experience with similar products, as well as actual amounts from our product sales to date. Any adjustments to such estimated liabilities on units in the distribution channel at period end, as well as actual amounts incurred on units sold through the distribution channel during the period, are recorded in the same period that the related revenue is recognized, resulting in a reduction of product revenue and the establishment of a current liability, which is included as a component of accrued expenses.
+Product revenue reserves and allowances:
+As noted above, cash discounts and chargebacks are recorded as reductions of accounts receivable, and product returns, distributor fees, government rebates, and other incentives are recorded as a component of accrued expenses. To date, we have determined a material reversal of revenue would not occur in a future period for the estimates detailed above, as of December 31, 2020 and, therefore, the transaction price was not reduced further during the year ended December 31, 2020. Actual amounts of consideration ultimately received may differ from our estimates. If actual results in the future vary from our estimates, we will adjust these estimates, which would affect product revenue, net and earnings in the period in which such variances become known.
+License and Asset Purchase Agreements
+We generate revenue from license or similar agreements with pharmaceutical companies for the development and commercialization of certain of our product candidates. Such agreements may include the transfer of intellectual property rights in the form of licenses, transfer of technological know-how,
+delivery of drug substances, research and development services, and participation on certain committees with the counterparty. Payments made by the customers may include non-refundable
+upfront fees, payments upon the exercise of customer options, payments based upon the achievement of defined milestones, and royalties on sales of product candidates if they are successfully approved and commercialized.
+If a license to our intellectual property is determined to be distinct from the other performance obligations identified in the arrangement, we recognize the transaction price allocated to the license as revenue upon transfer of control of the license. We evaluate all other promised goods or services in the agreement to determine if they are distinct. If they are not distinct, they are combined with other promised goods or services to create a bundle of promised goods or services that is distinct. Optional future services where any additional consideration paid to us reflects their standalone selling prices do not provide the customer with a material right and, therefore, are not considered performance obligations. If optional future services are priced in a manner which provides the customer with a significant or incremental discount, they are material rights, and are accounted for as performance obligations.
+We utilize judgment to determine the transaction price. In connection therewith, we evaluate contingent milestones at contract inception to estimate the amount which is not probable of a material reversal to include in the transaction price using the most likely amount method. Milestone payments that are not within our control, such as regulatory approvals, are not considered probable of being achieved until those approvals are received and therefore the variable consideration is constrained. The transaction price is then allocated to each performance obligation on a relative stand-alone selling price basis, for which we recognize revenue as or when the performance obligations under the contract are satisfied. At the end of each reporting period, we re-evaluate the probability of achieving development milestone payments that may not be subject to a material reversal and, if necessary, adjust our estimate of the overall transaction price. Any such adjustments are recorded on a cumulative catch-up
+basis, which would affect license and other revenue, as well as earnings, in the period of adjustment.
+We then determine whether the performance obligations or combined performance obligations are satisfied over time or at a point in time and, if over time, the appropriate method of measuring progress for purposes of recognizing revenue from non-refundable,
+upfront fees. We evaluate the measure of progress, as applicable, for each reporting period and, if necessary, adjust the measure of performance and related revenue recognition.
+When consideration is received, or such consideration is unconditionally due, from a customer prior to transferring goods or services to the customer under the terms of a contract, a contract liability is recorded within deferred revenue. Contract liabilities within deferred revenue are recognized as revenue after control of the goods or services is transferred to the customer and all revenue recognition criteria have been met.
+For arrangements that include sales-based royalties, including sales-based milestone payments, and a license of intellectual property that is deemed to be the predominant item to which the royalties relate, we recognize revenue at the later of when the related sales occur or when the performance obligation to which some or all of the royalties have been allocated has been satisfied (or partially satisfied).
+Accrued Research and Development Costs
+As part of the process of preparing our consolidated financial statements, we estimate our accrued research and development costs. This process involves reviewing quotes and contracts, identifying services that have been performed on our behalf and estimating the level of service performed and the associated cost incurred for the service when we have not yet been invoiced or otherwise notified of the actual cost. Most of our service providers invoice us monthly in arrears for services performed or when contractual milestones are met. We make estimates of our accrued research and development costs at each balance sheet date in our financial statements based on facts and circumstances known to us at that time. We periodically confirm the accuracy of our estimates with the service providers and make adjustments if necessary. The significant estimates in our accrued research and development costs include fees paid to contract research organizations (“CROs”), and contract manufacturing organizations (“CMOs”), in connection with research and development activities for which we have not yet been invoiced.
+We base our expenses related to CROs and CMOs on our estimates of the services received and efforts expended pursuant to quotes and contracts with CROs and CMOs that conduct research and development activities on our behalf. The payment terms of these agreements are subject to negotiation, vary from contract to
+contract and may result in uneven payment flows. There may be instances in which payments made to our service providers will exceed the level of services provided and result in a prepayment of the research and development expense. In accruing service fees, we estimate the time period over which services will be performed and the level of effort to be expended in each period. If the actual timing of the performance of services or the level of effort varies from our estimates, we adjust the accrual or prepayment accordingly. Although we do not expect our estimates to be materially different from amounts actually incurred, if our estimates of the status and timing of services performed differ from the actual status and timing of services performed, it could result in us reporting amounts that are too high or too low in any particular period. Our estimates have not been materially different than amounts actually incurred to date.
+Results of Operations
+The following table summarizes our results of operations:
+Comparison of Years Ended December 31, 2020 and 2019
+Product Revenue, net.
+We began generating product revenue from the sale of XPOVIO in the U.S. during the third quarter of 2019 following the July 2019 FDA approval of XPOVIO and its subsequent U.S. commercial launch.
+Net product revenue from U.S. commercial sales of XPOVIO for the year ended December 31, 2020 was $76.2 million compared to $30.5 million for the year ended December 31, 2019. In 2020, product revenue was negatively impacted by the COVID-19
+pandemic as a result of reduced in-person
+access by our commercial team to physician customers and fewer patient visits as well as increased competition during 2020, specifically in the penta-refractory multiple myeloma setting.
+We expect net product revenue to increase during 2021 as compared to 2020 following the expanded FDA approval of XPOVIO as a treatment for patients with multiple myeloma after at least one prior therapy in December 2020, however, we expect the COVID-19
+challenges we experienced in 2020 to continue for at least the first part of 2021.
+License and Other Revenue.
+License and other revenue for the year ended December 31, 2020 was $31.9 million compared to $10.4 million for the year ended December 31, 2019. We recognized $23.5 million in revenue pursuant to our license arrangement with Antengene, $5.0 million in revenue pursuant to a license arrangement with FORUS, $2.2 million upon reacquisition of the exclusive development and commercial rights from Ono and approximately $1.0 million in revenue for clinical supply provided to various partners, during the year ended December 31, 2020. In comparison, we recognized $9.4 million in revenue pursuant to our license arrangement with Antengene, $0.3 million in revenue for clinical supply provided to various partners, as well as $0.7 million in revenue pursuant to a government grant arrangement during the year ended December 31, 2019.
+Cost of Sales.
+Cost of sales includes the cost of producing and distributing inventories that are related to U.S. XPOVIO product revenue during the respective period (including salary-related and stock-based compensation expenses for employees involved with XPOVIO production and distribution) and third-party royalties payable on our net product revenue for XPOVIO. We began capitalizing XPOVIO inventory costs during the third quarter of 2019 subsequent to FDA approval as it is our expectation that such costs will be recoverable through the commercialization of XPOVIO. Prior to the capitalization of XPOVIO inventory costs, such costs were recorded as research and development expenses in the period incurred. During the year ended December 31, 2020, we recorded $2.7 million of cost of sales, including $1.1 million related to royalties. During the year ended December 31, 2019, we recorded $2.4 million of costs of sales, including $1.6 million related to royalties. The cost of sales recorded during the years ended December 31, 2020 and 2019 only reflect a portion of the costs related to the manufacturing of XPOVIO and related materials, since, prior to FDA approval, these costs were expensed. The manufacturing costs of XPOVIO on-hand upon
+approval were approximately $2.8 million. At December 31, 2020, we had $2.2 million of this previously expensed XPOVIO and related material on-hand.
+We expect to utilize zero cost inventory with respect to XPOVIO for an extended period of time.
+We expect cost of sales to increase during 2021 as compared to 2020 as a result of an expected increase in net product sales.
+Research and Development Expense.
+Research and development expenses consist primarily of costs incurred for our research activities, including our drug discovery efforts, and the development of our product candidates, which include:
+•
+employee-related expenses, including salaries, benefits, travel and stock-based compensation expense;
+•
+expenses incurred under agreements with third parties, including CROs, CMOs and consultants that help conduct clinical trials and preclinical studies;
+•
+the cost of acquiring, developing and manufacturing clinical trial materials, including comparator products;
+•
+facilities, depreciation and other expenses, which include direct and allocated expenses for rent and maintenance of facilities, insurance, and other operating costs; and
+•
+costs associated with preclinical activities and regulatory operations.
+Costs for certain development activities, such as clinical trials, are recognized based on an evaluation of the progress to completion of specific tasks using data such as patient enrollment, clinical site activations, and information provided to us by our vendors on their actual costs incurred. Payments for these activities are based on the terms of the individual arrangements, which may differ from the pattern of costs incurred, and are reflected as prepaid expenses or accrued research and development expenses.
+Since our research and development has been focused primarily on using our drug discovery and optimization platform to identify product candidates, we have not historically tracked research and development costs by project. In addition, we use our employee and infrastructure resources across multiple research and development projects. The majority of our research and development expenses to date have been related to selinexor.
+Research and development expense increased by approximately $28.5 million to $150.8 million for the year ended December 31, 2020 from $122.3 million for the year ended December 31, 2019. The increase was primarily related to:
+•
+an increase of $15.2 million in clinical trial costs, primarily related to COVID-19
+trial activity as well as continued activity in our ongoing clinical trials;
+•
+an increase of $13.6 million in personnel costs, primarily related to an increase in headcount; and
+•
+an increase of $3.0 million in facility and IT infrastructure costs; partially offset by
+•
+a decrease of $3.3 million in travel, consulting and professional costs.
+Research and development activities are central to our business model. Product candidates in later stages of clinical development generally have higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. We expect our research and development expenses to increase in 2021 as compared with 2020 as we continue clinical development of selinexor in our lead indications with a focus on regulatory submissions for selinexor. However, we do not believe that it is possible at this time to accurately project total program-specific expenses through commercialization. There are numerous factors associated with the successful commercialization of any of our product candidates, including future trial design and various regulatory requirements, many of which cannot be determined with accuracy at this time based on our stage of development. Additionally, future commercial and regulatory factors beyond our control could impact our clinical development programs and plans.
+Selling, General and Administrative Expense.
+Selling, general and administrative expenses consist primarily of salaries, benefits, travel, and other related costs, including stock-based compensation, for personnel in executive, finance, commercial and administrative functions. Other significant costs include facility costs not otherwise included in research and development expenses, legal fees relating to patent and corporate matters and fees for accounting and consulting services.
+Selling, general and administrative expense increased by approximately $21.0 million to $126.4 million for the year ended December 31, 2020 from $105.4 million for the year ended December 31, 2019. The increase was primarily related to:
+•
+an increase of $14.0 million in commercial-related activities, including two U.S. launches of XPOVIO during 2020;
+•
+an increase of $12.0 million in personnel costs, primarily related to an increase in headcount; and
+•
+an increase of $0.6 million in facility and IT infrastructure costs; partially offset by
+•
+a decrease of $5.6 million in travel, consulting and professional costs.
+We expect our selling, general and administrative expenses to increase in 2021 to support of our expanding operating and commercial activities related to sales and marketing of XPOVIO and any of our product candidates for which we obtain marketing approval.
+Other (Expense) Income, Net
+. Other expense, net increased from $10.3 million for the year ended December 31, 2019 to $24.1 million for the year ended December 31, 2020. The increase of approximately $13.8 million was primarily due to an increase in interest expense of $11.5 million, increase in foreign currency translation losses of $0.2 million, coupled with a decrease in interest income of $2.6 million, offset by the realized gain resulting from the mark-to-market
+adjustment on our embedded derivative related to our deferred royalty obligation. $10.6 million of the increase in interest expense was related to our deferred royalty obligation and $0.9 million of the increase was attributable to our 3.00% convertible senior notes due 2025 (the “Notes”).
+We expect interest expense to decrease in 2021, related to the adoption of ASU No. 2020-06,
+Debt-Debt with Conversion and Other Options and Derivatives and Hedging-Contracts in Entity’s Own Equity
+, on January 1, 2021. As a result of adoption, we expect non-cash
+interest expense associated with the amortization of our debt discount to be significantly reduced.
+Results of Operations-Years Ended December 31, 2019 and 2018
+Discussion and analysis of the year ended December 31, 2019 compared to the year ended December 31, 2018 is included under the heading “Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+” in our Annual Report on Form 10-K
+for the year ended December 31, 2019 as filed with the SEC on February 26, 2020 (“2019 Form 10-K”).
+Liquidity and Capital Resources
+Overview
+During the third quarter of 2019, we began generating revenues from product sales, as XPOVIO first became commercially available in the U.S. in July 2019. While we began to generate revenue from the sales of XPOVIO in July 2019, to date, we have financed our operations through a combination of product revenue sales and through private placements of our preferred stock, proceeds from our initial public offering and follow-on
+offerings of common stock, proceeds from the issuance of convertible debt, proceeds pursuant to the deferred royalty obligation, and cash generated from our business development activities.
+As of December 31, 2020, our principal source of liquidity was $273.5 million of cash, cash equivalents and investments. We have had recurring losses and incurred a loss of $196.3 million for the year ended December 31, 2020. Net cash used in operations for the year ended December 31, 2020 was $160.2 million. We expect that cash, cash equivalents and investments at December 31, 2020 will be sufficient to fund our current operating plans and capital expenditure requirements for at least twelve months from the date of issuance of the financial statements contained in this Annual Report on Form 10-K.
+Sources of Liquidity
+On May 5, 2020, we entered into Amendment No. 1 to the Open Market Sale Agreement, dated August 17, 2018 (the “Open Market Sale Agreement”), with Jefferies LLC, as agent (“Jefferies”), pursuant to which we increased the maximum aggregate offering price of shares of our common stock that we may issue and sell from time to time through Jefferies, by $100.0 million from $75.0 million to up to $175.0 million. We did not sell any shares under the Open Market Sale Agreement during 2020. As of December 31, 2020, we have sold an aggregate of 3,712,359 shares under the Open Market Sale Agreement, for net proceeds of approximately $46.2 million, all of which were sold in 2019.
+On March 6, 2020, we completed a follow-on
+offering under our shelf registration statement on Form S-3
+pursuant to which we issued an aggregate of 7,187,500 shares of common stock, which included the full exercise of the underwriters’ option to purchase additional shares, at a public offering price of $24.00 per share. We received aggregate net proceeds of approximately $161.8 million from the offering after deducting the underwriting discounts and commissions and other offering expenses.
+On September 14, 2019, we entered into a deferred royalty obligation with HealthCare Royalty Partners III, L.P. and HealthCare Royalty Partners IV, L.P. (“HCR”). Pursuant to the deferred royalty obligation, HCR paid us $75.0 million, less certain transaction expenses, at the initial closing, which occurred on September 27, 2019, as disclosed in Note 15 “Long-term Obligations”
+to the Consolidated Financial Statements included under Part II, Item 8 of this Annual Report on Form 10-K.
+On October 16, 2018, we completed an offering of $150.0 million aggregate principal amount of the Notes. In addition, on October 26, 2018, we issued an additional $22.5 million aggregate principal amount of the Notes pursuant to the full exercise of the option to purchase additional Notes granted to the initial purchasers in the offering. The Notes were sold in a private offering to qualified institutional buyers in reliance on Rule 144A under the Securities Act of 1933, as amended. The net proceeds from the sale of the Notes was $166.9 million, after deducting the initial purchasers’ discounts and commissions and actual offering expenses payable by us.
+On May 7, 2018, we completed a follow-on
+offering under our shelf registration statement on Form S-3
+(File No. 333-222726)
+pursuant to which we issued an aggregate of 10,525,424 shares of common stock, which included the full exercise of the underwriters’ option to purchase additional shares, at a public offering price of $14.75 per share. We received aggregate net proceeds of approximately $145.7 million from the offering after deducting the underwriting discounts and commissions and other offering expenses.
+During the year ended December 31, 2020, we received $17.2 million in upfront payments under our license and distribution arrangements pursuant to which we are also entitled to receive milestone payments, if certain development goals and sales milestones are achieved, as well as royalties on future net sales of the licensed and sold products in the territories under such arrangements. We did not receive upfront payments under license and distribution arrangements during the year ended December 31, 2019.
+Cash flows
+The following table provides information regarding our cash flows:
+Net Cash Used in Operating Activities
+Net cash used in operating activities was $160.2 million during the year ended December 31, 2020 compared to $190.8 million during the year ended December 31, 2019. Net cash used in operating activities in both periods resulted primarily from our net losses adjusted for non-cash
+charges and changes in the components of working capital. The decrease in cash used in operating activities during the year ended December 31, 2020 compared to the year ended December 31, 2019 was driven by a $3.3 million decrease in our net loss due to increased revenues year over year and an increase of $12.6 million in non-cash
+charges and a $14.7 million increase in the components of working capital.
+Net Cash (Used in) Provided by Investing Activities
+Net cash used in investing activities was $53.7 million during the year ended December 31, 2020, and changed by approximately $132.1 million compared to $78.5 million in net cash provided by investing activities during the year ended December 31, 2019. The change was primarily related to a $96.1 million increase in the purchases of investments, coupled with a $36.1 million decrease in proceeds from the maturities of investments.
+Net Cash Provided by Financing Activities
+Net cash provided by financing activities was $172.1 million during the year ended December 31, 2020 compared to $124.3 million during the year ended December 31, 2019. The $47.8 million increase was primarily related to the net cash proceeds of $161.8 million from the sale of shares of our common stock from the follow-on
+offering under our shelf registration statement on Form S-3
+during the first quarter of 2020, coupled with a $5.8 million increase in proceeds from the exercise of stock options and shares issued under our Employee Stock Purchase Plan in the year ended December 31, 2020 compared to the year ended December 31, 2019. This activity was partially offset by the $73.6 million in net proceeds received in the third quarter of 2019 from the execution of our deferred royalty obligation and the net proceeds of $46.2 million from the sale of shares of our common stock under the Open Market Sale Agreement during the year ended December 31, 2019.
+A discussion of changes in our cash flow from the year ended December 31, 2018 to the year ended December 31, 2019 can be found in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations
+” of the 2019 Form 10-K.
+Funding Requirements
+We expect our expenses to increase in connection with our ongoing activities, particularly as we continue to commercialize XPOVIO and continue the clinical trials of, and as we seek marketing approval for, our product candidates. In addition, we expect to incur significant commercialization expenses related to sales, marketing, manufacturing and distribution of any of our product candidates for which we obtain marketing approval, to the extent that such sales, marketing, manufacturing and distribution are not the responsibility of any collaborator that we may have at such time for any such product candidate. Furthermore, we expect to continue to incur additional costs associated with operating as a public company. Accordingly, we will need to obtain substantial additional funding in connection with our continuing operations. If we are unable to raise capital when needed or on attractive terms, we would be forced to delay, reduce or eliminate our research and development programs or commercialization efforts.
+We anticipate that we will continue to incur substantial expenses as we continue to commercialize XPOVIO in the U.S. and potentially outside of the U.S. and engage in activities to prepare for the potential approval and commercialization of additional indications for selinexor as well as our other product candidates. For a description of these expenses, please refer the risk factor entitled “We have incurred significant losses since inception, expect to continue to incur significant losses, and may never achieve or maintain profitability
+.” under the heading “Risk Factors
+” in this Annual Report on Form 10-K.
+We expect that cash, cash equivalents and short- and long-term investments at December 31, 2020 will be sufficient to fund our current operating plans and capital expenditure requirements for at least twelve months from the date of issuance of the financial statements contained in this Annual Report on Form 10-K
+while we continue to commercialize XPOVIO in the U.S. and continue the clinical trials of our product candidates. Our future capital requirements will depend on many factors, including:
+•
+the scope, progress, results and costs of current and planned drug discovery, preclinical development, laboratory testing and clinical trials for selinexor or our other product candidates;
+•
+the amount and timing of revenue generated from commercial sales of XPOVIO;
+•
+costs related to the sales and marketing of XPOVIO;
+•
+the costs, timing and outcome of regulatory review of our product candidates;
+•
+the costs of future commercialization activities, including product sales, marketing, manufacturing and distribution, for any of our product candidates for which we receive marketing approval, to the extent that such sales, marketing, manufacturing and distribution are not the responsibility of any collaborator that we may have at such time;
+•
+our ability to establish and maintain collaborations on favorable terms, if at all;
+•
+the success of any collaborations that we may enter into with third parties;
+•
+the extent to which we acquire or in-license
+other products or technologies;
+•
+the costs associated with legal activities, including litigation, arising in the course of business activities and our ability to prevail in any such legal disputes; and
+•
+the costs of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property rights and defending intellectual property-related claims.
+Identifying potential product candidates and conducting preclinical studies and clinical trials is a time-consuming, expensive and uncertain process that takes years to complete. In addition, our product candidates for which we receive marketing approval may not achieve commercial success. Our ability to become and remain profitable depends on our ability to generate revenue. While we began to generate revenue from the sales of XPOVIO in July 2019, there can be no assurance as to the amount or timing of any such revenue, and we may
+not achieve profitability for several years, if at all. Accordingly, we will need to continue to rely on additional financing to achieve our business objectives. Adequate additional financing may not be available to us on acceptable terms, or at all. We may seek additional capital due to favorable market conditions or strategic considerations, even if we believe we have sufficient funds for our current or future operating plans.
+Off-Balance
+Sheet Arrangements
+We did not have, during the periods presented, and we do not currently have, any off-balance
+sheet arrangements, as defined under applicable Securities and Exchange Commission rules.
+Inflation
+We do not believe that inflation has had a significant impact on our revenues or results of operations since inception.
+Recently Issued Accounting Pronouncements
+Recent accounting pronouncements which may be applicable to us are described in Note 2 “Summary of Significant Accounting Policies”
+to our Consolidated Financial Statements included under Part II, Item 8 of this Annual Report on Form 10-K.

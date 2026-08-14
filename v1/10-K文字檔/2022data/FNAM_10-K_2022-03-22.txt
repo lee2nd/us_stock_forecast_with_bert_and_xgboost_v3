@@ -1,0 +1,37 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis should be read in conjunction with the Audited Financial Statements and related notes included elsewhere in this 10-K. The following discussion includes certain forward-looking statements. For a discussion of important factors which could cause actual results to differ materially from the results referred to in the forward-looking statements, see “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements”.
+Recent Highlights of Evolutionary Genomics
+· During 2019, we identified our FusR1 gene in bananas for disease resistance and filed a patent application.
+· During 2020, WCIC completed a project for the Company to transform soybean plants using our EG261 and EG19 genes and to develop resulting plants through generation T2 seeds.
+· During 2020, we entered into the DCA with Dole and a Research Agreement with WCIC for the development of the FusR1 gene and banana plants that are resistant to Panama Disease.
+· During 2021, we were successful at the University of Wisconsin in transforming banana plants with our FusR1 gene and now have transformed plants growing in their greenhouses
+· During 2021, we discovered our SigX gene in banana plants that may provide resistance to Black Sigatoka disease in bananas and filed patents on the gene.
+Consolidated Results of Operations:
+Grant Revenue
+Grant revenue decreased $12,500, or 100.0%, to $0 for the year ended December 31, 2021 from $12,500 for the year ended December 31, 2020. The decrease was primarily due to the decrease in revenue received from the State of Colorado grant which was completed in the first quarter of 2020.
+Operating Expenses
+Operating expenses decreased $14,352, or 0.5%, to $2,877,943 for the year ended December 31, 2021 from $2,892,295 for the year ended December 31, 2020. Operating expenses consist of research and development expense, salaries and benefits and general and administrative expense. Changes in these items are described below.
+Research and Development
+Research and development decreased $558,930, or 31.2%, to $1,234,215 for the year ended December 31, 2021 from $1,793,145 for the year ended December 31, 2020. The decrease was primarily due to decreased costs incurred on our research agreement with UW for the development of our FusR1 banana gene, partially offset by increases in patent costs and lab supplies expense. Under the terms of our Development and Commercialization Agreement with Dole Food Company, Dole provides funding for our banana project expenses at the University of Wisconsin in the form of notes payable.
+Salaries and Benefits
+Salaries and benefits decreased $125,598, or 25.3%, to $369,920 for the year ended December 31, 2021 from $495,518 for the year ended December 31, 2020. The decrease was due to bonuses paid in the year ended December 31, 2020.
+General and Administrative
+General and administrative expenses increased $670,176, or 111.0%, to $1,273,808 for the year ended December 31, 2021 from $603,632 for the year ended December 31, 2020. The increase was primarily due to amortization of our intangible asset which began in the year ended December 31, 2020 and increased insurance costs.
+Other Income and (Expenses)
+Total other income and (expenses) decreased $96,560, or 53.5%, to $83,999 for the year ended December 31, 2021 from $180,559 for the year ended December 31, 2020. The decrease was primarily due to realized gains on investments that were sold in the year ended December 31, 2020.
+Income Taxes
+Income tax benefit decreased $987,353 to $0 for the year ended December 31, 2021 from $987,353 for the year ended December 31, 2020. The decrease was the result of placing the in progress research and development into service in the year ended December 31, 2020.
+Net Loss
+Net loss increased $1,082,061, or 63.2%, to $2,793,944 for the year ended December 31, 2021 from $1,711,883 for the year ended December 31, 2020. The increase was primarily due to the income tax benefit recorded in the year ended December 31, 2020, increased costs for the amortization of our intangible asset, increases in patent costs and lab supplies expense and decreased gains on investments partially offset by decreased costs incurred on our research agreement with the University of Wisconsin for the development of our FusR1 banana gene and decreased bonuses.
+Financial Condition
+The Company’s working capital decreased $37,494 to $236,935 as of December 31, 2021 from $274,429 as of December 31, 2020 primarily due the net loss from operations partially offset by proceeds from notes payable from Dole, the PPP loan and the Economic Injury Disaster Loan (“EIDL”).
+Liquidity and Capital Resources
+The Company has historically financed operations through cash flows from operations and equity transactions. Net cash used in operating activities was $1,583,139 for the year ended December 31, 2021 compared to $2,297,317 for the year ended December 31, 2020. The $714,178, or 31.1%, decrease was primarily due to the decreased net operating loss. Net cash provided from the sale of investments was $0 for the year ended December 31, 2021 compared to $147,613 for the year ended December 31, 2020. Net cash provided from financing activities was $1,447,916 in proceeds from notes payable from Dole and $133,395 in proceeds from the PPP loan and the EIDL in the year ended December 31, 2021 compared to $2,095,831 in proceeds from notes payable from Dole and $224,268 in proceeds from the PPP loan and the EIDL in the year ended December 31, 2020.
+As of December 31, 2021, the Company had $214,009 in operating cash and during 2021 used $1,583,139 of cash in operations. Subsequent to the year ended December 31, 2021, the Company issued an additional 76,953 shares of Series A-2 stock at $5.25 per share and received proceeds of $404,003. The Company’s current projections for 2022 requires cash of $578,143. These factors raise substantial doubt as to the Company’s ability to continue as a going concern.
+To address these factors and in addition to the $404,000 of proceeds received subsequent to the year ended December 31, 2021 and funding from our agreement with Dole, management expects to receive additional funds from option exercises and will reduce operating expenses with employee salary deferrals to provide the necessary liquidity to meet our obligations as they come due over the next year. We expect that the funding from these sources will be sufficient to cover our obligations for the next twelve months. Additional shareholder funding could result in dilution to existing shareholders. If the funding does not arrive, the Company may not be able to meet its obligations as they become due.
+Off-Balance Sheet Arrangements
+The Company has no off-balance sheet arrangements that have a material current effect, or that are reasonably likely to have a material future effect, on its financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures, or capital resources.
+Contractual Obligations
+The Company leases its operating facility on a month-to-month basis, with monthly rental installments of $2,378. The Company’s rent expense for the years ended December 31, 2021 and 2020 was $28,535.
+Critical Accounting Policies
+For a review of our critical accounting policies, please refer to our audited financial statements.

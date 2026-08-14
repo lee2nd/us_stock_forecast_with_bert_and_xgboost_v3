@@ -1,0 +1,2565 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion provides additional information regarding our operations for the twelve-month periods ending December 31, 2021, 2020 and 2019, and financial condition at December 31, 2021 and 2020, and should be read in conjunction with our consolidated financial statements and the related notes. Historical results of operations and the percentage relationships among any amounts included, and any trends that may appear, may not indicate trends in operations or results of operations for any future periods.
+We have made, and will continue to make, various forward-looking statements with respect to financial and business matters. Comments regarding our business that are not historical facts are considered forward-looking statements that involve inherent risks and uncertainties. Actual results may differ materially from those contained in these forward-looking statements. For additional information regarding our cautionary disclosures, see the “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this annual report.
+Business overview
+We provide a wide range of financial services through our 63 banking locations located in Cook, DeKalb, DuPage, Kane, Kendall, LaSalle and Will counties in Illinois. These banking centers offer access to a full range of traditional retail and commercial banking services including treasury management operations as well as fiduciary and wealth management services. We focus our business on establishing and maintaining relationships with our clients while maintaining a commitment to providing for the financial services needs of the communities in which we operate through our retail branch network. We emphasize relationships with individual customers as well as small to medium-sized businesses throughout our market area. Our market area includes a mix of commercial and industrial, real estate, and consumer related lending opportunities, and provides a stable, loyal core deposit base. We also offer extensive wealth management
+services, which include a registered investment advisory platform in addition to trust administration and trust services related to personal and corporate trusts, including employee benefit plan administration services.
+Our primary deposit products are checking, NOW, money market, savings, and certificate of deposit accounts, and our primary lending products are commercial mortgages, leases, construction lending, commercial loans, residential mortgages, and consumer loans. Many of our loans are secured by various forms of collateral including real estate, business assets, and consumer property although borrower cash flow is the primary source of repayment at the time of loan origination.
+On December 1, 2021, we closed on our acquisition of West Suburban Bancorp, Inc. (“West Suburban”), and its wholly owned subsidiary, West Suburban Bank. As a result of this transaction, we acquired $1.07 billion of securities available-for sale at fair value, $1.50 billion of loans, net of fair value adjustments, and $2.69 billion of deposits, net of fair value adjustments. The transaction resulted in us increasing our presence in the west suburban Chicago area, as 34 branches were acquired with a retail and commercial client mix of loans and deposits. Historical periods before December 1, 2021, reflect results of our legacy operations. Subsequent to closing, results reflect all post-acquisition activity of the combined company.
+COVID-19 Update
+Our historically careful underwriting practices and diverse loan portfolio has helped minimize the adverse impact of the pandemic on the Company. In addition, the combination of the vaccine rollout, government stimulus payments, and reduced spending during the pandemic are likely contributing factors mitigating the impact of the pandemic on our business, financial condition, results of operations, and our customers as of December 31, 2021. However, there are continuing concerns that indicate a slower return to pre-pandemic routines, such increases in new COVID-19 cases, hospitalizations and deaths leading to additional government imposed restrictions; refusals to receive the vaccine along with concerns related to new strains of the virus; supply chain issues remaining unresolved longer than anticipated; labor shortages and wage increases continuing to impact many industries; consumer confidence and spending falls; and rising geopolitical tensions. Given the ongoing and dynamic nature of the circumstances surrounding the pandemic, it is difficult to predict its future adverse financial impact to the Company, although we expect to continue to be impacted by the pandemic in 2022.
+Results of Operation and Financial Condition
+We are monitoring the continuing impact of the COVID-19 pandemic on our results of operation and financial condition. To date, the COVID-19 pandemic has not significantly impacted the health of the overall real estate industry in our markets, which have reflected relative stability over the past three years. In addition, we have not experienced significant incurred losses on loans or received communications from our borrowers that significant losses were imminent. While management does not currently expect the next year to result in the precipitous decline in the value of certain real estate assets similar to the declines seen in 2009 to 2010, our forecast includes assumptions for certain loss scenarios that may occur due to market volatility stemming from the pandemic, unrest overseas or fluctuations in interest rates. In 2020, we increased our allowance for credit losses by $14.1 million, which was due to both our anticipation of continued market risk and uncertainty related to the pandemic and our adoption of the new CECL methodology. In 2021, due to the lack of significant net charge-offs projected with the 2020 forecast, and a more favorable forecast for the estimated life of loans, we reversed $9.5 million of our legacy allowance for credit losses, but recorded $12.1 million of Day One credit marks to the allowance for credit losses, as well as $12.2 million of Day Two adjustments on non-purchase credit deteriorated life of loan loss estimates, each stemming from the West Suburban acquisition. We continue to monitor the impact of COVID-19, as periods ending after December 31, 2021 may be materially impacted by the COVID-19 pandemic.
+We also adjust our investment securities portfolio to fair value each period end and review for any impairment that would require a provision for credit losses. At this time, we have determined there is no need for a provision for credit losses related to our investment securities portfolio. Because of changing economic and market conditions affecting issuers, we may be required to recognize impairments in the future on the securities we hold as well as experience reductions in other comprehensive income. We cannot currently determine the ultimate impact of the pandemic on the long-term value of our portfolio.
+As of December 31, 2021, we had $86.3 million of goodwill. At November 30, 2021, we performed our recurring annual review for any goodwill impairment. We determined no goodwill impairment existed. However, further delayed recovery or further deterioration in market conditions related to the general economy, financial markets, and the associated impacts on our customers, employees and vendors, among other factors, could significantly impact the impairment analysis and may result in future goodwill impairment charges that, if incurred, could have a material adverse effect on our results of operations and financial condition.
+Lending Operations and Accommodations to Borrowers
+To more fully support our customers during the pandemic, we established client assistance programs, including offering commercial, consumer, and mortgage loan payment deferrals for certain clients. During 2020 and 2021, we executed 509 of these deferrals on loan balances of $242.7 million. In accordance with interagency guidance issued in March 2020, these short term deferrals were not considered troubled debt restructurings. As of December 31, 2021, 502 loans previously in deferral status, representing loan balances of $234.9 million, had resumed payments or paid off, and 7 loans totaling $7.8 million remained in active deferral status, of which only $7.7 million were in nonaccrual status. In addition, we paused new foreclosure and repossession actions through December 31, 2020, and we continue
+to re-evaluate these activities based on the ongoing COVID-19 pandemic. These programs may negatively impact our revenue and other results of operations in the near term and, if not effective in mitigating the effect of COVID-19 on our customers, may adversely affect our business and results of operations more substantially over a longer period of time. Future governmental actions may require these and other types of customer-related responses.
+During 2020, as part of the first round of the SBA Paycheck Protection Program (“PPP”), we processed 746 PPP loan applications, representing a total of $136.7 million. In January through May 2021, we processed an additional 574 PPP loans, totaling $62.3 million, as part of the second round of the program, before the program expired on May 31, 2021. We started the application process for loan forgiveness for the first round of PPP loans in October 2020, and we continued to receive funds for forgiven loans from both the first and second round of PPP loans during 2021. As of December 31, 2021, we had 316 loans, which totaled $38.4 million, still outstanding under the PPP program, which includes $20.8 million of PPP loan acquired with our acquisition of West Suburban. We expect the application process for loan forgiveness to continue through the first half of 2022, with funds to be received from the SBA for the forgiven loans through June 2022. We recorded $3.1 million of net fee and interest income on PPP loans in 2021 and in 2020. As of December 31, 2021, unearned net fee income on both first and second round PPP loans totaled $188,000.
+Capital and Liquidity
+As of December 31, 2021, all of our capital ratios were in excess of all regulatory requirements. While we believe that we have sufficient capital to withstand an extended economic recession brought about by the COVID-19 pandemic, our reported and regulatory capital ratios could be adversely impacted by credit losses.
+We believe there could be potential stresses on liquidity management as a result of the COVID-19 pandemic. For instance, as customers manage their own liquidity stress, we could experience an increase in the utilization of existing lines of credit.
+We have developed new processes to monitor our liquidity on a daily basis, and have run stress testing based on various economic assumptions under stress and severe stress scenarios.
+Summary Financial Data
+Old Second Bancorp, Inc. and Subsidiaries
+Financial Highlights
+(Dollars in thousands, except per share data)
+Balance sheet items at year-end
+Total assets
+$
+6,212,189
+$
+3,040,837
+$
+2,635,545
+Total earning assets
+5,845,972
+2,859,154
+2,444,974
+Average assets
+3,483,100
+2,860,770
+2,623,443
+Loans, gross
+3,421,948
+2,034,851
+1,930,812
+Allowance for credit losses on loans
+44,281
+33,855
+19,789
+Deposits
+5,466,232
+2,537,073
+2,126,749
+Securities sold under agreement to repurchase
+50,337
+66,980
+48,693
+Other short-term borrowings
+-
+-
+48,500
+Junior subordinated debentures
+25,773
+25,773
+57,734
+Subordinated debentures
+59,212
+-
+-
+Senior notes
+44,480
+44,375
+44,270
+Notes payable and other borrowings
+19,074
+23,393
+6,673
+Stockholders’ equity
+502,027
+307,087
+277,864
+Results of operations for the year ended
+Interest and dividend income
+$
+105,215
+$
+104,215
+$
+115,594
+Interest expense
+8,451
+12,464
+18,835
+Net interest and dividend income
+96,764
+91,751
+96,759
+Provision for credit losses
+4,326
+10,413
+1,600
+Noninterest income
+39,230
+37,487
+35,800
+Noninterest expense
+103,801
+81,417
+79,102
+Income before taxes
+27,867
+37,408
+51,857
+Provision for income taxes
+7,823
+9,583
+12,402
+Net income available to common stockholders
+$
+20,044
+$
+27,825
+$
+39,455
+Performance ratio
+Return on average total assets
+0.58
+%
+0.97
+%
+1.50
+%
+Return on average equity
+6.04
+9.67
+15.37
+Average equity to average assets
+9.53
+10.06
+9.78
+Dividend payout ratio
+23.01
+4.26
+3.03
+Per share data
+Basic earnings
+$
+0.66
+$
+0.94
+$
+1.32
+Diluted earnings
+0.65
+0.92
+1.30
+Common book value per share
+11.29
+10.47
+9.28
+Weighted average diluted shares outstanding
+30,737,862
+30,174,072
+30,416,348
+Weighted average basic shares outstanding
+30,208,663
+29,623,333
+29,891,046
+Shares outstanding at year-end
+44,461,045
+29,328,723
+29,931,809
+Loan quality ratios
+Allowance for credit losses on loans to total loans at end of the year
+1.29
+%
+1.66
+%
+1.02
+%
+Provision for credit losses on loans to total loans
+0.13
+%
+0.45
+%
+0.08
+%
+Net loans charged-off to average total loans
+0.22
+%
+0.05
+%
+0.04
+%
+Nonaccrual loans to total loans at end of the year
+1.21
+%
+1.09
+%
+0.64
+%
+Nonperforming assets to total assets at end of the year
+0.76
+%
+0.84
+%
+0.79
+%
+Allowance for credit losses on loans to nonaccrual loans
+106.62
+%
+151.95
+%
+159.18
+%
+Old Second Bancorp, Inc. and Subsidiaries
+Quarterly Financial Information
+(Dollars in thousands, except per share data)
+4th
+3rd
+2nd
+1st
+4th
+3rd
+2nd
+1st
+Interest income
+$
+30,839
+$
+24,791
+$
+24,194
+$
+25,391
+$
+26,006
+$
+25,046
+$
+25,712
+$
+27,451
+Interest expense
+2,190
+2,173
+2,240
+1,848
+2,129
+2,537
+3,005
+4,793
+Net interest income
+28,649
+22,618
+21,954
+23,543
+23,877
+22,509
+22,707
+22,658
+Provision for credit losses
+12,326
+(1,500)
+(3,500)
+(3,000)
+-
+2,129
+7,984
+Securities gains, net
+(14)
+-
+-
+(1)
+-
+(24)
+Income (loss) before taxes
+(11,539)
+11,329
+11,972
+16,105
+11,409
+13,628
+12,377
+(6)
+Net income
+(9,067)
+8,412
+8,820
+11,879
+8,047
+10,265
+9,238
+Basic earnings per share
+(0.27)
+0.30
+0.30
+0.41
+0.27
+0.35
+0.31
+0.01
+Diluted earnings per share
+(0.26)
+0.29
+0.30
+0.40
+0.27
+0.34
+0.31
+0.01
+Dividends paid per share
+0.05
+0.05
+0.05
+0.01
+0.01
+0.01
+0.01
+0.01
+2021 Financial Overview
+In 2021, we recorded net income of $20.0 million, or $0.65 per fully diluted share, compared to $27.8 million, or $0.92 per fully diluted share, in 2020, and $39.5 million, or $1.30 per fully diluted share, in 2019. Our basic earnings per share for the periods presented were $0.66 in 2021, $0.94 in 2020 and $1.32 in 2019.
+Our 2021 net income decreased primarily as a result of the accounting impact of, and the expenses related to, our acquisition of West Suburban Bancorp, Inc. (“West Suburban”), which resulted in our recording of $14.6 million of Day Two provision for credit losses expense (consisting of $12.2 million related to estimated future credit losses on loans, that as of the acquisition date, had not experienced a more-than-insignificant deterioration in credit quality since origination (“non-PCD loans”) and $2.4 million for unfunded commitments) and $13.2 million in acquisition-related costs. Adjusted net income, a non-GAAP financial measure that excludes both the Day Two provision expense and acquisition-related costs, was $41.9 million in 2021. See the discussion entitled “Non-GAAP Presentations” on page 42 and the table below, which provides a reconciliation of this non-GAAP measure and related items, to the most comparable GAAP equivalents.
+Year Ended
+December 31,
+Net Income
+(Loss) income before income taxes (GAAP)
+$
+27,867
+$
+37,408
+$
+51,857
+Pre-tax income adjustments:
+Provision for credit losses - Day Two
+14,625
+-
+-
+Merger-related costs
+13,190
+-
+-
+Adjusted net income before taxes
+55,682
+37,408
+51,857
+Taxes on adjusted net income
+13,800
+9,583
+12,402
+Adjusted net income (non-GAAP)
+$
+41,882
+$
+27,825
+$
+39,455
+Basic earnings per share (GAAP)
+$
+0.66
+$
+0.94
+$
+1.32
+Diluted earnings per share (GAAP)
+0.65
+0.92
+1.30
+Basic earnings per share including adjusting items (non-GAAP)
+1.39
+0.94
+1.32
+Diluted earnings per share including adjusting items (non-GAAP)
+1.36
+0.92
+1.30
+The West Suburban acquisition required us to value all assets and liabilities acquired at fair value. Based on the Day One valuation, the loan portfolio was marked to fair value, segregating the non-PCD loans from the loans that, as of the acquisition date, had experienced a more-than-insignificant deterioration in credit quality since origination (“PCD loans”). Non-PCD loans received an adjustment to the loans’ carrying value for the interest and credit marks, while the carrying value of PCD loans was adjusted only for the interest mark. The Day One credit mark on PCD loans, of $12.1 million as of December 1, 2021, was recorded as additional ACL for those individually evaluated loans. In addition, under CECL guidance, a Day Two credit mark of $12.2 was recorded on non-PCD loans for estimated lifetime credit losses. Finally, the ACL on unfunded commitments also received Day One and Day Two credit adjustments, with the Day One adjustment of $1.8 million recorded directly as an additional liability, and the Day Two credit mark recorded as provision for credit losses expense. All recorded Day One fair value marks were offset to goodwill, and the marks that were not directly credited to the ACL are accretable over the life of the loan or the unfunded commitments, as applicable, and will be fully earned when the loan pays off, or the commitment matures or has a material advance. Finally, the ACL was also impacted by net loan charge-off activity in all years presented. Net loan charge-offs were $4.4 million in 2021 and $979,000 in 2020, compared to net loan recoveries of $817,000 in 2019.
+Net interest and dividend income increased $5.0 million, or 5.5% for 2021 compared to 2020, due primarily to the West Suburban acquisition and the reduction of interest rates by the Federal Reserve in 2020, which resulted in a decrease in our cost of funds. Excluding the acquisition-related adjustments recorded in late 2021, net income was favorably impacted by our acquisition of West Suburban on December 1, 2021, which added $5.8 million, and included $4.6 million in net interest and dividend income and $876,000 of noninterest income.
+Average loans, including loans held-for-sale, increased $37.8 million, or 1.9%, in 2021 compared to 2020. Contributing to this growth was our acquisition of West Suburban and the resultant loan portfolio acquired. Other factors contributing to growth included organic loan growth in our commercial, leases, construction, and commercial real estate-investor loan portfolios. Offsetting our loan growth in 2021, compared to 2020, was a 69 basis point decrease in average rates earned on interest earning assets. Average interest bearing deposits increased $320.9 million, or 20.8%, for 2021 compared to 2020, while average deposit rates decreased 30 basis points over the same period. The decrease in rates was primarily due to the falling interest rate environment in 2021, due to the Federal Reserve rate reductions, and deposit accounts repricing to the lower rates as the year progressed, which impacted all interest-bearing deposit categories. Average noninterest bearing deposits increased by $211.6 million, or 25.4%, from 2020 to 2021, as a result of our acquisition of West Suburban, as well as growth in commercial demand deposits which correlated with federal stimulus funds received due to COVID-19, as well as growth in our commercial, leases, construction, and commercial real estate loans.
+We continued to reposition our balance sheet in 2021 to provide appropriate funding for loan growth, ensure adequate liquidity during the COVID-19 pandemic, reduce asset quality risk, and decrease our cost of funds through organic deposit growth. In 2021, our available-for-sale securities portfolio increased $1.20 billion, compared to 2020, due primarily to the $1.07 billion of securities acquired in our acquisition of West Suburban, and additional purchases of $886.1 million during 2021, less sales, maturities, and calls of $744.8 million, the majority of which occurred immediately after our acquisition of West Suburban to reposition the portfolio based on our investment strategy. The unrealized mark to market adjustment on securities totaled $15.5 million as of December 31, 2021, compared to $24.2 million at December 31, 2020, due to market interest rate fluctuations as well as changes year over year in the composition of the securities portfolio. Average interest bearing liabilities increased $354.2 million, to $2.1 billion in 2021 from $1.7 billion in 2020, as funding needs in 2021 were also met by an increase in average noninterest bearing deposits year over year.
+Management also continued to emphasize credit quality and maintained our capital ratios with continued strong liquidity. In 2021, we experienced loan growth of $1.39 billion, or 68.2%, over 2020. The growth was driven primarily by our acquisition of West Suburban, and the resultant $1.50 billion of loans acquired, as well as an active commercial lending team in new and existing markets, and the continued development of a lease lending team. Asset quality levels have remained relatively stable over the last few years relative to total assets, with nonperforming assets of $47.0 million or 0.76% of total assets for 2021, compared to $25.5 million, or 0.84% of total assets for 2020, and $20.9 million, or 0.79% of total assets, for 2019, with the total dollar increase in 2021 primarily due to the West Suburban acquisition. We also continued to take steps to control operating expenses and increase net income. A decline in other real estate owned holdings of $118,000 in 2021 resulted in a decrease of $484,000 in net other real estate owned expenses for 2021 compared to 2020, and a decline in other real estate owned holdings of $2.5 million in 2020 compared to 2019 resulted in a minimal increase in expenses of $228,000 in the like period. As we focused on reducing noninterest expenses, exclusive of acquisition-related activity, we were also able to maintain our profitable wealth management business and secondary residential real estate originations and sales as important sources of noninterest income.
+Critical accounting estimates
+Our consolidated financial statements are prepared based on the application of accounting policies in accordance with generally accepted accounting principles (“GAAP”) and follow general practices within the banking industry. These policies require the reliance on estimates, assumptions and judgements, which may prove inaccurate or are subject to variations. Changes in underlying factors, estimates, assumptions or judgements could have a material impact on our future financial condition and results of operations.
+Certain policies inherently have a greater reliance on the use of estimates, assumptions and judgments and, as such, have a greater possibility of producing results that could be materially different than originally reported. We have identified the determination of the allowance for credit losses and fair value measurements to be the accounting areas that require the most subjective or complex judgments and, as such, could be most subject to revision as new or additional information becomes available or circumstances change, including overall changes in the economic climate and/or market interest rates. Therefore, we consider these policies, discussed below, to be critical accounting estimates and discuss them directly with the Audit Committee of our board of directors.
+Significant accounting policies are presented in Note 1 of the financial statements included in this annual report. These policies, along with the disclosures presented in the other financial statement notes and in this discussion, provide information on how significant assets and liabilities are valued in the financial statements and how those values are determined. Recent accounting pronouncements and standards that have impacted or could potentially affect us are also discussed in Note 1 of the consolidated financial statements.
+Allowance for credit losses for loans
+The allowance for credit losses (“ACL”) for loans represents management’s estimate of all expected credit losses over the expected contractual life of our loan portfolio. Determining the appropriateness of the allowance is complex and requires judgment by management about the effect of matters that are inherently uncertain. Subsequent evaluations of the then-existing loan portfolio, in light of the factors then prevailing, may result in significant changes in the allowance for credit losses in those future periods.
+The ACL involves critical accounting estimates because:
+● changes in the provision for credit losses can materially affect our financial results;
+● estimates relating to the ACL require us to project future borrower performance, including cash flows, delinquencies and charge-offs, along with, when applicable, collateral values, based on a reasonable and supportable forecast period utilizing forward-looking economic scenarios in order to estimate probability of default and loss given default; and
+● the ACL is influenced by factors outside of our control such as industry and business trends, geopolitical events and the effects of laws and regulations as well as economic conditions such as trends in housing prices, interest rates, GDP, inflation, energy prices and unemployment; and
+● considerable judgment is required to determine whether the models used to generate the ACL produce an estimate that is sufficient to encompass the current view of lifetime expected credit losses.
+Because our estimates of the ACL involve judgments and are influenced by factors outside of our control, there is uncertainty inherent in these estimates. Changes in such estimates could significantly impact our ACL and provision for credit losses. See Note 1 - Basis of Presentation and Changes in Significant Accounting Policies in the accompanying notes to the consolidated financial statements included elsewhere in this annual report for a discussion of our ACL.
+As a result of management’s modeling, we recorded an ACL on loans of $44.3 million as of December 31, 2021; in addition, we recorded an ACL on unfunded commitments of $6.2 million as of December 31, 2021, included within other liabilities. We recorded provision for credit losses of $4.3 million in 2021, comprised of a $9.4 million release of provision for credit losses expense on loans, a $12.2 million Day Two non-PCD credit mark on West Suburban acquired loans, and a $1.5 million provision for credit losses on unfunded commitments, compared to $10.4 million and $1.6 million of provision expense on loans recorded in 2020 and 2019, respectively. In addition, a discussion of the factors driving changes in the amount of the ACL is included in the “Allowances for Credit Losses” section below.
+Fair Value Measurements
+The use of fair values is required in determining the carrying values of certain assets and liabilities, as well as for specific disclosures. Fair value is an estimate of the exchange price that would be received to sell an asset or paid to transfer a liability in the principal or most advantageous market for the asset or liability in an orderly transaction (i.e., not a forced transaction, such as a liquidation or distressed sale) between market participants at the measurement date and is based on the assumptions market participants would use when pricing an asset or liability.
+In determining the fair value of financial instruments, market prices of the same or similar instruments are used whenever such prices are available. If observable market prices are unavailable or impracticable to obtain, we are required to make judgments about assumptions market participants would use in estimating the fair value of the financial instrument. Fair value is estimated using modeling techniques and incorporates assumptions about interest rates, duration, prepayment speeds, risks inherent in a particular valuation technique and the risk of nonperformance. These assumptions are inherently subjective as they require material estimates, all of which may be susceptible to significant change. In 2018, we adopted ASU 2016-01, which, among other topics addressed, required business entities to use the exit price notion, as defined in ASC 820, for the measurement of the fair value of financial instruments. Adoption of this standard resulted in our use of an exit price rather than an entrance price to determine the fair value of loans and deposits not already measured at fair value on a non-recurring basis in the consolidated balance sheet disclosures. See Note 17 “Fair Value Measurements” and Note 18 “Fair Values of Financial Instruments,” to the consolidated financial statements which include information about the extent to which fair value is used to measure assets and liabilities, and the valuation methodologies and key inputs used for further information regarding the valuation processes.
+Non-GAAP Financial Measures
+This annual report contains references to financial measures that are not defined in GAAP. Such non-GAAP financial measures include the presentation of adjusted net income, net interest income and net interest income to interest earning assets on a tax equivalent (“TE”) basis and our tangible common equity to tangible assets ratio. Management believes that the presentation of these non-GAAP financial measures (a) provides important supplemental information that contributes to a proper understanding of our operating performance, (b) enables a more complete understanding of factor and trends affecting our business, and (c) allows investors to evaluate our performance in a manner similar to management, the financial services industry, bank stock analysts, and bank regulators. Management uses non-GAAP measures as follows: in the preparation of our operating budgets, monthly financial performance reporting, and in our presentation
+to investors of our performance. However, we acknowledge that these non-GAAP financial measures have a number of limitations. Limitations associated with non-GAAP financial measures include the risk that persons might disagree as to the appropriateness of items comprising these measures and that different companies might calculate these measures differently. These disclosures should not be considered an alternative to our GAAP results. A reconciliation of non-GAAP financial measures to the most directly comparable GAAP financial measures is presented below or alongside the first instance where each non-GAAP financial measure is used.
+Results of operations
+Net interest income
+Net interest income, which is our primary source of earnings, is the difference between interest income earned on interest-earning assets, such as loans and investment securities, as well as accretion income on purchased loans, and interest incurred on interest-bearing liabilities, such as deposits and borrowings. Net interest income depends upon the relative mix of interest-earning assets and interest-bearing liabilities, the ratio of interest-earning assets to total assets and of interest-bearing liabilities to total funding sources, and movements in market interest rates. Our net interest income can be significantly influenced by a variety of factors, including overall loan demand, economic conditions, credit risk, the amount of nonearning assets including nonperforming loans, the amounts of and rates at which assets and liabilities reprice, variances in prepayment of loans and securities, early withdrawal of deposits, exercise of call options on borrowings or securities, a general rise or decline in interest rates, changes in the slope of the yield-curve, and balance sheet growth or contraction. Our asset and liability committee (“ALCO”) seeks to manage interest rate risk under a variety of rate environments by structuring our balance sheet and off-balance sheet positions. This process is discussed in more detail in the section entitled “Interest rate risk” in “Quantitative and Qualitative Disclosures about Market Rate Risk.”
+Our net interest income increased $5.0 million, or 5.5%, to $96.8 million for 2021, from $91.8 million for 2020. The increase in 2021 was primarily driven by our December 1, 2021 acquisition of West Suburban, and the resultant $4.6 million in net interest income. Our net interest margin, which is net interest income divided by total interest-earning assets, was 2.96% for the year ended 2021, compared to 3.43% for the year ended 2020, a decrease of 47 basis points. Our net interest margin on a taxable equivalent (TE) basis, was 3.00% for the year ended 2021, compared to 3.48% for the year ended 2020, a decrease of 48 basis points. Although average interest earning assets increased $598.0 million during 2021, the market rate reductions were more impactful than the volume growth of lower yielding assets. The decrease in interest expense in 2021 compared to 2020 was due primarily to lower rates paid on all interest bearing deposits, as well as a reduction of our short-term funding needs, as our excess liquidity on hand allowed us to utilize minimal short-term borrowings for the majority of 2021.
+Our net interest income decreased $5.0 million, or 5.2%, to $91.8 million for 2020, from $96.8 million for 2019. The decrease in 2020 was primarily driven by the reduction in market interest rates on loans and securities, and was partially offset by decreases in interest rates on deposits and reductions in short and long-term borrowings. Our net interest margin, which is net interest income divided by total interest-earning assets, was 3.43% for the year ended 2020, compared to 3.98% for the year ended 2019, a decrease of 55 basis points. Our net interest margin on a taxable equivalent (TE) basis, was 3.48% for the year ended 2020, compared to 4.06% for the year ended 2019, a decrease of 58 basis points. Although average interest earning assets increased $241.3 million during 2020, the market rate reductions were more impactful than the volume growth of lower yielding assets. The decrease in interest expense in 2020 compared to 2019 was due primarily to lower rates paid on all interest bearing deposits, as well as a reduction of our short-term funding needs, as our excess liquidity on hand allowed us to utilize minimal short-term borrowings for the majority of 2020.
+Our average earning assets increased $598.0 million, or 22.4%, to $3.27 billion in 2021, from $2.67 billion in 2020. The increase was primarily attributable to growth in our interest earning assets with financial institutions of $312.9 million stemming from the West Suburban acquisition, as well as an increase in our loan portfolio, also primarily due to the West Suburban acquisition, in addition to organic commercial, lease financing, construction, and commercial real estate loan growth. Our average earning assets increased $241.3 million, or 9.9%, to $2.67 billion in 2020, from $2.43 billion in 2019. The increase was primarily attributable to growth in our interest earning assets with financial institutions of $158.7 million stemming from federal stimulus funds received, as well as an increase in our loan portfolio, primarily due to PPP loans originated, in addition to organic commercial, lease financing, construction, and commercial real estate loan growth.
+Our average interest bearing liabilities increased $354.2 million, or 20.8%, to $2.1 billion for 2021, from $1.7 billion in 2020, due primarily to an increase in all deposit categories, other than time deposits. Interest bearing deposits increased by $320.9 million to $1.86 billion in 2021, compared to $1.54 billion in 2020, due primarily to the West Suburban acquisition. Deposit growth was also driven by federal stimulus funds received by depositors, as well as growth in commercial deposit accounts stemming from new commercial loans. Our average other borrowings increased $33.3 million to $196.6 million in 2021 from $163.3 million in 2020. This was mainly due to an increase of $7.1 million in average securities sold under repurchase agreements and an increase of $43.8 million in average subordinated debentures due to the issuance of $60 million in privately placed subordinated notes in April 2021. Our average interest bearing liabilities increased $10.8 million, or 0.6%, from $1.69 billion in 2019 to $1.70 billion in 2020, due primarily to an increase in all deposit categories, other than time deposits. Deposit growth was driven by federal stimulus funds received by depositors, as well as growth in commercial deposit accounts stemming from new commercial loans. Our other short-term borrowings declined due to our excess liquidity on hand, while our average junior subordinated debentures decreased due to our March 2020 redemption of the Old Second Capital Trust I trust preferred securities and related junior subordinated debentures totaling $32.6 million.
+The following table sets forth certain information relating to our average consolidated balance sheets and reflects the yield on average interest earning assets and cost of average interest bearing liabilities for the years indicated obtained by dividing the related interest by the average balance of assets or liabilities. Average balances are derived from daily balances.
+Analysis of Average Balances,
+Tax Equivalent Income / Expense and Rates
+(Dollars in thousands - unaudited)
+Year Ended December 31,
+Average
+Income /
+Rate
+Average
+Income /
+Rate
+Average
+Income /
+Rate
+Balance
+Expense
+%
+Balance
+Expense
+%
+Balance
+Expense
+%
+Assets
+Interest earning deposits with financial institutions
+$
+493,313
+$
+0.13
+$
+180,439
+$
+0.14
+$
+21,783
+$
+2.11
+Securities:
+Taxable
+522,794
+8,099
+1.55
+265,312
+6,773
+2.55
+253,260
+9,256
+3.65
+Non-taxable (TE)1
+188,952
+6,549
+3.47
+199,386
+6,926
+3.47
+249,976
+9,399
+3.76
+Total securities (TE)1
+711,746
+14,648
+2.06
+464,698
+13,699
+2.95
+503,236
+18,655
+3.71
+Dividends from FHLBC and FRBC
+10,201
+4.47
+9,917
+4.88
+10,730
+5.61
+Loans and loans held-for-sale 1 , 2
+2,057,691
+90,848
+4.42
+2,019,903
+91,241
+4.52
+1,897,909
+97,866
+5.16
+Total interest earning assets
+3,272,951
+106,608
+3.26
+2,674,957
+105,682
+3.95
+2,433,658
+117,582
+4.83
+Cash and due from banks
+30,621
+-
+-
+31,143
+-
+-
+34,027
+-
+-
+Allowance for credit losses on loans
+(32,183)
+-
+-
+(29,771)
+-
+-
+(19,548)
+-
+-
+Other noninterest bearing assets
+211,711
+-
+-
+184,441
+-
+-
+175,306
+-
+-
+Total assets
+$
+3,483,100
+$
+2,860,770
+$
+2,623,443
+Liabilities and Stockholders' Equity
+NOW accounts
+$
+532,507
+$
+0.07
+$
+456,284
+$
+0.12
+$
+432,028
+$
+1,386
+0.32
+Money market accounts
+407,352
+0.08
+296,398
+0.17
+289,745
+1,086
+0.37
+Savings accounts
+556,730
+0.04
+363,331
+0.14
+308,847
+0.16
+Time deposits
+365,167
+1,510
+0.41
+424,831
+5,033
+1.18
+431,377
+6,736
+1.56
+Interest bearing deposits
+1,861,756
+2,471
+0.13
+1,540,844
+6,602
+0.43
+1,461,997
+9,696
+0.66
+Securities sold under repurchase agreements
+60,895
+0.13
+53,808
+0.38
+43,698
+1.32
+Other short-term borrowings
+-
+-
+-
+11,255
+1.59
+73,757
+1,755
+2.38
+Junior subordinated debentures
+25,773
+1,133
+4.40
+31,101
+2,215
+7.12
+57,710
+3,724
+6.45
+Subordinated debentures
+43,820
+1,610
+3.67
+-
+-
+-
+-
+-
+-
+Senior note
+44,429
+2,692
+6.06
+44,323
+2,692
+6.07
+44,212
+2,699
+6.10
+Notes payable and other borrowings
+21,700
+2.13
+22,812
+2.52
+12,008
+3.20
+Total interest bearing liabilities
+2,058,373
+8,451
+0.41
+1,704,143
+12,464
+0.73
+1,693,382
+18,835
+1.11
+Noninterest bearing deposits
+1,043,739
+-
+-
+832,180
+-
+-
+650,400
+-
+-
+Other liabilities
+49,105
+-
+-
+36,758
+-
+-
+22,984
+-
+-
+Stockholders' equity
+331,883
+-
+-
+287,689
+-
+-
+256,677
+-
+-
+Total liabilities and stockholders' equity
+$
+3,483,100
+$
+2,860,770
+$
+2,623,443
+Net interest income (GAAP)
+$
+96,764
+$
+91,751
+$
+96,759
+Net interest margin (GAAP)
+2.96
+3.43
+3.98
+Net interest income (TE)1
+$
+98,157
+$
+93,218
+$
+98,747
+Net interest margin (TE)1
+3.00
+3.48
+4.06
+Core net interest margin (TE - excluding PPP loans)1
+2.96
+3.48
+4.06
+Interest bearing liabilities to earning assets
+62.89
+%
+63.71
+%
+69.58
+%
+1 Tax equivalent basis is calculated using a marginal tax rate of 21% in 2021, 2020 and 2019. See the discussion entitled “Non-GAAP Presentations” below and the table on page 43 that provides a reconciliation of each non-GAAP measure to the most comparable GAAP equivalent.
+2 Interest income from loans is shown on a tax equivalent basis, which is a non-GAAP financial measure, discussed below, and includes fees of $5.8 million for 2021, $4.3 million for 2020 and $1.1 million for 2019. Nonaccrual loans are included in the above stated average balances.
+For purposes of discussion, net interest income and net interest income to interest earning assets have been adjusted to a non-GAAP tax equivalent (“TE”) basis to more appropriately compare returns on tax-exempt loans and securities to other earning assets. The table below provides a reconciliation of each non-GAAP (TE) measure to the GAAP equivalent:
+Effect of Tax Equivalent Adjustment
+(In thousands)
+Interest income (GAAP)
+$
+105,215
+$
+104,215
+$
+115,594
+Taxable equivalent adjustment - loans
+Taxable equivalent adjustment - securities
+1,375
+1,455
+1,974
+Interest income (TE)
+106,608
+105,682
+117,582
+Less: interest expense (GAAP)
+8,451
+12,464
+18,835
+Net interest income (TE)
+$
+98,157
+$
+93,218
+$
+98,747
+PPP loan - interest and net fee income
+$
+3,146
+$
+3,116
+$
+N/A
+Net interest income (TE - excluding PPP loans)
+$
+95,011
+$
+90,102
+$
+98,747
+Net interest income (GAAP)
+$
+96,764
+$
+91,751
+$
+96,759
+Average interest earning assets
+$
+3,272,951
+$
+2,674,957
+$
+2,433,658
+Average PPP loans
+$
+67,008
+83,251
+N/A
+Average interest earning assets - excluding PPP loans
+$
+3,205,943
+$
+2,591,706
+$
+2,433,658
+Net interest margin (GAAP)
+2.96
+%
+3.43
+%
+3.98
+%
+Net interest margin (TE)
+3.00
+%
+3.48
+%
+4.06
+%
+Core net interest margin (TE - excluding PPP loans)
+2.96
+%
+3.48
+%
+4.06
+%
+The following table allocates the changes in net interest income to changes in either average balances or average rates for interest earning assets and interest bearing liabilities. Interest income is measured on a tax-equivalent basis using a 21% marginal rate for all periods presented. Interest income not yet received on nonaccrual loans is reversed upon transfer to nonaccrual status; future receipt of interest income is a reduction to principal while in nonaccrual status.
+Analysis of Year-to-Year Changes in Net Interest Income1
+2021 Compared to 2020
+2020 Compared to 2019
+Change Due to
+Change Due to
+Average
+Average
+Total
+Average
+Average
+Total
+(In thousands)
+Balance
+Rate
+Change
+Balance
+Rate
+Change
+Interest and dividend income
+Interest earning deposits
+$
+$
+(17)
+$
+$
+(230)
+$
+$
+(201)
+Securities:
+Taxable
+2,229
+(903)
+1,326
+(2,948)
+(2,483)
+Tax-exempt
+(362)
+(15)
+(377)
+(1,797)
+(676)
+(2,473)
+Dividends from FHLBC and FRBC
+(42)
+(28)
+(43)
+(75)
+(118)
+Loans and loans held-for-sale
+1,893
+(2,285)
+(392)
+7,130
+(13,755)
+(6,625)
+Total interest and dividend income
+4,188
+(3,262)
+5,525
+(17,425)
+(11,900)
+Interest expense
+NOW accounts
+(304)
+(184)
+(905)
+(822)
+Money market accounts
+(622)
+(153)
+(615)
+(589)
+Savings accounts
+(1,154)
+(271)
+(38)
+Time deposits
+(625)
+(2,898)
+(3,523)
+(101)
+(1,602)
+(1,703)
+Securities sold under repurchase agreements
+(151)
+(120)
+(554)
+(375)
+Other short-term borrowings
+(90)
+(90)
+(180)
+(1,133)
+(443)
+(1,576)
+Junior subordinated debentures
+(335)
+(747)
+(1,082)
+(1,947)
+(1,509)
+Senior notes
+-
+-
+-
+(14)
+(7)
+Subordinated debt
+1,610
+-
+1,610
+-
+-
+-
+Notes payable and other borrowings
+(27)
+(84)
+(111)
+(60)
+Total interest expense
+2,036
+(6,050)
+(4,014)
+(2,578)
+(3,793)
+(6,371)
+Net interest and dividend income
+$
+2,152
+$
+2,788
+$
+4,940
+$
+8,103
+$
+(13,632)
+$
+(5,529)
+1 The changes in net interest income are created by changes in both interest rates and volumes. In the table above, volume variances are computed using the change in volume multiplied by previous year’s rate. Rate variances are computed using the change in rate multiplied by the previous year’s volume. The change in interest due to both rate and volume has been allocated between factors in proportion to the relationship of absolute dollar amounts of the change in each.
+Provision for credit losses
+The provision for credit losses is the expense necessary to maintain the ACL at levels appropriate to absorb our estimate of credit losses expected over the life of our loan portfolio and unfunded lending commitments.
+We recorded a $4.3 million provision for credit losses in 2021, a decrease of $6.1 million, from 2020. The decrease in provision expense over the prior year was primarily due to a $9.4 million release of provision for credit losses expense on loans, as economic conditions began to improve in 2021 and the projected impact of the COVID-19 pandemic on our future credit losses was anticipated to be less than our prior projections, partially offset by the Day Two provision expense related to our acquisition of West Suburban of $14.6 million (consisting of a $12.2 million on non-PCD loans and a $2.4 million on acquired unfunded commitments). Our provision for credit losses in 2020 reflected the forecasted impact of COVID-19 and related uncertainty.
+For additional discussion of the credit provision and allowance for credit losses, see the section below “Allowance for Credit Losses” in Item 7. Management’s Discussion and Analysis of Financial Condition.
+Noninterest income
+Noninterest Income for the Twelve Months ending December 31,
+Percent Change From
+(Dollars in thousands)
+2021-2020
+2020-2019
+Wealth management
+$
+9,334
+$
+7,905
+$
+8,045
+18.1
+(1.7)
+Service charges on deposits
+5,408
+5,512
+7,715
+(1.9)
+(28.6)
+Residential mortgage banking revenue
+Secondary mortgage fees
+1,044
+1,654
+(36.9)
+114.2
+Mortgage servicing rights mark to market gain (loss)
+1,261
+(3,999)
+(2,662)
+131.5
+(50.2)
+Mortgage servicing income
+2,180
+1,950
+1,881
+11.8
+3.7
+Net gain on sales of mortgage loans
+9,300
+15,519
+5,112
+(40.1)
+203.6
+Total residential mortgage banking revenue
+13,785
+15,124
+5,103
+(8.9)
+196.4
+Securities gains (losses), net
+(25)
+4,511
+1,028.0
+(100.6)
+Increase in cash surrender value of BOLI
+1,390
+1,233
+1,415
+12.7
+(12.9)
+Death benefit realized on bank-owned life insurance
+-
+(100.0)
+(93.5)
+Card related income
+6,704
+5,532
+5,861
+21.2
+(5.6)
+Other income
+2,377
+2,149
+2,278
+10.6
+(5.7)
+Total noninterest income
+$
+39,230
+$
+37,487
+$
+35,800
+4.6
+4.7
+N/M - Not meaningful
+Our total noninterest income increased $1.7 million, or 4.6%, to $39.2 million for 2021, compared to $37.5 million for 2020. The increase was primarily due to:
+● Mark to market gains on mortgage servicing rights (MSRs) of $1.3 million in 2021, compared to a mark to market loss on MSRs of $4.0 million recorded in 2020, primarily due to rising market interest rates in late 2021.
+● A $1.4 million, or 18.1%, increase in wealth management income in 2021, from $7.9 million in 2020, due to growth in assets under management due to rising interest rates and an increase in wealth management clients.
+● Net securities gains of $232,000 in 2021, compared to net losses of $25,000 in 2020. The gains in 2021 were primarily due to portfolio sales of $605.8 million in 2021, the majority of which occurred following our acquisition of West Suburban to reposition the portfolio based on our investment strategy.
+● A $1.2 million, or 21.2%, increase in card-related income in 2021, compared to 2020, due to increased consumer spending and card-related income acquired in our acquisition of West Suburban.
+● Other income increased $228,000, or 10.6% in 2021, compared to 2020, primarily due to the sale of an unconsolidated subsidiary in May 2021.
+Partially offsetting these increases were reductions in secondary mortgage fees of $610,000, or 36.9%, in 2021 compared to 2020, as well as a reduction in the net gain on sales of mortgage loans of $6.2 million, or 40.1%, over the same period, each due to a reduction in mortgage loan origination volumes in 2021 due to the rising rate environment. Finally, service charges on deposits decreased $104,000, or 1.9%, in 2021 compared to 2020, due to a reduction in overdraft fees assessed, and a change in the posting order of checks and electronic payments processed, and we had no BOLI death benefit proceeds in 2021, compared to $57,000 in 2020.
+Our total noninterest income increased $1.7 million, or 4.7%, to $37.5 million for 2020, compared to $35.8 million for 2019. This increase was due to growth in total residential mortgage banking revenues, primarily attributable to net gain on sales of mortgage loans.
+Originations of residential loans held-for-sale increased by 133.4 % in 2020 over 2019, and net gain on the sales of mortgage loans increased by over 200% year over year, due to the low market interest rates for the majority of 2020. Secondary mortgage service fees and mortgage servicing income also increased in 2020 compared to 2019. These positive variances were partially offset by growth in mark to market losses on mortgage servicing rights, which increased $1.3 million, or 50.2%, in 2020, compared to 2019. Service charges on deposits decreased $2.2 million, or 28.6%, and card-related income decreased $329,000, or 5.6%, in 2020, compared to 2019, as consumer spending was muted as a result of the COVID-19 pandemic. We had net losses on securities of $25,000 in 2020, primarily due to sales of $18.0 million, compared to a net gain of $4.5 million in 2019, due to portfolio sales of $191.3 million in 2019. Security sales in 2019 were executed to take advantage of the tightening credit spreads in the falling interest rate environment. Finally, BOLI death benefit proceeds of $57,000 were realized in 2020, compared to $872,000 of BOLI death benefit proceeds realized in 2019, and the increase in cash surrender value of BOLI declined by $182,000 for the year ended December 31, 2020, compared to the 2019 like period.
+Noninterest expense
+Noninterest Expense for the Twelve Months ending December 31,
+Percent Change From
+(Dollars in thousands)
+2021-2020
+2020-2019
+Salaries
+$
+42,444
+$
+38,058
+$
+36,413
+11.5
+4.5
+Officers incentive
+5,352
+3,574
+3,378
+49.7
+5.8
+Benefits and other
+9,895
+7,915
+7,078
+25.0
+11.8
+Total salaries and employee benefits
+57,691
+49,547
+46,869
+16.4
+5.7
+Occupancy, furniture and equipment
+13,583
+8,498
+8,289
+59.8
+2.5
+Computer and data processing
+7,938
+5,143
+5,631
+54.3
+(8.7)
+FDIC insurance
+63.3
+239.2
+General bank insurance
+1,214
+1,030
+1,002
+17.9
+2.8
+Amortization of core deposit intangible
+30.4
+(8.3)
+Advertising expense
+1,225
+15.1
+(75.7)
+Card related expense
+2,538
+2,195
+1,956
+15.6
+12.2
+Legal fees
+1,105
+45.2
+12.7
+Consulting & management fees
+5,005
+558.6
+214.0
+Other real estate owned expense, net
+(74.3)
+53.9
+Other expense
+12,598
+11,443
+12,075
+10.1
+(5.2)
+Total noninterest expense
+$
+103,801
+$
+81,417
+$
+79,102
+27.5
+2.9
+Our total noninterest expense increased by $22.4 million, or 27.5%, in 2021 compared to 2020. The increase was primarily due to:
+● An $8.1 million, or 16.4%, increase in total salaries and employee benefits, comprised of a $4.4 million increase in salaries primarily due to the West Suburban acquisition, a $1.8 million increase in officers’ incentives primarily due to higher incentive accruals in 2021, and a $2.0 million increase in benefits and other expense primarily due to increases stemming from additional employees from our acquisition of West Suburban and increases in employee insurance costs as more employees returned to more routine medical appointments, many of which were on hold during 2020 due to the COVID-19 pandemic. Our number of full-time equivalent employees was 891 as of December 31, 2021, compared to 533 as of December 31, 2020, with the increase due primarily to the West Suburban acquisition. We are currently facing challenges in achieving a fully-staffed work force due to the current labor market conditions. Many of our staff members continue to work remotely, or have a hybrid schedule of both in-office and remote workdays.
+● A $5.1 million, or 59.8%, increase in occupancy, furniture and equipment expense primarily due to the acquisition of West Suburban related assets, which included $3.8 million of branch write-downs in the fourth quarter of 2021, based on our deployment of a branch assessment to determine overlap following the merger.
+● A $2.8 million, or 54.3%, increase in computer and data processing expense, primarily due to merger-related costs incurred related to our acquisition of West Suburban.
+● A $4.2 million, or 558.6%, increase in consulting and management fees, primarily due to merger-related costs incurred related to our acquisition of West Suburban. This significant increase included $3.0 million of fees for financial advisory and investment banking services related to the West Suburban acquisition.
+● A $1.2 million, or 10.1%, increase in other expense in 2021, compared to 2020, primarily attributable to merger-related costs incurred related to our acquisition of West Suburban.
+Partially offsetting these increases to noninterest expense was a $484,000, or 74.3%, reduction in other real estate owned expense primarily due to a $278,000 reduction in valuation reserve expenses and other reductions in insurance and taxes, professional, closing cost, and other expenses relating to OREO.
+Our total noninterest expense increased by $2.3 million, or 2.9%, in 2020 compared to 2019. The increase was primarily attributable to a $2.7 million increase in salaries and employee benefits, due primarily to an increase in salary costs as 2020 reflected a full year of the commercial lending team hires in mid-year 2019, annual merit increases in early 2020, growth in mortgage commissions paid due to an increase in residential loan origination volumes, higher employee insurance costs and an increase in company matches on 401k deferrals due to the earlier eligibility allowed to enter our 401k plan. In addition, occupancy, furniture and equipment expense increased $209,000 due to planned building repairs at various branch locations in 2020. FDIC insurance expense increased $421,000, due to assessment credits received in 2019 after the FDIC reached its required reserve ratio, that were not repeated in 2020; see “Supervision and Regulation Deposit Insurance” for further discussion of these assessment credits. Partially offsetting these increases to noninterest expense were reductions in computer and data processing, advertising expense, and other expense. Advertising expense decreased in 2020, as we continued to assess our marketing strategy and opportunities for future promotion of our 150th anniversary in 2021.
+Income taxes
+Our provision for income taxes includes both federal and state income tax expense (benefit). An analysis of the provision for income taxes for the three years ended December 31, 2021, is detailed in Note 11 of the consolidated financial statements and our income tax accounting policies are described in Note 1 to the consolidated financial statements.
+Our income tax expense totaled $7.8 million for 2021 compared to an income tax expense of $9.6 million for 2020 and $12.4 million for 2019. Income tax expense reflected all relevant statutory tax rates and GAAP accounting. Our effective tax rate was 28.1% for 2021, 25.6% for 2020, and 23.9% for 2019. Any changes in tax rates will be recorded in the period enacted.
+The determination of whether we will be able to realize our deferred tax assets is highly subjective and dependent upon judgment concerning management’s evaluation of both positive and negative evidence, including forecasts of future income, available tax planning strategies, and assessments of both current and future economic and business conditions. Management considered both positive and negative evidence regarding our ability to ultimately realize the deferred tax assets, which is largely dependent on our ability to derive benefits based on future taxable income. For all periods presented, management determined that the realization of the deferred tax asset was “more likely than not” as required by GAAP.
+Financial condition
+General
+Our total assets were $6.21 billion at December 31, 2021, an increase of $3.17 billion, or 104.3%, from December 31, 2020. Our total cash and cash equivalents increased $422.2 million, driven by an increase in interest earning deposits with financial institutions, primarily due to the acquisition of West Suburban.
+Our loans increased by $1.39 billion, or 68.2%, to $3.42 billion for the year ended December 31, 2021, compared to 2020. This increase is primarily due to the December 1, 2021 acquisition of West Suburban, and the resultant $1.50 billion loan portfolio acquired. In addition, we also had organic loan growth in 2021, primarily in our commercial, leases, construction and commercial real estate investor loan portfolios.
+Our total securities increased by $1.20 billion, or 241.1%, for the year ended December 31, 2021, compared to 2020, primarily due to the acquisition of $1.07 billion of securities with our acquisition of West Suburban, immediately followed by security sales of approximately $605.8 million to reposition the portfolio based on our investment strategy, offset by additional purchases from the liquidity provided from such sales. We recorded pretax net security gains of $232,000 in 2021.
+In 2021, management emphasized a desire for excess liquidity due to uncertainty related to the COVID-19 pandemic, as well as short duration investments and credit quality in all investing and lending decisions. We also continued to experience a high level of competition for loans in our target markets. The balance of our other real estate owned decreased to $2.4 million as of December 31, 2021, from $2.5 million as of December 31, 2020. In December 2021, we acquired three OREO properties in our acquisition of West Suburban, with a total net book value of $5.6 million, and we sold two of these properties in December, which had a net book value of $5.2 million.
+Our total liabilities were $5.71 billion at December 31, 2021, an increase of $2.98 billion, or 108.9%, from December 31, 2020. Total deposits increased by $2.93 billion, or 115.5%, to $5.47 billion for the year ended December 31, 2021, compared to $2.54 billion for the year ended December 31, 2020, primarily due to $2.69 billion of deposits acquired in our acquisition of West Suburban. In addition, organic growth in demand deposits, savings, NOW and money market accounts also contributed to the increase. Management continued to fund new lending with deposit growth and securities sold under repurchase agreements, and we were able to reduce our short term borrowings from the Federal Home Loan Bank of Chicago (the “FHLBC”) due to our liquidity on hand.
+At December 31, 2021, total stockholders’ equity was $502.0 million, compared to $307.1 million at December 31, 2020.
+Investments
+As shown below, we experienced significant changes in our securities portfolio in 2021, primarily due to the $1.07 billion of securities we acquired with our West Suburban acquisition. We also purchased $886.1 million of securities during 2021, less sales, maturities, calls and paydowns of $744.7 million, primarily to align the securities portfolio to our investment strategy of higher credit, lower duration holdings immediately after the West Suburban acquisition. In addition to rebalancing the portfolio, we added high quality floating-rate or shorter duration fixed-rate assets that will likely increase our book value over a range of interest rate scenarios. The size of the portfolio increased in 2021 compared to 2020 primarily from the West Suburban acquisition, but there were unrealized mark to market net losses of $8.7 million in 2021. We had minimal changes in the overall composition of our securities portfolio from 2019 to 2020. However, the size of the portfolio increased in 2020 compared to 2019 primarily due to an increase in unrealized mark to market gains of $14.7 million in 2020.
+Securities Available-for-Sale Portfolio
+Amortized
+Fair
+% of
+Amortized
+Fair
+% of
+Amortized
+Fair
+% of
+(Dollars in thousands)
+Cost
+Value
+Total
+Cost
+Value
+Total
+Cost
+Value
+Total
+Securities available-for-sale
+U.S. Treasury
+$
+202,251
+$
+202,339
+12.0
+$
+4,014
+$
+4,117
+0.8
+$
+4,010
+$
+4,036
+0.8
+U.S. government agencies
+62,587
+61,888
+3.6
+6,811
+6,657
+1.3
+8,502
+8,337
+1.7
+U.S. government agency mortgage-backed
+172,016
+172,302
+10.2
+16,098
+17,209
+3.5
+16,164
+16,588
+3.4
+States and political subdivisions
+240,793
+256,465
+15.1
+229,352
+249,259
+50.2
+240,399
+249,175
+51.4
+Corporate bonds
+10,000
+9,887
+0.6
+-
+-
+0.0
+-
+-
+0.0
+Collateralized mortgage obligations
+673,238
+672,967
+39.8
+53,999
+56,585
+11.4
+57,059
+57,984
+12.0
+Asset-backed securities
+236,293
+236,877
+14.0
+130,959
+131,818
+26.6
+82,114
+81,844
+16.9
+Collateralized loan obligations
+79,838
+79,763
+4.7
+30,728
+30,533
+6.2
+66,898
+66,684
+13.8
+Total securities available-for-sale
+$
+1,677,016
+$
+1,692,488
+100.0
+$
+471,961
+$
+496,178
+100.0
+$
+475,146
+$
+484,648
+100.0
+Our investment portfolio serves as both an important source of liquidity and as a source of income. Accordingly, the size and composition of the portfolio reflects our liquidity needs, loan demand and interest income objectives. We will adjust the size and composition of the portfolio from time to time. While a significant portion of the portfolio consists of readily marketable securities to address future liquidity needs, other parts of the portfolio may reflect funds invested pending future loan demand or to maximize interest income without undue interest rate risk.
+Our total securities as of December 31, 2021, reflected a net increase of $1.20 billion, or 241.1%, from December 31, 2020, primarily due to the $1.07 billion of securities we acquired with our West Suburban acquisition. We executed security purchase and sales in 2021 to rebalance the portfolio to our investment strategies which generally focus on higher credit, lower duration securities. As 2021 progressed, we focused on shorter duration issuances, but we retained a higher credit rating requirement for purchases. Of the total $744.7 million recorded in security sales, call, maturities and paydowns in 2021, $279.4 million were related to U.S. government agency mortgage-backed securities, and $321.6 million were related to collateralized mortgage obligations. We recorded net securities gains of $232,000 in 2021 related to sales and calls during the year. We executed securities purchases during 2021 to use a portion of the liquidity from the rebalancing of the overall portfolio, with investments primarily in U.S. Treasuries, collateralized mortgage obligations, and asset-backed securities.
+Some of our holdings of U.S. government agency MBS and CMOs are issuances of government-sponsored enterprises, such as Fannie Mae and Freddie Mac, which are not backed by the full faith and credit of the U.S. government. Some holdings of MBS and CMOs are issued by Ginnie Mae, which do carry the full faith and credit of the U.S. government. We also hold some MBS and CMOs that were not issued by U.S. government agencies and are typically credit-enhanced via over-collateralization and/or subordination. Holdings of ABS were largely comprised of securities backed by student loans issued under the U.S. Department of Education’s (“DOE”) FFEL program, which generally provides a minimum 97% U.S. DOE guarantee of principal. These ABS securities also have added credit enhancement through over-collateralization and/or subordination. The majority of holdings issued by states and political subdivisions are general obligation or revenue bonds that have S&P or Moody’s ratings of AA- or higher. Other state and political subdivision issuances are unrated and generally consist of smaller investment amounts that involve issuers in our markets. The credit quality of these issuers is monitored and none have been identified as posing a material risk of loss. We also hold collateralized loan obligation (“CLOs”) securities that are generally backed by a pool of debt issued by multiple middle-sized and large businesses. Our CLO S&P or Moody’s ratings distribution consists of 100% rated AAA. CLO credit enhancement is achieved through over-collateralization and/or subordination.
+The following table presents the expected maturities or call dates and weighted average yield (nontax equivalent) of securities by major category as of December 31, 2021. Securities not due at a single maturity date are shown only in the total column.
+Securities Portfolio Maturity and Yields
+After One But
+After Five But
+Within One Year
+Through Five Years
+Through Ten Years
+After Ten Years
+Total
+(Dollars in thousands)
+Amount
+Yield
+Amount
+Yield
+Amount
+Yield
+Amount
+Yield
+Amount
+Yield
+Securities available-for-sale
+U.S. Treasury
+$
+4,050
+1.85
+%
+$
+198,289
+0.88
+%
+$
+-
+-
+%
+$
+-
+-
+%
+$
+202,339
+1.85
+%
+U.S. government agencies
+-
+-
+56,879
+0.81
+5,009
+1.37
+-
+-
+61,888
+1.28
+States and political subdivisions
+4,657
+0.72
+9,482
+1.75
+40,461
+2.57
+201,865
+2.98
+256,465
+2.98
+Corporate bonds
+-
+-
+9,887
+0.75
+-
+-
+-
+-
+9,887
+0.75
+8,707
+1.24
+274,537
+0.89
+45,470
+2.43
+201,865
+2.98
+530,579
+1.79
+Mortgage-backed securities and collateralized mortgage obligations
+-
+-
+-
+-
+-
+-
+-
+-
+845,269
+1.19
+Asset-backed securities
+-
+-
+-
+-
+-
+-
+-
+-
+236,877
+1.12
+Collateralized loan obligations
+79,763
+1.60
+Total securities available-for-sale
+$
+8,707
+1.24
+%
+$
+274,537
+0.89
+%
+$
+45,470
+2.43
+%
+$
+201,865
+2.98
+%
+$
+1,692,488
+1.38
+%
+As of December 31, 2021, net unrealized gains on available-for-sale securities totaled $15.5 million, which offset by deferred income taxes resulted in an overall increase to equity capital of $11.1 million. As of December 31, 2020, net unrealized gains on available-for-sale securities totaled $24.2 million, which offset by deferred income taxes resulted in an overall increase to equity capital of $17.4 million.
+Loans
+The following table presents the composition of the loan portfolio at December 31 for the year indicated:
+Loan Portfolio
+% of
+% of
+% of
+(Dollars in thousands)
+Total
+Total
+Total
+Commercial
+$
+771,474
+22.5
+$
+407,159
+20.0
+$
+332,842
+17.2
+Leases
+176,031
+5.2
+141,601
+7.0
+119,751
+6.2
+Commercial real estate - Investor
+957,389
+28.0
+582,042
+28.6
+520,095
+26.9
+Commercial real estate - Owner occupied
+574,384
+16.8
+333,070
+16.4
+345,504
+17.9
+Construction
+206,132
+6.0
+98,486
+4.8
+69,617
+3.6
+Residential real estate - Investor
+63,399
+1.9
+56,137
+2.8
+71,105
+3.7
+Residential real estate - Owner occupied
+213,248
+6.2
+116,388
+5.7
+136,023
+7.0
+Multifamily
+309,164
+9.0
+189,040
+9.3
+189,773
+9.8
+HELOC
+115,664
+3.4
+80,908
+4.0
+91,605
+4.7
+HELOC - Purchased
+10,626
+0.3
+19,487
+1.0
+31,852
+1.6
+Other1
+24,437
+0.7
+10,533
+0.4
+12,258
+0.9
+Total loans (which excludes deferred loans costs and PCI loans for December 31, 2019)2
+3,421,948
+100.0
+2,034,851
+100.0
+1,920,425
+99.5
+Net deferred loans costs
+-
+-
+-
+-
+1,786
+0.1
+PCI loans
+-
+-
+-
+-
+8,601
+0.4
+Total loans (including deferred loan costs and PCI loans for December 31, 2019 only)2
+$
+3,421,948
+100.0
+$
+2,034,851
+100.0
+$
+1,930,812
+100.0
+1 The “Other” class includes consumer loans and overdrafts.
+2 As noted in the paragraph below, for the period ended December 31, 2019 (before the Company’s adoption of CECL on January 1, 2020), purchased credit impaired (“PCI”) loans and their related deferred loan costs (now PCD loans) were excluded from nonperforming loan disclosures and were therefore separately reported. After the adoption of CECL, all PCD loans are now included within each relevant loan type and are not separately reported as PCI loans, because such loans are now included within the Company’s nonperforming loan disclosures, if such loans otherwise meet the definition of a nonperforming loan.
+Our total loans were $3.4 billion as of December 31, 2021, an increase of $1.4 billion from $2.0 billion as of December 31, 2020. This increase was primarily due to the December 1, 2021 acquisition of West Suburban, and the resultant $1.5 billion loan portfolio acquired.
+Growth in the year over year period also included PPP loan originations of $62.3 million, recorded within commercial loans, with $38.4 million of PPP loans outstanding as of December 31, 2021, consisting of $17.7 million related to 131 PPP loans originated by the Company, which includes five first round PPP originations of $2.4 million not yet paid off or forgiven, and $20.8 million related to PPP loans originated by West Suburban before the acquisition. In addition, we experienced organic loan growth primarily in our commercial, leases, commercial real estate-investor and construction loan portfolios. We recorded total loan originations and renewals of $892.5 million in 2021, but we also experienced accelerated paydowns in 2021 due to high levels of customer liquidity.
+We strive to serve customers in and around our geographic locations and continue to seek opportunities in our primary lending markets; however, our markets remain very competitive for new loan business.
+Management continues to emphasize loan portfolio quality, which was evidenced by the stable nonperforming loan metrics, excluding acquired loans from West Suburban, discussed in the “Asset Quality” section below. As a result, we recorded net loan charge-offs of $4.4 million in 2021, net loan charge-offs of $979,000 in 2020, and net loan charge-offs of $817,000 in 2019.
+The quality of our loan portfolio is in large part a reflection of the economic health of the communities in which we operate. Our local communities have been relatively stable in the past five years. While there are no significant concentrations of loans where the customers’ ability to honor loan terms is dependent upon a single economic sector, the real estate categories represented 71.6% and 72.5% of the portfolio at December 31, 2021 and 2020, respectively. Our lending exposure is diversified across our commercial, leasing, commercial real estate, residential real estate, construction loan, multifamily and HELOC portfolios, with total loan portfolio growth in each of the three years presented above. We had no concentration of loans exceeding 10% of total loans that were not otherwise disclosed as a category of loans at December 31, 2021. We remain committed to overseeing and managing our loan portfolio to avoid unnecessarily high credit concentrations in accordance with the general interagency guidance on risk management. Consistent with those commitments, management monitors our asset diversification and anticipates that the percentage of real estate lending in relation to the overall portfolio will decrease in the future.
+The following table sets forth the remaining contractual maturities for loan categories at December 31, 2021:
+Maturity and Rate Sensitivity of Loans to Changes in Interest Rate
+After One Year
+After Five Years
+Through Five Years
+Through 15 Years
+After 15 Years
+One Year
+Fixed
+Floating
+Fixed
+Floating
+Fixed
+Floating
+(In thousands)
+or Less
+Rate
+Rate
+Rate
+Rate
+Rate
+Rate
+Total
+Commercial Loans
+$
+246,404
+$
+276,200
+176,546
+58,967
+10,936
+1,115
+1,306
+$
+771,474
+Leases
+2,808
+145,652
+1,297
+26,274
+-
+-
+-
+176,031
+Commercial real estate - Investor
+164,728
+448,961
+203,958
+71,608
+68,035
+-
+957,389
+Commercial real estate - Owner Occupied
+64,727
+275,132
+70,836
+46,030
+107,922
+-
+9,737
+574,384
+Construction
+82,271
+59,750
+40,281
+13,464
+9,849
+206,132
+Real estate - Investor
+11,276
+23,195
+4,182
+4,765
+4,975
+1,050
+13,956
+63,399
+Real estate - Owner Occupied
+6,062
+5,130
+4,968
+67,505
+12,483
+44,945
+72,155
+213,248
+Multifamily
+44,766
+188,517
+12,547
+41,932
+20,012
+-
+1,390
+309,164
+HELOC
+5,380
+1,055
+21,085
+2,635
+9,135
+5,526
+70,848
+115,664
+HELOC - Purchased
+-
+-
+-
+10,446
+-
+-
+10,626
+Other1
+14,957
+6,461
+2,367
+-
+-
+24,437
+Total
+$
+643,379
+$
+1,430,053
+$
+538,067
+$
+344,025
+$
+243,600
+$
+52,891
+$
+169,933
+$
+3,421,948
+1 The “Other” class includes consumer loans and overdrafts; column one includes demand notes.
+Asset Quality
+Nonperforming loans consist of nonaccrual loans, performing troubled debt restructured loans accruing interest and loans 90 days or more past due still accruing interest. Remediation work continues in all segments. Management believes that the full impacts of the COVID-19 pandemic are not yet known. The fiscal stimulus and relief programs appear to have delayed any materially adverse financial impact to the Bank. Once these stimulus programs have been fully exhausted, however, we believe our credit metrics could worsen and loan losses could ultimately materialize. Any potential loan losses will be contingent upon a number of factors beyond our control, including a slower return to pre-pandemic routines, due to concerns related to increases in new COVID-19 cases, hospitalizations and deaths leading to additional government imposed restrictions; refusals to receive the vaccine along with concerns related to new strains of the virus; supply chain issues remaining unresolved longer than anticipated; labor shortages and wage increases continuing to impact many industries; consumer confidence and spending falls; and rising geopolitical tensions.
+Nonperforming loans increased by $21.6 million to $44.7 million at December 31, 2021, from $23.0 million at December 31, 2020. Nonperforming assets, which includes nonperforming loans plus other real estate owned, totaled $47.0 million as of December 31, 2021, compared to $25.5 million as of December 31, 2020. Purchased credit deteriorated loans, or PCD loans, are purchased loans that, as of the date of acquisition, the Company determined had experienced a more-than-insignificant deterioration in credit quality since origination. Credit metrics, excluding the impact of the West Suburban acquisition, continued to be relatively stable regarding nonperforming loan levels, and management is carefully monitoring loans considered to be in a classified status. Nonperforming loans as a percent of total loans increased to 1.2% as of December 31, 2021, from 1.1% as of December 31, 2020, and 0.8% December 31, 2019. The distribution of our nonperforming loans is shown in the following table.
+Risk Elements
+The following table sets forth the amounts of nonperforming assets at December 31 for the years indicated:
+(Dollars in thousands)
+Nonaccrual loans
+$
+41,531
+$
+22,280
+$
+12,432
+Performing troubled debt restructured loans accruing interest
+Loans past due 90 days or more and still accruing interest
+3,110
+2,545
+Total nonperforming loans
+44,666
+23,045
+15,849
+Other real estate owned
+2,356
+2,474
+5,004
+Total nonperforming assets
+$
+47,022
+$
+25,519
+$
+20,853
+PCI loans, net of purchase accounting adjustments (applicable for December 31, 2019 only) 1
+$
+-
+$
+-
+$
+8,601
+Other real estate owned ("OREO") as % of nonperforming assets (and excluding PCI loans for December 31, 2019 only)
+5.0
+%
+9.7
+%
+24.0
+%
+1 In 2020, due to the adoption of CECL, PCD loans (formerly PCI loans) are now included in total nonperforming assets, if their risk rating at period end so indicates. For the period ended December 31, 2019, PCI loans were not included within total nonperforming assets since we were accreting interest income over the expected life of the loan.
+Accrual of interest is discontinued on a loan when principal or interest is 90 days or more past due, unless the loan is well secured and in the process of collection. When a loan is placed on nonaccrual status, interest previously accrued but not collected in the current period is reversed against current period interest income. Interest income of approximately $280,000, $70,000 and $347,000 was recorded and collected during 2021, 2020 and 2019, respectively, on loans that subsequently went to nonaccrual status by year-end. Interest income, which would have been recognized during 2021, 2020 and 2019, had these loans been on an accrual basis throughout the year, was approximately $1.6 million, $461,000 and $1.3 million, respectively. There were approximately $5.1 million and $1.3 million in restructured residential mortgage loans that were still accruing interest based upon their prior performance history at December 31, 2021 and 2020, respectively. Additionally, the nonaccrual loans above include $3.7 million and $2.7 million in restructured loans for the years ending December 31, 2021 and 2020.
+Total past due loans, including accruing and nonaccrual loans, totaled $27.3 million at year-end 2021, a $4.4 million increase from year end 2020, resulting in the rate of past due loans to total loans decreasing to 0.8% at year-end 2021 compared to 1.13% at year-end 2020, and 1.33% at year-end 2019. Refer to Note 4, “Loans”, in our consolidated financial statements, below, for further detail of past due loans by classification for 2021 and 2020.
+Classified Assets
+Classified assets as of December 31,
+Percent Change From
+(Dollars in thousands)
+2021-2020
+2020-2019
+Commercial
+$
+32,712
+$
+2,679
+$
+11,688
+N/M
+(77.1)
+Leases
+3,754
+3,222
+16.5
+879.3
+Commercial real estate - Investor
+10,667
+5,117
+4,926
+108.5
+3.9
+Commercial real estate - Owner occupied
+15,429
+11,187
+7,956
+37.9
+40.6
+Construction
+2,104
+5,192
+(59.5)
+N/M
+Residential real estate - Investor
+1,265
+1,516
+1,390
+(16.6)
+9.1
+Residential real estate - Owner occupied
+5,099
+4,040
+3,631
+26.2
+11.3
+Multifamily
+2,278
+7,558
+(69.9)
+N/M
+HELOC
+1,243
+1,540
+1,789
+(19.3)
+(13.9)
+HELOC - Purchased
+-
+N/M
+(100.0)
+Other(1)
+150.0
+(98.9)
+Total classified loans (excluding PCI loans for December 31, 2019 only)2
+74,741
+42,055
+33,013
+77.7
+27.4
+Other real estate owned
+2,356
+2,474
+5,004
+(4.8)
+(50.6)
+Total classified assets, excluding PCI loans2
+77,097
+44,529
+38,017
+73.1
+17.1
+PCI, net of purchase accounting adjustments2
+-
+-
+8,601
+-
+(100.0)
+Total classified assets
+$
+77,097
+$
+44,529
+$
+46,618
+73.1
+(4.5)
+N/M - Not meaningful
+1 The “Other” class includes consumer loans and overdrafts.
+2 In 2020, due to the adoption of CECL, PCD loans (formerly PCI loans) are now included in total classified loans, if their risk rating at period end so indicates. For the period ended December 31, 2019, PCI loans were not included within total classified loans since we were accreting interest income over the expected life of the loan.
+Classified loans include nonaccrual, performing troubled debt restructurings and all other loans considered substandard. Classified assets include both classified loans and OREO. Loans classified as substandard are inadequately protected by either the current net worth and ability to meet payment obligations of the obligor, or by the collateral pledged to secure the loan, if any. These loans have a well-defined weakness or weaknesses that jeopardize the liquidation of the debt and carry the distinct possibility that we will sustain some loss if deficiencies remain uncorrected.
+Total classified loans increased in 2021 compared to 2020, but decreased in 2020 compared to 2019. The increase in classified loans in 2021 was primarily attributable to our acquisition of West Suburban. Total classified assets increased in 2021 compared to both 2020 and 2019. Classified assets, which includes classified loans and OREO, was favorably impacted by a $118,000 decrease in our OREO portfolio, in 2021 from 2020, and a $2.5 million decrease in our OREO portfolio in 2020 from 2019. Management monitors a metric of classified assets to the sum of Bank Tier 1 capital and the ACL, which is referred to as the “classified assets ratio.” Our classified assets ratio increased to 14.97% at December 31, 2021, compared to 12.64% at December 31, 2020, from 11.11% at December 31, 2019.
+Potential Problem Loans
+We utilize an internal asset classification system as a means of reporting problem and potential problem assets. At the scheduled board of directors meetings of the Bank, loan listings are presented, which show significant loan relationships listed as “Special Mention,” “Substandard,” and “Doubtful.” Loans classified as Substandard include those that have a well-defined weakness or weaknesses that jeopardize the liquidation of the debt. They are characterized by the distinct possibility that we will sustain some loss if the deficiencies are not corrected. Assets classified as Doubtful have all the weaknesses inherent as those classified Substandard with the added characteristic that the weaknesses make collection or liquidation in full, on the basis of currently existing facts, conditions and values, highly questionable and improbable. Assets that do not currently expose us to sufficient risk to warrant classification in one of the aforementioned categories, but possess weaknesses that deserve management’s close attention, are deemed to be Special Mention.
+Management defines potential problem loans as performing loans rated Substandard that do not meet the definition of a nonperforming loan. These potential problem loans carry a higher probability of default and require additional attention by management. A more detailed description of these loans can be found in Note 5 to the Consolidated Financial Statements, as listed in the credit quality indicators discussion.
+Allowance for Credit Losses
+On January 1, 2020, we began calculating our ACL using the CECL methodology, rather than the incurred losses methodology. Upon adoption of CECL on January 1, 2020, (Day One), we recognized an increase in our ACL on outstanding loans of $5.9 million and an increase in our ACL on unfunded commitments of $1.7 million as a cumulative effect adjustment from change in accounting policies. Approximately $2.5 million of the increase to the ACL resulted from the transfer of the non-accretable purchase accounting adjustments on PCD loans. The Day One adjusting entries resulted in a $3.8 million reduction to retained earnings, and a deferred tax asset adjustment of $1.4 million.
+At December 31, 2021, the ACL on loans totaled $44.3 million, and the ACL on unfunded commitments, included in other liabilities, totaled $6.2 million, compared to the ACL on loans of $33.9 million and ACL on unfunded commitments of $3.0 million at December 31, 2020. The increase was primarily related to our West Suburban acquisition and associated allowance attributable to the acquired loans and unfunded lending commitments, partially offset by the improvement in the forecasted macroeconomic conditions.
+One measure of the adequacy of the ACL is the ratio of the ACL on loans to total loans. The ACL as a percentage of total loans was 1.3% as of December 31, 2021 and 1.7% as of December 31, 2020. In management’s judgment, an adequate allowance for estimated losses has been established; however, there can be no assurance that losses will not exceed the estimated amounts in the future.
+The increase in the ACL during 2020 was driven by forecast assumptions due to the COVID-19 pandemic, primarily related to unemployment and GDP expectations over the remaining life of the loans, as well as the following:
+● An initial forecast period of one year for all portfolio segments and off-balance-sheet credit exposures. This period reflects management’s expectation of losses based on forward-looking economic scenarios over that time.
+● A historical reversion loss forecast period covering the remaining contractual life, adjusted for prepayments, by portfolio segment based on the historical loss rate of loans within those segments.
+● The initial loss forecast period and historical reversion loss rate is based on economic conditions at the measurement date.
+● We primarily utilized the static pool and migration analysis methods to estimate credit losses. Such methods would obtain estimated life-time credit losses using the conceptual components described above.
+See Note 1 - Basis of Presentation and Changes in Significant Accounting Policies in the accompanying notes to the consolidated financial statements in this annual report for discussion of our ACL methodology on loans.
+The provision for credit losses, which includes a provision for losses on unfunded commitments, is a charge to earnings to maintain the ACL at a level consistent with management’s assessment of expected losses over the expected life of the loan portfolio as well as considering changes in macroeconomic conditions.
+During 2021, we recorded a $9.4 million release of provision for credit losses expense on loans, a $12.2 Day Two non-PCD credit mark for estimated lifetime credit losses on West Suburban acquired loans, and a $1.5 million provision for credit losses on unfunded commitments, compared to $9.2 million of provision for credit losses on loans and $1.2 million of provision for credit losses on unfunded commitments for 2020. The provision for credit losses in 2020 was due to the COVID-19 pandemic and market interest rate reductions, as our assumptions under the newly adopted CECL methodology, which require a provision based on expected credit losses over the life of the loans.
+Summary of Loan Loss Experience
+The following table summarizes, for the years indicated, activity in the ACL, including amounts charged-off, amounts of recoveries, additions to the allowance charged to operating expense, and the ratio of net charge-offs to loans outstanding:
+Analysis of Allowance for Credit Losses
+(Dollars in thousands)
+Total Outstanding loans (exclusive of loans held-for-sale)
+$
+3,421,948
+$
+2,034,851
+$
+1,930,812
+Allowance at beginning of year
+33,855
+19,789
+19,006
+Charge-offs:
+Commercial
+Leases
+Commercial real estate - Investor
+2,724
+Commercial real estate - Owner occupied
+1,797
+1,763
+Construction
+-
+Real estate - Investor
+-
+Real estate - Owner occupied
+-
+Multifamily
+-
+-
+HELOC
+HELOC - Purchased
+-
+Other1
+Total charge-offs
+5,933
+3,068
+2,051
+Recoveries:
+Commercial
+Leases
+-
+-
+Commercial real estate - Investor
+Commercial real estate - Owner occupied
+Construction
+-
+Real estate - Investor
+Real estate - Owner occupied
+Multifamily
+-
+-
+HELOC
+HELOC - Purchased
+-
+-
+-
+Other1
+Total recoveries
+1,489
+2,089
+1,234
+Net charge-offs / (recoveries)
+4,444
+Adoption of ASU 326
+-
+5,879
+-
+Day 1 PCD credit evaluation
+12,075
+-
+-
+Provision for credit losses on loans
+2,795
+9,166
+1,600
+Allowance at end of year
+$
+44,281
+$
+33,855
+$
+19,789
+Net charge-offs / (recoveries) to total loans outstanding
+0.1
+%
+0.0
+%
+0.0
+%
+ACL on loans at year end to total loans outstanding
+1.3
+%
+1.7
+%
+1.0
+%
+Nonaccrual loans to total loans outstanding
+1.2
+%
+1.1
+%
+0.6
+%
+ACL on loans at year end to nonaccrual loans
+106.6
+%
+152.0
+%
+159.2
+%
+1 The “Other” class includes consumer loans and overdrafts.
+The following table summarizes, for the years indicated, net charge-offs per loan class and the percentage of total average loans per class:
+% of Total
+% of Total
+% of Total
+Average
+Average
+Average
+Loans Per
+Loans Per
+Loans Per
+Class
+Class
+Class
+Commercial
+$
+0.1
+$
+(17)
+(0.0)
+$
+0.0
+Leases
+0.1
+0.1
+0.0
+Commercial real estate - Investor
+2,646
+0.5
+0.1
+(376)
+(0.1)
+Commercial real estate - Owner occupied
+1,562
+0.5
+1,066
+0.3
+0.2
+Construction
+-
+-
+(112)
+(0.1)
+0.0
+Residential real estate - Investor
+(291)
+(0.7)
+(49)
+(0.1)
+(4)
+(0.0)
+Residential real estate - Owner occupied
+(158)
+(0.1)
+(244)
+(0.2)
+0.0
+Multifamily
+0.1
+-
+-
+(15)
+(0.0)
+HELOC
+(217)
+(0.3)
+(260)
+(0.3)
+(63)
+(0.1)
+HELOC - Purchased
+-
+-
+0.3
+0.7
+Other 1
+0.3
+0.9
+1.7
+Net charge-offs
+$
+4,444
+0.2
+$
+0.0
+$
+0.0
+1 The “Other” class includes consumer loans and overdrafts.
+The provision for credit losses on loans is based upon management’s estimate of future expected credit losses in the loan and lease portfolio and its evaluation of the adequacy of the ACL. Our provision for credit losses in 2021 totaled $4.3 million, compared to $10.4 million in 2020, and $1.6 million recorded in 2019. Net charge-offs recorded in 2021 totaled $4.4 million, compared to net charge-offs of $979,000 recorded in 2020, and net charge-offs of $817,000 in 2019. The increase of net charge offs in 2021 was primarily due to the acquisition and a $2.2 million charge off on a commercial real estate-investor loan. Our ACL on loans to average loans was 2.16% as of December 31, 2021, compared to 1.68% at both December 31, 2020 and 1.04% at December 31, 2019.
+The following table shows our allocation of the ACL by loan type at December 31 for the years indicated, and, for each category of loans, the percent of total loans represented by that category:
+Allocation of the Allowance for Credit Losses
+% of Loans
+% of Loans
+% of Loans
+in Each
+in Each
+in Each
+Category to
+Category to
+Category to
+(Dollars in thousands)
+Amount
+Total Loans
+Amount
+Total Loans
+Amount
+Total Loans
+Commercial
+$
+11,751
+22.5
+$
+2,812
+20.0
+$
+3,015
+17.2
+Leases
+3,480
+5.2
+3,888
+7.0
+1,262
+6.2
+Commercial real estate - Investor
+13,093
+28.0
+9,205
+28.6
+6,218
+26.9
+Commercial real estate - Owner occupied
+2,615
+16.8
+2,251
+16.4
+3,678
+17.9
+Construction
+3,373
+6.0
+4,054
+4.8
+3.6
+Real estate - Investor
+1.9
+1,740
+2.8
+3.7
+Real estate - Owner occupied
+2,832
+6.2
+2,714
+5.7
+1,257
+7.0
+Multifamily
+3,675
+9.0
+3,625
+9.3
+1,444
+9.8
+HELOC
+2,379
+3.4
+1,749
+4.0
+1,161
+4.7
+HELOC - Purchased
+0.3
+1.0
+-
+1.6
+Other1
+0.7
+1,618
+0.4
+1.4
+Total
+$
+44,281
+100.0
+$
+33,855
+100.0
+$
+19,789
+100.0
+1 The “Other” class includes consumer loans, overdrafts and the unallocated allowance balance for each year presented.
+Allocations of the allowance may be made for specific loans, but the entire allowance is available for losses in the loan portfolio. In addition, the OCC, as part of their examination process, periodically reviews the ACL. Regulators can require management to record adjustments to the allowance level based upon their assessment of the information available to them at the time of examination. The OCC, in conjunction with the other federal banking agencies, has adopted an interagency policy statement on the ACL. The policy statement provides guidance for financial institutions on both the responsibilities of management for the assessment and establishment of adequate allowances and guidance for banking agency examiners to use in determining the adequacy of general valuation guidelines. Generally, the policy statement recommends that (1) institutions have effective systems and controls to identify, monitor and address asset quality problems; (2) management has analyzed all significant factors that affect the collectability of the portfolio in a reasonable manner; and (3) management has established acceptable allowance evaluation processes that meet the objectives set forth in the policy statement. Management believes it has established an adequate estimated allowance for expected credit losses over the
+estimated life of our loan portfolio. Management reviews its process quarterly using an extensive and detailed loan review process, makes changes as needed, and reports those results at meetings of our Board of Directors and Audit Committee.
+Although management believes the ACL is sufficient to cover expected losses over the estimated life of our loan portfolio, there can be no assurance that the allowance will prove sufficient to cover actual loan and lease losses or that regulators, in reviewing the loan portfolio, would not request us to materially adjust our ACL at the time of their examination. Continued loan growth in future periods, a decline in our current level of recoveries, or an increase in charge-offs could result in an increase in provision expense. Additionally, with the adoption of CECL, provision expense may be more volatile due to changes in CECL model assumptions of credit quality, macroeconomic factors and conditions, and loan composition, which drive the allowance for credit losses balance.
+Based on these quarterly assessments, management determined that, excluding the impact of the West Suburban acquisition and related Day Two ACL adjustment for non-PCD loans acquired, a $9.4 million release of provision for credit losses expense on loans was required for 2021, and a $9.2 million and $1.6 million provision for credit losses was required for 2020 and 2019, respectively. When measured as a percentage of average loans outstanding, the total ACL increased from 1.0% of total loans as of December 31, 2019, to 1.7% of total loans at December 31, 2020, and increased to 2.2% of total loans at December 31, 2021.
+The provision for credit losses on unfunded commitments totaled $1.6 million in 2021, and the allowance for unfunded commitments totaled $4.5 million as of December 31, 2021. Management reviewed the securities portfolio for credit loss exposure, and determined that no allowance for credit losses on securities was required for 2021. See Note 4 to the consolidated financial statements for more detail on the ACL for securities analysis performed.
+Other Real Estate Owned
+Other real estate owned (“OREO”) decreased to $2.4 million as of December 31, 2021, compared to $2.5 million as of December 31, 2020, reflecting a $118,000 decline. In the fourth quarter of 2021, we acquired three OREO properties in our acquisition of West Suburban, with a total fair value of $5.6 million, and we sold two of these properties in December, which had a net book value of $5.2 million. Of the ten properties we held as of year-end 2021, the largest net book value property was comprised of one industrial zoned property carried at $549,000. Reductions in our OREO balance during 2021 included the sale of six properties resulting in proceeds of $5.8 million. Net gains on the sale of OREO properties during 2021 totaled $41,000, compared to net gains on sale of $204,000 in 2020 and $264,000 in 2019. The trend of year over year reductions in valuation adjustments continued but at decreasing levels in 2019 through 2021.
+OREO Properties by Type as of December 31,
+Percent Change From
+(Dollars in thousands)
+2021-2020
+2020-2019
+Single family residence
+$
+$
+$
+50.0
+147.3
+Lots (single family and commercial)
+1,411
+1,387
+3,945
+1.7
+(64.8)
+Vacant land
+(14.8)
+758.5
+Commercial property
+-
+(100.0)
+(63.8)
+Total OREO properties
+$
+2,356
+$
+2,474
+$
+5,004
+(4.8)
+(50.6)
+Other real estate assets acquired in settlement of loans are recorded at the fair value of the property when acquired, less estimated costs to sell, establishing a new cost basis. The OREO valuation reserve for the year ended 2021 was $1.2 million, which was 33.3% of gross OREO, at year-end 2021. This compares to $1.6 million, or 39.9%, of gross OREO, net of participations, at year-end 2020.
+Deposits
+We grew total deposits by $2.93 billion, or 115.5%, to a total of $5.47 billion at year-end 2021, compared to year-end 2020, primarily due to the $2.69 billion of deposits acquired in our acquisition of West Suburban. Total deposits grew by $410.3 million, or 19.3%, to a total of $2.54 billion at year-end 2020 compared to year-end 2019. We had no brokered certificates of deposit as of December 31, 2021 or December 31, 2020.
+Average Balances and Interest Rates
+Average
+Rate
+Average
+Rate
+Average
+Rate
+(Dollars in thousands)
+Balance
+%
+Balance
+%
+Balance
+%
+Noninterest bearing demand
+$
+1,043,739
+-
+$
+832,180
+-
+$
+650,400
+-
+Interest bearing:
+NOW and money market
+939,859
+0.08
+752,682
+0.14
+721,773
+0.34
+Savings
+556,730
+0.04
+363,331
+0.14
+308,847
+0.16
+Time
+365,167
+0.41
+424,831
+1.18
+431,377
+1.56
+Total deposits
+$
+2,905,495
+$
+2,373,024
+$
+2,112,397
+The following table sets forth the amounts and maturities of time deposits of $250,000 or more at December 31 of the year indicated:
+Maturities of Time Deposits of $250,000 or More
+(Dollars in thousands)
+3 months or less
+$
+17,050
+$
+21,148
+Over 3 months through 6 months
+10,698
+7,059
+Over 6 months through 12 months
+22,759
+27,429
+Over 12 months
+18,211
+4,709
+$
+68,718
+$
+60,345
+The following table reflects the portion of deposits accounts in U.S offices that exceed the FDIC insurance limit or similar deposit insurance regimes:
+December 31,
+(Dollars in thousands)
+Uninsured deposits
+$
+1,422,553
+$
+698,150
+Borrowings
+In addition to deposits, we used other liquidity sources for short-term funding needs in 2021, such as repurchase agreements. We also have contingency funding available from the FHLBC, which requires the Bank to be a member and invest in the stock of the FHLBC, and total borrowings are generally limited to the lower of 35% of total assets or 60% of the book value of certain mortgage-backed loans. We have historically used these borrowings as a source of short-term funding; however, our excess liquidity on hand during 2021 allowed us to fund our short-term liquidity needs with cash on hand. Our other short-term borrowings have no outstanding balances as of December 31, 2021.
+We recorded long-term FHLBC borrowings in our ABC Bank acquisition in April 2018 of $23.4 million, net of purchase accounting adjustments. These borrowings were issued at favorable rates compared to the overnight borrowing rate as of the date of ABC Bank acquisition, and matured over a seven year period. As of December 31, 2021, the balance of these borrowings consists of one remaining advance in long-term status which totaled $6.1 million and matures in February 2026. In addition, we have an unused line of credit of $20.0 million available with a third-party bank, which can be used for the Company’s operating needs at the holding company level. This line of credit renews every February and must be repaid within 360 days, if drawn. This line of credit has not been drawn upon since January 2019.
+There were no other categories of short-term borrowings that had an average balance greater than 30% of our stockholders’ equity as of December 31, 2021, 2020 or 2019.
+The average junior subordinated debentures included one issuance of trust preferred securities for 2021, but included two issuances of trust preferred securities by our subsidiaries, Old Second Capital Trust I (“Trust I”) which totaled $32.0 million as of December 31, 2019, and Old Second Capital Trust II (“Trust II”), which totaled $25.0 million as of December 31, 2019. On March 2, 2020, we redeemed all of the subordinated debentures due June 30, 2033, relating to the outstanding 7.80% cumulative trust preferred securities (the “Trust Securities”) issued by Trust I. Also on March 2, 2020, we redeemed all of the outstanding Trust Securities at a redemption price of $10.00 per Trust Security, which reflects 100% of the liquidation amount, plus accrued and unpaid distributions through the redemption date. In connection with the redemption, the Trust Securities were delisted from The NASDAQ Stock Market. See Note 10 to the consolidated financial statements Junior Subordinated Debentures for further discussion of the Capital Trusts I and II. The junior subordinated debentures outstanding at December 31, 2021 consists of $25.8 million of the Trust II issuance.
+In the second quarter of 2021, we entered into Subordinated Note Purchase Agreements with certain qualified institutional buyers pursuant to which we sold and issued $60.0 million in aggregate principal amount of our 3.50% Fixed-to-Floating Rate Subordinated Notes due April 15, 2031 (the “Notes”). We sold the Notes to eligible purchasers in a private offering, and the proceeds of this issuance are intended to be used for general corporate purposes, which may include, without limitation, the redemption of existing senior debt, common stock repurchases and strategic acquisitions. The Notes bear interest at a fixed annual rate of 3.50% through April 14, 2026, payable semi-annually in arrears. As of April 15, 2026 forward, the interest rate on the Notes will generally reset quarterly to a rate equal to Three-Month Term SOFR (as defined by the Note) plus 273 basis points, payable quarterly in arrears. The Notes have a stated maturity of April 15, 2031, and are redeemable, in whole are in part, on April 15, 2026, or any interest payment date thereafter, and at any time upon the occurrence of certain events. As of December 31, 2021, we had $59.2 million of subordinated debentures outstanding, net of deferred issuance costs
+In December 2016, we completed the retirement of $45.0 million of subordinated debt with the proceeds of a $45.0 million senior notes issuance and cash on hand. The senior notes mature in ten years, and terms include interest payable semiannually at 5.75% for five years. Beginning December 31, 2021, the senior debt will pay interest at a floating rate, with interest payable quarterly at three month LIBOR plus 385 basis points. As of December 31, 2021, we had $44.5 million of senior debt outstanding, net of deferred issuance costs. At December 31, 2021, we were in compliance with all of the financial covenants contained within the senior debt agreement.
+Capital
+As of December 31, 2021, we had total stockholders’ equity of $502.0 million, an increase of $194.9 million, or 63.5%, from $307.1 million as of December 31, 2020. This increase was largely attributable to the West Suburban acquisition, which results in consideration paid to West Suburban shareholders of $194.5 million, or 15.7 million shares, of our common stock. In addition, we had net income of $20.0 million in 2021, less a $6.0 million reduction in the fair value adjustment on securities available for sale, net of the fair value adjustments related to swaps, within accumulated other comprehensive income. At December 31, 2021, accumulated other comprehensive income, net of deferred taxes, was $8.8 million, compared to $14.8 million accumulated other comprehensive income, net of tax, as of year-end 2020. Equity in 2021 was reduced for the payment of dividends to common stockholders, which totaled $4.6 million for the year, as well as treasury stock purchases pursuant to our stock repurchase plan, which totaled $5.5 million for the year. Our total stockholders’ equity increased in 2020, ending at $307.1 million, compared to $277.9 million at year end 2019, due primarily to net income of $27.8 million in 2020 and a favorable fair value adjustment on securities available for sale, net of fair value adjustments related to swaps, of $10.2 million.
+We issued $32.6 million of cumulative trust preferred securities through our consolidated subsidiary, Trust I, in July 2003. As noted above, we redeemed all of the outstanding Trust Securities on March 2, 2020, at a redemption price of $10.00 per Trust Security, which reflects 100% of the liquidation amount, plus accrued and unpaid distributions through the redemption date.
+We issued an additional $25.8 million of cumulative trust preferred securities through a private placement completed by a second unconsolidated subsidiary, Trust II, in April 2007. These trust preferred securities mature in 30 years, but subject to regulatory approval, can also now be called in whole or in part. The quarterly cash distributions on the securities were fixed at 6.77% through June 15, 2017, and converted to a floating rate at 150 basis points over the three-month LIBOR rate thereafter. We entered into a forward starting interest rate swap on August 18, 2015, with an effective date of June 15, 2017. This transaction had a notional amount totaling $25.8 million as of December 31, 2015, and was designated as a cash flow hedge of certain junior subordinated debentures and continues to be fully effective during the period presented. As such, no amount of ineffectiveness has been included in net income. Therefore, the aggregate fair value of the swap is recorded in other liabilities with changes in fair value recorded in other comprehensive income, net of tax. The amount included in other comprehensive income would be reclassified to current earnings should all or a portion of the hedge no longer be considered effective. We expect the hedge to remain fully effective during the remaining term of the swap. We pay the counterparty a fixed rate and receive a floating rate based on three month LIBOR. Management concluded that it would be advantageous to enter into this transaction given that our trust preferred securities issued in 2007 changed from a fixed to floating rate on June 15, 2017. The cash flow hedge has a maturity date of June 15, 2037.
+We are currently paying interest on the Trust II preferred securities as that interest comes due. As of December 31, 2021, and December 31, 2020, total trust preferred proceeds of $25.0 million qualified as Tier 1 regulatory capital at the bank holding company level.
+In the third quarter of 2019, our Board of Directors authorized a stock repurchase program, under which we were authorized to repurchase up to approximately 1.5 million shares (or approximately 5%) of our outstanding common stock through open market purchases, trading plans established in accordance with U.S. Securities and Exchange Commission rules, privately negotiated transactions, or by other means. The stock repurchase program expired on September 19, 2020; however, we received a notice of non-objection from the Federal Reserve Bank of Chicago to extend the previously authorized stock repurchase program through October 20, 2021. The actual means and timing of any repurchases, quantity of purchased shares and prices will be, subject to certain limitations, at the discretion of management and will depend on a number of factors, including, without limitation, market prices of our common stock, general market and economic condition, and applicable legal and regulatory requirements. These share purchases were funded by our cash on hand. No shares were repurchased in 2019, and during 2020, we repurchased 719,273 shares of our common stock at a weighted average price of $7.65 per share pursuant to our stock repurchase program. During 2021, we repurchased 766,034 shares at a weighted average share price of $12.81 per share. In total, we repurchased 1,485,307 shares of our common stock at a weighted average price of $10.31 per share under our stock repurchase program. The repurchase program expired on October 21, 2021, and no other repurchase program was in effect as of December 31, 2021.
+We withheld 48,902 shares for $605,397 to satisfy RSU vesting tax withholding obligations in 2021, and repurchased 766,034 shares for $9.8 million under our stock repurchase program, which increased treasury stock. This increase was offset by issuances of 199,492 shares for RSU vestings, which totaled $2.4 million. In addition, due to the acquisition of West Suburban, we issued 6.0 million treasury shares, for $103.6 million, which was part of the 15.7 million total shares issued for the stock component of the merger consideration paid. The net impact was a decrease to treasury stock of 5.4 million shares, to 244,105 shares totaling $5.9 million as of December 31, 2021. The net decrease in treasury stock increased stockholders’ equity, and also decreased earnings per share by increasing the number of shares outstanding.
+We withheld 33,765 shares for $423,000 to satisfy RSU vesting tax withholding obligations in 2020, and repurchased 719,273 shares for $5.5 million under our stock repurchase program, which increased treasury stock. This increase was offset by issuances of 46,325 shares for RSU vestings, which totaled $431,000. The net impact was an increase to treasury stock of 706,713 shares, to 5,628,661 shares totaling $101.4 million as of December 31, 2020. The increase in treasury stock decreased stockholders’ equity, and also increased earnings per share by decreasing the number of shares outstanding
+The Basel III rules, impose minimum capital requirements for bank holding companies and banks. The Basel III rules apply to all national and state banks and savings associations regardless of size and bank holding companies and savings and loan holding companies other than “small bank holding companies” which are generally holding companies with consolidated assets of less than $3 billion. Following our acquisition of West Suburban, we no longer qualify as a small bank holding company. In order to avoid restrictions on capital distributions or discretionary bonus payments to executives, a covered banking organization must maintain a “capital conservation buffer” on top of our minimum risk-based capital requirements. This buffer must consist solely of CET1, but the buffer applies to all three measurements (CET1, Tier 1 capital and total capital). The capital conservation buffer consists of an additional amount of common equity equal to 2.5% of risk-weighted assets.
+The following table shows the regulatory capital ratios and the current minimum and well capitalized regulatory requirements at the dates indicated:
+Risk Based Capital Ratios
+Minimum Capital
+Well Capitalized
+Adequacy with
+Under Prompt
+Capital Conservation
+Corrective Action
+December 31,
+December 31,
+December 31,
+Buffer, if applicable1
+Provisions2
+The Company
+Common equity tier 1 capital ratio
+7.00
+%
+N/A
+9.46
+%
+11.94
+%
+11.14
+%
+Total risk-based capital ratio
+10.50
+%
+N/A
+12.55
+%
+14.26
+%
+14.53
+%
+Tier 1 risk-based capital ratio
+8.50
+%
+N/A
+10.06
+%
+13.01
+%
+13.65
+%
+Tier 1 leverage ratio
+4.00
+%
+N/A
+7.81
+%
+10.21
+%
+11.93
+%
+The Bank
+Common equity tier 1 capital ratio
+7.00
+%
+6.50
+%
+12.41
+%
+13.75
+%
+14.35
+%
+Total risk-based capital ratio
+10.50
+%
+10.00
+%
+13.46
+%
+15.00
+%
+15.23
+%
+Tier 1 risk-based capital ratio
+8.50
+%
+8.00
+%
+12.41
+%
+13.75
+%
+14.35
+%
+Tier 1 leverage ratio
+4.00
+%
+5.00
+%
+9.58
+%
+10.74
+%
+12.50
+%
+1 Amounts are shown inclusive of a capital conservation buffer of 2.50%.
+2 Prompt corrective action provisions are only applicable at the Bank level.
+The Company, on a consolidated basis, exceeded the minimum capital ratios to be deemed “well capitalized” at December 31, 2021, pursuant to the capital requirements in effect at that time. All ratios conform to the regulatory calculation requirements in effect as of the date noted.
+In addition to the above regulatory ratios, our common equity to total assets ratio decreased from 10.10% to 8.08%, while our tangible common equity to tangible assets ratio (non-GAAP), decreased from 9.49% at December 31, 2020 to 6.59% at December 31, 2021. The declines in these ratios was primarily due to an increase in each denominator due to growth in assets in 2021, due to the West Suburban acquisition and interest earning deposits with financial institutions. In addition, growth in total intangibles related to the West Suburban acquisition impacted the tangible equity to tangible assets ratio. Management considers this non-GAAP measure a valuable performance measurement for capital analysis. The following table provides a reconciliation of the GAAP tangible common equity to tangible assets ratio to the non-GAAP ratio for the periods indicated:
+December 31, 2021
+December 31, 2020
+Tangible common equity
+GAAP
+Non-GAAP
+GAAP
+Non-GAAP
+(Dollars in thousands)
+Total Equity
+$
+502,027
+$
+502,027
+$
+307,087
+$
+307,087
+Less: Goodwill and intangible assets
+102,636
+102,636
+20,781
+20,781
+Add: Limitation of exclusion of core deposit intangible (80%)
+N/A
+3,261
+N/A
+Adjusted goodwill and intangible assets
+102,636
+99,375
+20,781
+20,346
+Tangible common equity
+$
+399,391
+$
+402,652
+$
+286,306
+$
+286,741
+Tangible assets
+Total assets
+$
+6,212,189
+$
+6,212,189
+$
+3,040,837
+$
+3,040,837
+Less: Adjusted goodwill and intangible assets
+102,636
+99,375
+20,781
+20,346
+Tangible assets
+$
+6,109,553
+$
+6,112,814
+$
+3,020,056
+$
+3,020,491
+Common equity to total assets
+8.08
+%
+8.08
+%
+10.10
+%
+10.10
+%
+Tangible common equity to tangible assets
+6.54
+%
+6.59
+%
+9.48
+%
+9.49
+%
+The non-GAAP intangible asset exclusion reflects the 80% core deposit limitation per Basel III guidelines within risk based capital calculations, and is useful for the Company when reviewing risk based capital ratios and equity performance metrics.
+Liquidity
+Liquidity is our ability to fund operations, to meet depositor withdrawals, to provide for customer’s credit needs, and to meet maturing obligations and existing commitments. Our liquidity principally depends on cash flows from net operating activities, including pledging requirements, investment in, and both maturity and repayment of assets, changes in balances of deposits and borrowings, and our ability to borrow funds. In addition, the Company’s liquidity depends on the Bank’s ability to pay dividends, which is subject to certain regulatory requirements. See “Supervision and Regulation­ Dividend Payments.” We continually monitor our cash position and borrowing capacity as well as perform stress tests of contingency funding no less frequently than quarterly as part of our liquidity management process. Stress testing of liquidity for contingency funding purposes includes tests that outline scenarios for specifically identified liquidity risk events, which are then aggregated into a Bank-wide assessment of liquidity risk stress levels. The outcomes of these tests are reviewed by management monthly and our Board of Directors quarterly. Cash and cash equivalents at the end of 2021 totaled $752.1 million, compared to $329.9 million at December 31, 2020, and $50.6 million as of December 31, 2019.
+Net cash inflows from operating activities were $31.0 million during 2021, compared with inflows of $26.0 million in 2020 and inflows of $52.6 million in 2019. Proceeds from sales of loans held-for-sale, net of funds used to originate loans held-for-sale, was a source of inflows for 2021, 2020 and 2019. Interest received, net of interest paid, combined with changes in other assets and liabilities were a source of outflows in 2021 and 2020, and inflows in 2019. Management of investing and financing activities, as well as market conditions, determines the level and the stability of net interest cash flows in 2021. Management’s policy is to mitigate the impact of changes in market interest rates to the extent possible as part of our balance sheet management process.
+Net cash inflows from investing activities were $132.9 million in 2021, compared to $103.8 million of outflows in 2020, and $42.2 million of inflows in 2019. The West Suburban acquisition in December 2021 resulted in net cash inflows of $149.0 million in 2021. Excluding the West Suburban acquisition, loans decreased by $122.1 million in 2021, primarily due to the forgiveness or payoff of PPP loans issued in 2020 and early 2021. Loan growth resulted in $103.9 million of cash outflows for 2020, compared to $34.4 million of cash outflows in 2019. In 2021, security transactions resulted in net cash outflows of $141.3 million, primarily to utilize the excess liquidity on hand as well as reposition the portfolio to higher credit, lower duration securities after the West Suburban acquisition, and proceeds from the sale of OREO assets resulted in net cash inflows of $5.8 million. In 2020, securities transactions accounted for net inflows of $831,000, and proceeds from the sales of OREO assets accounted for inflows of $3.3 million. In 2019, securities transactions accounted for net inflows of $77.0 million, whereas proceeds from the sale of OREO assets accounted for inflows of $2.8 million.
+Net cash inflows from financing activities in 2021 were $258.2 million, primarily due to the issuance of $60.0 million of subordinated debentures in April 2021, compared to net cash inflows in 2020 of $357.1 million, primarily due to deposit growth, and net cash outflows for financing activities of $99.5 million in 2019. Significant cash inflows from financing activities in 2021 also included growth in deposit accounts of $235.1 million, excluding the impact of the West Suburban deposits acquired, and significant outflows from financing activities in 2020 also included a reduction in other short-term borrowings of $48.5 million, and redemption of the OSBC Capital Trust I junior subordinated debentures of $32.6 million. Significant cash outflows from financing activities in 2019 included decreases of $101.0 million in other short-term borrowings with the FHLBC and the US Bank line of credit payoff.
+Commitments and Off-balance sheet arrangements
+Derivative contracts, which include contracts under which we either receive cash from, or pay cash to, counterparties reflecting changes in interest rates are carried at fair value on our Consolidated Balance Sheet as disclosed in Note 18 of the Notes to the Consolidated Financial Statements provided in Part II, Item 8, “Financial Statements and Supplementary Data”. Because the fair value of derivative contracts changes daily as market interest rates change, the derivative assets and liabilities recorded on the balance sheet at December 31, 2021, do not necessarily represent the amounts that may ultimately be paid.
+Assets under management and assets under custody are held in fiduciary or custodial capacity for clients. In accordance with GAAP, these assets are not included on our balance sheet.
+Financial instruments with off-balance sheet risk address the financing needs of our clients. These instruments include commitments to extend credit as well as performance, standby and commercial letters of credit. Further discussion of these commitments is included in Note 14 - Commitments in the accompanying notes to the consolidated financial statements.
+The following table details the amounts and expected maturities of significant commitments to extend credit as of December 31, 2021:
+Within
+One to
+Three to
+Over
+(In thousands)
+One Year
+Three Years
+Five Years
+Five Years
+Total
+Commercial secured by real estate
+$
+83,934
+$
+89,325
+$
+67,742
+$
+6,402
+$
+247,403
+Revolving open end residential
+66,806
+46,999
+10,593
+84,127
+208,525
+Other unused loan commitments, including commercial and industrial
+374,507
+134,648
+13,398
+1,409
+523,962
+Financial standby letters of credit (borrowers)
+16,270
+1,503
+-
+17,858
+Performance standby letters of credit (borrowers)
+8,581
+6,437
+-
+15,363
+Performance standby letters of credit (others)
+-
+-
+-
+Total
+$
+550,165
+$
+278,912
+$
+92,163
+$
+91,938
+$
+1,013,178

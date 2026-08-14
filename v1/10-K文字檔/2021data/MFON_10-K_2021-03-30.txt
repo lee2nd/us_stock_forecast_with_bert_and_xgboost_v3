@@ -1,0 +1,210 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+﻿
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the financial statements and the related notes and other information that are included elsewhere in this Form 10-K. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties, such as our plans, objectives, expectations, and intentions. Actual results and the timing of events could differ materially from those anticipated in these forward looking statements as a result of a number of factors, including those set forth under the cautionary note regarding “Forward Looking Statements” contained in Item 1.A - “Risk Factors”.
+﻿
+Overview
+﻿
+Mobivity Holdings Corp. (the “Company” or “we”) is in the business of developing and operating proprietary platforms over which brands and enterprises can conduct national and localized, data-driven marketing campaigns.
+﻿
+Mobivity’s Recurrency platform enables multi-unit retailers to leverage the power of their own data to yield maximum customer spend, frequency and loyalty while achieving the highest Return on Marketing Spend (ROMS) possible. Mobivity’s customers use Recurrency to:
+·
+Transform messy point-of-sale (POS) data collected from thousands of points of sale into usable intelligence.
+·
+Measure, predict, and boost guest frequency and spend by channel.
+·
+Deploy and manage one-time use offer codes and attribute sales accurately across every channel, promotion and media program.
+·
+Deliver 1:1 promotions and offers with customized Mobile Messaging, Personalized Receipt Promotions and Integrated Loyalty programs.
+Mobivity’s Recurrency, delivered as a SaaS platform, is used by leading brands including Subway, Sonic Drive-In, Chick-fil-A, Checkers/Rally’s and Circle K’s across more than 40,000 retail locations globally.
+We’re living in a data-driven economy. In fact, by 2003 - when the concept of “big data” became common vernacular in marketing - as much data was being created every two day as had been created in all of time prior to 2003. Today, Big Data has grown at such a rate that 90% of the world’s data has been created in the past two years. Unfortunately, despite there being so much data accumulated, only one percent of data is being utilized today by most businesses.
+﻿
+			
+		
+The challenge for multi-unit retailers isn’t that they don’t have enough data; in fact, national retailers are collecting millions of detailed transactions daily from thousands of points of sale around the world. The challenge is being able to make sense of this transaction data, which is riddled with data entry errors, collected by multiple POS systems and complicated by a taxonomy compiled by thousands of different franchisee owners. To normalize such an overwhelming amount of data into usable intelligence and then leverage it to optimize media investment and promotion strategy requires numerous teams of data analysts and data scientists that many retailers and restaurant operators simply don’t have. Which is why so many technology and data companies, that can help solve these challenges, have been invested in and acquired by brands including, McDonald’s, Starbucks and Yum Brands.
+﻿
+Mobivity’s Recurrency platform fills this need with a self-service SaaS offering, enabling operators to intelligently optimize their promotions, media and marketing spend. Recurrency drives system-wide sales producing on average a 13% increase in guest spend and a 26% improvement in frequency, ultimately delivering an average Return on Marketing Spend of 10X. In other words, for every dollar invested in marketing, retailers using Recurrency to manage, optimize and deliver multi-channel consumer promotions generate an average of ten dollars in incremental revenue from their customers.
+Recent Events
+﻿
+Unsecured Promissory Note Investments in 2019
+﻿
+During the year ended December 31, 2019, we conducted a private placement of Unsecured Promissory Notes (individually, a “Note” and collectively, the “Notes”) to one of our directors in the principal aggregate amount of $3,500,000, which are due and payable two years after issuance. These Notes bear interest on the unpaid balance at the rate of fifteen percent (15%) per annum. The Company may prepay any of the Notes without notice, subject to a two percent (2%) pre-payment penalty. We conducted the private placement of our securities in July 2019. The Note holder participated in the private placement described below, by settling principal of $2,500,000 and accrued interest under the notes totaling $82,916, into 2,582,916 units of our securities. The remaining 2019 Notes for $1,000,000 aggregated principal were settled with the December of 2020 private placement described below.
+﻿
+2019 Private Placement
+﻿
+In July 2019, we commenced a private placement of 7,000,000 units of our securities, at a price of $1.00 per unit. Each unit consists of one share of our common stock and a common stock purchase warrant to purchase one-half share of our common stock, over a two- year period, at an exercise price of $1.25 per share. The offering was conducted by our management and no commission or other selling fees were paid by us. During the year ended December 31, 2019 we issued 5,382,916 units under this placement, of which 2,582,916 units were issued in connection with a settlement of $2,582,916 of principal and accrued interest under the unsecured promissory Notes described in the preceding paragraph.
+﻿
+Unsecured Promissory Note Investments in 2020
+﻿
+During the year ended December 31, 2020, we issued to one of our directors, unsecured Notes in the principal aggregate amount of $700,000, which are due and payable two years after issuance. These Notes bear interest on the unpaid balance at the rate of fifteen percent (15%) per annum. The Company may prepay any of the Notes without notice, subject to a two percent (2%) pre-payment penalty. We conducted the private placement of our securities in December 2020. The Note holder participated in the warrant exercise described below and settled principal of $1,200,000 principal under our 2019 and 2020 private placement Notes in addition to accrued interest under the notes totaling $192,208, into 1,113,767 shares of our common stock. As of December 31, 2020, we have $500,000 as a remaining balance of these 2020 Notes and accrued interest of $8,958.
+﻿
+On April 10, 2020, we entered into a commitment loan with Chase Bank, N.A. under the CARES act and SBA Paycheck Protection Program, in the principal aggregate amount of $891,103, which is due and payable two years after issuance. This note bears interest on the unpaid balance at the rate of one percent (1%) per annum. The note contains a deferral period of six months, for which no interest or principal payments are due. Forgiveness of the loan may be obtained by meeting certain SBA requirements.
+﻿
+On April 22, 2020, we entered into a commitment loan with TD Bank under the Canadian Emergency Business Account (“CEBA”), in the principal aggregate amount of $40,000 CAD, which is due and payable on December 31, 2022. This note bears interest on the unpaid balance at the rate of zero percent (0%) per annum during the initial term. Under this note no interest or principal payments are due until January 1, 2023. Under the conditions of the loan, twenty-five percent (25%) of the loan will be forgiven if seventy-five percent (75%) is repaid prior to the initial term date.
+﻿
+			
+		
+2020 Warrant Exercises
+﻿
+On March 2, 2020 one warrant holder exercised their common stock purchase warrant for 234,500 shares at the exercise price of $1.00 per share, resulting in additional capital of $234,500. In December 2020, we conducted an offer to the holders of our outstanding common stock purchase warrants pursuant to which our warrant holders will be permitted to exercise their warrants at a reduced exercise price for a period expiring on December 18, 2020. At the commencement of the December warrant offer, there were warrants outstanding that entitled their holders to purchase 2,691,459 shares of our common stock at exercise prices of $1.25 per share. Pursuant to the offer, warrant holders exercised warrants to purchase 2,666,459 shares of our common stock, resulting in additional capital of $3,333,074. As an inducement for the holders’ exercise of the warrants, we issued the holders 2,666,459 new warrants to purchase common stock at $2.00 per share over a three-year period expiring in December 2023. The warrant offer was conducted by our management and there were no commissions paid by us in connection with the solicitation.
+﻿
+Results of Operations
+﻿
+Year Ended December 31, 2020 Compared to Year Ended December 31, 2019
+﻿
+Revenues
+﻿
+Revenues consist primarily of a suite of products under the Recurrency platform. The Recurrency platform is comprised of POS Data Capture, Analytics, Offers and Promotions, Predictive Offers, Personalized Receipt Promotions, Customized Mobile Messaging, Belly Loyalty, and other revenues.
+﻿
+Revenues for the twelve months ended December 31, 2020 were $13,255,887, an increase of $3,198,965, or 32%, compared to $10,056,922 for the twelve months ended December 31, 2019. This increase is primarily due to the addition of $3,061,931 of revenue from non-recurring engineering fees paid by a large customer to accelerate expanded capabilities of our Offers and Promotions solution.
+﻿
+Cost of Revenues
+﻿
+Cost of revenues consist primarily of cloud-based software licensing fees, short code maintenance expenses, personnel related expenses, and other expenses.
+﻿
+Cost of revenues for the twelve months ended December 31, 2020 was $4,748,444, a decrease of $1,189,854, or 20%, compared to $5,938,298 for the twelve months ended December 31, 2019. This decrease is primarily due to lower MMS messaging volume and decreased application costs associated with cost reduction initiatives by the Company, along with new revenues during the year that yielded higher margin. The gross profit margin was 64% and 41% for the for the twelve months ended December 31, 2020 and 2019, respectively.
+﻿
+General and Administrative
+﻿
+General and administrative expenses consist primarily of salaries and personnel related expenses, stock-based compensation expense, consulting costs and other expenses.
+﻿
+General and administrative expenses for the twelve months ended December 31, 2020 were $3,917,935, a decrease of $1,670,394, or 30%, compared to $5,588,329 for the twelve months ended December 31, 2019. The decrease in general and administrative expense was primarily due to an decrease in personnel, legal fees related to a one-time non-recurring legal charge incurred in 2019, and stock-based compensation expenses.
+﻿
+Sales and Marketing Expense
+﻿
+Sales and marketing expenses consist primarily of salaries and personnel related expenses, stock-based compensation expense, sales travel, consulting costs and other expenses.
+﻿
+Sales and marketing expenses for the twelve months ended December 31, 2020 were $2,325,709, a decrease of $381,647, or 14%, compared to $2,707,356 for the twelve months ended December 31, 2019. The decrease was primarily due to lower personnel and share based compensation expenses.
+﻿
+Engineering, Research, and Development Expense
+﻿
+Engineering, research, and development expenses consist primarily of salaries and personnel related expenses, stock-based compensation expense, consulting costs and other expenses.
+﻿
+			
+		
+Engineering, research, and development expenses for the twelve months ended December 31, 2020 were $3,535,742, a decrease of $74,226, or 2%, compared to $3,609,968 for the twelve months ended December 31, 2019. The decrease in engineering, research, and development expense was primarily due to the company proactively reducing vendor costs.
+﻿
+Depreciation and Amortization Expense
+﻿
+Depreciation and amortization expense consist of depreciation on our equipment and amortization of our intangible assets.
+﻿
+Depreciation and amortization expenses for the twelve months ended December 31, 2020 were $674,942, an increase of $74,876, or 12%, compared to $600,066 for the twelve months ended December 31, 2019. This increase is primarily attributable to the increased amortization of our developed and acquired technologies.
+﻿
+Interest Income
+﻿
+Interest income consists of stated interest income on our cash balances.
+﻿
+Interest income for the twelve months ended December 31, 2020 was $1,221, compared to $28,160 for the twelve months ended December 31, 2019. This decrease of $26,939, or 96%, related to lower earnings on cash positions held throughout the year as compared to the prior year.
+﻿
+Interest Expense
+﻿
+Interest expense consists of stated or implied interest expense on our notes payable, amortization of note discounts, and amortization of deferred financing costs.
+﻿
+Interest expense for the twelve months ended December 31, 2020 was $286,896, an increase of $50,190, or 21%, compared to $236,706 for the twelve months ended December 31, 2019. The increase is primarily attributable to the interest on short- and long-term borrowings during the year.
+﻿
+Loss on Disposal of Fixed Assets
+﻿
+Loss on disposal of fixed assets consists of an asset being disposed of for less than its carrying value.
+﻿
+Loss on disposal of fixed assets for the twelve months ended December 31, 2020 was $8,808, an increase of 100%, compared to the twelve months ended December 31, 2019.
+﻿
+Impairment on Intangible Assets
+﻿
+Impairment of intangible assets consists of an intangible asset valued at less than its carrying value.
+﻿
+Loss on the impairment of intangible assets for the twelve months ended December 31, 2020 was $8,886, an increase of 100%, compared to the twelve months ended December 31, 2019.
+﻿
+Loss on Settlement of Debt
+﻿
+Loss on settlement of debt consists of loss recognized with the conversion of related party notes that were converted to equity.
+﻿
+The loss on settlement for the twelve months ended December 31, 2020 was $668,260, an increase of $435,798, or 187%, compared to $232,462 for the twelve months ended December 31, 2019.
+﻿
+			
+		
+Foreign Currency
+﻿
+The Company’s financial results are impacted by volatility in the Canadian/U.S. Dollar exchange rate. The average U.S. Dollar exchange rate for the year ended December 31, 2020 and 2019 was $1 Canadian equals $0.75 and $0.75 U.S. Dollars, respectively. The Company’s functional or measurement currency is the U.S. Dollar. Based on a U.S. Dollar functional currency, the following are the key areas impacted by foreign currency volatility:
+﻿
+·
+The Company sells products primarily in U.S. Dollars; therefore, reported revenues are not highly impacted by foreign currency volatility.
+·
+A portion of the Company’s expenses are incurred in Canadian Dollars and therefore fluctuate in U.S. Dollars as the U.S. Dollar varies. A weaker U.S. Dollar results in an increase in translated expenses, and a stronger U.S. Dollar results in a decrease.
+·
+Changes in foreign currency rates also impact the translated value of the Company’s working capital that is held in Canadian Dollars. Foreign exchange rate fluctuations result in foreign exchange gains or losses based upon movement in the translated value of Canadian working capital into U.S. Dollars.
+﻿
+The change in foreign currency was a gain of $117 and $6,129 for the years ended December 31, 2020 and 2019, respectively.
+Liquidity and Capital Resources
+﻿
+We have $3,282,820 of cash as of December 31, 2020. We had a net loss of $2.9 million for the year then ended, and we used $1.3 million of cash in our operating activities during 2020. Based on our projected 2021 results and, if necessary, our ability to reduce certain variable operating expenses, we believe that our existing capital, and operations, will be sufficient to finance our operations through 2021.
+﻿
+If our cash reserves prove insufficient to sustain operations, we plan to raise additional capital by selling shares of capital stock or other equity or debt securities. However, there are no commitments or arrangements for future financings in place at this time, and we can give no assurance that such capital will be available on favorable terms or at all. We may need additional financing thereafter until we can achieve profitability. If we cannot, we will be forced to curtail our operations or possibly be forced to evaluate a sale or liquidation of our assets. Any future financing may involve substantial dilution to existing investors.
+﻿
+Although we are actively pursuing financing opportunities, we may not be able to raise cash on terms acceptable to us or at all. There can be no assurance that we will be successful in obtaining additional funding. Financings, if available, may be on terms that are dilutive to our shareholders, and the prices at which new investors would be willing to purchase our securities may be lower than the current price of our ordinary shares. The holders of new securities may also receive rights, preferences or privileges that are senior to those of existing holders of our ordinary shares. If additional financing is not available or is not available on acceptable terms, we will have to curtail our operations in the short term.
+﻿
+Cash Flows
+﻿
+﻿
+﻿
+Operating Activities
+﻿
+We used cash in operating activities totaling $1,329,111 in 2020 and $5,749,595 in 2019, respectively. The decrease in cash used in operating activities in 2020 compared to 2019 was due primarily to a decrease in net loss by $5,903,577 offset by non-cash adjustments related to contracts receivable of ($572,441) and changes in accounts payable of ($1,321,012).
+﻿
+			
+		
+Investing Activities
+﻿
+Investing activities during 2020 included $266,365 of capitalized software development costs, $17,505 of purchases related to securing new patents and $13,325 of equipment purchases. Investing activities during 2019 included $539,931 of capitalized software development costs, $5,025 of purchases related to securing new patents, and $12,277 of equipment purchases.
+﻿
+Financing Activities
+﻿
+Financing activities for 2020 include net proceeds from the sale of common stock units of $3,574,775, proceeds from related party notes payable of $700,000 and $920,990 from other notes payable, offset by payments on notes payable of $473,586 and payments of related party notes payable of $60,700. Financing activities for 2019 include net proceeds from the sale of common stock units of $2,800,000, proceeds from related party notes payable of $3,500,000 offset by payments on notes payable of $305,345.
+﻿
+Critical Accounting Policies and Estimates
+﻿
+We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial statements requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the reporting period. Our management periodically evaluates the estimates and judgments made, including those related to share-based compensation and valuation of the derivative liability. Management bases its estimates and judgments on historical experience and on various factors that are believed to be reasonable under the circumstances. Actual results may differ from these estimates.
+﻿
+The following critical accounting policies affect the more significant judgments and estimates used in the preparation of the Company’s consolidated financial statements.
+﻿
+Income Taxes
+﻿
+We account for income taxes using the assets and liability method, which recognizes deferred tax assets and liabilities determined based on the difference between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to affect taxable income. Valuation allowances are established to reduce deferred tax assets when, based on available objective evidence, it is more likely than not that the benefit of such assets will not be realized. We recognize in the consolidated financial statements only those tax positions determined to be more likely than not of being sustained.
+﻿
+Revenue Recognition and Concentrations
+﻿
+Our Recurrency platform is a hosted solution. We generate revenue from licensing our software to clients in our software as a service model, per-message and per-minute transactional fees, and customized professional services. We recognize license/subscription fees over the period of the contract, service fees as the services are performed, and per-message or per-minute transaction revenue when the transaction takes place. Under Topic 606, revenue is recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. We consider authoritative guidance on multiple deliverables in determining whether each deliverable represents a separate unit of accounting. Some customers are billed on a month-to-month basis with no contractual term and are collected by credit card or electronic funds transfer. Revenue is recognized at the time that the services are rendered, and the selling price is fixed with a set range of plans. Cash received in advance of the performance of services is recorded as deferred revenue.
+﻿
+Accounting Standards Update (“ASU“) No. 2014-09, Revenue from Contracts with Customers (Accounting Standards Codification 606 (“ASC 606”), is a comprehensive revenue recognition standard that superseded nearly all existing revenue recognition guidance. The Company adopted this standard effective January 1, 2018, applying the modified retrospective method. Upon adoption, the Company discontinued revenue deferral under the sell-through model and commenced recording revenue upon delivery to distributors, net of estimated returns. Generally, the new standard results in earlier recognition of revenues.
+﻿
+We determine revenue recognition through the following steps:
+﻿
+·
+identification of the contract, or contracts, with a customer;
+·
+identification of the performance obligations in the contract;
+·
+determination of the transaction price;
+·
+allocation of the transaction price to the performance obligations in the contract; and
+·
+recognition of revenue when, or as, we satisfy a performance obligation.
+﻿
+During the years ended December 31, 2020 and 2019, two customers accounted for 77% and 70% of our revenues, respectively.
+			
+		
+﻿
+Share-based compensation expense
+﻿
+Share-based compensation cost is measured at the date of grant, based on the calculated fair value of the stock-based award, and is recognized as expense over the employee’s requisite service period (generally the vesting period of the award). We estimate the fair value of employee stock options granted using the Black-Scholes Option Pricing Model. Key assumptions used to estimate the fair value of stock options include the exercise price of the award, the fair value of our common stock on the date of grant, the expected option term, the risk-free interest rate at the date of grant, the expected volatility and the expected annual dividend yield on our Company’s common stock. We have elected to account for forfeitures as they occur to determine the amount of compensation cost to be recognized in each period.
+﻿
+Derivative Financial Instruments
+﻿
+We do not use derivative instruments to hedge exposures to cash flow, market or foreign currency risks.
+﻿
+We review the terms of the common stock, warrants and convertible debt we issue to determine whether there are embedded derivative instruments, including embedded conversion options, which are required to be bifurcated and accounted for separately as derivative financial instruments. In circumstances where the host instrument contains more than one embedded derivative instrument, including the conversion option, that is required to be bifurcated, the bifurcated derivative instruments are accounted for as a single, compound derivative instrument.
+﻿
+Off-Balance Sheet Arrangements
+﻿
+We have no off-balance sheet arrangements.
+			
+		
+﻿

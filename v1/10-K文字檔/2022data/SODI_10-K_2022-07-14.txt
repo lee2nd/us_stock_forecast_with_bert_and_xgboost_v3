@@ -1,0 +1,115 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+You should read the following discussion in conjunction with the “Financial Statements and Supplementary Data” section of this Annual Report on Form 10-K. You also should review and consider the risks relating to the Company’s business, operations, financial performance, and cash flows presented earlier under “Risk Factors.”
+INTRODUCTION
+The Company designs, develops, manufactures and markets solid-state semiconductor components and related devices primarily for the military and aerospace markets. The Company manufactures a large variety of bipolar and MOS power transistors, power and control hybrids, junction and power MOFSETs, field effect transistors and other related products. Most of the Company’s products are custom made pursuant to contracts with customers whose end products are sold to the United States government. Other products, such as JAN transistors, diodes and SMD voltage regulators, are sold as standard or catalog items.
+The following table is included solely for use in comparative analysis to complement Management’s Discussion and Analysis of Financial Condition and Results of Operations:
+The following table sets forth our statements of operations for the fiscal year periods indicated (in 000’s):
+The following table sets forth our statements of operations as a percentage of total revenue for the periods indicated:
+TRENDS AND UNCERTAINTIES:
+During the fiscal year ended February 28, 2022, the Company’s book-to-bill ratio was approximately 0.63 to 1 as compared to approximately 1.12 to 1 for the fiscal year ended February 28, 2021, reflecting a decrease in the volume of orders booked. Historically, the Company has experienced seasonality in its bookings, with the fiscal fourth quarter experiencing the highest level of bookings. Going forward we expect more variability in bookings.
+The Company has been seeking out additional revenue sources, which may involve new products and/or products the Company has not manufactured in recent years, or before. The Company may incur difficulty manufacturing those products, which could result in decreased margins.
+RESULTS OF OPERATIONS
+Comparison of Fiscal Year Ended February 28, 2022 vs. Fiscal Year Ended February 28, 2021
+Revenue. Net sales for the fiscal year ended February 28, 2022 increased by approximately 17% to $12,284,000 versus $10,534,000 for the fiscal year ended February 28, 2021.
+Net bookings for the fiscal year ended February 28, 2022 were approximately 37% less than net sales. Backlog decreased by approximately 51% to $4,464,000 as of February 28, 2022 from $9,150,000 as of February 28, 2021. The decrease was due to decreased order activity by our customers. Historically we received a single yearly order from our largest program with Raytheon in the fiscal fourth quarter. In fiscal 2022 the order was broken into four smaller orders some of which was received in the fiscal fourth quarter of fiscal 2022 and the balance in the first quarter of fiscal 2023. We believe that in addition to the change noted above, the overall decline in fiscal 2022 bookings was also due to external factors such as the inability of our sales team to make onsite sales visits due to Covid, slower ordering times by customers due to work from home, and the variable nature of contract orders. We expect these factors to continue into the second quarter of fiscal 2023.
+During the fiscal year ended February 28, 2022, the Company shipped 108,176 units as compared with 78,811 units shipped during the fiscal year ended February 28, 2021. It should be noted that since the Company manufactures a wide variety of products with an average sales price ranging from a few dollars to several hundred dollars, such periodic variations in the Company’s volume of units shipped might not be a reliable indicator of the Company’s performance.
+Cost of Sales. Cost of sales for the fiscal year ended February 28, 2022 increased to $7,485,000 from $7,257,000 for the fiscal year ended February 28, 2021. Expressed as a percentage of sales, cost of sales decreased to 61% for the fiscal year ended February 28, 2022 as compared to 69% for the fiscal year ended February 28, 2021.
+Gross Profit. Gross profit for the fiscal year ended February 28, 2022 increased to $4,799,000 from $3,277,000 for the fiscal year ended February 28, 2021 due primarily to increased net sales and productivity. Expressed as a percentage of sales, gross profit for the fiscal year ended February 28, 2022 increased to 39% as compared to 31% for the fiscal year ended February 28, 2021.
+Selling, General & Administrative Expenses. During the fiscal year ended February 28, 2022, selling, general and administrative expenses, as a percentage of sales, were unchanged at approximately 20% as compared to 20% for the year ended February 28, 2021. In terms of dollars, selling, general and administrative expenses increased 19% to $2,507,000 for the fiscal year ended February 28, 2022 from $2,108,000 for the fiscal year ended February 28, 2021. This increase is primarily due to an increase in selling and marketing costs of $144,000 due to increased net sales, increased legal fees of $114,000, increased professional fees of $85,000, and increased bonuses of $20,000.
+Operating Income. Operating income for the fiscal year ended February 28, 2022 was $2,292,000 as compared to an operating income of $1,169,000 for the fiscal year ended February 28, 2021. The increase in operating income was mainly attributable to the increase in net sales.
+Total Other Income. Interest income and dividend income were $0 and $5,000, respectively for the fiscal year ended February 28, 2022, compared to $0 and $7,000, respectively for the fiscal year ended February 28, 2021. Interest expense was ($103,000) for the fiscal year ended February 28, 2022, compared to ($5,000) for the fiscal year ended February 28, 2021. The increased expense was primarily due to interest on the mortgage loan on the new building purchased in fiscal 2022. Realized gains on investments for the fiscal year ended February 28, 2022 were $68,000 compared to gains of $98,000 for the fiscal year ended February 28, 2021. Unrealized gains (loss) on investments for the fiscal year ended February 28, 2022 decreased to a loss of ($24,000) from gains of $36,000 for the fiscal year ended February 28, 2021. Gain on PPP loan forgiveness in the fiscal year ended February 28, 2022 was $812,000 as compared to $0 in the fiscal year ended February 28, 2021. Scrap income was $441,000 in the fiscal year ended February 28, 2022 as compared to $76,000 in the fiscal year ended February 28, 2021. Other income was $17,000 in the fiscal year ended February 28, 2022 as compared to $0 in the fiscal year ended February 28, 2021.
+Net Income. Net income for the fiscal year ended February 28, 2022 was $3,508,000 as compared to net income of $1,381,000 for the fiscal year ended February 28, 2021. The increase in net income was mainly attributable to the increase in net sales.
+LIQUIDITY AND CAPITAL RESOURCES
+Operating Activities:
+Net cash provided by (used in) operating activities was $3,334,000 for the year ended February 28, 2022 primarily reflecting net income of $3,508,000, a decrease in inventories of $461,000, and depreciation of $264,000 partially offset by a gain on PPP loan forgiveness of $812,000 and an increase in accounts receivable of $285,000.
+Net cash provided by (used in) operating activities was $1,674,000 for the year ended February 28, 2021 primarily reflecting net income of $1,381,000, an increase in accrued expenses and other current and non-current liabilities of $296,000, and depreciation of $225,000 partially offset by increased prepaid expense and other current assets of $254,000, and a decrease in accounts payable of $104,000.
+Investing Activities:
+Net cash provided by (used in) investing activities was ($5,889,000) for the year ended February 28, 2022 principally reflecting ($4,890,000) in purchases of property and equipment, ($660,000) in purchases of marketable securities, and ($609,000) in expenditures on construction in progress, partially offset by $270,000 from proceeds from the sale of marketable securities.
+Net cash provided by (used in) investing activities was ($22,000) for the year ended February 28, 2021 principally reflecting $530,000 in proceeds from sales of securities, partially offset by $477,000 from the purchases of securities, and $75,000 from the purchases of property, plant and equipment.
+Financing Activities:
+Net cash provided by (used in) financing activities was $2,858,000 for the year ended February 28, 2022, reflecting proceeds from mortgage loan of $2,940,000, partially offset by ($82,000) in principal payments on the mortgage loan.
+Net cash provided by (used in) financing activities was $801,000 for the year ended February 28, 2021, reflecting proceeds from the SBA Paycheck Protection Program loan of $807,000, partially offset by ($6,000) in treasury stock purchases.
+We expect our sole source of liquidity over the next twelve months to be cash from operations and cash and cash equivalents, if necessary. We anticipate that our capital expenditures required during the next twelve months to sustain operations will be approximately $0.3 million, and completion of renovations to our new facility will be approximately $1.6 million, and will be funded from operations and cash and cash equivalents, if necessary.
+We anticipate that once we have completed our relocation to our new facility and headquarters we will realize annual, aggregate cost savings of approximately $1.0 million, consisting of the elimination of the $40,000 monthly rent, reduced costs for gases and utilities due to the smaller footprint of the new facility and headquarters, the Company’s decision to not relocate and operate the Company’s wafer fab at the new facility and headquarters, payroll savings and insurance cost savings.
+At February 28, 2022 and February 28, 2021, the Company had cash and cash equivalents of approximately $4,088,000 and $3,785,000, respectively. The cash increase for the year ended February 28, 2022 was primarily due to income from operations and scrap income.
+At February 28, 2022 and February 28, 2021, the Company had investments in securities of approximately $684,000 and $248,000, respectively.
+At February 28, 2022, the Company had working capital of $7,660,000 as compared with working capital at February 28, 2021 of $7,049,000. The increase for the year ended February 28, 2022 was due primarily to income from operations and scrap income.
+Stock Repurchase Program:
+On January 15, 2016, the Board of Directors amended the Company’s previously authorized stock repurchase program to permit the Company to acquire up to $1,000,000 of its outstanding common stock from time to time, increasing the Company’s authorization from the $720,000 remaining at that time and eliminating the expiration date of February 29, 2016. Purchases under the amended stock repurchase program may be made through the open market or privately negotiated transactions as determined by the Company’s management, and in accordance with the requirements of the Securities and Exchange Commission. The timing and actual number of shares repurchased will depend on a variety of factors including price, corporate and regulatory requirements and other conditions.
+The Company repurchased 16 shares for $145.50, or $9.09 per share, under the stock repurchase program during the fiscal year ended February 28, 2022, and 2,493 shares for $5,734, or $2.30 per share, under the stock repurchase program during the fiscal year ended February 28, 2021.
+The Company was notified by its transfer agent of a 10 share reduction to outstanding shares during the fiscal year ended February 28, 2022.
+CRITICAL ACCOUNTING POLICIES:
+See Note 2 in the financial statements for the Company’s significant accounting policies. Of the Company’s accounting policies, the following are considered to be critical - Revenue Recognition and Inventories.
+OFF-BALANCE SHEET ARRANGEMENTS
+The Company has not engaged in any off-balance sheet arrangements.
+BOOKINGS AND BACKLOG
+During the fiscal year ended February 28, 2022, the Company’s net bookings were $7,719,000 in new orders as compared with $11,827,000 for the year ended February 28, 2021, reflecting a decrease in bookings of approximately 35%. The Company’s backlog decreased to $4,464,000 at February 28, 2022 as compared with $9,150,000 as of February 28, 2021, reflecting a decrease of approximately 51% in backlog.
+In the event that bookings in the long-term decline significantly below the level experienced in the last fiscal year, the Company may be required to implement cost-cutting or other downsizing measures to continue its business operations. Such cost-cutting measures could inhibit future growth prospects. For the years ended February 28, 2022 and February 28, 2021, the entire backlog consisted of orders for electronic components.
+See Part I, Item 1, “Business - Marketing and Customers” and “Backlog.”
+FUTURE PLANS
+The Company is in the process of completing the construction of the manufacturing portion of its recently purchased building and expects to be finished by July 2022, with the relocation scheduled for August 2022. The Company believes that its facility in West Palm Beach, once completed, will be more efficient and a more attractive location for employees.
+The Company plans to continue its efforts in selling commercial semiconductors and power modules and to develop appropriate strategic alliance arrangements. If these plans are successful, the Company intends to aggressively pursue sales of these products which could require the Company to invest in the building up of inventories of finished goods and invest in capital equipment (assembly and test) to replace older generation equipment and to support new product manufacturing. Any financing necessary to fund these initiatives could come from equipment leasing, among other financing alternatives. Despite its intentions, the Company cannot assure you that any of the above-described plans will be successful in increasing liquidity, reducing costs or improving sales.
+Based on various factors, including the Company’s desire to fully utilize its current net operating loss carryforwards, the Company may explore certain transactions or actions, including acquisitions, additional product lines, and/or investing a portion of its cash into common stocks or higher yielding debt instruments. The Company will continue to consider additional share repurchases under the Company's stock repurchase program in light of market conditions and the Company's liquidity needs and capital commitments.
+INFLATION
+The rate of inflation has not had a material effect on the Company’s revenues and costs and expenses, and it is not anticipated that inflation will have a material effect on the Company in the near future.
+SEASONALITY
+The Company’s bookings of new orders and sales are largely dependent on congressional budgeting and appropriation activities and the cycles associated therewith. The Company has historically experienced a decreased level of bookings during the summer months as a result of a slowdown in the level of budgeting and appropriation activities.
+FORWARD-LOOKING STATEMENTS
+Some of the statements in this Annual Report on Form 10-K are “forward-looking statements,” as that term is defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements include statements regarding our business, financial condition, results of operations, strategies or prospects. You can identify forward-looking statements by the fact that these statements do not relate strictly to historical or current matters. Rather, forward-looking statements relate to anticipated or expected events, activities, trends or results. Because forward-looking statements relate to matters that have not yet occurred, these statements are inherently subject to risks and uncertainties. Many factors could cause our actual activities or results to differ materially from the activities and results anticipated in forward-looking statements. These factors include those described under the caption “Risk Factors” in this Annual Report on Form 10-K, including those identified below. We do not undertake any obligation to update forward-looking statements, except as required by law.
+Some of the factors that may impact our business, financial condition, results of operations, strategies or prospects include:
+·
+Loss of, or reduction of business from, substantial clients could hurt our business by reducing our revenues, profitability and cash flow.
+·
+Our complex manufacturing processes may lower yields and reduce our revenues.
+·
+Our business could be materially and adversely affected if we are unable to obtain qualified supplies of raw materials, parts and finished components on a timely basis and at a cost-effective price.
+·
+We are dependent on government contracts, which are subject to termination, price renegotiations and regulatory compliance, which can increase the cost of doing business and negatively impact our revenues.
+·
+Changes in government policy or economic conditions could negatively impact our results.
+·
+Our inventories may become obsolete and other assets may be subject to risks.
+·
+Environmental regulations could require us to incur significant costs.
+·
+Our business is highly competitive and increased competition could reduce gross profit margins and the value of an investment in our Company.
+·
+Changes in Defense related programs and priorities could reduce the revenues and profitability of our business.
+·
+Our operating results may decrease due to the decline of profitability in the semiconductor industry.
+·
+Uncertainty of current economic conditions, domestically and globally, could continue to affect demand for our products and negatively impact our business.
+·
+We may not achieve the intended effects of our business strategy, which could adversely impact our business, financial condition and results of operations.
+·
+Our inability to introduce new products could result in decreased revenues and loss of market share to competitors; new technologies could also reduce the demand for our products.
+·
+The nature of our products exposes us to potentially significant product liability risk.
+·
+We depend on the recruitment and retention of qualified personnel and our failure to attract and retain such personnel could seriously harm our business.
+·
+Provisions in our charter documents could make it more difficult to acquire our Company and may reduce the market price of our stock.
+·
+Natural disasters, like hurricanes, or occurrences of other natural disasters whether in the United States or internationally may affect the markets in which our common stock trades, the markets in which we operate and our profitability.
+·
+Failure to protect our proprietary technologies or maintain the right to use certain technologies may negatively affect our ability to compete.
+·
+We cannot guarantee that we will have sufficient capital resources to make necessary investments in manufacturing technology and equipment.
+·
+We may make substantial investments in plant and equipment that may become impaired.
+·
+While we attempt to monitor the credit worthiness of our customers, we may be at risk due to the adverse financial condition of one or more customers.
+·
+Our international operations expose us to material risks, including risks under U.S. export laws.
+·
+Security breaches and other disruptions could compromise the integrity of our information and expose us to liability, which would cause our business and reputation to suffer.
+·
+The price of our common stock has fluctuated widely in the past and may fluctuate widely in the future.
+·
+We cannot guarantee that we will declare future cash dividend payments, nor repurchase any shares of our common stock pursuant to our stock repurchase program.
+·
+Compliance with regulations regarding the use of "conflict minerals" could limit the supply and increase the cost of certain metals used in manufacturing our products.
+·
+Our failure to remediate the material weakness in our internal control over financial reporting or our identification of any other material weaknesses in the future may adversely affect the accuracy and timing of our financial reporting.
+·
+The COVID-19 pandemic may have a material adverse effect on our business, cash flows and results of operations.

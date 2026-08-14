@@ -1,0 +1,114 @@
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS.
+You should read the following discussion in conjunction with the “Financial Statements and Supplementary Data” section of this Annual Report on Form 10-K. You also should review and consider the risks relating to the Company’s business, operations, financial performance, and cash flows presented earlier under “Risk Factors.”
+INTRODUCTION
+The Company designs, develops, manufactures and markets solid-state semiconductor components and related devices primarily for the military and aerospace markets. The Company manufactures a large variety of bipolar and MOS power transistors, power and control hybrids, junction and power MOFSETs, field effect transistors and other related products. Most of the Company’s products are custom made pursuant to contracts with customers whose end products are sold to the United States government. Other products, such as JAN transistors, diodes and SMD voltage regulators, are sold as standard or catalog items.
+The following table is included solely for use in comparative analysis to complement Management’s Discussion and Analysis of Financial Condition and Results of Operations:
+The following table sets forth our statements of operations for the fiscal year periods indicated (in 000’s):
+The following table sets forth our statements of operations as a percentage of total revenue for the periods indicated:
+TRENDS AND UNCERTAINTIES:
+During the fiscal year ended February 28, 2021, the Company’s book-to-bill ratio was approximately 1.12 to 1 as compared to approximately 1.22 to 1 for the fiscal year ended February 29, 2020, reflecting an increase in the volume of orders booked. Historically, the Company has experienced seasonality in its bookings, with the fiscal fourth quarter experiencing the highest level of bookings. Going forward we expect more variability in bookings.
+The Company has been seeking out additional revenue sources, which may involve new products and/or products the Company has not manufactured in recent years, or before. The Company may incur difficulty manufacturing those products, which could result in decreased margins.
+RESULTS OF OPERATIONS
+Comparison of Fiscal Year Ended February 28, 2021 vs. Fiscal Year Ended February 29, 2020
+Revenue. Net sales for the fiscal year ended February 28, 2021 increased by approximately 14% to $10,534,000 versus $9,237,000 for the fiscal year ended February 29, 2020.
+Net bookings for the fiscal year ended February 28, 2021 were greater than net sales by approximately 12%. Backlog increased by approximately 11% to $9,150,000 as of February 28, 2021 from $8,223,000 as of February 29, 2020. The increase was due to the development of new products and an increase in the dollar value of new orders by key customers.
+During the fiscal year ended February 28, 2021, the Company shipped 78,811units as compared with 75,313 units shipped during the fiscal year ended February 29, 2020. It should be noted that since the Company manufactures a wide variety of products with an average sales price ranging from a few dollars to several hundred dollars, such periodic variations in the Company’s volume of units shipped might not be a reliable indicator of the Company’s performance.
+Cost of Sales. Cost of sales for the fiscal year ended February 28, 2021 decreased to $7,257,000 from $7,762,000 for the fiscal year ended February 29, 2020. Expressed as a percentage of sales, cost of sales decreased to 69% for the fiscal year ended February 28, 2021 as compared to 84% for the fiscal year ended February 29, 2020.
+Gross Profit. Gross profit for the fiscal year ended February 28, 2021 increased to $3,277,000 from $1,475,000 for the fiscal year ended February 29, 2020 due primarily to a decrease in materials and labor. Expressed as a percentage of sales, gross profit for the fiscal year ended February 28, 2021 increased to 31% as compared to 16% for the fiscal year ended February 29, 2020.
+Selling, General & Administrative Expenses. During the fiscal year ended February 28, 2021, selling, general and administrative expenses, as a percentage of sales, decreased to approximately 20% as compared to 23% for the year ended February 29, 2020. In terms of dollars, selling, general and administrative expenses increased 0.2% to $2,108,000 for the fiscal year ended February 28, 2021 from $2,104,000 for the fiscal year ended February 29, 2020. This increase is primarily due to an increase in professional fees of $25,000 and sales commissions of $42,000, partially offset by a $207,000 decrease in stock based compensation.
+Operating Income (Loss). Operating income for the fiscal year ended February 28, 2021 was $1,169,000 as compared to an operating loss of ($629,000) for the fiscal year ended February 29, 2020. The decrease in operating loss was mainly attributable to the increase in net sales and decrease in materials and labor costs noted above.
+Total Other Income. Interest income and dividend income were $0 and $7,000, respectively for the fiscal year ended February 28, 2021, compared to $1,000 and $9,000, respectively for the fiscal year ended February 29, 2020. Interest expense was ($5,000) for the fiscal year ended February 28, 2021, compared to $0 for the fiscal year ended February 29, 2020. Realized gains on investments for the fiscal year ended February 28, 2021 were $98,000 compared to a loss of ($28,000) for the fiscal year ended February 29, 2020. Unrealized gains on investments for the fiscal year ended February 28, 2021 decreased to $36,000 from $41,000 for the fiscal year ended February 29, 2020. Other income consisting primarily of scrap income was $76,000 in the fiscal year ended February 28, 2021 as compared to $0 in the fiscal year ended February 29, 2020.
+Net Income (Loss). Net income for the fiscal year ended February 28, 2021 was $1,381,000 as compared to a net loss of ($606,000) for the fiscal year ended February 29, 2020. The increase in net income was mainly attributable to the increase in net sales and decrease in labor and materials discussed above.
+LIQUIDITY AND CAPITAL RESOURCES
+Operating Activities:
+Net cash provided by (used in) operating activities was $1,674,000 for the year ended February 28, 2021 primarily reflecting net income of $1,381,000, an increase in accrued expenses and other current and non-current liabilities of $296,000, and depreciation of $225,000 partially offset by increased prepaid expense and other current assets of $254,000, a decrease in accounts payable of $104,000.
+Net cash provided by operating activities was $1,118,000 for the year ended February 29, 2020 primarily reflecting a decrease in inventories of $1,088,000, a decrease in accounts receivable of $450,000, and an increase in stock based compensation of $282,000 partially offset by a net loss of $606,000, and a decrease in accounts payable of $364,000.
+Investing Activities:
+Net cash provided by (used in) investing activities was ($22,000) for the year ended February 28, 2021 principally reflecting $530,000 in proceeds from sales of securities, partially offset by $477,000 from the purchases of securities, and $75,000 from the purchases of property, plant and equipment.
+Net cash provided by (used in) investing activities was ($180,000) for the year ended February 29, 2020 principally reflecting $73,000 in proceeds from sales of securities, offset by $145,000 in purchases of securities and $108,000 in purchases of property, plant and equipment.
+Financing Activities:
+Net cash provided by (used in) financing activities was $801,000 for the year ended February 28, 2021, reflecting proceeds from the SBA Paycheck Protection Program loan of $807,000, partially offset by ($6,000) in treasury stock purchases.
+Net cash used in financing activities was $0 for the year ended February 29, 2020.
+The Company expects its sole source of liquidity over the next twelve months to be cash from operations and cash and cash equivalents, if necessary. The Company anticipates that its capital expenditures required to sustain operations will be approximately $500,000 during the next twelve months and will be funded from operations and cash and cash equivalents, if necessary.
+At February 28, 2021 and February 29, 2020, the Company had cash and cash equivalents of approximately $3,785,000 and $1,332,000, respectively. The cash increase for the year ended February 28, 2021 was primarily due to income from operations and proceeds from SBA Paycheck Protection Program loan.
+At February 28, 2021 and February 29, 2020, the Company had investments in securities of approximately $248,000 and $164,000, respectively.
+At February 28, 2021, the Company had working capital of $7,049,000 as compared with working capital at February 29, 2020 of $4,687,000. The increase for the year ended February 29, 2020 was due primarily to income from operations and the SBA Paycheck Protection Program loan.
+Stock Repurchase Program:
+On January 15, 2016, the Board of Directors amended the Company’s previously authorized stock repurchase program to permit the Company to acquire up to $1,000,000 of its outstanding common stock from time to time, increasing the Company’s authorization from the $720,000 remaining at that time and eliminating the expiration date of February 29, 2016. Purchases under the amended stock repurchase program may be made through the open market or privately negotiated transactions as determined by the Company’s management, and in accordance with the requirements of the Securities and Exchange Commission. The timing and actual number of shares repurchased will depend on a variety of factors including price, corporate and regulatory requirements and other conditions.
+The Company repurchased 2,493 shares for $5,734, or $2.30 per share, under the stock repurchase program during the fiscal year ended February 28, 2021, and 10 shares for $25, or $2.50 per share during the fiscal year ended February 29, 2020.
+CRITICAL ACCOUNTING POLICIES:
+See Note 2 in the financial statements for the Company’s accounting policies. Of the Company’s accounting policies, the following are considered to be critical - Inventories.
+OFF-BALANCE SHEET ARRANGEMENTS
+The Company has not engaged in any off-balance sheet arrangements.
+BOOKINGS AND BACKLOG
+During the fiscal year ended February 28, 2021, the Company’s net bookings were $11,827,000 in new orders as compared with $11,224,000 for the year ended February 29, 2020, reflecting an increase in bookings of approximately 5%. The Company’s backlog increased to $9,150,000 at February 28, 2021 as compared with $8,223,000 as of February 29, 2020, reflecting an increase of approximately 11% in backlog.
+In the event that bookings in the long-term decline significantly below the level experienced in the last fiscal year, the Company may be required to implement cost-cutting or other downsizing measures to continue its business operations. Such cost-cutting measures could inhibit future growth prospects. For the years ended February 28, 2021 and February 29, 2020, the entire backlog consisted of orders for electronic components.
+See Part I, Item 1, “Business - Marketing and Customers” and “Backlog.”
+FUTURE PLANS
+The Company plans to continue its efforts in selling commercial semiconductors and power modules and to develop appropriate strategic alliance arrangements. If these plans are successful, the Company intends to aggressively pursue sales of these products which could require the Company to invest in the building up of inventories of finished goods and invest in capital equipment (assembly and test) to replace older generation equipment and to support new product manufacturing. Any financing necessary to fund these initiatives could come from equipment leasing, among other financing alternatives. Despite its intentions, the Company cannot assure you that any of the above-described plans will be successful in increasing liquidity, reducing costs or improving sales.
+On April 16, 2021, Solitron Devices, Inc. (the "Company") closed on the acquisition of a facility and real estate located in West Palm Beach, Florida for a purchase price of $4,200,000 pursuant to the Commercial Contract entered into on March 1, 2021. In connection with the acquisition, the Company obtained mortgage financing from Bank of America, N.A. in the amount of $2,940,000 to fund that portion of the total purchase price. The Company expects to begin making the necessary improvements to the property acquired in order to completely relocate its manufacturing operations and corporate headquarters later in the calendar year.
+INFLATION
+The rate of inflation has not had a material effect on the Company’s revenues and costs and expenses, and it is not anticipated that inflation will have a material effect on the Company in the near future.
+SEASONALITY
+The Company’s bookings of new orders and sales are largely dependent on congressional budgeting and appropriation activities and the cycles associated therewith. The Company has historically experienced a decreased level of bookings during the summer months as a result of a slowdown in the level of budgeting and appropriation activities.
+FORWARD-LOOKING STATEMENTS
+Some of the statements in this Annual Report on Form 10-K are “forward-looking statements,” as that term is defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements include statements regarding our business, financial condition, results of operations, strategies or prospects. You can identify forward-looking statements by the fact that these statements do not relate strictly to historical or current matters. Rather, forward-looking statements relate to anticipated or expected events, activities, trends or results. Because forward-looking statements relate to matters that have not yet occurred, these statements are inherently subject to risks and uncertainties. Many factors could cause our actual activities or results to differ materially from the activities and results anticipated in forward-looking statements. These factors include those described under the caption “Risk Factors” in this Annual Report on Form 10-K, including those identified below. We do not undertake any obligation to update forward-looking statements, except as required by law.
+Some of the factors that may impact our business, financial condition, results of operations, strategies or prospects include:
+●
+Loss of, or reduction of business from, substantial clients could hurt our business by reducing our revenues, profitability and cash flow.
+●
+Our complex manufacturing processes may lower yields and reduce our revenues.
+●
+Our business could be materially and adversely affected if we are unable to obtain qualified supplies of raw materials, parts and finished components on a timely basis and at a cost-effective price.
+●
+We are dependent on government contracts, which are subject to termination, price renegotiations and regulatory compliance, which can increase the cost of doing business and negatively impact our revenues.
+●
+Changes in government policy or economic conditions could negatively impact our results.
+●
+Our inventories may become obsolete and other assets may be subject to risks.
+●
+Environmental regulations could require us to incur significant costs.
+●
+Our business is highly competitive and increased competition could reduce gross profit margins and the value of an investment in our Company.
+●
+Changes in Defense related programs and priorities could reduce the revenues and profitability of our business.
+●
+Our operating results may decrease due to the decline of profitability in the semiconductor industry.
+●
+Uncertainty of current economic conditions, domestically and globally, could continue to affect demand for our products and negatively impact our business.
+●
+We may not achieve the intended effects of our business strategy, which could adversely impact our business, financial condition and results of operations.
+●
+Our inability to introduce new products could result in decreased revenues and loss of market share to competitors; new technologies could also reduce the demand for our products.
+●
+The nature of our products exposes us to potentially significant product liability risk.
+●
+We depend on the recruitment and retention of qualified personnel and our failure to attract and retain such personnel could seriously harm our business.
+●
+Provisions in our charter documents could make it more difficult to acquire our Company and may reduce the market price of our stock.
+●
+Natural disasters, like hurricanes, or occurrences of other natural disasters whether in the United States or internationally may affect the markets in which our common stock trades, the markets in which we operate and our profitability.
+●
+Failure to protect our proprietary technologies or maintain the right to use certain technologies may negatively affect our ability to compete.
+●
+We cannot guarantee that we will have sufficient capital resources to make necessary investments in manufacturing technology and equipment.
+●
+We may make substantial investments in plant and equipment that may become impaired.
+●
+While we attempt to monitor the credit worthiness of our customers, we may be at risk due to the adverse financial condition of one or more customers.
+●
+Our international operations expose us to material risks, including risks under U.S. export laws.
+●
+Security breaches and other disruptions could compromise the integrity of our information and expose us to liability, which would cause our business and reputation to suffer.
+●
+The price of our common stock has fluctuated widely in the past and may fluctuate widely in the future.
+●
+We cannot guarantee that we will declare future cash dividend payments, nor repurchase any shares of our common stock pursuant to our stock repurchase program.
+●
+Compliance with regulations regarding the use of "conflict minerals" could limit the supply and increase the cost of certain metals used in manufacturing our products.
+●
+Our failure to remediate the material weakness in our internal control over financial reporting or our identification of any other material weaknesses in the future may adversely affect the accuracy and timing of our financial reporting.
+●
+The COVID-19 pandemic may have a material adverse effect on our business, cash flows and results of operations.

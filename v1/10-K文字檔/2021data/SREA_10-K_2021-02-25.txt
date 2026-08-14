@@ -1,0 +1,263 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+OVERVIEW
+In 2018, we set out to simplify Sempra Energy’s business model and sharpen our focus on our mission to be North America’s premier energy infrastructure company. Our 2020 operational and financial results reflect our focus on executing this strategy:
+▪We completed the sales of our South American businesses
+▪We achieved full commercial operations at Cameron LNG JV Phase 1
+▪We reached a final investment decision for ECA LNG Phase 1
+▪We executed well on our planned capital expenditures
+Our South American businesses and certain activities associated with those businesses are presented as discontinued operations for all periods presented. Nominal activities that are not classified as discontinued operations have been subsumed into Parent and other. Our discussions below exclude discontinued operations, unless otherwise noted.
+RESULTS OF OPERATIONS
+We discuss the following in Results of Operations:
+▪Overall results of operations of Sempra Energy Consolidated;
+▪Segment results;
+▪Significant changes in revenues, costs and earnings; and
+▪Impact of foreign currency and inflation rates on our results of operations.
+OVERALL RESULTS OF OPERATIONS OF SEMPRA ENERGY CONSOLIDATED
+In 2020 compared to 2019, our earnings increased by $1,709 million to $3,764 million and our diluted EPS increased by $5.59 to $12.88. In 2019 compared to 2018, our earnings increased by $1,131 million to $2,055 million and our diluted EPS increased by $3.87 to $7.29. The change in diluted EPS for 2020 and 2019 included decreases of $(0.46) and $(0.33), respectively, attributable to an increase in weighted-average common shares outstanding. Our earnings and diluted EPS were impacted by variances discussed in “Segment Results” below.
+SEGMENT RESULTS
+This section presents earnings (losses) by Sempra Energy segment, as well as Parent and other and discontinued operations, and a related discussion of the changes in segment earnings (losses). Throughout the MD&A, our reference to earnings represents earnings attributable to common shares. Variance amounts presented are the after-tax earnings impact (based on applicable statutory tax rates), unless otherwise noted, and before NCI, where applicable.
+(1) Includes intercompany eliminations recorded in consolidation and certain corporate costs.
+SDG&E
+The increase in earnings of $57 million (7%) in 2020 compared to 2019 was primarily due to:
+▪$62 million due to the release of a regulatory liability in 2020 related to 2016-2018 forecasting differences that are not subject to tracking in the income tax expense memorandum account, which we discuss in Note 4 of the Notes to Consolidated Financial Statements;
+▪$52 million higher electric transmission margin, including an increase in authorized ROE and the following impacts from the March 2020 FERC-approved TO5 settlement:
+◦$18 million to conclude a rate base matter, and
+◦$9 million favorable impact from the retroactive application of the final TO5 settlement for 2019;
+▪$23 million higher AFUDC equity; and
+▪$16 million higher income tax benefits from flow-through items; offset by
+▪$44 million expected to be refunded to customers and a fine related to the Energy Efficiency Program inquiry, which we discuss in Note 4 of the Notes to Consolidated Financial Statements;
+▪$31 million income tax benefit in 2019 from the release of a regulatory liability established in connection with 2017 tax reform for excess deferred income tax balances that the CPUC directed to be allocated to shareholders in a January 2019 decision;
+▪$13 million higher amortization and accretion of the Wildfire Fund asset and liability, respectively; and
+▪$12 million higher net interest expense.
+The increase in earnings of $98 million (15%) in 2019 compared to 2018 was primarily due to:
+▪$71 million higher CPUC base operating margin authorized for 2019, net of operating expenses;
+▪$31 million income tax benefit from the release of a regulatory liability established in connection with 2017 tax reform for excess deferred income tax balances that the CPUC directed to be allocated to shareholders in a January 2019 decision; and
+▪$11 million higher margin from electric transmission operations, net of a FERC formulaic rate adjustment benefit in 2018; offset by
+▪$10 million amortization of the Wildfire Fund asset.
+SoCalGas
+The decrease in earnings of $137 million (21%) in 2020 compared to 2019 was primarily due to:
+▪$233 million from impacts associated with Aliso Canyon natural gas storage facility litigation and regulatory matters;
+▪$38 million income tax benefit in 2019 from the impact of the January 2019 CPUC decision allocating certain excess deferred income tax balances to shareholders; and
+▪$12 million higher net interest expense; offset by
+▪$64 million due to the release of a regulatory liability in 2020 related to 2016-2018 income tax expense forecasting differences;
+▪$29 million higher CPUC base operating margin authorized for 2020, net of operating expenses;
+▪$21 million impairment of non-utility native gas assets in 2019;
+▪$10 million higher income tax benefits from flow-through items; and
+▪$8 million in penalties in 2019 related to the SoCalGas billing practices OII.
+The increase in earnings of $241 million in 2019 compared to 2018 was primarily due to:
+▪$216 million higher CPUC base operating margin authorized for 2019, net of operating expenses;
+▪$38 million income tax benefit from the impact of the January 2019 CPUC decision allocating certain excess deferred income tax balances to shareholders;
+▪$22 million from impacts associated with Aliso Canyon natural gas storage facility litigation in 2018; and
+▪$14 million higher income tax benefits from flow-through items; offset by
+▪$21 million impairment of non-utility native gas assets in 2019;
+▪$18 million higher net interest expense; and
+▪$8 million penalties in 2019 related to the SoCalGas billing practices OII.
+Sempra Texas Utilities
+The increase in earnings of $51 million (10%) in 2020 compared to 2019 was primarily due to higher equity earnings from Oncor Holdings driven by:
+▪increased revenues from rate updates to reflect increases in invested capital and customer growth;
+▪the impact of Oncor’s acquisition of InfraREIT in May 2019; and
+▪higher AFUDC equity; offset by
+▪unfavorable weather and increased operating costs and expenses attributable to invested capital.
+The increase in earnings of $157 million (42%) in 2019 compared to 2018 primarily represented higher equity earnings from Oncor Holdings, which we acquired in March 2018, driven by the impact of Oncor’s acquisition of InfraREIT in May 2019 and higher revenues due to rate updates to reflect increases in invested transmission capital, offset by higher operating costs.
+Sempra Mexico
+Because Ecogas, our natural gas distribution utility in Mexico, uses the local currency as its functional currency, its revenues and expenses are translated into U.S. dollars at average exchange rates for the period for consolidation in Sempra Energy’s results of operations. Prior year amounts used in the variances discussed below are as adjusted for the difference in foreign currency translation rates between years. We discuss these and other foreign currency effects below in “Impact of Foreign Currency and Inflation Rates on Results of Operations.”
+The increase in earnings of $6 million (2%) in 2020 compared to 2019 was primarily due to:
+▪$69 million favorable impact from foreign currency and inflation effects, net of foreign currency derivatives effects, comprised of:
+◦in 2020, $51 million favorable foreign currency and inflation effects, offset by a $39 million loss from foreign currency derivatives, and
+◦in 2019, $86 million unfavorable foreign currency and inflation effects, offset by a $29 million gain from foreign currency derivatives; and
+▪$33 million higher earnings primarily due to the start of commercial operations of the Sur de Texas-Tuxpan marine pipeline at IMG JV in September 2019; offset by
+▪$165 million earnings attributable to NCI at IEnova in 2020 compared to $122 million earnings in 2019;
+▪$22 million higher net interest expense;
+▪$21 million lower earnings at the Guaymas-El Oro segment of the Sonora pipeline primarily from force majeure payments that ended in August 2019; and
+▪$13 million lower earnings at TdM primarily due to scheduled major maintenance in the fourth quarter of 2020.
+The increase in earnings of $16 million (7%) in 2019 compared to 2018 was primarily due to:
+▪$18 million primarily due to the start of commercial operations of the Sur de Texas-Tuxpan marine pipeline at IMG JV in the third quarter of 2019;
+▪$16 million lower income tax expense in 2019 primarily from a two-year tax abatement that expired in 2020; and
+▪$122 million earnings attributable to NCI at IEnova in 2019 compared to $132 million earnings in 2018; offset by
+▪$20 million lower earnings primarily from force majeure payments that ended on August 22, 2019 with respect to the Guaymas-El Oro segment of the Sonora pipeline; and
+▪$17 million unfavorable impact from foreign currency and inflation effects, net of foreign currency derivatives effects, comprised of:
+◦in 2019, $88 million unfavorable foreign currency and inflation effects, offset by a $29 million gain from foreign currency derivatives, offset by
+◦in 2018, $43 million unfavorable foreign currency and inflation effects, offset by a $1 million gain from foreign currency derivatives.
+Sempra LNG
+Earnings of $320 million in 2020 compared to losses of $6 million in 2019 were primarily due to:
+▪$284 million higher equity earnings from Cameron LNG JV primarily due to commencement of Phase 1 commercial operations; and
+▪$41 million higher earnings from Sempra LNG’s marketing operations primarily driven by changes in natural gas prices.
+The decrease in losses of $611 million in 2019 compared to 2018 was primarily due to:
+▪$665 million net impairment of certain non-utility natural gas storage assets in the southeast U.S. in 2018, including $801 million impairment in the second quarter of 2018, offset by a $136 million reduction to the impairment in the fourth quarter of 2018;
+▪$17 million higher equity earnings from Cameron LNG JV, including:
+◦$36 million increase primarily due to Train 1 commencing commercial operation under its tolling agreements in August 2019, offset by
+◦$19 million decrease due to the write-off of unamortized debt issuance costs and associated fees related to Cameron LNG JV’s debt refinancing; and
+▪$9 million unfavorable adjustment in 2018 to TCJA provisional amounts recorded in 2017 related to the remeasurement of deferred income taxes; offset by
+▪$36 million losses attributable to NCI in 2018 related to the net impairment discussed above; and
+▪$28 million higher liquefaction project development costs and operating costs.
+Sempra Renewables
+As we discuss in Note 5 of the Notes to Consolidated Financial Statements, Sempra Renewables sold its remaining wind assets and investments in April 2019, upon which date the segment ceased to exist.
+The decrease in earnings of $269 million in 2019 compared to 2018 was primarily due to:
+▪$367 million gain on the sale of all Sempra Renewables’ operating solar assets, solar and battery storage development projects and its 50% interest in a wind power generation facility in December 2018; and
+▪$92 million lower earnings from assets sold in December 2018 and April 2019, net of lower general and administrative and other costs due to the wind-down of this business; offset by
+▪$145 million other-than-temporary impairment of certain U.S. wind equity method investments in 2018; and
+▪$45 million gain on sale of Sempra Renewables’ remaining wind assets in 2019.
+Parent and Other
+The increase in losses of $47 million (9%) in 2020 compared to 2019 was primarily due to:
+▪$100 million equity losses from our investment in RBS Sempra Commodities to settle pending tax matters and related legal costs, which we discuss in Note 16 of the Notes to Consolidated Financial Statements;
+▪$26 million higher preferred dividends due to the issuance of series C preferred stock in June 2020;
+▪$9 million lower net investment gains on dedicated assets in support of our employee nonqualified benefit plan and deferred compensation obligations, net of deferred compensation expenses; offset by
+▪$36 million lower net interest expense;
+▪$18 million higher income tax benefit primarily due to:
+◦$26 million income tax benefit in 2020 compared to $7 million income tax expense in 2019 from changes to a valuation allowance against certain tax credit carryforwards, and
+◦$11 million income tax benefit in 2020 compared to $2 million income tax expense in 2019 related to share-based compensation, offset by
+◦$24 million consolidated California state income tax expense in 2020 associated with income from our investments in Sempra LNG entities, and
+◦$10 million income tax benefit in 2019 from a reduction in a valuation allowance against certain NOL carryforwards as a result of our decision to sell our South American businesses; and
+▪$8 million decrease in losses from foreign currency derivatives used to hedge exposure to fluctuations in the Peruvian sol and Chilean peso related to the sale of our South American businesses.
+The decrease in losses of $105 million (17%) in 2019 compared to 2018 was primarily due to:
+▪$65 million impairment of the RBS Sempra Commodities equity method investment in 2018;
+▪$48 million higher investment gains in 2019 on dedicated assets in support of our employee nonqualified benefit plan obligations, net of deferred compensation expenses;
+▪$32 million income tax expense in 2018 to adjust provisional amounts recorded in 2017 related to the TCJA; and
+▪$10 million income tax benefit in 2019 to reduce a valuation allowance against certain NOL carryforwards as a result of our decision to sell our South American businesses; offset by
+▪$17 million increase in preferred dividends primarily from the issuance of series B preferred stock in July 2018;
+▪$11 million increase primarily related to settlement charges from our nonqualified pension plan; and
+▪$11 million loss from foreign currency derivatives used to hedge exposure to fluctuations in the Peruvian sol related to the sale of our operations in Peru.
+Discontinued Operations
+Discontinued operations that were previously in our Sempra South American Utilities segment include our former 100% interest in Chilquinta Energía in Chile, our former 83.6% interest in Luz del Sur in Peru and our former interests in two energy-services companies, Tecnored and Tecsur, which provide electric construction and infrastructure services to Chilquinta Energía and Luz del Sur, respectively, as well as third parties. Discontinued operations also include activities, mainly income taxes related to the South American businesses, that were previously included in the holding company of the South American businesses at Parent and other.
+As we discuss in Note 5 of the Notes to Consolidated Financial Statements, we completed the sales of our South American businesses in the second quarter of 2020. In April 2020, we sold our equity interests in our Peruvian businesses, including our 83.6% interest in Luz del Sur and our interest in Tecsur, for cash proceeds of $3,549 million, net of transaction costs and as adjusted for post-closing adjustments, and in June 2020, we sold our equity interests in our Chilean businesses, including our 100% interest in Chilquinta Energía and Tecnored and our 50% interest in Eletrans, for cash proceeds of $2,216 million, net of transaction costs and as adjusted for post-closing adjustments.
+The increase in earnings from our discontinued operations of $1,512 million in 2020 compared to 2019 was primarily due to:
+▪$1,499 million after-tax gain on the sale of our Peruvian businesses;
+▪$248 million after-tax gain on the sale of our Chilean businesses; and
+▪$7 million income tax benefit in 2020 compared to $51 million income tax expense in 2019 related to changes in outside basis differences from earnings and foreign currency effects since the January 25, 2019 approval of our plan to sell our South American businesses; offset by
+▪$201 million lower operational earnings mainly as a result of the sales of our Peruvian and Chilean businesses; and
+▪$89 million income tax benefit in 2019 related to outside basis differences existing as of January 25, 2019.
+The increase in earnings of $172 million in 2019 compared to 2018 was primarily due to:
+▪$91 million higher earnings from South American operations mainly from higher rates, lower cost of purchased power at Peru, and including $38 million lower depreciation expense due to assets classified as held for sale;
+▪$89 million income tax benefit in 2019 from outside basis differences in our South American businesses primarily related to the change in our indefinite reinvestment assertion from our decision on January 25, 2019 to hold those businesses for sale and a change in the anticipated structure of the sale; and
+▪$44 million income tax expense in 2018 to adjust TCJA provisional amounts recorded in 2017 primarily related to withholding tax on our expected future repatriation of foreign undistributed earnings; offset by
+▪$51 million income tax expense related to the increase in outside basis differences from 2019 earnings since January 25, 2019.
+SIGNIFICANT CHANGES IN REVENUES, COSTS AND EARNINGS
+This section contains a discussion of the differences between periods in the specific line items of the Consolidated Statements of Operations for Sempra Energy, SDG&E and SoCalGas.
+Utilities Revenues and Cost of Sales
+Our utilities revenues include natural gas revenues at our California Utilities and Sempra Mexico’s Ecogas and electric revenues at SDG&E. Intercompany revenues included in the separate revenues of each utility are eliminated in the Sempra Energy Consolidated Statements of Operations.
+SoCalGas and SDG&E currently operate under a regulatory framework that permits:
+▪The cost of natural gas purchased for core customers (primarily residential and small commercial and industrial customers) to be passed through to customers in rates substantially as incurred. However, SoCalGas’ GCIM provides SoCalGas the opportunity to share in the savings and/or costs from buying natural gas for its core customers at prices below or above monthly market-based benchmarks. This mechanism permits full recovery of costs incurred when average purchase costs are within a price range around the benchmark price. Any higher costs incurred or savings realized outside this range are shared between the core customers and SoCalGas.
+▪SDG&E to recover the actual cost incurred to generate or procure electricity based on annual estimates of the cost of electricity supplied to customers. The differences in cost between estimates and actual are recovered or refunded in subsequent periods through rates.
+▪The California Utilities to recover certain program expenditures and other costs authorized by the CPUC, or “refundable programs.”
+Because changes in SoCalGas’ and SDG&E’s cost of natural gas and/or electricity are recovered in rates, changes in these costs are offset in the changes in revenues and therefore do not impact earnings. In addition to the changes in cost or market prices, natural gas or electric revenues recorded during a period are impacted by customer billing cycles causing a difference between customer billings and recorded or authorized costs. These differences are required to be balanced over time, resulting in over- and undercollected regulatory balancing accounts.
+The table below summarizes utilities revenues and cost of sales.
+(1) Excludes depreciation and amortization, which are presented separately on the Sempra Energy, SDG&E and SoCalGas Consolidated Statements of Operations.
+Natural Gas Revenues and Cost of Natural Gas
+The table below summarizes the average cost of natural gas sold by the California Utilities and included in Cost of Natural Gas on the Consolidated Statements of Operations. The average cost of natural gas sold at each utility is impacted by market prices, as well as transportation, tariff and other charges.
+In 2020 compared to 2019, our natural gas revenues increased by $226 million (4%) to $5.4 billion primarily due to:
+▪$223 million increase at SoCalGas, which included:
+◦$198 million higher CPUC-authorized revenues,
+◦$144 million higher recovery of costs associated with refundable programs, which revenues are offset in O&M, and
+◦$84 million due to the release of a regulatory liability in 2020 related to 2016-2018 income tax expense forecasting differences, offset by
+◦$194 million decrease in cost of natural gas sold, which we discuss below, and
+◦$19 million lower non-service component of net periodic benefit cost in 2020, which fully offsets in Other (Expense) Income, Net; and
+▪$36 million increase at SDG&E, which included:
+◦$23 million higher recovery of costs associated with refundable programs, which revenues are offset in O&M,
+◦$15 million higher CPUC-authorized revenues, and
+◦$6 million due to the release of a regulatory liability in 2020 related to 2016-2018 income tax expense forecasting differences, offset by
+◦$14 million decrease in cost of natural gas sold, which we discuss below; offset by
+▪$15 million decrease at Sempra Mexico primarily due to foreign currency effects and a regulatory rate adjustment.
+In 2019 compared to 2018, our natural gas revenues increased by $645 million (14%) to $5.2 billion primarily due to:
+▪$563 million increase at SoCalGas, which included:
+◦$383 million higher CPUC-authorized revenue in 2019,
+◦$105 million higher recovery of costs associated with refundable programs, which revenues are offset in O&M,
+◦$62 million higher non-service component of net periodic benefit cost in 2019, which fully offsets in Other (Expense) Income, Net,
+◦$29 million charges in 2018 associated with tracking the income tax benefit from flow-through items in relation to forecasted amounts in the 2016 GRC FD, and
+◦$16 million higher net revenues from PSEP, offset by
+◦$71 million decrease in the cost of natural gas sold, which we discuss below; and
+▪$93 million increase at SDG&E, which included:
+◦$68 million higher authorized revenue in 2019, and
+◦$24 million increase in the cost of natural gas sold, which we discuss below.
+Our cost of natural gas decreased by $214 million (19%) to $925 million in 2020 compared to 2019 primarily due to:
+▪$194 million decrease at SoCalGas, including $143 million from lower average natural gas prices and $51 million from lower volumes driven primarily by weather; and
+▪$14 million decrease at SDG&E, including $7 million from lower average natural gas prices and $7 million from lower volumes driven primarily by weather.
+Our cost of natural gas decreased by $69 million (6%) to $1.1 billion in 2019 compared to 2018 primarily due to:
+▪$71 million decrease at SoCalGas, including $164 million due to lower average natural gas prices, offset by $93 million from higher volumes driven by weather; and
+▪$15 million increase in intercompany eliminations primarily associated with sales between Sempra LNG and SoCalGas; offset by
+▪$24 million increase at SDG&E, including $19 million from higher volumes driven by weather and $5 million from higher average natural gas prices.
+Electric Revenues and Cost of Electric Fuel and Purchased Power
+Our electric revenues, substantially all of which are at SDG&E, increased by $351 million (8%) to $4.6 billion in 2020 compared to 2019 primarily due to:
+▪$242 million higher recovery of costs associated with refundable programs, which revenues are offset in O&M;
+▪$112 million higher revenues from transmission operations, including an increase in authorized ROE and the following impacts related to the March 2020 FERC-approved TO5 settlement:
+◦$26 million to settle a rate base matter, and
+◦$12 million favorable impact from the retroactive application of the final TO5 settlement for 2019;
+▪$77 million due to the release of a regulatory liability in 2020 related to 2016-2018 income tax expense forecasting differences;
+▪$35 million higher CPUC-authorized revenues; and
+▪$19 million higher revenues associated with SDG&E’s wildfire mitigation plan; offset by
+▪$55 million lower cost of electric fuel and purchased power, which we discuss below; and
+▪$51 million expected to be refunded to customers related to the Energy Efficiency Program inquiry.
+In 2019 compared to 2018, our electric revenues increased by $264 million (7%) to $4.3 billion, primarily attributable to SDG&E, primarily due to:
+▪$121 million higher authorized revenue in 2019, including $108 million of revenues to cover liability insurance premium costs that are now balanced and offset in O&M;
+▪$40 million higher revenues from transmission operations, net of a FERC formulaic rate adjustment benefit in 2018;
+▪$34 million higher recovery of costs associated with refundable programs, excluding 2019 liability insurance premium costs, which revenues are offset in O&M;
+▪$27 million higher finance lease costs, offset by lower cost of electric fuel and purchased power, which we discuss below; and
+▪$21 million charges in 2018 associated with tracking the income tax benefit from certain flow-through items in relation to forecasted amounts in the 2016 GRC FD.
+Our utility cost of electric fuel and purchased power, substantially all of which is at SDG&E, decreased by $1 million remaining at $1.2 billion in 2020 compared to 2019 primarily due to:
+▪$55 million lower recoverable cost of electric fuel and purchased power primarily due to a decrease in residential demand mainly from an increase in rooftop solar adoption; offset by
+▪$52 million associated with Otay Mesa VIE, which we deconsolidated in August 2019.
+Our utility cost of electric fuel and purchased power decreased by $170 million (13%) to $1.2 billion in 2019 compared to 2018, primarily attributable to SDG&E, primarily due to:
+▪$103 million of finance lease costs for PPAs in 2018. Similar amounts are now included in Interest Expense and Depreciation and Amortization Expense as a result of the 2019 adoption of the lease standard; and
+▪$73 million decrease primarily from lower electricity market cost, offset by an increase primarily due to an additional capacity contract.
+Energy-Related Businesses: Revenues and Cost of Sales
+The table below shows revenues and cost of sales for our energy-related businesses.
+(1) Includes eliminations of intercompany activity.
+(2) Excludes depreciation and amortization, which are presented separately on the Sempra Energy Consolidated Statements of Operations.
+Revenues from our energy-related businesses decreased by $36 million (3%) to $1.3 billion in 2020 compared to 2019 primarily due to:
+▪$104 million decrease at Sempra Mexico primarily due to:
+◦$59 million from the marketing business primarily due to lower natural gas prices and volumes,
+◦$37 million lower revenues from TdM mainly due to lower volumes, offset by higher power prices, and
+◦$21 million lower transportation revenues primarily from force majeure payments that ended in August 2019 with respect to the Guaymas-El Oro segment of the Sonora pipeline; and
+▪$36 million decrease at Sempra LNG primarily due to:
+◦$87 million decrease in revenues from LNG marketing operations primarily from lower natural gas sales to Sempra Mexico mainly as a result of lower volumes and natural gas prices, and from lower diversion revenues due to lower natural gas prices, and
+◦$18 million lower revenues from the expiration of capacity release contracts in the fourth quarter of 2019, offset by
+◦$70 million increase from natural gas marketing operations primarily due to changes in natural gas prices; offset by
+▪$114 million increase primarily from lower intercompany eliminations associated with sales between Sempra LNG and Sempra Mexico.
+In 2019 compared to 2018, revenues from our energy-related businesses decreased by $182 million (12%) to $1.4 billion primarily due to:
+▪$114 million decrease at Sempra Renewables primarily due to the sale of assets in December 2018 and April 2019; and
+▪$62 million decrease at Sempra LNG primarily due to:
+◦$45 million lower natural gas storage revenues primarily due to the sale of storage assets in February 2019,
+◦$15 million from the marketing business due to lower turnback cargo revenues, and
+◦$12 million from LNG sales to Cameron LNG JV in January 2018, offset by
+◦$14 million from natural gas marketing activities primarily due to changes in natural gas prices; offset by
+▪$4 million increase at Sempra Mexico primarily due to:
+◦$23 million from the marketing business, including an increase in volumes due to new regulations that went into effect on March 1, 2018 that require high consumption end users (previously serviced by Ecogas and other natural gas utilities) to procure their natural gas needs from natural gas marketers, such as Sempra Mexico’s marketing business, offset by lower natural gas prices, and
+◦$6 million increase primarily due to renewable assets placed in service in 2019, offset by
+◦$27 million lower revenues primarily from force majeure payments that ended on August 22, 2019 with respect to the Guaymas-El Oro segment of the Sonora pipeline.
+The cost of sales for our energy-related businesses decreased by $68 million (20%) to $276 million in 2020 compared to 2019 primarily due to:
+▪$90 million decrease at Sempra Mexico mainly associated with lower revenues from the marketing business and from TdM as a result of lower volumes and natural gas prices; and
+▪$81 million decrease at Sempra LNG mainly from natural gas marketing activities primarily due to lower natural gas purchases; offset by
+▪$103 million increase primarily from lower intercompany eliminations associated with sales between Sempra LNG and Sempra Mexico.
+The cost of sales for our energy-related businesses in 2019 was comparable to 2018.
+Operation and Maintenance
+In the table below, we provide O&M by segment.
+(1) Excludes impairment losses, which we discuss below.
+(2) Includes eliminations of intercompany activity.
+Our O&M increased by $474 million (14%) to $3.9 billion in 2020 compared to 2019 primarily due to:
+▪$279 million increase at SDG&E, primarily due to:
+◦$265 million higher expenses associated with refundable programs for which costs incurred are recovered in revenue (refundable program expenses), and
+◦$18 million higher amortization of the Wildfire Fund asset and accretion of the Wildfire Fund obligation; and
+▪$249 million increase at SoCalGas, primarily due to:
+◦$144 million higher expenses associated with refundable programs, and
+◦$105 million higher non-refundable operating costs, including labor, purchased materials and services, and administrative and support costs; offset by
+▪$62 million decrease at Parent and other primarily from lower deferred compensation expense and retained operating costs; and
+▪$18 million decrease at Sempra Renewables primarily due to lower general and administrative and other costs due to the wind-down of the business in 2019.
+Our O&M increased by $316 million (10%) to $3.5 billion in 2019 compared to 2018 primarily due to:
+▪$167 million increase at SoCalGas, primarily due to:
+◦$105 million higher expenses associated with refundable programs, and
+◦$57 million higher non-refundable operating costs, including labor, contract services and administrative and support costs;
+▪$117 million increase at SDG&E, primarily due to:
+◦$147 million higher expenses associated with refundable programs, including $112 million of 2019 liability insurance premium costs that are now balanced in revenue, and
+◦$13 million amortization of the Wildfire Fund asset and accretion of the Wildfire Fund obligation, offset by
+◦$46 million lower non-refundable operating costs, including $87 million decrease from liability insurance premium costs for 2018 that were not balanced, offset by $41 million of higher operating costs;
+▪$53 million increase at Parent and other primarily from higher deferred compensation expense;
+▪$33 million increase at Sempra LNG primarily from higher liquefaction development project costs and higher operating costs; and
+▪$17 million increase at Sempra Mexico primarily due to expenses associated with growth in the business and operating lease costs in 2019; offset by
+▪$71 million decrease at Sempra Renewables primarily due to lower general and administrative and other costs due to the wind-down of the business.
+Aliso Canyon Litigation and Regulatory Matters
+In 2020, SoCalGas recorded a charge of $307 million in Aliso Canyon Litigation and Regulatory Matters related to settlement discussions in connection with civil litigation and regulatory matters associated with the Leak, which we describe in Note 16 of the Notes to Consolidated Financial Statements.
+Impairment Losses
+In September 2019, SoCalGas recognized a $29 million impairment loss related to non-utility native gas assets. In September 2019, SDG&E and SoCalGas recognized impairment losses of $6 million and $8 million, respectively, for certain disallowed capital costs in the 2019 GRC FD. In 2018, Sempra LNG recognized a $1.1 billion net impairment loss for certain non-utility natural gas storage assets in the southeast U.S.
+Gain on Sale of Assets
+In April 2019, Sempra Renewables recognized a $61 million gain on the sale of its remaining wind assets and investments. In December 2018, Sempra Renewables recognized a $513 million gain on the sale of all its operating solar assets, solar and battery storage development projects and its 50% interest in a wind power generation facility.
+Other (Expense) Income, Net
+As part of our central risk management function, we may enter into foreign currency derivatives to hedge Sempra Mexico parent’s exposure to movements in the Mexican peso from its controlling interest in IEnova. The gains/losses associated with these derivatives are included in Other (Expense) Income, Net, as described below, and partially mitigate the transactional effects of foreign currency and inflation included in Income Tax (Expense) Benefit for Sempra Mexico’s consolidated entities and in Equity Earnings for Sempra Mexico’s equity method investments. We also utilized foreign currency derivatives to hedge exposure to fluctuations in the Peruvian sol and Chilean peso related to the sales of our operations in Peru and Chile, respectively. We discuss policies governing our risk management below in “Part II -

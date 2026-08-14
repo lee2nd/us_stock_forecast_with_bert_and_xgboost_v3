@@ -1,0 +1,366 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+You should read the following discussion in conjunction with our Consolidated Financial Statements and related Notes included elsewhere in this annual report. Historical results are not necessarily indicative of trends in operating results for any future period.
+The statements contained in this annual report that are not historical facts are forward-looking statements that involve a number of risks and uncertainties. The actual results of the future events described in such forward-looking statements in this annual report could differ materially from those stated in such forward-looking statements. Among the factors that could cause actual results to differ materially are the risks and uncertainties discussed in Item 1A. Risk Factors and the uncertainties set forth from time to time in our other public reports and filings and public statements.
+Executive Summary
+Overview
+Our long-term strategy is to provide the best small and medium-sized businesses in the United States with our specialized human resources service offering and to leverage our buying power and expertise to provide additional valuable services to clients. Our most comprehensive HR services offerings are provided through our Workforce Optimization® and Workforce SynchronizationTM solutions (together, our “PEO HR Outsourcing solutions”), which encompass a broad range of human resources functions, including payroll and employment administration, employee benefits, workers’ compensation, government compliance, performance management and training and development services, along with our cloud-based human capital management solution, our Insperity PremierTM platform. Our overall operating results can be measured in terms of revenues, gross profit or adjusted EBITDA per WSEE per month. We often use the average number of WSEEs paid during a period as our unit of measurement in analyzing and discussing our results of operations.
+In addition to our PEO HR Outsourcing solutions, we offer a comprehensive traditional payroll and human capital management solution, known as our Workforce AccelerationTM solution. We also offer a number of other business performance solutions, including Comprehensive Traditional Payroll and Human Capital Management, Performance Management, Organizational Planning, Recruiting Services, Employment Screening, Retirement Services, and Insurance Services, many of which are offered as a cloud-based software solution. These other products or services are offered separately or with our other solutions.
+COVID-19 Pandemic
+The effects of the COVID-19 pandemic, including actions taken by businesses and governments, have resulted in significant changes in U.S. economic activity. As the duration of the pandemic and such economic impacts remain uncertain, we have planned for a range of scenarios and have modified certain business and workforce practices. To conform to government restrictions and best practices, we have taken steps designed to keep our staff safe while continuing to serve clients, including implementing flexible remote working arrangements for our employees and providing extra safety measures at corporate facilities. To serve our clients, we have instituted a number of service offerings and developed COVID-19 resources to assist clients with obtaining government provided tax credits, tax deferrals, PPP loans, and PPP loan forgiveness and to provide guidance to assist clients with addressing the challenges faced by employers as a result of the pandemic. These service offerings and guidance to assist clients during the pandemic included additional benefits support, remote workforce transition, monitoring and educating on regulatory changes, including vaccine mandates, return to the workplace and workplace safety.
+In 2021, the average number of WSEEs paid per month increased 7.1% year-over-year as WSEEs paid at existing clients combined with WSEEs paid from new sales exceeded 2020 levels. We expect the average number of paid WSEEs per month to increase between 18.0% and 19.0% in the first quarter of 2022 as compared to the first quarter of 2021, which, if achieved, would equate to the average number of paid WSEEs per month growing 2.3% to 3.2% sequentially from the fourth quarter of 2021.
+We experienced a 9.8% increase in the year-over-year benefits costs per covered employee during 2021 compared to 2020, which had substantially lower costs primarily due to the significant decrease in benefits utilization that we experienced during the second quarter of 2020. During the second quarter of 2020, we experienced a 10.7% decrease in benefits costs per covered employee due primarily to lower utilization of medical services by plan participants as a result
+2021 Form 10-K
+of the COVID-19 pandemic, including in response to COVID-19 governmental requirements or guidance related to the deferral of non-essential medical procedures and shelter-in-place and similar orders. Our healthcare claim activity in 2021 reflected a continued variability in claim incurral patterns, combined with incremental costs related to COVID-19 testing, vaccination administration, and treatment, which were driven by further COVID-19 variants. During 2022 and possibly beyond 2022, benefits costs are expected to continue to be affected by the dynamics of the pandemic, including the impact on healthcare utilization and incremental COVID-19 testing, vaccination and treatment costs. This may result in a higher level of healthcare claims costs than our historical claim cost trends. While we have experienced a reduced frequency in workers’ compensation claims during the COVID-19 pandemic, the COVID-19 pandemic has not had a material impact on our workers’ compensation cost estimate; however, the ultimate impact of COVID-19 on our workers’ compensation program remains uncertain.
+The extent to which our future results are affected by the COVID-19 pandemic will depend on various factors and consequences beyond our control, such as the scope, duration and magnitude of the pandemic, impacts of changes in or variants of the COVID-19 virus, actions by businesses and governments in response to the pandemic, including programs designed to assist small and medium-sized businesses with the economic impact of the pandemic; and the speed and effectiveness of responses to combat the variants, including the development, availability, and acceptance of therapeutics and vaccines. See Part I, Item 1A. “Risk Factors” for additional information.
+2021 Highlights
+•Average number of WSEEs paid per month increased 7.1% to 250,745, on a 16.0% revenue increase and an 8% increase in revenue per WSEE, which reflects a 5% increase in pricing and the non-recurrence of the 2020 FICA deferral credits instituted as part of the CARES Act.
+•We ended 2021 averaging 268,978 paid WSEEs in the fourth quarter of 2021, which represents a 12.4% increase over the fourth quarter of 2020. We expect the average number of paid WSEEs per month to be between 275,100 and 277,500 in the first quarter 2022.
+•Approximately 23.8% and 24.4% of our average paid WSEEs were in our middle market sector for the years ended December 31, 2021 and 2020, respectively, which is generally defined as companies with 150 to 5,000 WSEEs.
+•Gross profit increased $13.2 million, primarily due to the 7.1% growth in the average number of WSEEs paid per month driving an increase in revenue, partially offset by a 4.9% decline in gross profit per WSEE.
+•Our average gross profit per WSEE per month declined from $287 in 2020 to $273 in 2021, due primarily to a 9.8% increase in benefits costs per covered employee.
+•Operating expenses increased 5.7% in 2021 to $646.8 million, primarily due to increased salary and wages partially offset by lower stock-based compensation costs. On a per WSEE per month basis, operating expenses decreased from $218 in 2020 to $215 in 2021.
+•Net income and diluted earnings per share (“Diluted EPS”) both decreased 10.2% to $124.1 million and $3.18, respectively.
+•Adjusted EBITDA decreased 11.7% to $254.9 million.
+•Adjusted net income decreased 15.1% to $154.0 million.
+•Adjusted EPS decreased 14.9% to $3.95.
+•Our adjusted EBITDA per WSEE per month decreased 17.5% from $103 in 2020 to $85 in 2021.
+•We ended 2021 with working capital of $116.3 million.
+•During 2021, we paid $144.2 million in dividends, including our regular quarterly dividend as well as a $2.00 per share special dividend paid in December. We also repurchased approximately 716,000 shares of our common stock at a cost of $69.7 million and paid $32.9 million in capital expenditures.
+2021 Form 10-K
+Please read “Non-GAAP Financial Measures” for a reconciliation of adjusted EBITDA, adjusted net income and adjusted EPS to their most directly comparable financial measures calculated and presented in accordance with accounting principles generally accepted in the United Stated (“GAAP”).
+Revenues
+We account for our revenues in accordance with Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts with Customers (Topic 606). Our PEO HR Outsourcing solutions gross billings to clients include the payroll cost of each WSEE at the client location and a markup computed as a percentage of each WSEEs payroll cost. We invoice the gross billings concurrently with each periodic payroll of our WSEEs. Revenues, which exclude the payroll cost component of gross billings, and therefore, consist solely of the markup, are recognized ratably over the payroll period as WSEEs perform their service at the client worksite. This markup includes pricing components associated with our estimates of payroll taxes, benefits and workers’ compensation costs, plus a separate component related to our HR services. Revenues that have been recognized but not invoiced represent unbilled accounts receivable included in accounts receivable, net on our Consolidated Balance Sheets.
+Our revenues are primarily dependent on the number of clients enrolled, the resulting number of WSEEs paid each period and the number of WSEEs enrolled in our benefit plans. Because our total markup is computed as a percentage of payroll cost, certain revenues are also affected by the payroll cost of WSEEs, which may fluctuate based on the composition of the WSEE base, inflationary effects on wage levels and differences in the local economies of our markets.
+Direct Costs
+The primary direct costs associated with revenue-generating activities for our PEO HR Outsourcing solutions are:
+•employment-related taxes (“payroll taxes”)
+•costs of employee benefit plans
+•workers’ compensation costs
+Payroll taxes consist of the employer’s portion of Social Security and Medicare taxes under FICA, federal unemployment taxes and state unemployment taxes. Payroll taxes are generally paid as a percentage of payroll cost. The federal unemployment tax rates are defined by federal regulations. State unemployment tax rates are subject to claim histories and vary from state to state.
+Employee benefits costs are comprised primarily of health insurance premiums and claims costs (including dental and pharmacy costs), but also include costs of other employee benefits such as life insurance, vision care, disability insurance, education assistance, adoption assistance, a flexible spending account program and an employee well-being program.
+Workers’ compensation costs include administrative and risk charges paid to the insurance carrier, and claims costs, which are driven primarily by the frequency and severity of claims.
+Gross Profit
+Our gross profit per WSEE is primarily determined by our ability to accurately estimate and control direct costs and our ability to incorporate changes in these costs into the gross billings charged to PEO HR Outsourcing solutions clients, which are subject to pricing arrangements that are typically renewed annually. We use gross profit per WSEE per month as our principal measurement of relative performance at the gross profit level.
+Operating Expenses
+•Salaries, wages and payroll taxes - Salaries, wages and payroll taxes (“Salaries”) are primarily a function of the number of corporate employees, their associated average pay and any additional cash incentive compensation. Our corporate employees include client services, sales and marketing, benefits, legal, finance, information technology, administrative support personnel and those associated with our other products and services.
+2021 Form 10-K
+•Stock-based compensation - Our stock-based compensation relates to the recognition of non-cash compensation expense over the requisite service period of time-vested and performance-based incentive plan awards.
+•Commissions - Commissions expense consists primarily of amounts paid to sales managers and other sales personnel, including BPAs as well as channel referral fees. Commissions are based on new accounts sold and a percentage of revenue generated by such personnel.
+•Advertising - Advertising expense primarily consists of media advertising and other business promotions in our current and anticipated sales markets, including the Insperity Invitational™ presented by UnitedHealthcare® sponsorship.
+•General and administrative expenses - Our general and administrative expenses primarily include:
+◦rent expenses related to our service centers and sales offices
+◦outside professional service fees related to legal, consulting and accounting services
+◦administrative costs, such as postage, printing and supplies
+◦employee travel and training expenses
+◦technology and facility costs, including repairs, maintenance and SaaS licensing costs
+•Depreciation and amortization - Depreciation and amortization expense is primarily a function of our capital investments in corporate facilities, service centers, sales offices, software development and technology infrastructure.
+Other Income (Expense)
+Other income (expense) includes interest charges incurred in connection with borrowings under our credit facility and interest income earned on our cash, cash equivalents, marketable securities, restricted cash and deposits. Please read “-Liquidity and Capital Resources” for additional information.
+Income Taxes
+Our provision for income taxes typically differs from the U.S. statutory rate of 21%, due primarily to state income taxes, non-deductible expenses, vesting of equity awards and various tax credits. Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities used for financial reporting purposes and the amounts used for income tax purposes. Significant items resulting in deferred income taxes include prepaid assets, accruals for workers’ compensation expenses, stock-based compensation, software development costs, accrued incentive compensation, operating lease assets and liabilities and depreciation. Changes in these items are reflected in our financial statements through a deferred income tax provision. Please read Note 7 to the Consolidated Financial statements, “Income Taxes,” for additional information.
+Critical Accounting Policies and Estimates
+The discussion and analysis of our financial condition and results of operations is based upon our Consolidated Financial Statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires our management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an ongoing basis, we evaluate these estimates, including those related to health and workers’ compensation insurance claims experience, client bad debts, income taxes, property and equipment, goodwill and other intangibles, and contingent liabilities. We base these estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+We believe the following accounting policies are critical and/or require significant judgments and estimates used in the preparation of our Consolidated Financial Statements:
+2021 Form 10-K
+•Benefits costs - We provide group health insurance coverage to our WSEEs through a national network of carriers including United, UnitedHealthcare of California, Kaiser Permanente, Blue Shield of California, HMSA BlueCross BlueShield of Hawaii and Tufts, all of which provide fully insured policies or service contracts.
+The health insurance contract with United provides the majority of our health insurance coverage. As a result of certain contractual terms, we have accounted for this plan since its inception using a partially self-funded insurance accounting model. Accordingly, we record the costs of the United plan, including an estimate of the incurred claims, taxes and administrative fees (collectively the “Plan Costs”), as benefits expense in the Consolidated Statements of Operations. The estimated incurred claims are based upon: (1) the level of claims processed during the quarter; (2) estimated completion rates based upon recent claim development patterns under the plan; and (3) the number of participants in the plan, including both active and COBRA enrollees. Each reporting period, changes in the estimated ultimate costs resulting from claim trends, plan design and migration, participant demographics and other factors are incorporated into the benefits costs.
+Effective January 1, 2020, we entered into an arrangement whereby our financial responsibility is limited to the first $1 million of paid claims per claimant per year. Additionally, since the plan’s inception, under the terms of the contract, United establishes cash funding rates 90 days in advance of the beginning of a reporting quarter. If the Plan Costs for a reporting quarter are greater than the premiums paid and owed to United, a deficit in the plan would be incurred and we would accrue a liability for the excess costs on our Consolidated Balance Sheets. On the other hand, if the Plan Costs for the reporting quarter are less than the premiums paid and owed to United, a surplus in the plan would be incurred and we would record an asset for the excess premiums in our Consolidated Balance Sheets. The terms of the arrangement with United require us to maintain an accumulated cash surplus in the plan of $9.0 million, which is reported as long-term prepaid insurance. As of December 31, 2021, Plan Costs were more than the net premiums paid and owed to United by $22.0 million. As this amount is less than the agreed-upon $9.0 million surplus maintenance level, the $31.0 million difference is included in accrued health insurance costs, a current liability, in our Consolidated Balance Sheets. In addition, the premiums owed to United at December 31, 2021, were $12.6 million, which is also included in accrued health insurance costs, a current liability, on our Consolidated Balance Sheets.
+We believe that recent claim development patterns are representative of incurred but not reported claims costs during the reporting period. The estimated completion rate used to compute incurred but not reported claims involves a significant level of judgment. Accordingly, an increase (or decrease) in the completion rate used to estimate the incurred claims would result in an increase (or decrease) in benefits costs and net income would decrease (or increase) accordingly.
+The following table illustrates the sensitivity of changes in the completion rate on our estimate of total benefits costs of $2.3 billion in 2021:
+Change in
+Completion Rate Change in
+Benefits Costs
+(in thousands)
+Change in
+Net Income
+(in thousands)
+(2.5)% $ (21,922) $ 16,160
+(1.0)% (8,769) 6,464
+1.0% 8,769 (6,464)
+2.5% 21,922 (16,160)
+•Workers’ compensation costs - Since 2007, our workers’ compensation coverage has been provided through an arrangement with Chubb. The Chubb Program is fully insured in that Chubb has the responsibility to pay all claims incurred under the policy regardless of whether we satisfy our responsibilities. Under the Chubb Program for claims incurred on or before September 30, 2019, we have financial responsibility to Chubb for the first $1 million layer of claims per occurrence and, for claims over $1 million, up to a maximum aggregate amount of $6 million per policy year for claims that exceed $1 million. Effective for claims incurred on or after October 1, 2019, we have financial responsibility to Chubb for the first $1.5 million layer of claims per occurrence and, for claims over $1.5 million, up to a maximum aggregate amount of $6 million per policy year for claims that exceed $1.5 million.
+Because we bear the financial responsibility for claims up to the levels noted above, such claims, which are the primary component of our workers’ compensation costs, are recorded in the period incurred. Workers’ compensation
+2021 Form 10-K
+insurance includes ongoing health care and indemnity coverage whereby claims are paid over numerous years following the date of injury. Accordingly, the accrual of related incurred costs in each reporting period includes estimates, which take into account the ongoing development of claims and therefore requires a significant level of judgment.
+We utilize a third-party actuary to estimate our loss development rate, which is primarily based upon the nature of WSEEs’ job responsibilities, the location of WSEEs, the historical frequency and severity of workers’ compensation claims, and an estimate of future cost trends. Each reporting period, changes in the actuarial assumptions resulting from changes in actual claims experience and other trends are incorporated into our workers’ compensation claims cost estimates. During the years ended December 31, 2021 and 2020, we reduced accrued workers’ compensation costs by $41.7 million and $42.1 million, respectively, for changes in estimated losses related to prior reporting periods. Workers’ compensation cost estimates are discounted to present value at a rate based upon the U.S. Treasury rates that correspond with the weighted average estimated claim payout period (the average discount rate was 0.6% in both 2021 and 2020) and are accreted over the estimated claim payment period and included as a component of direct costs in our Consolidated Statements of Operations.
+Our claim trends could be greater than or less than our prior estimates, in which case we would revise our claims estimates and record an adjustment to workers’ compensation costs in the period such determination is made. If we were to experience any significant changes in actuarial assumptions, our loss development rates could increase (or decrease), which would result in an increase (or decrease) in workers’ compensation costs and a resulting decrease (or increase) in net income reported in our Consolidated Statements of Operations.
+The following table illustrates the sensitivity of changes in the loss development rate on our estimate of workers’ compensation costs totaling $69.0 million in 2021:
+Change in Loss Development Rate Change in Workers’ Compensation Costs
+(in thousands)
+Change in
+Net Income
+(in thousands)
+(5.0)% $ (4,185) $ 3,085
+(2.5)% (2,093) 1,542
+2.5% 2,093 (1,542)
+5.0% 4,185 (3,085)
+At the beginning of each policy period, the workers’ compensation insurance carrier establishes monthly funding requirements comprised of premium costs and funds to be set aside for payment of future claims (“claim funds”). The level of claim funds is primarily based upon anticipated WSEE payroll levels and expected workers’ compensation loss rates, as determined by the insurance carrier. Monies funded into the program for incurred claims expected to be paid within one year are recorded as restricted cash, a short-term asset, while the remainder of claim funds are included in deposits, a long-term asset in our Consolidated Balance Sheets. In 2021, we received $35.1 million for the return of excess claim funds related to the workers’ compensation program, which decreased deposits. As of December 31, 2021, we had restricted cash of $46.9 million and deposits of $185.0 million. We have estimated and accrued $239.6 million in incurred workers’ compensation claim costs as of December 31, 2021. Our estimate of incurred claim costs expected to be paid within one year is recorded as accrued workers’ compensation costs and is included in short-term liabilities, while our estimate of incurred claim costs expected to be paid beyond one year is included in long-term liabilities in our Consolidated Balance Sheets.
+•Contingent liabilities - We accrue and disclose contingent liabilities in our Consolidated Financial Statements in accordance with ASC 450-10, Contingencies. GAAP requires accrual of contingent liabilities that are considered probable to occur and that can be reasonably estimated. For contingent liabilities that are considered reasonably possible to occur, financial statement disclosure is required, including the range of possible loss if it can be reasonably determined. From time to time, we disclose in our financial statements issues that we believe are reasonably possible to occur, although we cannot determine the range of possible loss in all cases. As issues develop, we evaluate the probability of future loss and the potential range of such losses. If such evaluation were to determine that a loss was probable and the loss could be reasonably estimated, we would be required to accrue our estimated loss, which would reduce net income in the period that such determination was made.
+2021 Form 10-K
+•Allowance for doubtful accounts - We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of our clients to pay their comprehensive service fees. We believe that the success of our business is heavily dependent on our ability to collect these comprehensive service fees for several reasons, including:
+•the fact that we are at risk for the payment of our direct costs and WSEE payroll costs regardless of whether our clients pay their comprehensive service fees
+•the large volume and dollar amount of transactions we process
+•the periodic and recurring nature of payroll, upon which the comprehensive service fees are based
+To mitigate this risk, we have established very tight credit policies. We generally require our PEO HR Outsourcing solutions clients to pay their comprehensive service fees no later than the same day as the applicable payroll date. In addition, we generally maintain the right to terminate the CSA and associated WSEEs or to require prepayment, letters of credit or other collateral if a client’s financial position deteriorates or if the client does not pay the comprehensive service fee. As a result of these efforts, losses related to client nonpayment have historically been low as a percentage of revenues. However, if our clients’ financial conditions were to deteriorate rapidly, resulting in nonpayment, our accounts receivable balances could grow and we could be required to provide for additional allowances, which would decrease net income in the period that such determination was made.
+New Accounting Pronouncements
+We believe that we have implemented the accounting pronouncements with a material impact on our financial statements and do not believe there are any new or pending pronouncements that will materially impact our financial position or results of operations. Please read Note 1 “Accounting Policies,” to the Consolidated Financial Statements for additional information.
+2021 Form 10-K
+Results of Operations
+The following table summarizes our key financial and statistical information related to our results of operations:
+(in thousands, except per share and statistical data)
+Year Ended December 31, % Change
+2021 2020 2019 2021 v 2020 2020 v 2019
+Financial data:
+Revenues(1)
+$ 4,973,070 $ 4,287,004 $ 4,314,804 16.0 % (0.6) %
+Gross profit 820,102 806,854 732,934 1.6 % 10.1 %
+Operating expenses 646,773 612,165 546,301 5.7 % 12.1 %
+Operating income 173,329 194,689 186,633 (11.0) % 4.3 %
+Other income (expense) (5,011) (5,419) 3,010 (7.5) % (280.0) %
+Net income 124,080 138,237 151,099 (10.2) % (8.5) %
+Diluted EPS 3.18 3.54 3.70 (10.2) % (4.3) %
+Non-GAAP financial measures(2):
+Adjusted net income $ 154,026 $ 181,314 $ 169,449 (15.1) % 7.0 %
+Adjusted EBITDA 254,946 288,620 250,006 (11.7) % 15.4 %
+Adjusted EPS 3.95 4.64 4.15 (14.9) % 11.8 %
+Average WSEEs paid
+250,745 234,223 235,547 7.1 % (0.6) %
+Statistical data (per WSEE per month):
+Revenues(3)
+$ 1,653 $ 1,525 $ 1,527 8.4 % (0.1) %
+Gross profit
+273 287 259 (4.9) % 10.8 %
+Operating expenses
+215 218 193 (1.4) % 13.0 %
+Operating income
+58 69 66 (15.9) % 4.5 %
+Net income
+41 49 53 (16.3) % (7.5) %
+Adjusted EBITDA(2)
+85 103 88 (17.5) % 17.0 %
+___________________________________
+(1)Revenues are comprised of gross billings less WSEE payroll costs as follows:
+Year ended December 31,
+(in thousands)
+2021 2020 2019
+Gross billings
+$ 33,318,693 $ 28,168,611 $ 27,212,010
+Less: WSEE payroll cost
+28,345,623 23,881,607 22,897,206
+Revenues
+$ 4,973,070 $ 4,287,004 $ 4,314,804
+(2)Please read “-Non-GAAP Financial Measures” for a reconciliation of the non-GAAP financial measures to their most directly comparable financial measures calculated and presented in accordance with GAAP.
+(3)Revenues per WSEE per month are comprised of gross billings per WSEE per month less WSEE payroll costs per WSEE per month as follows:
+Year Ended December 31,
+(per WSEE per month) 2021 2020 2019
+Gross billings $ 11,073 $ 10,022 $ 9,627
+Less: WSEE payroll cost
+9,420 8,497 8,100
+Revenues $ 1,653 $ 1,525 $ 1,527
+2021 Form 10-K
+Key Operating Metrics
+We monitor certain key metrics to measure our performance, including:
+•WSEEs
+•Adjusted EBITDA
+•Adjusted EPS
+Our growth in the number of WSEEs paid is affected by three primary sources: new client sales, client retention and the net change in existing clients through WSEE new hires and terminations.
+•During 2021, the average number of WSEEs paid from new client sales increased 8.8% from 2020. The net gain (loss) in our client base also improved compared to 2020. Average client retention remained flat at 82% in both 2020 and 2021.
+•During 2020, the average number of WSEEs paid from new client sales decreased 1.5% from 2019. The net gain (loss) in our client base declined compared to 2019. Average client retention declined from 85% in 2019 to 82% in 2020.
+2021 Compared to 2020
+Our revenues for 2021 were $5.0 billion, an increase of 16.0%, primarily due to the following:
+•Average WSEEs paid increased 7.1%.
+•Revenues per WSEE per month increased 8.4%, or $128, primarily due to 5.1% higher average pricing, as well as the non-recurrence of the 2020 FICA deferral credits of $121.3 million, or $43 per WSEE per month, and the 2020 comprehensive service fee credits of $11.6 million, or $4 per WSEE per month.
+2021 Form 10-K
+2020 Compared to 2019
+Our revenues for 2020 were $4.3 billion, a decrease of 0.6%, primarily due to the following:
+•Average WSEEs paid decreased 0.6%.
+•Revenues per WSEE per month decreased 0.1%, or $2, as 3.0% higher average pricing was partially offset by $121.3 million, or $43 per WSEE per month, in FICA deferral elections by clients and credits pursuant to the CARES Act and the FFCRA. These deferral elections also reduced our direct costs and therefore had no net effect on our gross profit. In addition, during the second quarter of 2020, we reduced revenue by $11.6 million, or $4 per WSEE per month, for client comprehensive service fee credits applied generally on a WSEE basis across our active client base to assist clients in addressing the unprecedented economic impact of the COVID-19 pandemic in 2020.
+We provide our PEO HR Outsourcing solutions to small and medium-sized businesses throughout the United States. PEO HR Outsourcing solutions revenue distribution by region follows:
+PEO HR Outsourcing Solutions Revenue by Region
+(in thousands)
+____________________________________
+Note: Texas is included in the Southwest region.
+The percentage of total PEO HR Outsourcing solutions revenues in our significant markets include the following:
+Significant Markets
+2021 Form 10-K
+Gross Profit
+In determining the pricing of the markup component of our gross billings, we take into consideration our estimates of the costs directly associated with our WSEEs, including payroll taxes, benefits and workers’ compensation costs, plus an acceptable gross profit margin. As a result, our gross profit per WSEE and our operating results are significantly impacted by our ability to accurately estimate, control and manage our direct costs relative to the revenues derived from the markup component of our gross billings.
+Our gross billings charged to our PEO HR Outsourcing solutions clients are subject to pricing arrangements that are typically renewed annually. We use gross profit per WSEE per month as our principal measurement of relative performance at the gross profit level.
+2021 Compared to 2020
+Our pricing objectives attempt to achieve a level of revenue per WSEE that matches or exceeds changes in primary direct costs and operating expenses. Our revenues per WSEE per month increased $128 due to non-recurrence of the 2020 FICA deferral credits, comprehensive service fee credits, and higher average pricing. Our direct costs per WSEE per month increased $142 due primarily to changes in our direct costs components as described below.
+The net increase in direct costs between 2021 and 2020 attributable to changes in cost estimates for benefits and workers’ compensation totaled $5.5 million as discussed below. The primary direct cost components changed as follows:
+Benefits costs
+•The cost of group health insurance and related employee benefits increased $58 per WSEE per month, or 9.8% on a per covered employee basis due primarily to an increase in claims in 2021 compared to 2020, which had lower claims as a result of lower utilization and the deferral of non-essential health care procedures, primarily in the second quarter of 2020, in connection with the COVID-19 pandemic and related government requirements or guidance. Our healthcare claim activity in 2021 included a continued variability in claim incurral patterns, combined with incremental costs related to COVID-19 testing, vaccination administration, and treatment costs, which were driven by further COVID-19 variants.
+•The percentage of WSEEs covered under our health insurance plan was 67.0% in 2021 and 67.9% in 2020.
+2021 Form 10-K
+•Reported results include changes in estimated claims run-off related to prior periods, which was an increase in costs of $4.9 million, or $2 per WSEE per month, in 2021 compared to a decrease in costs of $0.2 million, but remained flat on a per WSEE per month basis, in 2020.
+Please read “-Critical Accounting Policies and Estimates-Benefits Costs” for a discussion of our accounting for health insurance costs.
+Workers’ compensation costs
+Our continued discipline around our client selection, safety and claims management contributed to the reduction in our cost per WSEE and, as a result, has allowed for claims within our policy periods to be closed out at amounts below our original costs estimates.
+•Workers’ compensation costs increased 4.7%, but remained flat on a per WSEE per month basis, in 2021 compared to 2020.
+•As a percentage of non-bonus payroll cost, workers’ compensation costs in 2021 were 0.29% compared to 0.32% in 2020.
+•As a result of closing out claims incurred in prior periods at lower than expected costs, we recorded a reduction in workers’ compensation costs of $41.7 million, or 0.18% of non-bonus payroll costs, in 2021 compared to a reduction of $42.1 million, or 0.20% of non-bonus payroll costs, in 2020. Both the 2021 and 2020 periods costs include the impact of a 0.6% discount rate used to accrue workers’ compensation loss claims.
+Please read “-Critical Accounting Policies and Estimates-Workers’ Compensation Costs” for a discussion of our accounting for workers’ compensation costs.
+Payroll tax costs
+•Payroll taxes increased 24.9% on an 18.7% increase in payroll costs, or $84 per WSEE per month, due primarily to the non-recurrence of $121.3 million in client FICA deferral elections and tax credits pursuant to the CARES Act and FFCRA in 2020, partially offset by the 2021 collection of $16.8 million in federal payroll tax refunds related to prior years.
+•Payroll taxes as a percentage of payroll cost increased to 6.3% in 2021 compared to 6.0% in 2020.
+2020 Compared to 2019
+The net decrease in direct costs between 2020 and 2019 attributable to changes in cost estimates for benefits and workers’ compensation totaled $12.9 million as discussed below. The primary direct cost components changed as follows:
+Benefits costs
+•The cost of group health insurance and related employee benefits increased $11 per WSEE per month, but decreased 0.5%, on a per covered employee basis due primarily to a decrease in claims as a result of lower utilization and the deferral of nonessential healthcare procedures in response to COVID-19 governmental requirements or guidance.
+•The percentage of WSEEs covered under our health insurance plan was 67.9% in 2020 and 66.5% in 2019.
+•Reported results include changes in estimated claims run-off related to prior periods, which was a decrease in costs of $0.2 million, but remained flat on a per WSEE per month basis, in 2020 compared to an increase in costs of $2.3 million, or $1 per WSEE per month, in 2019.
+Please read “-Critical Accounting Policies and Estimates-Benefits Costs” for a discussion of our accounting for health insurance costs.
+2021 Form 10-K
+Workers’ compensation costs
+Our continued discipline around our client selection, safety and claims management contributed to the reduction in our cost per WSEE and, as a result, has allowed for claims within our policy periods to be closed out at amounts below our original costs estimates.
+•Workers’ compensation costs decreased 19.7%, or $6 per WSEE per month, in 2020 compared to 2019.
+•As a percentage of non-bonus payroll cost, workers’ compensation costs in 2020 were 0.32% compared to 0.41% in 2019.
+•As a result of closing out claims incurred in prior periods at lower than expected costs, we recorded a reduction in workers’ compensation costs of $42.1 million, or 0.20% of non-bonus payroll costs, in 2020 compared to a reduction of $31.7 million, or 0.16% of non-bonus payroll costs, in 2019. The 2020 period costs include the impact of a 0.6% discount rate used to accrue workers’ compensation loss claims, compared to a 1.9% discount rate used in the 2019 period.
+Please read “-Critical Accounting Policies and Estimates-Workers’ Compensation Costs” for a discussion of our accounting for workers’ compensation costs.
+Payroll tax costs
+•Payroll taxes decreased 6.9%, or $34 per WSEE per month, due primarily to $121.3 million in FICA deferral elections and tax credits by clients pursuant to the CARES Act and FFCRA. In addition, IRS tax reporting changes in 2020 eliminated PEO reporting of payroll taxes for self-employed owners. These reductions were partially offset by a 4.3% increase in payroll costs.
+•Payroll taxes as a percentage of payroll cost were 6.0% in 2020 and 6.7% in 2019.
+Operating Expenses
+2021 Compared to 2020
+The following table presents certain information related to our operating expenses:
+Year Ended December 31,
+per WSEE
+(in thousands, except per WSEE) 2021 2020 % Change 2021 2020 % Change
+Salaries $ 379,171 $ 353,273 7.3 % $ 126 $ 126 -
+Stock-based compensation 40,623 60,145 (32.5) % 14 21 (33.3) %
+Commissions 34,922 32,835 6.4 % 12 12 -
+Advertising 29,097 21,556 35.0 % 10 8 25.0 %
+General and administrative 124,413 113,167 9.9 % 40 40 -
+Depreciation and amortization 38,547 31,189 23.6 % 13 11 18.2 %
+Total operating expenses $ 646,773 $ 612,165 5.7 % $ 215 $ 218 (1.4) %
+Operating expenses for 2021 increased 5.7% to $646.8 million compared to $612.2 million in 2020. Operating expenses per WSEE per month for 2021 decreased 1.4% to $215 compared to $218 in 2020.
+•Salaries of corporate and sales staff increased 7.3% to $379.2 million, but remained flat on a per WSEE per month basis, compared to 2020. The increase was primarily due to higher incentive compensation expense.
+•Stock-based compensation decreased 32.5% to $40.6 million, or $7 per WSEE per month, compared to 2020. The decrease was primarily due to the non-recurrence of stock-based compensation expense related to our 2020 short-term performance based awards. Please read Note 1 “Accounting Policies” and Note 9 “Incentive Plans,” to the Consolidated Financial Statements for additional information.
+2021 Form 10-K
+•Commissions expense increased 6.4% to $34.9 million, but remained flat on a per WSEE per month basis, compared to 2020. Commissions are primarily due to commissions associated with our PEO HR Outsourcing solutions, including an increase in the amount of sales channel referral fees paid during 2021.
+•Advertising expense increased 35.0% to $29.1 million, or $2 per WSEE per month, compared to 2020. The increase was due to the resumption of the Insperity Invitational in 2021, which was canceled in 2020 due to the COVID-19 pandemic, as well as increases in television, radio and digital advertising and sponsorship costs.
+•General and administrative expenses increased 9.9% to $124.4 million, but remained flat on a per WSEE per month basis, compared to 2020. The increase was primarily due to technology SaaS licensing costs and professional services related to the implementation of a CRM solution, partially offset by decreases in travel costs.
+•Depreciation and amortization expense increased 23.6% to $38.5 million, or $2 per WSEE per month, compared to 2020. The increase was primarily due to the completion of a new facility on our corporate campus and increased capital expenditures related to software development costs.
+2020 Compared to 2019
+The following table presents certain information related to our operating expenses:
+Year Ended December 31,
+per WSEE
+(in thousands, except per WSEE) 2020 2019 % Change 2020 2019 % Change
+Salaries $ 353,273 $ 317,124 11.4 % $ 126 $ 112 12.5 %
+Stock-based compensation 60,145 23,993 150.7 % 21 8 162.5 %
+Commissions 32,835 31,420 4.5 % 12 11 9.1 %
+Advertising 21,556 21,603 (0.2) % 8 8 -
+General and administrative 113,167 123,438 (8.3) % 40 44 (9.1) %
+Depreciation and amortization 31,189 28,723 8.6 % 11 10 10.0 %
+Total operating expenses $ 612,165 $ 546,301 12.1 % $ 218 $ 193 13.0 %
+Operating expenses for 2020 increased 12.1% to $612.2 million compared to $546.3 million in 2019. Operating expenses per WSEE per month for 2020 increased 13.0% to $218 compared to $193 in 2019.
+•Salaries of corporate and sales staff increased 11.4% to $353.3 million, or $14 per WSEE per month, compared to 2019. The increase was primarily due to a 4.1% increase in headcount, including a 9.3% increase in total BPAs in 2020 and higher incentive compensation expense during 2020 related to better than expected 2020 operating results compared to lower than expected 2019 operating results.
+•Stock-based compensation increased 150.7% to $60.1 million, or $13 per WSEE per month, compared to 2019. The increase was primarily due to an increase in the number of stock awards anticipated to be earned related to performance-based awards granted under our short-term and long-term incentive plans based on our higher than expected operating results in 2020 compared to lower than expected operating results in 2019. In addition, 2020 contains the acceleration of stock-based compensation expense for employees who meet the retirement eligibility requirements for continued vesting.
+•Commissions expense increased 4.5% to $32.8 million, or $1 per WSEE per month, compared to 2019. Commissions are primarily due to commissions associated with our PEO HR Outsourcing solutions, including an increase in the amount of sales channel referral fees paid during 2020.
+•Advertising expense was flat compared to 2019, as a decrease in trade shows and events due to COVID-19 was partially offset by an increase in internet and radio advertising.
+•General and administrative expenses decreased 8.3% to $113.2 million, or $4 per WSEE per month, compared to 2019. The decrease was primarily due to reductions in travel and training costs in response to the COVID-19 pandemic, partially offset by an increase in technology licensing costs, corporate insurance and rent expense.
+2021 Form 10-K
+•Depreciation and amortization expense increased 8.6% to $31.2 million, or $1 per WSEE per month, compared to 2019. The increase was primarily due to increased capital expenditures related to software development costs and sales office expansions.
+Other Income (Expense)
+Other income (expense), was expense of $5.0 million in 2021, expense of $5.4 million in 2020 and income of $3.0 million in 2019. In 2021, the decrease in interest expense was due to a decrease in the average interest rate. In 2020, the decrease in other income was due to a decrease in interest income on our marketable securities investments and workers’ compensation deposits and a slight increase in interest expense related to the higher outstanding balance on our credit facility. In 2019, higher interest income earnings on our investments was offset by higher interest expense on our outstanding debt. Please read Note 2 to the Consolidated Financial Statements, “Cash, Cash Equivalents and Marketable Securities,” for additional information.
+Income Tax Expense
+Our effective income tax rate was 26.3% in 2021, 27.0% in 2020 and 20.3% in 2019. Our provision for income taxes differed from the U.S. statutory rate of 21% primarily due to state income taxes and non-deductible expenses, offset by excess tax benefits associated with the vesting of equity compensation of $2.6 million, $2.1 million and $14.6 million, in 2021, 2020 and 2019, respectively. Please read Note 1 “Accounting Policies” and Note 7 “Income Taxes,” to the Consolidated Financial Statements for additional information.
+2021 Form 10-K
+Non-GAAP Financial Measures
+Non-GAAP financial measures are not prepared in accordance with GAAP and may be different from non-GAAP financial measures used by other companies. Non-GAAP financial measures should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. Investors are encouraged to review the reconciliation of the non-GAAP financial measures used to their most directly comparable GAAP financial measures as provided in the tables below.
+Non-GAAP Measure Definition Benefit of Non-GAAP Measure
+Non-bonus payroll cost Non-bonus payroll cost is a non-GAAP financial measure that excludes the impact of bonus payrolls paid to our WSEEs.
+Bonus payroll cost varies from period to period, but has no direct impact to our ultimate workers’ compensation costs under the current program.
+Our management refers to non-bonus payroll cost in analyzing, reporting and forecasting our workers’ compensation costs.
+We include these non-GAAP financial measures because we believe they are useful to investors in allowing for greater transparency related to the costs incurred under our current workers’ compensation program.
+Adjusted cash, cash equivalents and marketable securities Excludes funds associated with:
+• federal and state income tax withholdings,
+• employment taxes,
+• other payroll deductions, and
+• client prepayments.
+We believe that the exclusion of the identified items helps us reflect the fundamentals of our underlying business model and analyze results against our expectations, against prior periods, and to plan for future periods by focusing on our underlying operations. We believe that the adjusted results provide relevant and useful information for investors because they allow investors to view performance in a manner similar to the method used by management and improves their ability to understand and assess our operating performance. Adjusted EBITDA is used by our lenders to assess our leverage and ability to make interest payments.
+EBITDA Represents net income computed in accordance with GAAP, plus:
+• interest expense,
+• income tax expense, and
+• depreciation and amortization expense.
+Adjusted EBITDA Represents EBITDA plus:
+• non-cash stock based compensation.
+Adjusted net income Represents net income computed in accordance with GAAP, excluding:
+• non-cash stock based compensation.
+Adjusted EPS Represents diluted net income per share computed in accordance with GAAP, excluding:
+• non-cash stock based compensation.
+2021 Form 10-K
+Following is a reconciliation of payroll cost (GAAP) to non-bonus payroll costs (non-GAAP):
+Year Ended December 31,
+(in thousands, except per WSEE per month) 2021 2020 2019
+Per WSEE Per WSEE Per WSEE
+Payroll cost $ 28,345,623 $ 9,420 $ 23,881,607 $ 8,497 $ 22,897,206 $ 8,100
+Less: Bonus payroll cost 4,719,217 1,568 3,238,284 1,152 2,880,680 1,019
+Non-bonus payroll cost $ 23,626,406 $ 7,852 $ 20,643,323 $ 7,345 $ 20,016,526 $ 7,081
+% Change year over year
+14.5 % 6.9 % 3.1 % 3.7 % 14.4 % 1.5 %
+Following is a reconciliation of net income (GAAP) to EBITDA (non-GAAP) and adjusted EBITDA (non-GAAP):
+(in thousands, except per WSEE per month)
+Year Ended December 31,
+2021 2020 2019
+Per WSEE Per WSEE Per WSEE
+Net income $ 124,080 $ 41 $ 138,237 $ 49 $ 151,099 $ 53
+Income tax expense 44,238 15 51,033 19 38,544 14
+Interest expense 7,458 2 8,016 3 7,647 3
+Depreciation and amortization 38,547 13 31,189 11 28,723 10
+EBITDA 214,323 71 228,475 82 226,013 80
+Stock-based compensation 40,623 14 60,145 21 23,993 8
+Adjusted EBITDA $ 254,946 $ 85 $ 288,620 $ 103 $ 250,006 $ 88
+% Change year over year (11.7) % (17.5) % 15.4 % 17.0 % 4.3 % (7.4) %
+Following is a reconciliation of cash, cash equivalents and marketable securities (GAAP) to adjusted cash, cash equivalents and marketable securities (non-GAAP):
+December 31,
+(in thousands) 2021 2020
+Cash, cash equivalents and marketable securities $ 607,603 $ 589,375
+Less:
+Amounts payable for withheld federal and state income taxes, employment taxes and other payroll deductions 424,800 341,988
+Client prepayments 20,054 35,328
+Adjusted cash, cash equivalents and marketable securities $ 162,749 $ 212,059
+2021 Form 10-K
+Following is a reconciliation of net income (GAAP) to adjusted net income (non-GAAP):
+Year Ended December 31,
+(in thousands) 2021 2020 2019
+Net income $ 124,080 $ 138,237 $ 151,099
+Non-GAAP adjustments:
+Stock-based compensation 40,623 60,145 23,993
+Tax effect of non-GAAP adjustments (10,677) (17,068) (5,643)
+Total non-GAAP adjustments, net 29,946 43,077 18,350
+Adjusted net income $ 154,026 $ 181,314 $ 169,449
+% Change year over year (15.1) % 7.0 % 7.6 %
+Following is a reconciliation of diluted EPS (GAAP) to adjusted EPS (non-GAAP):
+Year Ended December 31,
+(amounts per share) 2021 2020 2019
+Diluted EPS $ 3.18 $ 3.54 $ 3.70
+Non-GAAP adjustments:
+Stock-based compensation 1.04 1.54 0.59
+Tax effect of non-GAAP adjustments (0.27) (0.44) (0.14)
+Total non-GAAP adjustments, net 0.77 1.10 0.45
+Adjusted EPS $ 3.95 $ 4.64 $ 4.15
+% Change year over year
+(14.9) % 11.8 % 10.7 %
+Liquidity and Capital Resources
+We periodically evaluate our liquidity requirements, capital needs and availability of resources in view of, among other things, our expansion plans, stock repurchases, potential acquisitions, debt service requirements and other operating cash needs. To meet short-term liquidity requirements, which are primarily the payment of direct costs and operating expenses, we rely primarily on cash from operations. Longer-term projects, large stock repurchases or significant acquisitions may be financed with public or private debt or equity. We have a $500 million revolving credit facility (“Facility”) with a syndicate of financial institutions. The Facility is available for working capital and general corporate purposes, including acquisitions and stock repurchases. We have in the past sought, and may in the future seek, to raise additional capital or take other steps to increase or manage our liquidity and capital resources.
+We had $607.6 million in cash, cash equivalents and marketable securities at December 31, 2021, of which approximately $424.8 million was payable in early January 2022 for withheld federal and state income taxes, employment taxes and other payroll deductions, and $20.1 million were client prepayments that were payable in January 2022. At December 31, 2021, we had working capital of $116.3 million compared to $172.3 million at December 31, 2020. The reduction in working capital reflects, in part, cash flow from operations, share repurchases, dividends and capital expenditures. We currently believe that our cash on hand, marketable securities, cash flows from operations and availability under our Facility will be adequate to meet our liquidity requirements for 2022. We intend to rely on these same sources, as well as public and private debt or equity financing, to meet our longer-term liquidity and capital needs.
+At December 31, 2021, we had outstanding letters of credit and borrowings totaling $370.4 million under the Facility. Please read Note 6 to the Consolidated Financial Statements, “Long-Term Debt,” for additional information.
+2021 Form 10-K
+Cash Flows from Operating Activities
+Our net cash flows from operating activities in 2021 were $260.2 million. Our primary source of cash from operations is the comprehensive service fee and payroll funding we collect from our PEO HR Outsourcing solutions clients. Cash and cash equivalents, and thus our reported cash flows from operating activities, are significantly impacted by various external and internal factors, which are reflected in part by the changes in our balance sheet accounts. These include the following:
+•Timing of client payments / payroll taxes - We typically collect our comprehensive service fee, along with the client’s payroll funding, from clients no later than the same day as the payment of WSEE payrolls and associated payroll taxes. Therefore, the last business day of a reporting period has a substantial impact on our reporting of operating cash flows. For example, many WSEEs are paid on Fridays and at month-end; therefore, operating cash flows decrease in the reporting periods that end on a Friday. In the year ended December 31, 2021, the last business day of the reporting period ended on a Friday, client prepayments were $20.1 million and amounts payable for withheld federal and state income taxes, employment taxes and other payroll deductions was $424.8 million. In the year ended December 31, 2020, which ended on a Thursday, client prepayments were $35.3 million and amounts payable for withheld federal and state income taxes, employment taxes and other payroll deductions was $342.0 million.
+•Workers’ compensation plan funding - In 2021 and 2020, we received $35.1 million and $28.2 million, respectively, for the return of excess claim funds related to the workers’ compensation program, which resulted in an increase in working capital.
+•Medical plan funding - Our health care contract with United establishes participant cash funding rates 90 days in advance of the beginning of a reporting quarter. Therefore, changes in the participation level of the United plan have a direct impact on our operating cash flows. In addition, changes to the funding rates, which are determined solely by United based primarily upon recent claim history and anticipated cost trends, also have a significant impact on our operating cash flows. As of December 31, 2021, Plan Costs were more than the net premiums paid and owed to United by $22.0 million, which is $31.0 million less than our agreed-upon $9.0 million surplus maintenance level. The $31.0 million difference is therefore reflected as a current liability and $9.0 million is reflected as a long-term asset on our Consolidated Balance Sheets at December 31, 2021. In addition, the premiums owed to United at December 31, 2021, were $12.6 million, which is included in accrued health insurance costs, a current liability, on our Consolidated Balance Sheets.
+•Operating results - Our adjusted net income has a significant impact on our operating cash flows. Our adjusted net income decreased 15.1% to $154.0 million in 2021 from $181.3 million in 2020. Please read “Results of Operations.”
+Cash Flows from Investing Activities
+Our net cash flows used in investing activities were $31.0 million during 2021, primarily due to $32.9 million in property and equipment purchases.
+Cash Flows from Financing Activities
+Our net cash flows used in financing activities were $208.1 million during 2021. We repurchased $69.7 million in stock and paid $144.2 million in dividends, including a special cash dividend of $76.7 million paid in the fourth quarter.
+Seasonality, Inflation and Quarterly Fluctuations
+Our quarterly earnings are impacted by the seasonal nature of our medical claims costs and payroll taxes. Typically, medical claims costs tend to increase throughout the year with the fourth quarter being the period with the highest costs, which has a negative impact on our fourth quarter earnings. This trend is primarily the result of many WSEEs’ medical plan deductibles being fully met by the fourth quarter, which increases our liability with respect to those claims. We have also experienced variability on a quarterly basis in medical claims costs based on the unpredictable nature of large claims and the COVID-19 pandemic effect on health care utilization patterns, as well as incremental costs related to COVID-19 testing, vaccination administration and treatment, which were driven by further COVID-19 variants. Payroll taxes and associated billings are computed based on an employee’s annual taxable wage base. The annual payroll tax wage bases are frequently met in the first two quarters of each year depending on the employee’s compensation levels. As a result, the gross profit contribution from payroll taxes is typically higher in the first two quarters and declines in the latter half of
+2021 Form 10-K
+each year. These historical trends may change and other seasonal trends may develop in the future. For further information related to our health insurance costs, please read “-Critical Accounting Policies and Estimates-Benefits Costs.”
+We believe the effects of inflation have not had a significant impact on our results of operations or financial condition, however, inflationary pressure could adversely impact our profitability in the future.
+2021 Form 10-K

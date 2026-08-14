@@ -1,0 +1,393 @@
+ITEM 7 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+RESULTS OF OPERATIONS
+NET INTEREST INCOME
+Net interest income is determined by calculating the difference between the yields earned on interest-earning assets and the rates paid on interest-bearing liabilities. To compare the tax-exempt asset yields to taxable yields, amounts are adjusted to taxable equivalents based on the marginal corporate federal tax rate of 21%. The tax equivalent adjustments to net interest income for 2020, 2019, and 2018 were $476,000, $489,000, and $700,000, respectively.
+2020 vs. 2019
+Reported net interest income decreased $2,592,000 to $48,223,000 for the year ended December 31, 2020 compared to the year ended December 31, 2019, as the growth in the earning asset portfolio was offset by a decrease in the yield on earning assets to 3.80% from 4.33%. Total interest income decreased $4,136,000 primarily from a decrease in the tax equivalent yield on the loan portfolio decreasing 16 basis points ("bp") coupled with a decrease in the average balance of the loan portfolio of $26,382,000. Tax equivalent interest income on the investment portfolio decreased $688,000 as the yield on the investment portfolio decreased 65 bp. The decrease in the yield on the earning asset portfolio was driven by the impact of the continued low interest rate environment resulting from the COVID-19 pandemic.
+Interest expense decreased $1,544,000 to $14,415,000 for the year ended December 31, 2020 compared to 2019. The decrease in interest expense was driven by a 14 bp decrease in the average rate paid on interest-bearing deposits led by a 29 bp decrease in the average rate paid on money market deposits. The decrease in the average rate paid on interest-bearing deposits was offset by an increase in the balance of the average interest-bearing deposit portfolio of $45,673,000. Interest expense on total borrowings decreased $666,000 as the balance of average total borrowings decreased $15,442,000 due to the growth in the deposit portfolio. The decrease in the overall rate paid on interest-bearing liabilities is the result of the continued low interest rate environment.
+2019 vs. 2018
+Reported net interest income increased $3,005,000 to $50,815,000 for the year ended December 31, 2019 compared to the year ended December 31, 2018, as growth in the earning asset portfolio was coupled with the yield on earning assets increasing to 4.33% from 4.06%. Total interest income increased $8,028,000 primarily from the growth in the average balance of the loan portfolio along with an increase in the average balance of the investment portfolio as the investment portfolio is actively managed to reduce interest rate and market risk. Interest income on a tax equivalent basis recognized on the loan portfolio increased $6,341,000 due to a $50,797,000 increase in the average balance in the loan portfolio coupled with a 31 basis point ("bp") increase in the loan portfolio yield. Interest and dividend income generated from the investment portfolio on a tax equivalent basis increased $1,224,000 due to a $23,443,000 increase in the average balance in the investment portfolio and a 30 bp increase in the average rate.
+Interest expense increased $5,023,000 to $15,959,000 for the year ended December 31, 2019 compared to 2018. The increase in interest expense was driven by growth in interest bearing deposits, primarily time deposits. The average rate paid on interest-bearing liabilities increased 35 bp to 1.34% for 2019. The average rate paid on time deposits increased 55 bp as the time deposit portfolio was lengthened and utilized to reduce total borrowings. Interest expense paid on super now deposits increased $725,000 due to a $5,931,000 increase in the average balance and a 30 bp increase in the average rate. Money market interest expense increased $970,000 due to an increase in average rate paid of 41 bp.
+AVERAGE BALANCES AND INTEREST RATES
+The following tables set forth certain information relating to the Corporation’s average balance sheet and reflect the average yield on assets and average cost of liabilities for the periods indicated and the average yields earned and rates paid. Such yields and costs are derived by dividing income or expense by the average balance of assets or liabilities, respectively, for the periods presented.
+2020 2019 2018
+(Dollars In Thousands) Average Balance (1)
+Interest Average Rate Average Balance (1)
+Interest Average Rate Average Balance (1)
+Interest Average Rate
+Assets:
+Tax-exempt loans (3)
+$ 45,650 $ 1,441 3.16 % $ 66,435 $ 2,038 3.07 % $ 74,923 $ 2,242 2.99 %
+All other loans (4)
+1,304,209 56,079 4.30 % 1,309,806 58,774 4.49 % 1,250,521 52,229 4.18 %
+Total loans (2)
+1,349,859 57,520 4.26 % 1,376,241 60,812 4.42 % 1,325,444 54,471 4.11 %
+Taxable securities 142,714 4,630 3.30 % 134,935 5,306 3.99 % 100,915 3,828 3.79 %
+Tax-exempt securities (3)
+28,973 823 2.89 % 25,702 835 3.29 % 36,279 1,089 3.00 %
+Total securities 171,687 5,453 3.23 % 160,637 6,141 3.88 % 137,194 4,917 3.58 %
+Interest-bearing deposits 140,022 141 0.10 % 21,161 310 2.00 % 3,005 58 1.93 %
+Total interest-earning assets 1,661,568 63,114 3.80 % 1,558,039 67,263 4.33 % 1,465,643 59,446 4.06 %
+Other assets 118,536 111,839 97,577
+Total assets $ 1,780,104 $ 1,669,878 $ 1,563,220
+Liabilities and shareholders’ equity:
+Savings $ 193,568 256 0.13 % $ 169,832 216 0.13 % $ 164,844 75 0.05 %
+Super Now deposits 254,177 1,755 0.69 % 231,816 1,758 0.76 % 225,885 1,033 0.46 %
+Money market deposits 245,633 1,529 0.62 % 239,317 2,184 0.91 % 240,541 1,214 0.50 %
+Time deposits 338,895 7,025 2.07 % 345,635 7,285 2.11 % 259,286 4,048 1.56 %
+Total interest-bearing deposits 1,032,273 10,565 1.02 % 986,600 11,443 1.16 % 890,556 6,370 0.72 %
+Short-term borrowings 12,660 43 0.34 % 34,897 793 2.27 % 85,086 1,757 2.06 %
+Long-term borrowings 162,636 3,807 2.34 % 155,841 3,723 2.25 % 128,127 2,809 2.19 %
+Total borrowings 175,296 3,850 2.20 % 190,738 4,516 2.25 % 213,213 4,566 2.14 %
+Total interest-bearing liabilities 1,207,569 14,415 1.19 % 1,177,338 15,959 1.34 % 1,103,769 10,936 0.99 %
+Demand deposits 394,210 321,443 303,606
+Other liabilities 20,858 22,379 18,742
+Shareholders’ equity 157,467 148,718 137,103
+Total liabilities and shareholders’ equity $ 1,780,104 $ 1,669,878 $ 1,563,220
+Interest rate spread 2.61 % 2.99 % 3.07 %
+Net interest income/margin $ 48,699 2.94 % $ 51,304 3.31 % $ 48,510 3.31 %
+1.Information on this table has been calculated using average daily balance sheets to obtain average balances.
+2.Non-accrual loans have been included with loans for the purpose of analyzing net interest earnings.
+3.Income and rates on a fully taxable equivalent basis include an adjustment for the difference between annual income from tax-exempt obligations and the taxable equivalent of such income at the standard tax rate of 21%.
+4.Fees on loans are included with interest on loans as follows: 2020 - $695,000; 2019 - $775,000; 2018 - $578,000.
+Reconciliation of Taxable Equivalent Net Interest Income
+(In Thousands) 2020 2019 2018
+Total interest income $ 62,638 $ 66,774 $ 58,746
+Total interest expense 14,415 15,959 10,936
+Net interest income 48,223 50,815 47,810
+Tax equivalent adjustment 476 489 700
+Net interest income (fully taxable equivalent) $ 48,699 $ 51,304 $ 48,510
+Rate/Volume Analysis
+The table below sets forth certain information regarding changes in our interest income and interest expense for the periods indicated. For interest-earning assets and interest-bearing liabilities, information is provided on changes attributable to (i) changes in volume (changes in average volume multiplied by old rate) and (ii) changes in rates (changes in rate multiplied by old average volume). Increases and decreases due to both interest rate and volume, which cannot be separated, have been allocated proportionally to the change due to volume and the change due to interest rate. Income and interest rates are on a taxable equivalent basis.
+Year Ended December 31,
+2020 vs. 2019 2019 vs. 2018
+Increase (Decrease) Due To Increase (Decrease) Due To
+(In Thousands) Volume Rate Net Volume Rate Net
+Interest income:
+Loans, tax-exempt $ (600) $ 3 $ (597) $ (213) $ 9 $ (204)
+Loans (248) (2,447) (2,695) 2,553 3,992 6,545
+Taxable investment securities 62 (738) (676) 1,278 200 1,478
+Tax-exempt investment securities 46 (58) (12) (269) 15 (254)
+Interest-bearing deposits 1,259 (1,428) (169) 175 77 252
+Total interest-earning assets 519 (4,668) (4,149) 3,524 4,293 7,817
+Interest expense:
+Savings deposits 40 - 40 2 139 141
+Super Now deposits 80 (83) (3) 27 698 725
+Money market deposits 3 (658) (655) - 970 970
+Time deposits (132) (128) (260) 1,575 1,662 3,237
+Short-term borrowings (321) (429) (750) (973) 9 (964)
+Long-term borrowings 44 40 84 812 102 914
+Total interest-bearing liabilities (286) (1,258) (1,544) 1,443 3,580 5,023
+Change in net interest income $ 805 $ (3,410) $ (2,605) $ 2,081 $ 713 $ 2,794
+PROVISION FOR LOAN LOSSES
+2020 vs. 2019
+The provision for loan losses is based upon management’s quarterly review of the loan portfolio. The purpose of the review is to assess loan quality, identify impaired loans, analyze delinquencies, ascertain loan growth, evaluate potential charge-offs and recoveries, and assess general economic conditions in the markets served. An external independent loan review is also performed semi-annually for the Corporation. Management remains committed to an aggressive program of problem loan identification and resolution.
+The allowance is calculated by applying loss factors to outstanding loans by type, excluding loans for which a specific allowance has been determined. Loss factors are based on management’s consideration of the nature of the portfolio segments, changes in mix and volume of the loan portfolio, and historical loan loss experience. In addition, management considers industry standards and trends with respect to nonperforming loans and its knowledge and experience with specific lending segments.
+Although management believes that it uses the best information available to make such determinations and that the allowance for loan losses is adequate at December 31, 2020, future adjustments could be necessary if circumstances or economic conditions differ substantially from the assumptions used in making the initial determinations. A downturn in the local economy or employment and delays in receiving financial information from borrowers could result in increased levels of nonperforming assets and charge-offs, increased loan loss provisions and reductions in interest income. Additionally, as an integral part of the examination process, bank regulatory agencies periodically review the Banks' loan loss allowance. The banking regulators could require additions to the loan loss allowance based on their judgment of information available to them at the time of their examination.
+While determining the appropriate allowance level, management has attributed the allowance for loan losses to various portfolio segments; however, the allowance is available for the entire portfolio as needed.
+The allowance for loan losses increased from $11,894,000 at December 31, 2019 to $13,803,000 at December 31, 2020. At December 31, 2020, the allowance for loan losses was 1.03% of total loans compared to 0.88% of total loans at December 31, 2019. This increase is due in large part to the economic uncertainty caused by the COVID-19 pandemic.
+The provision for loan losses totaled $2,625,000 for the year ended December 31, 2020 compared to $2,735,000 for the year ended December 31, 2019. The decrease in the provision was appropriate when considering the economic uncertainty caused by the COVID-19 pandemic and level of net charge-offs during 2020. Net charge-offs of $716,000 represented 0.05% of average loans for the year ended December 31, 2020 compared to net charge-offs of $4,678,000 or 0.34% of average loans for the year ended December 31, 2019. The decrease in the loan portfolio was driven by the residential real estate segment that declined $33,535,000 as consumers refinanced their mortgage as they took advantage of historically low mortgage rates on the secondary market. Growth occurred in the automobile segment of the portfolio which due to the economic uncertainty and level of unemployment due to the COVID-19 pandemic required an increased allowance for loan losses. Nonperforming loans decreased $2,087,000 as a nonperforming loan was paid-off during the fourth quarter of 2020. The majority of the nonperforming loans are centered on several loans that are either in a secured position and have sureties with a strong underlying financial position and/or a specific allowance within the allowance for loan losses. Internal loan review and analysis, level of net charge-offs, decreased level of nonperforming loans noted previously, and the economic uncertainty caused by the COVID-19 pandemic, dictated an decrease in the provision for loan losses. Utilizing both internal and external resources, as noted, senior management has concluded that the allowance for loan losses remains at a level adequate to provide for probable losses inherent in the loan portfolio.
+2019 vs. 2018
+The allowance for loan losses declined from $13,837,000 at December 31, 2018 to $11,894,000 at December 31, 2019. At December 31, 2019, the allowance for loan losses was 0.88% of total loans compared to 1.00% of total loans at December 31, 2018. This decline is due to a partial charge off of a commercial relationship of $3,700,000 that was incurred during 2019.
+The provision for loan losses totaled $2,735,000 for the year ended December 31, 2019 compared to $1,735,000 for the year ended December 31, 2018. The increase in the provision was appropriate when considering the gross loan growth and level of net charge-offs during 2019. Net charge-offs of $4,678,000 represented 0.34% of average loans for the year ended December 31, 2019 compared to net charge-offs of $756,000 or 0.06% of average loans for the year ended December 31, 2018. The growth in the loan portfolio was driven by the indirect auto loan portfolio that has experienced minimal charge-offs. In addition, growth occurred in the home equity segment of the loan portfolio which historically is a lower risk product than commercial loans and requires a lower allowance for loan losses. Nonperforming loans decreased $4,151,000 as a large nonperforming loan was partially charged-off during the fourth quarter of 2019. The majority of the nonperforming loans are centered on several loans that are either in a secured position and have sureties with a strong underlying financial position and/or a specific allowance within the allowance for loan losses. Internal loan review and analysis, level of net charge-offs, and decreased level of nonperforming loans noted previously, dictated an increase in the provision for loan losses. Utilizing both internal and external resources, as noted, senior management has concluded that the allowance for loan losses remains at a level adequate to provide for probable losses inherent in the loan portfolio.
+NON-INTEREST INCOME
+2020 vs. 2019
+Total non-interest income increased $1,716,000 from the year ended December 31, 2019 to December 31, 2020. Excluding net security gains, non-interest income increased $856,000 year over year. Service charges decreased primarily due to overdraft income declining as a result of the government actions taken to contain the spread of COVID-19 and economic stimulus provided by the government. Insurance commissions along with brokerage commissions decreased primarily from the impact of the uncertainty surrounding the economy. Debit card income decreased $98,000 primarily due to a decline in debit card usage resulting from the stay at home government actions taken to contain the spread of COVID-19. Gain on sale of loans increased significantly as the low interest rate environment caused an increase in the number of homeowners who refinanced their mortgage to take advantage of historically low interest rates.
+2020 2019 Change
+(In Thousands) Amount % Total Amount % Total Amount %
+Service charges $ 1,690 13.89 % $ 2,411 23.07 % $ (721) (29.90) %
+Net securities gains, available for sale 1,592 13.08 640 6.12 952 148.75
+Net equity securities gains 27 0.22 89 0.85 (62) (69.66)
+Net securities (losses) gains, trading (11) (0.09) 19 0.18 (30) (157.89)
+Bank owned life insurance 653 5.37 574 5.49 79 13.76
+Gain on sale of loans 4,148 34.09 1,754 16.78 2,394 136.49
+Insurance commissions 416 3.42 433 4.14 (17) (3.93)
+Brokerage commissions 970 7.97 1,358 12.99 (388) (28.57)
+Debit card income 1,280 10.52 1,378 13.18 (98) (7.11)
+Other 1,403 11.53 1,796 17.20 (393) (21.88)
+Total non-interest income $ 12,168 100.00 % $ 10,452 100.00 % $ 1,716 16.42 %
+2019 vs. 2018
+Total non-interest income increased $991,000 from the year ended December 31, 2018 to December 31, 2019. Excluding net security gains, non-interest income increased $29,000 year over year. Bank owned life insurance income decreased due to a decrease in the earnings rate. Insurance commissions along with brokerage commissions increased due to a shift in product mix. Gain on sale of loans increased due to increased volume. Debit card income decreased to $1,378,000 for 2019, a decrease of $156,000 or 10.17%, from 2018, primarily due to a decline in debit card usage.
+2019 2018 Change
+(In Thousands) Amount % Total Amount % Total Amount %
+Service charges $ 2,411 23.07 % $ 2,460 26.00 % $ (49) (1.99) %
+Net securities gains (losses), available for sale 640 6.12 (47) (0.50) 687 (1,461.70)
+Net equity securities losses 89 0.85 (170) (1.80) 259 152.35
+Net securities gains (losses), trading 19 0.18 3 0.03 16 (533.33)
+Bank owned life insurance 574 5.49 662 7.00 (88) (13.29)
+Gain on sale of loans 1,754 16.78 1,518 16.04 236 15.55
+Insurance commissions 433 4.14 365 3.86 68 18.63
+Brokerage commissions 1,358 12.99 1,336 14.12 22 1.65
+Debit card income 1,378 13.18 1,534 16.21 (156) (10.17)
+Other 1,796 17.20 1,800 19.04 (4) (0.22)
+Total non-interest income $ 10,452 100.00 % $ 9,461 100.00 % $ 991 10.47 %
+NON-INTEREST EXPENSE
+2020 vs. 2019
+Total non-interest expenses decreased $640,000 from the year ended December 31, 2019 to December 31, 2020. The decrease in salaries and employee benefits was attributable to staff layoffs resulting from branch lobbies being temporarily closed during a period of 2020 due to the COVID-19 pandemic. Furniture and equipment expense and software amortization increased due to continued enhancement of systems, in particular those related to electronic banking channels. Marketing expenses decreased as advertising was reduced during 2020 due to the pandemic. The increase in deposit insurance reflects the increase in deposit balances and the FDIC assessment credit that was recorded during 2019.
+2020 2019 Change
+(In Thousands) Amount % Total Amount % Total Amount %
+Salaries and employee benefits $ 21,632 55.37 % $ 21,829 54.97 % $ (197) (0.90) %
+Occupancy 2,650 6.78 2,712 6.83 (62) (2.29)
+Furniture and equipment 3,411 8.73 3,248 8.18 163 5.02
+Software amortization 978 2.50 871 2.19 107 12.28
+Pennsylvania shares tax 1,289 3.30 1,148 2.89 141 12.28
+Professional fees 2,362 6.05 2,474 6.23 (112) (4.53)
+Federal Deposit Insurance Corporation deposit insurance 939 2.40 578 1.46 361 62.46
+Write down of assets held for sale - - 475 1.20 (475) n/a
+Loss on sale of premises and equipment - - 474 1.19 (474) n/a
+Marketing 261 0.67 425 1.07 (164) (38.59)
+Intangible amortization 227 0.58 264 0.66 (37) (14.02)
+Other 5,319 13.62 5,210 13.13 109 2.09
+Total non-interest expense $ 39,068 100.00 % $ 39,708 100.00 % $ (640) (1.61) %
+2019 vs. 2018
+Total non-interest expenses increased $1,701,000 from the year ended December 31, 2018 to December 31, 2019. The increase in salaries and employee benefits was attributable primarily to normal annual wage increases. Furniture and equipment expense and software amortization increased due to the new branch locations opened in 2018 and continued enhancement of systems. Market expenses decreased as targeted marketing has decreased in the localities where branches opened during 2018. The increase in professional fees of $368,000 is primarily due to increases in legal fees. The decrease in deposit insurance reflects the FDIC assessment credit that was recorded during 2019. Other expenses increased from the year ended December 31, 2018 to December 31, 2019 by $912,000; the main driver of this increase was an increase in data processing expenses.
+2019 2018 Change
+(In Thousands) Amount % Total Amount % Total Amount %
+Salaries and employee benefits $ 21,829 54.97 % $ 21,083 55.47 % $ 746 3.54 %
+Occupancy 2,712 6.83 2,702 7.11 10 0.37
+Furniture and equipment 3,248 8.18 3,092 8.14 156 5.05
+Software amortization 871 2.19 712 1.87 159 22.33
+Pennsylvania shares tax 1,148 2.89 1,108 2.92 40 3.61
+Professional fees 2,474 6.23 2,106 5.54 368 17.47
+Federal Deposit Insurance Corporation deposit insurance 578 1.46 890 2.34 (312) (35.06)
+Write down of assets held for sale 475 1.20 - - 475 n/a
+Loss on sale of premises and equipment 474 1.19 - - 474 n/a
+Marketing 425 1.07 767 2.02 (342) (44.59)
+Intangible amortization 264 0.66 300 0.79 (36) (12.00)
+Other 5,210 13.13 5,247 13.80 (37) (0.71)
+Total non-interest expense $ 39,708 100.00 % $ 38,007 100.00 % $ 1,701 4.48 %
+INCOME TAXES
+2020 vs. 2019
+The provision for income taxes for the year ended December 31, 2020 resulted in an effective income tax rate of 18.58% compared to 16.67% for 2019.
+2019 vs. 2018
+The provision for income taxes for the year ended December 31, 2019 resulted in an effective income tax rate of 16.67% compared to 16.08% for 2018.
+FINANCIAL CONDITION
+INVESTMENTS
+The fair value of the investment portfolio increased $13,658,000 from December 31, 2019 to December 31, 2020. The increase in value is the result of growth in the municipal segment of the portfolio as the investment portfolio continues to be actively managed in order to reduce interest rate and market risk. This strategy is being deployed through selective purchasing of bonds that mature within ten years. The unrealized losses within the debt securities portfolio are the result of market activity, not credit issues/ratings, as approximately 83% of the debt securities portfolio on an amortized cost basis is currently rated A or higher by either S&P or Moody’s.
+The fair value of the investment portfolio increased $13,834,000 from December 31, 2018 to December 31, 2019. The increase in value is the result of growth in the corporate segment of the portfolio as the investment portfolio continues to be actively managed in order to reduce interest rate and market risk. This strategy is being deployed through selective purchasing of bonds that mature within ten years. The unrealized losses within the debt securities portfolio are the result of market activity, not credit issues/ratings, as approximately 79% of the debt securities portfolio on an amortized cost basis is currently rated A or higher by either S&P or Moody’s.
+The carrying amounts of investment securities are summarized as follows for the years ended December 31, 2020, 2019, and 2018:
+2020 2019 2018
+(In Thousands) Balance % Portfolio Balance % Portfolio Balance % Portfolio
+Available for sale (AFS):
+Mortgage-backed securities $ 2,141 1.31 % $ 4,966 3.31 % $ 6,153 4.52 %
+State and political securities (tax-exempt) 34,736 21.23 % 22,575 15.06 % 27,363 20.12 %
+State and political securities (taxable) 73,277 44.79 % 59,711 39.83 % 52,178 38.34 %
+Other bonds, notes and debentures 52,107 31.85 % 61,367 40.93 % 48,591 35.70 %
+Total debt securities 162,261 99.19 % 148,619 99.12 % 134,285 98.67 %
+Equity securities:
+Other investment equity securities 1,288 0.79 % 1,261 0.84 % 1,776 1.30 %
+Trading securities 40 0.02 % 51 0.03 % 36 0.03 %
+Total equity securities 1,328 0.81 % 1,312 0.88 % 1,812 1.33 %
+Total $ 163,589 100.00 % $ 149,931 100.00 % $ 136,097 100.00 %
+The following table shows the maturities and repricing of investment securities, at amortized cost and the weighted average yields (for tax-exempt obligations on a fully taxable basis assuming a 21% tax rate) at December 31, 2020:
+(In Thousands) Three Months or Less Over Three Months Through One Year Over One Year Through Five Years Over Five Years Through Ten Years Over Ten Years Amortized Cost Total
+Mortgage-backed securities:
+AFS Amount $ - $ - $ - $ - $ 2,118 $ 2,118
+Yield - % - % - % - % 1.88 % 1.88 %
+State and political securities (tax-exempt):
+AFS Amount - 759 16,341 14,015 2,478 33,593
+Yield - % 0.39 % 1.57 % 2.47 % 3.01 % 2.03 %
+State and political securities (taxable):
+AFS Amount 845 2,342 20,425 40,388 5,097 69,097
+Yield 4.00 % 2.16 % 1.98 % 3.04 % 2.48 % 2.67 %
+Other bonds, notes, and debentures:
+AFS Amount 2,000 7,572 33,421 6,493 2,000 51,486
+Yield 2.00 % 2.83 % 2.45 % 3.47 % 3.00 % 2.58 %
+Total Amount $ 2,845 $ 10,673 $ 70,187 $ 60,896 $ 11,693 156,294
+Total Yield 2.59 % 2.50 % 2.11 % 2.95 % 2.57 % 2.50 %
+Equity Securities
+Investment Equity Amount 1,300
+Trading Amount 50
+Total Investment Portfolio Value $ 157,644
+Total Investment Portfolio Yield 2.48 %
+All yields represent weighted average yields expressed on a tax equivalent basis. They are calculated on the basis of the cost, adjusted for amortization of premium and accretion of discount, and effective yields weighted for the scheduled maturity of each security. The taxable equivalent adjustment represents the difference between annual income from tax-exempt obligations and the taxable equivalent of such income at the standard 21% tax rate (derived by dividing tax-exempt interest by 79%).
+The distribution of credit ratings by amortized cost and estimated fair value for the debt security portfolio at December 31, 2020 follows:
+A- to AAA B- to BBB+ C to CCC+ Not Rated Total
+(In Thousands) Amortized Cost Fair
+Value Amortized Cost Fair Value Amortized Cost Fair Value Amortized Cost Fair Value Amortized Cost Fair
+Value
+Available for sale
+Mortgage-backed securities $ 2,118 $ 2,141 $ - $ - $ - $ - $ - $ - $ 2,118 $ 2,141
+State and political securities 100,675 105,876 1,328 1,445 - - 687 692 102,690 108,013
+Other debt securities 26,943 27,255 13,334 13,575 - - 11,209 11,277 51,486 52,107
+Total debt securities $ 129,736 $ 135,272 $ 14,662 $ 15,020 $ - $ - $ 11,896 $ 11,969 $ 156,294 $ 162,261
+LOAN PORTFOLIO
+Gross loans of $1,344,327,000 at December 31, 2020 represented a decrease of $11,217,000 from December 31, 2019. The residential real estate segment of the loan portfolio had the largest decrease from the previous year as the historically low interest rate environment caused homeowners to refinance their mortgage in the secondary market. Indirect auto lending continued to grow within the portfolio as the product continued to expand in northeast and central Pennsylvania. Indirect auto lending and home equity lines are part of the overall strategy to shorten the duration of the earning asset portfolio in preparation for a rising interest rate environment. Commercial real estate mortgages increased $9,927,000 but remained at approximately 28% of the total loan portfolio.
+Gross loans of $1,355,544,000 at December 31, 2019 represented a decrease of $29,213,000 from December 31, 2018. The Commercial, Financial, and Agricultural loan portfolio had the largest decrease from the previous year as emphasis was shifted to other segments of the loan portfolio. Indirect auto lending continued to grow within the portfolio as the product continued to expand in northeast Pennsylvania. Indirect auto lending and home equity lines are part of the overall strategy to shorten the duration of the earning asset portfolio in preparation for a rising interest rate environment. Commercial real estate mortgages decreased $8,434,000 but remained at approximately 27% of the total loan portfolio.
+The amounts of loans outstanding at the indicated dates are shown in the following table according to type of loan at December 31, 2020, 2019, 2018, 2017, and 2016:
+2020 2019 2018 2017 2016
+(In Thousands) Amount % Total Amount % Total Amount % Total Amount % Total Amount % Total
+Commercial, financial, and agricultural
+$ 164,743 12.25 % $ 156,213 11.52 % $ 188,561 13.62 % $ 178,885 14.35 % $ 146,110 13.36 %
+Real estate mortgage:
+Residential 589,721 43.87 623,256 45.98 622,379 44.94 597,077 47.90 564,740 51.63
+Commercial 373,188 27.76 363,261 26.80 371,695 26.84 332,019 26.63 306,182 28.00
+Construction 39,309 2.92 38,067 2.81 43,523 3.14 31,683 2.54 34,650 3.17
+Consumer Automobile
+156,403 11.64 150,517 11.10 133,183 9.63 79,714 6.40 14,826 1.36
+Other consumer installment loans
+19,940 1.48 23,043 1.70 24,552 1.77 26,964 2.16 28,430 2.60
+Net deferred loan fees and discounts
+1,023 0.08 1,187 0.09 864 0.06 272 0.02 (1,257) (0.12)
+Gross loans $ 1,344,327 100.00 % $ 1,355,544 100.00 % $ 1,384,757 100.00 % $ 1,246,614 100.00 % $ 1,093,681 100.00 %
+The amounts of domestic loans at December 31, 2020 are presented below by category and maturity:
+Commercial, financial, and agricultural Real Estate Consumer automobile Other consumer installment
+(In Thousands) Residential Commercial Construction Total
+Loans with variable interest rates:
+1 year or less $ 631 $ 492 $ 282 $ 317 $ - $ 683 $ 2,405
+1 through 5 years 22,339 4,572 8,896 572 - - 36,379
+5 through 10 years 45,903 20,625 33,773 2,676 - - 102,977
+After 10 years 42,323 532,217 298,228 28,360 - 2,775 903,903
+Total floating interest rate loans 111,196 557,906 341,179 31,925 - 3,458 1,045,664
+Loans with fixed interest rates:
+1 year or less 2,552 353 1,292 208 454 628 5,487
+1 through 5 years 33,677 3,714 5,835 1,374 83,268 12,100 139,968
+5 through 10 years 13,215 10,621 17,262 1,084 72,681 2,477 117,340
+After 10 years 4,103 17,127 7,620 4,718 - 1,277 34,845
+Total fixed interest rate loans 53,547 31,815 32,009 7,384 156,403 16,482 297,640
+Total $ 164,743 $ 589,721 $ 373,188 $ 39,309 $ 156,403 $ 19,940 1,343,304
+Net deferred loan fees and discounts 1,023
+$ 1,344,327
+· The loan maturity information is based upon original loan terms and is not adjusted for “rollovers.” In the ordinary course of business, loans maturing within one year may be renewed, in whole or in part, at interest rates prevailing at the date of renewal.
+· Scheduled repayments are reported in maturity categories in which the payment is due.
+The Banks do not make loans that provide for negative amortization, nor do any loans contain conversion features. The Banks did not have any foreign loans outstanding at December 31, 2020.
+The following table shows the amount of accrual and nonaccrual TDRs at December 31, 2020, 2019, and 2018:
+2020 2019 2018
+(In Thousands) Accrual Nonaccrual Total Accrual Nonaccrual Total Accrual Nonaccrual Total
+Commercial, financial, and agricultural $ 988 $ 862 $ 1,850 $ - $ 2,190 $ 2,190 $ - $ 1,127 $ 1,127
+Real estate mortgage:
+Residential 3,889 90 3,979 4,089 144 4,233 2,225 159 2,384
+Commercial 2,107 4,423 6,530 2,127 4,732 6,859 3,959 2,129 6,088
+Construction - - - - - - - - -
+Other consumer installment loans - - - - - - - - -
+$ 6,984 $ 5,375 $ 12,359 $ 6,216 $ 7,066 $ 13,282 $ 6,184 $ 3,415 $ 9,599
+ALLOWANCE FOR LOAN LOSSES
+The allowance for loan losses represents the amount which management estimates is adequate to provide for probable losses inherent in its loan portfolio as of the consolidated balance sheet date. All loan losses are charged to the allowance and all recoveries are credited to it per the allowance method of providing for loan losses. The allowance for loan losses is established through a provision for loan losses charged to operations. The provision for loan losses is based upon management’s quarterly review of the loan portfolio. The purpose of the review is to assess loan quality, identify impaired loans, analyze delinquencies,
+ascertain loan growth, evaluate potential charge-offs and recoveries, and assess general economic conditions in the markets served. An external independent loan review is also performed semi-annually for the Banks. Management remains committed to an aggressive program of problem loan identification and resolution.
+The allowance is calculated by applying loss factors to outstanding loans by type, excluding loans for which a specific allowance has been determined. Loss factors are based on management’s consideration of the nature of the portfolio segments, changes in mix and volume of the loan portfolio, and historical loan loss experience. In addition, management considers industry standards and trends with respect to nonperforming loans and its knowledge and experience with specific lending segments.
+The allowance for loan losses increased from $11,894,000 at December 31, 2019 to $13,803,000 at December 31, 2020. At December 31, 2020 and 2019, the allowance for loan losses to total loans was 1.03% and 0.88%, respectively. Net loan charge-offs of $716,000 or 0.05% of average loans for the year ended December 31, 2020 countered the impact of the provision for loan losses of $2,625,000. Driving the increase in the allowance for loan losses was the economic uncertainty that has resulted from the COVID-19 pandemic. The COVID-19 pandemic has resulted in various businesses operating at less than 100% capacity, an increase in the unemployment rate, and an increase in the number of loans that have been granted payment deferrals. In response to the uncertainty in both the business and consumer sectors caused by the COVID-19 pandemic and as well as the level of precision in estimating the effects of a pandemic, a higher than normal unallocated reserve is considered necessary. Management concluded that the allowance for loan losses is adequate to provide for probable losses inherent in its loan portfolio as of the balance sheet date as noted in the provision for loan losses discussion.
+Based on management’s loan-by-loan review, the past performance of the borrowers, and current economic conditions, including recent business closures and bankruptcy levels, management does not anticipate any current losses related to nonaccrual, nonperforming, or classified loans above those that have already been considered in its overall judgment of the adequacy of the allowance for loan losses.
+The allowance for loan losses decreased from $13,837,000 at December 31, 2018 to $11,894,000 at December 31, 2019. At December 31, 2019 and 2018, the allowance for loan losses to total loans was 0.88% and 1.00%, respectively. The growth in the loan portfolio of home equity product historically is a lower risk product than commercial loans and requires a lower allowance for loan losses. In addition, the growth in the indirect auto portfolio has incurred minimal losses. Net loan charge-offs of $4,678,000 or 0.34% of average loans for the year ended December 31, 2019 negated the impact of the provision for loan losses of $2,735,000. The increase in net loan charge-offs is a result of one large charge-off in the commercial, financial, and agricultural portfolio during the fourth quarter of 2019.
+Allocation of the Allowance For Loan Losses
+December 31, 2020 December 31, 2019 December 31, 2018 December 31, 2017 December 31, 2016
+(In Thousands) Amount % Total Amount % Total Amount % Total Amount % Total Amount % Total
+Balance at end of period applicable to:
+Commercial, financial, and agricultural
+$ 1,936 12.26 % $ 1,779 11.53 % $ 1,680 13.63 % $ 1,177 14.35 % $ 1,554 13.34 %
+Real estate mortgage:
+Residential 4,460 43.90 4,306 46.02 5,616 44.97 5,679 47.91 5,383 51.58
+Commercial 3,635 27.78 3,210 26.82 4,047 26.86 4,277 26.64 4,975 27.96
+Construction 134 2.93 118 2.81 143 3.14 155 2.54 178 3.17
+Consumer automobiles
+1,984 11.65 1,780 11.11 1,328 9.62 804 6.40 143 1.35
+Other consumer installment loans
+183 1.48 278 1.71 259 1.78 271 2.16 273 2.60
+Unallocated 1,471 - 423 - 764 - 495 - 390 -
+$ 13,803 100.00 % $ 11,894 100.00 % $ 13,837 100.00 % $ 12,858 100.00 % $ 12,896 100.00 %
+NONPERFORMING LOANS
+The decrease in nonperforming loans during 2020 is primarily due to a non-accrual commercial loan that was paid-off during the fourth quarter of 2020. The majority of the nonperforming loans are centered on several loans that are either in a secured position and have sureties with a strong underlying financial position and/or a specific allowance within the allowance for loan losses.
+The following table presents information concerning nonperforming loans. The accrual of interest will be discontinued when the principal or interest of a loan is in default for 90 days or more, or as soon as payment is questionable, unless the loan is well secured and in the process of collection. Consumer loans and residential real estate loans secured by 1 to 4 family dwellings are not ordinarily subject to those guidelines. The reversal of previously accrued but uncollected interest applicable to any loan placed in a nonaccrual status and the treatment of subsequent payments of either principal or interest is handled in accordance with GAAP. These principles do not require a write-off of previously accrued interest if principal and interest are ultimately protected by sound collateral values. A nonperforming loan may be restored to accruing status when:
+1. Principal and interest is no longer due and unpaid;
+2. It becomes well secured and in the process of collection; and
+3. Prospects for future contractual payments are no longer in doubt.
+Total Nonperforming Loans
+(In Thousands) 90 Days Past Due Nonaccrual Total
+2020 $ 1,212 $ 9,122 $ 10,334
+2019 2,047 10,374 12,421
+2018 1,274 15,298 16,572
+2017 509 6,759 7,268
+2016 870 10,756 11,626
+The level of non-accruing loans continues to fluctuate annually and is attributed to the various economic factors experienced both regionally and nationally. Overall, the portfolio is well secured with a majority of the balance making regular payments or scheduled to be satisfied in the near future. Presently, there are no significant loans where serious doubts exist as to the ability of the borrower to comply with the current loan payment terms which are not included in the nonperforming categories as indicated above.
+Management’s judgment in determining the amount of the additions to the allowance charged to operating expense considers the following factors with no single factor being determinative:
+1. Economic conditions and the impact on the loan portfolio;
+2. Analysis of past loan charge-offs experienced by category and comparison to outstanding loans;
+3. Effect of problem loans on overall portfolio quality; and
+4. Reports of examination of the loan portfolio by the Department and the FDIC.
+DEPOSITS
+2020 vs. 2019
+Total average deposits increased $118,440,000 or 9.05% from 2019 to 2020. Noninterest-bearing deposits average balance increased $72,767,000 as customers received funding from various government programs that were designed to combat the effects of the COVID-19 pandemic.
+2019 vs. 2018
+Total average deposits increased $113,881,000 or 9.54% from 2019 to 2020. The time deposit portfolio average balance for 2019 increased $86,349,000 to $345,635,000 as time deposits were utilized as an attraction tool and to lengthen the average maturity of the interest bearing liability portfolio.
+The average amount and the average rate paid on deposits are summarized below for the years ended December 31, 2020, 2019, and 2018:
+2020 2019 2018
+(In Thousands) Average
+Amount Rate Average
+Amount Rate Average
+Amount Rate
+Noninterest-bearing $ 394,210 0.00 % $ 321,443 0.00 % $ 303,606 0.00 %
+Savings 193,568 0.13 169,832 0.13 164,844 0.05
+Super Now 254,177 0.69 231,816 0.76 225,885 0.46
+Money Market 245,633 0.62 239,317 0.91 240,541 0.50
+Time 338,895 2.07 345,635 2.11 259,286 1.56
+Total average deposits $ 1,426,483 0.74 % $ 1,308,043 0.88 % $ 1,194,162 0.53 %
+SHAREHOLDERS’ EQUITY
+Shareholders’ equity increased $9.2 million to $164.1 million at December 31, 2020 compared to December 31, 2019. The change in accumulated other comprehensive loss from $2.8 million at December 31, 2019 to $882,000 at December 31, 2020 is a result of an increase in unrealized gains on available for sale securities (from an unrealized gain of $2.5 million at December 31, 2019 to an unrealized gain of $4.7 million at December 31, 2020). The amount of accumulated other comprehensive loss at December 31, 2020 was also impacted by the change in net excess of the projected benefit obligation over the fair value of the plan assets of the defined benefit pension plan, resulting in an increase in the net loss of $364,000. The current level of shareholders’ equity equates to a book value per share of $23.27 at December 31, 2020 compared to $22.01 at December 31, 2019, and an equity to asset ratio of 8.95% at December 31, 2020 compared to 9.31% at December 31, 2019. Dividends declared for the twelve months ended December 31, 2020 and 2019 were $1.28 per share and $1.26 per share, respectively.
+Shareholders’ equity increased $11,400,000 to $155.0 million at December 31, 2019 compared to December 31, 2018. The change in accumulated other comprehensive loss from $6.6 million at December 31, 2018 to $2.8 million at December 31, 2019 is a result of an increase in unrealized gains on available for sale securities (from an unrealized loss of $1.4 million at December 31, 2018 to an unrealized gain of $2.5 million at December 31, 2019). The amount of accumulated other comprehensive loss at December 31, 2019 was also impacted by the change in net excess of the projected benefit obligation over the fair value of the plan assets of the defined benefit pension plan, resulting in a decrease in the net loss of $44,000. The current level of shareholders’ equity equates to a book value per share of $22.01 at December 31, 2019 compared to $20.39 at December 31, 2018, and an equity to asset ratio of 9.31% at December 31, 2019 compared to 8.52% at December 31, 2018. Dividends declared for the twelve months ended December 31, 2019 and 2018 were $1.26 per share and $1.25 per share, respectively..
+Bank regulators have risk based capital guidelines. Under these guidelines the Corporation and each Bank are required to maintain minimum ratios of core capital and total qualifying capital as a percentage of risk weighted assets and certain off-balance sheet items. At December 31, 2020, both the Corporation’s and each Bank’s required ratios were well above the minimum ratios (and including the current capital conservation buffer where applicable) as follows:
+Corporation Jersey Shore State Bank Luzerne Bank Minimum
+Standards
+Common equity tier 1 capital to risk-weighted assets 11.267 % 10.906 % 11.156 % 7.000 %
+Tier 1 capital to risk-weighted assets 11.267 % 10.906 % 11.156 % 8.500 %
+Total capital to risk-weighted assets 12.151 % 11.857 % 11.865 % 10.500 %
+Tier 1 capital to average assets 8.436 % 8.062 % 7.860 % 4.000 %
+For a more comprehensive discussion of these requirements, see “Regulation and Supervision” in Item 1 of the Annual Report on Form 10-K. Management believes that the Corporation and the Banks will continue to exceed regulatory capital requirements.
+RETURN ON EQUITY AND ASSETS
+The ratio of net income to average total assets and average shareholders’ equity, and other certain equity ratios are presented as follows:
+2020 2019 2018
+Percentage of net income to:
+Average total assets 0.85 % 0.94 % 0.94 %
+Average shareholders’ equity 9.66 % 10.54 % 10.72 %
+Percentage of dividends declared to net income 59.32 % 56.27 % 59.97 %
+Percentage of average shareholders’ equity to average total assets 8.85 % 8.91 % 8.77 %
+LIQUIDITY, INTEREST RATE SENSITIVITY, AND MARKET RISK
+The Asset/Liability Committee addresses the liquidity needs of the Corporation to ensure that sufficient funds are available to meet credit demands and deposit withdrawals as well as to the placement of available funds in the investment portfolio. In assessing liquidity requirements, equal consideration is given to the current position as well as the future outlook.
+The following liquidity measures are monitored for compliance and were within the limits cited at December 31, 2020.
+1. Net Loans to Total Assets, 85% maximum
+2. Net Loans to Total Deposits, 100% maximum
+3. Cumulative 90 day Maturity GAP %, +/- 20% maximum
+4. Cumulative 1 Year Maturity GAP %, +/- 25% maximum
+Fundamental objectives of the Corporation’s asset/liability management process are to maintain adequate liquidity while minimizing interest rate risk. The maintenance of adequate liquidity provides the Corporation with the ability to meet its financial obligations to depositors, loan customers, and shareholders. Additionally, it provides funds for normal operating expenditures and business opportunities as they arise. The objective of interest rate sensitivity management is to increase net interest income by managing interest sensitive assets and liabilities in such a way that they can be repriced in response to changes in market interest rates.
+The Corporation, like other financial institutions, must have sufficient funds available to meet its liquidity needs for deposit withdrawals, loan commitments, and expenses. In order to control cash flow, the Corporation estimates future flows of cash from deposits and loan payments. The primary sources of funds are deposits, principal and interest payments on loans and mortgage-backed securities, as well as FHLB borrowings. Funds generated are used principally to fund loans and purchase investment securities. Management believes the Corporation has adequate resources to meet its normal funding requirements.
+Management monitors the Corporation’s liquidity on both a short and long-term basis, thereby providing management necessary information to react to current balance sheet trends. Cash flow needs are assessed and sources of funds are determined. Funding strategies consider both customer needs and economical cost. Both short and long term funding needs are addressed by maturities and sales of available for sale investment securities, loan repayments and maturities, and liquidating money market investments such as federal funds sold. The use of these resources, in conjunction with access to credit, provides core ingredients to satisfy depositor, borrower, and creditor needs.
+Management monitors and determines the desirable level of liquidity. Consideration is given to loan demand, investment opportunities, deposit pricing and growth potential, as well as the current cost of borrowing funds. The Corporation has a current borrowing capacity at the FHLB of $588,457,000 with $148,000,000 utilized, leaving $440,457,000 available. In addition to this credit arrangement, the Corporation has additional lines of credit with correspondent banks of $100,000,000. The Corporation’s management believes that it has sufficient liquidity to satisfy estimated short-term and long-term funding needs.
+Interest rate sensitivity, which is closely related to liquidity management, is a function of the repricing characteristics of the Corporation’s portfolio of assets and liabilities. Asset/liability management strives to match maturities and rates between loan and investment security assets with the deposit liabilities and borrowings that fund them. Successful asset/liability management results in a balance sheet structure which can cope effectively with market rate fluctuations. The matching process is affected
+by segmenting both assets and liabilities into future time periods (usually 12 months or less) based upon when repricing can be effected. Repriceable assets are subtracted from repriceable liabilities for a specific time period to determine the “gap” or difference. Once known, the gap is managed based on predictions about future market interest rates. Intentional mismatching, or gapping, can enhance net interest income if market rates move as predicted. However, if market rates behave in a manner contrary to predictions, net interest income will suffer. Gaps, therefore, contain an element of risk and must be prudently managed. In addition to gap management, the Corporation has an asset liability management policy which incorporates a market value at risk calculation which is used to determine the effects of interest rate movements on shareholders’ equity and a simulation analysis to monitor the effects of interest rate changes on the Corporation’s balance sheet.
+The Corporation currently maintains a gap position of being asset sensitive. The Corporation has strategically taken this position as it has decreased the duration of the earning asset portfolio by adding quality short and intermediate term loans such as home equity loans and the selling of long-term municipal bonds. Lengthening of the liability portfolio is being undertaken to build protection in a rising rate environment.
+A market value at risk calculation is utilized to monitor the effects of interest rate changes on the Corporation’s balance sheet and more specifically shareholders’ equity. The Corporation does not manage the balance sheet structure in order to maintain compliance with this calculation. The calculation serves as a guideline with greater emphasis placed on interest rate sensitivity. Changes to calculation results from period to period are reviewed as changes in results could be a signal of future events.
+INTEREST RATE SENSITIVITY
+In this analysis the Corporation examines the result of various changes in market interest rates in 100 basis point increments and their effect on net interest income. It is assumed that the change is instantaneous and that all rates move in a parallel manner. Assumptions are also made concerning prepayment speeds on mortgage loans and mortgage securities.
+The following is a rate shock forecast for the twelve month period ending December 31, 2021 assuming a static balance sheet as of December 31, 2020.
+Parallel Rate Shock in Basis Points
+(In Thousands) (200) (100) Static 100 200 300 400
+Net interest income $ 43,716 $ 46,617 $ 49,941 $ 53,806 $ 57,623 $ 61,218 $ 64,865
+Change from static (6,225) (3,324) - 3,865 7,682 11,277 14,924
+Percent change from static -12.46 % -6.66 % - 7.74 % 15.38 % 22.58 % 29.88 %
+The model utilized to create the report presented above makes various estimates at each level of interest rate change regarding cash flow from principal repayment on loans and mortgage-backed securities and/or call activity on investment securities. Actual results could differ significantly from these estimates which would result in significant differences in the calculated projected change. In addition, the limits stated above do not necessarily represent the level of change under which management would undertake specific measures to realign its portfolio in order to reduce the projected level of change. Generally, management believes the Corporation is well positioned to respond expeditiously when the market interest rate outlook changes.
+INFLATION
+The asset and liability structure of a financial institution is primarily monetary in nature; therefore, interest rates rather than inflation have a more significant impact on the Corporation’s performance. Interest rates are not always affected in the same direction or magnitude as prices of other goods and services, but are reflective of fiscal policy initiatives or economic factors that are not measured by a price index.
+CRITICAL ACCOUNTING POLICIES
+The Corporation’s accounting policies are integral to understanding the results reported. The accounting policies are described in detail in Note 1 of the “Notes to Consolidated Financial Statements” included in Item 8 of this Annual Report on Form 10-K. Our most complex accounting policies require management’s judgment to ascertain the valuation of assets, liabilities, commitments, and contingencies. We have established detailed policies and control procedures that are intended to ensure valuation methods are well controlled and applied consistently from period to period. In addition, the policies and procedures are intended to ensure that the process for changing methodologies occurs in an appropriate manner. The following is a brief description of our current accounting policies involving significant management valuation judgments.
+Other Than Temporary Impairment of Debt Securities
+Debt securities are evaluated periodically to determine whether a decline in their value is other than temporary. Management utilizes criteria such as the magnitude and duration of the decline, in addition to the reason underlying the decline, to determine whether the loss in value is other than temporary. The term “other than temporary” is not intended to indicate that the decline is permanent. It indicates that the prospects for a near term recovery of value are not necessarily favorable, or that there is a lack of evidence to support fair values equal to, or greater than, the carrying value of the investment. Once a decline in value is determined to be other than temporary, the value of the security is reduced and a corresponding charge to earnings is recognized. For a full discussion of the Corporation’s methodology of assessing impairment, refer to Note 4 of the “Notes to Consolidated Financial Statements” included in Item 8 of this Annual Report on Form 10-K.
+Allowance for Loan Losses
+Arriving at an appropriate level of allowance for loan losses involves a high degree of judgment. The Corporation’s allowance for loan losses provides for probable losses based upon evaluations of known and inherent risks in the loan portfolio.
+Management uses historical information to assess the adequacy of the allowance for loan losses as well as the prevailing business environment; as it is affected by changing economic conditions and various external factors, which may impact the portfolio in ways currently unforeseen. The allowance is increased by provisions for loan losses and by recoveries of loans previously charged-off and reduced by loans charged-off. For a full discussion of the Corporation’s methodology of assessing the adequacy of the reserve for allowance for loan losses, refer to Note 1 of the “Notes to Consolidated Financial Statements” included in Item 8 of this Annual Report on Form 10-K.
+Goodwill and Other Intangible Assets
+As discussed in Note 8 of the “Notes to Consolidated Financial Statements,” the Corporation must assess goodwill and other intangible assets each year for impairment. This assessment involves estimating cash flows for future periods. If the future cash flows were less than the recorded goodwill and other intangible assets balances, we would be required to take a charge against earnings to write down the assets to the lower value.
+Deferred Tax Assets
+Management uses an estimate of future earnings to support their position that the benefit of their deferred tax assets will be realized. If future income should prove non-existent or less than the amount of the deferred tax assets within the tax years to which they may be applied, the asset may not be realized and the Corporation’s net income will be reduced. The Corporation’s deferred tax assets are described further in Note 12 of the “Notes to Consolidated Financial Statements” included in Item 8 of this Annual Report on Form 10-K.
+Pension Benefits
+Pension costs and liabilities are dependent on assumptions used in calculating such amounts. These assumptions include discount rates, benefits earned, interest costs, expected return on plan assets, mortality rates, and other factors. In accordance with GAAP, actual results that differ from the assumptions are accumulated and amortized over future periods and, therefore, generally affect recognized expense and the recorded obligation of future periods. While management believes that the assumptions used are appropriate, differences in actual experience or changes in assumptions may affect the Corporation’s pension obligations and future expense. Our pension benefits are described further in Note 13 of the “Notes to Consolidated Financial Statements” included in Item 8 of this Annual Report on Form 10-K.
+CONTRACTUAL OBLIGATIONS
+The Corporation has various financial obligations, including contractual obligations which may require future cash payments. The following table presents, as of December 31, 2020, significant fixed and determinable contractual obligations to third parties by payment date. Further discussion of the nature of each obligation is included in the “Notes to Consolidated Financial Statements” included in Item 8 of this Annual Report on Form 10-K.
+Payments Due In
+(In Thousands) One Year or Less One to Three Years Three to Five Years Over Five Years Total
+Deposits without a stated maturity $ 1,230,798 $ - $ - $ - $ 1,230,798
+Time deposits 147,976 102,887 11,479 1,303 263,645
+Repurchase agreements 5,244 - - - 5,244
+Short-term borrowings - - - - -
+Long-term borrowings 30,075 48,164 70,200 5,036 153,475
+Operating leases 291 571 527 2,911 4,300
+The Corporation’s operating lease obligations represent short and long-term lease and rental payments for branch facilities and equipment. The Bank leases certain facilities under operating leases which expire on various dates through 2049. Renewal options are available on the majority of these leases.
+CAUTIONARY STATEMENT FOR PURPOSES OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+This Report contains certain “forward-looking statements” including statements concerning plans, objectives, future events or performance and assumptions and other statements which are other than statements of historical fact. The Corporation cautions readers that the following important factors, among others in addition to the factors discussed in Item 1 - "Business" and in Item 1A - "Risk Factors", may have affected and could in the future affect the Corporation’s actual results and could cause the Corporation’s actual results for subsequent periods to differ materially from those expressed in any forward-looking statement made by or on behalf of the Corporation herein: (i) the effect of changes in laws and regulations, including federal and state banking laws and regulations, with which the Corporation must comply, and the associated costs of compliance with such laws and regulations either currently or in the future as applicable; (ii) the effect of changes in accounting policies and practices, as may be adopted by the regulatory agencies as well as by the Financial Accounting Standards Board; (iii) the effect on the Corporation’s competitive position within its market area of the increasing consolidation within the banking and financial services industries, including the increased competition from larger regional and out-of-state banking organizations as well as non-bank providers of various financial services; (iv) the effect of changes in interest rates; (v) the effect of changes in the business cycle and downturns in the local, regional or national economies; and (vi) the effects of health emergencies, including the spread of infectious diseases or pandemics.

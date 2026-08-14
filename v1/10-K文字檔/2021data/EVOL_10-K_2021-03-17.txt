@@ -1,0 +1,265 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+﻿
+FORWARD-LOOKING STATEMENTS
+﻿
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements that have been made pursuant to the provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on current expectations, estimates, and projections about Evolving Systems’ industry, management’s beliefs, and certain assumptions made by management. Forward-looking statements include our expectations regarding product, services, and customer support revenue; our expectations associated with Evolving Systems India, Evolving Systems U.K., Evolving Systems NC Evolving Systems BLS LTD, Lumata UK LTD, Lumata France SAS, Lumata Deutschland GmbH, and Lumata Spain SL and short- and long-term cash needs. In some cases, words such as “anticipates”, “expects”, “intends”, “plans”, “believes” or “estimates” and variations of these words and similar expressions are intended to identify forward-looking statements. The following discussion should be read in conjunction with, and is qualified in its entirety by, the consolidated financial statements and the notes thereto included elsewhere in this Annual Report on Form 10-K. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including those set forth in this section and in “Item 1A - Risk Factors.”
+﻿
+OVERVIEW
+﻿
+Evolving Systems Inc. is a supplier of real-time digital engagement solutions and services. We drive growth in customer acquisition and activation, extend customer lifetime and increase customer value and revenue through analytics and loyalty programs in the converging mobile, entertainment, financial and retail services eco-system. Our platforms, together with our team of experienced industry experts, help service providers increase their customer lifetime value (“CLV”) over the course the customer lifecycle.
+﻿
+In 2019, we released Evolution, the new platform that supersedes and provides an upgrade path to the former loyalty and CVM platforms from both Evolving and its acquired companies - BLS, Lumata and SSM. Evolution was built by combining, integrating, and improving upon the best components and features of those previous platforms. We believe that Evolution provides a unique capability, and we expect to continue our focus on selling and promoting this significant new product. Our experienced team and the new technology provide actionable insights and relevant offers based on customer data, all of which greatly complements our software portfolio and 25 years of expertise in customer acquisition, activation and retention. Enhancements to our technology further expands our managed services platform for delivering on-tap strategic and tactical solutions.
+﻿
+Evolving Systems provides software solutions and services throughout the world. The COVID-19 global outbreak has caused instability and volatility in multiple markets where our clients conduct business. We have leveraged our ability to provide support remotely resulting in limited effect on our day to day operations. The inability to travel has delayed interactions with our clients on projects and in the traditional modes of sales development. We continually work with existing and new clients exploring new ways of using our products and services to enhance their business. On-going travel restrictions has caused the business to interact with clients in new ways and reduced certain costs. The long-term effects on how we conduct business in the future is still undetermined but the company continues to evolve to meet client needs.
+﻿
+			
+		
+			
+		
+RECENT DEVELOPMENTS
+﻿
+We reported a net income of $0.6 million and a net loss of $9.7 million for the years ended December 31, 2020 and 2019, respectively.
+﻿
+We have operations in foreign countries where the local currency is used to prepare the consolidated financial statements which are translated into our reporting currency, U.S. dollars. Changes in the exchange rates between these currencies and our reporting currency are partially responsible for some of the changes from period to period in our financial statement amounts. The majority of the changes in 2020 and 2019 are a result of the U.S. dollar strengthening on average versus the British Pound Sterling. The chart below summarizes what the effects on our revenue and expenses would be on a constant currency basis. The constant currency basis assumes that the exchange rate was constant for the periods presented (in thousands):
+﻿
+﻿
+﻿
+﻿
+The net effect of our foreign currency exchange rate changes for the year ended December 31, 2020 was a $0.2 million increase in revenue and a $0.2 million increase in operating expenses versus the year ended December 31, 2019 was due to a stronger US dollar on average during the year 2020.
+			
+		
+			
+		
+RESULTS OF OPERATIONS
+﻿
+The following table presents our consolidated statements of operations in comparative format:
+﻿
+﻿
+﻿
+﻿
+			
+		
+			
+		
+﻿
+﻿
+The following table presents our consolidated statements of operations reflected as a percentage of total revenue:
+﻿
+﻿
+﻿
+Revenue
+﻿
+Revenue is comprised of license fees and services. License fees represent the fees we receive from the licensing of our software products. Services revenue are directly related to the delivery of the licensed product as well as integration services, managed services, SaaS services, time and materials work and customer support services. Customer support services include annual support fees, recurring maintenance fees, minor product upgrades and warranty fees. Warranty fees are typically deferred and recognized over the warranty period.
+﻿
+License Fees
+﻿
+License fees revenue decreased 40%, or $0.5 million to $0.7 million for the year ended December 31, 2020 compared to $1.2 million for the year ended December 31, 2019. This change is primarily related to lower number of incremental licenses sold to a customer in the current year and the Company’s continued transition to a managed service model with more reliable recurring revenue.
+﻿
+Services
+﻿
+Services revenue increased 4%, or $1.1 million, to $25.6 million for the year ended December 31, 2020 from $24.5 million for the year ended December 31, 2019. The increase is related to upgrades and new project revenues of $2.8 million and increase in hours worked on existing clients of $1.0 million partially offset by a reduction of orders from existing clients of $2.7 million.
+﻿
+			
+		
+			
+		
+Costs of Revenue, Excluding Depreciation and Amortization
+﻿
+Costs of revenue, excluding depreciation and amortization, consist primarily of personnel costs and other direct costs associated with these personnel, facilities costs, costs of third-party software and partner commissions. Costs of revenue includes product development expenses related to certain software features requested for deployment by the customer and are funded by customers as part of a managed service offering. Costs of revenue, excluding depreciation and amortization increased by $0.1 million, or 2%, to $8.8 million for the year ended December 31, 2020 from $8.7 million for the year ended December 31, 2019. The increase was primarily related to increase in internal staff costs of $1.1 million as we increased delivery staff and work performed on internal projects, partially offset by a decrease in third party consultant costs of $ 0.6 million as these were converted to internal staff or terminated. Also, a decrease in travel costs of $0.4 million due to travel restrictions caused by the global pandemic. As a percentage of revenue, cost of revenue, excluding depreciation and amortization was 34% for each of the years ended December 31, 2020 and 2019.
+﻿
+Sales and Marketing
+﻿
+Sales and marketing expenses primarily consist of compensation costs, including incentive compensation and commissions, travel expenses, advertising, marketing and facilities expenses. Sales and marketing expenses decreased 20%, or $1.5 million, to $6.0 million for the year ended December 31, 2020 from $7.5 million for the year ended December 31, 2019. The decrease is related to the reduction of $0.6 million in lower travel and entertainment costs, a reduction of $0.4 million in incentive compensation costs that included revision to the incentive compensation structure, a reduction in resource costs assigned to sales and marketing activities of $0.3 million and $0.2 million reduction in marketing efforts due to travel restrictions during the global pandemic. As a percentage of total revenue, sales and marketing expenses for the year ended December 31, 2020 decreased to 23% from 29% for the year ended December 31, 2019. The decrease in sales and marketing expenses as a percentage of revenue is primarily due to the aforementioned reduction in costs as proportioned to the lower revenues.
+﻿
+General and Administrative
+﻿
+General and administrative expenses consist principally of employee-related costs for the following departments: finance, human resources, and certain executive management; facilities costs; and professional and legal fees. General and administrative expenses remained consistent with the prior year at $5.1 million for the years ended December 31, 2020 and December 31, 2019, a decrease of 1% or less than $0.1 million. As a percentage of total revenue, general and administrative expenses decreased to 19% for the year ended December 31, 2020 from 20% for the year ended December 31, 2019. The decrease in general and administrative expenses as a percentage of revenue is primarily due to the aforementioned lower costs.
+﻿
+Product Development
+﻿
+Product development expenses consist primarily of labor-related costs. Product development expenses decreased 6%, or $0.3 million, to $4.3 million for the year ended December 31, 2020 from $4.6 million for the year ended December 31, 2019. The decrease is related to a net decrease in resource costs of $0.1 million related to a staff reduction offset by product development hours worked by internal staff assigned to product development projects, the reduction in travel costs of $0.1 million due to the staff departures and change in the allocation of hardware and software maintenance costs reduced costs by $0.1 million. As a percentage of total revenue, product development expenses decreased to 16% for the year ended December 31, 2020 from 18% for the year ended December 31, 2019. The decrease in product development expenses as a percentage of revenue is primarily due to the aforementioned reduced costs.
+﻿
+Depreciation
+﻿
+Depreciation expense consists of depreciation of long-lived property and equipment. Depreciation expense was $0.2 million for each of the years ended December 31, 2020 and 2019. As a percentage of revenue, depreciation expense was 1% for each of the years ended December 31, 2020 and 2019.
+﻿
+Amortization
+﻿
+Amortization expense consists of amortization of identifiable intangibles related to our acquisitions of Evolving Systems Labs, Evolving Systems NC, EVOL BLS, and the Lumata Entities. Amortization expense remained stable at $0.9 million for the years ended December 31, 2020 and 2019. As a percentage of revenue, amortization expense was 4% for each of the years ended December 31, 2020 and 2019.
+﻿
+			
+		
+			
+		
+Goodwill Impairment Loss
+﻿
+No goodwill impairment was recorded for the year ended December 31, 2020. A goodwill impairment loss was recorded as a result of goodwill impairment analysis conducted since our market capitalization declined to a level that was less than the net book value of our stockholders’ equity. Based on the results of that analysis, the Company recorded a $6.7 million write-off of the remaining goodwill in the fiscal year ended December 31, 2019.
+﻿
+Interest Expense
+﻿
+Interest expense includes the amortization of debt issuance costs and interest expense from our term loans. Interest expense for the year ended December 31, 2020 decreased 78%, or $0.2 million, to less than $0.1 million as compared to $0.3 million for the year ended December 31, 2019. The decrease was due to the one loan payable reaching maturity at the end of the prior year and the second loan reaching maturity at the end of the current year. The decrease in interest expense as a percentage of revenue is primarily due to the aforementioned lower costs.
+﻿
+Other Income
+﻿
+For the year ended December 31, 2020, we had $0.2 million in other income, net, primarily related to research and development grants in the UK. This was an increase of $0.1 million in other income from year ended December 31, 2019 which consisted of mostly of the net proceeds from settlement of insurance claim after legal fees regarding coverage on the dispute settled with a former SSM contractor. Foreign currency exchange income resulting from transactions denominated in a currency other than the functional currency of the respective subsidiary increased 181%, or $0.8 million, to $0.4 million in income for the year ended December 31, 2020 compared to a $0.5 million loss for the year ended December 31, 2019 that was generated primarily through the re-measurement of certain non-functional currency denominated financial assets and liabilities of our foreign subsidiaries.
+﻿
+Income Tax Expense
+﻿
+We recorded net income tax expense of $0.8 million and $1.1 million for the years ended December 31, 2020 and 2019, respectively. The net expense for the year ended December 31, 2020 consisted of current tax expense of $0.9 million related to $0.2 million in the US, $0.3 million income tax expense incurred by our Indian based operations, $0.2 million income tax expense from one UK subsidiary, and $0.8 million of foreign taxes paid for with holdings of local taxes that could not be used as a tax credit offset by Research and Development credits from our U.K. based operations of $0.3 million. Also offset by the AMT refund of $0.4 million. Deferred tax benefit of $0.1 million related to US tax Company’s utilization of foreign tax credits and $0.3 million deferred tax benefit from losses incurred by our other UK and European subsidiaries, partially offset by tax refund of AMT credits of $0.4 million. The net expense during the year ended December 31, 2019 consisted of current tax expense of $0.8 million primarily related to $0.3 million income tax expense incurred by our Indian based operations and $1.3 million of foreign taxes paid for with holdings of local taxes that could not be used as a tax credit offset by Research and Development credits from our U.K. based operations of $0.5 million.
+﻿
+We use a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more-likely-than-not to be sustained upon examination by taxing authorities. As of December 31, 2020, and 2019, we had no liability for unrecognized tax benefits. We do not believe there will be any material changes to our unrecognized tax positions over the next twelve months.
+﻿
+FINANCIAL CONDITION
+﻿
+Our working capital position increased 45%, or $1.7 million to $5.5 million at December 31, 2020 from $3.8 million at December 31, 2019. The increase in working capital is related to the increase in unbilled work in progress and the reduction in the short term portion of term loan, partially offset by the collection of customer accounts receivable of tax refunds as well as an increase to accounts payable and accrued liabilities.
+﻿
+LIQUIDITY AND CAPITAL RESOURCES
+﻿
+We have historically financed operations through cash flows from operations as well as debt and equity transactions. At December 31, 2020, our principal sources of liquidity were $2.8 million in cash and cash equivalents and $5.7 million in contract receivables, net of allowances. We provide software solutions and services throughout the world. The COVID-19 global outbreak has caused instability and volatility in multiple markets where our clients conduct business. At this time, we have seen only limited disruptions to our ability to continue delivery to our clients. Our anticipated uses of cash in the future will be to fund the expansion of
+			
+		
+			
+		
+our business through both organic growth as well as possible acquisition activities, the expansion of our customer base internationally, and term loan payments. Other uses of cash may include capital expenditures and technology expansion.
+﻿
+During 2017, in connection with the acquisition of the Lumata entities, we entered into a Term Loan Facility Agreement with East West Bank as lender in the amount of $4.7 million (the “Lumata Facility”). We used the full amount of the Lumata Facility to fund the acquisition of the Lumata companies. The Lumata Facility is secured by all of the assets of EVOL Holdings and the Original Guarantors in accordance with the terms of a Debenture entered into by EVOL Holdings and the Original Guarantors in favor of East West Bank. EVOL Holdings, EVOL Inc. and the Original Guarantors also entered into a Subordination Deed whereby each of the parties agreed to subordinate all loans by and among each other to East West Bank. Lumata France SAS and Lumata UK Ltd are also bound to adhere to the finance documents as additional obligors.
+﻿
+On September 24, 2019 the Company agreed in principle to the terms of a new amendment and on October 4, 2019, we entered into the First Amendment (“First Amendment”) to the Lumata Facility. The purpose of the First Amendment was to waive certain events of non-compliance with respect to covenants not achieved in prior periods and to amend future covenant requirements. The First Amendment also required Evolving Systems to make an advance payment of principal of $666,666.66. The remaining terms and conditions of the Lumata Facility and payment schedule remain unchanged. The Company also agreed to pay East West Bank’s legal fees in connection with the transaction.
+﻿
+On July 1, 2020, we entered into the Amendment and Waiver Letter (“Second Amendment”) to the Lumata Facility. The purpose of the Second Amendment is to waive certain events of non-compliance with respect to covenants not achieved in prior periods and to amend future covenant requirements. The Second Amendment adjusted the loan amortization to be paid in full on December 31, 2020 and fixed the interest rate at 5% on the remaining principal. The Company also made an advance payment of $44,000 on June 1, 2020. The last payment of principal and interest was made January 11, 2021.
+﻿
+On February 29, 2016, we retired our previous revolving credit facility and we entered into a term loan agreement with East West Bank (“Term Loan”) for $6.0 million. The Term Loan bore interest at a floating rate equal to the U.S. Prime Rate plus 1.0% and was secured by substantially all of the Company’s assets, including a pledge, subject to certain limitations with respect to stock of foreign subsidiaries, of the stock of the existing and future direct subsidiaries of the Company. Interest accrued and was payable monthly. We were required to repay the Term Loan in 36 equal monthly installments, commencing on January 1, 2017. We were required to use the $6 million Term Loan proceeds, plus $4.0 million from our cash reserves, to pay off the Revolving Facility. The Term Loan was scheduled to mature on January 1, 2020.
+﻿
+On September 24, 2019, the Company agreed in principle to the terms of a new amendment and on October 4, 2019, we entered into the Sixth Amendment to the Loan and Security Agreement (“Sixth Amendment”) with East West Bank to the Term Loan. The purpose of the Sixth Amendment was to waive certain events of non-compliance with respect to covenants not achieved in prior periods and to amend future covenant requirements. The Sixth Amendment also required Evolving Systems to make an advance payment of principal of $333,333.33. In addition, the Sixth Amendment added any default under the Lumata Facility discussed above as an Event of Default under the Term Loan. The remaining terms and conditions of the Term Loan and payment schedule remained unchanged. The Company also agreed to pay East West Bank’s legal fees in connection with the transaction. The last payment of principal and interest was made November 1, 2019.
+﻿
+Both the Lumata Facility and the Term Loan (collectively, “Loans”) included negative covenants that place restrictions on the Company’s ability to, among other things: incur additional indebtedness; create liens or other encumbrances on assets; make loans, enter into letters of credit, guarantees, investments and acquisitions; sell or otherwise dispose of assets; cause or permit a change of control; merge or consolidate with another entity; make negative pledges; enter into affiliate transactions; make cash distributions to our stockholders in excess of specified limits; and change the nature of our business materially. Financial covenants previously included in the credit facilities were ultimately replaced by a minimum consolidated cash balance of no less than the $1.5 million and a quarterly consolidated EBITDA fixed dollar amount mutually agreed to by the Company and East West bank in the amendments.
+﻿
+On April 15, 2020, the Company received loan proceeds in the amount of $318,900 under the Paycheck Protection Program (“PPP”). The PPP, established as part of the Coronavirus Aid, Relief and Economic Security Act (“CARES Act”), provides for loans to qualifying businesses for amounts up to 2.5 times of the average monthly payroll expenses of the qualifying business. The loans and accrued interest are forgivable after a period of eight to twenty-four weeks as long as the borrower uses the loan proceeds for eligible purposes, including payroll, benefits, rent and utilities, and maintains its payroll levels. The amount of loan forgiveness will be reduced if the borrower terminates employees or reduces salaries during the eight-week period.
+﻿
+Net cash provided by operating activities for the years ended December 31, 2020 and 2019 was $1.4 million and $1.1 million, respectively. Cash provided by operating activities for the year ended December 31, 2020 was primarily due to the net income inclusive of noncash charges of $2.1 million, a decrease in contract receivable of $1.3 million, and a decrease of $0.7 million income
+			
+		
+			
+		
+tax receivable as refunds were collected. These were partially offset by the increase in unbilled work-in-progress of $2.1 million, a $0.2 million increase in prepaid and other assets, and decrease in unearned revenue of $0.4 million.
+﻿
+The cash provided by operating activities for the year ended December 31, 2019 was primarily due to a net loss of $9.7 million offset by non-cash goodwill impairment loss of $6.7 million, amortization and depreciation expense of $1.1 million, an unrealized foreign currency gain of $0.5 million, $0.4 million related to the amortization of operating leases - right of use assets and stock compensation of $0.3 million along with the decrease in unbilled revenue of $1.8 million, a decrease in accounts receivable of $0.9 million and offset by an increase in prepaid and other current assets of $0.2 million and a decrease in accounts payable and accrued liabilities of $0.7 million.
+﻿
+Net cash used in investing activities was $0.3 million and $0.4 million for the years ended December 31, 2020 and 2019, respectively. Cash used in investing activities for the years ended December 31, 2020 and 2019, was due to the purchase of computer equipment and software, respectively.
+﻿
+Net cash used in financing activities was $1.1 million and $4.2 million for the years ended December 31, 2020 and 2019, respectively. The cash used in 2020 financing activities was for principal payments on our Loans offset by the proceeds received with the Paycheck Protection Program. The cash used in 2019 financing activities was for principal payments on our Loans.
+﻿
+We believe that our current cash and cash equivalents, together with anticipated cash flow from operations will be sufficient to meet our working capital, debt extinguishment and capital expenditure requirements for at least the next twelve months as of the date this Form 10-K is filed. In making this assessment, we considered the following:
+﻿
+Our cash and cash equivalents balance at December 31, 2020 of $2.8 million;
+Our working capital balance of $5.5 million; and
+Our ability to historically generate positive operating cash flows.
+﻿
+We are exposed to foreign currency rate risks which impact the carrying amount of our foreign subsidiaries and our consolidated equity, as well as our consolidated cash position due to translation adjustments. For the years ended December 31, 2020 and 2019, the effect of exchange rate changes resulted in a $0.4 million decrease and a $0.1 million decrease to consolidated cash, respectively. We do not currently hedge our foreign currency exposure, but we closely monitor the rate changes and may hedge our exposures in the future.
+﻿
+Off-Balance Sheet Arrangements
+﻿
+We have no off-balance sheet arrangements that have a material current effect, or that are reasonably likely to have a material future effect, on our financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures, or capital resources.
+﻿
+﻿
+CRITICAL ACCOUNTING POLICIES
+﻿
+Our significant accounting policies are disclosed in Note 1 of our Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K. The following discussion addresses our most critical accounting policies, which are those that are both important to the portrayal of our financial condition and results of operations and that require significant judgment or use of complex estimates.
+﻿
+Use of Estimates
+﻿
+The preparation of consolidated financial statements in conformity with US GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities, at the date of the consolidated financial statements, as well as the reported amounts of revenue and expenses during the reporting period. We made estimates with respect to revenue recognition for progress toward completion and direct profit or loss on contracts, allowance for doubtful accounts, income tax valuation allowance, fair values of long-lived assets, valuation of intangible assets and goodwill, useful lives for property, equipment and intangible assets, business combinations, capitalization of internal software development costs and fair value of stock-based compensation amounts. Actual results could differ from these estimates.
+﻿
+﻿
+﻿
+﻿
+			
+		
+			
+		
+Foreign Currency
+﻿
+Our functional currency is the U.S. dollar. The functional currency of our foreign operations, generally, is the respective local currency for each foreign subsidiary. Assets and liabilities of foreign operations denominated in local currencies are translated at the spot rate in effect at the applicable reporting date. Our consolidated statements of operations are translated at the weighted average rate of exchange during the applicable period. The resulting unrealized cumulative translation adjustment is recorded as a component of accumulated other comprehensive loss in stockholders’ equity. Realized and unrealized transaction gains and losses generated by transactions denominated in a currency different from the functional currency of the applicable entity are recorded in other income (loss) in the period in which they occur.
+﻿
+Intangible Assets
+﻿
+Amortizable intangible assets consist primarily of purchased software and licenses, customer relationships, trademarks and tradenames, non-competition and purchased software acquired in conjunction with our purchase of Telespree Communications (“Evolving Systems Labs”), Evolving Systems NC, Inc., EVOL BLS and the Lumata Entities. These assets are amortized using the straight-line method over their estimated lives. We assess the impairment of identifiable intangibles if events or changes in circumstances indicate that the carrying value of the asset group may not be recoverable.
+﻿
+If we determine that the carrying value of intangibles and/or long-lived assets may not be recoverable, we compare the estimated undiscounted cash flows expected to result from the use of the asset group and its eventual disposition to the asset group’s carrying amount. If an amortizable intangible or long-lived asset is not deemed to be recoverable, we recognize an impairment loss representing the excess of the asset group’s carrying value over its estimated fair value.
+﻿
+Fair Value Measurements
+﻿
+Fair value is the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Fair value is estimated by applying the following hierarchy, which prioritizes the inputs used to measure fair value into three levels and bases the categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
+﻿
+Level 1 - Quoted prices in active markets for identical assets or liabilities.
+﻿
+Level 2 - Observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+﻿
+Level 3 - Inputs that are generally unobservable and typically reflect management’s estimate of assumptions that market participants would use in pricing the asset or liability.
+﻿
+Revenue Recognition
+﻿
+The majority of our license fees and services revenue is generated from fixed-price contracts and provides for licenses to our software products and services that customize such software to meet our customers’ needs. In most instances, customization services are determined to be essential to the functionality of the delivered software. Under Financial Accounting Standards Board (“FASB”) Topic 606, Revenue from Contacts with Customers (“ASC 606”), revenue is recognized when our customer obtains control of promised goods or services in an amount that reflects the consideration we expect to receive in exchange for those goods or services. We measure revenue based on consideration specified in a contract with a customer including any sales incentives. Furthermore, we recognize revenue when we satisfy a performance obligation by transferring control over the service to our customer.
+﻿
+A performance obligation is a promise in a contract to transfer a distinct service to the customer. The transaction price of a contract is allocated to each distinct performance obligation and recognized as revenue when or as the customer receives the benefit of the performance obligation. Losses on fixed-price projects are recorded when identified. Taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction, that are collected by us from a customer, are excluded from revenue.
+﻿
+Nature of Goods and Services
+﻿
+The following is a description of our products and services from which we generate revenue, as well as the nature, timing of satisfaction of performance obligations, and significant payment terms for each:
+			
+		
+			
+		
+i. License Revenue
+﻿
+License fees represent the fees we receive from the licensing of our software products. In most instances, customization services are determined to be essential to the functionality of the delivered software. The license along with the customization services are transferred to our customers over time generally as a single performance obligation. In arrangements where the services are not essential to the functionality of the delivered software, we recognize license revenue when the license agreement has been approved and the software has been delivered. We can identify each party’s rights, payment terms, and commercial substance of the content. Where applicable, we identify multiple performance obligations and record as revenue as the performance obligations are fulfilled based on their estimated allocated standalone selling price. The selection of the method to measure progress towards completion requires judgment and is based on the extent of progress towards completion of the performance obligation. We recognize revenue using the input method of accounting based on labor hours.
+﻿
+ii. Customer Support Revenue
+﻿
+Customer support services includes annual support fees, recurring maintenance fees, and minor product upgrades generally as
+a single performance obligation. The Company also offers a warranty support fee which represents a separate performance obligation
+that is provided for up to a year with initial license purchase. The Company allocates the contract transaction price related to warranty support fees based on pricing consistent with what we would offer to other market participants. Upon the conclusion of the warranty period, the customer can choose to continue to receive support and maintenance services via our customer support offerings. We recognize revenue from our support ratably over the service contract period.
+﻿
+iii. Services Revenue
+﻿
+We recognize revenue from fixed-price service contracts using the input method of accounting based on labor hours. These
+contracts generally include a single performance obligation. Under the input method, revenue is recognized revenue on the basis of an entity’s efforts or inputs toward satisfying a performance obligation. We recognize revenue from professional services provided pursuant to time-and-materials based contracts and training services as the services are performed, as that is when our performance obligation to our customers under such arrangements is fulfilled.
+﻿
+iv. Managed Services
+﻿
+We recognize revenue from our managed services contracts primarily over the service contract period generally as a single
+performance obligation. On occasion, our managed services contracts will contain a specified number of hours to work over the term of the contract or other services that would be separate performance obligations. Revenue for this type of managed service performance obligation is recognized using the input method of accounting, as previously described.
+﻿
+Contract Balances
+﻿
+Contract receivables are recorded at the invoiced amount and do not bear interest. Credit is extended based on the evaluation of a customer’s financial condition and collateral is not required. Unbilled work-in-progress is revenue which has been earned but not invoiced. The contract assets are transferred to the receivables when invoiced.
+﻿
+The contract liabilities primarily relate to unearned revenue. Amounts billed in advance of performance obligations being satisfied are booked as unearned revenue.
+﻿
+Transaction Price Allocated to the Remaining Performance Obligations
+﻿
+Remaining performance obligations represent the transaction price of firm orders for which work has not been performed as of the period end date and excludes unexercised contract options and potential orders under ordering-type contracts (e.g., indefinite-delivery, indefinite-quantity). As of December 31, 2020, the aggregate amount of the transaction price allocated to remaining performance obligations with lives greater than one-year totals $17.9 million. The Company expects approximately 62% of remaining performance obligations to be recognized into revenue within the next twelve months, with the remaining 38% recognized thereafter.
+﻿
+We apply the practical expedient in paragraph ASC 606-10-50-14 and do not disclose information about remaining performance obligations that have original expected durations of one-year or less. We apply the transition practical expedient in paragraph ASC 606-10-65-1(f)(3) and do not disclose the amount of the transaction price allocated to the remaining performance obligations and an explanation of when we expect to recognize that amount as revenue. Additionally, applying the practical expedient in paragraph ASC 340-40-25-4, the Company recognizes the incremental costs of obtaining contracts (i.e., commissions) as an expense when incurred if the amortization period of the assets that the Company otherwise would have recognized is one-year or less.
+			
+		
+			
+		
+Allowance for Doubtful Accounts
+﻿
+We make judgments related to our ability to collect outstanding accounts receivable and unbilled work-in-progress. We provide allowances for receivables when their collection becomes doubtful by recording an expense. We determine the allowance based on our assessment of the realization of receivables using historical information and current economic trends, including assessing the probability of collection from customers. If the financial condition of our customers were to deteriorate, resulting in an impairment of their ability to make payments owed to us, an increase in the allowance for doubtful accounts would be required. We evaluate the adequacy of the allowance regularly and make adjustments accordingly. Adjustments to the allowance for doubtful accounts could materially affect our results of operations.
+﻿
+Leases
+﻿
+A lease is defined as a contract, or part of a contract, that conveys the right to control the use of identified property, plant or equipment for a period of time in exchange for consideration. On January 1, 2019, the Company adopted ASU No. 2016-02, “Leases (Topic 842)” and all subsequent ASUs that modified Leases (Topic 842). For the Company, Leases (Topic 842) primarily affected the accounting treatment for operating lease agreements in which the Company is the lessee.
+﻿
+Stock-based Compensation
+﻿
+We account for stock-based compensation by applying a fair-value-based measurement method to account for stock-based payment transactions with employees, non-employees and directors. We record compensation costs associated with the vesting of unvested options on a straight-line basis over the vesting period. Stock-based compensation is a non-cash expense because we settle these obligations by issuing shares of our common stock instead of settling such obligations with cash payments. We use the Black-Scholes model to estimate the fair value of each option grant on the date of grant. This model requires the use of estimates for expected term of the options and expected volatility of the price of our common stock. We recognize forfeitures as they occur rather than estimating them at the time of the grant.
+﻿
+Income Taxes
+﻿
+We record deferred tax assets and liabilities for the estimated future tax effects of temporary differences between the tax bases of assets and liabilities and amounts reported in the accompanying consolidated balance sheets, as well as operating losses and tax credit carry-forwards. We measure deferred tax assets and liabilities using enacted tax rates expected to be applied to taxable income in the years in which those temporary differences are expected to be recovered or settled. We reduce deferred tax assets by a valuation allowance if, based on available evidence, it is more likely than not that these benefits will not be realized.
+﻿
+We use a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by taxing authorities.
+﻿

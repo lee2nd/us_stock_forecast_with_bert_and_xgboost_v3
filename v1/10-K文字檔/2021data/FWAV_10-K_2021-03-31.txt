@@ -1,0 +1,53 @@
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+We are currently in the development stage and have not earned any revenues.
+Results of Operations
+Operating expenses for the years ended December 31, 2020 and 2019 were $4,494,039 and $416,174, respectively, and were comprised primarily of the following which did not require the payment of cash: stock based compensation $3,006,445, amortization of debt discount $370,814, and loss on settlement of debt $392,900. Operating expenses during the year ended December 31, 2020 increased primarily due to the increase in the non-cash items mentioned above.
+Other Expenses for the years ended December 31, 2020 and 2019 were $590,442 and $162,997, respectively. The primary component of Other Expenses was interest expense. Interest expense increased as a result of the amortization of debt discounts and an increase in interest bearing debt.
+Liquidity and Capital Resources
+We have financed our cash requirements from the sale of common stock and by loans from non-affiliated third parties. During the year ended December 31, 2020, we received $581,350 in proceeds from convertible notes and $10,000 in proceeds from notes payable. As of December 31, 2020 we also owed another unrelated third party $390,000 for investor relations fees.
+Our sources and (uses) of cash for the years ended December 31, 2020 and 2019 were:
+$$
+Cash used in operations(620,792)(247,494)
+Proceeds from sale of common stock
+100,000
+-
+Proceeds from sale of convertible notes
+581,350
+165,000
+Payments on convertible notes
+(33,463)
+-
+Proceeds from notes payable
+10,000
+82,900
+Payments on notes payable
+(13,000)
+-
+We do not anticipate receiving cash flow from operations in the near future to satisfy our ongoing capital requirements. We are seeking financing in the form of equity capital in order to provide the necessary working capital. Our ability to meet our obligations and continue to operate as a going concern is highly dependent on our ability to obtain additional financing. We cannot predict whether this additional financing will be in the form of equity or debt, or be in another form. We may not be able to obtain the necessary additional capital on a timely basis, on acceptable terms, or at all. In any of these events, we may be unable to implement our current plans which circumstances would have a material adverse effect on our business, prospects, financial conditions and results of operations.
+Our estimated capital requirements for the twelve months ending December 31, 2021 are:
+Description
+Amount
+$
+Salaries and consulting fees
+300,000
+Other general and administrative expenses, including research and development,
+legal and accounting, marketing, travel and entertainment, and rent.
+100,000
+Due to our continuing losses from business operations, the independent auditor’s report dated March 31, 2021, includes a “going concern” opinion relating to the fact that our continuation is dependent upon obtaining additional working capital either through revenues or through outside financing.
+Equity Line
+On March 4, 2021 we entered into an Equity Line agreement with Tysadco Partners, LLC (“Tysadco”).
+Under the Equity Line Agreement, Tysadco agreed to provide us with up to $10,000,000 of funding through the purchase of shares of our common stock.
+During the term of the Agreement, we may, at its sole discretion, deliver a Put Notice to Tysadco, which will specify the dollar amount which we want to draw down under the Equity Line. The amount we can draw down at any one time is the lesser of (i) that number of shares determined by dividing $500,000 by the closing price of our common stock on the trading day immediately preceding the delivery of a Put Notice or (ii) 300% of the average daily trading volume of our common stock for the ten days prior to the delivery of a Put Notice.
+A closing will occur on the first business day following the Valuation Period. The Valuation Period with respect to a particular Put Notice means five trading days preceding the delivery of the Put Notice and five trading days commencing after the delivery of the Put Notice.
+The number of shares to be purchased by Tysadco on a particular Closing Date will be determined by dividing the dollar amount specified in the Put Notice by the Purchase Price. The Purchase Price is 75% of the lowest daily volume weighted average price of our common stock during the Valuation Period.
+We may specify a Minimum Price when submitting a Put Notice, provided however that the Minimum Price must be more than 75% of the closing price of our common stock on the date immediately preceding the date of the delivery of the Put Notice. If the Purchase Price is less than the Minimum Price, we may, at our option, not sell any shares to Tysadco on the Closing Date pertaining to the Put Notice or sell shares to Tysadco using the Purchase Price.
+We are under no obligation to submit any Put Notices.
+The equity line agreement has a term of 24 months, which will begin on the effective date of the registration statement which we have agreed to file with the Securities and Exchange Commission so that the shares of common stock to be sold to Tysadco may be sold in the public market.
+We issued 100,000 shares of our common stock to Tysadco as consideration for providing the equity line to us.
+In February, 2021 we sold 1,700,000 shares of our common stock to Tysadco for $204,000. At a later date we plan to sell another 1,700,000 shares of our common stock to Tysadco for $204,000.
+Prior Equity Line
+On January 2, 2020, we entered into an Investment Agreement with Tiger Trout Capital, LLC ("TTC") in order to establish a possible source of funding for our operations. Under the Investment Agreement TTC agreed to provide us with up to $2,500,000 of funding by purchasing shares of our common stock. We never sold any shares of our common stock to TTC and we have since terminated our agreement with TTC.
+Impact of the Coronavirus
+Our business could be disrupted and materially adversely affected by the recent outbreak of COVID-19. As a result of measures imposed by the governments in affected regions, businesses and schools have temporarily closed due to quarantines intended to contain this outbreak. The spread of COVID-19 from China to other countries has resulted in the Director General of the World Health Organization declaring COVID-19 a pandemic on March 11, 2020. International stock markets have reflected the uncertainty associated with the slow-down in the world economies. The significant declines in the Dow Industrial Average were also largely attributed to the effects of COVID-19. We are still assessing the impact COVID-19 may have on our business, but there can be no assurance that this analysis will enable us to avoid part or all of any impact from the spread of COVID-019 or its consequences, including downturns in business sentiment generally. The extent to which the COVID-19 pandemic and global efforts to contain its spread will impact our operations will depend on future developments, which are highly uncertain and cannot be predicted at this time, and include the duration, severity and scope of the pandemic and the actions taken to contain or treat the COVID-19 pandemic.
+Critical Accounting Policies
+See Note 2 to the December 31, 2020 financial statements included as part of this report for a discussion of our Significant Accounting Policies.

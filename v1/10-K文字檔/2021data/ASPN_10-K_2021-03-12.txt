@@ -1,0 +1,517 @@
+Item 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion of our financial condition and results of operations should be read in conjunction with the “Selected Financial Data” and our consolidated financial statements and the related notes thereto included in this Annual Report on Form 10-K. In addition to historical information, some of the information contained in the following discussion and analysis or set forth elsewhere in this report, including information with respect to our plans and strategy for our business, includes forward looking information that involves risks, uncertainties and assumptions. You should read the Risk Factors set forth in Item 1A of this Annual Report on Form 10-K for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis. Our actual results and the timing of events could differ materially from those anticipated by these forward looking statements.
+Investors and others should note that we routinely use the Investors section of our website to announce material information to investors and the marketplace. While not all of the information that we post on the Investors section of our website is of a material nature, some information could be deemed to be material. Accordingly, we encourage investors, the media, and others interested in us to review the information that we share on the Investors section of our website, https://www.aerogel.com/.
+Overview
+We design, develop and manufacture innovative, high-performance aerogel insulation used primarily in the energy infrastructure and building materials markets. We believe our aerogel blankets deliver the best thermal performance of any widely used insulation product available on the market today and provide a combination of performance attributes unmatched by traditional insulation materials. Our end-use customers select our products where thermal performance is critical and to save money, improve resource efficiency, enhance sustainability, preserve operating assets and protect workers. Our insulation is used by oil producers and the owners and operators of refineries, petrochemical plants, liquefied natural gas facilities, power generating assets and other energy infrastructure. Our Pyrogel and Cryogel product lines have undergone rigorous technical validation by industry leading end-users and achieved significant market adoption.
+We are also actively developing a number of promising aerogel products and technologies for the electric vehicle market. We have developed and are commercializing our proprietary line of PyroThin aerogel thermal barriers, for use in lithium-ion batteries in electric vehicles. Our PyroThin product is an ultra-thin, lightweight and flexible thermal barrier designed to impede the propagation of thermal runaway across multiple lithium-ion battery system architectures. Our thermal barrier technology offers a unique combination of performance attributes that enable electric vehicle manufacturers to achieve critical safety goals without sacrificing driving range. In addition, we are seeking to leverage our patented carbon aerogel technology to develop industry-leading battery materials for lithium-ion battery systems. These battery materials have the potential to enable an increase in the drive range of electric vehicles.
+The commercial potential for the our PyroThin thermal barriers and our carbon aerogel battery materials in the electric vehicle market is significant and is likely to require us to hire additional personnel, incur additional operating expenses, and incur capital expenditures to expand manufacturing capacity, build an automated fabrication operation, and meet automotive quality system requirements, among other items.
+We also derive product revenue from a number of other end markets, including the building materials market. Customers in these markets use our products for applications as diverse as wall systems, military and commercial aircraft, trains, buses, appliances, apparel, footwear and outdoor gear. As we continue to enhance our aerogel technology platform, we believe we will have additional opportunities to address high value applications in the global insulation market, the electric vehicle market and in a number of new, high-value markets.
+We generate product revenue through the sale of our line of aerogel blankets and thermal barriers. We market and sell our products primarily through a sales force based in North America, Europe and Asia. The efforts of our sales force are supported by a small number of sales consultants with extensive knowledge of a particular market or region. Our sales force is responsible for establishing and maintaining customer and partner relationships, delivering highly technical information and ensuring high-quality customer service.
+Our salespeople work directly with end-use customers and engineering firms to promote the qualification, specification and acceptance of our products. We also rely on an existing and well-established channel of qualified insulation distributors and contractors in more than 50 countries around the world to ensure rapid delivery of our products and strong end-user support. Our salespeople also work to educate insulation contractors about the technical and operating cost advantages of our aerogel blankets.
+We also perform research services under contracts with various agencies of the U.S. government, including the Department of Defense and the Department of Energy, and other institutions. We decided to cease efforts to secure additional funded research contracts and to wind down our existing contract research activities. This decision reflected our desire to focus our research and development resources on initiatives to improve the profitability of our existing business and on efforts to develop new products and next generation technology with application in new, high value markets.
+We manufacture our products using our proprietary technology at our facility in East Providence, Rhode Island. We have operated the East Providence facility since 2008 and have increased our annual capacity in phases through December 31, 2020 to 55 million square feet of aerogel blankets. We are currently engaged in an initiative, which we refer to as EP20, designed to increase the capacity of the East Providence facility to 60 million square feet of aerogel blankets by the end of 2021. In addition, we anticipate that we will need to construct a state-of-the-art thermal barrier fabrication operation, hire dedicated thermal barrier fabrication employees, and increase our aerogel blanket manufacturing capacity to keep pace with the significant potential demand for our PyroThin thermal barriers. Accordingly, we are in the early stages of planning a significant expansion of our aerogel capacity prior to the end of 2023. The expected elements of the completed expansion plan will include the size of the required capacity expansion, the selection of an optimal manufacturing site for the expansion, the appropriate financing structure to fund the project fully and a detailed timeline for the construction and operation of the facility.
+We had previously completed the design and engineering for a second manufacturing facility to be located in Statesboro, Georgia. During 2016, we elected to delay construction of the facility due to our assessment of future demand. In December 2018, we determined that we will not use the existing design and engineering to construct a second facility in any location. Accordingly, we determined that the design and engineering costs were not recoverable and recorded an impairment charge of $7.4 million on construction in progress assets during 2018.
+On September 17, 2020, we entered into a contract with a major U.S. automotive original equipment manufacturer to supply fabricated, multi-part thermal barriers for use in the battery system of its next-generation electric vehicles. Pursuant to the contract, we are obligated to supply the barriers at fixed annual prices and at volumes to be specified by the customer up to a daily maximum quantity through the term of the agreement, which expires on September 1, 2026. While the customer has agreed to purchase its requirement for the barriers at locations to be designated from time to time from us, it has no obligation to purchase any minimum quantity of barriers under the contract. In addition, the customer may terminate the contract any time and for any or no reason. All other terms of the contract are generally consistent with the customer’s standard purchase terms, including customary quality and warranty provisions.
+We are engaged in a strategic partnership with BASF to develop and commercialize products for the building materials and other markets. The strategic partnership includes a supply agreement governing the exclusive sale of specified products to BASF and a joint development agreement targeting innovative products and technologies. BASF has no obligation to purchase any products under the supply agreement. Pursuant to the supply agreement, BASF may, in its sole discretion, make prepayments to us in the aggregate amount of up to $22.0 million during the term of the agreement. We may repay the prepayments to BASF at any time in whole or in part for any reason.
+BASF made a prepayment to us of $5.0 million during 2018. As of January 1, 2019, 25.3% of any amounts that we invoice for Spaceloft A2 sold to BASF will be credited against the outstanding balance of the 2018 prepayment. If any amount of the 2018 prepayment remains uncredited at December 31, 2021, BASF may require that we repay the uncredited amount following a six-week notice period. In January 2019, BASF made an additional prepayment to us of $5.0 million. As of January 1, 2020, 50% of any amounts that we invoice for a newly developed product sold to BASF will be credited against the outstanding balance of the 2019 prepayment. After December 31, 2022, BASF may require that we credit 24.7% of any amounts we invoice for Spaceloft A2 sold to BASF against the outstanding balance of the 2019 prepayment or may require that we repay the uncredited amount to BASF following a six-week notice period.
+On February 18, 2020, we completed an underwritten public offering of 1,955,000 shares of our common stock at an offering price of $8.25 per share. We received net proceeds of $14.8 million after deducting underwriting discounts and commissions of $1.1 million and offering expenses of approximately $0.3 million.
+On November 5, 2020, we entered into a sales agreement with B. Riley Securities, Inc. (“B. Riley Securities”) with respect to an at-the-market (“ATM”) offering program under which we may offer and sell, from time to time in our sole discretion, shares of our common stock, through B. Riley Securities as our sales agent. During November and December 2020, we completed the sale of 714,357 shares at an average price of $13.96 per share through our at-the-market offering and received net proceeds of $9.5 million after deducting commissions of $0.3 million and offering expenses of approximately $0.2 million.
+On March 3, 2020, we amended our revolving credit facility with Silicon Valley Bank to extend the maturity date of the facility to April 28, 2021 and establish certain minimum levels for the minimum Adjusted EBITDA financial covenant for the extended term.
+We further amended our revolving credit facility with Silicon Valley Bank to revise the minimum Adjusted EBITDA financial covenant on September 25 2020 and to secure a preemptive waiver of the Adjusted EBITDA financial covenant on December 24, 2020, among other things. On March 12, 2021, we amended and restated our revolving credit facility with Silicon Valley Bank to extend the maturity date of the revolving credit facility to April 28, 2022 and to establish certain minimum Adjusted EBITDA levels with respect to the minimum Adjusted EBITDA and minimum Adjusted Quick Ratio covenants, as defined. Under our revolving credit facility, we are permitted to borrow a maximum of $20.0 million, subject to continued covenant compliance and borrowing base requirements. The interest rate applicable to borrowings under the revolving credit facility is based on the prime rate, subject to a minimum rate of 4.00% per annum. Prime rate-based rates vary from prime rate plus 0.75% per annum to prime rate plus 2.00% per annum. In addition, we are required to pay a monthly unused revolving line of credit facility fee of 0.50% per annum of the average unused portion of the revolving credit facility. We intend to extend or replace the facility prior to its maturity.
+On May 1, 2020, our wholly-owned subsidiary, Aspen Aerogels Rhode Island, LLC (Borrower), executed a note for an unsecured loan of $3.7 million pursuant to the Paycheck Protection Program (PPP Loan) under the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), as amended, and administered by the U.S. Small Business Administration (SBA). The Borrower conferred with representatives of the SBA prior to finalizing the PPP Loan. The loan is unsecured, contains customary events of default, carries an interest rate of 1% per year, and matures on May 1, 2022. The Borrower may repay the loan at any time without penalty. In addition, the Borrower is permitted at any time to submit an application to extend the maturity of loan to May 1, 2025.
+The Borrower may also choose to apply to have the PPP Loan forgiven in whole or in part subject to SBA guidelines. The potential amount of forgiveness is based on the Borrower’s use of loan proceeds for payroll costs, mortgage interest payments, rent and utility costs over either an eight-week or 24-week period following receipt of the loan proceeds. The SBA may disapprove of the loan forgiveness application if the agency determines that the Borrower was ineligible for the PPP Loan. As of December 31, 2020, the Borrower had not applied for forgiveness.
+Upon application, the Borrower may receive loan forgiveness in whole or in part. In addition, the amount of potential loan forgiveness will be reduced if the Borrower failed to maintain employee and salary levels during the applicable eight-week or 24-week period following receipt of the loan proceeds. If the Borrower applies for forgiveness, and the PPP Loan is not forgiven in whole or in part, the Borrower will be required to begin to make payments of the principal and accrued interest of the post-forgiveness balance outstanding in equal monthly installments over the remaining term of the loan. If the Borrower does not apply for forgiveness by August 19, 2021, the Borrower will be required to make payments of principal and accrued interest in equal monthly installments over the remaining term of the loan.
+The Borrower used the proceeds of the PPP Loan to support ongoing operations and to sustain staffing levels in the East Providence, Rhode Island manufacturing facility despite the unfavorable impact the COVID-19 pandemic and volatile energy markets had on its business.
+In response to the COVID-19 pandemic, we have implemented and are following safe practices recommended by public health authorities and other government entities. We continue to focus on the safety and health of our employees, customers and vendors. In addition, we have implemented various precautionary measures, including remote work arrangements, restricted business travel and procedures for social distancing, face coverings and safe hygiene. We continue to monitor public health guidance as it evolves and plan to adapt our practices as appropriate. Refer to the section below entitled “Item 1A. Risk Factors” for more information concerning risks to our business associated with COVID-19.
+At present, we are not certain of the extent of the impact that the COVID-19 pandemic and global oil market volatility may have on our business. Our manufacturing facility remains operational and we have not encountered any significant disruption to our supply chain or our ability to deliver to our customers. However, the demand for our products has been negatively impacted, particularly due to access restrictions on contractors in energy infrastructure facilities, resulting in a significant year-over-year decrease in our total revenue and increase in our net loss.
+In response to this general uncertainty in the market for our products, we implemented a number of actions in 2020 to reduce expenses, including wage reductions, temporary suspension of board fees and selected reductions to discretionary expenses. In addition, as permitted by the CARES Act, we elected to defer certain payments of the employer share of Social Security tax that would otherwise be required to be paid during the period beginning on March 27, 2020 and ending December 31, 2020. We also remain prepared to temporarily curtail operations in our East Providence, Rhode Island manufacturing facility as necessary to ensure the safety of our employees or to align capacity with the expected lower demand.
+Our revenue for the year ended December 31, 2020 was $100.3 million, which represented a decrease of $39.1 million, or 28%, from the year ended December 31, 2019. Net loss for the year ended December 31, 2020 was $21.8 million and net loss per share was $0.83. Net loss for the year ended December 31, 2019 was $14.6 million and net loss per share was $0.60.
+Key Metrics and Non-GAAP Financial Measures
+We regularly review a number of metrics, including the following key metrics, to evaluate our business, measure our performance, identify trends affecting our business, formulate financial projections and make strategic decisions.
+Square Foot Operating Metric
+We price our product and measure our product shipments in square feet. We estimate our annual capacity was 55 million square feet of aerogel blankets at December 31, 2020. We believe the square foot operating metric allows us and our investors to measure our manufacturing capacity and product shipments on a uniform and consistent basis. The following chart sets forth product shipments in square feet associated with recognized revenue, including revenue recognized over time utilizing the input method, for the periods presented:
+Year Ended December 31,
+(Square feet in thousands)
+Product shipments in square feet
+28,635
+40,720
+34,435
+Adjusted EBITDA
+We use Adjusted EBITDA, a non-GAAP financial measure, as a means to assess our operating performance. We define Adjusted EBITDA as net income (loss) before interest expense, taxes, depreciation, amortization, stock-based compensation expense and other items, from time to time, which we do not believe are indicative of our core operating performance, which in 2018 included an impairment of construction in progress. Adjusted EBITDA is a supplemental measure of our performance that is not presented in accordance with U.S. GAAP. Adjusted EBITDA should not be considered as an alternative to net income (loss) or any other measure of financial performance calculated and presented in accordance with U.S. GAAP. In addition, our definition and presentation of Adjusted EBITDA may not be comparable to similarly titled measures presented by other companies.
+We use Adjusted EBITDA:
+•
+as a measure of operating performance because it does not include the impact of items that we do not consider indicative of our core operating performance;
+•
+for planning purposes, including the preparation of our annual operating budget;
+•
+to allocate resources to enhance the financial performance of our business; and
+•
+as a performance measure used under our bonus plan.
+We also believe that the presentation of Adjusted EBITDA provides useful information to investors with respect to our results of operations and in assessing the performance and value of our business. Various measures of EBITDA are widely used by investors to measure a company’s operating performance without regard to items that can vary substantially from company to company depending upon financing and accounting methods, book values of assets, capital structures and the methods by which assets were acquired.
+Although measures similar to Adjusted EBITDA are frequently used by investors and securities analysts in their evaluation of companies, we understand that Adjusted EBITDA has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for net income (loss), income (loss) from operations, net cash provided by (used in) operating activities or an analysis of our results of operations as reported under U.S. GAAP. Some of these limitations are:
+•
+Adjusted EBITDA does not reflect our historical cash expenditures or future requirements for capital expenditures or other contractual commitments;
+•
+Adjusted EBITDA does not reflect changes in, or cash requirements for, our working capital needs;
+•
+Adjusted EBITDA does not reflect stock-based compensation expense;
+•
+Adjusted EBITDA does not reflect our tax expense or cash requirements to pay our income taxes;
+•
+Adjusted EBITDA does not reflect our interest expense, or the cash requirements necessary to service interest or principal payments on our debt;
+•
+although depreciation, amortization and impairment charges are non-cash charges, the assets being depreciated, amortized or impaired will often have to be replaced in the future, and Adjusted EBITDA does not reflect any cash requirements for these replacements; and
+•
+other companies in our industry may calculate EBITDA or Adjusted EBITDA differently than we do, limiting their usefulness as a comparative measure.
+Because of these limitations, our Adjusted EBITDA should not be considered as a measure of discretionary cash available to us to reinvest in the growth of our business or as a measure of cash available for us to meet our obligations.
+To properly and prudently evaluate our business, we encourage you to review the U.S. GAAP financial statements included elsewhere in this Annual Report on Form 10-K, and not to rely on any single financial measure to evaluate our business.
+The following table presents a reconciliation of net loss, the most directly comparable U.S. GAAP measure, to Adjusted EBITDA for the years presented:
+(1)
+Represents non-cash stock-based compensation related to vesting and modifications of stock option grants, vesting of restricted stock units and vesting and modification of restricted common stock.
+The following table presents a reconciliation of net loss, the most directly comparable U.S. GAAP measure, to Adjusted EBITDA for the quarters presented:
+(1)
+Represents non-cash stock-based compensation related to vesting and modifications of stock option grants, vesting of restricted stock units and vesting and modification of restricted common stock.
+Our financial performance, including such measures as net income (loss), earnings per share and Adjusted EBITDA, are affected by a number of factors including volume and mix of aerogel products sold, average selling prices, our material costs and manufacturing expenses, the costs associated with capacity expansions and start-up of additional production capacity, and the amount and timing of operating expenses. Accordingly, we expect that our net income (loss), earnings per share and Adjusted EBITDA will vary from period to period.
+During 2020, we experienced a broad-based decrease in both project and maintenance based revenue in the global energy infrastructure business. The decline in demand was principally due to our energy infrastructure customers seeking to limit the number of third-party insulation installers in their facilities to reduce worker density, temporarily shuttering operations from time-to-time in response to COVID-19 outbreaks, and delaying the start of projects due to the threat of COVID-related interruptions. As a result, we experienced a total revenue decrease of 28%, an increase in net loss, and a decrease in Adjusted EBITDA during 2020 versus 2019.
+During 2021, we expect that the COVID-19 pandemic will continue to constrain our revenue to 2020 levels with some potential for additional project-related revenue. When the effects of the COVID-19 pandemic recede, we anticipate that our revenue will
+increase with the elimination of contractor access restrictions in energy infrastructure facilities and as our distribution channel restocks.
+We expect that our ongoing initiatives to reduce raw material costs and enhance manufacturing productivity will help to improve our gross margin in 2021 as compared to 2020. However, we intend to increase our investment in the electric vehicle market and our aerogel technology platform by $6.0 million in 2021. This investment will be used to accelerate thermal barrier business development, to establish industry-leading thermal barrier fabrication capability, to progress from the development phase to the commercialization phase of our silicon-rich carbon aerogel battery materials, and to identify additional high-value markets for our aerogel technology. As a result, we expect to experience a decrease in Adjusted EBITDA and an increase in net loss versus 2020.
+Revenue
+We recognize product revenue from the sale of our line of aerogel products and research services revenue from the provision of services under contracts with various agencies of the U.S. government and other institutions. Product and research services revenue is recognized upon the satisfaction of contractual performance obligations.
+We record deferred revenue for product sales when (i) we have delivered products but other revenue recognition criteria have not been satisfied or (ii) payments have been received in advance of the completion of required performance obligations.
+We have decided to cease efforts to secure additional research contracts and to wind down existing contract research activities.
+The following table sets forth the total revenue for the periods presented:
+Product revenue accounted for greater than 99% of total revenue for the year ended December 31, 2020 and 98% for both the years ended December 31, 2019 and 2018. We experienced a 28% decrease in total revenue during 2020 due to a broad-based decrease in both project and maintenance-based revenue in the global energy infrastructure market due the impact of the COVID-19 pandemic, partially offset by a modest increase in demand related to our building materials business. The COVID-19 related decrease in demand was the principally the result of contractor access restrictions in energy infrastructure facilities. We also experienced a decline in our research services revenue due to our decision to cease efforts to secure additional research contracts and to wind down existing contract research activities.
+During 2021, we expect that the COVID-19 pandemic will continue to constrain our revenue to 2020 levels with some potential for project-related upside. When the effects of the COVID-19 pandemic recede, we anticipate that our revenue will increase with the elimination of contractor access restrictions in energy infrastructure facilities and as our distribution channel restocks.
+A substantial majority of our revenue is generated from a limited number of direct customers, including distributors, contractors, fabricators, partners and end-use customers. Our 10 largest customers accounted for approximately 66% of our total revenue during the year ended December 31, 2020, and we expect that most of our revenue will continue to come from a relatively small number of customers for the foreseeable future.
+In 2020, sales to Distribution International, Inc. and SPCC Joint Venture represented 21% and 15% our total revenue, respectively. In 2019, sales to Distribution International, Inc. and SPCC Joint Venture represented 20% and 13% our total revenue, respectively. In 2018, sales to Distribution International, Inc. represented 20% of our total revenue. For each of the noted periods, there were no other customers that represented 10% or more of our total revenues.
+We conduct business across the globe and a substantial portion of our revenue is generated outside of the United States. Total revenue from outside of the United States, based on shipment destination, amounted to $55.5 million, or 55% of our total revenue, $81.0 million, or 58% of our total revenue, and $62.6 million, or 60% of our total revenue, in the years ended December 31, 2020, 2019 and 2018, respectively.
+Cost of Revenue
+Cost of product revenue consists primarily of materials and manufacturing expense. Cost of product revenue is recorded when the related product revenue is recognized.
+Material is our most significant component of cost of product revenue and includes fibrous batting, silica materials and additives. Material costs as a percentage of product revenue were 44%, 48% and 47% for the years ended December 31, 2020, 2019 and 2018, respectively. Material costs as a percentage of product revenue vary from product to product due to differences in average selling prices, material requirements, product thicknesses and manufacturing yields. In addition, we provide warranties for our products and record the estimated cost within cost of revenue in the period that the related revenue is recorded or when we become aware that a potential warranty claim is probable and can be reasonably estimated. As a result of these factors, material costs as a percentage of product revenue will vary from period to period due to changes in the mix of aerogel products sold, the costs of our raw materials or the estimated cost of warranties. We expect that material costs will decrease in absolute dollars during 2021 due to a favorable product mix and the impact of our bill of material cost initiatives.
+During the year ended December 31, 2018, we experienced a significant increase in the costs of certain silica precursor materials, which constitute over 50% of our raw material costs. In response, we have achieved higher selling prices, implemented lower cost formulations, implemented material sourcing improvements, and enhanced manufacturing yields to reduce the cost of raw materials for our aerogel products. As a result, we expect that material costs will decrease both in absolute dollars and as a percentage of product revenue during 2021.
+Manufacturing expense is also a significant component of cost of revenue. Manufacturing expense includes labor, utilities, maintenance expense, and depreciation on manufacturing assets. Manufacturing expense also includes stock-based compensation of manufacturing employees and shipping costs. Manufacturing expense as a percentage of product revenue was 42%, 33% and 42% for the years ended December 31, 2020, 2019 and 2018, respectively. While product revenue decreased by 27% during 2020, manufacturing expense decreased by only 8% due principally to the high proportion of fixed manufacturing expense in our East Providence, Rhode Island manufacturing facility. In 2021, we expect that manufacturing expense in both absolute dollars and as a percentage of product revenue will remain level with 2020 as a projected increase in compensation costs is offset by a projected decrease in depreciation expense.
+In total, we expect that cost of product revenue will decrease in absolute dollars during 2021 and as a percentage of product revenue during 2021 versus 2020 due primarily to a projected favorable product mix and the impact of our on-going initiatives to reduce our bill of material costs.
+Cost of research services revenue consists of direct labor costs of research personnel engaged in the contract research, third-party consulting and subcontractor expense, and associated direct material costs. This cost of revenue also includes overhead expenses associated with project resources, development tools and supplies. Cost of research services revenue is recorded when the related research services revenue is recognized. In 2021, we expect that cost of research services revenue will decline as we wind down our existing contract research activities.
+Gross Profit
+Our gross profit as a percentage of revenue is affected by a number of factors, including the volume of aerogel products produced and sold, the mix of aerogel products sold, average selling prices, our material and manufacturing costs, realized capacity utilization and the costs associated with expansions and start-up of production capacity. Accordingly, we expect our gross profit in absolute dollars and as a percentage of revenue to vary significantly from period to period.
+During 2020, we experienced a significant decline in product revenue due to the impact of COVID-19 on the global energy infrastructure market and a decrease in research services revenue resulting from our decision to wind down our contract research activities. We experienced a reduction in both our material costs and manufacturing expense due to the decrease in volume, our efforts to control compensation costs and discretionary expense, and our initiatives to reduce our bill of material costs. Due principally to high proportion of fixed manufacturing expense in our manufacturing operations, the material cost and manufacturing expense reductions were insufficient to offset the full impact of the revenue decline. As a result, gross profit decreased both in absolute dollars and as a percentage of revenue during the year.
+During 2021, we expect that the COVID-19 pandemic will continue to constrain our revenue to 2020 levels. However, we expect gross profit to increase both in absolute dollars and as a percentage of revenue during 2021 due to a projected favorable product mix and the impact of our on-going initiatives to reduce our bill of material costs.
+In the longer term, we expect gross profit to continue to improve in absolute dollars and as a percentage of revenue due to expected increases in total revenue, production volumes and manufacturing productivity. In addition, we expect the gross profit improvement derived from the increases in revenue, volume and productivity will be supported by the continued implementation of lower cost product formulations and realization of material purchasing efficiencies.
+Operating Expenses
+Operating expenses consist of research and development, sales and marketing, and general and administrative expenses. Operating expenses include personnel costs, legal fees, professional fees, service fees, insurance premiums, travel expense, facilities related costs and other costs, expenses and fees. The largest component of our operating expenses is personnel costs, consisting of salaries, benefits, incentive compensation and stock-based compensation. In any particular period, the timing and extent of personnel additions or reductions, legal activities, including patent enforcement actions, marketing programs, research efforts and a range of similar activities or actions could materially affect our operating expenses, both in absolute dollars and as a percentage of revenue.
+During 2021, we expect to hire additional personnel and incur additional operating expenses to support the anticipated multi-year growth in our PyroThin thermal barrier business. As a result, we expect that operating expenses will increase in both absolute dollars and as a percentage of revenue during the year. In the longer term, we expect that operating expenses will increase in absolute dollars, but decrease as a percentage of revenue.
+Research and Development Expenses
+Research and development expenses consist primarily of expenses for personnel engaged in the development of next generation aerogel compositions, form factors and manufacturing technologies. These expenses also include testing services, prototype expenses, consulting services, trial formulations for new products, equipment depreciation, facilities costs and related overhead. We expense research and development costs as incurred. We expect to continue to devote substantial resources to the development of new aerogel technologies, including our carbon aerogel battery materials. We believe that these investments are necessary to maintain and improve our competitive position. We also expect to continue to invest in research and engineering personnel and the infrastructure required in support of their efforts. While we expect that our research and development expenses will increase in absolute dollars but decrease as a percentage of revenue in the longer term, in 2021 we expect such expenses will increase in both absolute dollars and as a percentage of revenue.
+Sales and Marketing Expenses
+Sales and marketing expenses consist primarily of personnel costs, incentive compensation, marketing programs, travel and related costs, consulting expenses and facilities related costs. We expect that sales and marketing expenses will increase in absolute dollars during 2021 principally due to an increase in compensation associated with the addition of personnel in support of our PyroThin thermal barrier business.
+General and Administrative Expenses
+General and administrative expenses consist primarily of personnel costs, legal expenses, consulting and professional services, audit and tax consulting costs, and expenses for our executive, finance, legal, human resources and information technology organizations. General and administrative expenses have increased as we have incurred additional costs related to operating as a publicly-traded company, which include costs of compliance with securities, corporate governance and related laws and regulations, investor relations expenses, increased insurance premiums, including director and officer insurance, and increased audit and legal fees. In addition, we expect our general and administrative expenses to increase as we add general and administrative personnel to support the anticipated growth of our business. We also expect that the patent enforcement actions, described in more detail under “Legal Proceedings” in Part I, Item 3 of this Annual Report on Form 10-K, if protracted, could result in significant legal expense over the medium to long-term. While we expect that our general and administrative expenses will increase in absolute dollars but decrease as a percentage of revenue in the longer term, in 2021 we expect such expenses will increase in both absolute dollars and as a percentage of revenue.
+During the year ended 2020, the Company was in technical discussions with the U.S. Environmental Protection Agency (EPA) in connection with the EPA’s notice of potential violation and opportunity to confer that the Company received regarding the applicability of certain Resource Conservation and Recovery Act (RCRA) provisions to certain aspects of its manufacturing unit operations. The EPA notice was in connection with the EPA’s RCRA Compliance Evaluation Inspection of the Company’s East Providence, Rhode Island manufacturing facility in May 2019. Subsequent to these initial discussions, the Company received notice from the EPA that there were no violations with respect to its manufacturing unit operations.
+Interest Expense, Net
+For the years ended December 31, 2020, 2019, and 2018, interest expense, net consisted primarily of fees and interest expense related to our revolving credit facility.
+Provision for Income Taxes
+We have incurred net losses since inception and have not recorded benefit provisions for U.S. federal income taxes or state income taxes since the tax benefits of our net losses have been offset by valuation allowances due to the uncertainty associated with the utilization of net operating loss carryforwards.
+At December 31, 2020, we had $250.6 million of net operating losses available to offset future federal income, if any, of which $194.6 million expire on various dates through December 31, 2037. Net operating losses of $56.0 million generated during the three-year period ended December 31, 2020 have an unlimited carryforward.
+Results of Operations
+The following tables set forth our results of operations for the periods presented:
+Year ended December 31, 2020 compared to year ended December 31, 2019
+The following tables set forth our results of operations for the periods presented:
+Revenue
+The following chart sets forth product shipments in square feet associated with recognized revenue, including revenue recognized over time utilizing the input method, for the periods presented:
+Year Ended
+December 31,
+Change
+Amount
+Percentage
+Product shipments in square feet (in thousands)
+28,635
+40,720
+(12,085
+)
+(30
+)%
+Total revenue decreased $39.1 million, or 28%, to $100.3 million in 2020 from $139.4 million in 2019. The decrease in total revenue was the result of decreases in both product revenue and research services revenue.
+Product revenue decreased by $37.1 million, or 27%, to $99.8 million in 2020 from $136.9 million in 2019. This decrease was principally the result of COVID-19 related decreases in both project and maintenance-based demand in the global energy infrastructure market, offset, in small part, by growth in the building materials market and the impact of our 2020 price increase.
+Product revenue for the year ended December 31, 2020 included $20.7 million in sales to Distribution International, Inc. and $15.3 million in sales to SPCC Joint Venture. Product revenue for the year ended December 31, 2019 included $27.3 million in sales to Distribution International, Inc. and $18.0 million in sales to SPCC Joint Venture. The average selling price per square foot of our products increased by $0.13, or 4%, to $3.49 per square foot for the year ended December 31, 2020 from $3.36 per square foot for the year ended December 31, 2019. The increase in average selling price principally reflected the impact of price increases enacted in 2020. This increase in average selling price had the effect of increasing product revenue by approximately $3.6 million for the year ended December 31, 2020.
+In volume terms, product shipments decreased by 12.1 million square feet, or 30%, to 28.6 million square feet of aerogel products for the year ended December 31, 2020, as compared to 40.7 million square feet in the year ended December 31, 2019. The decrease in product volume had the effect of decreasing product revenue by approximately $40.7 million for the year ended December 31, 2020.
+Research services revenue decreased by $2.0 million, or 82%, to $0.4 million in 2020 from $2.4 million in 2019. The decrease was primarily due to our decision to wind down our contract research activities to focus our research and development resources on improving the profitability of our existing business and developing new products and next-generation technology with application in new, high value markets.
+Product revenue as a percentage of total revenue was greater than 99% of total revenue in 2020 and 98% of total revenue in 2019. Research services revenue was less than 1% of total revenue in 2020 and 2% of total revenue in 2019. We expect that product revenue will compose virtually all of our total revenue in the long-term.
+During 2021, we expect that the COVID-19 pandemic will continue to constrain our revenue to 2020 levels with some potential for additional project-related revenue. When the effects of the COVID-19 pandemic recede, we anticipate that our revenue will increase with the elimination of contractor access restrictions in energy infrastructure facilities and as our distribution channel restocks.
+Cost of Revenue
+Total cost of revenue decreased $27.4 million, or 24%, to $85.7 million in 2020 from $113.1 million in 2019. The decrease in total cost of revenue was the result of decreases in both product cost of revenue and research services cost of revenue.
+Product cost of revenue decreased $26.2 million, or 23%, to $85.5 million in 2020 from $111.8 million in 2019. The $26.2 million decrease was the result of a $22.7 million decrease in material costs and a $3.5 million decrease in manufacturing expense. The decrease in material costs was driven principally by the 12.1 million square feet, or 30%, decrease in product shipments and the impact of our bill of material cost reduction initiatives. The decrease in manufacturing expense was primarily driven by decreases in variable plant and operating costs of $2.3 million and compensation and related costs of $1.2 million.
+Product cost of revenue as a percentage of product revenue increased to 86% in 2020 from 82% in 2019. This increase was the result of the high proportion of fixed manufacturing expenses in our East Providence manufacturing facility that remained essentially unchanged despite a 27% decrease in product revenue in 2020, offset, in part, by the impact of our 2020 price increases, bill of material sourcing efficiencies, and discretionary expense controls in response to the COVID-19 pandemic.
+We expect that product cost of revenue will decrease both in absolute dollars and as a percentage of product revenue during 2021 versus 2020 due principally to a projected favorable product mix and the impact of our on-going initiatives to reduce our bill of material costs.
+Research services cost of revenue decreased by $1.2 million, or 90%, to $0.1 million in 2020 from $1.3 million in 2019. Cost of research service revenue as a percentage of research services revenue decreased to 31% in 2020 from 55% in 2019 due to our decision to wind down existing research activities.
+Gross Profit
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Gross profit
+$
+14,594
+%
+$
+26,284
+%
+$
+(11,690
+)
+(44
+)%
+Gross profit decreased $11.7 million, or 44%, to $14.6 million in 2020 from $26.3 million in 2019. The decrease in gross profit was the result of the $39.1 million decrease in total revenue, offset, in part, by the $27.4 million decrease in total cost of revenue. The decrease in revenue was principally the result of COVID-19 related decreases in both project and maintenance-based demand in the global energy infrastructure market, offset, in small part, by growth in our building materials business and the impact of our 2020 price increase. The decrease in total cost of revenue was principally the result of the 12.1 million square feet, or 30%, decrease in product shipments.
+Gross profit as a percentage of total revenue decreased to 15% in 2020 from 19% in 2019. This decrease was principally the result of the high proportion of fixed manufacturing expenses in our East Providence manufacturing facility that remained essentially unchanged despite the 27% decrease in product revenue in 2020.
+During 2021, we expect that the COVID-19 pandemic will continue to constrain our revenue to 2020 levels. However, we expect gross profit to increase both in absolute dollars and as a percentage of revenue during 2021 due to a projected favorable product mix and the impact of our on-going initiatives to reduce our bill of material costs.
+Research and Development Expenses
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Research and development expenses
+$
+8,729
+%
+$
+8,407
+%
+$
+%
+Research and development expenses increased by $0.3 million, or 4%, to $8.7 million in 2020 from $8.4 million in 2019. The $0.3 million increase reflected of our decision to focus research activities on the development of new products and next-generation technology with application in new, high value markets, including the electric vehicle market.
+Research and development expenses as a percentage of total revenue increased to 9% during the year ended December 31, 2020 from 6% during the comparable period in 2019. The increase was the result of both the increase in research and development expenses and the decrease in total revenue.
+We expect that our research and development expenses to increase in both absolute dollars and as a percentage of revenue during 2021 in line with our decision to increase resources dedicated to the development of new aerogel products and technologies, including our carbon aerogel battery materials.
+In the long-term, we expect to continue to increase investment in research and development in our efforts to enhance and expand our aerogel technology platform. However, we expect that research and development expenses will decline as a percentage of total revenue in the long-term due to projected growth in product revenue.
+Sales and Marketing Expenses
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Sales and marketing expenses
+$
+11,753
+%
+$
+15,557
+%
+$
+(3,804
+)
+(24
+)%
+Sales and marketing expenses decreased by $3.8 million, or 24%, to $11.8 million in 2020 from $15.6 million in 2019. The decrease was the result of decreases in compensation and related costs of $1.7 million, travel and related costs of $1.3 million, sales consultant costs of $0.6 million, and other expenses of $0.2 million.
+Sales and marketing expenses as a percentage of total revenue increased to 12% in 2020 from 11% in 2019 primarily due to the decrease in overall revenue of 28%.
+We expect sales and marketing expenses to increase in both absolute dollars and as a percentage of revenue during 2021 due principally to a planned increase in marketing expense during the year.
+In the long-term, we expect that sales and marketing expenses will increase in absolute dollars as we continue to increase sales personnel and marketing efforts in support of expected growth in demand for our products. However, we expect that sales and marketing expenses will decrease as a percentage of total revenue in the long-term due to projected growth in product revenue.
+General and Administrative Expenses
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+General and administrative expenses
+$
+15,681
+%
+$
+16,479
+%
+$
+(798
+)
+(5
+)%
+General and administrative expenses decreased by $0.8 million, or 5%, to $15.7 million in 2020 from $16.5 million in 2019. The $0.8 million decrease was the result of decreases in patent enforcement costs of $0.6 million, professional and legal fees of $0.3 million, compensation and related costs of $0.3 million and other general administrative expenses of $0.1 million, offset in part by an increase in the provision for bad debts of $0.3 million and a $0.2 million decrease in recoveries of bad debt in 2020 as compared to 2019.
+General and administrative expenses as a percentage of total revenue increased to 16% in 2020 from 12% in 2019 primarily due to the 28% decrease in revenue in 2020.
+We expect general and administrative expenses to increase in both absolute dollars and as a percentage of revenue during 2021.
+We expect to increase general and administrative personnel and expense levels in the long term to support the anticipated growth of our business and continued expansion of our manufacturing operations. We also expect that the patent enforcement actions, described in more detail under “Legal Proceedings” in part I, Item 3, of this Annual Report on Form 10-K, could result in significant additional legal expense over the medium-to-long term. In the longer term, we expect that general and administrative expenses will increase in absolute dollars but decrease as a percentage of revenue due to projected growth in product revenue.
+Interest Expense, Net
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Interest expense, net
+$
+(240
+)
+(0
+)%
+$
+(406
+)
+(0
+)%
+$
+(41
+)%
+Interest expense, net, consisting primarily of fees and interest expense associated with outstanding balances under our revolving credit agreement, was $0.2 million and $0.4 million in 2020 and 2019, respectively.
+Year ended December 31, 2019 compared to year ended December 31, 2018
+The following tables set forth our results of operations for the periods presented:
+Revenue
+The following chart sets forth product shipments in square feet associated with recognized revenue, including revenue recognized over time utilizing the input method, for the periods presented:
+Year Ended
+December 31,
+Change
+Amount
+Percentage
+Product shipments in square feet (in thousands)
+40,720
+34,435
+6,285
+%
+Total revenue increased $35.0 million, or 34%, to $139.4 million in 2019 from $104.4 million in 2018 primarily as a result of an increase in product revenue.
+Product revenue increased by $34.8 million, or 34%, to $136.9 million in 2019 from $102.1 million in 2018. This increase was principally the result of growth in the North American petrochemical and refinery markets, an increase in project-based demand in the LNG and subsea markets, and the impact of price increases enacted in early 2019, offset, in part, by decreases in shipments to the building materials and Asian petrochemical markets.
+Product revenue for the year ended December 31, 2019 included $27.3 million in sales to Distribution International, Inc. and $18.0 million in sales to SPCC Joint Venture. Product revenue for the year ended December 31, 2018 included $21.4 million in sales to Distribution International, Inc.
+The average selling price per square foot of our products increased by $0.40, or 14%, to $3.36 per square foot for the year ended December 31, 2019 from $2.96 per square foot for the year ended December 31, 2018. The increase in average selling price principally reflected the impact of price increases enacted in early 2019. This increase in average selling price had the effect of increasing product revenue by approximately $16.2 million for the year ended December 31, 2019.
+In volume terms, product shipments increased by 6.3 million square feet, or 18%, to 40.7 million square feet of aerogel products for the year ended December 31, 2019, as compared to 34.4 million square feet in the year ended December 31, 2018. The increase in product volume had the effect of increasing product revenue by approximately $18.6 million for the year ended December 31, 2019.
+Research services revenue increased by $0.2 million, or 9%, to $2.4 million in 2019 from $2.2 million in 2018. The increase was primarily due to the timing and amount of funding available under research contracts during the year ended December 31, 2019 from the comparable period in 2018.
+Product revenue as a percentage of total revenue was 98% of total revenue in both 2019 and 2018. Research services revenue was 2% of total revenue in both 2019 and 2018. We expect that product revenue will comprise virtually all of our total revenue in the long-term.
+Cost of Revenue
+Total cost of revenue increased $21.4 million, or 23%, to $113.1 million in 2019 from $91.7 million in 2018. The increase in total cost of revenue was primarily the result of an increase in product cost of revenue.
+Product cost of revenue increased $21.1 million, or 23%, to $111.8 million in 2019 from $90.7 million in 2018. The $21.1 million increase was the result of an $18.3 million increase in material costs and a $2.8 million increase in manufacturing expense. The increase in material costs was driven principally by the 6.3 million square feet, or 18%, increase in product shipments and an unfavorable mix of products sold. The increase in manufacturing expense was the result of increases in compensation and related costs of $1.7 million, waste disposal expense of $0.7 million and other manufacturing expenses of $0.4 million.
+Product cost of revenue as a percentage of product revenue decreased to 82% in 2019 from 89% in 2018. This decrease was the result of the high proportion of fixed manufacturing expenses that remained essentially unchanged despite the 34% increase in product revenue in 2019, offset, in part, by the increase in material costs during the year.
+Research services cost of revenue increased by $0.3 million, or 29%, to $1.3 million in 2019 from $1.0 million in 2018. Cost of research service revenue as a percentage of research services revenue increased to 55% in 2019 from 46% in 2018 due to an increase in the proportion of third-party contract services utilized to support the contracted research.
+Gross Profit
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Gross profit
+$
+26,284
+%
+$
+12,669
+%
+$
+13,615
+%
+Gross profit increased $13.6 million, or 107%, to $26.3 million in 2019 from $12.7 million in 2018. The increase in gross profit was the result of the $35.0 million increase in total revenue, offset, in part, by the $21.4 million increase in total cost of revenue. The increase in revenue was principally associated with growth in the North American petrochemical and refinery markets, an increase in project-based demand in the LNG and subsea markets, and the impact of price increases enacted in early 2019, offset, in part, by a
+decrease in shipments to the building materials and Asian petrochemical markets. The increase in total cost of revenue was driven principally by the 6.3 million square feet, or 18%, increase in product shipments and the unfavorable mix of products sold.
+Gross profit as a percentage of total revenue increased to 19% of total revenue in 2019 from 12% in 2018. This increase was principally the result of the high proportion of fixed manufacturing expenses that remained essentially unchanged despite the 34% increase in product revenue in 2019.
+Research and Development Expenses
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Research and development expenses
+$
+8,407
+%
+$
+6,319
+%
+$
+2,088
+%
+Research and development expenses increased by $2.1 million, or 33%, to $8.4 million in 2019 from $6.3 million in 2018. The $2.1 million increase was the result of increases in compensation and related costs of $1.7 million and other research and development costs of $0.4 million.
+Research and development expenses as a percentage of total revenue remained unchanged at 6% during the year ended December 31, 2019 from the comparable period in 2018.
+Sales and Marketing Expenses
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Sales and marketing expenses
+$
+15,557
+%
+$
+13,794
+%
+$
+1,763
+%
+Sales and marketing expenses increased by $1.8 million, or 13%, to $15.6 million in 2019 from $13.8 million in 2018. The increase was the result of an increase in compensation and related costs of $1.6 million and professional fees of $0.6 million, offset, in part, by a decrease in marketing expenses of $0.4 million.
+Sales and marketing expenses as a percentage of total revenue decreased to 11% in 2019 from 13% in 2018 due to the 34% increase in revenue, offset, in part, by the 13% increase in sales and marketing expenses in 2019.
+General and Administrative Expenses
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+General and administrative expenses
+$
+16,479
+%
+$
+19,116
+%
+$
+(2,637
+)
+(14
+)%
+General and administrative expenses decreased by $2.6 million, or 14%, to $16.5 million in 2019 from $19.1 million in 2018. The $2.6 million decrease was the result of decreases in provision for uncollectible accounts of $3.1 million, professional fees of $0.4 million, and other general administrative expenses of $0.1 million, offset, in part, by increases in compensation and related costs of $0.9 million and patent enforcement costs of $0.1 million.
+General and administrative expenses as a percentage of total revenue decreased to 12% in 2019 from 18% in 2018 due to both the 14% decrease in general and administrative expenses and the 34% increase in revenue in 2019.
+Impairment of Construction In Progress
+We had previously completed the design and engineering for a second manufacturing facility to be located in Statesboro, Georgia. During 2016, we elected to delay construction of the facility due to our assessment of future demand. In December 2018, we determined that we would not use the existing design and engineering to construct a second facility in any location. Accordingly, we determined that the design and engineering costs were not recoverable and recorded an impairment charge of $7.4 million on construction in progress assets in 2018. We did not record any impairments of construction in progress in 2019.
+Interest Expense, net
+Year Ended December 31,
+Change
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+of Revenue
+Amount
+Percentage
+($ in thousands)
+Interest expense, net
+$
+(406
+)
+(0
+)%
+$
+(524
+)
+(1
+)%
+$
+(23
+)%
+Interest expense, net, consisting primarily of fees and interest expense associated with outstanding balances under our revolving credit agreement, was $0.4 million and $0.5 million in 2019 and 2018, respectively.
+Liquidity and Capital Resources
+Overview
+We have experienced significant losses and invested substantial resources since our inception to develop, commercialize and protect our aerogel technology and to build a manufacturing infrastructure capable of supplying aerogel products at the volumes and costs required by our customers. These investments have included research and development and other operating expenses, capital expenditures and investment in working capital balances.
+Through 2015, we experienced revenue growth and gained share in our target markets. Despite a decline in revenue in 2016, 2017 and 2018, our financial projections anticipated long-term revenue growth, increasing levels of gross profit and improved cash flow from operations. To support this growth, we initiated a plan in 2018 to increase the capacity of our East Providence, Rhode Island manufacturing facility to approximately 60 million square feet of aerogel blankets and currently expect to achieve this goal by the end of 2021. We may incur additional capital expenditures to complete this plan in 2021.
+We are also increasing our investment in the research and development of next-generation aerogel products and technologies. During 2021, we will continue to develop aerogel products and technologies for the electric vehicle market. We believe the commercial potential for our technology in the electric vehicle market is significant and could require us to hire additional personnel, incur additional operating expenses, build an automated thermal barrier fabrication operation, and construct a carbon aerogel battery materials facility, among other items.
+In addition, we anticipate that we will need to increase our aerogel blanket manufacturing capacity to keep pace with the significant potential demand for our PyroThin thermal barriers. Accordingly, we are in the early stages of planning a significant expansion of our aerogel capacity prior to the end of 2023. The expected elements of the completed expansion plan will include the size of the required capacity expansion, the selection of an optimal manufacturing site for the expansion, the appropriate financing structure to fund the project fully and a detailed timeline for the construction and operation of the facility. We expect that we will incur significant increase in capital expenditures to build out the additional capacity and in operating expenses associated with the start-up of the facility.
+We took several actions during 2020 to increase the financial resources available to support current operating requirements and capital expenditures. In February 2020, we completed an underwritten public offering of our common stock and received net proceeds of $14.8 million. In March 2020, we extended the maturity of our revolving credit facility with Silicon Valley Bank to April 28, 2021. In May 2020, our wholly owned subsidiary, Aspen Aerogels Rhode Island, LLC, received PPP Loan proceeds of $3.7 million under the CARES Act. During November and December 2020, we also completed the sale of 714,357 shares of our common stock at an average price of $13.96 per share through our at-the-market offering and received net proceeds of $9.5 million after deducting commissions $0.3 million and offering expenses of approximately $0.2 million, pursuant to the ATM offering program with B. Riley Securities as our sales agent.
+We believe that our existing cash balance and funds available under our revolving credit facility will be sufficient to support current operating requirements and research and development activities. However, we believe that our cash balance and funds available under the revolving credit facility will not be sufficient to fund the capital expenditures required to establish an automated thermal barrier fabrication operation, build a carbon aerogel battery materials facility, and to construct a new aerogel blanket manufacturing facility.
+As a result, we plan to supplement our cash balance with additional credit facilities, debt financings, customer prepayments, technology licensing fees or equity financings to provide the capital necessary to fund operating requirements, to complete future capacity expansions or to support evolving strategic business initiatives. We also intend to extend or replace our revolving credit facility with Silicon Valley Bank prior to its maturity.
+Primary Sources of Liquidity
+Our principal sources of liquidity are currently our cash and cash equivalents and our revolving credit facility with Silicon Valley Bank. Cash and cash equivalents consist primarily of cash and money market accounts on deposit with banks. As of December 31, 2020, we had $16.5 million of cash and cash equivalents.
+On February 18, 2020, we completed an underwritten public offering of 1,955,000 shares of our common stock at an offering price of $8.25 per share. We received net proceeds of $14.8 million after deducting underwriting discounts and commissions of $1.1 million and offering expenses of approximately $0.3 million.
+On November 5, 2020, we entered into a sales agreement for an at-the-market offering program (ATM) under which we may sell up to $33,871,250 of our common stock through B. Riley Securities, Inc. We are not obligated to sell any stock under the sales agreement. We will pay B. Riley a commission of 3.0% of the gross sales proceeds of shares sold under the agreement. During November and December 2020, we sold 714,357 shares of our stock through the ATM and received net proceeds of $9.5 million.
+On May 1, 2020, our wholly-owned subsidiary, Aspen Aerogels Rhode Island, LLC (Borrower) executed a note for a loan of $3.7 million pursuant to the PPP under the CARES Act, as amended, and administered by the SBA. The loan is unsecured, contains customary events of default, carries an interest rate of 1% per year, and matures on May 1, 2022. The Borrower may repay the loan in full at any time without penalty. In addition, the Borrower may apply to have the maturity of loan extended to May 1, 2025.
+The Borrower may apply to have the PPP Loan indebtedness forgiven in whole or in part subject to SBA guidelines and based on the use of loan proceeds for payroll costs, mortgage interest payments, rent and utility costs over either an eight-week or 24-week period, at the Borrower’s option, following its receipt of the loan proceeds. The SBA may disapprove of the Borrower’s loan forgiveness application if the agency determines that the Borrower was ineligible for the PPP Loan. As of December 31, 2020, the Borrower had not applied for forgiveness.
+If the Borrower applies for, but does not receive forgiveness of the PPP Loan in whole or in part, the Borrower will be required to make payments of the remaining principal and accrued interest in equal monthly installments over the remaining term of the loan. If the Borrower does not apply for forgiveness by August 19, 2021, the Borrower will be required to make payments of principal and accrued interest in equal monthly installments over the remaining term of the loan.
+We have maintained our revolving credit facility, as amended from time to time, with Silicon Valley Bank since March 2011. On March 3, 2020, we amended our revolving credit facility to extend the maturity date of the facility to April 28, 2021. The amendment also established certain minimum levels with respect to the minimum Adjusted EBITDA financial covenant for the extended term. We further amended our revolving credit facility with Silicon Valley Bank to revise the minimum Adjusted EBITDA financial covenant on September 25, 2020 and to secure a preemptive waiver of the Adjusted EBITDA financial covenant on December 24, 2020, among other things. On March 12, 2021, we amended and restated our revolving credit facility with Silicon Valley Bank to extend the maturity date of the revolving credit facility to April 28, 2022 and to establish certain minimum Adjusted EBITDA levels with respect to the minimum Adjusted EBITDA and minimum Adjusted Quick Ratio covenants, as defined. We intend to extend or replace the facility prior to its maturity.
+Under our revolving credit facility, we may borrow a maximum of $20.0 million, subject to continued covenant compliance and borrowing base requirements. At our election, the interest rate applicable to borrowings under the revolving credit facility may be based on the prime rate or LIBOR, subject to a minimum rate of 4.00% per annum. Prime rate-based rates vary from prime rate plus 0.75% per annum to prime rate plus 2.00% per annum, while LIBOR-based rates vary from LIBOR plus 3.75% per annum to LIBOR plus 4.25% per annum. In addition, we are required to pay a monthly unused revolving line facility fee of 0.50% per annum of the average unused portion of the revolving credit facility.
+Under the revolving credit facility, we are required to comply with both non-financial and financial covenants, including the minimum Adjusted EBITDA covenant, as defined in the loan agreement. At December 31, 2020, we were in compliance with all such covenants. The amount available to us under the revolving credit facility at December 31, 2020 was $5.4 million after giving effect to $1.4 million in outstanding letters of credit.
+At December 31, 2020, we had no outstanding borrowings under our revolving credit facility with Silicon Valley Bank, $1.4 million of outstanding letters of credit secured by the revolving credit facility, $3.7 million outstanding on the PPP Loan, and an obligation of $9.8 million associated with prepayments received pursuant to our supply agreement with BASF.
+See “Risk Factors -- Risks Related to Our Business and Strategy -- We will require significant additional capital to pursue our growth strategy, but we may not be able to obtain additional financing on acceptable terms or at all” in this Annual Report on Form 10-K for the year ended December 31, 2020.
+Analysis of Cash Flow
+The following table summarizes our cash flows for the periods indicated:
+Operating Activities
+During 2020, we used $9.9 million in net cash in operating activities, as compared to the use of $1.1 million in net cash during 2019, an increase in the use of cash of $8.8 million. This increase in the use of cash was the result of the increase in net loss adjusted for non-cash items of $5.7 million, and a decrease in cash provided by changes in working capital of $3.1 million.
+During 2019, we used $1.1 million in net cash in operating activities, as compared to the use of $8.7 million in net cash during 2018, a decrease in the use of cash of $7.6 million. This decrease in use of cash was the result of the decrease in net loss adjusted for non-cash items of $9.6 million, offset, in part, by a decrease in cash provided by changes in working capital of $2.0 million.
+Investing Activities
+Net cash used in investing activities is for capital expenditures principally for machinery and equipment to improve the throughput, efficiency and capacity of our East Providence facility. Net cash used in investing activities for 2020 and 2019 totaled $3.4 million and $2.1 million, respectively.
+Financing Activities
+Net cash provided by financing activities in 2020 totaled $26.2 million and consisted of $19.4 million in borrowings under our revolving credit facility, $14.8 million in net proceeds from an underwritten public offering of our common stock, $9.5 million in net proceeds from our at-the-market offering, $3.7 million in net proceeds from the issuance of long term debt and $2.6 million in proceeds from employee stock option exercises, offset, in part, by $22.6 million of repayments under our revolving credit facility and $1.2 million for payments for employee tax withholdings associated with the vesting of restricted stock units.
+Net cash provided by financing activities in 2019 totaled $3.5 million and consisted of $125.8 million in borrowings under our revolving credit facility and $5.0 million in prepayment proceeds under the BASF supply agreement, offset, in part, by $126.8 million of repayments under our revolving credit facility and $0.5 million for payments for employee tax withholdings associated with the vesting of restricted stock units.
+Capital Spending and Future Capital Requirements
+We have made capital expenditures primarily to develop and expand our manufacturing capacity. Our capital expenditures totaled $3.4 million in 2020, $2.1 million in 2019 and $3.6 million in 2018. As of December 31, 2020, we had capital commitments of approximately $1.0 million, which included commitments for which we have entered into contracts as well as commitments authorized by our Board of Directors and relate to the enhancement of our existing production lines in our East Providence facility. These commitments consist primarily of costs for equipment and construction.
+We intend to fund capital expenditures related the expansion of capacity of our existing manufacturing facility with our existing cash balance, available credit and anticipated cash flows from operations. We plan to fund the capital expenditures required to establish an automated thermal barrier fabrication operation, build a carbon aerogel battery materials facility, and to construct a new aerogel blanket manufacturing facility with additional credit facilities, debt financings, customer prepayments, technology licensing fees or equity financings.
+Off-Balance Sheet Arrangements
+Since inception, we have not engaged in any off-balance sheet activities as defined in Item 303(a)(4) of Regulation S-K.
+Contractual Obligations and Commitments
+Operating Leases
+We lease office space for our corporate offices in Northborough, Massachusetts, which expires in 2026, and warehouse space and land near our East Providence facility, which expire at various dates through 2024, under non-cancelable operating lease agreements. See “Item 2 - Properties.” We also lease vehicles and equipment under non-cancelable operating leases that expire at various dates.
+On June 29, 2016, we entered into a lease with Cabot II- MA1M03, LLC, or Cabot Properties, to lease approximately 51,650 square feet of space located at 30 Forbes Road, Northborough, MA 01532, the location of our current headquarters. The lease superseded a lease between us and Cabot Properties’ predecessor-in-interest. The term of the lease began on January 1, 2017 and ends on December 31, 2026. The annual base rent associated with the lease was approximately $408,000 during 2017 and has and will increase by approximately 3% annually during the lease term. The lease also provides for our payment of our pro rata share of real estate taxes and certain other expenses. Upon the expiration of the lease term, we will have the right to extend the lease for an additional three years.
+Thermal Barrier Contract
+We are party to a contract with a major U.S. automotive original equipment manufacturer to supply fabricated, multi-part thermal barriers for use in the battery system of its next-generation electric vehicles. Pursuant to the contract, we are obligated to supply the thermal barriers at fixed annual prices and at volumes to be specified by the manufacturer up to a daily maximum quantity through the term of the agreement, which expires on September 1, 2026. While the manufacturer has agreed to purchase its requirement for the thermal barriers at locations to be designated from time to time from us, it has no obligation to purchase any minimum quantity of the barriers under the contract. In addition, the manufacturer may terminate the contract any time and for any or no reason. All other terms of the contract are generally consistent with the manufacturers standard purchase terms, including customary quality and warranty provisions.
+Supply Agreement
+In June 2016, we entered into a supply agreement and a side agreement with BASF SE. In February 2018, we entered into an amended and restated supply agreement and side agreement with BASF Polyurethanes GmbH (BASF). On January 14, 2019, we entered into the first addendum to the supply agreement with BASF (as amended and restated and after giving effect to the first addendum, the supply agreement). Pursuant to the supply agreement, we will sell exclusively to BASF certain products at annual volumes to be specified by BASF, subject to specified volume limits. Pricing is based on a cost-plus formula. The supply agreement also specifies the markets in which BASF is permitted to sell each of the products. BASF has no obligation to purchase any of the products under the supply agreement. The supply agreement will terminate on December 31, 2027 with respect to our Spaceloft A2
+product, and on December 31, 2028 with respect to the newly developed product, if not renewed prior to such dates. Upon expiration of the supply agreement, we will be subject to a post-termination supply commitment for the specified products for an additional two years.
+In addition to the customary terms associated with supply agreements, BASF, in its sole discretion, may make prepayments to us in the aggregate amount of up to $22.0 million during the term of the supply agreement. BASF made two prepayments to us in the aggregate amount of $5.0 million during 2018. BASF made an additional prepayment of $5.0 million to us in January 2019. We have secured our obligation to repay the prepayments with a first priority security interest in real estate, machinery and equipment located at our existing manufacturing facility in East Providence, Rhode Island. Additionally, we granted non-exclusive licenses to our Rhode Island subsidiary under our intellectual property as necessary to operate such machinery and equipment.
+Beginning January 1, 2019, we credited 25.3% of any amounts that we invoice for Spaceloft A2 sold to BASF against the outstanding balance of the 2018 prepayment. If any of the 2018 prepayment remains uncredited as of December 31, 2021, BASF may request that we repay the uncredited amount to BASF following a six-week notice period. Since January 1, 2020, we credit 50% of any amounts that we invoice for a newly developed product sold to BASF against the outstanding balance of the 2019 prepayment. After December 31, 2022, BASF may elect to have us credit 24.7% of any amounts we invoice for Spaceloft A2 sold to BASF against the outstanding balance of the 2019 prepayment or may request that we repay the uncredited amount to BASF. The specific terms of additional tranches of prepayments, if any, are to be agreed by us and BASF at a future date.
+We may repay any prepayment balance to BASF at any time in whole or in part for any reason. In the event of a sale of all or substantially all of our assets or a change of control of Aspen, BASF may in certain instances have the right to terminate the supply agreement, in which case any remaining balance of prepayments as of such sale or change of control will be due and payable to BASF within 30 days of the relevant transaction.
+Joint Development Agreement
+In June 2016, we and BASF SE also entered into a Joint Development Agreement, or the JDA, setting forth the rights and obligations of us and BASF SE with respect to collaboration on the development and commercialization of new products. Under the JDA, each party may propose that the parties enter into joint efforts to seek to develop one or more products or services for commercialization on terms to be agreed by the parties. The JDA established a joint steering committee with equal representation from each of us and BASF SE to oversee any such collaboration. Unless otherwise agreed, all intellectual property created in the performance of joint development activities will generally be jointly owned by us and BASF SE. The JDA will have an initial term of two years or the duration of any project in process, with the option for the parties to renew at the expiration. Either party may terminate the JDA for any reason with 90-days prior notice to the other party, provided that such termination will not terminate any project under the JDA then in progress, with any such ongoing project able to be terminated by either party for any reason on 90-days prior notice to the other party.
+Revolving Credit Facility
+In March 2011, we entered into a revolving credit facility with Silicon Valley Bank. This facility has been amended at various dates through December 2020. On March 12, 2021, we amended and restated our revolving credit facility with Silicon Valley Bank to extend the maturity date of the revolving credit facility to April 28, 2022 and to establish certain minimum Adjusted EBITDA levels with respect to the minimum Adjusted EBITDA and minimum Adjusted Quick Ratio covenants, as defined. Under our revolving credit facility, we are permitted to borrow a maximum of $20.0 million, subject to continued covenant compliance and borrowing base requirements. The interest rate applicable to borrowings under the revolving credit facility is based on the prime rate, subject to a minimum rate of 4.00% per annum. Prime rate-based rates vary from prime rate plus 0.75% per annum to prime rate plus 2.00% per annum. In addition, we are required to pay a monthly unused revolving line of credit facility fee of 0.50% per annum of the average unused portion of the revolving credit facility. We intend to extend or replace the facility prior to its maturity
+At December 31, 2020, the amount available to us under the revolving credit facility was $5.4 million after giving effect to $1.4 million in letters of credit outstanding under the facility.
+Recently Issued Accounting Standards
+From time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board (FASB) or other standard setting bodies. Recently issued standards typically do not require adoption until a future effective date. Prior to their effective date, the Company evaluates the pronouncements to determine the potential effects of adoption to its consolidated financial statements.
+Standards Implemented Since December 31, 2019
+The Company has not implemented any accounting standards that had a material impact on its consolidated financial statements during the year ended December 31, 2020.
+Standards to be Implemented
+The Company believes that the impact of recently issued accounting standards that are not yet effective will not have a material impact on its consolidated financial statements.
+Critical Accounting Policies and Estimates
+Our financial statements are prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of our financial statements and related disclosures requires us to make estimates, assumptions and judgments that affect the reported amount of assets, liabilities, revenue, costs and expenses and related disclosures. We believe that the estimates, assumptions and judgments involved in these accounting policies have the greatest potential impact on our financial statements; and therefore, we consider these to be our critical accounting policies. Accordingly, we evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates under different assumptions and conditions. See note 2 to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for information about these critical accounting policies, as well as a description of our other significant accounting policies.
+Revenue Recognition
+We recognize product revenue from the sale of our line of aerogel products and research services revenue from the provision of services under contracts with various agencies of the U.S. government and other institutions. Product and research services revenue is recognized upon the satisfaction of contractual performance obligations. In general, our customary shipping terms are FOB shipping point. Products are typically delivered without significant post-sale obligations to customers other than standard warranty obligations for product defects. We provide warranties for our products and record the estimated cost within cost of sales in the period that the revenue is recorded. Our standard warranty period extends one to two years from the date of shipment, depending on the type of product purchased. Our warranties provide that our products will be free from defects in material and workmanship, and will, under normal use, conform to the specifications for the product.
+We did not record any warranty expense during the years ended December 31, 2020, 2019, and 2018. As of December 31, 2020, we had satisfied all outstanding warranty claims.
+Research services revenue is derived from the execution of contracts awarded by the U.S. government, other government agencies and other institutions. Our research service arrangements require us to perform research to investigate new forms and applications of aerogel technology. We record revenue earned on research services contracts using the percentage-of-completion method in two ways: (1) for firm-fixed-price contracts, we accrue that portion of the total contract price that is allocable, on the basis of our estimates of costs incurred to date to total contract cost; (2) for cost-plus-fixed-fee contracts, we record revenue that is equal to total payroll cost incurred times a stated factor plus reimbursable expenses, to a stated upper limit. The primary cost in these arrangements is the labor effort expended in completing the research. Typically, the only deliverable, other than labor hours expended, is reporting research results to the customer or delivery of research grade aerogel products. Because the input measure of labor hours expended is also reflective of the output measure, it is a reliable means to measure the extent of progress towards completion. Contract costs and rates used to allocate overhead to contracts are subject to audit by the respective contracting government agency. Revisions in cost estimates and fees during the course of the contract are reflected in the accounting period in which the facts that require the revisions become known. In 2019, we decided to wind down our existing contract research activities. This decision reflected our desire to focus our research and development resources on initiatives to improve the profitability of our existing business and on efforts to develop new products and next-generation technology with application in new, high value markets.
+Stock-based Compensation
+We maintain an equity incentive plan pursuant to which our board of directors may grant qualified and nonqualified stock options, restricted stock, restricted stock units and other stock-based awards to board members, officers, key employees and others who provide or have provided service to us.
+We measure the costs associated with stock-based awards based on their estimated fair value at date of grant. We recognize the cost of stock-based awards as service, performance or market conditions are met. Future expense amounts for any particular quarterly or annual period could be affected by changes in our assumptions or changes in market conditions.
+Stock Options
+We use the Black-Scholes option-pricing model to estimate the fair value of stock option awards. The determination of the estimated fair value of stock option awards is based on a number of complex and subjective assumptions. These assumptions include the determination of the estimated fair value of the underlying security, the expected volatility of the underlying security, a risk-free interest rate, the expected term of the option, and the forfeiture rate for the award class. The following assumptions were used to estimate the fair value of the option awards:
+•
+The expected term represents the period that our stock-based awards are expected to be outstanding and is determined using the simplified method described in ASC Topic 718, Compensation - Stock Compensation, for all grants. We believe this is a better representation of the estimated life than our actual limited historical exercise behavior.
+•
+For the years ended December 31, 2020, 2019 and 2018, the expected volatility is primarily based on the weighted-average volatility of up to 17 companies within various industries that we believe are similar to our own. The Company expects to have sufficient historical data to develop an estimated volatility for future awards.
+•
+The risk-free interest rate is based on U.S. Treasury zero-coupon issues with a remaining term equal to the expected life assumed at the date of grant.
+•
+We use an expected dividend yield of zero, since we do not intend to pay cash dividends on our common stock in the foreseeable future, nor have we paid dividends on our common stock in the past.
+For stock options that contained a market condition issued to our chief executive officer during the year ended December 31, 2015, we used a Monte Carlo Simulation model to estimate the grant date fair value of awards expected to vest. We based the simulation model on the Black Scholes option-pricing model and a number of other complex assumptions including (i) whether the vesting condition would be satisfied within the time-vesting periods, and (ii) the date the common stock price target would be achieved per the terms of the agreement. On November 7, 2018, we entered into an amended executive agreement with our CEO that modified the change in control provisions for the outstanding stock options that contained a market condition. This modification resulted in the recognition of additional compensation expense of less than $0.1 million during the year ended December 31, 2018. On December 10, 2020, we modified the vesting conditions of NSOs to purchase 116,279 of common stock held by our CEO to extend the time period to achieve the common stock price target. We accounted for the extension of the time period as a modification and recognized $1.1 million of incremental stock compensation expense during the year ended December 31, 2020.
+For the restricted stock award issued to our Chief Executive Officer during the year ended December 31, 2015 that contains a performance condition, we assess the probability that the performance condition will be satisfied. On August 2, 2017, we modified the performance target with respect to 78,125 shares of these awards. As of December 31, 2020, the performance condition was not achieved and the award expired by its terms.
+During 2020, we estimated the fair value of the modified NSOs to purchase 116,279 of common stock held by our Chief Executive Officer by use of the Black-Scholes option-pricing model assuming an expected term of 2.5 years, an expected volatility of 67.23%, a risk-free rate of 0.17% and an expected dividend yield of zero.

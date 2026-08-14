@@ -1,0 +1,61 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+The following discussion of the results of our operations and financial condition should be read in conjunction with our financial statements and the related notes, which appear elsewhere in this report. The following discussion includes forward-looking statements. For a discussion of important factors that could cause actual results to differ from results discussed in the forward-looking statements, see "Forward Looking Statements."
+Overview
+LFC is a media company focused on the development, production, promotion and distribution of original entertainment which we plan to make commercially available predominantly through live entertainment events, as well as through digital home video, broadcast television networks, video-on-demand and digital media channels. As a result, we have ceased to be a shell company. Effective as of April 1, 2015, we changed our name to "Lingerie Fighting Championships, Inc.," (by virtue of the short form merger with our new LFC subsidiary) to reflect our new business focus.
+Results of Operations
+Year ended December 31, 2021 as compared to the Year ended December 31, 2020
+Our operating results for the year ended December 31, 2021 and December 31, 2020, and the changes between those periods for the respective items are summarized as follows:
+Revenues
+We generated revenues of $95,436 and $27,776 for the year ended December 31, 2021 and 2020, respectively. The Company’s revenue derives from the development, promotion and distribution of our live events, televised entertainment programming, sponsorship and site subscription. The increase in revenues was attributed to an increase in live event revenue and sponsorship revenue.
+Cost of Services
+We incurred total cost of services of $96,245 and $27,652 for the year ended December 31, 2021 and 2020, respectively. The cost of services incurred consist of labor, material, equipment and subcontractor expenses.
+Operating Expenses
+We incurred total operating expenses of $411,655 and $233,052 for the year ended December 31, 2021 and 2020, respectively. The increase in operating expenses was primarily due to the increase in advertising expenses and stock based compensation expense.
+Other Income (Expenses)
+We incurred total other expense of $3,111,090 and $2,173,096 for the year ended December 31, 2021 and 2020, respectively. The increase in other expense was mainly attributed to an increase in loss on changes in fair value of derivatives from the convertible notes and warrants and an increase in accrued interest expenses from convertible notes and promissory notes during the year ended December 31, 2021.
+Net Income (Loss)
+We incurred net loss of $3,523,554 and $2,406,024 during the year ended December 31, 2021 and 2020, respectively. The increase in our net loss was mainly attributed to the increase in operating expenses and other expense during the year ended December 31, 2021.
+Liquidity and Capital Resources
+At December 31, 2021, we had a working capital deficiency of $6,798,809 and an accumulated deficit of $11,721,142. The Company intends to fund future operations through equity financing arrangements, which may be insufficient to fund its capital expenditures, working capital and other cash requirements for the year ending December 31, 2021.
+The ability of the Company to realize its business plan is dependent upon, among other things, obtaining additional financing to continue operations, and development of its business plan. In response to these problems, management intends to raise additional funds through public or private placement offerings.
+These factors, among others, raise substantial doubt about the Company’s ability to continue as a going concern. The accompanying financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+The following table sets forth certain information about our cash flow during the year ended December 31, 2021 and December 31, 2020:
+Cash Flows from Operating Activities
+We have not generated positive cash flows from operating activities.
+During the year ended December 31, 2021, net cash flows used in operating activities was $265,661, consisting of a net loss of $3,523,554, decreased by loss on change in fair value of derivative liabilities of $2,481,400, stock based compensation of $120,060, amortization of debt discount of $462,701 and note conversion fee $2,000 and net changes in operating assets and liabilities of $191,732.
+During the year ended December 31, 2020, net cash flows used in operating activities was $78,915, consisting of a net loss of $2,406,024, increased by accrued interest written off of $21,860, and decreased by loss on change in fair value of derivative liabilities of $1,922,876 and amortization of debt discount of $118,934 and net changes in operating assets and liabilities of $307,159.
+Cash Flows from Investing Activities
+There was no investing activities during the year ended December 31, 2021 and December 31, 2020.
+Cash Flows from Financing Activities
+During the year ended December 31, 2021, net cash provided by financing activities was $296,000 attributed to proceeds from the issuance of promissory notes.
+During the year ended December 31, 2020, net cash provided by financing activities was $39,350 consists of proceeds from the issuance of convertible notes of $216,100, offset by repayment to related party of $1,750 and repayment of convertible notes and redemption of warrants of $175,000.
+Off-Balance Sheet Arrangements
+As of December 31, 2021, we had no off-balance sheet arrangements.
+Significant Accounting Estimates and Policies
+The preparation of financial statements in accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. A change in managements’ estimates or assumptions could have a material impact on our financial condition and results of operations during the period in which such changes occurred. Actual results could differ from those estimates. Our financial statements reflect all adjustments that management believes are necessary for the fair presentation of their financial condition and results of operations for the periods presented.
+Revenue Recognition
+The Company recognizes revenue from the sale of products and services in accordance with ASC 606,”Revenue Recognition” following the five steps procedure:
+Step 1: Identify the contract(s) with customers
+Step 2: Identify the performance obligations in the contract
+Step 3: Determine the transaction price
+Step 4: Allocate the transaction price to performance obligations
+Step 5: Recognize revenue when the entity satisfies a performance obligation
+Convertible Instruments and Derivatives
+The Company evaluates and account for conversion options embedded in convertible instruments in accordance with ASC 815 “Derivatives and Hedging Activities.”
+Fair Value Measurement
+The Company adopted the provisions of ASC Topic 820, “Fair Value Measurements and Disclosures,” which defines fair value as used in numerous accounting pronouncements, establishes a framework for measuring fair value and expands disclosure of fair value measurements.
+The estimated fair value of certain financial instruments, including cash and cash equivalents, accounts receivable, accounts payable and accrued expenses are carried at historical cost basis, which approximates their fair values because of the short-term nature of these instruments. The carrying amounts of our short and long term credit obligations approximate fair value because the effective yields on these obligations, which include contractual interest rates taken together with other features such as concurrent issuances of warrants and/or embedded conversion options, are comparable to rates of returns for instruments of similar credit risk.
+ASC 820 defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 also establishes a fair value hierarchy, which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. ASC 820 describes three levels of inputs that may be used to measure fair value:
+Level 1 -
+quoted prices in active markets for identical assets or liabilities
+Level 2 -
+quoted prices for similar assets and liabilities in active markets or inputs that are observable
+Level 3 -
+inputs that are unobservable (for example cash flow modeling inputs based on assumptions)
+The derivative liability in connection with the conversion feature of the convertible debt, classified as a level 3 liability, is the only financial liability measured at fair value on a recurring basis.
+Income Taxes
+The Company accounts for income taxes pursuant to FASB ASC 740 “Income Taxes”. Pursuant to ASC 740 deferred income taxes are provided on a liability method whereby deferred tax assets are recognized for deductible temporary differences, and operating loss carryforwards and deferred tax liabilities are recognized for taxable temporary differences. Temporary differences are the differences between the reported amounts of assets and liabilities and their tax bases. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized. The provision for income taxes represents the tax expense for the period, if any, and the change during the period in deferred tax assets and liabilities. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment.
+ASC 740 also provides criteria for the recognition, measurement, presentation and disclosure of uncertain tax positions. Under ASC 740, the impact of an uncertain tax position on the income tax return may only be recognized at the largest amount that is more-likely-than-not to be sustained upon audit by the relevant taxing authority.
+Recent accounting pronouncements
+In August 2020, the FASB issued ASU 2020-06, ASC Subtopic 470-20 “Debt-Debt with Conversion and Other Options”. The standard reduced the number of accounting models for convertible debt instruments and convertible preferred stock. Convertible instruments that continue to be subject to separation models are (1) those with embedded conversion features that are not clearly and closely related to the host contract, that meet the definition of a derivative, and that do not qualify for a scope exception from derivative accounting; and, (2) convertible debt instruments issued with substantial premiums for which the premiums are recorded as paid-in capital. The amendments in this update are effective for fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. Early adoption is permitted, but no earlier than fiscal years beginning after December 15, 2020, including interim periods within those fiscal years. The Company is currently assessing the impact of the adoption of this standard on its financial statements.
+In December 2019, the Financial Accounting Standards Board (FASB) issued Accounting Standard Update No. 2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes (ASU 2019-12), which simplifies the accounting for income taxes. This guidance will be effective for entities for the fiscal years, and interim periods within those fiscal years, beginning after December 15, 2020 on a prospective basis, with early adoption permitted. For the Company, the new standard was effective on January 1, 2021 and we do not expect the adoption of this guidance to have a material impact on our financial statements.

@@ -1,0 +1,831 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) should be read in conjunction with our consolidated financial statements and related notes contained in Part II, Item 8 of this Annual Report on Form 10-K. The following MD&A describes the principal factors affecting results of operations, financial resources, liquidity, contractual cash obligations and critical accounting estimates. This section of the Form 10-K generally discusses 2021 and 2020 items and year-to-year comparisons between 2021 and 2020. Discussions of 2019 items and year-to-year comparisons between 2020 and 2019 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the our Annual Report on Form 10-K for the fiscal year ended December 31, 2020.
+Our results of operations and financial condition are influenced by a number of factors including: macroeconomic and other market conditions, including pricing and demand; used vehicle sales; customer contracting activity and retention; rental demand; maintenance costs; residual value estimates and other depreciation changes; currency exchange rate fluctuations; customer preferences; inflation; fuel and energy prices; general economic conditions; insurance costs; interest rates; labor costs; unemployment levels; tax rates; changes in accounting or regulatory requirements; and cybersecurity attacks. This MD&A includes certain forward-looking statements that are based on our current plans and expectations and are subject to risks, uncertainties and assumptions. We caution readers that certain important factors could cause actual results and events to differ significantly from those expressed.
+For a detailed description of certain risk factors that impact our business, including those related to the COVID-19 effects, refer to Part I, Item 1A. "Risk Factors” and "Special Note Regarding Forward-Looking Statements" sections included in this Annual Report.
+This MD&A includes certain non-GAAP financial measures. Please refer to the “Non-GAAP Financial Measures” section of this MD&A for information on these non-GAAP measures, including reconciliations to the most comparable GAAP financial measure and the reasons why we believe each measure is useful to investors.
+OVERVIEW
+General
+Ryder is a leading logistics and transportation company and we operate under three reportable business segments:
+Revenue (1)
+Assets
+(In thousands) (% of Consolidated) (In thousands) (% of Consolidated)
+Fleet Management Solutions (FMS) $ 5,050,967 52 % $ 10,999,687 80 %
+Supply Chain Solutions (SCS) 3,154,798 33 % 2,320,154 17 %
+Dedicated Transportation Solutions (DTS) 1,457,188 15 % 318,095 2 %
+___________________
+(1)FMS includes eliminations
+Further information on our business and reportable business segments are presented in Part I, Item 1, "Business", and in Note 3, "Segment Reporting" of the Notes to Consolidated Financial Statements included in Part II, Item 8, "Financial Statements and Supplementary Data" in this Annual Report.
+We operate in highly competitive markets. Our customers select us based on numerous factors including service quality, price, technology and service offerings. As an alternative to using our services, customers may choose to provide these services for themselves, or may choose to obtain similar services from other third-party vendors. Our customer base includes enterprises operating in a variety of industries including food and beverage service (21%), transportation and logistics (21%), retail and consumer goods (13%), automotive (10%), industrial (9%), housing (8%), technology (5%), business and personal services (5%), with the remaining in other industries.
+Business Trends
+During 2021, we experienced highly favorable outsourcing trends in transportation and logistics solutions, partly due to the disruptive effect of the COVID-19 pandemic on supply chains and the labor market. We had record new contract wins in SCS and DTS, which we expect will contribute to long-term profitable growth. FMS also benefited this year from strong ChoiceLease sales and rental demand as companies were looking to source truck capacity in this extremely tight market.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+In our FMS business, the used vehicle sales and rental market benefited from strong pricing trends, resulting in outperformance in both of these areas. After facing lower demand in our FMS business for commercial rental and used vehicles in the first half of 2020, we experienced a significant increase in demand in those areas in 2021, as well as lease, due to a limited supply of vehicles caused by global supply chain disruptions. We have experienced strong market acceptance for higher lease pricing on new and renewing leases, resulting in improved portfolio returns. We expect additional benefits from lease pricing actions going forward as leases are renewed and re-priced, and as we utilize data analytics to further segment customer pricing based on application, equipment type, and other key drivers of lease returns. If the limited supply of vehicles continues for an extended period, we will likely continue to experience benefits in rental and used vehicle pricing and overall demand; however, we may experience limited rental and lease fleet growth and lower vehicle sales volumes due to limited used vehicle inventory.
+In our SCS business, the outsourcing trends in warehousing and distribution, as well as in e-commerce fulfillment and last mile delivery of big and bulky items, accelerated since the COVID-19 pandemic began. However, the semiconductor supply shortage impacted the production activity of our automotive customers primarily in the second half of 2021, resulting in decreased demand for our services. In addition, labor shortages, resulting in higher labor costs, impacted all of our business segments, particularly our DTS and SCS segments. These higher labor costs as well as higher subcontracted transportation costs negatively impacted earnings in both DTS and SCS. We expect these negative impacts from labor shortages to continue through at least the first half of 2022. In the second half of 2022, we expect benefits from DTS / SCS pricing adjustments meant to cover costs from labor shortages.
+Overall, while supply chain disruptions and labor shortage challenges contributed to increased demand for our services in 2021 as companies seek long-term outsourcing solutions, industry-wide supply chain and labor challenges negatively impacted a portion of our earnings. While we are experiencing positive momentum in our businesses, other unknown effects of the pandemic and extended inflationary cost pressures may have further impact on our business, financial results, and significant judgments and estimates, including those related to prolonged labor shortages, extended disruptions in vehicle and vehicle part production, goodwill and other asset impairments, residual values and other depreciation assumptions, deferred income taxes and annual effective tax rates, variable revenue considerations, the valuation of our pension plans, and allowance for credit losses.
+SELECTED OPERATING PERFORMANCE ITEMS
+•Total revenue of $9.7 billion and operating revenue (a non-GAAP measure) of $7.8 billion for 2021 increased 15% and 11%, respectively as compared to prior year, reflecting revenue growth across all business segments
+•Diluted EPS from continuing operations of $9.70 in 2021 versus $(2.15) in prior year, reflecting significantly improved results in FMS
+•Comparable EPS (a non-GAAP measure) from continuing operations of $9.58 in 2021 versus $(0.27) in prior year
+•Adjusted Return on Equity (ROE) of 20.9% in 2021
+•Net cash provided by operating activities from continuing operations of $2.2 billion and free cash flow (a non-GAAP measure) of $1.1 billion in 2021
+•Cash investments of $764 million in our logistics business through our acquisition of Midwest Warehouse & Distribution System (Midwest) and PLG Investments I, LLC, d/b/a Whiplash
+We also announced plans to return capital to shareholders over time through discretionary and anti-dilutive share repurchase programs. With a debt to equity ratio of 235% currently well below our long-term target range of 250% - 300%, we have additional capacity to enhance shareholder value by deploying capital consistent with our disciplined capital allocation strategy. As part of our strategy to improve returns in FMS, we intend to exit the lower return U.K. business over the next 12 to 18 months, subject to consultation obligations under U.K. law.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+RESULTS SUMMARY
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands, except per share amounts)
+Total revenue $ 9,662,953 $ 8,420,091 $ 8,925,801 15% (6)%
+Operating revenue (1)
+7,828,444 7,024,039 7,189,072 11% (2)%
+Earnings (loss) from continuing operations before income taxes (EBT) $ 692,640 $ (130,360) $ (42,271) NM NM
+Comparable EBT (1)
+681,626 (28,814) 56,089 NM NM
+Earnings (loss) from continuing operations 521,598 (111,996) (23,272) NM NM
+Comparable earnings from continuing operations (1)
+514,967 (13,793) 53,554 NM NM
+Net earnings (loss) 519,041 (122,250) (24,410) NM NM
+Comparable EBITDA (1)
+2,432,480 2,258,258 2,243,399 8% 1%
+Earnings (loss) per common share (EPS) - Diluted
+Continuing operations $ 9.70 $ (2.15) $ (0.45) NM NM
+Comparable (1)
+9.58 (0.27) 1.01 NM NM
+Net earnings (loss) 9.66 (2.34) (0.47) NM NM
+Debt to equity 235% 293% 320%
+Adjusted return on equity (1)
+20.9% (1.3)% 0.3%
+Net cash provided by operating activities from continuing operations $ 2,175,307 $ 2,181,303 $ 2,140,539
+Free cash flow (1)
+1,056,347 1,587,010 (1,076,654)
+Total capital expenditures (2)
+2,011,665 1,070,046 3,620,423
+____________________
+NM - Denotes Not Meaningful throughout the MD&A
+(1)Non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section of this MD&A for reconciliations of the most comparable GAAP measure to the non-GAAP financial measure and the reasons why management believes this measure is important to investors.
+(2)Includes capital expenditures that have been accrued, but not yet paid.
+In 2021, total revenue increased 15% to $9.7 billion primarily due to higher operating revenue (a non-GAAP measure excluding fuel, subcontracted transportation and ChoiceLease liability insurance revenues). Operating revenue increased 11% to $7.8 billion due to higher revenue across all of our business segments as the prior year was negatively impacted by the economic slowdown from the COVID-19 effects, particularly in our commercial rental (FMS) business and automotive (SCS) business. Total revenue also increased from higher subcontracted transportation and fuel revenue.
+EBT and comparable EBT (a non-GAAP measure) increased primarily due to higher gains on used vehicles sold of $257 million in 2021 and a declining impact of depreciation expense from prior residual value estimate changes of $182 million. EBT and comparable EBT (a non-GAAP measure) in 2021 also increased from higher rental performance and improved ChoiceLease results.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+FULL YEAR CONSOLIDATED RESULTS
+Lease & Related Maintenance and Rental
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Lease & related maintenance and rental revenues
+$ 3,994,481 $ 3,704,045 $ 3,784,744 8% (2)%
+Cost of lease & related maintenance and rental
+2,896,433 3,108,766 3,103,703 (7)% -%
+Gross margin $ 1,098,048 $ 595,279 $ 681,041 84% (13)%
+Gross margin % 27% 16% 18%
+Lease & related maintenance and rental revenues represent ChoiceLease and commercial rental product offerings within our FMS business segment. Revenues increased 8% in 2021 primarily due to higher commercial rental demand and pricing. Commercial rental revenues were negatively impacted by the COVID-19 pandemic in 2020 but have benefited significantly in 2021 as a result of the limited supply of vehicles in the market caused by supply chain disruptions.
+Cost of lease & related maintenance and rental represents the direct costs related to lease & related maintenance and rental revenues and are comprised of depreciation of revenue earning equipment, maintenance costs (primarily repair parts and labor), and other costs such as licenses, insurance and operating taxes. Cost of lease & related maintenance and rental excludes interest costs from vehicle financing, which are reported within "Interest expense" in our Consolidated Statements of Earnings. Cost of lease & related maintenance and rental decreased in 2021 due to declining depreciation expense impacts from prior residual value estimate changes of $182 million and a smaller average lease fleet.
+Lease & related maintenance and rental gross margin and gross margin as a percentage of revenue increased primarily due to a declining impact of depreciation expense from prior residual value estimate changes, higher commercial rental and ChoiceLease pricing and significantly improved rental utilization.
+Services
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Services revenue $ 5,181,370 $ 4,317,992 $ 4,555,692 20% (5)%
+Cost of services 4,497,504 3,653,088 3,879,863 23% (6)%
+Gross margin $ 683,866 $ 664,904 $ 675,829 3% (2)%
+Gross margin % 13% 15% 15%
+Services revenue represents all the revenues associated with our SCS and DTS business segments, as well as SelectCare and fleet support services associated with our FMS business segment. Services revenue increased 20% in 2021, due to increases in revenue in SCS and DTS from new business, higher volume and higher pricing. The SCS automotive business revenues were negatively impacted in the second half of 2021 by supply chain disruptions and by the COVID-19 pandemic in the prior year.
+Cost of services represents the direct costs related to services revenue and is primarily comprised of salaries and employee-related costs, subcontracted transportation (purchased transportation from third parties), fuel, vehicle liability costs and maintenance costs. Cost of services increased 23% in 2021, primarily due to growth in revenues and higher labor and subcontracted transportation costs impacted by labor shortages.
+Services gross margin increased 3% in 2021. Services gross margin as a percentage of revenue decreased from 2020 reflecting the impact of higher labor and subcontracted costs and lower SCS automotive performance partially offset by the impact of higher revenues in SCS and DTS.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Fuel Services
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Fuel services revenue $ 487,102 $ 398,054 $ 585,365 22% (32)%
+Cost of fuel services 467,459 382,749 571,658 22% (33)%
+Gross margin $ 19,643 $ 15,305 $ 13,707 28% 12%
+Gross margin % 4% 4% 2%
+Fuel services revenue represents fuel services provided to our FMS customers. Fuel services revenue increased 22% in 2021 primarily reflecting higher market fuel prices passed through to customers.
+Cost of fuel services includes the direct costs associated with providing our customers with fuel. These costs include fuel, salaries and employee-related costs of fuel island attendants and depreciation of our fueling facilities and equipment. Cost of fuel services increased 22% in 2021 as a result of higher market fuel prices.
+Fuel services gross margin increased 28% in 2021. Fuel services gross margin as a percentage of revenue remained flat at 4% in 2021. Fuel is largely a pass-through to customers for which we realize minimal changes in margin during periods of steady market fuel prices. However, fuel services margin is impacted by sudden increases or decreases in market fuel prices during a short period of time, as customer pricing for fuel is established based on current market fuel costs. Fuel services gross margin was not significantly impacted by these price change dynamics in 2021.
+Other Operating Expenses
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Other operating expenses $ 132,066 $ 123,420 $ 121,980 7% 1%
+Other operating expenses include costs related to our owned and leased facilities within the FMS business segment, such as facility depreciation, rent, purchased insurance, utilities and taxes. These facilities are utilized to provide maintenance to our ChoiceLease, commercial rental, and SelectCare customers. Other operating expenses increased due to additional maintenance performed on our FMS facilities and facility depreciation due to expansion of facilities.
+Selling, General and Administrative Expenses
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Selling, general and administrative expenses (SG&A)
+$ 1,054,537 $ 921,573 $ 907,449 14% 2%
+Percentage of total revenue 11 % 11 % 10 %
+SG&A expenses increased 14% in 2021. The increase in 2021 was primarily driven by higher compensation-related expenses due to improved company performance, temporary furloughs in the prior year and strategic investments primarily in technology and marketing, partially offset by lower bad debt expense. SG&A expenses as a percentage of total revenue remained at 11% in 2021.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Non-Operating Pension Costs, net
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Non-operating pension costs, net $ (577) $ 11,167 $ 60,406 NM (82)%
+Non-operating pension costs, net include the amortization of net actuarial loss and prior service cost, interest cost and expected return on plan assets components of pension and postretirement benefit costs, as well as any significant charges for settlements or curtailments if recognized. The decrease in non-operating pension costs, net is primarily due to a freeze of substantially all of the remaining active participants in our pension plans in 2020.
+Used Vehicle Sales, net
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+(Gains) losses on used vehicle sales, net $ (257,402) $ (414) $ 58,706 NM NM
+Used vehicle sales, net includes gains and losses from sales of used vehicles, selling costs associated with used vehicles and write-downs of vehicles held for sale to fair market value (referred to as "valuation adjustments"). The increase in used vehicle sales, net was primarily due to higher gains on sales of used vehicles as compared to the prior year.
+Average proceeds per unit increased in 2021 from the prior year, reflecting higher pricing and retail channel mix. The following table presents the average used vehicle proceeds per unit changes, using constant currency, compared with the prior year:
+2021/2020
+Tractors 78%
+Trucks 70%
+Interest Expense
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Interest expense $ 213,892 $ 261,342 $ 241,381 (18)% 8%
+Effective interest rate 3.2 % 3.6 % 3.3 %
+Interest expense decreased 18% in 2021 primarily due to a decrease in average outstanding debt from positive free cash flow.
+Miscellaneous (Income) Loss, net
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Miscellaneous (income) loss, net $ (65,970) $ (21,855) $ (33,642) (202)% (35)%
+Miscellaneous (income) loss, net consists of investment income on securities used to fund certain benefit plans, interest income, gains on sales of operating property, foreign currency transaction remeasurement and other non-operating items. Miscellaneous (income) loss, net was income of $66 million in 2021 as compared to income of $22 million in the prior year reflecting higher U.K. and U.S. gains on sale of FMS properties in 2021.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Restructuring and Other Items, net
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Restructuring and other items, net $ 32,371 $ 110,615 $ 56,568 (71)% 96%
+Refer to Note 21, “Other Items Impacting Comparability” in the Notes to Consolidated Financial Statements for a discussion of restructuring charges and other items.
+Provision for (Benefit from) Income Taxes
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Provision for (benefit from) income taxes $ 171,042 $ (18,364) $ (18,999) NM (3)%
+Effective tax rate on continuing operations 24.7 % (14.1) % (44.9) %
+Comparable tax rate on continuing operations (1)
+24.5 % (52.1) % 4.5 %
+_______________
+(1) Non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section of this MD&A for reconciliations of the most comparable GAAP measure to the non-GAAP financial measure and the reasons why management believes this measure is important to investors.
+Our effective tax rate on continuing operations was an expense of 24.7% in 2021 compared to a benefit of 14.1% in the prior year. In 2020, the tax rate was impacted by a reduction in earnings due to depreciation charges. Additionally, in 2020, we recognized a valuation allowance of $13 million related to U.K. deferred tax assets and a charge of $7 million related to expiring state net operating losses.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+FULL YEAR OPERATING RESULTS BY BUSINESS SEGMENT
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Revenue:
+Fleet Management Solutions $ 5,678,948 $ 5,170,467 $ 5,571,403 10% (7)%
+Supply Chain Solutions 3,154,798 2,544,420 2,551,271 24% -%
+Dedicated Transportation Solutions 1,457,188 1,229,374 1,417,483 19% (13)%
+Eliminations (627,981) (524,170) (614,356) (20)% 15%
+Total $ 9,662,953 $ 8,420,091 $ 8,925,801 15% (6)%
+Operating Revenue: (1)
+Fleet Management Solutions $ 4,940,531 $ 4,577,576 $ 4,719,781 8% (3)%
+Supply Chain Solutions 2,210,516 1,870,366 1,879,965 18% (1)%
+Dedicated Transportation Solutions 1,054,924 929,247 972,694 14% (4)%
+Eliminations (377,527) (353,150) (383,368) (7)% 8%
+Total $ 7,828,444 $ 7,024,039 $ 7,189,072 11% (2)%
+Earnings (loss) from continuing operations before income taxes:
+Fleet Management Solutions $ 663,090 $ (141,957) $ (70,274) NM NM
+Supply Chain Solutions 117,351 159,940 145,060 (27)% 10%
+Dedicated Transportation Solutions 49,058 73,442 81,149 (33)% (9)%
+Eliminations (79,265) (42,801) (50,732) (85)% 16%
+750,234 48,624 105,203 1,443% (54)%
+Unallocated Central Support Services (68,608) (77,438) (49,114) 11% (58)%
+Non-operating pension costs, net 577 (11,167) (60,406) NM 82%
+Other items impacting comparability, net (2)
+10,437 (90,379) (37,954) NM NM
+Earnings (loss) from continuing operations before income taxes
+$ 692,640 $ (130,360) $ (42,271) NM NM
+_______________
+(1)Non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section of this MD&A for reconciliations of the most comparable GAAP measure to the non-GAAP financial measure and the reasons why management believes this measure is important to investors.
+(2)Refer to Note 21, "Other Items Impacting Comparability," and below for a discussion of items excluded from our primary measure of segment performance.
+As part of management’s evaluation of segment operating performance, we define the primary measurement of our segment financial performance as "Earnings from continuing operations before taxes" (EBT), which includes an allocation of costs from Central Support Services (CSS) and excludes non-operating pension costs, net and certain other items as discussed in Note 21, “Other Items Impacting Comparability,” in the Notes to Consolidated Financial Statements. CSS represents those costs incurred to support all business segments, including finance and procurement, corporate services, human resources, information technology, public affairs, legal, marketing and corporate communications.
+The objective of the EBT measurement is to provide clarity on the profitability of each business segment and, ultimately, to hold leadership of each business segment accountable for their allocated share of CSS costs. Segment results are not necessarily indicative of the results of operations that would have occurred had each segment been an independent, stand-alone entity during the periods presented. Certain costs are not attributable to any segment and remain unallocated in CSS, including costs for investor relations, public affairs and certain executive compensation. Refer to Note 3, “Segment Reporting,” in the Notes to Consolidated Financial Statements for a description of the methodology for allocating the remainder of CSS costs to the business segments.
+Our FMS segment leases revenue earning equipment, as well as provides rental vehicles, fuel, maintenance and other ancillary services to the SCS and DTS segments. Inter-segment EBT allocated to SCS and DTS includes earnings related to equipment used in providing services to SCS and DTS customers. EBT related to inter-segment equipment and services billed to
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+SCS and DTS customers (equipment contribution) are included in both FMS and the segment that served the customer and then eliminated upon consolidation (presented as “Eliminations”).
+The following table sets forth the benefit from equipment contribution included in EBT for our SCS and DTS business segments:
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Equipment Contribution:
+Supply Chain Solutions $ 33,276 $ 17,457 $ 22,267 91% (22)%
+Dedicated Transportation Solutions 45,989 25,344 28,465 81% (11)%
+Total $ 79,265 $ 42,801 $ 50,732 85% (16)%
+In 2021, the increase in SCS and DTS equipment contribution was primarily related to higher rental demand as well as the declining impact associated with the prior residual value estimate changes on vehicles used to provide services to SCS and DTS customers.
+Items excluded from our segment EBT measure and their classification within our Consolidated Statements of Earnings are as follows:
+Description Classification 2021 2020 2019
+(In thousands)
+Restructuring and other, net (1)
+Restructuring and other items, net $ (19,656) $ (76,364) $ (35,308)
+ERP implementation costs (1)
+Restructuring and other items, net (12,715) (34,251) (21,260)
+Gains on sale of properties (1)
+Miscellaneous (income) loss, net 42,031 5,418 18,614
+Early redemption of medium-term notes (1)
+Interest expense - (8,999) -
+ChoiceLease liability insurance revenue (1)
+Revenue 777 23,817 -
+Other items impacting comparability, net 10,437 (90,379) (37,954)
+Non-operating pension costs, net (2)
+Non-operating pension costs, net 577 (11,167) (60,406)
+$ 11,014 $ (101,546) $ (98,360)
+_______________
+(1)Refer to Note 21, “Other Items Impacting Comparability,” in the Notes to Consolidated Financial Statements for additional information.
+(2)Refer to Note 19, “Employee Benefit Plans,” in the Notes to Consolidated Financial Statements for additional information.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Fleet Management Solutions
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+ChoiceLease $ 3,219,914 $ 3,159,909 $ 3,077,051 2% 3%
+Commercial rental (1)
+1,113,740 834,232 1,009,086 34% (17)%
+SelectCare and other 606,877 583,435 633,644 4% (8)%
+Fuel services 737,640 569,074 816,362 30% (30)%
+ChoiceLease liability insurance (2)
+777 23,817 35,260 (97)% (32)%
+FMS total revenue $ 5,678,948 $ 5,170,467 $ 5,571,403 10% (7)%
+FMS operating revenue (3)
+$ 4,940,531 $ 4,577,576 $ 4,719,781 8% (3)%
+FMS EBT $ 663,090 $ (141,957) $ (70,274) NM NM
+FMS EBT as a % of FMS total revenue 11.7% (2.7)% (1.3)% NM (140) bps
+FMS EBT as a % of FMS operating revenue (3)
+13.4% (3.1)% (1.5)% NM (160) bps
+_______________
+(1)For the years ended December 31, 2021, 2020, and 2019 rental revenue from lease customers in place of a lease vehicle represented 30%, 33%, and 40% of commercial rental revenue, respectively.
+(2)In the first quarter of 2021, we completed the previously announced exit of the extension of our liability insurance coverage for ChoiceLease customers.
+(3)Non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section of this MD&A for reconciliations of the most comparable GAAP measure to the non-GAAP financial measure and the reasons why management believes this measure is important to investors.
+FMS total revenue increased 10% to $5.7 billion in 2021 primarily due to higher operating revenue (a non-GAAP measure excluding fuel and ChoiceLease liability insurance revenues) and fuel services revenue. FMS operating revenue increased 8% to $4.9 billion in 2021 primarily from higher commercial rental revenue. ChoiceLease revenue increased 2% in 2021 primarily due to higher prices, partially offset by lower revenue from a smaller fleet. Commercial rental revenue increased 34% in 2021 primarily due to higher demand and pricing. Commercial rental revenues were negatively impacted by the COVID-19 pandemic in the prior year but have benefited significantly in the current year as a result of the limited supply of vehicles in the market caused by supply chain disruptions. Fuel services revenue increased 30% in 2021 primarily reflecting higher market fuel prices passed through to customers.
+FMS EBT increased to $663 million in 2021 from a loss of $142 million in 2020, primarily due to higher gains on used vehicles sold of $257 million and a declining impact of depreciation expense from prior residual value estimate changes of $182 million. EBT in 2021 also reflects higher commercial rental and ChoiceLease results. Higher commercial rental results were due to increased utilization and higher pricing in 2021. Rental power fleet utilization increased to 80% in 2021 from 67% in 2020. ChoiceLease results benefited from higher lease pricing with revenue per active vehicle up 6%, partially offset by a 3% smaller average active lease fleet compared to prior year. In 2020, EBT included negative impacts from the COVID-19 effects due to lower rental demand and higher bad debt expense which was partially offset by COVID-19 related cost actions and lower medical expenses.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Our global fleet of owned and leased revenue earning equipment and SelectCare vehicles, including vehicles under on-demand maintenance, is summarized as follows (rounded to the nearest hundred):
+Change
+2021 2020 2019 2021/2020 2020/2019
+End of period vehicle count
+By type:
+Trucks (1)
+75,100 77,300 85,200 (3)% (9)%
+Tractors (2)
+70,700 73,300 82,400 (4)% (11)%
+Trailers and other (3)
+43,500 44,100 46,200 (1)% (5)%
+Total 189,300 194,700 213,800 (3)% (9)%
+By product line:
+ChoiceLease 143,900 149,600 159,800 (4)% (6)%
+Commercial rental 40,700 35,000 41,900 16% (16)%
+Service vehicles and other 2,200 2,400 2,700 (8)% (11)%
+186,800 187,000 204,400 -% (9)%
+Held for sale 2,500 7,700 9,400 (68)% (18)%
+Total 189,300 194,700 213,800 (3)% (9)%
+Customer vehicles under SelectCare contracts (4)
+54,500 50,300 55,800 8% (10)%
+Average vehicle count
+By product line:
+ChoiceLease 146,300 154,800 156,600 (5)% (1)%
+Commercial rental 37,900 37,500 44,100 1% (15)%
+Service vehicles and other 2,300 2,600 2,700 (12)% (4)%
+186,500 194,900 203,400 (4)% (4)%
+Held for sale 4,600 11,300 7,800 (59)% 45%
+Total 191,100 206,200 211,200 (7)% (2)%
+Customer vehicles under SelectCare contracts (4)
+53,000 54,900 56,300 (3)% (2)%
+Customer vehicles under SelectCare on-demand (5)
+15,700 18,800 23,200 (16)% (19)%
+Total vehicles serviced 259,800 279,900 290,700 (7)% (4)%
+_______________
+(1)Generally comprised of Class 1 through Class 7 type vehicles with a Gross Vehicle Weight (GVW) up to 33,000 pounds.
+(2)Generally comprised of over the road on highway tractors and are primarily comprised of Class 8 type vehicles with a GVW of over 33,000 pounds.
+(3)Generally comprised of dry, flatbed and refrigerated type trailers.
+(4)Excludes customer vehicles under SelectCare on-demand contracts.
+(5)Comprised of the number of unique vehicles serviced under on-demand maintenance agreements. This does not represent averages for the periods. Vehicles included in the count may have been serviced more than one time during the respective period.
+Note: Average vehicle counts were computed using a 24-point average based on monthly information.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following table provides information on our active ChoiceLease fleet (rounded to nearest hundred) and commercial rental utilization on our global power fleet which excludes trailers:
+Change
+2021 2020 2019 2021/2020 2020/2019
+Active ChoiceLease fleet
+End of period vehicle count (1)
+139,400 142,300 147,400 (2)% (3)%
+Full year average vehicle count (1)
+140,900 145,500 144,300 (3)% 1%
+Revenue per average active ChoiceLease vehicle $ 22,900 $ 21,700 $ 21,300 6% 2%
+Commercial rental statistics
+Commercial rental utilization - power fleet (2)
+80.4 % 67.4 % 75.0 % 1,300 bps (760) bps
+_______________
+(1)Active ChoiceLease vehicles are calculated as those units currently earning revenue and not classified as not yet earning or no longer earning units.
+(2)Rental utilization is calculated using the number of days units are rented divided by the number of days units are available to rent based on the days in the calendar year.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Supply Chain Solutions
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands, except vehicle counts)
+Automotive $ 692,745 $ 638,273 $ 693,211 9% (8)%
+Technology and healthcare 240,069 222,985 268,305 8% (17)%
+Consumer packaged goods and retail 1,020,270 814,053 736,083 25% 11%
+Industrial and other 257,432 195,055 182,366 32% 7%
+Subcontracted transportation and fuel 944,282 674,054 671,306 40% -%
+SCS total revenue $ 3,154,798 $ 2,544,420 $ 2,551,271 24% -%
+SCS operating revenue (1)
+$ 2,210,516 $ 1,870,366 $ 1,879,965 18% (1)%
+SCS EBT $ 117,351 $ 159,940 $ 145,060 (27)% 10%
+SCS EBT as a % of SCS total revenue 3.7% 6.3% 5.7% (260) bps 60 bps
+SCS EBT as a % of SCS operating revenue (1)
+5.3% 8.6% 7.7% (330) bps 90 bps
+Memo:
+End of period fleet count 10,700 9,400 9,700 14% (3)%
+_______________
+(1)Non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section of this MD&A for reconciliations of the most comparable GAAP measure to the non-GAAP financial measure and the reasons why management believes this measure is important to investors.
+SCS total revenue increased 24% as a result of higher operating revenue (a non-GAAP measure excluding fuel and subcontracted transportation revenues) and subcontracted transportation. SCS operating revenue increased 18% in 2021 due to revenue growth in all industry verticals primarily driven by higher volumes, new business, and prior-year COVID-19 effects. SCS operating revenue growth was negatively impacted by supply chain disruptions primarily impacting the automotive vertical during the second half of 2021.
+SCS EBT decreased 27% in 2021 due to strategic investments in marketing and technology, higher medical costs and lower earnings in automotive due to supply chain disruptions and higher labor costs. The decrease in SCS EBT in 2021 was partially offset by earnings from increased pricing and higher volumes. In 2020, SCS customer volumes in the automotive business significantly declined due to temporary production shutdowns beginning late in the first quarter of 2020 related to COVID-19. These operations restarted during the second quarter of 2020 and were followed by increased consumer demand in the second half of 2020. In 2021, supply chain disruptions and labor challenges impacted the automotive vertical through the fourth quarter of 2021, and the impact is expected to continue through at least the first half of 2022.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Dedicated Transportation Solutions
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands, except vehicle counts)
+DTS total revenue $ 1,457,188 $ 1,229,374 $ 1,417,483 19% (13)%
+DTS operating revenue (1)
+$ 1,054,924 $ 929,247 $ 972,694 14% (4)%
+DTS EBT $ 49,058 $ 73,442 $ 81,149 (33)% (9)%
+DTS EBT as a % of DTS total revenue 3.4% 6.0% 5.7% (260) bps 30 bps
+DTS EBT as a % of DTS operating revenue (1)
+4.7% 7.9% 8.3% (320) bps (40) bps
+Memo:
+End of period fleet count 11,300 9,200 9,400 23% (2)%
+_______________
+(1)Non-GAAP financial measure. Refer to the “Non-GAAP Financial Measures” section of this MD&A for reconciliations of the most comparable GAAP measure to the non-GAAP financial measure and the reasons why management believes this measure is important to investors.
+DTS total revenue increased 19% in 2021 primarily due to higher operating revenue (a non-GAAP measure excluding fuel and subcontracted transportation revenues). DTS operating revenue increased 14% in 2021 primarily reflecting new business, higher volumes, and higher pricing. Revenue growth from new business was largely driven by wins from competitors and private fleet conversions.
+DTS EBT decreased 33% in 2021 primarily due to higher labor and insurance costs and strategic investments. The decrease in DTS EBT in 2021 was partially offset by earnings from increased pricing and new business. Labor shortages resulted in higher labor costs as well as higher subcontracted transportation costs, negatively impacting earnings. We expect the negative impacts from labor shortages to continue through at least the first half of 2022.
+Central Support Services
+Change
+2021 2020 2019 2021/2020 2020/2019
+(In thousands)
+Total CSS $ 368,512 $ 324,769 $ 291,468 13% 11%
+Allocation of CSS to business segments (299,904) (247,331) (242,354) 21% 2%
+Unallocated CSS $ 68,608 $ 77,438 $ 49,114 (11)% 58%
+Total CSS costs increased 13% to $369 million in 2021 primarily due to higher incentive compensation-related expenses in 2021 and continuing strategic investments in technology and marketing, offset by the one-time expense of $28 million in the prior year for recognition and retention bonuses paid to frontline workers. Unallocated CSS costs decreased by $9 million in 2021 primarily due to the prior year recognition and retention bonuses which were partially offset by higher incentive compensation-related expenses.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+FINANCIAL RESOURCES AND LIQUIDITY
+Cash Flows
+The following is a summary of our cash flows from continuing operations:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+Net cash provided by (used in):
+Operating activities $ 2,175,307 $ 2,181,303 $ 2,140,539
+Investing activities (1,449,744) (600,997) (3,217,193)
+Financing activities (203,708) (1,507,178) 1,084,139
+Effect of exchange rates on cash (617) 5,132 (4,272)
+Net change in cash and cash equivalents $ 521,238 $ 78,260 $ 3,213
+Years ended December 31,
+2021 2020 2019
+Net cash provided by operating activities (In thousands)
+Earnings (loss) from continuing operations $ 521,598 $ (111,996) $ (23,272)
+Non-cash and other, net 1,824,892 2,243,040 2,186,866
+Collections on sales-type leases 138,698 114,462 121,201
+Changes in operating assets and liabilities (309,881) (64,203) (144,256)
+Cash flows from operating activities from continuing operations
+$ 2,175,307 $ 2,181,303 $ 2,140,539
+Cash provided by operating activities from continuing operations remained at $2.2 billion in 2021 compared to 2020 reflecting higher earnings offset by higher working capital needs in 2021. Our working capital needs are primarily driven by the timing of collections of our receivables and payments of our trade payables, as well as other changes in operating assets and liabilities. The impact from changes in operating assets and liabilities was primarily attributed to an increase in receivables due to business growth and timing of collections. Cash used in investing activities increased to $1.4 billion in 2021 compared with $601 million in 2020 primarily due to an increase in cash paid for capital expenditures and acquisitions, partially offset by higher proceeds from sale of revenue earnings equipment and operating property and equipment. Cash used in financing activities decreased to $204 million in 2021 compared to $1.5 billion in 2020 due to lower borrowing needs.
+The following table shows the components of our free cash flow:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+Net cash provided by operating activities $ 2,175,307 $ 2,181,303 $ 2,140,539
+Sales of revenue earning equipment (1)
+748,099 538,894 465,705
+Sales of operating property and equipment (1)
+73,659 13,334 52,276
+Other (1)
+691 - -
+Total cash generated (2)
+2,997,756 2,733,531 2,658,520
+Purchases of property and revenue earning equipment (1)
+(1,941,409) (1,146,521) (3,735,174)
+Free cash flow (2)
+$ 1,056,347 $ 1,587,010 $ (1,076,654)
+_______________
+(1)Included in cash flows from investing activities.
+(2)Non-GAAP financial measures. Reconciliations of net cash provided by operating activities to total cash generated and to free cash flow are set forth in this table. Refer to the “Non-GAAP Financial Measures” section of this MD&A for the reasons why management believes these measures are important to investors.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Free cash flow (a non-GAAP measure) decreased to $1.1 billion in 2021 from $1.6 billion in 2020 primarily due to an increase in cash paid for capital expenditures partially offset by higher proceeds from the sale of revenue earning equipment and operating property and equipment.
+Cash provided by operating activities from continuing operations will increase to approximately $2.3 billion in 2022. We expect free cash flow (a non-GAAP measure) to decrease to approximately $200 million - $300 million reflecting an increase in capital expenditures due to higher investments in the ChoiceLease fleet and 2021 OEM delivery delays.
+Purchase Obligations
+The majority of our purchase obligations are pay-as-you-go transactions made in the ordinary course of business. Purchase obligations include agreements to purchase goods or services that are legally binding and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed minimum or variable price provisions; and the approximate timing of the transaction. Any amounts for which we are liable under purchase orders for goods and services received are reflected in the Consolidated Balance Sheets as “Accounts payable” and “Accrued expenses and other current liabilities.” In addition, we reflect obligations with settlements that are greater than twelve months from December 31, 2021 as "Other non-current liabilities", including operating lease liabilities. The most significant purchase obligations relate to the purchase of revenue earning equipment.
+Capital expenditures generally represent the purchase of revenue earning equipment (trucks, tractors and trailers) within our FMS segment. These expenditures primarily support the ChoiceLease and commercial rental product lines. The level of capital required to support the ChoiceLease product line varies based on customer contract signings for replacement vehicles and growth. These contracts are long-term agreements that result in predictable cash flows typically over three to seven years for trucks and tractors and ten years for trailers. We utilize capital for the purchase of vehicles in our commercial rental product line to replenish and expand the fleet available for shorter-term use by contractual or occasional customers. Operating property and equipment expenditures primarily relate to spending on items such as vehicle maintenance facilities and equipment, computer and telecommunications equipment, investments in technologies, and warehouse facilities and equipment.
+The following is a summary of capital expenditures:
+2021 2020 2019
+(In thousands)
+Revenue earning equipment:
+ChoiceLease $ 1,193,839 $ 856,353 $ 2,871,043
+Commercial rental 650,599 85,141 556,560
+1,844,438 941,494 3,427,603
+Operating property and equipment 167,227 128,552 192,820
+Gross capital expenditures (1)
+2,011,665 1,070,046 3,620,423
+Changes in accounts payable related to purchases of property and revenue earning equipment (70,256) 76,475 114,751
+Cash paid for purchases of property and revenue earning equipment $ 1,941,409 $ 1,146,521 $ 3,735,174
+_______________
+(1)Excludes $15 million, $14 million and $22 million in 2021, 2020 and 2019, respectively, in assets held under finance leases resulting from new or the extension of existing finance leases and other additions.
+Gross capital expenditures increased to $2.0 billion in 2021 reflecting higher planned investments in the rental fleet and higher investments in the ChoiceLease fleet. In 2021, our OEMs faced new vehicle production challenges due to supply chain disruptions resulting in a significant increase in new vehicle delivery lead times. As a result, a significant amount of new vehicle orders placed in 2021 were delayed for delivery until 2022. We expect capital expenditures to increase to approximately $2.7 billion to $2.8 billion in 2022 primarily as a result of higher investments in the ChoiceLease fleet and OEM delivery delays.
+Other Obligations and Commitments
+The following table provides other material cash requirements from contractual obligations and commitments and the related reference in the Notes to Consolidated Financial Statements for further information:
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Description Reference Reference Title
+Insurance obligations (primarily self-insurance) Note 10 Accrued Expenses and Other Liabilities
+Operating leases Note 12 Leases
+Debt Note 13 Debt
+Employee benefit plans Note 19 Employee Benefit Plans
+We believe that our operating cash flows and access to the debt markets, as further discussed in "Financing and Other Funding Transactions" below, are sufficient to meet our contractual obligations.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Financing and Other Funding Transactions
+We utilize external capital primarily to support working capital needs and growth in our asset-based product lines. The variety of financing alternatives typically available to fund our capital needs include commercial paper, long-term and medium-term public and private debt, asset-backed securities, bank term loans, leasing arrangements, and bank credit facilities. Our principal sources of financing are issuances of unsecured commercial paper and medium-term notes.
+Cash and equivalents totaled $234 million as of December 31, 2021. As of December 31, 2021, approximately $119 million was held outside the U.S. and is available to fund operations and other growth of non-U.S. subsidiaries. We have historically asserted our intent to permanently reinvest foreign earnings outside of the U.S. In October of 2021 we repatriated $72 million of foreign earnings to partially fund the Midwest acquisition in the U.S. As of December 31, 2021, we have reevaluated our historic assertion with respect to our U.K. and Germany operations and no longer consider these earnings to be indefinitely reinvested. We have recorded a current and deferred tax liability for the cash repatriation and change in reinvestment assertion, respectively, for all applicable U.S., state and foreign income and withholding taxes. We intend to continue to permanently reinvest the earnings of our remaining foreign subsidiaries indefinitely.
+We believe that our operating cash flows, together with our access to the public unsecured bond market, commercial paper market and other available debt financing, will be adequate to meet our operating, investing and financing needs in the foreseeable future. However, volatility or disruption in the public unsecured debt market or the commercial paper market may impair our ability to access these markets on secure terms commercially acceptable to us. If we cease to have access to public bonds, commercial paper and other sources of unsecured borrowings, we would meet our liquidity needs by drawing upon contractually committed lending agreements or by seeking other funding sources.
+Refer to Note 13, “Debt,” in the Notes to Consolidated Financial Statements for information around the global revolving credit facility, the trade receivables financing program, issuance of medium-term notes under our shelf registration statement, asset-backed financing obligations and debt maturities.
+Our ability to access unsecured debt in the capital markets is impacted by both our short-term and long-term debt ratings. These ratings are intended to provide guidance to investors in determining the credit risk associated with particular securities based on current information obtained by the rating agencies from us or from other sources. Ratings are not recommendations to buy, sell or hold our debt securities and may be subject to revision or withdrawal at any time by the assigning rating agency. Lower ratings generally result in higher borrowing costs, as well as reduced access to unsecured capital markets. A significant downgrade of our short-term debt ratings would impair our ability to issue commercial paper and likely require us to rely on alternative funding sources. A significant downgrade would not affect our ability to borrow amounts under our revolving credit facility described below, assuming ongoing compliance with the terms and conditions of the credit facility.
+Our debt ratings and rating outlooks as of December 31, 2021 were as follows:
+Rating Summary
+Short-term Short-term Outlook Long-term Long-term Outlook
+Standard & Poor’s Ratings Services A2 - BBB Positive
+Moody’s Investors Service P2 Stable Baa2 Stable
+Fitch Ratings - BBB+ Stable
+DBRS R-1 (Low) Stable A (Low) Stable
+As of December 31, 2021, we had the following amounts available to fund operations under the following facilities:
+(In millions)
+Global revolving credit facility $862
+Trade receivables financing program 284
+In accordance with our funding philosophy, we attempt to align the aggregate average remaining re-pricing life of our debt with the aggregate average remaining re-pricing life of our vehicle assets. We utilize both fixed-rate and variable-rate debt to achieve this alignment and generally target a mix of 20% - 40% variable-rate debt as a percentage of total debt outstanding. The variable-rate portion of our total debt (including notional value of swap agreements) was 16% and 9% as of December 31, 2021 and 2020, respectively. The increase in variable-rate debt was driven by higher short-term debt for the funding of the Whiplash acquisition.
+Our debt to equity ratios were 235% and 293% as of December 31, 2021 and 2020, respectively. The debt to equity ratio represents total debt divided by total equity. The decrease in the debt to equity ratio from year-end 2020 primarily reflects increased earnings.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Off-Balance Sheet Arrangements
+Guarantees. Refer to Note 14, “Guarantees,” in the Notes to Consolidated Financial Statements for a discussion of our agreements involving guarantees.
+Pension Information
+Refer to Note 19, “Employee Benefit Plans,” in the Notes to Consolidated Financial Statements for background and further information regarding our company-sponsored defined benefit retirement plans. During 2021, total global pension contributions were $7 million, compared with $136 million in 2020. We estimate total 2022 required contributions to our pension plans to be approximately $6 million and we do not expect to make voluntary contributions. The present value of estimated global pension contributions that would be required over the next 5 years totals approximately $28 million (pre-tax). Changes in interest rates and the market value of the securities held by the plans could materially change, positively or negatively, the funded status of the plans and affect the level of pension expense and required contributions in future years. The ultimate amount of contributions is also dependent upon the requirements of applicable laws and regulations.
+Due to the underfunded status of our defined benefit plans, we had an accumulated net pension equity charge (after-tax) of $529 million and $655 million as of December 31, 2021 and 2020, respectively. The improvement in funded status reflects an increase in discount rates and to a lesser extent the benefit of asset returns of 4% in 2021.
+We expect 2022 defined benefit pension expense to increase to approximately $12 million due to a decrease in expected return on assets offset by an increase in discount rates. See the “Critical Accounting Estimates - Pension Plans” section for further discussion on pension accounting estimates.
+Share Repurchase Programs and Cash Dividends
+Refer to Note 15, “Share Repurchase Programs,” in the Notes to Consolidated Financial Statements for a discussion on our share repurchase programs.
+Cash dividend payments to shareholders of common stock were $122 million in 2021 and $119 million in 2020. In 2021 and 2020, our annualized dividend was $2.28 and $2.24 per share of common stock, respectively.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Market Risk
+In the normal course of business, we are exposed to fluctuations in interest rates, foreign currency exchange rates and market fuel prices. We manage these exposures in several ways, including, in certain circumstances, the use of a variety of derivative financial instruments when deemed prudent. We do not enter into leveraged derivative financial transactions or use derivative financial instruments for trading purposes.
+Exposure to market risk for changes in interest rates exists for our debt obligations. Our interest rate risk management program objectives are to limit the impact of interest rate changes on earnings and cash flows and to lower overall borrowing costs. We manage our exposure to interest rate risk primarily through the proportion of fixed-rate and variable-rate debt we hold in the total debt portfolio. From time to time, we also use interest rate swap agreements to manage our fixed-rate and variable-rate exposure and to better match the repricing of debt instruments to that of our portfolio of assets. The fair value of derivatives was not material as of December 31, 2021.
+As of December 31, 2021, we had $4.9 billion of fixed-rate debt outstanding (excluding finance leases and U.S. asset- backed securities) with a weighted-average interest rate of 3.43% and a fair value of $5.1 billion. A hypothetical 10% change in market interest rates would impact the fair value of our fixed-rate debt by approximately $17 million as of December 31, 2021. Changes in the relative sensitivity of the fair value of our financial instrument portfolio for these theoretical changes in the level of interest rates are primarily driven by changes in our debt maturities, interest rate profile and amount.
+As of December 31, 2021, we had $1.1 billion of variable-rate debt, including $450 million of fixed-rate debt instruments swapped to LIBOR-based floating-rate debt. Changes in the fair value of the interest rate swaps were offset by changes in the fair value of the debt instruments and no net gain or loss was recognized in earnings. The fair value of our variable-rate debt as of December 31, 2021 was $1.1 billion. A hypothetical 10% increase in market interest rates would not have impacted 2021 pre-tax earnings by a material amount.
+We are also subject to interest rate risk with respect to our pension and postretirement benefit obligations, as changes in interest rates will effectively increase or decrease our liabilities associated with these benefit plans, which also results in changes to the amount of pension and postretirement benefit expense recognized on an annual basis.
+Exposure to market risk for changes in foreign currency exchange rates relates primarily to our foreign operations’ buying, selling and financing in currencies other than local currencies and to the carrying value of net investments in foreign subsidiaries. The majority of our transactions are denominated in U.S. dollars. The principal foreign currency exchange rate risks to which we are exposed include the Canadian dollar, British pound sterling and Mexican peso. We manage our exposure to foreign currency exchange rate risk related to our foreign operations’ buying, selling and financing in currencies other than local currencies by naturally offsetting assets and liabilities not denominated in local currencies to the extent possible. A hypothetical uniform 10% strengthening in the value of the dollar relative to all the currencies in which our transactions are denominated would not materially impact the results of operations. We also use foreign currency option contracts and forward agreements from time to time to hedge foreign currency transactional exposure. We generally do not hedge the foreign currency exposure related to our net investment in foreign subsidiaries.
+Exposure to market risk for fluctuations in market fuel prices relates to a small portion of our service contracts for which the cost of fuel is integral to service delivery and the service contract does not have a mechanism to adjust for increases in market fuel prices. As of December 31, 2021, we also had various fuel purchase arrangements in place to ensure delivery of fuel at market rates in the event of fuel shortages. We are exposed to fluctuations in market fuel prices in these arrangements since none of the arrangements fix the price of fuel to be purchased. Changes in the price of fuel are generally passed on to our customers for which we realize minimal changes in profitability during periods of steady market fuel prices. However, profitability may be positively or negatively impacted by sudden increases or decreases in market fuel prices during a short period of time as customer pricing for fuel services is established based on current market fuel costs. We believe the exposure to fuel price fluctuations would not materially impact our results of operations, cash flows or financial position.
+ENVIRONMENTAL MATTERS
+Refer to Note 20, “Environmental Matters,” in the Notes to Consolidated Financial Statements for a discussion surrounding environmental matters.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of financial statements in conformity with generally accepted accounting principles in the U.S. (U.S. GAAP) requires us to make estimates and assumptions. Our significant accounting policies are described in the Notes to Consolidated Financial Statements. Certain of these policies require the application of subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. These estimates and assumptions are based on historical experience, changes in the business environment, and other factors that we believe to be reasonable under the circumstances. Different estimates that could have been applied in the current period or changes in the accounting estimates that are reasonably likely can result in a material impact on our financial condition and operating results in the current and future periods. We review the development, selection and disclosure of these critical accounting estimates with Ryder’s Audit Committee on an annual basis.
+The following discussion, which should be read in conjunction with the descriptions in the Notes to Consolidated Financial Statements, is furnished for additional insight into certain accounting estimates that we consider to be critical.
+Residual Value Estimates and Depreciation. At the time we acquire a vehicle, we estimate the vehicle's useful life and its estimated residual value (i.e., the price at which we ultimately expect to sell the vehicles at the end of its useful life). These estimates determine the depreciation that will be recognized evenly (straight-line) over the vehicle’s useful life and are intended to minimize losses or to record the best estimate of fair value at the end of a vehicle's useful life.
+We periodically review and adjust, as appropriate, the estimated residual values and useful lives of existing revenue earning equipment for the purposes of recording depreciation expense as described in Note 6, “Revenue Earning Equipment, Net" in the Notes to Consolidated Financial Statements. Based on the results of our analysis, we may adjust the estimated residual values and useful lives of certain classes of our revenue earning equipment each year. Reductions in estimated residual values or useful lives will increase depreciation expense over the remaining useful life of the vehicle. Conversely, an increase in estimated residual values or useful lives will decrease depreciation expense over the remaining useful life of the vehicle. Our review of the estimated residual values and useful lives of revenue earning equipment is based on vehicle class, (i.e., generally subcategories of trucks, tractors and trailers by weight and usage), historical and current market prices, third-party expected future market prices, expected lives of vehicles, and expected sales in the wholesale or retail markets, among other factors. As disclosed in Note 6, "Revenue Earning Equipment, Net," we revised our estimated residual values in the third quarter of 2019, in the first half of 2020 largely due to impacts from COVID-19, and in the second quarter of 2021. The nature of these estimate changes and the impact to earnings are disclosed in the Notes to Consolidated Financial Statements.
+The approximate unfavorable incremental impact on the annual depreciation expense resulting from prior residual value estimate changes since 2019 is estimated to be $190 million in 2022, and were $309 million and $491 million in 2021 and 2020, respectively. Gains on used vehicle sales, net results were $257 million and $0.4 million in 2021 and 2020, respectively.
+Depreciation Sensitivity
+Based on our fleet of revenue earning equipment as of December 31, 2021, a hypothetical 10% reduction in estimated residual values would increase depreciation expense over the remaining life of our fleet by approximately $310 million. The current residual value estimates of our total fleet are at historically low levels. Our estimates reflect anticipated market conditions and are intended to reduce the probability of losses or need for additional depreciation during a potential cyclical downturn.
+While we believe that the carrying values and estimated sales proceeds for revenue earning equipment are reasonable, we cannot guarantee that if economic conditions deteriorate or future sales proceeds are adversely impacted, we will not realize losses on sales or be required to further reduce our residual value estimates. A variety of factors, many of which are outside of our control, could cause residual value estimates to differ from actual used vehicle sales pricing, such as changes in supply and demand of used vehicles; volatility in market conditions; changes in vehicle technology; competitor pricing; regulatory requirements; driver shortages; customer requirements and preferences; and changes in underlying assumption factors. As a result, future residual value estimates and resulting depreciation expense are subject to change based upon changes in these factors.
+Revenue Recognition. We generate revenue primarily through contracts with customers to lease, rent and maintain revenue earning equipment and to provide logistics management and dedicated transportation services. We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. We account for a contract when it has approval and commitment from both parties, the rights of the parties are identified, payment terms are determined, the contract has commercial substance, and collectibility of consideration is probable. We generally recognize revenue over time as we provide the promised products or services to our customers in an amount we expect to receive in exchange for those products or services.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+We offer a full service lease as well as a lease with more flexible maintenance options under our ChoiceLease product line in our FMS business segment, which are marketed, priced and managed as bundled products that include the equipment lease, maintenance and other related services. Our ChoiceLease product line includes the lease of a vehicle (lease component) and maintenance and other services (non-lease component). Contract consideration is allocated between the lease and non-lease components based on management's best estimate of the relative stand-alone selling price of each component. We do not sell the components of our ChoiceLease product offering on a stand-alone basis, therefore significant judgment is required to determine the stand-alone selling prices of the lease and maintenance components in order to allocate the consideration on a relative stand-alone selling price basis.
+For the lease component, we estimate the stand-alone selling price using the projected cash outflows related to the underlying leased vehicle, net of the estimated disposal proceeds, and a certain targeted return considering the weighted average cost of capital. For the non-lease component of the contract, we estimate the stand-alone selling price of the maintenance component using an expected cost-plus margin approach. The expected costs are based on our historical costs of providing maintenance services in our ChoiceLease arrangements. The margin is based on the historical margin percentages for our full service maintenance contracts in the SelectCare product line, as the maintenance performance obligation in those contracts is similar to maintenance in our ChoiceLease arrangements. Full service maintenance arrangements in SelectCare are priced based on targeted margin percentages for new and used vehicles by type of vehicle (trucks, tractors, and trailers), considering the fixed and variable costs of providing maintenance services.
+We recognize maintenance revenue using an input method, consistent with the estimated pattern of the costs to maintain the underlying vehicles. This generally results in the recognition of a contract liability for the portion of the customer's billings allocated to the maintenance service component of the agreement. The non-lease revenue from maintenance services related to our ChoiceLease product is recognized in "Lease & related maintenance and rental revenues" in the Consolidated Statements of Earnings. In 2021, 2020 and 2019, we recognized $1.0 billion, $965 million and $950 million, respectively.
+The stand-alone price for both the lease and non-lease components could vary in the future based on both external market conditions and our pricing strategies as a result of the market conditions.
+Pension Plans. We apply actuarial methods to determine the annual net periodic pension expense and pension plan liabilities on an annual basis, or on an interim basis if there is an event, such as a curtailment, requiring remeasurement. Each December, we review actual experience compared with the assumptions used and make adjustments to our assumptions, if warranted. In determining our annual estimate of periodic pension cost, we are required to make an evaluation of critical factors such as discount rate, expected long-term rate of return on assets, retirement rate and mortality. Discount rates are based upon a duration analysis of expected benefit payments and the equivalent average yield for high quality corporate fixed income investments as of our annual measurement date at December 31. In order to estimate the discount rate relevant to our plan, we use models that match projected benefits payments of our primary U.S. plan to coupons and maturities from a hypothetical portfolio of high quality corporate bonds. Long-term rate of return assumptions are based on a review of our asset allocation strategy and long-term expected asset returns. Investment management and other fees paid using plan assets are factored into the determination of asset return assumptions.
+Assumptions as to mortality of the participants in our pension plan is a key estimate in measuring the expected payments participants may receive over their lifetime, and therefore the amount of expense we will recognize. We update our mortality assumptions as deemed necessary by taking into consideration relevant actuarial studies as they become available as well as reassessing our own historical experience. Disclosure of the significant assumptions used in arriving at the 2021 net pension expense is presented in Note 19, “Employee Benefit Plans,” in the Notes to Consolidated Financial Statements.
+As part of our strategy to manage future pension costs and net funded status volatility, we regularly assess our pension investment strategy. Our U.S. pension investment policy and strategy seek to reduce the effects of future volatility on the fair value of our pension assets relative to our pension liabilities by increasing our allocation of high quality, longer-term fixed income securities and reducing our allocation of equity investments as the funded status of the plan improves. The composition of our pension assets was 20% equity securities and alternative assets and 80% debt securities and other investments as of December 31, 2021. We continually evaluate our mix of investments between equity and fixed income securities and adjust the composition of our pension assets when appropriate. In 2022, we adjusted our long-term expected rate of return assumption for our primary U.S. plan to 3.60% from 3.90% based on our expected asset mix which has a higher proportion of debt securities.
+Accounting guidance applicable to pension plans does not require immediate recognition of the effects of a deviation between these assumptions and actual experience or the revision of an estimate. This approach allows the favorable and
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+unfavorable effects that fall within an acceptable range to be netted and included in “Accumulated other comprehensive loss.” We had a pre-tax accumulated actuarial loss of $706 million and $855 million as of December 31, 2021 and 2020, respectively. To the extent the amount of cumulative actuarial gains and losses exceed 10% of the greater of the benefit obligation or plan assets, the excess amount is primarily amortized over the average remaining life expectancy of participants. As of December 31, 2021, the amount of the actuarial loss subject to amortization in 2022 and future years is $472 million. In 2022, we expect to amortize $22 million of net actuarial loss as a component of pension expense. The effect on years beyond 2022 will depend substantially upon the actual experience of our plans in future years.
+A sensitivity analysis of 2022 net pension expense to changes in key underlying assumptions for our primary plan, the U.S. pension plan, is presented below:
+Assumed Rate Change Impact on 2022 Net Pension Expense Effect on
+December 31, 2021
+Projected Benefit Obligation
+Expected long-term rate of return on assets 3.60% +/- 0.25 +/- $4 million N/A
+Discount rate 2.95% + 0.25 NM - $50 million
+Discount rate 2.95% - 0.25 NM + $52 million
+Self-Insurance Accruals. Self-insurance accruals were $465 million and $444 million as of December 31, 2021 and 2020, respectively. The majority of our self-insurance relates to vehicle liability and workers’ compensation. We use a variety of statistical and actuarial methods that are widely used and accepted in the insurance industry to estimate amounts for claims that have been reported but not paid and claims incurred but not reported. In applying these methods and assessing their results, we consider such factors as frequency and severity of claims, claim development and payment patterns, and changes in the nature of our business, among others. Such factors are analyzed for each of our business segments. Our estimates may be impacted by such factors as increases in the market price for medical services, unpredictability of the size of jury awards and limitations inherent in the estimation process. We recognized a $6 million benefit in 2021, and a charge of $18 million in 2020 and 2019 from the development of estimated prior years' self-insured loss reserves. Based on self-insurance accruals at December 31, 2021, a 5% adverse change in actuarial claim loss estimates would increase operating expense in 2022 by approximately $23 million.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Goodwill Impairment. We assess goodwill for impairment, as described in Note 1, “Summary of Significant Accounting Policies - Goodwill and Other Intangible Assets,” in the Notes to Consolidated Financial Statements, on an annual basis or more often if deemed necessary. As of December 31, 2021, total goodwill was $571 million. To determine whether goodwill is impaired, we are required to assess the fair value of each reporting unit and compare it to its carrying value. A reporting unit is a component of an operating segment for which discrete financial information is available and management regularly reviews its operating performance.
+We assess goodwill for impairment on October 1st of each year or more often if deemed necessary. In evaluating goodwill for impairment, we have the option to first assess qualitative factors to determine whether further impairment testing is necessary, such as macroeconomic conditions, changes in our industry and the markets in which we operate, and our market capitalization as well as our reporting units' historical and expected future financial performance. If we conclude that it is more likely than not that a reporting unit's fair value is less than its carrying value or we bypass the optional qualitative assessment, recoverability is assessed by comparing the fair value of the reporting unit with its carrying amount. If a reporting unit's carrying value exceeds its fair value, we will measure any goodwill impairment losses as the amount by which the carrying amount of a reporting unit exceeds its fair value, not to exceed the total amount of goodwill allocated to that reporting unit.
+For quantitative tests, we estimated the fair value of the reporting units using a combination of both a market and income approach. Under the market approach, we use a selection of comparable publicly-traded companies that correspond to the reporting unit to derive a market-based multiple. Under the income approach, the fair value of the reporting unit is estimated based on the discounted present value of the projected future cash flows. Rates used to discount cash flows are dependent upon interest rates and the cost of capital based on our industry and capital structure, adjusted for equity and size risk premiums based on market capitalization. Estimates of future cash flows are dependent on our knowledge and experience about past and current events and significant judgments and assumptions about conditions we expect to exist, including revenue growth rates, margins, long-term growth rates, capital requirements, proceeds from the sale of used vehicles, the ability to utilize our tax net operating losses, and the discount rate. Our estimates of cash flows are also based on historical and future operating performance, economic conditions and actions we expect to take. In addition to these factors, our SCS and DTS reporting units are dependent on several key customers or industry sectors. The loss of a key customer may have a significant impact to our SCS or DTS reporting units, causing us to assess whether or not the event resulted in a goodwill impairment loss.
+In making our assessments of fair value, we rely on our knowledge and experience about past and current events and assumptions about conditions we expect to exist in the future. These assumptions are based on a number of factors, including future operating performance, economic conditions, actions we expect to take and present value techniques. There are inherent uncertainties related to these factors and management’s judgment in applying them to the analysis of goodwill impairment. It is possible that assumptions underlying the impairment analysis will change in such a manner that impairment in value may occur in the future. We conduct additional sensitivity analyses to assess the risk for potential impairment based upon changes in the key assumptions in our goodwill valuation test, including long-term growth rates and discount rates.
+On October 1, 2021, we completed our annual goodwill impairment test for all reporting units. Consistent with our rotation policy, we conducted a qualitative analysis for the FMS North America reporting unit and a quantitative test for our remaining reporting units. Based on these analyses, we determined that the fair values more likely than not exceeded their respective carrying values for each reporting unit.
+Income Taxes. Our overall tax position is complex and requires careful analysis by management to estimate the expected realization of income tax assets and liabilities.
+Tax regulations can require items to be included in the tax return at different times than the items are reflected in the financial statements. As a result, the effective tax rate reflected in the financial statements can be different than that reported in the tax return. Timing differences create deferred tax assets and liabilities. Deferred tax assets generally represent items that can be used as a tax deduction or credit in the tax return in future years, for which we have already recognized the tax benefit in the financial statements. Deferred tax assets were $651 million and $814 million as of December 31, 2021 and 2020, respectively. We recognize a valuation allowance for deferred tax assets to reduce such assets to amounts expected to be realized. As of December 31, 2021 and 2020, the deferred tax valuation allowance was $23 million and $41 million, respectively. In determining the required level of valuation allowance, we consider whether it is more likely than not that all or some portion of deferred tax assets will not be realized. This assessment is based on management’s expectations as to whether sufficient taxable income of an appropriate character will be realized within tax carryback and carryforward periods. Our assessment involves estimates and assumptions about matters that are inherently uncertain, and unanticipated events or circumstances could cause actual results to differ from these estimates. Should we change our estimate of the amount of deferred tax assets that we would
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+be able to realize, an adjustment to the valuation allowance would result in an increase or decrease to the provision for income taxes in the period such a change in estimate was made.
+As part of our calculation of the provision for income taxes, we determine whether the benefits of our tax positions are at least more likely than not of being sustained upon audit based on the technical merits of the tax position. We accrue the largest amount of the benefit that has a cumulative probability of greater than 50% of being sustained. These accruals require management to make estimates and judgments with respect to the ultimate outcome of a tax audit. Actual results could vary materially from these estimates.
+A number of years may elapse before a particular matter for which we have established a reserve is audited and finally resolved. The number of years exposed to audit due to open statutes varies depending on the tax jurisdiction. The tax benefit that has been previously reserved because of a failure to meet the “more likely than not” recognition threshold would be recognized in our income tax expense in the first interim period when the uncertainty is resolved under any one of the following conditions: (1) the tax position has been determined to be “more likely than not” of being sustained, (2) the tax position, amount and/or timing is ultimately settled through negotiation or litigation, or (3) the statutes of limitations for the tax position has expired. Refer to Note 11, “Income Taxes,” in the Notes to Consolidated Financial Statements for further discussion.
+RECENT ACCOUNTING PRONOUNCEMENTS
+Refer to Note 2, “Recent Accounting Pronouncements,” in the Notes to Consolidated Financial Statements for a discussion of recent accounting pronouncements.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+NON-GAAP FINANCIAL MEASURES
+Non-GAAP Financial Measures. This Annual Report on Form 10-K includes information extracted from consolidated financial information that is not required by U.S. GAAP to be presented in the financial statements. Certain elements of this information are considered “non-GAAP financial measures” as defined by SEC rules. Non-GAAP financial measures should be considered in addition to, but not as a substitute for or superior to, other measures of financial performance or liquidity prepared in accordance with U.S. GAAP. Also, our non-GAAP financial measures may not be comparable to financial measures used by other companies. We provide a reconciliation of each of these non-GAAP financial measures to the most comparable GAAP measure in this non-GAAP financial measures section or in the MD&A above. We also provide the reasons why management believes each non-GAAP financial measure is useful to investors in this section.
+Specifically, we refer to the following non-GAAP financial measures in this Form 10-K:
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Set forth in the table below is an overview of each non-GAAP financial measure and why management believes that presentation of each non-GAAP financial measure provides useful information to investors.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following table provides a reconciliation of GAAP earnings (loss) before taxes (EBT), earnings (loss), and earnings (loss) per diluted share (Diluted EPS) from continuing operations to comparable EBT, comparable earnings and comparable EPS. Certain items included in EBT, earnings and diluted EPS from continuing operations have been excluded from our comparable EBT, comparable earnings and comparable diluted EPS measures. The following table lists a summary of these items, which are discussed in more detail throughout our MD&A and within the Notes to Consolidated Financial Statements:
+Continuing Operations
+Years ended December 31,
+2021 2020 2019
+(In thousands, except per share amounts)
+EBT $ 692,640 $ (130,360) $ (42,271)
+Non-operating pension costs, net (1)
+(577) 11,167 60,406
+Restructuring and other, net (2)
+19,656 76,364 35,308
+ERP implementation costs (2)
+12,715 34,251 21,260
+Gains on sale of properties (2)
+(42,031) (5,418) (18,614)
+Early redemption of medium-term notes (2)
+- 8,999 -
+ChoiceLease liability insurance revenue (2)
+(777) (23,817) -
+Comparable EBT $ 681,626 $ (28,814) $ 56,089
+Earnings (loss) $ 521,598 $ (111,996) $ (23,272)
+Non-operating pension costs, net (1)
+(2,990) 5,273 44,852
+Restructuring and other, net (including ChoiceLease
+liability insurance results) (2)
+17,750 43,602 26,532
+ERP implementation costs (2)
+9,443 25,428 15,779
+Gains on sale of properties (2)
+(31,509) (5,027) (13,845)
+Early redemption of medium-term notes (2)
+- 6,863 -
+Tax adjustments, net (3)
+675 22,064 3,508
+Comparable Earnings $ 514,967 $ (13,793) $ 53,554
+Diluted EPS $ 9.70 $ (2.15) $ (0.45)
+Non-operating pension costs, net (1)
+(0.06) 0.10 0.85
+Restructuring and other, net (including ChoiceLease
+liability insurance results) (2)
+0.34 0.84 0.51
+ERP implementation costs (2)
+0.18 0.49 0.30
+Gains on sale of properties (2)
+(0.59) (0.10) (0.26)
+Early redemption of medium-term notes (2)
+- 0.13 -
+Tax adjustments, net (3)
+0.01 0.42 0.06
+Comparable EPS $ 9.58 $ (0.27) $ 1.01
+_______________
+(1)Refer to Note 19, “Employee Benefit Plans,” in the Notes to Consolidated Financial Statements for additional information.
+(2)Refer to Note 21, “Other Items Impacting Comparability,” in the Notes to Consolidated Financial Statements for additional information.
+(3)In 2021, adjustments include expense related to expiring state net operating losses. In 2020, adjustments include a valuation allowance of $13 million on our U.K. deferred tax assets, expiring state net operating losses of $7 million, and state law changes of $2 million. In 2019, adjustments primarily include expiring state net operating losses of $5 million.
+The following table provides a reconciliation of the effective tax rate to the comparable tax rate:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+Effective tax rate on continuing operations (1)
+24.7% (14.1)% (44.9)%
+Tax adjustments and income tax effects of non-GAAP adjustments (2)
+(0.2)% (38.0)% 49.4%
+Comparable tax rate on continuing operations (1)
+24.5% (52.1)% 4.5%
+_______________
+(1)The effective tax rate on continuing operations and comparable tax rate are based on EBT and comparable EBT, respectively, found on the previous page.
+(2)Refer to the table above for more information on tax adjustments. Income tax effects of non-GAAP adjustments are calculated based on the marginal tax rates to which the non-GAAP adjustments are related.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following table provides a reconciliation of earnings (loss) to comparable EBITDA:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+Net earnings (loss) $ 519,041 $ (122,250) $ (24,410)
+Loss from discontinued operations, net of tax 2,557 10,254 1,138
+Provision for (benefit from) income taxes 171,042 (18,364) (18,999)
+EBT 692,640 (130,360) (42,271)
+Non-operating pension costs, net (1)
+(577) 11,167 60,406
+Other items impacting comparability, net (2)
+(10,437) 90,379 37,954
+Comparable EBT 681,626 (28,814) 56,089
+Interest expense (3)
+213,892 252,343 241,381
+Depreciation 1,786,218 2,027,413 1,878,929
+Used vehicle sales, net (4)
+(257,402) (414) 58,706
+Amortization 8,146 7,730 8,294
+Comparable EBITDA $ 2,432,480 $ 2,258,258 $ 2,243,399
+_______________
+(1)Refer to Note 19, “Employee Benefit Plans,” in the Notes to Consolidated Financial Statements for additional information.
+(2)Refer to the table above in the Full Year Operating Results by Segment for a discussion on items excluded from our comparable measures and their classification within our Consolidated Statements of Earnings and Note 21, “Other Items Impacting Comparability” in the Notes to Consolidated Financial Statements for additional information.
+(3)In 2020, interest expense of $9 million recorded for the early redemption of two medium-term notes is excluded as it is presented above in "Other items impacting comparability, net."
+(4)Refer to Note 6,"Revenue Earning Equipment, net," in the Notes to Consolidated Financial Statements for additional information.
+The following table provides a reconciliation of total revenue to operating revenue:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+Total revenue $ 9,662,953 $ 8,420,091 $ 8,925,801
+Subcontracted transportation and fuel (1,833,732) (1,372,235) (1,701,469)
+ChoiceLease liability insurance revenue (1)
+(777) (23,817) (35,260)
+Operating revenue $ 7,828,444 $ 7,024,039 $ 7,189,072
+_______________
+(1)In the first quarter of 2021, we completed the previously announced exit of the extension of our liability insurance coverage for ChoiceLease customers.
+The following table provides a reconciliation of FMS total revenue to FMS operating revenue:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+FMS total revenue $ 5,678,948 $ 5,170,467 $ 5,571,403
+Fuel (737,640) (569,074) (816,362)
+ChoiceLease liability insurance revenue (1)
+(777) (23,817) (35,260)
+FMS operating revenue $ 4,940,531 $ 4,577,576 $ 4,719,781
+FMS EBT $ 663,090 $ (141,957) $ (70,274)
+FMS EBT as a % of FMS total revenue
+11.7% (2.7)% (1.3)%
+FMS EBT as a % of FMS operating revenue
+13.4% (3.1)% (1.5)%
+_______________
+(1)In the first quarter of 2021, we completed the previously announced exit of the extension of our liability insurance coverage for ChoiceLease customers.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following table provides a reconciliation of SCS total revenue to SCS operating revenue:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+SCS total revenue $ 3,154,798 $ 2,544,420 $ 2,551,271
+Subcontracted transportation and fuel (944,282) (674,054) (671,306)
+SCS operating revenue $ 2,210,516 $ 1,870,366 $ 1,879,965
+SCS EBT $ 117,351 $ 159,940 $ 145,060
+SCS EBT as a % of SCS total revenue 3.7% 6.3% 5.7%
+SCS EBT as a % of SCS operating revenue 5.3% 8.6% 7.7%
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following table provides a reconciliation of DTS total revenue to DTS operating revenue:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+DTS total revenue $ 1,457,188 $ 1,229,374 $ 1,417,483
+Subcontracted transportation and fuel (402,264) (300,127) (444,789)
+DTS operating revenue $ 1,054,924 $ 929,247 $ 972,694
+DTS EBT $ 49,058 $ 73,442 $ 81,149
+DTS EBT as a % of DTS total revenue 3.4% 6.0% 5.7%
+DTS EBT as a % of DTS operating revenue 4.7% 7.9% 8.3%
+The following tables provide numerical reconciliations of net earnings to adjusted net earnings and average shareholders' equity to adjusted average shareholders' equity (Adjusted ROE), and of the non-GAAP elements used to calculate the adjusted return on equity to the corresponding GAAP measures:
+Years ended December 31,
+2021 2020 2019
+(In thousands)
+Net earnings (loss) $ 519,041 $ (122,250) $ (24,410)
+Other items impacting comparability, net (1)
+(10,437) 90,379 37,954
+Income taxes (2)
+171,042 (18,333) (18,951)
+Adjusted earnings (loss) before income taxes 679,646 (50,204) (5,407)
+Adjusted income taxes (3)
+(164,245) 20,883 12,972
+Adjusted net earnings (loss) [A]
+$ 515,401 $ (29,321) $ 7,565
+Average shareholders’ equity $ 2,453,010 $ 2,256,830 $ 2,532,875
+Average adjustments to shareholders’ equity (4)
+14,436 59,680 14,988
+Adjusted average shareholders’ equity [B]
+$ 2,467,446 $ 2,316,510 $ 2,547,863
+Adjusted return on equity [A/B]
+20.9% (1.3)% 0.3%
+_______________
+(1)Refer to the table above in the Full Year Operating Results by Segment for a discussion on items excluded from our comparable measures and their classification within our Consolidated Statements of Earnings and Note 21, “Other Items Impacting Comparability” in the Notes to Consolidated Financial Statements for additional information.
+(2)Includes income taxes on discontinued operations.
+(3)Represents provision for income taxes plus income taxes on other items impacting comparability.
+(4)Represents the impact of other items impacting comparability, net of tax, to equity for the respective period.
+The following table provides a reconciliation of forecasted net cash provided by operating activities to forecasted total cash generated and forecasted free cash flow for 2022:
+Forecast 2022
+(In millions)
+Net cash provided by operating activities $ 2,250
+Proceeds from sales (primarily revenue earning equipment) (1)
+Total cash generated 3,000
+Purchases of property and revenue earning equipment (1)
+(2,800 - 2,700)
+Forecasted free cash flow $200 - $300
+_______________
+(1)Included in cash flows from investing activities.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+Forward-looking statements (within the meaning of the Federal Private Securities Litigation Reform Act of 1995) are statements that relate to expectations, beliefs, projections, future plans and strategies, anticipated events or trends concerning matters that are not historical facts. These statements are often preceded by or include the words “believe,” “expect,” “intend,” “estimate,” “anticipate,” “will,” “may,” “could,” “should” or similar expressions. This Annual Report contains forward-looking statements including statements regarding:
+•our expectations with respect to the ongoing effects of the COVID-19 pandemic, including the global supply chain disruption, on our business and financial results;
+•our expectations with respect to production shutdowns and their impact on our automotive business within the SCS and FMS business segments;
+•our expectations regarding supply of vehicles and its effect on pricing and demand;
+•our expectations of the long-term residual values of revenue earning equipment, including the probability of incurring losses or having to decrease residual value estimates in the event of a potential cyclical downturn;
+•our expectations regarding the effects of acquisitions on our SCS business segment;
+•our expectations regarding the impact of labor shortages on labor and subcontracted transportation costs;
+•our expectations in our FMS business segment regarding anticipated ChoiceLease pricing actions and revenue, fleet growth, sales volume and earnings;
+•our expectations in our SCS and DTS business segments regarding anticipated operating revenue, trends, earnings, sales activity and long-term growth;
+•our expectations regarding industry and market trends and their potential impact on our business;
+•the expected pricing for used vehicles and sales channel mix;
+•our expectations of cash flow from operating activities, free cash flow, and capital expenditures;
+•our expected future contractual cash obligations and commitments;
+•our ability to meet our objectives with the share repurchase programs;
+•the adequacy of our accounting estimates and reserves for goodwill and other asset impairments, residual values and other depreciation assumptions, deferred income taxes and annual effective tax rates, variable revenue considerations, the valuation of our pension plans, allowance for credit losses, and self-insurance loss reserves;
+•the adequacy of our fair value estimates of employee incentive awards under our share-based compensation plans, publicly traded debt and other debt;
+•the adequacy and timing of our fair value estimates for the purposes of our purchase consideration allocation with respect to acquisitions;
+•our ability to fund all of our operating, investing and financial needs for the foreseeable future through internally generated funds and outside funding sources;
+•our expected level of use and availability of outside funding sources, anticipated future payments under debt and lease agreements, and risk of losses resulting from counterparty default under hedging and derivative agreements;
+•the anticipated impact of fuel price, subcontracted transportation costs and exchange rate fluctuations;
+•our expectations as to return on pension plan assets, future pension expense and estimated contributions;
+•our expectations regarding the scope and anticipated outcomes with respect to certain claims, proceedings and lawsuits;
+•the ultimate disposition of estimated environmental liabilities;
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+•our ability to access commercial paper and other available debt financing in the capital markets;
+•the impact of our strategic investments;
+•our expectations regarding losses under guarantees;
+•the status of our unrecognized tax benefits related to the U.S. federal, state and foreign tax positions;
+•our expectation regarding the ability to realize our deferred tax assets;
+•our expectations regarding the completion and ultimate outcome of certain tax audits;
+•our intent to permanently reinvest the earnings of our non U.K. & Germany foreign subsidiaries indefinitely;
+•the anticipated impact of recent accounting pronouncements;
+•our intent to exit the FMS U.K. business, subject to consultation obligations under U.K. law; and
+•our expectations regarding the effect of changes to systems and processes on our internal control over financial reports.
+These statements, as well as other forward-looking statements contained in this Annual Report, are based on our current plans and expectations and are subject to risks, uncertainties and assumptions. We caution readers that certain important factors could cause actual results and events to differ significantly from those expressed in any forward-looking statements. These risk factors, among others, include the following:
+•Market Conditions:
+◦Changes in general economic and financial conditions in the U.S. and worldwide leading to decreased demand for our services and products, lower profit margins, increased levels of bad debt and reduced access to credit and financial markets.
+◦Decreases in freight demand which would impact both our transactional and variable-based contractual business.
+◦Changes in our customers’ operations, financial condition or business environment that may limit their demand for, or ability to purchase, our services and products.
+◦Decreases in market demand affecting the commercial rental market and used vehicle sales as well as global economic conditions.
+◦Volatility in customer volumes and shifting customer demand in the industries serviced by our SCS business.
+◦Changes in current financial, tax or regulatory requirements that could negatively impact our financial results.
+•Competition:
+◦Advances in technology may impact demand for our services or may require increased investments to remain competitive, and our customers may not be willing to accept higher prices to cover the cost of these investments.
+◦Competition from other service providers, some of which have greater capital resources or lower capital costs, or from our customers, who may choose to provide services themselves.
+◦Continued consolidation in the markets where we operate which may create large competitors with greater financial resources.
+◦Our inability to maintain current pricing levels due to economic conditions, demand for services, customer acceptance or competition.
+•Profitability:
+◦Lower than expected sales volumes or customer retention levels.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+◦Decreases in commercial rental fleet utilization and pricing.
+◦Lower than expected used vehicle sales pricing levels and fluctuations in the anticipated proportion of retail versus wholesale sales.
+◦Loss of key customers in our SCS and DTS business segments.
+◦Our inability to adapt our product offerings to meet changing consumer preferences on a cost-effective basis.
+◦The inability of our legacy information technology systems to provide timely access to data.
+◦Sudden changes in market fuel prices and fuel shortages.
+◦Higher prices for vehicles, diesel engines and fuel as a result of new regulations.
+◦Higher than expected maintenance costs and lower than expected benefits associated with our maintenance initiatives.
+◦Lower than expected revenue growth due to production delays at our automotive SCS customers, primarily related to the worldwide semiconductor supply shortage.
+◦The inability of an original equipment manufacturer or supplier to provide vehicles or components, primarily related to the worldwide semiconductor supply shortage.
+◦Our inability to successfully execute our strategic returns and asset management initiatives, maintain our fleet at normalized levels and right-size our fleet in line with demand.
+◦Our key assumptions and pricing structure, including any assumptions made with respect to inflation, of our SCS and DTS contracts prove to be inaccurate.
+◦Increased unionizing, labor strikes and work stoppages.
+◦Difficulties in attracting and retaining drivers and technicians due to driver and technician shortages, which may result in higher costs to procure drivers and technicians and higher turnover rates affecting our customers.
+◦Our inability to manage our cost structure.
+◦Our inability to limit our exposure for customer claims.
+◦Unfavorable or unanticipated outcomes in legal or regulatory proceedings or uncertain positions.
+◦Business interruptions or expenditures due to severe weather or other natural occurrences.
+•Financing Concerns:
+◦Higher borrowing costs.
+◦Unanticipated interest rate and currency exchange rate fluctuations.
+◦Negative funding status of our pension plans caused by lower than expected returns on invested assets and unanticipated changes in interest rates.
+◦Instability in U.S. and worldwide credit markets, resulting in higher borrowing costs and/or reduced access to credit.
+•Accounting Matters:
+◦Reductions in residual values or useful lives of revenue earning equipment.
+◦Increases in compensation levels, retirement rate and mortality resulting in higher pension expense; regulatory changes affecting pension estimates, accruals and expenses.
+◦Changes in accounting rules, assumptions and accruals.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+◦Difficulties related to recent implementation of our Enterprise Resource Planning system and related processes.
+•Other risks detailed from time to time in our SEC filings, including in “Item 1A. Risk Factors” of this Annual Report.
+New risk factors emerge from time to time and it is not possible for management to predict all such risk factors or to assess the impact of such risk factors on our business. As a result, no assurance can be given as to our future results or achievements. You should not place undue reliance on the forward-looking statements contained herein, which speak only as of the date of this Annual Report. We do not intend, or assume any obligation, to update or revise any forward-looking statements contained in this Annual Report, whether as a result of new information, future events or otherwise.
