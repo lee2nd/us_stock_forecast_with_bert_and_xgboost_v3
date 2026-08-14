@@ -126,9 +126,8 @@ The output report evaluates the model's accuracy on the test set, structured as 
 **NT$32,400** across three delivery milestones (v1: $6,000 → v2: $6,400 → v3: $20,000).
 
 ---
-## Changelog
 
-### Project completed and delivered
+## Project completed and delivered
 * v1 - 2024-05-23
 * v2 - 2024-06-21
 * v3 - 2024-08-04
