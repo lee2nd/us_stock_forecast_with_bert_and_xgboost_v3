@@ -8,7 +8,7 @@ This repository consolidates three iterative development cycles, each expanding 
 
 ## 🏗️ Pipeline Overview
 
-The final pipeline (v3) follows a modular three-stage structure, run separately on **old data** and **new data**. For the original hand-drawn flowchart of this architecture, please refer to v3需求3.JPG.
+The final pipeline (v3) follows a modular three-stage structure, run separately on **old data** and **new data**. For the original hand-drawn flowchart of this architecture.
 
 ```text
 Old Data ─┐
